@@ -176,6 +176,8 @@
 	<string key="mm_rejected_No_Ghost_Client">Server error: Failed to start replication.</string>
 	<string key="mm_rejected_Server_Crash">Unexpectedly lost contact with gameplay server, please try again later.</string>
 	<string key="mm_rejected_Free_Session_Expired">Free play time has ended.</string>
+	<string key="mm_rejected_Client_Kicked_Login_Ticket_Error">Login ticket is not valid for the world</string>
+	<string key="mm_rejected_Player_Not_Entitled_To_World">Access denied: Not entitled to this game world.</string>
 	<string key="mm_rejected_Client_Kicked_Title">Kicked</string>
 	<string key="mm_rejected_Client_Kicked_NoMessage">You have been kicked from the game.</string>
 	<string key="mm_rejected_Client_Kicked_AFK">You have been kicked from the game for being away too long.</string>
@@ -475,6 +477,7 @@
 	<string key="minspec_os_win7_warning">Warning: Windows 7 detected.  New World is best experienced on Windows 10 or greater.  Your experience may be sub-optimal.</string>
 	<string key="minspec_fail_try_again">Please check the failure log to further determine what minimum requirement is failing.</string>
 	<string key="ui_rename_character">Character Rename</string>
+	<string key="ui_rename">Rename</string>
 	<string key="ui_rename_character_title">Character Name</string>
 	<string key="ui_rename_report_description">Your Character's name was flagged as inappropriate. When logging back in, you will be asked to rename it.</string>
 	<string key="ui_rename_required">You are required to rename &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;{name}&lt;/font&gt;.</string>

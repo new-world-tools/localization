@@ -137,7 +137,7 @@
 	<string key="objective_thornhall_medea_desc" rel_version="Quest_MSQ2_Revamp">Release the crystal energy to stun enemies</string>
 	<string key="06A_Encounter_Medea_Boss_Obj_Enc_Title" rel_version="Quest_MSQ2_Revamp">Path of Thorns</string>
 	<string key="04A_Encounter_Remnant_Boss_Obj_Enc_Title" rel_version="Quest_MSQ2_Revamp">The Final Trial</string>
-	<string key="04A_Encounter_Remnant_Boss_Obj_Enc_Title_desc" rel_version="Quest_MSQ2_Revamp">Overcome the Remnant.</string>
+	<string key="04A_Encounter_Remnant_Boss_Obj_Enc_Title_description" rel_version="Quest_MSQ2_Revamp">Overcome the Remnant.</string>
 	<string key="04A_Encounter_Remnant_Boss_Obj_Enc_task_defeat" rel_version="Quest_MSQ2_Revamp">Defeat the Remnant</string>
 	<string key="04A_Encounter_Remnant_Boss_Obj_Enc_task_defeat_desc" rel_version="Quest_MSQ2_Revamp">Weaken the Remnant by destroying Inert Remnants near it.</string>
 	<string key="04A_Encounter_Remnant_Boss_Obj_Enc_task_setup" rel_version="Quest_MSQ2_Revamp">Approach the Remnant</string>

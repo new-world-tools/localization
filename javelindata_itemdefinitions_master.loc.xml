@@ -2197,6 +2197,10 @@
 	<string key="1625_0201_AnimatedSands_MasterName" rel_version="Territory_Brimstone_Sands">Animated Sands</string>
 	<string key="1625_0502_ImhotepRemedy_Description" rel_version="Territory_Brimstone_Sands">A concoction from local herbs, created by Ghazi to aid the symptoms of Aeon Madness</string>
 	<string key="1625_0502_ImhotepRemedy_MasterName" rel_version="Territory_Brimstone_Sands">Imhotep's Remedy</string>
+	<string key="1625_0502_AlligatorTeeth_Description" rel_version="Territory_Brimstone_Sands">Teeth pulled from the mouth of an angry alligator</string>
+	<string key="1625_0502_AlligatorTeeth_MasterName" rel_version="Territory_Brimstone_Sands">Alligator Teeth</string>
+	<string key="1625_0502_AquaBittern_Description" rel_version="Territory_Brimstone_Sands">A bitter solution remaining after salt has been removed from sea water</string>
+	<string key="1625_0502_AquaBittern_MasterName" rel_version="Territory_Brimstone_Sands">Aqua Bittern</string>
 	<string key="1625_0601_EyeOfHorus_Description" rel_version="Territory_Brimstone_Sands">A golden Eye of Horus, covered in a thin sheen of azoth quintessence</string>
 	<string key="1625_0601_EyeOfHorus_MasterName" rel_version="Territory_Brimstone_Sands">Eye of Horus</string>
 	<string key="1625_0701_ImhotepsStaff_T5_Description" rel_version="Territory_Brimstone_Sands">Taken as a trophy from a bout with the darker side of a Great Pharaoh's personality. It seems to be a reflection of something, as if it doesn't feel like it quite belongs here.</string>
@@ -35568,5 +35572,7 @@
 	<string key="Playtest_Box_Weapons_Runeglass_MasterName" rel_version="Feature_Runeglass">Playtester Weapon Box with Runeglass</string>
 	<string key="WritofAdventure_MasterName">Writ of Adventure</string>
 	<string key="WritofAdventure_Description">An account of your deeds! This is a crafting material used to craft runes.</string>
+	<string key="Oct2022Prime_Container_2_MasterName" rel_version="Entitlements_October_2022">Fruit of the Dunes Resource Chest</string>
+	<string key="Oct2022Prime_Container_2_Description" rel_version="Entitlements_October_2022">A resource chest of items hand-selected from a land of sand.</string>
 </resources>
 

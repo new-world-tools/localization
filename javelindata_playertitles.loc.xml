@@ -785,10 +785,6 @@
 	<string key="ui_playertitle_special_superdeluxe_SHE">Desert Vanguard</string>
 	<string key="ui_playertitle_special_superdeluxe_THEY">Desert Vanguard</string>
 	<string key="ui_playertitle_superdeluxe_description">First to explore the mysterious deserts of Aeternum.</string>
-	<string key="ui_playertitle_freshstart">Tabula Rasa Vitae Aeternum</string>
-	<string key="ui_playertitle_freshstart_SHE">Tabula Rasa Vitae Aeternum</string>
-	<string key="ui_playertitle_freshstart_THEY">Tabula Rasa Vitae Aeternum</string>
-	<string key="ui_playertitle_freshstart_description">Earned by joining a Fresh Start World.</string>
 	<string key="ui_playertitle_brimstone_allsq" rel_version="Territory_Brimstone_Sands">Desert Hawk</string>
 	<string key="ui_playertitle_brimstone_allsq_SHE" rel_version="Territory_Brimstone_Sands">Desert Hawk</string>
 	<string key="ui_playertitle_brimstone_allsq_THEY" rel_version="Territory_Brimstone_Sands">Desert Hawk</string>
