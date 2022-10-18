@@ -877,7 +877,6 @@
 	<string key="ui_ghost_structure_count_exceeded_warning">At building plan limit (%d / %d)</string>
 	<string key="ui_ghost_structure_count_warning">Building plan limit %d / %d</string>
 	<string key="ui_escape_build_mode">Press Escape To Exit Build Mode</string>
-	<string key="ui_escape_cinematic_skip">Escape To Skip</string>
 	<string key="ui_feedback_format">SUBMIT FEEDBACK</string>
 	<string key="ui_feedback_general">General</string>
 	<string key="ui_in_game_survey_header">Are you enjoying new world?</string>
@@ -1851,6 +1850,8 @@
 	<string key="ui_server_utc_-3">BRT</string>
 	<string key="ui_server_utc_1">CET</string>
 	<string key="ui_server_utc_dst_1">CEST</string>
+	<string key="ui_server_utc_9">JST</string>
+	<string key="ui_server_utc_dst_9">JST</string>
 	<string key="ui_server_utc_10">AEST</string>
 	<string key="ui_server_utc_dst_10">AEDT</string>
 	<string key="ui_date_format" comment="{dayOfWeek} is abbreviated day text ('Mon', 'Tues'). {month} will be abbreviated month text ('Jan', 'Feb', etc.). {date} is the number of day of the month. The English format might be 'Mon, Oct 29'">{dayOfWeek}, {month} {date}</string>
