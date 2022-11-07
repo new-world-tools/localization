@@ -472,7 +472,7 @@
 	<string key="server_transfer_unavailable_transfer_world_full" rel_version="Feature_Server_Transfer">This region's transfer list is full, please try again in a few hours</string>
 	<string key="server_transfer_unavailable_target_region_characters_slots_full" rel_version="Feature_Server_Transfer">Character slots in this region are full. You will need to delete or transfer an existing character in this region before you can transfer in another one.</string>
 	<string key="server_transfer_unavailable_freshstart" rel_version="Feature_FreshStart">Only new characters can be created in this Fresh Start World. Characters cannot transfer to or from this Fresh Start World.</string>
-	<string key="server_transfer_unavailable_bfnw" rel_version="Feature_BFNW">Only players participating in Battle For New World can create characters on this world. Characters cannot transfer to or from this World.</string>
+	<string key="server_transfer_unavailable_bfnw" rel_version="Feature_BFNW">Only players participating in Return to Aeternum can create characters on this world. Characters cannot transfer to or from this World.</string>
 	<string key="server_transfer_more_details" rel_version="Feature_Server_Transfer">For more details see</string>
 	<string key="server_transfer_transfer_faq" rel_version="Feature_Server_Transfer">Region Transfer FAQ</string>
 	<string key="server_transfer_final_details" rel_version="Feature_Server_Transfer">Confirming Transfer will log you out to the Character Select Main Menu.</string>

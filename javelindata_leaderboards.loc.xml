@@ -94,7 +94,7 @@
 	<string key="ui_leaderboard_display_invasion_kills" rel_version="Feature_Leaderboards">Kills</string>
 	<string key="ui_leaderboard_display_invasion_kill_death" rel_version="Feature_Leaderboards">Kill Death Ratio</string>
 	<string key="ui_leaderboard_display_invasion_damage_dealt" rel_version="Feature_Leaderboards">Damage Dealt</string>
-	<string key="ui_leaderboard_character_empty_leaderboard" rel_version="Feature_Leaderboards">Participate to receive a rank</string>
+	<string key="ui_leaderboard_character_empty_leaderboard" rel_version="Feature_Leaderboards">You are not currently ranked on this leaderboard</string>
 	<string key="ui_leaderboard_faction_no_faction" rel_version="Feature_Leaderboards">Join a faction to participate</string>
 	<string key="ui_leaderboard_faction_no_company" rel_version="Feature_Leaderboards">Join a company to participate</string>
 	<string key="ui_leaderboard_error_nodata" rel_version="Feature_Leaderboards">No data has been tracked</string>
@@ -143,7 +143,8 @@
 	<string key="ui_leaderboard_territory_all" rel_version="Feature_Leaderboards">All Territories</string>
 	<string key="ui_leaderboard_row_rank_morethan" rel_version="Feature_Leaderboards">>{number}</string>
 	<string key="ui_leaderboard_with_gold" rel_version="Feature_Leaderboards">With &lt;img src="lyshineui/images/dungeons/mutator_rank_gold_sm" scale="2.0" xPadding="0" yOffset="5"&gt;&lt;/img&gt; &lt;font color={color}&gt; Gold Rank&lt;/font&gt;</string>
-	<string key="ui_leaderboard_company_deleted" rel_version="Feature_Leaderboards">Company Deleted</string>
+	<string key="ui_leaderboard_company_deleted" rel_version="Feature_Leaderboards">(Company Deleted)</string>
+	<string key="ui_leaderboard_player_deleted" rel_version="Feature_Leaderboards">(Player Deleted)</string>
 	<string key="ui_leaderboard_rewards_place1" rel_version="Feature_Leaderboards">1st</string>
 	<string key="ui_leaderboard_rewards_place2" rel_version="Feature_Leaderboards">Top 10</string>
 </resources>

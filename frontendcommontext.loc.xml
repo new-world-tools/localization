@@ -390,6 +390,9 @@
 	<string key="ui_leaderboard_rewards_week_count" rel_version="Feature_Leaderboards">Week {number}</string>
 	<string key="ui_leaderboard_rewards_month_count" rel_version="Feature_Leaderboards">Month {number}</string>
 	<string key="ui_leaderboard_rewards_season_count" rel_version="Feature_Leaderboards">Quarter {number}</string>
+	<string key="ui_leaderboard_rewards_this_week_count" rel_version="Feature_Leaderboards">Week {number} (This Week)</string>
+	<string key="ui_leaderboard_rewards_this_month_count" rel_version="Feature_Leaderboards">Month {number} (This Month)</string>
+	<string key="ui_leaderboard_rewards_this_season_count" rel_version="Feature_Leaderboards">Quarter {number} (This Quarter)</string>
 	<string key="ui_leaderboard_rewards_season" rel_version="Feature_Leaderboards">This Quarter</string>
 	<string key="ui_leaderboard_rewards_owned" rel_version="Feature_Leaderboards">Owned</string>
 	<string key="ui_leaderboard_rewards_earned" rel_version="Feature_Leaderboards">Earned</string>

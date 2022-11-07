@@ -2173,7 +2173,7 @@
 	<string key="ui_clusterwarning_description1">If you want to play in another {worldSetName} World, you will need to delete this character in {worldName}</string>
 	<string key="ui_clusterwarning_description2">If you have friends playing in other {worldSetName} Worlds, you will not be able to play with them.</string>
 	<string key="ui_clusterwarning_freshstart" rel_version="Feature_FreshStart">Only new characters can be created in {worldName}. Characters cannot transfer to and from this Fresh Start World.</string>
-	<string key="ui_clusterwarning_bfnw" rel_version="Feature_BFNW">Only Battle for New World participants can create characters in {worldName}. Characters cannot transfer to and from this world.</string>
+	<string key="ui_clusterwarning_bfnw" rel_version="Feature_BFNW">Only Return to Aeternum participants can create characters in {worldName}. Characters cannot transfer to and from this world.</string>
 	<string key="ui_clusterwarning_non_freshstart">Characters may transfer to and from this world.</string>
 	<string key="ui_clusterwarning_transferoutonly">Characters cannot transfer to this world.\nCharacters may transfer from this world.</string>
 	<string key="ui_clusterwarning_transferinonly">Characters may transfer to this world.\nCharacters cannot transfer from this world.</string>
@@ -2555,7 +2555,7 @@
 	<string key="ui_endgame_banner_text2">&lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#ffdb7a"&gt;Outpost Rush&lt;/font&gt;, a 20 v 20 battleground</string>
 	<string key="ui_endgame_banner_text3">&lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#ffdb7a"&gt;Elite&lt;/font&gt; landmarks, Trial Arenas, and open world challenges for groups</string>
 	<string key="ui_endgame_banner_text4">Visit a &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#ffdb7a"&gt;Gypsum Kiln&lt;/font&gt; to upgrade your gear</string>
-	<string key="ui_endgame_banner_subtitle">Welcome to Endgame</string>
+	<string key="ui_endgame_banner_subtitle">Your journey has just begun...</string>
 	<string key="ui_freeweekend_guide_tab" rel_version="Feature_FreeWeekend">Free Weekend</string>
 	<string key="ui_freeweekend_guide_title1" rel_version="Feature_FreeWeekend">Welcome to Aeternum!</string>
 	<string key="ui_freeweekend_guide_title2" rel_version="Feature_FreeWeekend">Find Friends &amp; Activities</string>
