@@ -101,6 +101,7 @@
 	<string key="ui_leaderboard_error_nodata_filter" rel_version="Feature_Leaderboards">This data is not tracked by {filter}</string>
 	<string key="ui_leaderboard_error_norewards" rel_version="Feature_Leaderboards">{type} does not have rewards</string>
 	<string key="ui_leaderboard_error_norewards_this" rel_version="Feature_Leaderboards">This {type} does not have rewards</string>
+	<string key="ui_leaderboard_error_norewards_byfaction" rel_version="Feature_Leaderboards">{type} by Faction does not have rewards</string>
 	<string key="ui_leaderboard_error_nottracked" rel_version="Feature_Leaderboards">This leaderboard is not tracked by {filter}</string>
 	<string key="ui_leaderboard_error_noboard" rel_version="Feature_Leaderboards">There is no {rotation} Leaderboard for this category.</string>
 	<string key="ui_leaderboard_page_count" rel_version="Feature_Leaderboards">Page {current} of {total}</string>

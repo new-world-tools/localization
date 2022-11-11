@@ -569,6 +569,7 @@
 	<string key="ui_siege_signup_failed_banned">You have been removed from the roster by the governing company and cannot rejoin their army.</string>
 	<string key="ui_siege_signup_failed_on_defensive_cooldown">You recently left a company and cannot fight in a defensive war for your company for 72 hours</string>
 	<string key="ui_siege_signup_failed_territory_not_unlocked_yet">You do not have access to this territory yet.</string>
+	<string key="ui_siege_signup_failed_warinprogress">Signups are no longer being accepted since the war or invasion has already started.</string>
 	<string key="ui_siege_signup_failed">There was a problem signing up for this war.</string>
 	<string key="ui_siege_signup_dailywarlimit_attacker_refreshlabel">Attacker War Limit refreshes in:</string>
 	<string key="ui_siege_signup_dailywarlimit_defender_refreshlabel">Defender War Limit refreshes in:</string>
@@ -626,6 +627,7 @@
 	<string key="ui_how_does_invasion_work">How does Invasion work?</string>
 	<string key="ui_signup_restriction_tooltip">You cannot sign up for your faction's opponent.</string>
 	<string key="ui_signup_nofaction_tooltip">You must have a faction to sign up for a war.</string>
+	<string key="ui_signup_warinprogress_tooltip">You cannot sign up for a war or invasion that is already in progress.</string>
 	<string key="ui_signup_not_available">Sign up not available</string>
 	<string key="ui_signup_level_requirement">&lt;font color="#ff6363"&gt;Player level {level}&lt;/font&gt; &lt;font color="#c0c0c0"&gt; is required to sign up.&lt;/font&gt;</string>
 	<string key="ui_signup_count">&lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{number}&lt;/font&gt;&lt;/font&gt; Players signed up</string>

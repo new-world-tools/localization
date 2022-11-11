@@ -1150,7 +1150,7 @@
 	<string key="PerkID_Ability_Musket_PowerShot_Name">Refreshing Power Shot</string>
 	<string key="PerkID_Ability_Musket_PowerShot_Description">Power Shot kills reduce this ability's cooldown by {[GlobalAbilityTable.GlobalPerk_Ability_Musket_PowerShot.CooldownTimer * -100 * {perkMultiplier}]}%.</string>
 	<string key="PerkID_Ability_Musket_ShootersStance_Name">Empowering Shooter's Stance</string>
-	<string key="PerkID_Ability_Musket_ShootersStance_Description">Hitting a target while in Shooter's Stance grants Empower, increasing damage by {[Type_StatusEffectData.Status_Perk_Musket_ShootersStance_Empower.DMGStandard * 100 * {perkMultiplier}]}% for {[Type_StatusEffectData.Status_Perk_Musket_ShootersStance_Empower.BaseDuration]} seconds.</string>
+	<string key="PerkID_Ability_Musket_ShootersStance_Description">Hitting a target while in Shooter's Stance grants a stack of Empower, increasing damage by {[Type_StatusEffectData.Status_Perk_Musket_ShootersStance_Empower.DMGStandard * 100 * {perkMultiplier}]}% for {[Type_StatusEffectData.Status_Perk_Musket_ShootersStance_Empower.BaseDuration]} seconds. Effect is removed when stance is exited. (Max {[Type_StatusEffectData.Status_Perk_Musket_ShootersStance_Empower.StackMax]} stacks)</string>
 	<string key="PerkID_Ability_Musket_StoppingPower_Name">Repulsing Stopping Power</string>
 	<string key="PerkID_Ability_Musket_StoppingPower_Description">Stopping Power knockback distance is increased by {[GlobalAbilityTable.GlobalPerk_Ability_Musket_StoppingPower.Knockback * 100 * {perkMultiplier}]}%.</string>
 	<string key="PerkID_Ability_Musket_Traps_Name">Accelerating Traps</string>

@@ -927,14 +927,14 @@
 	<string key="ui_crestforeground_223" rel_version="Crest_Pack_Nightmares">Baalphazu's Haunt</string>
 	<string key="ui_crestforeground_224" rel_version="Crest_Pack_Nightmares">Pumpkinite In Flight</string>
 	<string key="Bundle_Decor_DarkFae_name" rel_version="Housing_DarkFae_MTX_Pack_2022">Dusk Sylph Décor Bundle</string>
-	<string key="Bundle_Decor_DarkFae_description" rel_version="Housing_DarkFae_MTX_Pack_2022">Your fine fae guests will feel right at home in these lavish and enchanted furnishings.</string>
+	<string key="Bundle_Decor_DarkFae_description" rel_version="Housing_DarkFae_MTX_Pack_2022">Your fine guests will feel right at home in these lavish and enchanted furnishings.</string>
 	<string key="Bundle_Decor_Winter2022_name" rel_version="Housing_Winter_MTX_Pack_2022">Wintery Comforts Décor  Bundle</string>
 	<string key="Bundle_Decor_Winter2022_description" rel_version="Housing_Winter_MTX_Pack_2022">Something warm and comforting to cling to when the winter winds blow and nightmare-ish creatures howl.</string>
-	<string key="Bundle_Tool_DarkFae_name" rel_version="ToolSkins_DarkFae_MTX">Dusk Fae Toolset</string>
+	<string key="Bundle_Tool_DarkFae_name" rel_version="ToolSkins_DarkFae_MTX">Dusk Spirit Toolset</string>
 	<string key="Bundle_Tool_DarkFae_description" rel_version="ToolSkins_DarkFae_MTX">The mystical spirits that guard the land that have imbued this toolset with their knowledge of how to best harvest its resources.</string>
 	<string key="Apparel_WinterConv2022_1_name" rel_version="Apparel_Winter_Conv_MTX_1">Winter Stag</string>
 	<string key="Apparel_WinterConv2022_1_description" rel_version="Apparel_Winter_Conv_MTX_1">You can feel the uncanny warmth of winter within you.</string>
-	<string key="Apparel_WinterConv2022_Deluxe_name" rel_version="Apparel_Winter_Conv_MTX_3">Convergence Roisteror</string>
+	<string key="Apparel_WinterConv2022_Deluxe_name" rel_version="Apparel_Winter_Conv_MTX_3">Convergence Roisterer</string>
 	<string key="Apparel_WinterConv2022_Deluxe_description" rel_version="Apparel_Winter_Conv_MTX_3">Celebrants have used such clothing during the Convergence for many centuries.</string>
 	<string key="Apparel_WinterConv2022_Prime_name" rel_version="Apparel_Winter_Conv_Prime_1">Solstice Knight</string>
 	<string key="Apparel_WinterConv2022_Prime_description" rel_version="Apparel_Winter_Conv_Prime_1">Their true purpose has been forgotten for centuries, but such ceremonial knights guard us during our celebrations.</string>
@@ -943,9 +943,9 @@
 	<string key="ui_crestforeground_227" rel_version="Crest_Pack_Winter_Conv">Convergence Yeti</string>
 	<string key="Bundle_Crest_WinterConv2022_name" rel_version="Crest_Pack_Winter_Conv">Winter Convergence Crest Pack</string>
 	<string key="Bundle_Crest_WinterConv2022_description" rel_version="Crest_Pack_Winter_Conv">Show your holiday spirit and love of tradition.</string>
-	<string key="Bundle_PR_DarkFae_Apparel_name" rel_version="Entitlements_DarkFae_MTX">Dusk Fae Apparel Bundle</string>
-	<string key="Bundle_PR_DarkFae_Apparel_description" rel_version="Entitlements_DarkFae_MTX">While Aeternum is rife with corrupted souls, one can also find delicate and enchanting magic among the fae spirits.</string>
-	<string key="Bundle_PR_DarkFae_Weapon_name" rel_version="Entitlements_DarkFae_MTX">Dusk Fae Weapon Bundle</string>
+	<string key="Bundle_PR_DarkFae_Apparel_name" rel_version="Entitlements_DarkFae_MTX">Dusk Spirit Apparel Bundle</string>
+	<string key="Bundle_PR_DarkFae_Apparel_description" rel_version="Entitlements_DarkFae_MTX">While Aeternum is rife with corrupted souls, one can also find delicate and enchanting magic among its many spirits.</string>
+	<string key="Bundle_PR_DarkFae_Weapon_name" rel_version="Entitlements_DarkFae_MTX">Dusk Spirit Weapon Bundle</string>
 	<string key="Bundle_PR_DarkFae_Weapon_description" rel_version="Entitlements_DarkFae_MTX">The results are both unpredictable and enchanting when using weapons blessed by the spirits of the wild.</string>
 	<string key="Bundle_PR_WinterConv2022_Apparel_name" rel_version="Weapon_Winter_Conv_Greatsword_MTX">Winter Convergence Apparel Bundle</string>
 	<string key="Bundle_PR_WinterConv2022_Apparel_description" rel_version="Weapon_Winter_Conv_Greatsword_MTX">Stave off forever winter in festive spirit with these seasonal outfits!</string>
