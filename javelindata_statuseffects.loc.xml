@@ -1457,6 +1457,7 @@
 	<string key="Status_Passive_Lifestaff_Protection_HealingOnDodge_description">Your healing is increased by {[Type_StatusEffectData.Status_Passive_Lifestaff_Protection_HealingOnDodge.HealScalingValueMultiplier * 100]}%.</string>
 	<string key="Status_Passive_Lifestaff_Protection_HasteWhenLow_description">Your movement speed reduced by {[Type_StatusEffectData.Status_Passive_Lifestaff_Protection_HasteWhenLow.SprintSpeedMod * 100]}%.</string>
 	<string key="Status_Passive_Lifestaff_Protection_HasteWhenLow_Timer_description">When this ends you can trigger Balance again.</string>
+	<string key="Status_Passive_Lifestaff_Healing_HealingBuffonBasic_name">Intensify</string>
 	<string key="Status_Passive_Lifestaff_Healing_HealingBuffonBasic_description">Your healing is increased by {[Type_StatusEffectData.Status_Passive_Lifestaff_Healing_HealingBuffonBasic.HealScalingValueMultiplier * 100]}%.</string>
 	<string key="Status_Passive_Lifestaff_Healing_AoeHealWhenHit_description">Healing aura active for you and nearby friends in a 4m radius healing for {[Type_StatusEffectData.Status_Passive_Lifestaff_Healing_AoeHealWhenHit.HealthModifierDamageBased * 100]}% weapon damage each second.</string>
 	<string key="Status_Ability_Lifestaff_SacredGround">Sacred Ground</string>

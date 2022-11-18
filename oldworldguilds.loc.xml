@@ -158,6 +158,7 @@
 	<string key="owg_rank_unlock_tooltip">You need to meet all requirements in order to unlock the next rank.</string>
 	<string key="owg_rank_unlocked">Rank {rankName} Unlocked!</string>
 	<string key="owg_refresh_message">A new mission will be available soon</string>
+	<string key="owg_no_pvp_missions_available">PvP missions cannot be accepted or completed at enclaves</string>
 	<string key="owg_replacepopup_body">Are you sure you want to abandon your current mission to start this one?\n\nAbandoning your current mission will result in &lt;font color="#f2e8ae"&gt;{amount} Faction Tokens&lt;/font&gt; with the &lt;font color="#ffffff"&gt;{guildName}&lt;/font&gt;.</string>
 	<string key="owg_replacepopup_title">REPLACE CURRENT MISSION</string>
 	<string key="owg_required_currency">{amount} Required Coin</string>

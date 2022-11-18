@@ -3164,80 +3164,81 @@
 	<string key="ui_metachievement_quest_windsward_mercy_desc">Convinced Medea to give Windsward a second chance.</string>
 	<string key="ui_metachievement_questarc_fishingtraining_desc">Complete the fishing quest arc that starts with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Fishing With Shields&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questtotals_generic_desc">Complete {number} quests.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_dynasty_shipyard_top1_score_desc">Earned by placing 1st on the Dynasty Shipyard Difficulty 10 Score Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_dynasty_shipyard_top10_score_desc">Earned by placing Top 10 on the Dynasty Shipyard Difficulty 10 Score Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_garden_of_genesis_top1_score_desc">Earned by placing 1st on the Garden of Genesis Difficulty 10 Score Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_garden_of_genesis_top10_score_desc">Earned by placing Top 10 on the Garden of Genesis Difficulty 10 Score Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_lazarus_instrumentality_top1_score_desc">Earned by placing 1st on the Lazarus Instrumentality Difficulty 10 Score Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_lazarus_instrumentality_top10_score_desc">Earned by placing Top 10 on theLazarus Instrumentality Difficulty 10 Score Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_tempest_heart_top1_score_desc">Earned by placing 1st on the Tempest Heart Difficulty 10 Score Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_tempest_heart_top10_score_desc">Place in the Top 10 on the Tempest Heart Difficulty 10 Score Weekly Leaderboards.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_barnacles_top1_score_desc">Earned by placing 1st on the Barnacles and Black Powder Difficulty 10 Score Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_barnacles_top10_score_desc">Earned by placing Top 10 on the Barnacles and Black Powder Difficulty 10 Score Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_brimstone_top1_score_desc">Earned by placing 1st on The Ennead Difficulty 10 Score Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_brimstone_top10_score_desc">Earned by placing Top 10 on The Ennead Difficulty 10 Score Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_depths_top1_score_desc">Earned by placing 1st on The Depths Difficulty 10 Score Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_depths_top10_score_desc">Earned by placing Top 10 on The Depths Difficulty 10 Score Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_starstone_top1_score_desc">Earned by placing 1st on the Starstone Barrows Difficulty 10 Score Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_starstone_top10_score_desc">Earned by placing Top 10 on the Starstone Barrows Difficulty 10 Score Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_dynasty_shipyard_top1_time_desc">Earned by placing 1st on the Dynasty Shipyard Difficulty 10 Clear Time Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_dynasty_shipyard_top10_time_desc">Earned by placing Top 10 on the Dynasty Shipyard Difficulty 10 Clear Time Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_garden_of_genesis_top1_time_desc">Earned by placing 1st on the Garden of Genesis Difficulty 10 Clear Time Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_garden_of_genesis_top10_time_desc">Place in the Top 10 on the Garden of Genesis Difficulty 10 Clear Time Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_lazarus_instrumentality_top1_time_desc">Earned by placing 1st on the Lazarus Instrumentality Difficulty 10 Clear Time Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_lazarus_instrumentality_top10_time_desc">Earned by placing Top 10 on the Lazarus Instrumentality Difficulty 10 Clear Time Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_tempest_heart_top1_time_desc">Earned by placing 1st on the Tempest Heart Difficulty 10 Clear Time Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_tempest_heart_top10_time_desc">Earned by placing Top 10 on the Tempest Heart Difficulty 10 Clear Time Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_barnacles_top1_time_desc">Earned by placing 1st on the Barnacles and Black Powder Difficulty 10 Clear Time Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_barnacles_top10_time_desc">Earned by placing Top 10 on the Barnacles and Black Powder Difficulty 10 Clear Time Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_brimstone_top1_time_desc">Earned by placing 1st on The Ennead Difficulty 10 Clear Time Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_brimstone_top10_time_desc">Earned by placing Top 10 on The Ennead Difficulty 10 Clear Time Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_depths_top1_time_desc">Earned by placing 1st on The Depths Difficulty 10 Clear Time Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_depths_top10_time_desc">Earned by placing Top 10 on The Depths Difficulty 10 Clear Time Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_starstone_top1_time_desc">Earned by placing 1st on the Starstone Barrows Difficulty 10 Clear Time Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_starstone_top10_time_desc">Earned by placing Top 10 on the Starstone Barrows Difficulty 10 Clear Time Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_siren_queen_top1_completion_desc">Earned by placing 1st on The Siren Queen Quarterly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_siren_queen_top10_completion_desc">Earned by placing Top 10 on The Siren Queen Quarterly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_eternal_pools_top1_completion_desc">Earned by placing 1st on the Eternal Pools Quarterly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_eternal_pools_top10_completion_desc">Earned by placing Top 10 on the Eternal Pools Quarterly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_monoecious_cleft_top1_completion_desc">Earned by placing 1st on the Monoecious Cleft Quarterly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_monoecious_cleft_top10_completion_desc">Earned by placing Top 10 on the Monoecious Cleft Quarterly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_open_world_pvp_influence_top1_desc">Earned by placing 1st on the Influence Earned Quarterly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_open_world_pvp_influence_top10_desc">Earned by placing Top 10 on the Influence Earned Quarterly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_outpost_rush_top1_score_desc">Earned by placing 1st on the Outpost Rush Score Quarterly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_outpost_rush_top10_score_desc">Earned by placing Top 10 on the Outpost Rush Score Quarterly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_darkness_breach_top1_score_desc">Earned by placing 1st on the Corruption Breach Score Quarterly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_darkness_breach_top10_score_desc">Earned by placing Top 10 on the Corruption Breach Score Quarterly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_invasion_top1_score_desc">Earned by placing 1st on the Invasion Score Quarterly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_invasion_top10_score_desc">Earned by placing Top 10 on the Invasion Score Quarterly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_war_top1_score_desc">Earned by placing 1st on the War Score Quarterly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_war_top10_score_desc">Earned by placing Top 10 on the War Score Quarterly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_cutlass_keys_leaderboard_top1_company_score_desc">Earned by placing 1st on the Cutlass Keys Days Governed Quarterly Leaderboard. </string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_cutlass_keys_leaderboard_top10_company_score_desc">Earned by placing Top 10 on the Cutlass Keys Days Governed Quarterly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_first_light_leaderboard_top1_company_score_desc">Earned by placing 1st on the First Light Days Governed Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_first_light_leaderboard_top10_company_score_desc">Place in the top 10 for First Light company score on the leaderboards</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_windsward_leaderboard_top1_company_score_desc">Earned by placing Top 10 on the First Light Days Governed Leaderboard. </string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_windsward_leaderboard_top10_company_score_desc">Earned by placing Top 10 on the Windsward Days Governed Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_reekwater_leaderboard_top1_company_score_desc">Earned by placing 1st on the Reekwater Days Governed Leaderboard. </string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_reekwater_leaderboard_top10_company_score_desc">Earned by placing Top 10 on the Reekwater Days Governed Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_everfall_leaderboard_top1_company_score_desc">Earned by placing 1st on the Everfall Days Governed Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_everfall_leaderboard_top10_company_score_desc">Earned by placing Top 10 on the Everfall Days Governed Leaderboard. </string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_weavers_fen_leaderboard_top1_company_score_desc">Earned by placing 1st on the Weaver's Fen Days Governed Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_weavers_fen_leaderboard_top10_company_score_desc">Earned by placing Top 10 on the Weaver's Fen Days Governed Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_restless_shore_leaderboard_top1_company_score_desc">Earned by placing 1st on the Restless Shore Days Governed Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_restless_shore_leaderboard_top10_company_score_desc">Earned by placing Top 10 on the Restless Shore Days Governed Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_mourningdale_leaderboard_top1_company_score_desc">Earned by placing 1st on the Mourningdale Days Governed Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_mourningdale_leaderboard_top10_company_score_desc">Earned by placing Top 10 on the Mourningdale Days Governed Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_brightwood_leaderboard_top1_company_score_desc">Earned by placing 1st on the Brightwood Days Governed Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_brightwood_leaderboard_top10_company_score_desc">Earned by placing Top 10 on the Brightwood Days Governed Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_ebonscale_leaderboard_top1_company_score_desc">Earned by placing 1st on the Ebonscale Reach Days Governed Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_ebonscale_leaderboard_top10_company_score_desc">Earned by placing Top 10 on the Ebonscale Reach Days Governed Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_monarchs_leaderboard_top1_company_score_desc">Earned by placing 1st on the Monarch's Bluffs Days Governed Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_monarchs_leaderboard_top10_company_score_desc">Earned by placing Top 10 on the Monarch's Bluffs Days Governed Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_brimstone_leaderboard_top1_company_score_desc">Earned by placing 1st on the Brimstone Sands Days Governed Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_brimstone_leaderboard_top10_company_score_desc">Earned by placing Top 10 on the Brimestone Sands Days Governed Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_all_territories_leaderboard_top1_company_score_desc">Earned by placing 1st on the Days Governed for All Territories.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_all_territories_leaderboard_top10_company_score_desc">Earned by placing Top 10 on the Days Governed for All Territories.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_dynasty_shipyard_top1_score_desc">Earned by placing Top 5 on the Dynasty Shipyard Difficulty 10 Score Weekly Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_dynasty_shipyard_top10_score_desc">Earned by placing Top 25 on the Dynasty Shipyard Difficulty 10 Score Weekly Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_garden_of_genesis_top1_score_desc">Earned by placing Top 5 on the Garden of Genesis Difficulty 10 Score Weekly Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_garden_of_genesis_top10_score_desc">Earned by placing Top 25 on the Garden of Genesis Difficulty 10 Score Weekly Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_lazarus_instrumentality_top1_score_desc">Earned by placing Top 5 on the Lazarus Instrumentality Difficulty 10 Score Weekly Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_lazarus_instrumentality_top10_score_desc">Earned by placing Top 25 on theLazarus Instrumentality Difficulty 10 Score Weekly Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_tempest_heart_top1_score_desc">Earned by placing Top 5 on the Tempest Heart Difficulty 10 Score Weekly Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_tempest_heart_top10_score_desc">Place in the Top 25 on the Tempest Heart Difficulty 10 Score Weekly Leaderboards.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_barnacles_top1_score_desc">Earned by placing Top 5 on the Barnacles and Black Powder Difficulty 10 Score Weekly Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_barnacles_top10_score_desc">Earned by placing Top 25 on the Barnacles and Black Powder Difficulty 10 Score Weekly Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_brimstone_top1_score_desc">Earned by placing Top 5 on The Ennead Difficulty 10 Score Weekly Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_brimstone_top10_score_desc">Earned by placing Top 25 on The Ennead Difficulty 10 Score Weekly Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_depths_top1_score_desc">Earned by placing Top 5 on The Depths Difficulty 10 Score Weekly Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_depths_top10_score_desc">Earned by placing Top 25 on The Depths Difficulty 10 Score Weekly Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_starstone_top1_score_desc">Earned by placing Top 5 on the Starstone Barrows Difficulty 10 Score Weekly Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_starstone_top10_score_desc">Earned by placing Top 25 on the Starstone Barrows Difficulty 10 Score Weekly Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_dynasty_shipyard_top1_time_desc">Earned by placing Top 5 on the Dynasty Shipyard Difficulty 10 Clear Time Weekly Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_dynasty_shipyard_top10_time_desc">Earned by placing Top 25 on the Dynasty Shipyard Difficulty 10 Clear Time Weekly Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_garden_of_genesis_top1_time_desc">Earned by placing Top 5 on the Garden of Genesis Difficulty 10 Clear Time Weekly Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_garden_of_genesis_top10_time_desc">Place in the Top 25 on the Garden of Genesis Difficulty 10 Clear Time Weekly Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_lazarus_instrumentality_top1_time_desc">Earned by placing Top 5 on the Lazarus Instrumentality Difficulty 10 Clear Time Weekly Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_lazarus_instrumentality_top10_time_desc">Earned by placing Top 25 on the Lazarus Instrumentality Difficulty 10 Clear Time Weekly Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_tempest_heart_top1_time_desc">Earned by placing Top 5 on the Tempest Heart Difficulty 10 Clear Time Weekly Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_tempest_heart_top10_time_desc">Earned by placing Top 25 on the Tempest Heart Difficulty 10 Clear Time Weekly Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_barnacles_top1_time_desc">Earned by placing Top 5 on the Barnacles and Black Powder Difficulty 10 Clear Time Weekly Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_barnacles_top10_time_desc">Earned by placing Top 25 on the Barnacles and Black Powder Difficulty 10 Clear Time Weekly Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_brimstone_top1_time_desc">Earned by placing Top 5 on The Ennead Difficulty 10 Clear Time Weekly Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_brimstone_top10_time_desc">Earned by placing Top 25 on The Ennead Difficulty 10 Clear Time Weekly Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_depths_top1_time_desc">Earned by placing Top 5 on The Depths Difficulty 10 Clear Time Weekly Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_depths_top10_time_desc">Earned by placing Top 25 on The Depths Difficulty 10 Clear Time Weekly Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_starstone_top1_time_desc">Earned by placing Top 5 on the Starstone Barrows Difficulty 10 Clear Time Weekly Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_starstone_top10_time_desc">Earned by placing Top 25 on the Starstone Barrows Difficulty 10 Clear Time Weekly Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_siren_queen_top1_completion_desc">Earned by placing Top 10 on The Siren Queen Quarterly Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_siren_queen_top10_completion_desc">Earned by placing Top 50 on The Siren Queen Quarterly Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_eternal_pools_top1_completion_desc">Earned by placing Top 10 on the Eternal Pools Quarterly Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_eternal_pools_top10_completion_desc">Earned by placing Top 50 on the Eternal Pools Quarterly Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_monoecious_cleft_top1_completion_desc">Earned by placing Top 10 on the Monoecious Cleft Quarterly Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_monoecious_cleft_top10_completion_desc">Earned by placing Top 50 on the Monoecious Cleft Quarterly Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_open_world_pvp_influence_top1_desc">Earned by placing Top 10 on the Influence Earned Quarterly Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_open_world_pvp_influence_top10_desc">Earned by placing Top 50 on the Influence Earned Quarterly Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_outpost_rush_top1_score_desc">Earned by placing Top 10 on the Outpost Rush Score Quarterly Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_outpost_rush_top10_score_desc">Earned by placing Top 50 on the Outpost Rush Score Quarterly Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_darkness_breach_top1_score_desc">Earned by placing Top 10 on the Corruption Breach Score Quarterly Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_darkness_breach_top10_score_desc">Earned by placing Top 50 on the Corruption Breach Score Quarterly Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_invasion_top1_score_desc">Earned by placing Top 10 on the Invasion Score Quarterly Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_invasion_top10_score_desc">Earned by placing Top 50 on the Invasion Score Quarterly Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_war_top1_score_desc">Earned by placing Top 10 on the War Score Quarterly Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_war_top10_score_desc">Earned by placing Top 50 on the War Score Quarterly Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_cutlass_keys_leaderboard_top1_company_score_desc">Earned by placing Top 3 on the Cutlass Keys Days Governed Quarterly Leaderboard. </string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_cutlass_keys_leaderboard_top10_company_score_desc">Earned by placing Top 6 on the Cutlass Keys Days Governed Quarterly Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_first_light_leaderboard_top1_company_score_desc">Earned by placing Top 3 on the First Light Days Governed Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_first_light_leaderboard_top10_company_score_desc">Place in the Top 3 for First Light company score on the leaderboards</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_windsward_leaderboard_top1_company_score_desc">Earned by placing Top 6 on the First Light Days Governed Leaderboard. </string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_windsward_leaderboard_top1_company_score_desc">Earned by placing Top 3 on the Windsward Days Governed Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_windsward_leaderboard_top10_company_score_desc">Earned by placing Top 6 on the Windsward Days Governed Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_reekwater_leaderboard_top1_company_score_desc">Earned by placing Top 3 on the Reekwater Days Governed Leaderboard. </string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_reekwater_leaderboard_top10_company_score_desc">Earned by placing Top 6 on the Reekwater Days Governed Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_everfall_leaderboard_top1_company_score_desc">Earned by placing Top 3 on the Everfall Days Governed Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_everfall_leaderboard_top10_company_score_desc">Earned by placing Top 6 on the Everfall Days Governed Leaderboard. </string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_weavers_fen_leaderboard_top1_company_score_desc">Earned by placing Top 3 on the Weaver's Fen Days Governed Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_weavers_fen_leaderboard_top10_company_score_desc">Earned by placing Top 6 on the Weaver's Fen Days Governed Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_restless_shore_leaderboard_top1_company_score_desc">Earned by placing Top 3 on the Restless Shore Days Governed Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_restless_shore_leaderboard_top10_company_score_desc">Earned by placing Top 6 on the Restless Shore Days Governed Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_mourningdale_leaderboard_top1_company_score_desc">Earned by placing Top 3 on the Mourningdale Days Governed Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_mourningdale_leaderboard_top10_company_score_desc">Earned by placing Top 6 on the Mourningdale Days Governed Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_brightwood_leaderboard_top1_company_score_desc">Earned by placing Top 3 on the Brightwood Days Governed Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_brightwood_leaderboard_top10_company_score_desc">Earned by placing Top 6 on the Brightwood Days Governed Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_ebonscale_leaderboard_top1_company_score_desc">Earned by placing Top 3 on the Ebonscale Reach Days Governed Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_ebonscale_leaderboard_top10_company_score_desc">Earned by placing Top 6 on the Ebonscale Reach Days Governed Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_monarchs_leaderboard_top1_company_score_desc">Earned by placing Top 3 on the Monarch's Bluffs Days Governed Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_monarchs_leaderboard_top10_company_score_desc">Earned by placing Top 6 on the Monarch's Bluffs Days Governed Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_brimstone_leaderboard_top1_company_score_desc">Earned by placing Top 3 on the Brimstone Sands Days Governed Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_brimstone_leaderboard_top10_company_score_desc">Earned by placing Top 6 on the Brimestone Sands Days Governed Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_all_territories_leaderboard_top1_company_score_desc">Earned by placing Top 3 on the Days Governed for All Territories.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_all_territories_leaderboard_top10_company_score_desc">Earned by placing Top 6 on the Days Governed for All Territories.</string>
 	<string key="ui_metachievement_pvefactionmissions_arcana_generic_desc">Do {number} Arcana PvE faction missions.</string>
 	<string key="ui_metachievement_pvefactionmissions_armory_generic_desc">Do {number} Armoring PvE faction missions.</string>
 	<string key="ui_metachievement_pvefactionmissions_cook_generic_desc">Do {number} Cooking PvE faction missions.</string>

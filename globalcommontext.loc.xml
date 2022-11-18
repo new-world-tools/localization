@@ -896,6 +896,7 @@
 	<string key="ui_building_plan_limit">Territory Structure Limit</string>
 	<string key="ui_disable_snap_hint">Hold the Right Mouse Button to disable snap mode.</string>
 	<string key="url_quitgamesurvey">https://au1.qualtrics.com/jfe/form/SV_0fCfU7SdgaspliK</string>
+	<string key="url_free_weekend_survey">https://amazon.qualtrics.com/jfe/form/SV_6LPU5ICT7WwZnQG</string>
 	<string key="ui_attack_heavy">Heavy Attack</string>
 	<string key="ui_landControlledBy">Land controlled by</string>
 	<string key="ui_ProtectionTime">Protection Time</string>

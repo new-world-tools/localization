@@ -146,7 +146,6 @@
 	<string key="ui_leaderboard_with_gold" rel_version="Feature_Leaderboards">With &lt;img src="lyshineui/images/dungeons/mutator_rank_gold_sm" scale="2.0" xPadding="0" yOffset="5"&gt;&lt;/img&gt; &lt;font color={color}&gt; Gold Rank&lt;/font&gt;</string>
 	<string key="ui_leaderboard_company_deleted" rel_version="Feature_Leaderboards">(Company Deleted)</string>
 	<string key="ui_leaderboard_player_deleted" rel_version="Feature_Leaderboards">(Player Deleted)</string>
-	<string key="ui_leaderboard_rewards_place1" rel_version="Feature_Leaderboards">1st</string>
-	<string key="ui_leaderboard_rewards_place2" rel_version="Feature_Leaderboards">Top 10</string>
+	<string key="ui_leaderboard_rewards_top" rel_version="Feature_Leaderboards">Top {number}</string>
 </resources>
 
