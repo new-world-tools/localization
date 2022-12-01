@@ -82,23 +82,24 @@
 	<string key="ui_news_modal_display_end_date">Ends on {endDate}</string>
 	<string key="ui_news_modal_display_start_datetime">Starts at {startTime} on {startDate}</string>
 	<string key="ui_news_modal_display_end_datetime">Ends at {endTime} on {endDate}</string>
-	<string key="ui_event_free_weekend_event_message_title" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend</string>
-	<string key="ui_event_free_weekend_event_message_description" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">The Free Weekend is in progress.</string>
-	<string key="ui_event_free_weekend" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend</string>
+	<string key="ui_event_free_weekend_event_message_title" rel_version="Feature_FreeWeekend">Free Weekend</string>
+	<string key="ui_event_free_weekend_event_message_description" rel_version="Feature_FreeWeekend">The Free Weekend is in progress.</string>
+	<string key="ui_event_free_weekend_description" rel_version="Feature_FreeWeekend">During this limited-time event, experience the new Brimstone Sands zone, revamped Main Story Quest, and latest updates to New World for free!\n\nTo play with friends, characters must be on the same world. Free players enjoy unlimited session times unless there is a queue for the world (at the end of a session, free players will be asked to requeue).\n\nNew players can also save 50% on the Standard and Deluxe editions of New World when purchased between December 15 at 10AM PT and January 5 at 10AM PT.</string>
+	<string key="ui_event_free_weekend" rel_version="Feature_FreeWeekend">Free Weekend</string>
 	<string key="ui_event_free_weekend_in_progress_panel1_bullet1_title" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend In Progress Panel 1, Bullet 1 Title</string>
 	<string key="ui_event_free_weekend_in_progress_panel1_bullet1_text" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend In Progress Panel 1, Bullet 1 Text</string>
 	<string key="ui_event_free_weekend_in_progress_panel1_bullet2_title" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend In Progress Panel 1, Bullet 2 Title</string>
 	<string key="ui_event_free_weekend_in_progress_panel1_bullet2_text" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend In Progress Panel 1, Bullet 2 Text</string>
 	<string key="ui_event_free_weekend_in_progress_panel1_bullet3_title" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend In Progress Panel 1, Bullet 3 Title</string>
 	<string key="ui_event_free_weekend_in_progress_panel1_bullet3_text" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend In Progress Panel 1, Bullet 3 Text</string>
-	<string key="ui_event_free_weekend_in_progress_panel1_title" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend In Progress Panel 1 Title</string>
+	<string key="ui_event_free_weekend_in_progress_panel1_title" rel_version="Feature_FreeWeekend">Free Weekend</string>
 	<string key="ui_event_free_weekend_in_progress_panel1_subtitle" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend In Progress Panel 1 Subtitle</string>
 	<string key="ui_event_free_weekend_in_progress_panel2_title" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend In Progress Panel 2 Title</string>
 	<string key="ui_event_free_weekend_in_progress_panel2_subtitle" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend In Progress Panel 2 Subtitle</string>
 	<string key="ui_event_free_weekend_in_progress_panel3_title" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend In Progress Panel 3 Title</string>
 	<string key="ui_event_free_weekend_in_progress_panel3_subtitle" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend In Progress Panel 3 Subtitle\n \nhttp://www.twitch.tv/playnewworld</string>
-	<string key="ui_event_free_weekend_in_progress_button_about" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Free Weekend</string>
-	<string key="ui_event_free_weekend_ending_soon_panel1_title" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend Ending Soon Panel 1 Title</string>
+	<string key="ui_event_free_weekend_in_progress_button_about" rel_version="Feature_FreeWeekend">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Free Weekend</string>
+	<string key="ui_event_free_weekend_ending_soon_panel1_title" rel_version="Feature_FreeWeekend">Free Weekend Ends Today!</string>
 	<string key="ui_event_free_weekend_ending_soon_panel1_subtitle" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend Ending Soon Subtitle.</string>
 	<string key="ui_event_free_weekend_ending_soon_panel1_bullet1_title" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend Ending Soon Panel 1, Bullet 1 Title</string>
 	<string key="ui_event_free_weekend_ending_soon_panel1_bullet1_text" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend Ending Soon Panel 1, Bullet 1 Text.</string>
@@ -116,5 +117,10 @@
 	<string key="ui_event_leaderboards_description" rel_version="Feature_Leaderboards">Leaderboards track various New World activities across settlements and factions. Compete with other players in various individual, company, and faction activities to ascend the leaderboards, which reset periodically.\n\n&lt;font color="#ffdb7a"&gt;Access Leaderboards in the Modes Menu. &lt;/font&gt;</string>
 	<string key="ui_event_leaderboards_bullet1_title" rel_version="Feature_Leaderboards">Rewards</string>
 	<string key="ui_event_leaderboards_button_about" rel_version="Feature_Leaderboards">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Leaderboards</string>
+	<string key="ui_event_dec_mtx_tabname" rel_version="Entitlements_WinterConvergence_MTX">Store</string>
+	<string key="ui_event_dec_mtx_title" rel_version="Entitlements_WinterConvergence_MTX">Winter Convergence</string>
+	<string key="ui_event_dec_mtx_description" rel_version="Entitlements_WinterConvergence_MTX">Protect yourself from the ravages of Forever Winter with new cosmetics available in the store! You'll want to kit yourself out with the latest winter weapons and apparel when the days grow shorter and long nights of terror await. Check the store regularly for free gifts in December and take advantage of our winter sales! Special unvaulted content goes on sale 12/13 and last year's Winter Convergence gear arrives on 12/20!</string>
+	<string key="ui_event_dec_mtx_button_about" rel_version="Entitlements_WinterConvergence_MTX">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Winter Convergence</string>
+	<string key="ui_news_store_tabname">Store</string>
 </resources>
 

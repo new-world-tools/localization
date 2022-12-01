@@ -148,6 +148,7 @@
 	<string key="objective_mission_title_procurer_acquire" speaker="UI">Acquisition Mission</string>
 	<string key="objective_msq" speaker="UI">Main Story</string>
 	<string key="objective_msq_desc" speaker="UI">Main story objectives</string>
+	<string key="objective_get_msq_message" speaker="UI">You currently have no active Main Story quests.\nSearch for this icon on the map to determine whether the next Main Story Quest is available.</string>
 	<string key="M_procurer_craft_workorder_items" speaker="UI">Crafting Mission</string>
 	<string key="objective_name_template" comment="Obsolete - Used to show above rewards on the conversation screen. {title} is the quest title." speaker="UI">Quest: "{title}"</string>
 	<string key="objective_name_and_rewards_template" comment="Shows above rewards on the conversation screen. {title} is the quest title" speaker="UI">"{title}" - Rewards</string>

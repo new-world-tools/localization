@@ -53,7 +53,6 @@
 	<string key="ui_leaderboard_display_war_attacker_wins" rel_version="Feature_Leaderboards">Attacker Wins</string>
 	<string key="ui_leaderboard_display_war_defender_wins" rel_version="Feature_Leaderboards">Defender Wins</string>
 	<string key="ui_leaderboard_display_war_kill_death" rel_version="Feature_Leaderboards">Kill Death Ratio</string>
-	<string key="ui_leaderboard_display_outpostrush_damage_taken" rel_version="Feature_Leaderboards">Damage Taken</string>
 	<string key="ui_leaderboard_display_outpostrush_heals" rel_version="Feature_Leaderboards">Heals</string>
 	<string key="ui_leaderboard_display_outpostrush_kills" rel_version="Feature_Leaderboards">Player Kills</string>
 	<string key="ui_leaderboard_display_outpostrush_resources" rel_version="Feature_Leaderboards">Resources Contributed</string>
@@ -77,7 +76,6 @@
 	<string key="ui_leaderboard_display_pvparena_killdeathratio" rel_version="Feature_Leaderboards">Kill Death Ratio</string>
 	<string key="ui_leaderboard_display_pvparena_score" rel_version="Feature_Leaderboards">Score</string>
 	<string key="ui_leaderboard_display_pvparena_heals" rel_version="Feature_Leaderboards">Heals</string>
-	<string key="ui_leaderboard_display_pvparena_damagetaken" rel_version="Feature_Leaderboards">Damage Absorbed</string>
 	<string key="ui_leaderboard_display_pvparena_damagedealt" rel_version="Feature_Leaderboards">Damage Dealt</string>
 	<string key="ui_leaderboard_entry_overflow" rel_version="Feature_Leaderboards">+{count} players</string>
 	<string key="ui_leaderboard_display_crafting_weaponsmith" rel_version="Feature_Leaderboards">Weaponsmithing</string>

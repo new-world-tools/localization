@@ -2,7 +2,8 @@
 	<string key="mm_randomizetitle">Warning</string>
 	<string key="mm_randomizewarning">Randomizing your character will cause changes you have made to be lost. Are you sure you want to randomize your character?</string>
 	<string key="mm_deletechartitle">Delete Character</string>
-	<string key="mm_deletecharwarning">&lt;font color="#ffffff"&gt;Are you sure you want to delete {characterName}?\n\nThis cannot be undone. You will lose all items and progress made on this character.&lt;/font&gt;\n&lt;font color="#cccccc" face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;(You will retain your purchased items.)&lt;/font&gt;</string>
+	<string key="mm_deletecharwarning">&lt;font color="#ffffff"&gt;Are you sure you want to delete {characterName}?\n\nThis cannot be undone. You will lose all items and progress made on this character.\n\nOnce deleted, you have &lt;font color={highlightColor}&gt;7 days&lt;/font&gt; to contact customer service to restore your character.&lt;/font&gt;\n&lt;font color="#cccccc" face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;(You will retain your purchased items.)&lt;/font&gt;</string>
+	<string key="mm_deletecharwarning_serverfull">&lt;font color="#ffffff"&gt;Are you sure you want to delete {characterName}?\n\nThis cannot be undone. You will lose all items and progress made on this character.\n\nOnce deleted, you have &lt;font color={highlightColor}&gt;7 days&lt;/font&gt; to contact customer service to restore your character.&lt;/font&gt;\n&lt;font color="#cccccc" face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;(You will retain your purchased items.)&lt;/font&gt; \n\n &lt;font color="#ff6b6b"&gt; {worldName} is full and does not allow characters to be created or transferred in.&lt;/font&gt;</string>
 	<string key="mm_selectcharacter">Select Character</string>
 	<string key="mm_charactercount">Characters</string>
 	<string key="mm_emptyslot">Empty Slot</string>
@@ -99,7 +100,7 @@
 	<string key="mm_loginservices_TooManyCharactersForWorldSet">You already have a character on a related world. That character must be deleted before you can create another.</string>
 	<string key="mm_loginservices_WorldRequiresCharacterCreation">Login denied: Character must be created in this world.</string>
 	<string key="mm_loginservices_NotEntitledToWorld">Access denied: Not entitled to this game world.</string>
-	<string key="mm_loginservices_WorldNotEligibleForCharacterCreation">Access denied: Characters are not created in this world.</string>
+	<string key="mm_loginservices_WorldNotEligibleForCharacterCreation">Access denied: World is full. Character cannot be created.</string>
 	<string key="mm_loginservices_PatchFieldNotPermitted">Access denied: Character field cannot be patched.</string>
 	<string key="mm_loginservices_CharacterNotFlaggedForRename">Access denied: Character is not eligible for renaming.</string>
 	<string key="mm_loginservices_NotEligibleForFTUE">Login denied: FTUE was already completed.</string>
@@ -208,7 +209,7 @@
 	<string key="mm_rejected_Client_Kicked_Unknown">You have been kicked from the game</string>
 	<string key="mm_authresult_Authorized">Success</string>
 	<string key="mm_characterCreateDisabled">Character creation temporarily disabled because this world is full. Please try a different world.</string>
-	<string key="mm_charactertransferdisabled">Character transfer is temporarily disabled on this world. Please try a different world.</string>
+	<string key="mm_characterTransferDisabled">Character transfer is temporarily disabled because this world is full. Please try a different world.</string>
 	<string key="mm_authresult_Denied_ClaimConnectionTicketFailed">Failed to claim connection ticket.</string>
 	<string key="mm_authresult_Denied_HubNotReady">Server is not ready for gameplay. Retrying...</string>
 	<string key="mm_authresult_Denied_CapacityLimitReached">The servers are busy at this time. Please try again later.</string>
@@ -245,7 +246,8 @@
 	<string key="mm_waitingforaoi_message">Connecting to server, please wait...</string>
 	<string key="mm_waitingforspawnpoint_title">Waiting to join…</string>
 	<string key="mm_waitingforspawnpoint_message">Searching for capacity, please wait...</string>
-	<string key="mm_world_character_limit">You can only have 1 character in a World Set.</string>
+	<string key="mm_world_set_character_limit">You can only have 1 character in a World Set.</string>
+	<string key="mm_world_character_limit">You can only have {characterLimit} character(s) in this World.</string>
 	<string key="confirm_buy_unequippable">Cannot equip</string>
 	<string key="confirm_buy_unequippable_body">You currently cannot equip this item. Continue?</string>
 	<string key="lt_1_title">Claiming</string>

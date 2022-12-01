@@ -84,7 +84,6 @@
 	<string key="Procedural_AlkahestT3">Strong Alkahest</string>
 	<string key="Procedural_AlkahestT4">Powerful Alkahest</string>
 	<string key="Procedural_AlkahestT5">Infused Alkahest</string>
-	<string key="AmpouleT5" rel_version="Feature_Ampoules">Ampoule</string>
 	<string key="Procedural_AmuletDiamondT2">Flawed Diamond Amulet</string>
 	<string key="Procedural_AmuletDiamondT3">Diamond Amulet</string>
 	<string key="Procedural_AmuletDiamondT4">Brilliant Diamond Amulet</string>
@@ -448,11 +447,6 @@
 	<string key="Procedural_PotionHealthT3">Strong Health Potion</string>
 	<string key="Procedural_PotionHealthT4">Powerful Health Potion</string>
 	<string key="Procedural_PotionHealthT5">Infused Health Potion</string>
-	<string key="PotionReflexiveHealthT5" rel_version="Feature_Ampoules">Reflexive Health Potion</string>
-	<string key="PotionReflexiveManaT5" rel_version="Feature_Ampoules">Reflexive Mana Potion</string>
-	<string key="PotionReflexiveRegenT5" rel_version="Feature_Ampoules">Reflexive Regeneration Potion</string>
-	<string key="PotionReflexiveCTinctureT5" rel_version="Feature_Ampoules">Reflexive Corruption Tincture</string>
-	<string key="PotionReflexiveBTinctureT5" rel_version="Feature_Ampoules">Reflexive Blight Tincture</string>
 	<string key="Procedural_PotionManaT1">Weak Mana Potion</string>
 	<string key="Procedural_PotionManaT2">Common Mana Potion</string>
 	<string key="Procedural_PotionManaT3">Strong Mana Potion</string>
