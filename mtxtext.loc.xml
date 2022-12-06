@@ -33,8 +33,8 @@
 	<string key="ui_preview">Preview</string>
 	<string key="ui_item_already_claimed">Item has already been claimed.</string>
 	<string key="ui_add_more_fictional_currency" rel_version="Feature_MTX">Add More &lt;img src="lyshineui/images/mtx/icon_mtx_currency" scale="2.8" yOffset="10"&gt;&lt;/img&gt;</string>
-	<string key="ui_discount_off">{number} &lt;font face="lyshineui/fonts/Nimbus_Regular.font"&gt;off&lt;/font&gt;</string>
-	<string key="ui_discount_off_bold">{number} &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;off&lt;/font&gt;</string>
+	<string key="ui_discount_off">{number}% &lt;font face="lyshineui/fonts/Nimbus_Regular.font"&gt;off&lt;/font&gt;</string>
+	<string key="ui_discount_off_bold">{number}% &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;off&lt;/font&gt;</string>
 	<string key="ui_marks_of_fortune" rel_version="Feature_MTX">Marks of Fortune</string>
 	<string key="ui_entitlement_balance" rel_version="Feature_MTX">Current balance {balance}</string>
 	<string key="ui_dye_number" rel_version="Feature_MTX">Dye #{rewardId}</string>
