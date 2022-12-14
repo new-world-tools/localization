@@ -220,6 +220,7 @@
 	<string key="Icon_Crest_Pack_Thespain_name" rel_version="Apparel_Thespian">Thespian Crest Pack</string>
 	<string key="Icon_Crest_Pack_WeaponMaster_name" rel_version="New_World_Launch">Weapon Master Crest Pack</string>
 	<string key="primeblue_dye_name" rel_version="Dyes_Launch">Prime Gaming Blue</string>
+	<string key="gold_dye_name" rel_version="Dye_Gold">Lustrious Gold</string>
 	<string key="amazonorange_dye_name" rel_version="Dyes_Launch">Amazon Orange</string>
 	<string key="twitchpurple_dye_name" rel_version="Entitlements_November">Twitch Purple</string>
 	<string key="shipgray_dye_name" rel_version="Entitlements_November">Ship Gray</string>
@@ -283,6 +284,7 @@
 	<string key="Icon_Crest_Pack_Thespain_description" rel_version="Apparel_Thespian">Thespian Crests</string>
 	<string key="Icon_Crest_Pack_WeaponMaster_description" rel_version="New_World_Launch">"Blade or bow, axe or musket? The journeyman survives, the master flourishes."</string>
 	<string key="primeblue_dye_description" rel_version="New_World_Launch">Consumable Dye Pack</string>
+	<string key="gold_dye_description" rel_version="Dye_Gold">Consumable Dye Pack</string>
 	<string key="amazonorange_dye_description" rel_version="New_World_Launch">Consumable Dye Pack</string>
 	<string key="twitchpurple_dye_description" rel_version="Apparel_Thespian">Consumable Dye Pack</string>
 	<string key="softcoal_dye_description" rel_version="Entitlements_February_2022">Consumable Dye Pack</string>
