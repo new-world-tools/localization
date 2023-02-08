@@ -3204,8 +3204,8 @@
 	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_monoecious_cleft_top10_completion_desc">Earned by placing Top 50 on the Monoecious Cleft Quarterly Leaderboard.</string>
 	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_open_world_pvp_influence_top1_desc">Earned by placing Top 10 on the Influence Earned Quarterly Leaderboard.</string>
 	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_open_world_pvp_influence_top10_desc">Earned by placing Top 50 on the Influence Earned Quarterly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_outpost_rush_top1_score_desc">Earned by placing Top 10 on the Outpost Rush Score Quarterly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_outpost_rush_top10_score_desc">Earned by placing Top 50 on the Outpost Rush Score Quarterly Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_outpost_rush_top1_score_desc">Earned by placing Top 10 on the Outpost Rush Wins Quarterly Leaderboard.</string>
+	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_outpost_rush_top10_score_desc">Earned by placing Top 50 on the Outpost Rush Wins Quarterly Leaderboard.</string>
 	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_darkness_breach_top1_score_desc">Earned by placing Top 10 on the Corruption Breach Score Quarterly Leaderboard.</string>
 	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_darkness_breach_top10_score_desc">Earned by placing Top 50 on the Corruption Breach Score Quarterly Leaderboard.</string>
 	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_invasion_top1_score_desc">Earned by placing Top 10 on the Invasion Score Quarterly Leaderboard.</string>

@@ -986,11 +986,11 @@
 	<string key="ui_playertitle_outpostrush_score_top1" rel_version="Feature_Leaderboards">Outpost Rush Victor</string>
 	<string key="ui_playertitle_outpostrush_score_top1_SHE" rel_version="Feature_Leaderboards">Outpost Rush Victor</string>
 	<string key="ui_playertitle_outpostrush_score_top1_THEY" rel_version="Feature_Leaderboards">Outpost Rush Victor</string>
-	<string key="ui_playertitle_outpostrush_score_top1_description" rel_version="Feature_Leaderboards">Earned by placing Top 10 on the Outpost Rush Score Quarterly Leaderboard.</string>
+	<string key="ui_playertitle_outpostrush_score_top1_description" rel_version="Feature_Leaderboards">Earned by placing Top 10 on the Outpost Rush Wins Quarterly Leaderboard.</string>
 	<string key="ui_playertitle_outpostrush_score_top10" rel_version="Feature_Leaderboards">Outpost Rush Medalist</string>
 	<string key="ui_playertitle_outpostrush_score_top10_SHE" rel_version="Feature_Leaderboards">Outpost Rush Medalist</string>
 	<string key="ui_playertitle_outpostrush_score_top10_THEY" rel_version="Feature_Leaderboards">Outpost Rush Medalist</string>
-	<string key="ui_playertitle_outpostrush_score_top10_description" rel_version="Feature_Leaderboards">Earned by placing Top 50 on the Outpost Rush Score Quarterly Leaderboard.</string>
+	<string key="ui_playertitle_outpostrush_score_top10_description" rel_version="Feature_Leaderboards">Earned by placing Top 50 on the Outpost Rush Wins Quarterly Leaderboard.</string>
 	<string key="ui_playertitle_darknessbreaches_score_top1" rel_version="Feature_Leaderboards">Breach Victor</string>
 	<string key="ui_playertitle_darknessbreaches_score_top1_SHE" rel_version="Feature_Leaderboards">Breach Victor</string>
 	<string key="ui_playertitle_darknessbreaches_score_top1_THEY" rel_version="Feature_Leaderboards">Breach Victor</string>

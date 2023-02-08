@@ -126,5 +126,10 @@
 	<string key="ui_event_jan_mtx_description" rel_version="Entitlements_WinterDragon">Is the shape of winter the shadow of a dragon? Visit the store for new cosmetics kissed by the frosty breath of the serpent! Don't get caught unprepared when less lethal combat breaks out! Pick up the Slap Fight emote or opt for the Tiptoe Walk in order to sneak past any violent squabbles instead!</string>
 	<string key="ui_event_jan_mtx_button_about" rel_version="Entitlements_WinterDragon">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Winter Dragon</string>
 	<string key="ui_event_jan_mtx_bullet1_title" rel_version="Entitlements_WinterDragon">Housing Decor</string>
+	<string key="ui_event_feb_mtx_title" rel_version="Entitlements_OmensOfWinter">Omens Of Winter</string>
+	<string key="ui_event_feb_mtx_description" rel_version="Entitlements_OmensOfWinter">Will winter release its icy grasp upon the land or will spring blossom and bring new hope to Aeternum? Consult your oracle and outfit yourself with the new skins in the Store! New heart emotes can help you find romance amid the long, dark days of winter!</string>
+	<string key="ui_event_feb_mtx_bullet1" rel_version="Entitlements_OmensOfWinter">Skins</string>
+	<string key="ui_event_feb_mtx_bullet2" rel_version="Entitlements_OmensOfWinter">Emotes</string>
+	<string key="ui_event_feb_mtx_button_about" rel_version="Entitlements_OmensOfWinter">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Omens Of Winter</string>
 </resources>
 
