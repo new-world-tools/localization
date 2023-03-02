@@ -63,7 +63,7 @@
 	<string key="ui_hiw_sect1_pt2" rel_version="Feature_Seasons_Rewards">&lt;img src="LyShineUI/Images/SeasonsRewards/pip" yOffset="1"&gt;&lt;/img&gt;  Stamp lines on the card to earn additional Season XP.</string>
 	<string key="ui_hiw_sect1_pt3" rel_version="Feature_Seasons_Rewards">&lt;img src="LyShineUI/Images/SeasonsRewards/pip" yOffset="1"&gt;&lt;/img&gt;  Complete enough stamps to finish a card and earn a new one.</string>
 	<string key="ui_hiw_sect2_header" rel_version="Feature_Seasons_Rewards">Rerolling</string>
-	<string key="ui_hiw_sect2_desc" rel_version="Feature_Seasons_Rewards">You can reroll for a new list of Activities without losing your card's progress.</string>
+	<string key="ui_hiw_sect2_desc" rel_version="Feature_Seasons_Rewards">If the activities on your current Stamp Card aren't to your liking, you can reroll them in exchange for Azoth. Completed Stamps will remain, however your offered activities including those you've completed will be replaced with new activities to help complete your new card.</string>
 	<string key="ui_hiw_sect2_pt1" rel_version="Feature_Seasons_Rewards">&lt;img src="LyShineUI/Images/SeasonsRewards/pip" yOffset="1"&gt;&lt;/img&gt;  Each new card comes with 1 free reroll.</string>
 	<string key="ui_hiw_sect2_pt2" rel_version="Feature_Seasons_Rewards">&lt;img src="LyShineUI/Images/SeasonsRewards/pip" yOffset="1"&gt;&lt;/img&gt;  The cost of rerolling increases with each use.</string>
 	<string key="ui_hiw_sect2_pt3" rel_version="Feature_Seasons_Rewards">&lt;img src="LyShineUI/Images/SeasonsRewards/pip" yOffset="1"&gt;&lt;/img&gt;  Reroll costs reset with each new card.</string>
@@ -224,7 +224,7 @@
 	<string key="token_use_success" rel_version="Feature_Seasons_Consumable_Tokens">{boostName} activated for {duration}.</string>
 	<string key="token_use_failure" rel_version="Feature_Seasons_Consumable_Tokens">{boostName} could not be activated at this time.</string>
 	<string key="token_use_expired" rel_version="Feature_Seasons_Consumable_Tokens">{boostName} is no longer in effect.</string>
-	<string key="token_tooltip_list_item" rel_version="Feature_Seasons_Consumable_Tokens">{effectName}\nTime Remaining: {timeRemaining}</string>
+	<string key="token_tooltip_list_item" rel_version="Feature_Seasons_Consumable_Tokens">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;&lt;font color={color}&gt;{effectName}&lt;/font&gt;&lt;/font&gt;\nTime Remaining: {timeRemaining}</string>
 	<string key="token_disabled" rel_version="Feature_Seasons_Consumable_Tokens">Disabled</string>
 	<string key="SeasonsActivities_Close1MajorBreach" rel_version="Feature_Seasons_Rewards">Close Major Breaches</string>
 	<string key="SeasonsActivities_Close1MinorBreaches" rel_version="Feature_Seasons_Rewards">Close Minor Breaches</string>

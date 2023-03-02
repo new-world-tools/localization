@@ -92,14 +92,14 @@
 	<string key="SkyeLetter06" start="50" end="60" dialogue-next="SkyeLetter07">We tried everything to break free, even death. But nothing worked... and without our strength, what were we?</string>
 	<string key="SkyeLetter07" start="60" end="68" dialogue-next="SkyeLetter08">Now, our enemies pursue an even darker power in Great Cleave. They must be stopped.</string>
 	<string key="SkyeLetter08" start="68" end="76">Hero of Aeternum, help me reclaim our fire, and strike our enemy asunder. </string>
-	<string key="TempestRisingMB01" dialogue-next="TempestRisingMB02">This island has always guarded the promise of paradise. Humanity cast out, deemed unworthy of such blessings.</string>
-	<string key="TempestRisingMB02" dialogue-next="TempestRisingMB03">But I did not come here seeking paradise. I came for answers. Redemption after a life of weakness and suffering.</string>
-	<string key="TempestRisingMB03" dialogue-next="TempestRisingMB04">And I found a truth that disproved everything I had been taught.</string>
-	<string key="TempestRisingMB04" dialogue-next="TempestRisingMB05">I tasted the knowledge forbidden to us at creation. And I saw the vision of humanity's true potential.</string>
-	<string key="TempestRisingMB05" dialogue-next="TempestRisingMB06">I knew then, I must correct this ancient injustice, and restore the power which is rightfully ours.</string>
-	<string key="TempestRisingMB06" dialogue-next="TempestRisingMB07">The heart of the mountain now beats strong with this purpose.</string>
-	<string key="TempestRisingMB07" dialogue-next="TempestRisingMB08">After a century of preparation, our campaign has begun. The islands townships already fall before the might of our armies.</string>
-	<string key="TempestRisingMB08" dialogue-next="TempestRisingMB09">The only thing I had not foreseen is you.</string>
-	<string key="TempestRisingMB09">You who have stolen the gift meant for me. And now your soul will pay the price. For I will not stop until I have seized back the destiny stolen from us. And brought true freedom to the world both old and new.</string>
+	<string key="TempestRisingMB01" start="1" end="13" dialogue-next="TempestRisingMB02">This island has always guarded the promise of paradise. Humanity cast out, deemed unworthy of such blessings.</string>
+	<string key="TempestRisingMB02" start="13" end="25" dialogue-next="TempestRisingMB03">But I did not come here seeking paradise. I came for answers. Redemption after a life of weakness and suffering.</string>
+	<string key="TempestRisingMB03" start="25" end="32" dialogue-next="TempestRisingMB04">And I found a truth that disproved everything I had been taught.</string>
+	<string key="TempestRisingMB04" start="32" end="43" dialogue-next="TempestRisingMB05">I tasted the knowledge forbidden to us at creation. And I saw the vision of humanity's true potential.</string>
+	<string key="TempestRisingMB05" start="43" end="53" dialogue-next="TempestRisingMB06">I knew then, I must correct this ancient injustice, and restore the power which is rightfully ours.</string>
+	<string key="TempestRisingMB06" start="55" end="61" dialogue-next="TempestRisingMB07">The heart of the mountain now beats strong with this purpose.</string>
+	<string key="TempestRisingMB07" start="61" end="72" dialogue-next="TempestRisingMB08">After a century of preparation, our campaign has begun. The islands townships already fall before the might of our armies.</string>
+	<string key="TempestRisingMB08" start="72" end="77" dialogue-next="TempestRisingMB09">The only thing I had not foreseen is you.</string>
+	<string key="TempestRisingMB09" start="77" end="100">You who have stolen the gift meant for me. And now your soul will pay the price. For I will not stop until I have seized back the destiny stolen from us. And brought true freedom to the world both old and new.</string>
 </resources>
 

@@ -19,6 +19,15 @@
 	<string key="ui_pvp_rewards_panel1_bullet2_text" rel_version="PvP_Rewards_Track">Azoth Salt is a currency that allows you to acquire rewards from the PvP Track. You can gain Azoth Salt by engaging in War, Outpost Rush, 3v3 Arenas, PvP Missions, killing players in the open world, and earning XP while flagged.</string>
 	<string key="ui_pvp_rewards_panel1_bullet3_title" rel_version="PvP_Rewards_Track">REWARDS</string>
 	<string key="ui_pvp_rewards_panel1_bullet3_text" rel_version="PvP_Rewards_Track">Choose between unique rewards such as prestige armor and weapons, emotes, currencies, and consumables.</string>
+	<string key="ui_rabbit_season_panel1_title" rel_version="Feature_RabbitSeason">Rabbits' Revenge</string>
+	<string key="ui_rabbit_season_panel1_subtitle" rel_version="Feature_RabbitSeason">Shhh…we're hunting Corrupted rabbits to get their rewards!</string>
+	<string key="ui_rabbit_season_panel1_bullet1_title" rel_version="Feature_RabbitSeason">Defiled Rabbit's Foot</string>
+	<string key="ui_rabbit_season_panel1_bullet1_text" rel_version="Feature_RabbitSeason">Nothing says Spring like the dismembered metacarpus of an afflicted rabbit, which grants 5% Luck for 40 minutes when used. Collect up to 5 of them daily.</string>
+	<string key="ui_rabbit_season_panel1_bullet2_title" rel_version="Feature_RabbitSeason">Diamond Gypsum</string>
+	<string key="ui_rabbit_season_panel1_bullet2_text" rel_version="Feature_RabbitSeason">Their connection with this valuable resource is not clear, but these hopping harbingers drop Diamond Gypsum! Collect up to 3 of them per day during the event.</string>
+	<string key="ui_rabbit_season_panel1_bullet3_title" rel_version="Feature_RabbitSeason">Chest Hare</string>
+	<string key="ui_rabbit_season_panel1_bullet3_text" rel_version="Feature_RabbitSeason">An exceedingly rare drop, the Defiled Storage Chest of the Hare adds 1,050 pounds of weight capacity and an integrated Corruption aesthetic to your home.</string>
+	<string key="ui_rabbit_season_calendar_event_button_about" rel_version="Feature_RabbitSeason">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; About Rabbits' Revenge</string>
 	<string key="ui_event_weapon_xp_tabname">XP Event</string>
 	<string key="ui_event_weapon_xp_title">WEAPON XP BONUS EVENT</string>
 	<string key="ui_event_weapon_xp_desc">Active bonuses:</string>
@@ -136,5 +145,7 @@
 	<string key="ui_event_season_one_tabname" rel_version="Season_1_Perm" comment="DO NOT TRANSLATE">Seasons</string>
 	<string key="ui_event_season_one_title" rel_version="Season_1_Perm" comment="DO NOT TRANSLATE">Seasons</string>
 	<string key="ui_event_mar_mtx_title" rel_version="Entitlements_FirelightSeason" comment="DO NOT TRANSLATE">Firelight</string>
+	<string key="ui_event_rabbits_revenge_tabname" rel_version="Feature_RabbitSeason" comment="DO NOT TRANSLATE">Rabbit's Revenge</string>
+	<string key="ui_event_rabbits_revenge_title" rel_version="Feature_RabbitSeason" comment="DO NOT TRANSLATE">Rabbit's Revenge</string>
 </resources>
 
