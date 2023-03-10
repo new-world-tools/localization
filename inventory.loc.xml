@@ -240,8 +240,17 @@
 	<string key="loadout_notification_itemaddall_failure" rel_version="Feature_Gear_Set_Storage">Could not add item to all Gear Sets</string>
 	<string key="loadout_notification_switch_loadout_on_cooldown" rel_version="Feature_Gear_Set_Storage">You must wait {timeRemaining} before you can switch Gear Sets</string>
 	<string key="loadout_tutorial" rel_version="Feature_Gear_Set_Storage">Gear Sets Available!\nQuickly create and swap Gear Sets for any activity.</string>
-	<string key="loadout_notification_return_space_fail" rel_version="Feature_Gear_Set_Storage">Could not return gear set items to inventory due to inadequate space.</string>
+	<string key="loadout_notification_return_space_fail" rel_version="Feature_Gear_Set_Storage">Couldn't return gear set items to inventory due to inadequate space. Please clear space and log out for several minutes to retry.</string>
 	<string key="incompatible_elemental_perk">Incompatible elemental perk</string>
 	<string key="incompatible_socket_item">This cannot be socketed into an item of this type</string>
+	<string key="ui_effect_failed_Invalid">Unable to apply effect</string>
+	<string key="ui_effect_failed_Disabled">Unable to apply temporarily disabled effect</string>
+	<string key="ui_effect_failed_OnCooldown">Unable to apply effect on cooldown</string>
+	<string key="ui_effect_failed_GameModePaused">Unable to apply effect in current game mode</string>
+	<string key="ui_effect_failed_Dead">Unable to apply effect while dead</string>
+	<string key="ui_effect_failed_VitalsIgnored">Unable to apply effect</string>
+	<string key="ui_effect_failed_MultipleFromSource">Unable to apply redundant effects</string>
+	<string key="ui_effect_failed_AntirequisiteActive">Unable to apply with competing effects active</string>
+	<string key="ui_effect_failed_Success">Available effect</string>
 </resources>
 

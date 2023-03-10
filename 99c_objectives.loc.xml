@@ -117,6 +117,7 @@
 	<string key="99C_MSQ_05_FindMorgaine_title" speaker="UI Title" rel_version="Quest_MSQ2_WeaversFen">Follow the Marsh Lights</string>
 	<string key="99C_MSQ_05_FindMorgaine_desc" speaker="UI Description" rel_version="Quest_MSQ2_WeaversFen">Follow the Marsh Lights to find the Corpse Crone's location.</string>
 	<string key="99C_MSQ_05_FindMorgaine_interactTorches" speaker="UI" rel_version="Quest_MSQ2_WeaversFen">Follow the light of the torches</string>
+	<string key="99C_MSQ_05_FindMorgaine_trigger" speaker="UI" rel_version="Quest_MSQ2_WeaversFen">Get closer to the Corpse Crone</string>
 	<string key="99C_MSQ_05_FindMorgaine_talk_Morgaine" speaker="UI" rel_version="Quest_MSQ2_WeaversFen">Tell Morgaine about your vision</string>
 	<string key="99C_MSQ_05_FindMorgaine_fight_SerBrytmar" speaker="UI" rel_version="Quest_MSQ2_WeaversFen">Defeat Ser Brytmar to reach the cave</string>
 	<string key="99C_P1_BellaRuby_02" speaker="BellaRuby" name="BellaRuby" gender="F" VO="99C_P1_BellaRuby_02" VO_Status="Recorded" rel_version="Quest_MSQ2_WeaversFen">I sought the Crone myself at one point. You see, I was struggling with my identity... Who I am inside, and she helped me. \n\nShe gave me these wonderful medicines, and now everyone sees me in the way I see myself.</string>

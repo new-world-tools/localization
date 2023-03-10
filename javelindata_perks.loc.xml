@@ -1160,7 +1160,7 @@
 	<string key="PerkID_Ability_Spear_Sweep_Name">Bleeding Sweep</string>
 	<string key="PerkID_Ability_Spear_Sweep_Description">Sweep's Coup De Grace now applies Bleed for {[Type_StatusEffectData.Status_Perk_Spear_SweepFinish_Bleed.HealthModifierDamageBased * -100 * {perkMultiplier}]}% of weapon damage for {[Type_StatusEffectData.Status_Perk_Spear_SweepFinish_Bleed.BaseDuration]}s.</string>
 	<string key="PerkID_Ability_Spear_Javelin_Name">Sundering Javelin</string>
-	<string key="PerkID_Ability_Spear_Javelin_Description">Javelin inflicts Rend, reducing the target's armor by {[Type_StatusEffectData.Status_Perk_Spear_Javelin_Rend.PhysicalArmor * -100 * {perkMultiplier}]}% for {[Type_StatusEffectData.Status_Perk_Spear_Javelin_Rend.BaseDuration]}s.</string>
+	<string key="PerkID_Ability_Spear_Javelin_Description">Javelin inflicts Rend to targets above {[GlobalAbilityTable.GlobalPerk_Ability_Spear_Javelin.TargetHealthPercent]}% Health, reducing the target's armor by {[Type_StatusEffectData.Status_Perk_Spear_Javelin_Rend.PhysicalArmor * -100 * {perkMultiplier}]}% for {[Type_StatusEffectData.Status_Perk_Spear_Javelin_Rend.BaseDuration]}s.</string>
 	<string key="PerkID_Ability_Spear_Cyclone_Name">Leeching Cyclone</string>
 	<string key="PerkID_Ability_Spear_Cyclone_Description">Cyclone hits heal you for {[GlobalAbilityTable.GlobalPerk_Ability_Spear_Cyclone.DmgPctToHealth * 100 * {perkMultiplier}]}% of weapon damage.</string>
 	<string key="PerkID_Ability_Spear_Perforate_Name">Fortifying Perforate</string>

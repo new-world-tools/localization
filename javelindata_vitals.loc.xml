@@ -3177,7 +3177,7 @@
 	<string key="Evil_Knight_LifeStaff_DG_GreatCleave01_00_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_01">Hospitaller Cleric</string>
 	<string key="Evil_Knight_LifeStaff_Elite_08QP02_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P3">Drakongard Mender</string>
 	<string key="Evil_Knight_LifeStaff_Named_DG_GreatCleave_01_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_01">Lady Bridget</string>
-	<string key="Evil_Knight_Commander_Named_08QP02_VitalsName" comment="Named Variant" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P3">Lord Comander Attalus</string>
+	<string key="Evil_Knight_Commander_Named_08QP02_VitalsName" comment="Named Variant" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P3">Lord Commander Attalus</string>
 	<string key="Evil_Knight_Commander_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P3">Varangian Commander</string>
 	<string key="Evil_Knight_Commander_Named_DG_GreatCleave_01_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_01">Ser Ducas</string>
 	<string key="Evil_Knight_Commander_FireVariant_VitalsName" comment="S1 Flame Variant" speaker="Vitals Sheet" rel_version="Season_1_Perm">Forged Varangian Commander</string>
@@ -8960,7 +8960,7 @@
 	<string key="VC_Evil_Knight_Caster_Named_14AC06" comment="Named Variant" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Kari the Subtle</string>
 	<string key="VC_Evil_Knight_Caster_Named_DG_GreatCleave_01" comment="Named Variant" speaker="VitalsCategory Sheet" rel_version="Expedition_GreatCleave_01">Ser Bishop</string>
 	<string key="VC_Evil_Knight_Commander" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Varangian Commander</string>
-	<string key="VC_Evil_Knight_Commander_Named_08QP02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Lord Comander Attalus</string>
+	<string key="VC_Evil_Knight_Commander_Named_08QP02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Lord Commander Attalus</string>
 	<string key="VC_Evil_Knight_Commander_Named_DG_GreatCleave_01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Expedition_GreatCleave_01">Ser Ducas</string>
 	<string key="VC_Evil_Knight_Fire_Champion_DG_GreatCleave_01" comment="BASE" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_01">Commander Marius</string>
 	<string key="VC_Evil_Knight_Greataxe" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P1">Varangian Battlemaster</string>
@@ -12691,6 +12691,7 @@
 	<string key="Waterfowl_60_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Waterfowl</string>
 	<string key="Waterfowl_61_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Waterfowl</string>
 	<string key="Waterfowl_62_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Waterfowl</string>
+	<string key="Wispy_Wasp_Swarm_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Event_SpringtideBloom_Temp">Wispy Wasp</string>
 	<string key="Withered_Beetle_ELITE_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="AI_Variation_Sub_L20">Withered Beetle</string>
 	<string key="Withered_Beetle_Minion_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="AI_Variation_Sub_L20">Minion Beetle</string>
 	<string key="Withered_Beetle_Named_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="AI_Variation_Sub_L20">Withered Beetle</string>

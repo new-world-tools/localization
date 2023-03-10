@@ -237,14 +237,14 @@
 	<string key="SeasonsActivities_Kill10EnemiesTwoHanded" rel_version="Feature_Seasons_Rewards">Kill Enemies in Two-Handed Melee Combat</string>
 	<string key="SeasonsActivities_Kill10EnemiesRanged" rel_version="Feature_Seasons_Rewards">Kill Enemies with Bows or Guns</string>
 	<string key="SeasonsActivities_Kill10EnemiesMagic" rel_version="Feature_Seasons_Rewards">Kill Enemies with Magic</string>
-	<string key="SeasonsActivities_Kill1Player" rel_version="Feature_Seasons_Rewards">Kill Players</string>
+	<string key="SeasonsActivities_Kill1Player" rel_version="Feature_Seasons_Rewards">Earn Azoth Salt by killing players</string>
 	<string key="SeasonsActivities_Capture1FactionControlPoint" rel_version="Feature_Seasons_Rewards">Capture Faction Control Points</string>
 	<string key="SeasonsActivities_ParticipateIn3Duels" rel_version="Feature_Seasons_Rewards">Participate in Duels</string>
 	<string key="SeasonsActivities_Gather5T5Nodes" rel_version="Feature_Seasons_Rewards">Gather Tier 5 Resource Nodes</string>
 	<string key="SeasonsActivities_Skin10T5Animals" rel_version="Feature_Seasons_Rewards">Skin Tier 5 Animals</string>
 	<string key="SeasonsActivities_Catch150lbsFish" rel_version="Feature_Seasons_Rewards">Catch 150lbs of Fish</string>
 	<string key="SeasonsActivities_CraftOrCook50Items" rel_version="Feature_Seasons_Rewards">Craft or Cook Items</string>
-	<string key="SeasonsActivities_Complete2TownProjects" rel_version="Feature_Seasons_Rewards">Complete Town Projects</string>
+	<string key="SeasonsActivities_Complete2TownProjects" rel_version="Feature_Seasons_Rewards">Complete Town Project Missions</string>
 	<string key="SeasonsActivities_Salvage5T5Items" rel_version="Feature_Seasons_Rewards">Salvage Tier 5 items</string>
 	<string key="SeasonsActivities_Complete2FactionMissions" rel_version="Feature_Seasons_Rewards">Complete Faction Missions</string>
 	<string key="SeasonsActivities_Refine50T5Resources" rel_version="Feature_Seasons_Rewards">Refine Tier 5 Resources</string>
@@ -265,7 +265,7 @@
 	<string key="SeasonsActivities_Complete1MutatedExpedition" rel_version="Feature_Seasons_Rewards">Complete a Mutated Expedition</string>
 	<string key="SeasonsActivities_KillXNamedEnemyInXPOI" rel_version="Feature_Seasons_Rewards">Kill Named Enemies in POI</string>
 	<string key="SeasonsActivities_Earn1000PvpXp" rel_version="Feature_Seasons_Rewards">Earn PvP XP from Killing Players</string>
-	<string key="SeasonsActivities_DefeatZygormat" rel_version="Feature_Seasons_Rewards">Defeat Zygormat at Zygormat's Grove</string>
+	<string key="SeasonsActivities_DefeatZygormat" rel_version="Feature_Seasons_Rewards">Defeat Zygoramet at Zygoramet's Grove</string>
 	<string key="SeasonsActivities_DefeatSirenQueen" rel_version="Feature_Seasons_Rewards">Defeat the Siren Queen at the Spire of Melpomene</string>
 	<string key="SeasonsActivities_DefeateAvarice" rel_version="Feature_Seasons_Rewards">Defeat Avarice at the Eternal Pools</string>
 	<string key="SeasonsActivities_Craft1GypsumOrb" rel_version="Feature_Seasons_Rewards">Craft Gypsum Orbs</string>
@@ -311,5 +311,6 @@
 	<string key="SeasonsRewardTrack_ClaimError_NotEnoughInventorySpace" rel_version="Feature_Seasons_Rewards">Unable to claim this reward. Insufficient inventory space.</string>
 	<string key="SeasonsRewardTrack_ClaimError_Generic" rel_version="Feature_Seasons_Rewards">Unable to claim this reward. Please try again later.</string>
 	<string key="SeasonsRewardTrack_TransactionError" rel_version="Feature_Seasons_Rewards">Unable to process this transaction. Please try again later.</string>
+	<string key="SeasonsRewardTrack_PartialClaimWarning" rel_version="Feature_Seasons_Rewards">One or more of the items in this reward are already claimed on this account</string>
 </resources>
 

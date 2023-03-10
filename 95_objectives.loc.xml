@@ -263,8 +263,8 @@
 	<string key="95_s01_06_TEMP_SupplyChains_FreePrisoners" speaker="UI" quest_id="95_s01_06_TEMP_SupplyChains" rel_version="Season_1_Perm">Free the captured warriors and look for information on Faceless</string>
 	<string key="95_s01_06_TEMP_SupplyChains_GoToCaravanPOI" speaker="UI" quest_id="95_s01_06_TEMP_SupplyChains" rel_version="Season_1_Perm">Find the kidnapped warriors</string>
 	<string key="95_s01_06_TEMP_SupplyChains_TriggerFight" speaker="UI" quest_id="95_s01_06_TEMP_SupplyChains" rel_version="Season_1_Perm">Rescue the prisoner</string>
-	<string key="95_s01_06_TEMP_SupplyChains_FreePrisoner1" speaker="UI" quest_id="95_s01_06_TEMP_SupplyChains" rel_version="Season_1_Perm">Free the male prisoner</string>
-	<string key="95_s01_06_TEMP_SupplyChains_FreePrisoner2" speaker="UI" quest_id="95_s01_06_TEMP_SupplyChains" rel_version="Season_1_Perm">Free the female prisoner</string>
+	<string key="95_s01_06_TEMP_SupplyChains_FreePrisoner1" speaker="UI" quest_id="95_s01_06_TEMP_SupplyChains" rel_version="Season_1_Perm">Free the first prisoner</string>
+	<string key="95_s01_06_TEMP_SupplyChains_FreePrisoner2" speaker="UI" quest_id="95_s01_06_TEMP_SupplyChains" rel_version="Season_1_Perm">Free the second prisoner</string>
 	<string key="95_s01_06_TEMP_SupplyChains_GetKey" speaker="UI" quest_id="95_s01_06_TEMP_SupplyChains" rel_version="Season_1_Perm">Defeat the Varangian guards to get a key for the cage</string>
 	<string key="95_s01_06_TEMP_SupplyChains_CageUnlock" speaker="UI" quest_id="95_s01_06_TEMP_SupplyChains" rel_version="Season_1_Perm">Free the prisoner in the cage</string>
 	<string key="95_s01_06_TEMP_SupplyChains_PrisonerRescue_Bark" speaker="Abducted Warrior" name="AbductedWarrior" gender="male" quest_id="95_s01_06_TEMP_SupplyChains" VO="95_s01_06_TEMP_SupplyChains_PrisonerRescue_Bark" VO_Status="Recorded" rel_version="Season_1_Perm">Thank you, friend! These Varangians were brutal captors.</string>
