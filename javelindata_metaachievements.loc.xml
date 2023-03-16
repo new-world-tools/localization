@@ -543,6 +543,18 @@
 	<string key="ui_metachievement_questarc_brightwood_title3">Heart Of Darkness</string>
 	<string key="ui_metachievement_questarc_brightwood_title3_SHE">Heart Of Darkness</string>
 	<string key="ui_metachievement_questarc_brightwood_title3_THEY">Heart Of Darkness</string>
+	<string key="ui_metachievement_questarc_v2_brightwood_title1">Bright Woods, Dark Past</string>
+	<string key="ui_metachievement_questarc_v2_brightwood_title1_SHE">Bright Woods, Dark Past</string>
+	<string key="ui_metachievement_questarc_v2_brightwood_title1_THEY">Bright Woods, Dark Past</string>
+	<string key="ui_metachievement_questarc_v2_brightwood_title2">Heart Of Darkness</string>
+	<string key="ui_metachievement_questarc_v2_brightwood_title2_SHE">Heart Of Darkness</string>
+	<string key="ui_metachievement_questarc_v2_brightwood_title2_THEY">Heart Of Darkness</string>
+	<string key="ui_metachievement_questarc_v2_brightwood_title3">Suffering of the Lost</string>
+	<string key="ui_metachievement_questarc_v2_brightwood_title3_SHE">Suffering of the Lost</string>
+	<string key="ui_metachievement_questarc_v2_brightwood_title3_THEY">Suffering of the Lost</string>
+	<string key="ui_metachievement_questarc_v2_brightwood_title4">A Masterpiece of Color</string>
+	<string key="ui_metachievement_questarc_v2_brightwood_title4_SHE">A Masterpiece of Color</string>
+	<string key="ui_metachievement_questarc_v2_brightwood_title4_THEY">A Masterpiece of Color</string>
 	<string key="ui_metachievement_questarc_brimstonesands_title1" rel_version="Territory_Brimstone_Sands">The Cursed Expedition</string>
 	<string key="ui_metachievement_questarc_brimstonesands_title1_SHE" rel_version="Territory_Brimstone_Sands">The Cursed Expedition</string>
 	<string key="ui_metachievement_questarc_brimstonesands_title1_THEY" rel_version="Territory_Brimstone_Sands">The Cursed Expedition</string>
@@ -681,6 +693,18 @@
 	<string key="ui_metachievement_questarc_weaversfen_title3">Offering To The Fen</string>
 	<string key="ui_metachievement_questarc_weaversfen_title3_SHE">Offering To The Fen</string>
 	<string key="ui_metachievement_questarc_weaversfen_title3_THEY">Offering To The Fen</string>
+	<string key="ui_metachievement_quest_weaversfen_crone">Corpse Crone Caught!</string>
+	<string key="ui_metachievement_quest_weaversfen_crone_SHE">Corpse Crone Caught!</string>
+	<string key="ui_metachievement_quest_weaversfen_crone_THEY">Corpse Crone Caught!</string>
+	<string key="ui_metachievement_quest_weaversfen_prison">Prison Break</string>
+	<string key="ui_metachievement_quest_weaversfen_prison_SHE">Prison Break</string>
+	<string key="ui_metachievement_quest_weaversfen_prison_THEY">Prison Break</string>
+	<string key="ui_metachievement_quest_weaversfen_color">A Splash of Local Color</string>
+	<string key="ui_metachievement_quest_weaversfen_color_SHE">A Splash of Local Color</string>
+	<string key="ui_metachievement_quest_weaversfen_color_THEY">A Splash of Local Color</string>
+	<string key="ui_metachievement_quest_weaversfen_bear">Unbearable</string>
+	<string key="ui_metachievement_quest_weaversfen_bear_SHE">Unbearable</string>
+	<string key="ui_metachievement_quest_weaversfen_bear_THEY">Unbearable</string>
 	<string key="ui_metachievement_questarc_windsward_title1">Dissecting Corruption</string>
 	<string key="ui_metachievement_questarc_windsward_title1_SHE">Dissecting Corruption</string>
 	<string key="ui_metachievement_questarc_windsward_title1_THEY">Dissecting Corruption</string>
@@ -723,232 +747,232 @@
 	<string key="ui_metachievement_questtotals_title5">I Was Totally Expecting A Grail Quest</string>
 	<string key="ui_metachievement_questtotals_title5_SHE">I Was Totally Expecting A Grail Quest</string>
 	<string key="ui_metachievement_questtotals_title5_THEY">I Was Totally Expecting A Grail Quest</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_dynasty_shipyard_top1_score_title">Dynasty Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_dynasty_shipyard_top1_score_title_SHE">Dynasty Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_dynasty_shipyard_top1_score_title_THEY">Dynasty Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_dynasty_shipyard_top10_score_title">Dynasty Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_dynasty_shipyard_top10_score_title_SHE">Dynasty Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_dynasty_shipyard_top10_score_title_THEY">Dynasty Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_garden_of_genesis_top1_score_title">Genesis Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_garden_of_genesis_top1_score_title_SHE">Genesis Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_garden_of_genesis_top1_score_title_THEY">Genesis Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_garden_of_genesis_top10_score_title">Genesis Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_garden_of_genesis_top10_score_title_SHE">Genesis Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_garden_of_genesis_top10_score_title_THEY">Genesis Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_lazarus_instrumentality_top1_score_title">Lazarus Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_lazarus_instrumentality_top1_score_title_SHE">Lazarus Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_lazarus_instrumentality_top1_score_title_THEY">Lazarus Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_lazarus_instrumentality_top10_score_title">Lazarus Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_lazarus_instrumentality_top10_score_title_SHE">Lazarus Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_lazarus_instrumentality_top10_score_title_THEY">Lazarus Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_tempest_heart_top1_score_title">Tempest Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_tempest_heart_top1_score_title_SHE">Tempest Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_tempest_heart_top1_score_title_THEY">Tempest Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_tempest_heart_top10_score_title">Tempest Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_tempest_heart_top10_score_title_SHE">Tempest Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_tempest_heart_top10_score_title_THEY">Tempest Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_barnacles_top1_score_title">Barnacles Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_barnacles_top1_score_title_SHE">Barnacles Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_barnacles_top1_score_title_THEY">Barnacles Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_barnacles_top10_score_title">Barnacles Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_barnacles_top10_score_title_SHE">Barnacles Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_barnacles_top10_score_title_THEY">Barnacles Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_brimstone_top1_score_title">Ennead Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_brimstone_top1_score_title_SHE">Ennead Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_brimstone_top1_score_title_THEY">Ennead Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_brimstone_top10_score_title">Ennead Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_brimstone_top10_score_title_SHE">Ennead Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_brimstone_top10_score_title_THEY">Ennead Medalist</string>
-	<string rel_version="Expedition_GreatCleave_01" key="ui_metaachievement_leaderboard_forge_top5_score_title">Forge Victor</string>
-	<string rel_version="Expedition_GreatCleave_01" key="ui_metaachievement_leaderboard_forge_top25_score_title">Forge Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_depths_top1_score_title">Depths Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_depths_top1_score_title_SHE">Depths Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_depths_top1_score_title_THEY">Depths Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_depths_top10_score_title">Depths Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_depths_top10_score_title_SHE">Depths Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_depths_top10_score_title_THEY">Depths Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_starstone_top1_score_title">Starstone Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_starstone_top1_score_title_SHE">Starstone Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_starstone_top1_score_title_THEY">Starstone Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_starstone_top10_score_title">Starstone Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_starstone_top10_score_title_SHE">Starstone Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_starstone_top10_score_title_THEY">Starstone Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_dynasty_shipyard_top1_time_title">Dynasty Speed Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_dynasty_shipyard_top1_time_title_SHE">Dynasty Speed Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_dynasty_shipyard_top1_time_title_THEY">Dynasty Speed Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_dynasty_shipyard_top10_time_title">Dynasty Speed Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_dynasty_shipyard_top10_time_title_SHE">Dynasty Speed Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_dynasty_shipyard_top10_time_title_THEY">Dynasty Speed Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_garden_of_genesis_top1_time_title">Genesis Speed Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_garden_of_genesis_top1_time_title_SHE">Genesis Speed Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_garden_of_genesis_top1_time_title_THEY">Genesis Speed Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_garden_of_genesis_top10_time_title">Genesis Speed Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_garden_of_genesis_top10_time_title_SHE">Genesis Speed Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_garden_of_genesis_top10_time_title_THEY">Genesis Speed Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_lazarus_instrumentality_top1_time_title">Lazarus Speed Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_lazarus_instrumentality_top1_time_title_SHE">Lazarus Speed Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_lazarus_instrumentality_top1__title_THEY">Lazarus Speed Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_lazarus_instrumentality_top10_time_title">Lazarus Speed Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_lazarus_instrumentality_top10_time_title_SHE">Lazarus Speed Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_lazarus_instrumentality_top10_time_title_THEY">Lazarus Speed Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_tempest_heart_top1_time_title">Tempest Speed Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_tempest_heart_top1_time_title_SHE">Tempest Speed Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_tempest_heart_top1_time_title_THEY">Tempest Speed Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_tempest_heart_top10_time_title">Tempest Speed Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_tempest_heart_top10_time_title_SHE">Tempest Speed Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_tempest_heart_top10_time_title_THEY">Tempest Speed Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_barnacles_top1_time_title">Barnacles Speed Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_barnacles_top1_time_title_SHE">Barnacles Speed Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_barnacles_top1_time_title_THEY">Barnacles Speed Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_barnacles_top10_time_title">Barnacles Speed Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_barnacles_top10_time_title_SHE">Barnacles Speed Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_barnacles_top10_time_title_THEY">Barnacles Speed Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_brimstone_top1_time_title">Ennead Speed Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_brimstone_top1_time_title_SHE">Ennead Speed Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_brimstone_top1_time_title_THEY">Ennead Speed Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_brimstone_top10_time_title">Ennead Speed Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_brimstone_top10_time_title_SHE">Ennead Speed Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_brimstone_top10_time_title_THEY">Ennead Speed Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_depths_top1_time_title">Depths Speed Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_depths_top1_time_title_SHE">Depths Speed Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_depths_top1_time_title_THEY">Depths Speed Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_depths_top10_time_title">Depths Speed Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_depths_top10_time_title_SHE">Depths Speed Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_depths_top10_time_title_THEY">Depths Speed Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_starstone_top1_time_title">Starstone Speed Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_starstone_top1_time_title_SHE">Starstone Speed Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_starstone_top1_time_title_THEY">Starstone Speed Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_starstone_top10_time_title">Starstone Speed Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_starstone_top10_time_title_SHE">Starstone Speed Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_starstone_top10_time_title_THEY">Starstone Speed Medalist</string>
-	<string rel_version="Expedition_GreatCleave_01" key="ui_metaachievement_leaderboard_forge_top5_time_title">Forge Speed Victor</string>
-	<string rel_version="Expedition_GreatCleave_01" key="ui_metaachievement_leaderboard_forge_top25_time_title">Forge Speed Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_siren_queen_top1_completion_title">Siren Queen Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_siren_queen_top1_completion_title_SHE">Siren Queen Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_siren_queen_top1_completion_title_THEY">Siren Queen Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_siren_queen_top10_completion_title">Siren Queen Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_siren_queen_top10_completion_title_SHE">Siren Queen Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_siren_queen_top10_completion_title_THEY">Siren Queen Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_eternal_pools_top1_completion_title">Eternal Pools Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_eternal_pools_top1_completion_title_SHE">Eternal Pools Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_eternal_pools_top1_completion_title_THEY">Eternal Pools Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_eternal_pools_top10_completion_title">Eternal Pools Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_eternal_pools_top10_completion_title_SHE">Eternal Pools Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_eternal_pools_top10_completion_title_THEY">Eternal Pools Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_monoecious_cleft_top1_completion_title">Monoecious Cleft Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_monoecious_cleft_top1_completion_title_SHE">Monoecious Cleft Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_monoecious_cleft_top1_completion_title_THEY">Monoecious Cleft Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_monoecious_cleft_top10_completion_title">Monoecious Cleft Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_monoecious_cleft_top10_completion_title_SHE">Monoecious Cleft Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_monoecious_cleft_top10_completion_title_THEY">Monoecious Cleft Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_open_world_pvp_influence_top1_title">Influence Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_open_world_pvp_influence_top1_title_SHE">Influence Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_open_world_pvp_influence_top1_title_THEY">Influence Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_open_world_pvp_influence_top10_title">Influence Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_open_world_pvp_influence_top10_title_SHE">Influence Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_open_world_pvp_influence_top10_title_THEY">Influence Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_outpost_rush_top1_score_title">Outpost Rush Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_outpost_rush_top1_score_title_SHE">Outpost Rush Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_outpost_rush_top1_score_title_THEY">Outpost Rush Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_outpost_rush_top10_score_title">Outpost Rush Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_outpost_rush_top10_score_title_SHE">Outpost Rush Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_outpost_rush_top10_score_title_THEY">Outpost Rush Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_darkness_breach_top1_score_title">Breach Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_darkness_breach_top1_score_title_SHE">Breach Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_darkness_breach_top1_score_title_THEY">Breach Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_darkness_breach_top10_score_title">Breach Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_darkness_breach_top10_score_title_SHE">Breach Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_darkness_breach_top10_score_title_THEY">Breach Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_invasion_top1_score_title">Invasion Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_invasion_top1_score_title_SHE">Invasion Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_invasion_top1_score_title_THEY">Invasion Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_invasion_top10_score_title">Invasion Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_invasion_top10_score_title_SHE">Invasion Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_invasion_top10_score_title_THEY">Invasion Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_war_top1_score_title">War Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_war_top1_score_title_SHE">War Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_war_top1_score_title_THEY">War Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_war_top10_score_title">War Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_war_top10_score_title_SHE">War Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_war_top10_score_title_THEY">War Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_cutlass_keys_leaderboard_top1_company_score_title">Cutlass Keys Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_cutlass_keys_leaderboard_top1_company_score_title_SHE">Cutlass Keys Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_cutlass_keys_leaderboard_top1_company_score_title_THEY">Cutlass Keys Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_cutlass_keys_leaderboard_top10_company_score_title">Cutlass Keys Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_cutlass_keys_leaderboard_top10_company_score_title_SHE">Cutlass Keys Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_cutlass_keys_leaderboard_top10_company_score_title_THEY">Cutlass Keys Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_first_light_leaderboard_top1_company_score_title">First Light Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_first_light_leaderboard_top1_company_score_title_SHE">First Light Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_first_light_leaderboard_top1_company_score_title_THEY">First Light Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_first_light_leaderboard_top10_company_score_title">First Light Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_first_light_leaderboard_top10_company_score_title_SHE">First Light Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_first_light_leaderboard_top10_company_score_title_THEY">First Light Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_windsward_leaderboard_top1_company_score_title">Windsward Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_windsward_leaderboard_top1_company_score_title_SHE">Windsward Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_windsward_leaderboard_top1_company_score_title_THEY">Windsward Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_windsward_leaderboard_top10_company_score_title">Windsward Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_windsward_leaderboard_top10_company_score_title_SHE">Windsward Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_windsward_leaderboard_top10_company_score_title_THEY">Windsward Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_reekwater_leaderboard_top1_company_score_title">Reekwater Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_reekwater_leaderboard_top1_company_score_title_SHE">Reekwater Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_reekwater_leaderboard_top1_company_score_title_THEY">Reekwater Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_reekwater_leaderboard_top10_company_score_title">Reekwater Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_reekwater_leaderboard_top10_company_score_title_SHE">Reekwater Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_reekwater_leaderboard_top10_company_score_title_THEY">Reekwater Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_everfall_leaderboard_top1_company_score_title">Everfall Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_everfall_leaderboard_top1_company_score_title_SHE">Everfall Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_everfall_leaderboard_top1_company_score_title_THEY">Everfall Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_everfall_leaderboard_top10_company_score_title">Everfall Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_everfall_leaderboard_top10_company_score_title_SHE">Everfall Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_everfall_leaderboard_top10_company_score_title_THEY">Everfall Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_weavers_fen_leaderboard_top1_company_score_title">Weaver's Fen Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_weavers_fen_leaderboard_top1_company_score_title_SHE">Weaver's Fen Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_weavers_fen_leaderboard_top1_company_score_title_THEY">Weaver's Fen Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_weavers_fen_leaderboard_top10_company_score_title">Weaver's Fen Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_weavers_fen_leaderboard_top10_company_score_title_SHE">Weaver's Fen Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_weavers_fen_leaderboard_top10_company_score_title_THEY">Weaver's Fen Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_restless_shore_leaderboard_top1_company_score_title">Restless Shore Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_restless_shore_leaderboard_top1_company_score_title_SHE">Restless Shore Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_restless_shore_leaderboard_top1_company_score_title_THEY">Restless Shore Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_restless_shore_leaderboard_top10_company_score_title">Restless Shore Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_restless_shore_leaderboard_top10_company_score_title_SHE">Restless Shore Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_restless_shore_leaderboard_top10_company_score_title_THEY">Restless Shore Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_mourningdale_leaderboard_top1_company_score_title">Mourningdale Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_mourningdale_leaderboard_top1_company_score_title_SHE">Mourningdale Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_mourningdale_leaderboard_top1_company_score_title_THEY">Mourningdale Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_mourningdale_leaderboard_top10_company_score_title">Mourningdale Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_mourningdale_leaderboard_top10_company_score_title_SHE">Mourningdale Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_mourningdale_leaderboard_top10_company_score_title_THEY">Mourningdale Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_brightwood_leaderboard_top1_company_score_title">Brightwood Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_brightwood_leaderboard_top1_company_score_title_SHE">Brightwood Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_brightwood_leaderboard_top1_company_score_title_THEY">Brightwood Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_brightwood_leaderboard_top10_company_score_title">Brightwood Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_brightwood_leaderboard_top10_company_score_title_SHE">Brightwood Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_brightwood_leaderboard_top10_company_score_title_THEY">Brightwood Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_ebonscale_leaderboard_top1_company_score_title">Ebonscale Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_ebonscale_leaderboard_top1_company_score_title_SHE">Ebonscale Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_ebonscale_leaderboard_top1_company_score_title_THEY">Ebonscale Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_ebonscale_leaderboard_top10_company_score_title">Ebonscale Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_ebonscale_leaderboard_top10_company_score_title_SHE">Ebonscale Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_ebonscale_leaderboard_top10_company_score_title_THEY">Ebonscale Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_monarchs_bluffs_leaderboard_top1_company_score_title">Monarch's Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_monarchs_bluffs_leaderboard_top1_company_score_title_SHE">Monarch's Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_monarchs_bluffs_leaderboard_top1_company_score_title_THEY">Monarch's Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_monarchs_bluffs_leaderboard_top10_company_score_title">Monarch's Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_monarchs_bluffs_leaderboard_top10_company_score_title_SHE">Monarch's Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_monarchs_bluffs_leaderboard_top10_company_score_title_THEY">Monarch's Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_brimstone_sands_leaderboard_top1_company_score_title">Brimstone Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_brimstone_sands_leaderboard_top1_company_score_title_SHE">Brimstone Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_brimstone_sands_leaderboard_top1_company_score_title_THEY">Brimstone Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_brimstone_sands_leaderboard_top10_company_score_title">Brimstone Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_brimstone_sands_leaderboard_top10_company_score_title_SHE">Brimstone Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_brimstone_sands_leaderboard_top10_company_score_title_THEY">Brimstone Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_all_territories_leaderboard_top1_company_score_title">Territory Control Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_all_territories_leaderboard_top1_company_score_title_SHE">Territory Control Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_all_territories_leaderboard_top1_company_score_title_THEY">Territory Control Victor</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_all_territories_leaderboard_top10_company_score_title">Territory Control Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_all_territories_leaderboard_top10_company_score_title_SHE">Territory Control Medalist</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_all_territories_leaderboard_top10_company_score_title_THEY">Territory Control Medalist</string>
+	<string key="ui_metaachievement_leaderboard_dynasty_shipyard_top1_score_title" rel_version="Feature_Leaderboards">Dynasty Victor</string>
+	<string key="ui_metaachievement_leaderboard_dynasty_shipyard_top1_score_title_SHE" rel_version="Feature_Leaderboards">Dynasty Victor</string>
+	<string key="ui_metaachievement_leaderboard_dynasty_shipyard_top1_score_title_THEY" rel_version="Feature_Leaderboards">Dynasty Victor</string>
+	<string key="ui_metaachievement_leaderboard_dynasty_shipyard_top10_score_title" rel_version="Feature_Leaderboards">Dynasty Medalist</string>
+	<string key="ui_metaachievement_leaderboard_dynasty_shipyard_top10_score_title_SHE" rel_version="Feature_Leaderboards">Dynasty Medalist</string>
+	<string key="ui_metaachievement_leaderboard_dynasty_shipyard_top10_score_title_THEY" rel_version="Feature_Leaderboards">Dynasty Medalist</string>
+	<string key="ui_metaachievement_leaderboard_garden_of_genesis_top1_score_title" rel_version="Feature_Leaderboards">Genesis Victor</string>
+	<string key="ui_metaachievement_leaderboard_garden_of_genesis_top1_score_title_SHE" rel_version="Feature_Leaderboards">Genesis Victor</string>
+	<string key="ui_metaachievement_leaderboard_garden_of_genesis_top1_score_title_THEY" rel_version="Feature_Leaderboards">Genesis Victor</string>
+	<string key="ui_metaachievement_leaderboard_garden_of_genesis_top10_score_title" rel_version="Feature_Leaderboards">Genesis Medalist</string>
+	<string key="ui_metaachievement_leaderboard_garden_of_genesis_top10_score_title_SHE" rel_version="Feature_Leaderboards">Genesis Medalist</string>
+	<string key="ui_metaachievement_leaderboard_garden_of_genesis_top10_score_title_THEY" rel_version="Feature_Leaderboards">Genesis Medalist</string>
+	<string key="ui_metaachievement_leaderboard_lazarus_instrumentality_top1_score_title" rel_version="Feature_Leaderboards">Lazarus Victor</string>
+	<string key="ui_metaachievement_leaderboard_lazarus_instrumentality_top1_score_title_SHE" rel_version="Feature_Leaderboards">Lazarus Victor</string>
+	<string key="ui_metaachievement_leaderboard_lazarus_instrumentality_top1_score_title_THEY" rel_version="Feature_Leaderboards">Lazarus Victor</string>
+	<string key="ui_metaachievement_leaderboard_lazarus_instrumentality_top10_score_title" rel_version="Feature_Leaderboards">Lazarus Medalist</string>
+	<string key="ui_metaachievement_leaderboard_lazarus_instrumentality_top10_score_title_SHE" rel_version="Feature_Leaderboards">Lazarus Medalist</string>
+	<string key="ui_metaachievement_leaderboard_lazarus_instrumentality_top10_score_title_THEY" rel_version="Feature_Leaderboards">Lazarus Medalist</string>
+	<string key="ui_metaachievement_leaderboard_tempest_heart_top1_score_title" rel_version="Feature_Leaderboards">Tempest Victor</string>
+	<string key="ui_metaachievement_leaderboard_tempest_heart_top1_score_title_SHE" rel_version="Feature_Leaderboards">Tempest Victor</string>
+	<string key="ui_metaachievement_leaderboard_tempest_heart_top1_score_title_THEY" rel_version="Feature_Leaderboards">Tempest Victor</string>
+	<string key="ui_metaachievement_leaderboard_tempest_heart_top10_score_title" rel_version="Feature_Leaderboards">Tempest Medalist</string>
+	<string key="ui_metaachievement_leaderboard_tempest_heart_top10_score_title_SHE" rel_version="Feature_Leaderboards">Tempest Medalist</string>
+	<string key="ui_metaachievement_leaderboard_tempest_heart_top10_score_title_THEY" rel_version="Feature_Leaderboards">Tempest Medalist</string>
+	<string key="ui_metaachievement_leaderboard_barnacles_top1_score_title" rel_version="Feature_Leaderboards">Barnacles Victor</string>
+	<string key="ui_metaachievement_leaderboard_barnacles_top1_score_title_SHE" rel_version="Feature_Leaderboards">Barnacles Victor</string>
+	<string key="ui_metaachievement_leaderboard_barnacles_top1_score_title_THEY" rel_version="Feature_Leaderboards">Barnacles Victor</string>
+	<string key="ui_metaachievement_leaderboard_barnacles_top10_score_title" rel_version="Feature_Leaderboards">Barnacles Medalist</string>
+	<string key="ui_metaachievement_leaderboard_barnacles_top10_score_title_SHE" rel_version="Feature_Leaderboards">Barnacles Medalist</string>
+	<string key="ui_metaachievement_leaderboard_barnacles_top10_score_title_THEY" rel_version="Feature_Leaderboards">Barnacles Medalist</string>
+	<string key="ui_metaachievement_leaderboard_brimstone_top1_score_title" rel_version="Feature_Leaderboards">Ennead Victor</string>
+	<string key="ui_metaachievement_leaderboard_brimstone_top1_score_title_SHE" rel_version="Feature_Leaderboards">Ennead Victor</string>
+	<string key="ui_metaachievement_leaderboard_brimstone_top1_score_title_THEY" rel_version="Feature_Leaderboards">Ennead Victor</string>
+	<string key="ui_metaachievement_leaderboard_brimstone_top10_score_title" rel_version="Feature_Leaderboards">Ennead Medalist</string>
+	<string key="ui_metaachievement_leaderboard_brimstone_top10_score_title_SHE" rel_version="Feature_Leaderboards">Ennead Medalist</string>
+	<string key="ui_metaachievement_leaderboard_brimstone_top10_score_title_THEY" rel_version="Feature_Leaderboards">Ennead Medalist</string>
+	<string key="ui_metaachievement_leaderboard_forge_top5_score_title" rel_version="Expedition_GreatCleave_01">Forge Victor</string>
+	<string key="ui_metaachievement_leaderboard_forge_top25_score_title" rel_version="Expedition_GreatCleave_01">Forge Medalist</string>
+	<string key="ui_metaachievement_leaderboard_depths_top1_score_title" rel_version="Feature_Leaderboards">Depths Victor</string>
+	<string key="ui_metaachievement_leaderboard_depths_top1_score_title_SHE" rel_version="Feature_Leaderboards">Depths Victor</string>
+	<string key="ui_metaachievement_leaderboard_depths_top1_score_title_THEY" rel_version="Feature_Leaderboards">Depths Victor</string>
+	<string key="ui_metaachievement_leaderboard_depths_top10_score_title" rel_version="Feature_Leaderboards">Depths Medalist</string>
+	<string key="ui_metaachievement_leaderboard_depths_top10_score_title_SHE" rel_version="Feature_Leaderboards">Depths Medalist</string>
+	<string key="ui_metaachievement_leaderboard_depths_top10_score_title_THEY" rel_version="Feature_Leaderboards">Depths Medalist</string>
+	<string key="ui_metaachievement_leaderboard_starstone_top1_score_title" rel_version="Feature_Leaderboards">Starstone Victor</string>
+	<string key="ui_metaachievement_leaderboard_starstone_top1_score_title_SHE" rel_version="Feature_Leaderboards">Starstone Victor</string>
+	<string key="ui_metaachievement_leaderboard_starstone_top1_score_title_THEY" rel_version="Feature_Leaderboards">Starstone Victor</string>
+	<string key="ui_metaachievement_leaderboard_starstone_top10_score_title" rel_version="Feature_Leaderboards">Starstone Medalist</string>
+	<string key="ui_metaachievement_leaderboard_starstone_top10_score_title_SHE" rel_version="Feature_Leaderboards">Starstone Medalist</string>
+	<string key="ui_metaachievement_leaderboard_starstone_top10_score_title_THEY" rel_version="Feature_Leaderboards">Starstone Medalist</string>
+	<string key="ui_metaachievement_leaderboard_dynasty_shipyard_top1_time_title" rel_version="Feature_Leaderboards">Dynasty Speed Victor</string>
+	<string key="ui_metaachievement_leaderboard_dynasty_shipyard_top1_time_title_SHE" rel_version="Feature_Leaderboards">Dynasty Speed Victor</string>
+	<string key="ui_metaachievement_leaderboard_dynasty_shipyard_top1_time_title_THEY" rel_version="Feature_Leaderboards">Dynasty Speed Victor</string>
+	<string key="ui_metaachievement_leaderboard_dynasty_shipyard_top10_time_title" rel_version="Feature_Leaderboards">Dynasty Speed Medalist</string>
+	<string key="ui_metaachievement_leaderboard_dynasty_shipyard_top10_time_title_SHE" rel_version="Feature_Leaderboards">Dynasty Speed Medalist</string>
+	<string key="ui_metaachievement_leaderboard_dynasty_shipyard_top10_time_title_THEY" rel_version="Feature_Leaderboards">Dynasty Speed Medalist</string>
+	<string key="ui_metaachievement_leaderboard_garden_of_genesis_top1_time_title" rel_version="Feature_Leaderboards">Genesis Speed Victor</string>
+	<string key="ui_metaachievement_leaderboard_garden_of_genesis_top1_time_title_SHE" rel_version="Feature_Leaderboards">Genesis Speed Victor</string>
+	<string key="ui_metaachievement_leaderboard_garden_of_genesis_top1_time_title_THEY" rel_version="Feature_Leaderboards">Genesis Speed Victor</string>
+	<string key="ui_metaachievement_leaderboard_garden_of_genesis_top10_time_title" rel_version="Feature_Leaderboards">Genesis Speed Medalist</string>
+	<string key="ui_metaachievement_leaderboard_garden_of_genesis_top10_time_title_SHE" rel_version="Feature_Leaderboards">Genesis Speed Medalist</string>
+	<string key="ui_metaachievement_leaderboard_garden_of_genesis_top10_time_title_THEY" rel_version="Feature_Leaderboards">Genesis Speed Medalist</string>
+	<string key="ui_metaachievement_leaderboard_lazarus_instrumentality_top1_time_title" rel_version="Feature_Leaderboards">Lazarus Speed Victor</string>
+	<string key="ui_metaachievement_leaderboard_lazarus_instrumentality_top1_time_title_SHE" rel_version="Feature_Leaderboards">Lazarus Speed Victor</string>
+	<string key="ui_metaachievement_leaderboard_lazarus_instrumentality_top1__title_THEY" rel_version="Feature_Leaderboards">Lazarus Speed Victor</string>
+	<string key="ui_metaachievement_leaderboard_lazarus_instrumentality_top10_time_title" rel_version="Feature_Leaderboards">Lazarus Speed Medalist</string>
+	<string key="ui_metaachievement_leaderboard_lazarus_instrumentality_top10_time_title_SHE" rel_version="Feature_Leaderboards">Lazarus Speed Medalist</string>
+	<string key="ui_metaachievement_leaderboard_lazarus_instrumentality_top10_time_title_THEY" rel_version="Feature_Leaderboards">Lazarus Speed Medalist</string>
+	<string key="ui_metaachievement_leaderboard_tempest_heart_top1_time_title" rel_version="Feature_Leaderboards">Tempest Speed Victor</string>
+	<string key="ui_metaachievement_leaderboard_tempest_heart_top1_time_title_SHE" rel_version="Feature_Leaderboards">Tempest Speed Victor</string>
+	<string key="ui_metaachievement_leaderboard_tempest_heart_top1_time_title_THEY" rel_version="Feature_Leaderboards">Tempest Speed Victor</string>
+	<string key="ui_metaachievement_leaderboard_tempest_heart_top10_time_title" rel_version="Feature_Leaderboards">Tempest Speed Medalist</string>
+	<string key="ui_metaachievement_leaderboard_tempest_heart_top10_time_title_SHE" rel_version="Feature_Leaderboards">Tempest Speed Medalist</string>
+	<string key="ui_metaachievement_leaderboard_tempest_heart_top10_time_title_THEY" rel_version="Feature_Leaderboards">Tempest Speed Medalist</string>
+	<string key="ui_metaachievement_leaderboard_barnacles_top1_time_title" rel_version="Feature_Leaderboards">Barnacles Speed Victor</string>
+	<string key="ui_metaachievement_leaderboard_barnacles_top1_time_title_SHE" rel_version="Feature_Leaderboards">Barnacles Speed Victor</string>
+	<string key="ui_metaachievement_leaderboard_barnacles_top1_time_title_THEY" rel_version="Feature_Leaderboards">Barnacles Speed Victor</string>
+	<string key="ui_metaachievement_leaderboard_barnacles_top10_time_title" rel_version="Feature_Leaderboards">Barnacles Speed Medalist</string>
+	<string key="ui_metaachievement_leaderboard_barnacles_top10_time_title_SHE" rel_version="Feature_Leaderboards">Barnacles Speed Medalist</string>
+	<string key="ui_metaachievement_leaderboard_barnacles_top10_time_title_THEY" rel_version="Feature_Leaderboards">Barnacles Speed Medalist</string>
+	<string key="ui_metaachievement_leaderboard_brimstone_top1_time_title" rel_version="Feature_Leaderboards">Ennead Speed Victor</string>
+	<string key="ui_metaachievement_leaderboard_brimstone_top1_time_title_SHE" rel_version="Feature_Leaderboards">Ennead Speed Victor</string>
+	<string key="ui_metaachievement_leaderboard_brimstone_top1_time_title_THEY" rel_version="Feature_Leaderboards">Ennead Speed Victor</string>
+	<string key="ui_metaachievement_leaderboard_brimstone_top10_time_title" rel_version="Feature_Leaderboards">Ennead Speed Medalist</string>
+	<string key="ui_metaachievement_leaderboard_brimstone_top10_time_title_SHE" rel_version="Feature_Leaderboards">Ennead Speed Medalist</string>
+	<string key="ui_metaachievement_leaderboard_brimstone_top10_time_title_THEY" rel_version="Feature_Leaderboards">Ennead Speed Medalist</string>
+	<string key="ui_metaachievement_leaderboard_depths_top1_time_title" rel_version="Feature_Leaderboards">Depths Speed Victor</string>
+	<string key="ui_metaachievement_leaderboard_depths_top1_time_title_SHE" rel_version="Feature_Leaderboards">Depths Speed Victor</string>
+	<string key="ui_metaachievement_leaderboard_depths_top1_time_title_THEY" rel_version="Feature_Leaderboards">Depths Speed Victor</string>
+	<string key="ui_metaachievement_leaderboard_depths_top10_time_title" rel_version="Feature_Leaderboards">Depths Speed Medalist</string>
+	<string key="ui_metaachievement_leaderboard_depths_top10_time_title_SHE" rel_version="Feature_Leaderboards">Depths Speed Medalist</string>
+	<string key="ui_metaachievement_leaderboard_depths_top10_time_title_THEY" rel_version="Feature_Leaderboards">Depths Speed Medalist</string>
+	<string key="ui_metaachievement_leaderboard_starstone_top1_time_title" rel_version="Feature_Leaderboards">Starstone Speed Victor</string>
+	<string key="ui_metaachievement_leaderboard_starstone_top1_time_title_SHE" rel_version="Feature_Leaderboards">Starstone Speed Victor</string>
+	<string key="ui_metaachievement_leaderboard_starstone_top1_time_title_THEY" rel_version="Feature_Leaderboards">Starstone Speed Victor</string>
+	<string key="ui_metaachievement_leaderboard_starstone_top10_time_title" rel_version="Feature_Leaderboards">Starstone Speed Medalist</string>
+	<string key="ui_metaachievement_leaderboard_starstone_top10_time_title_SHE" rel_version="Feature_Leaderboards">Starstone Speed Medalist</string>
+	<string key="ui_metaachievement_leaderboard_starstone_top10_time_title_THEY" rel_version="Feature_Leaderboards">Starstone Speed Medalist</string>
+	<string key="ui_metaachievement_leaderboard_forge_top5_time_title" rel_version="Expedition_GreatCleave_01">Forge Speed Victor</string>
+	<string key="ui_metaachievement_leaderboard_forge_top25_time_title" rel_version="Expedition_GreatCleave_01">Forge Speed Medalist</string>
+	<string key="ui_metaachievement_leaderboard_siren_queen_top1_completion_title" rel_version="Feature_Leaderboards">Siren Queen Victor</string>
+	<string key="ui_metaachievement_leaderboard_siren_queen_top1_completion_title_SHE" rel_version="Feature_Leaderboards">Siren Queen Victor</string>
+	<string key="ui_metaachievement_leaderboard_siren_queen_top1_completion_title_THEY" rel_version="Feature_Leaderboards">Siren Queen Victor</string>
+	<string key="ui_metaachievement_leaderboard_siren_queen_top10_completion_title" rel_version="Feature_Leaderboards">Siren Queen Medalist</string>
+	<string key="ui_metaachievement_leaderboard_siren_queen_top10_completion_title_SHE" rel_version="Feature_Leaderboards">Siren Queen Medalist</string>
+	<string key="ui_metaachievement_leaderboard_siren_queen_top10_completion_title_THEY" rel_version="Feature_Leaderboards">Siren Queen Medalist</string>
+	<string key="ui_metaachievement_leaderboard_eternal_pools_top1_completion_title" rel_version="Feature_Leaderboards">Eternal Pools Victor</string>
+	<string key="ui_metaachievement_leaderboard_eternal_pools_top1_completion_title_SHE" rel_version="Feature_Leaderboards">Eternal Pools Victor</string>
+	<string key="ui_metaachievement_leaderboard_eternal_pools_top1_completion_title_THEY" rel_version="Feature_Leaderboards">Eternal Pools Victor</string>
+	<string key="ui_metaachievement_leaderboard_eternal_pools_top10_completion_title" rel_version="Feature_Leaderboards">Eternal Pools Medalist</string>
+	<string key="ui_metaachievement_leaderboard_eternal_pools_top10_completion_title_SHE" rel_version="Feature_Leaderboards">Eternal Pools Medalist</string>
+	<string key="ui_metaachievement_leaderboard_eternal_pools_top10_completion_title_THEY" rel_version="Feature_Leaderboards">Eternal Pools Medalist</string>
+	<string key="ui_metaachievement_leaderboard_monoecious_cleft_top1_completion_title" rel_version="Feature_Leaderboards">Monoecious Cleft Victor</string>
+	<string key="ui_metaachievement_leaderboard_monoecious_cleft_top1_completion_title_SHE" rel_version="Feature_Leaderboards">Monoecious Cleft Victor</string>
+	<string key="ui_metaachievement_leaderboard_monoecious_cleft_top1_completion_title_THEY" rel_version="Feature_Leaderboards">Monoecious Cleft Victor</string>
+	<string key="ui_metaachievement_leaderboard_monoecious_cleft_top10_completion_title" rel_version="Feature_Leaderboards">Monoecious Cleft Medalist</string>
+	<string key="ui_metaachievement_leaderboard_monoecious_cleft_top10_completion_title_SHE" rel_version="Feature_Leaderboards">Monoecious Cleft Medalist</string>
+	<string key="ui_metaachievement_leaderboard_monoecious_cleft_top10_completion_title_THEY" rel_version="Feature_Leaderboards">Monoecious Cleft Medalist</string>
+	<string key="ui_metaachievement_leaderboard_open_world_pvp_influence_top1_title" rel_version="Feature_Leaderboards">Influence Victor</string>
+	<string key="ui_metaachievement_leaderboard_open_world_pvp_influence_top1_title_SHE" rel_version="Feature_Leaderboards">Influence Victor</string>
+	<string key="ui_metaachievement_leaderboard_open_world_pvp_influence_top1_title_THEY" rel_version="Feature_Leaderboards">Influence Victor</string>
+	<string key="ui_metaachievement_leaderboard_open_world_pvp_influence_top10_title" rel_version="Feature_Leaderboards">Influence Medalist</string>
+	<string key="ui_metaachievement_leaderboard_open_world_pvp_influence_top10_title_SHE" rel_version="Feature_Leaderboards">Influence Medalist</string>
+	<string key="ui_metaachievement_leaderboard_open_world_pvp_influence_top10_title_THEY" rel_version="Feature_Leaderboards">Influence Medalist</string>
+	<string key="ui_metaachievement_leaderboard_outpost_rush_top1_score_title" rel_version="Feature_Leaderboards">Outpost Rush Victor</string>
+	<string key="ui_metaachievement_leaderboard_outpost_rush_top1_score_title_SHE" rel_version="Feature_Leaderboards">Outpost Rush Victor</string>
+	<string key="ui_metaachievement_leaderboard_outpost_rush_top1_score_title_THEY" rel_version="Feature_Leaderboards">Outpost Rush Victor</string>
+	<string key="ui_metaachievement_leaderboard_outpost_rush_top10_score_title" rel_version="Feature_Leaderboards">Outpost Rush Medalist</string>
+	<string key="ui_metaachievement_leaderboard_outpost_rush_top10_score_title_SHE" rel_version="Feature_Leaderboards">Outpost Rush Medalist</string>
+	<string key="ui_metaachievement_leaderboard_outpost_rush_top10_score_title_THEY" rel_version="Feature_Leaderboards">Outpost Rush Medalist</string>
+	<string key="ui_metaachievement_leaderboard_darkness_breach_top1_score_title" rel_version="Feature_Leaderboards">Breach Victor</string>
+	<string key="ui_metaachievement_leaderboard_darkness_breach_top1_score_title_SHE" rel_version="Feature_Leaderboards">Breach Victor</string>
+	<string key="ui_metaachievement_leaderboard_darkness_breach_top1_score_title_THEY" rel_version="Feature_Leaderboards">Breach Victor</string>
+	<string key="ui_metaachievement_leaderboard_darkness_breach_top10_score_title" rel_version="Feature_Leaderboards">Breach Medalist</string>
+	<string key="ui_metaachievement_leaderboard_darkness_breach_top10_score_title_SHE" rel_version="Feature_Leaderboards">Breach Medalist</string>
+	<string key="ui_metaachievement_leaderboard_darkness_breach_top10_score_title_THEY" rel_version="Feature_Leaderboards">Breach Medalist</string>
+	<string key="ui_metaachievement_leaderboard_invasion_top1_score_title" rel_version="Feature_Leaderboards">Invasion Victor</string>
+	<string key="ui_metaachievement_leaderboard_invasion_top1_score_title_SHE" rel_version="Feature_Leaderboards">Invasion Victor</string>
+	<string key="ui_metaachievement_leaderboard_invasion_top1_score_title_THEY" rel_version="Feature_Leaderboards">Invasion Victor</string>
+	<string key="ui_metaachievement_leaderboard_invasion_top10_score_title" rel_version="Feature_Leaderboards">Invasion Medalist</string>
+	<string key="ui_metaachievement_leaderboard_invasion_top10_score_title_SHE" rel_version="Feature_Leaderboards">Invasion Medalist</string>
+	<string key="ui_metaachievement_leaderboard_invasion_top10_score_title_THEY" rel_version="Feature_Leaderboards">Invasion Medalist</string>
+	<string key="ui_metaachievement_leaderboard_war_top1_score_title" rel_version="Feature_Leaderboards">War Victor</string>
+	<string key="ui_metaachievement_leaderboard_war_top1_score_title_SHE" rel_version="Feature_Leaderboards">War Victor</string>
+	<string key="ui_metaachievement_leaderboard_war_top1_score_title_THEY" rel_version="Feature_Leaderboards">War Victor</string>
+	<string key="ui_metaachievement_leaderboard_war_top10_score_title" rel_version="Feature_Leaderboards">War Medalist</string>
+	<string key="ui_metaachievement_leaderboard_war_top10_score_title_SHE" rel_version="Feature_Leaderboards">War Medalist</string>
+	<string key="ui_metaachievement_leaderboard_war_top10_score_title_THEY" rel_version="Feature_Leaderboards">War Medalist</string>
+	<string key="ui_metaachievement_cutlass_keys_leaderboard_top1_company_score_title" rel_version="Feature_Leaderboards">Cutlass Keys Victor</string>
+	<string key="ui_metaachievement_cutlass_keys_leaderboard_top1_company_score_title_SHE" rel_version="Feature_Leaderboards">Cutlass Keys Victor</string>
+	<string key="ui_metaachievement_cutlass_keys_leaderboard_top1_company_score_title_THEY" rel_version="Feature_Leaderboards">Cutlass Keys Victor</string>
+	<string key="ui_metaachievement_cutlass_keys_leaderboard_top10_company_score_title" rel_version="Feature_Leaderboards">Cutlass Keys Medalist</string>
+	<string key="ui_metaachievement_cutlass_keys_leaderboard_top10_company_score_title_SHE" rel_version="Feature_Leaderboards">Cutlass Keys Medalist</string>
+	<string key="ui_metaachievement_cutlass_keys_leaderboard_top10_company_score_title_THEY" rel_version="Feature_Leaderboards">Cutlass Keys Medalist</string>
+	<string key="ui_metaachievement_first_light_leaderboard_top1_company_score_title" rel_version="Feature_Leaderboards">First Light Victor</string>
+	<string key="ui_metaachievement_first_light_leaderboard_top1_company_score_title_SHE" rel_version="Feature_Leaderboards">First Light Victor</string>
+	<string key="ui_metaachievement_first_light_leaderboard_top1_company_score_title_THEY" rel_version="Feature_Leaderboards">First Light Victor</string>
+	<string key="ui_metaachievement_first_light_leaderboard_top10_company_score_title" rel_version="Feature_Leaderboards">First Light Medalist</string>
+	<string key="ui_metaachievement_first_light_leaderboard_top10_company_score_title_SHE" rel_version="Feature_Leaderboards">First Light Medalist</string>
+	<string key="ui_metaachievement_first_light_leaderboard_top10_company_score_title_THEY" rel_version="Feature_Leaderboards">First Light Medalist</string>
+	<string key="ui_metaachievement_windsward_leaderboard_top1_company_score_title" rel_version="Feature_Leaderboards">Windsward Victor</string>
+	<string key="ui_metaachievement_windsward_leaderboard_top1_company_score_title_SHE" rel_version="Feature_Leaderboards">Windsward Victor</string>
+	<string key="ui_metaachievement_windsward_leaderboard_top1_company_score_title_THEY" rel_version="Feature_Leaderboards">Windsward Victor</string>
+	<string key="ui_metaachievement_windsward_leaderboard_top10_company_score_title" rel_version="Feature_Leaderboards">Windsward Medalist</string>
+	<string key="ui_metaachievement_windsward_leaderboard_top10_company_score_title_SHE" rel_version="Feature_Leaderboards">Windsward Medalist</string>
+	<string key="ui_metaachievement_windsward_leaderboard_top10_company_score_title_THEY" rel_version="Feature_Leaderboards">Windsward Medalist</string>
+	<string key="ui_metaachievement_reekwater_leaderboard_top1_company_score_title" rel_version="Feature_Leaderboards">Reekwater Victor</string>
+	<string key="ui_metaachievement_reekwater_leaderboard_top1_company_score_title_SHE" rel_version="Feature_Leaderboards">Reekwater Victor</string>
+	<string key="ui_metaachievement_reekwater_leaderboard_top1_company_score_title_THEY" rel_version="Feature_Leaderboards">Reekwater Victor</string>
+	<string key="ui_metaachievement_reekwater_leaderboard_top10_company_score_title" rel_version="Feature_Leaderboards">Reekwater Medalist</string>
+	<string key="ui_metaachievement_reekwater_leaderboard_top10_company_score_title_SHE" rel_version="Feature_Leaderboards">Reekwater Medalist</string>
+	<string key="ui_metaachievement_reekwater_leaderboard_top10_company_score_title_THEY" rel_version="Feature_Leaderboards">Reekwater Medalist</string>
+	<string key="ui_metaachievement_everfall_leaderboard_top1_company_score_title" rel_version="Feature_Leaderboards">Everfall Victor</string>
+	<string key="ui_metaachievement_everfall_leaderboard_top1_company_score_title_SHE" rel_version="Feature_Leaderboards">Everfall Victor</string>
+	<string key="ui_metaachievement_everfall_leaderboard_top1_company_score_title_THEY" rel_version="Feature_Leaderboards">Everfall Victor</string>
+	<string key="ui_metaachievement_everfall_leaderboard_top10_company_score_title" rel_version="Feature_Leaderboards">Everfall Medalist</string>
+	<string key="ui_metaachievement_everfall_leaderboard_top10_company_score_title_SHE" rel_version="Feature_Leaderboards">Everfall Medalist</string>
+	<string key="ui_metaachievement_everfall_leaderboard_top10_company_score_title_THEY" rel_version="Feature_Leaderboards">Everfall Medalist</string>
+	<string key="ui_metaachievement_weavers_fen_leaderboard_top1_company_score_title" rel_version="Feature_Leaderboards">Weaver's Fen Victor</string>
+	<string key="ui_metaachievement_weavers_fen_leaderboard_top1_company_score_title_SHE" rel_version="Feature_Leaderboards">Weaver's Fen Victor</string>
+	<string key="ui_metaachievement_weavers_fen_leaderboard_top1_company_score_title_THEY" rel_version="Feature_Leaderboards">Weaver's Fen Victor</string>
+	<string key="ui_metaachievement_weavers_fen_leaderboard_top10_company_score_title" rel_version="Feature_Leaderboards">Weaver's Fen Medalist</string>
+	<string key="ui_metaachievement_weavers_fen_leaderboard_top10_company_score_title_SHE" rel_version="Feature_Leaderboards">Weaver's Fen Medalist</string>
+	<string key="ui_metaachievement_weavers_fen_leaderboard_top10_company_score_title_THEY" rel_version="Feature_Leaderboards">Weaver's Fen Medalist</string>
+	<string key="ui_metaachievement_restless_shore_leaderboard_top1_company_score_title" rel_version="Feature_Leaderboards">Restless Shore Victor</string>
+	<string key="ui_metaachievement_restless_shore_leaderboard_top1_company_score_title_SHE" rel_version="Feature_Leaderboards">Restless Shore Victor</string>
+	<string key="ui_metaachievement_restless_shore_leaderboard_top1_company_score_title_THEY" rel_version="Feature_Leaderboards">Restless Shore Victor</string>
+	<string key="ui_metaachievement_restless_shore_leaderboard_top10_company_score_title" rel_version="Feature_Leaderboards">Restless Shore Medalist</string>
+	<string key="ui_metaachievement_restless_shore_leaderboard_top10_company_score_title_SHE" rel_version="Feature_Leaderboards">Restless Shore Medalist</string>
+	<string key="ui_metaachievement_restless_shore_leaderboard_top10_company_score_title_THEY" rel_version="Feature_Leaderboards">Restless Shore Medalist</string>
+	<string key="ui_metaachievement_mourningdale_leaderboard_top1_company_score_title" rel_version="Feature_Leaderboards">Mourningdale Victor</string>
+	<string key="ui_metaachievement_mourningdale_leaderboard_top1_company_score_title_SHE" rel_version="Feature_Leaderboards">Mourningdale Victor</string>
+	<string key="ui_metaachievement_mourningdale_leaderboard_top1_company_score_title_THEY" rel_version="Feature_Leaderboards">Mourningdale Victor</string>
+	<string key="ui_metaachievement_mourningdale_leaderboard_top10_company_score_title" rel_version="Feature_Leaderboards">Mourningdale Medalist</string>
+	<string key="ui_metaachievement_mourningdale_leaderboard_top10_company_score_title_SHE" rel_version="Feature_Leaderboards">Mourningdale Medalist</string>
+	<string key="ui_metaachievement_mourningdale_leaderboard_top10_company_score_title_THEY" rel_version="Feature_Leaderboards">Mourningdale Medalist</string>
+	<string key="ui_metaachievement_brightwood_leaderboard_top1_company_score_title" rel_version="Feature_Leaderboards">Brightwood Victor</string>
+	<string key="ui_metaachievement_brightwood_leaderboard_top1_company_score_title_SHE" rel_version="Feature_Leaderboards">Brightwood Victor</string>
+	<string key="ui_metaachievement_brightwood_leaderboard_top1_company_score_title_THEY" rel_version="Feature_Leaderboards">Brightwood Victor</string>
+	<string key="ui_metaachievement_brightwood_leaderboard_top10_company_score_title" rel_version="Feature_Leaderboards">Brightwood Medalist</string>
+	<string key="ui_metaachievement_brightwood_leaderboard_top10_company_score_title_SHE" rel_version="Feature_Leaderboards">Brightwood Medalist</string>
+	<string key="ui_metaachievement_brightwood_leaderboard_top10_company_score_title_THEY" rel_version="Feature_Leaderboards">Brightwood Medalist</string>
+	<string key="ui_metaachievement_ebonscale_leaderboard_top1_company_score_title" rel_version="Feature_Leaderboards">Ebonscale Victor</string>
+	<string key="ui_metaachievement_ebonscale_leaderboard_top1_company_score_title_SHE" rel_version="Feature_Leaderboards">Ebonscale Victor</string>
+	<string key="ui_metaachievement_ebonscale_leaderboard_top1_company_score_title_THEY" rel_version="Feature_Leaderboards">Ebonscale Victor</string>
+	<string key="ui_metaachievement_ebonscale_leaderboard_top10_company_score_title" rel_version="Feature_Leaderboards">Ebonscale Medalist</string>
+	<string key="ui_metaachievement_ebonscale_leaderboard_top10_company_score_title_SHE" rel_version="Feature_Leaderboards">Ebonscale Medalist</string>
+	<string key="ui_metaachievement_ebonscale_leaderboard_top10_company_score_title_THEY" rel_version="Feature_Leaderboards">Ebonscale Medalist</string>
+	<string key="ui_metaachievement_monarchs_bluffs_leaderboard_top1_company_score_title" rel_version="Feature_Leaderboards">Monarch's Victor</string>
+	<string key="ui_metaachievement_monarchs_bluffs_leaderboard_top1_company_score_title_SHE" rel_version="Feature_Leaderboards">Monarch's Victor</string>
+	<string key="ui_metaachievement_monarchs_bluffs_leaderboard_top1_company_score_title_THEY" rel_version="Feature_Leaderboards">Monarch's Victor</string>
+	<string key="ui_metaachievement_monarchs_bluffs_leaderboard_top10_company_score_title" rel_version="Feature_Leaderboards">Monarch's Medalist</string>
+	<string key="ui_metaachievement_monarchs_bluffs_leaderboard_top10_company_score_title_SHE" rel_version="Feature_Leaderboards">Monarch's Medalist</string>
+	<string key="ui_metaachievement_monarchs_bluffs_leaderboard_top10_company_score_title_THEY" rel_version="Feature_Leaderboards">Monarch's Medalist</string>
+	<string key="ui_metaachievement_brimstone_sands_leaderboard_top1_company_score_title" rel_version="Feature_Leaderboards">Brimstone Victor</string>
+	<string key="ui_metaachievement_brimstone_sands_leaderboard_top1_company_score_title_SHE" rel_version="Feature_Leaderboards">Brimstone Victor</string>
+	<string key="ui_metaachievement_brimstone_sands_leaderboard_top1_company_score_title_THEY" rel_version="Feature_Leaderboards">Brimstone Victor</string>
+	<string key="ui_metaachievement_brimstone_sands_leaderboard_top10_company_score_title" rel_version="Feature_Leaderboards">Brimstone Medalist</string>
+	<string key="ui_metaachievement_brimstone_sands_leaderboard_top10_company_score_title_SHE" rel_version="Feature_Leaderboards">Brimstone Medalist</string>
+	<string key="ui_metaachievement_brimstone_sands_leaderboard_top10_company_score_title_THEY" rel_version="Feature_Leaderboards">Brimstone Medalist</string>
+	<string key="ui_metaachievement_all_territories_leaderboard_top1_company_score_title" rel_version="Feature_Leaderboards">Territory Control Victor</string>
+	<string key="ui_metaachievement_all_territories_leaderboard_top1_company_score_title_SHE" rel_version="Feature_Leaderboards">Territory Control Victor</string>
+	<string key="ui_metaachievement_all_territories_leaderboard_top1_company_score_title_THEY" rel_version="Feature_Leaderboards">Territory Control Victor</string>
+	<string key="ui_metaachievement_all_territories_leaderboard_top10_company_score_title" rel_version="Feature_Leaderboards">Territory Control Medalist</string>
+	<string key="ui_metaachievement_all_territories_leaderboard_top10_company_score_title_SHE" rel_version="Feature_Leaderboards">Territory Control Medalist</string>
+	<string key="ui_metaachievement_all_territories_leaderboard_top10_company_score_title_THEY" rel_version="Feature_Leaderboards">Territory Control Medalist</string>
 	<string key="ui_metachievement_pvefactionmissions_arcana_title1">Arcane Provisioner</string>
 	<string key="ui_metachievement_pvefactionmissions_arcana_title1_SHE">Arcane Provisioner</string>
 	<string key="ui_metachievement_pvefactionmissions_arcana_title1_THEY">Arcane Provisioner</string>
@@ -3123,6 +3147,10 @@
 	<string key="ui_metachievement_questarc_brightwood_desc1">Complete the Brightwood arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Inquisitor's Legacy&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_brightwood_desc2">Complete the Brightwood arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Secrets of the Earth&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_brightwood_desc3">Complete the Brightwood arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Dark Legacy&lt;/font&gt;.</string>
+	<string key="ui_metachievement_questarc_v2_brightwood_desc1">Complete the Brightwood arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Darkness in the Brightwood&lt;/font&gt;.</string>
+	<string key="ui_metachievement_questarc_v2_brightwood_desc2">Complete the Brightwood arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;The Gates of Great Cleave&lt;/font&gt;.</string>
+	<string key="ui_metachievement_questarc_v2_brightwood_desc3">Complete the Brightwood arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Earthly Treasures&lt;/font&gt;.</string>
+	<string key="ui_metachievement_questarc_v2_brightwood_desc4">Complete the Brightwood arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Location Scout&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_brimstonesands_desc1" rel_version="Territory_Brimstone_Sands">Complete the Brimstone Sands arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Secrets in the Sands&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_brimstonesands_desc2" rel_version="Territory_Brimstone_Sands">Complete the Brimstone Sands arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;A Hero No More&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_brimstonesands_desc3" rel_version="Territory_Brimstone_Sands">Complete the Brimstone Sands arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;The Missing Praetorians&lt;/font&gt;.</string>
@@ -3169,6 +3197,10 @@
 	<string key="ui_metachievement_questarc_weaversfen_desc1">Complete the Weavers's Fen arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Fishy Illness&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_weaversfen_desc2">Complete the Weavers's Fen arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Traitorous Wraith&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_weaversfen_desc3">Complete the Weavers's Fen arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Swamp Sorceress&lt;/font&gt;.</string>
+	<string key="ui_metachievement_quest_weaversfen_crone_desc">Discovered the identity of the Corpse Crone.</string>
+	<string key="ui_metachievement_quest_weaversfen_prison_desc">Accidentally released Fulgoris at Andrometus.</string>
+	<string key="ui_metachievement_quest_weaversfen_color_desc">Helped many of the colorful locals found in Weaver's Fen.</string>
+	<string key="ui_metachievement_quest_weaversfen_bear_desc">Brought Bear Urine to all the researchers.</string>
 	<string key="ui_metachievement_questarc_windsward_desc1">Complete the Windsward arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Great Expectations&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_windsward_desc2">Complete the Windsward arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;No Confidence Stew&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_windsward_desc3">Complete the Windsward arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Predator, Prey&lt;/font&gt;.</string>
@@ -3179,84 +3211,84 @@
 	<string key="ui_metachievement_quest_windsward_mercy_desc">Convinced Medea to give Windsward a second chance.</string>
 	<string key="ui_metachievement_questarc_fishingtraining_desc">Complete the fishing quest arc that starts with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Fishing With Shields&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questtotals_generic_desc">Complete {number} quests.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_dynasty_shipyard_top1_score_desc">Title earned by placing Top 5 on the Dynasty Shipyard Difficulty 10 Score Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_dynasty_shipyard_top10_score_desc">Title earned by placing Top 25 on the Dynasty Shipyard Difficulty 10 Score Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_garden_of_genesis_top1_score_desc">Title earned by placing Top 5 on the Garden of Genesis Difficulty 10 Score Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_garden_of_genesis_top10_score_desc">Title earned by placing Top 25 on the Garden of Genesis Difficulty 10 Score Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_lazarus_instrumentality_top1_score_desc">Title earned by placing Top 5 on the Lazarus Instrumentality Difficulty 10 Score Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_lazarus_instrumentality_top10_score_desc">Title earned by placing Top 25 on the Lazarus Instrumentality Difficulty 10 Score Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_tempest_heart_top1_score_desc">Title earned by placing Top 5 on the Tempest Heart Difficulty 10 Score Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_tempest_heart_top10_score_desc">Title earned by placing in the Top 25 on the Tempest Heart Difficulty 10 Score Weekly Leaderboards.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_barnacles_top1_score_desc">Title earned by placing Top 5 on the Barnacles and Black Powder Difficulty 10 Score Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_barnacles_top10_score_desc">Title earned by placing Top 25 on the Barnacles and Black Powder Difficulty 10 Score Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_brimstone_top1_score_desc">Title earned by placing Top 5 on The Ennead Difficulty 10 Score Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_brimstone_top10_score_desc">Title earned by placing Top 25 on The Ennead Difficulty 10 Score Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_depths_top1_score_desc">Title earned by placing Top 5 on The Depths Difficulty 10 Score Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_depths_top10_score_desc">Title earned by placing Top 25 on The Depths Difficulty 10 Score Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_starstone_top1_score_desc">Title earned by placing Top 5 on the Starstone Barrows Difficulty 10 Score Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_starstone_top10_score_desc">Title earned by placing Top 25 on the Starstone Barrows Difficulty 10 Score Weekly Leaderboard.</string>
-	<string rel_version="Expedition_GreatCleave_01" key="ui_metaachievement_leaderboard_forge_top5_score_desc">Title earned by placing Top 5 on the Empyrean Forge Difficulty 10 Score Weekly Leaderboard.</string>
-	<string rel_version="Expedition_GreatCleave_01" key="ui_metaachievement_leaderboard_forge_top25_score_desc">Title earned by placing Top 25 on the Empyrean Forge Difficulty 10 Score Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_dynasty_shipyard_top1_time_desc">Title earned by placing Top 5 on the Dynasty Shipyard Difficulty 10 Clear Time Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_dynasty_shipyard_top10_time_desc">Title earned by placing Top 25 on the Dynasty Shipyard Difficulty 10 Clear Time Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_garden_of_genesis_top1_time_desc">Title earned by placing Top 5 on the Garden of Genesis Difficulty 10 Clear Time Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_garden_of_genesis_top10_time_desc">Title earned by placing in the Top 25 on the Garden of Genesis Difficulty 10 Clear Time Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_lazarus_instrumentality_top1_time_desc">Title earned by placing Top 5 on the Lazarus Instrumentality Difficulty 10 Clear Time Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_lazarus_instrumentality_top10_time_desc">Title earned by placing Top 25 on the Lazarus Instrumentality Difficulty 10 Clear Time Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_tempest_heart_top1_time_desc">Title earned by placing Top 5 on the Tempest Heart Difficulty 10 Clear Time Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_tempest_heart_top10_time_desc">Title earned by placing Top 25 on the Tempest Heart Difficulty 10 Clear Time Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_barnacles_top1_time_desc">Title earned by placing Top 5 on the Barnacles and Black Powder Difficulty 10 Clear Time Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_barnacles_top10_time_desc">Title earned by placing Top 25 on the Barnacles and Black Powder Difficulty 10 Clear Time Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_brimstone_top1_time_desc">Title earned by placing Top 5 on The Ennead Difficulty 10 Clear Time Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_brimstone_top10_time_desc">Title earned by placing Top 25 on The Ennead Difficulty 10 Clear Time Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_depths_top1_time_desc">Title earned by placing Top 5 on The Depths Difficulty 10 Clear Time Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_depths_top10_time_desc">Title earned by placing Top 25 on The Depths Difficulty 10 Clear Time Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_starstone_top1_time_desc">Title earned by placing Top 5 on the Starstone Barrows Difficulty 10 Clear Time Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_starstone_top10_time_desc">Title earned by placing Top 25 on the Starstone Barrows Difficulty 10 Clear Time Weekly Leaderboard.</string>
-	<string rel_version="Expedition_GreatCleave_01" key="ui_metaachievement_leaderboard_forge_top5_time_desc">Title earned by placing Top 5 on the Empyrean Forge Difficulty 10 Clear Time Weekly Leaderboard.</string>
-	<string rel_version="Expedition_GreatCleave_01" key="ui_metaachievement_leaderboard_forge_top25_time_desc">Title earned by placing Top 25 on the Empyrean Forge Difficulty 10 Clear Time Weekly Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_siren_queen_top1_completion_desc">Title earned by placing Top 10 on The Siren Queen Seasonal Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_siren_queen_top10_completion_desc">Title earned by placing Top 50 on The Siren Queen Seasonal Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_eternal_pools_top1_completion_desc">Title earned by placing Top 10 on the Eternal Pools Seasonal Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_eternal_pools_top10_completion_desc">Title earned by placing Top 50 on the Eternal Pools Seasonal Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_monoecious_cleft_top1_completion_desc">Title earned by placing Top 10 on the Monoecious Cleft Seasonal Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_monoecious_cleft_top10_completion_desc">Title earned by placing Top 50 on the Monoecious Cleft Seasonal Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_open_world_pvp_influence_top1_desc">Title earned by placing Top 10 on the Influence Earned Seasonal Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_open_world_pvp_influence_top10_desc">Title earned by placing Top 50 on the Influence Earned Seasonal Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_outpost_rush_top1_score_desc">Title earned by placing Top 10 on the Outpost Rush Wins Seasonal Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_outpost_rush_top10_score_desc">Title earned by placing Top 50 on the Outpost Rush Wins Seasonal Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_darkness_breach_top1_score_desc">Title earned by placing Top 10 on the Corruption Breach Score Seasonal Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_darkness_breach_top10_score_desc">Title earned by placing Top 50 on the Corruption Breach Score Seasonal Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_invasion_top1_score_desc">Title earned by placing Top 10 on the Invasion Score Seasonal Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_invasion_top10_score_desc">Title earned by placing Top 50 on the Invasion Score Seasonal Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_war_top1_score_desc">Title earned by placing Top 10 on the War Score Seasonal Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_leaderboard_war_top10_score_desc">Title earned by placing Top 50 on the War Score Seasonal Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_cutlass_keys_leaderboard_top1_company_score_desc">Title earned by placing Top 3 on the Cutlass Keys Days Governed Seasonal Leaderboard. </string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_cutlass_keys_leaderboard_top10_company_score_desc">Title earned by placing Top 6 on the Cutlass Keys Days Governed Seasonal Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_first_light_leaderboard_top1_company_score_desc">Title earned by placing Top 3 on the First Light Days Governed Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_first_light_leaderboard_top10_company_score_desc">Title earned by placing Top 6 for First Light Days Governed Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_windsward_leaderboard_top1_company_score_desc">Title earned by placing Top 3 on the Windsward Days Governed Leaderboard. </string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_windsward_leaderboard_top10_company_score_desc">Title earned by placing Top 6 on the Windsward Days Governed Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_reekwater_leaderboard_top1_company_score_desc">Title earned by placing Top 3 on the Reekwater Days Governed Leaderboard. </string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_reekwater_leaderboard_top10_company_score_desc">Title earned by placing Top 6 on the Reekwater Days Governed Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_everfall_leaderboard_top1_company_score_desc">Title earned by placing Top 3 on the Everfall Days Governed Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_everfall_leaderboard_top10_company_score_desc">Title earned by placing Top 6 on the Everfall Days Governed Leaderboard. </string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_weavers_fen_leaderboard_top1_company_score_desc">Title earned by placing Top 3 on the Weaver's Fen Days Governed Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_weavers_fen_leaderboard_top10_company_score_desc">Title earned by placing Top 6 on the Weaver's Fen Days Governed Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_restless_shore_leaderboard_top1_company_score_desc">Title earned by placing Top 3 on the Restless Shore Days Governed Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_restless_shore_leaderboard_top10_company_score_desc">Title earned by placing Top 6 on the Restless Shore Days Governed Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_mourningdale_leaderboard_top1_company_score_desc">Title earned by placing Top 3 on the Mourningdale Days Governed Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_mourningdale_leaderboard_top10_company_score_desc">Title earned by placing Top 6 on the Mourningdale Days Governed Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_brightwood_leaderboard_top1_company_score_desc">Title earned by placing Top 3 on the Brightwood Days Governed Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_brightwood_leaderboard_top10_company_score_desc">Title earned by placing Top 6 on the Brightwood Days Governed Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_ebonscale_leaderboard_top1_company_score_desc">Title earned by placing Top 3 on the Ebonscale Reach Days Governed Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_ebonscale_leaderboard_top10_company_score_desc">Title earned by placing Top 6 on the Ebonscale Reach Days Governed Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_monarchs_leaderboard_top1_company_score_desc">Title earned by placing Top 3 on the Monarch's Bluffs Days Governed Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_monarchs_leaderboard_top10_company_score_desc">Title earned by placing Top 6 on the Monarch's Bluffs Days Governed Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_brimstone_leaderboard_top1_company_score_desc">Title earned by placing Top 3 on the Brimstone Sands Days Governed Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_brimstone_leaderboard_top10_company_score_desc">Title earned by placing Top 6 on the Brimestone Sands Days Governed Leaderboard.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_all_territories_leaderboard_top1_company_score_desc">Title earned by placing Top 3 on the Days Governed for All Territories.</string>
-	<string rel_version="Feature_Leaderboards" key="ui_metaachievement_all_territories_leaderboard_top10_company_score_desc">Title earned by placing Top 6 on the Days Governed for All Territories.</string>
+	<string key="ui_metaachievement_leaderboard_dynasty_shipyard_top1_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 5 on the Dynasty Shipyard Difficulty 10 Score Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_dynasty_shipyard_top10_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 25 on the Dynasty Shipyard Difficulty 10 Score Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_garden_of_genesis_top1_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 5 on the Garden of Genesis Difficulty 10 Score Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_garden_of_genesis_top10_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 25 on the Garden of Genesis Difficulty 10 Score Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_lazarus_instrumentality_top1_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 5 on the Lazarus Instrumentality Difficulty 10 Score Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_lazarus_instrumentality_top10_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 25 on the Lazarus Instrumentality Difficulty 10 Score Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_tempest_heart_top1_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 5 on the Tempest Heart Difficulty 10 Score Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_tempest_heart_top10_score_desc" rel_version="Feature_Leaderboards">Title earned by placing in the Top 25 on the Tempest Heart Difficulty 10 Score Weekly Leaderboards.</string>
+	<string key="ui_metaachievement_leaderboard_barnacles_top1_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 5 on the Barnacles and Black Powder Difficulty 10 Score Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_barnacles_top10_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 25 on the Barnacles and Black Powder Difficulty 10 Score Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_brimstone_top1_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 5 on The Ennead Difficulty 10 Score Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_brimstone_top10_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 25 on The Ennead Difficulty 10 Score Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_depths_top1_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 5 on The Depths Difficulty 10 Score Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_depths_top10_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 25 on The Depths Difficulty 10 Score Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_starstone_top1_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 5 on the Starstone Barrows Difficulty 10 Score Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_starstone_top10_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 25 on the Starstone Barrows Difficulty 10 Score Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_forge_top5_score_desc" rel_version="Expedition_GreatCleave_01">Title earned by placing Top 5 on the Empyrean Forge Difficulty 10 Score Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_forge_top25_score_desc" rel_version="Expedition_GreatCleave_01">Title earned by placing Top 25 on the Empyrean Forge Difficulty 10 Score Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_dynasty_shipyard_top1_time_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 5 on the Dynasty Shipyard Difficulty 10 Clear Time Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_dynasty_shipyard_top10_time_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 25 on the Dynasty Shipyard Difficulty 10 Clear Time Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_garden_of_genesis_top1_time_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 5 on the Garden of Genesis Difficulty 10 Clear Time Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_garden_of_genesis_top10_time_desc" rel_version="Feature_Leaderboards">Title earned by placing in the Top 25 on the Garden of Genesis Difficulty 10 Clear Time Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_lazarus_instrumentality_top1_time_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 5 on the Lazarus Instrumentality Difficulty 10 Clear Time Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_lazarus_instrumentality_top10_time_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 25 on the Lazarus Instrumentality Difficulty 10 Clear Time Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_tempest_heart_top1_time_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 5 on the Tempest Heart Difficulty 10 Clear Time Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_tempest_heart_top10_time_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 25 on the Tempest Heart Difficulty 10 Clear Time Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_barnacles_top1_time_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 5 on the Barnacles and Black Powder Difficulty 10 Clear Time Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_barnacles_top10_time_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 25 on the Barnacles and Black Powder Difficulty 10 Clear Time Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_brimstone_top1_time_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 5 on The Ennead Difficulty 10 Clear Time Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_brimstone_top10_time_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 25 on The Ennead Difficulty 10 Clear Time Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_depths_top1_time_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 5 on The Depths Difficulty 10 Clear Time Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_depths_top10_time_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 25 on The Depths Difficulty 10 Clear Time Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_starstone_top1_time_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 5 on the Starstone Barrows Difficulty 10 Clear Time Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_starstone_top10_time_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 25 on the Starstone Barrows Difficulty 10 Clear Time Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_forge_top5_time_desc" rel_version="Expedition_GreatCleave_01">Title earned by placing Top 5 on the Empyrean Forge Difficulty 10 Clear Time Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_forge_top25_time_desc" rel_version="Expedition_GreatCleave_01">Title earned by placing Top 25 on the Empyrean Forge Difficulty 10 Clear Time Weekly Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_siren_queen_top1_completion_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 10 on The Siren Queen Seasonal Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_siren_queen_top10_completion_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 50 on The Siren Queen Seasonal Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_eternal_pools_top1_completion_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 10 on the Eternal Pools Seasonal Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_eternal_pools_top10_completion_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 50 on the Eternal Pools Seasonal Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_monoecious_cleft_top1_completion_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 10 on the Monoecious Cleft Seasonal Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_monoecious_cleft_top10_completion_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 50 on the Monoecious Cleft Seasonal Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_open_world_pvp_influence_top1_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 10 on the Influence Earned Seasonal Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_open_world_pvp_influence_top10_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 50 on the Influence Earned Seasonal Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_outpost_rush_top1_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 10 on the Outpost Rush Wins Seasonal Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_outpost_rush_top10_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 50 on the Outpost Rush Wins Seasonal Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_darkness_breach_top1_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 10 on the Corruption Breach Score Seasonal Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_darkness_breach_top10_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 50 on the Corruption Breach Score Seasonal Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_invasion_top1_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 10 on the Invasion Score Seasonal Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_invasion_top10_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 50 on the Invasion Score Seasonal Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_war_top1_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 10 on the War Score Seasonal Leaderboard.</string>
+	<string key="ui_metaachievement_leaderboard_war_top10_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 50 on the War Score Seasonal Leaderboard.</string>
+	<string key="ui_metaachievement_cutlass_keys_leaderboard_top1_company_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 3 on the Cutlass Keys Days Governed Seasonal Leaderboard.</string>
+	<string key="ui_metaachievement_cutlass_keys_leaderboard_top10_company_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 6 on the Cutlass Keys Days Governed Seasonal Leaderboard.</string>
+	<string key="ui_metaachievement_first_light_leaderboard_top1_company_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 3 on the First Light Days Governed Leaderboard.</string>
+	<string key="ui_metaachievement_first_light_leaderboard_top10_company_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 6 for First Light Days Governed Leaderboard.</string>
+	<string key="ui_metaachievement_windsward_leaderboard_top1_company_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 3 on the Windsward Days Governed Leaderboard.</string>
+	<string key="ui_metaachievement_windsward_leaderboard_top10_company_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 6 on the Windsward Days Governed Leaderboard.</string>
+	<string key="ui_metaachievement_reekwater_leaderboard_top1_company_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 3 on the Reekwater Days Governed Leaderboard.</string>
+	<string key="ui_metaachievement_reekwater_leaderboard_top10_company_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 6 on the Reekwater Days Governed Leaderboard.</string>
+	<string key="ui_metaachievement_everfall_leaderboard_top1_company_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 3 on the Everfall Days Governed Leaderboard.</string>
+	<string key="ui_metaachievement_everfall_leaderboard_top10_company_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 6 on the Everfall Days Governed Leaderboard.</string>
+	<string key="ui_metaachievement_weavers_fen_leaderboard_top1_company_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 3 on the Weaver's Fen Days Governed Leaderboard.</string>
+	<string key="ui_metaachievement_weavers_fen_leaderboard_top10_company_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 6 on the Weaver's Fen Days Governed Leaderboard.</string>
+	<string key="ui_metaachievement_restless_shore_leaderboard_top1_company_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 3 on the Restless Shore Days Governed Leaderboard.</string>
+	<string key="ui_metaachievement_restless_shore_leaderboard_top10_company_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 6 on the Restless Shore Days Governed Leaderboard.</string>
+	<string key="ui_metaachievement_mourningdale_leaderboard_top1_company_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 3 on the Mourningdale Days Governed Leaderboard.</string>
+	<string key="ui_metaachievement_mourningdale_leaderboard_top10_company_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 6 on the Mourningdale Days Governed Leaderboard.</string>
+	<string key="ui_metaachievement_brightwood_leaderboard_top1_company_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 3 on the Brightwood Days Governed Leaderboard.</string>
+	<string key="ui_metaachievement_brightwood_leaderboard_top10_company_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 6 on the Brightwood Days Governed Leaderboard.</string>
+	<string key="ui_metaachievement_ebonscale_leaderboard_top1_company_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 3 on the Ebonscale Reach Days Governed Leaderboard.</string>
+	<string key="ui_metaachievement_ebonscale_leaderboard_top10_company_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 6 on the Ebonscale Reach Days Governed Leaderboard.</string>
+	<string key="ui_metaachievement_monarchs_leaderboard_top1_company_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 3 on the Monarch's Bluffs Days Governed Leaderboard.</string>
+	<string key="ui_metaachievement_monarchs_leaderboard_top10_company_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 6 on the Monarch's Bluffs Days Governed Leaderboard.</string>
+	<string key="ui_metaachievement_brimstone_leaderboard_top1_company_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 3 on the Brimstone Sands Days Governed Leaderboard.</string>
+	<string key="ui_metaachievement_brimstone_leaderboard_top10_company_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 6 on the Brimestone Sands Days Governed Leaderboard.</string>
+	<string key="ui_metaachievement_all_territories_leaderboard_top1_company_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 3 on the Days Governed for All Territories.</string>
+	<string key="ui_metaachievement_all_territories_leaderboard_top10_company_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 6 on the Days Governed for All Territories.</string>
 	<string key="ui_metachievement_pvefactionmissions_arcana_generic_desc">Complete {number} Arcana PvE faction missions.</string>
 	<string key="ui_metachievement_pvefactionmissions_armory_generic_desc">Complete {number} Armoring PvE faction missions.</string>
 	<string key="ui_metachievement_pvefactionmissions_cook_generic_desc">Complete {number} Cooking PvE faction missions.</string>
@@ -3624,5 +3656,6 @@
 	<string key="ui_metachievement_hidden_monarchs">Keep playing in Monarch's Bluffs to complete this hidden achievement.</string>
 	<string key="ui_metachievement_hidden_windsward">Keep playing in Windsward to complete this hidden achievement.</string>
 	<string key="ui_metachievement_hidden_everfall">Keep playing in Everfall to complete this hidden achievement.</string>
+	<string key="ui_metachievement_hidden_weaversfen">Keep playing in Weaver's Fen to complete this hidden achievement.</string>
 </resources>
 

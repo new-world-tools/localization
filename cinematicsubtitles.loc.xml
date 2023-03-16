@@ -49,7 +49,8 @@
 	<string key="TempestRising06" start="55" end="61" dialogue-next="TempestRising07">The heart of the mountain now beats strong with this purpose.</string>
 	<string key="TempestRising07" start="61" end="72" dialogue-next="TempestRising08">After a century of preparation, our campaign has begun. The islands townships already fall before the might of our armies.</string>
 	<string key="TempestRising08" start="72" end="77" dialogue-next="TempestRising09">The only thing I had not foreseen is you.</string>
-	<string key="TempestRising09" start="77" end="100">You who have stolen the gift meant for me. And now your soul will pay the price. For I will not stop until I have seized back the destiny stolen from us. And brought true freedom to the world both old and new.</string>
+	<string key="TempestRising09" start="77" end="85" dialogue-next="TempestRising10">You who have stolen the gift meant for me. And now your soul will pay the price.</string>
+	<string key="TempestRising10" start="85" end="100">For I will not stop until I have seized back the destiny stolen from us. And brought true freedom to the world both old and new.</string>
 	<string key="WildHuntress01" start="2" end="11" dialogue-next="WildHuntress02">Apophis is returned to the sands and Sutekh remains at rest. But the hunt has only just begun.</string>
 	<string key="WildHuntress02" start="13" end="22" dialogue-next="WildHuntress03">This hunt will be my greatest yet, the wretched mass of humanity my ultimate prey.</string>
 	<string key="WildHuntress03" start="22" end="29" dialogue-next="WildHuntress04">When we first appeared before them, humans were eager to learn, hungry for guidance.</string>
@@ -100,6 +101,7 @@
 	<string key="TempestRisingMB06" start="55" end="61" dialogue-next="TempestRisingMB07">The heart of the mountain now beats strong with this purpose.</string>
 	<string key="TempestRisingMB07" start="61" end="72" dialogue-next="TempestRisingMB08">After a century of preparation, our campaign has begun. The islands townships already fall before the might of our armies.</string>
 	<string key="TempestRisingMB08" start="72" end="77" dialogue-next="TempestRisingMB09">The only thing I had not foreseen is you.</string>
-	<string key="TempestRisingMB09" start="77" end="100">You who have stolen the gift meant for me. And now your soul will pay the price. For I will not stop until I have seized back the destiny stolen from us. And brought true freedom to the world both old and new.</string>
+	<string key="TempestRisingMB09" start="77" end="85" dialogue-next="TempestRisingMB10">You who have stolen the gift meant for me. And now your soul will pay the price.</string>
+	<string key="TempestRisingMB10" start="85" end="100">For I will not stop until I have seized back the destiny stolen from us. And brought true freedom to the world both old and new.</string>
 </resources>
 

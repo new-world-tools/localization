@@ -19,11 +19,6 @@
 	<string key="ui_pvp_rewards_panel1_bullet2_text" rel_version="PvP_Rewards_Track">Azoth Salt is a currency that allows you to acquire rewards from the PvP Track. You can gain Azoth Salt by engaging in War, Outpost Rush, 3v3 Arenas, PvP Missions, killing players in the open world, and earning XP while flagged.</string>
 	<string key="ui_pvp_rewards_panel1_bullet3_title" rel_version="PvP_Rewards_Track">REWARDS</string>
 	<string key="ui_pvp_rewards_panel1_bullet3_text" rel_version="PvP_Rewards_Track">Choose between unique rewards such as prestige armor and weapons, emotes, currencies, and consumables.</string>
-	<string key="ui_event_spring_shop_header" rel_version="Event_SpringtideBloom_Temp">Springtide Bloom</string>
-	<string key="ui_event_spring_progress_name" rel_version="Event_SpringtideBloom_Temp">Event Reputation</string>
-	<string key="ui_event_spring_rank_0" rel_version="Event_SpringtideBloom_Temp">Blossom</string>
-	<string key="ui_event_spring_rank_1" rel_version="Event_SpringtideBloom_Temp">Shepard</string>
-	<string key="ui_event_spring_rank_2" rel_version="Event_SpringtideBloom_Temp">Herald</string>
 	<string key="ui_event_weapon_xp_tabname">XP Event</string>
 	<string key="ui_event_weapon_xp_title">WEAPON XP BONUS EVENT</string>
 	<string key="ui_event_weapon_xp_desc">Active bonuses:</string>
@@ -136,12 +131,27 @@
 	<string key="ui_event_feb_mtx_bullet1" rel_version="Entitlements_OmensOfWinter">Skins</string>
 	<string key="ui_event_feb_mtx_bullet2" rel_version="Entitlements_OmensOfWinter">Emotes</string>
 	<string key="ui_event_feb_mtx_button_about" rel_version="Entitlements_OmensOfWinter">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Omens Of Winter</string>
-	<string key="ui_event_empyrean_forge_tabname" rel_version="Expedition_GreatCleave_01" comment="DO NOT TRANSLATE">Empyrean Forge</string>
-	<string key="ui_event_empyrean_forge_title" rel_version="Expedition_GreatCleave_01" comment="DO NOT TRANSLATE">Empyrean Forge</string>
-	<string key="ui_event_season_one_tabname" rel_version="Season_1_Perm" comment="DO NOT TRANSLATE">Seasons</string>
-	<string key="ui_event_season_one_title" rel_version="Season_1_Perm" comment="DO NOT TRANSLATE">Seasons</string>
-	<string key="ui_event_mar_mtx_title" rel_version="Entitlements_FirelightSeason" comment="DO NOT TRANSLATE">Firelight</string>
-	<string key="ui_event_springtide_bloom_tabname" rel_version="Event_SpringtideBloom_Temp" comment="DO NOT TRANSLATE">Springtide Bloom</string>
-	<string key="ui_event_springtide_bloom_title" rel_version="Event_SpringtideBloom_Temp" comment="DO NOT TRANSLATE">Springtide Bloom</string>
+	<string key="ui_event_empyrean_forge_tabname" rel_version="Expedition_GreatCleave_01">Empyrean Forge</string>
+	<string key="ui_event_empyrean_forge_title" rel_version="Expedition_GreatCleave_01">Empyrean Forge</string>
+	<string key="ui_event_empyrean_forge_description" rel_version="Expedition_GreatCleave_01">Legendary foundry where Ancients forged their devastating engines of war. Those who hunger for power yearn for the eldritch magics unleashed in these colossal ruins.</string>
+	<string key="ui_event_empyrean_forge_about" rel_version="Expedition_GreatCleave_01">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Empyrean Forge</string>
+	<string key="ui_event_season_one_tabname" rel_version="Season_1_Perm">Seasons</string>
+	<string key="ui_event_season_one_title" rel_version="Season_1_Perm">Seasons</string>
+	<string key="ui_event_season_one_description" rel_version="Season_1_Perm">Embark on a new journey with Grace O'Malley as she forms Aeternum's newest mercenary company, the Silver Crows.</string>
+	<string key="ui_event_season_one_about" rel_version="Season_1_Perm">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Seasons</string>
+	<string key="ui_event_season_one_bullet1" rel_version="Season_1_Perm">Season Pass</string>
+	<string key="ui_event_season_one_bullet2" rel_version="Season_1_Perm">The Silver Crows</string>
+	<string key="ui_event_mar_mtx_title" rel_version="Entitlements_FirelightSeason">Firelight</string>
+	<string key="ui_event_mar_mtx_description" rel_version="Entitlements_FirelightSeason">The fires of the Forge burn brightly within this month's new store items! Feel the burn with brand new skins and decor items. Get into the competitive spirit with new emotes that can express your triumph or comfort your poor, humbled enemies! Get them while they're hot!</string>
+	<string key="ui_event_mar_mtx_about" rel_version="Entitlements_FirelightSeason">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Firelight</string>
+	<string key="ui_event_mar_mtx_bullet1" rel_version="Entitlements_FirelightSeason">Armors</string>
+	<string key="ui_event_mar_mtx_bullet2" rel_version="Entitlements_FirelightSeason">Weapons</string>
+	<string key="ui_event_mar_mtx_bullet3" rel_version="Entitlements_FirelightSeason">Emotes</string>
+	<string key="ui_event_fury_of_the_spriggan_tabname" rel_version="Season_1_Event">Fury of the Spriggan</string>
+	<string key="ui_event_fury_of_the_spriggan_title" rel_version="Season_1_Event">Fury of the Spriggan</string>
+	<string key="ui_event_fury_of_the_spriggan_description" rel_version="Season_1_Event">With the Ennead awakened, the Angry Earth are rising up around Aeternum! Put a stop to their rituals as they attempt to awaken furious Spriggans. Earn unique daily rewards for your efforts as you quell these rituals in Brightwood, Weavers Fen, Mourningdale, Ebonscale Reach, and Edengrove.</string>
+	<string key="ui_event_fury_of_the_spriggan_bullet1" rel_version="Season_1_Event">Daily Weapons</string>
+	<string key="ui_event_fury_of_the_spriggan_bullet2" rel_version="Season_1_Event">Daily Armor Pieces</string>
+	<string key="ui_event_fury_of_the_spriggan_about" rel_version="Season_1_Event">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Fury of the Spriggan</string>
 </resources>
 

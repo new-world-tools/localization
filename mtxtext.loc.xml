@@ -50,6 +50,7 @@
 	<string key="ui_apply_skins" rel_version="Feature_MTX">Apply Skins</string>
 	<string key="reward_type_itemdye" rel_version="Feature_MTX">Dye</string>
 	<string key="reward_type_statuseffect" rel_version="Feature_Seasons_Consumable_Tokens">Booster</string>
+	<string key="exceeds_max_balance" rel_version="Feature_Seasons_Consumable_Tokens">Purchase Exceeds cap of {cap}</string>
 	<string key="reward_type_armorskin" rel_version="Feature_MTX">Apparel Skin</string>
 	<string key="reward_type_toolskin" rel_version="Feature_MTX">Tool Skin</string>
 	<string key="url_worldtransfer">https://www.newworld.com/forward-link?id=server-transfer-details</string>

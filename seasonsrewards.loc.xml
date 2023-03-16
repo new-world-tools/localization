@@ -33,6 +33,7 @@
 	<string key="ui_seasons_challengescomplete" rel_version="Feature_Seasons_Rewards">Challenges Complete</string>
 	<string key="ui_seasons_progressbar_complete" rel_version="Feature_Seasons_Rewards">Complete!</string>
 	<string key="seasons_rewards_level_requirement_notification" rel_version="Feature_Seasons_Rewards">You must be level {minlevel} to access Seasons</string>
+	<string key="seasons_token_feature_disabled_notification_text" rel_version="Feature_Seasons_Consumable_Tokens">Seasons Consumable Tokens are currently disabled</string>
 	<string key="ui_activities" rel_version="Feature_Seasons_Rewards">Activities</string>
 	<string key="ui_totalcardscompleted" rel_version="Feature_Seasons_Rewards">Cards Finished: {total}</string>
 	<string key="ui_stampcardbonus" rel_version="Feature_Seasons_Rewards">&lt;img src="LyShineUI/Images/SeasonsRewards/pip" yOffset="2"&gt;&lt;/img&gt;  Stamp the card to earn {bxp} Season XP</string>
@@ -286,6 +287,7 @@
 	<string key="SeasonsActivities_Place1Decoration" rel_version="Feature_Seasons_Rewards">Place a Decoration in Your House</string>
 	<string key="SeasonsActivities_Complete2PvpFactionMissions" rel_version="Feature_Seasons_Rewards">Complete PvP Faction Missions</string>
 	<string key="SeasonsActivities_FlawlessVictoryInPvpArena" rel_version="Feature_Seasons_Rewards">Earn a Flawless Victory in PVP Arena</string>
+	<string key="SeasonsActivities_UseFlameCoreForgex1" rel_version="Feature_Seasons_Rewards">Craft a Cast at the Flame Core Forge</string>
 	<string key="SeasonsRewardTrack_Activity" rel_version="Feature_Seasons_Rewards">Activity Card</string>
 	<string key="SeasonsRewardTrack_PurchaseLevels" rel_version="Feature_Seasons_Rewards">Purchase Levels</string>
 	<string key="SeasonsRewardTrack_Free" rel_version="Feature_Seasons_Rewards">Free</string>
@@ -312,5 +314,7 @@
 	<string key="SeasonsRewardTrack_ClaimError_Generic" rel_version="Feature_Seasons_Rewards">Unable to claim this reward. Please try again later.</string>
 	<string key="SeasonsRewardTrack_TransactionError" rel_version="Feature_Seasons_Rewards">Unable to process this transaction. Please try again later.</string>
 	<string key="SeasonsRewardTrack_PartialClaimWarning" rel_version="Feature_Seasons_Rewards">One or more of the items in this reward are already claimed on this account</string>
+	<string key="ui_seasonpassrewardsinfo">&lt;img src="LyShineUI/Images/Icons/Misc/icon_question_orange" scale="2" yOffset="5"&gt;&lt;/img&gt;  Season Pass Rewards Information</string>
+	<string key="url_seasonpassrewardsinfo">https://www.newworld.com/en-us/news/articles/season-pass-free-and-premium-reward-tracks-faq</string>
 </resources>
 

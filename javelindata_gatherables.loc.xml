@@ -746,8 +746,6 @@
 	<string key="AnubianBrute_Base_DisplayName" rel_version="Territory_Brimstone_Sands">Anubian Automaton</string>
 	<string key="AnubianPanther_Base_DisplayName" rel_version="Territory_Brimstone_Sands">Sphinx Automaton</string>
 	<string key="16BS_LootContainer_Elite_LegionStoneTomb_DisplayName" rel_version="Territory_Brimstone_Sands">Elite Grave Offerings</string>
-	<string key="Springtide_Wispybloom_DisplayName" rel_version="Event_SpringtideBloom_Temp">Wispybloom</string>
-	<string key="Springtide_WispySpritzPlantSite_DisplayName" rel_version="Event_SpringtideBloom_Temp">Plant Wispy Spritz</string>
 	<string key="FM_PVP_War_Camp_Loot_Box_DisplayName">War Camp Chest</string>
 	<string key="1130_ArcaneFocus1_DisplayName">Arcane Focus</string>
 	<string key="1130_ArcaneFocus2_DisplayName">Arcane Focus</string>
@@ -986,9 +984,9 @@
 	<string key="Rat_Base_DisplayName" rel_version="Territory_Brimstone_Sands">Rat</string>
 	<string key="FireNaga_Miniboss_FlameVent_DisplayName" rel_version="Expedition_GreatCleave_01">Flame Vent</string>
 	<string key="95_s01_01_SkyeLetter" rel_version="Season_1_Temp">Read Skye's Letter</string>
-	<string key="95_s01_01_CorruptedCampSupplies">Collect the Supplies</string>
-	<string key="95_s01_01_CorruptedTent">Burn Corrupted Tent</string>
-	<string key="95_s01_01_CrowsNestCampBuild">Build the Crow's Nest Camp</string>
+	<string key="95_s01_01_CorruptedCampSupplies" rel_version="Season_1_Perm">Collect the Supplies</string>
+	<string key="95_s01_01_CorruptedTent" rel_version="Season_1_Perm">Burn Corrupted Tent</string>
+	<string key="95_s01_01_CrowsNestCampBuild" rel_version="Season_1_Perm">Build the Crow's Nest Camp</string>
 	<string key="95_s01_02_AidynBrooch" rel_version="Season_1_Temp">Collect Brooch and Message</string>
 	<string key="95_s01_02_BattleSite" rel_version="Season_1_Temp">Examine Ground</string>
 	<string key="95_s01_02_SkyeTrail" rel_version="Season_1_Temp">Follow Skye's Trail</string>
@@ -1000,7 +998,7 @@
 	<string key="95_s01_06_ExamineFrankTrail" rel_version="Season_1_Temp">Examine Footprints</string>
 	<string key="95_s01_06_FrankTrail" rel_version="Season_1_Temp">Follow the Smuggler's Trail</string>
 	<string key="95_s01_06_RescueWarrior" rel_version="Season_1_Temp">Rescue the Captured Warrior</string>
-	<string key="95_s01_04_AzothSap">Extract Sap</string>
+	<string key="95_s01_04_AzothSap" rel_version="Season_1_Perm">Extract Sap</string>
 	<string key="99C_MSQ2_WitchyGlyph_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Destructive Glyph</string>
 	<string key="99C_MSQ2_RitualObject_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Arcane Anchor</string>
 	<string key="99C_MSQ2_GlowingMushroom_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Study Unusual Plants</string>
@@ -1047,10 +1045,6 @@
 	<string key="99B_MSQ_11_BrightwatchHistory_DisplayName" rel_version="Quest_MSQ2_Brightwood">Read the History</string>
 	<string key="Dungeon_GreatCleave_01_GemGather" rel_version="Expedition_GreatCleave_01">Amirite Cluster</string>
 	<string key="95_s01_05_ChurchFundCabinet" rel_version="Season_1_Perm">Collect Funds</string>
-	<string key="SpringtideBloom_Village_GiftBag_DisplayName" rel_version="Event_SpringtideBloom_Temp">Delightful Gift Sack</string>
-	<string key="SpringtideBloom_Village_GiftBag_Description" rel_version="Event_SpringtideBloom_Temp">Collect a delightful present each day to celebrate and revel in the excitement of Springtide Bloom!</string>
-	<string key="SpringtideBloom_Settlement_GiftBag_DisplayName" rel_version="Event_SpringtideBloom_Temp">Joyous Gift Pile</string>
-	<string key="SpringtideBloom_Settlement_GiftBag_Description" rel_version="Event_SpringtideBloom_Temp">Collect a joyous gift each day to celebrate and revel in the excitement of Springtide Bloom!</string>
 	<string key="02A_Side08_CoffinA_DisplayName" rel_version="Quest_MSQ2_Brightwood">Open Coffin</string>
 	<string key="95_s01_06_TEMP_SupplyChain_Footprints">Investigate footprints</string>
 	<string key="13A_SQ_01_FogBed_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Clear Magical Fog</string>

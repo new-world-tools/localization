@@ -11,7 +11,7 @@
 	<string key="ui_receivedgroupinvite_hide" comment="">Hide</string>
 	<string key="ui_togglepvpblocked_title" comment="">PvP Flag Warning</string>
 	<string key="ui_togglepvpblocked_pvpinactive" rel_version="Feature_Alt_Character_Protection" comment="">You are currently not able to turn on your PvP flag because you are PvP inactive. You will be able to switch to PvP active in: {timeRemainingShorthand}</string>
-	<string key="ui_togglepvpblocked_pvpinactive_canswitch" rel_version="Feature_Alt_Character_Protection" comment="">You are currently not able to turn on your pvp flag because you are PvP inactive. Would you like to switch to PvP active?</string>
+	<string key="ui_togglepvpblocked_pvpinactive_canswitch" rel_version="Feature_Alt_Character_Protection" comment="">You are currently not able to turn on your PvP flag because you are PvP inactive. Would you like to switch to PvP active? \n\n Doing so will remove your current PvP active character from any wars they are signed up for and fail any active PvP missions.</string>
 	<string key="ui_togglepvpblocked_ingroup" comment="">PvP and PvE players cannot be grouped together. Changing your PvP flagging will kick you from this group.\n\nAre you sure you want to change your PvP flag?</string>
 	<string key="ui_togglepvpblocked_pendinginvites" comment="">Changing your PvP flagging will rescind all of your pending group invites.\n\nAre you sure you want to change your PvP flag?</string>
 	<string rel_version="Feature_Group_Finder" key="ui_togglepvpblocked_ingroupfindergroup" comment="">PvP and PvE players cannot be in the same Lobby. Changing your PvP flagging will kick you from this Lobby.\n\nAre you sure you want to change your PvP flag?</string>

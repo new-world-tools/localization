@@ -250,7 +250,8 @@
 	<string key="ui_effect_failed_Dead">Unable to apply effect while dead</string>
 	<string key="ui_effect_failed_VitalsIgnored">Unable to apply effect</string>
 	<string key="ui_effect_failed_MultipleFromSource">Unable to apply redundant effects</string>
-	<string key="ui_effect_failed_AntirequisiteActive">Unable to apply with competing effects active</string>
+	<string key="ui_effect_failed_AntirequisiteActive">Unable to apply due to competing effect: {competingEffect}</string>
+	<string key="ui_effect_failed_AntirequisiteActive_Multiple">Unable to apply due to multiple competing effects</string>
 	<string key="ui_effect_failed_Success">Available effect</string>
 </resources>
 
