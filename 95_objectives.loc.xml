@@ -436,6 +436,5 @@
 	<string key="95_s01_X2_EXPD_EmpyreanRepeat_EnterDungeonDescription" speaker="UI" quest_id="95_s01_X2_EXPD_EmpyreanRepeat" rel_version="Season_1_Perm">Venture into the Empyrean Forge to Gather Apatite Gems for Otmar</string>
 	<string key="95_s01_X2_EXPD_EmpyreanRepeat_GatherGemsDescription" speaker="UI" quest_id="95_s01_X2_EXPD_EmpyreanRepeat" rel_version="Season_1_Perm">Gather apatite gems for Otmar</string>
 	<string key="95_s01_X2_EXPD_EmpyreanRepeat_Complete" speaker="Otmar Winkler" name="OtmarWinkler" gender="male" quest_id="95_s01_X2_EXPD_EmpyreanRepeat" VO="95_s01_X2_EXPD_EmpyreanRepeat_Complete" VO_Status="Recorded" rel_version="Season_1_Perm">Wonderful, you found the gems! Oh, you are-- well, a wonder! \n\nWith this, I can create at least two more Corrupted Ogre golems. And yes, yes, the eyes light up red, of course!</string>
-	<string key="95_s01_SkipTaskTimer" speaker="UI" rel_version="Season_1_Temp">This is a timed placeholder task</string>
 </resources>
 

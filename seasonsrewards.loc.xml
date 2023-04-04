@@ -46,7 +46,7 @@
 	<string key="ui_howitworks_journey" rel_version="Feature_Seasons_Rewards">&lt;img src="LyShineUI/Images/Icons/Misc/icon_question_orange" scale="2" yOffset="5"&gt;&lt;/img&gt;  How does the Season Journey work?</string>
 	<string key="ui_rerollhover" rel_version="Feature_Seasons_Rewards">Reroll the current list of Activities for {cost} Azoth</string>
 	<string key="ui_rerolltitle" rel_version="Feature_Seasons_Rewards">Reroll</string>
-	<string key="ui_rerolltext" rel_version="Feature_Seasons_Rewards">Do you want to reroll the Activities list?\n\nProgress for any incomplete Activities will be lost.</string>
+	<string key="ui_rerolltext" rel_version="Feature_Seasons_Rewards">Do you want to reroll the Activities list?\n\nAny activities task progress that has not been stamped will be lost.</string>
 	<string key="ui_reroll_cantAfford" rel_version="Feature_Seasons_Rewards">You have insufficient Azoth.</string>
 	<string key="ui_cellbxp" rel_version="Feature_Seasons_Rewards">{bxp}</string>
 	<string key="ui_newcardtitle" rel_version="Feature_Seasons_Rewards">Do You Want A New Card?</string>
@@ -312,6 +312,7 @@
 	<string key="SeasonsRewardTrack_ClaimError_RewardAlreadyRedeemed" rel_version="Feature_Seasons_Rewards">Unable to claim this reward. It is already redeemed.</string>
 	<string key="SeasonsRewardTrack_ClaimError_NotEnoughInventorySpace" rel_version="Feature_Seasons_Rewards">Unable to claim this reward. Insufficient inventory space.</string>
 	<string key="SeasonsRewardTrack_ClaimError_Generic" rel_version="Feature_Seasons_Rewards">Unable to claim this reward. Please try again later.</string>
+	<string key="SeasonsRewardTrack_ClaimError_AlreadyClaimingReward" rel_version="Feature_Seasons_Rewards">You are already attempting to claim a reward. Please try again later.</string>
 	<string key="SeasonsRewardTrack_TransactionError" rel_version="Feature_Seasons_Rewards">Unable to process this transaction. Please try again later.</string>
 	<string key="SeasonsRewardTrack_PartialClaimWarning" rel_version="Feature_Seasons_Rewards">One or more of the items in this reward are already claimed on this account</string>
 	<string key="ui_seasonpassrewardsinfo">&lt;img src="LyShineUI/Images/Icons/Misc/icon_question_orange" scale="2" yOffset="5"&gt;&lt;/img&gt;  Season Pass Rewards Information</string>

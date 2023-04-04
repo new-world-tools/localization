@@ -240,6 +240,7 @@
 	<string key="loadout_notification_itemaddall_failure" rel_version="Feature_Gear_Set_Storage">Could not add item to all Gear Sets</string>
 	<string key="loadout_notification_switch_loadout_on_cooldown" rel_version="Feature_Gear_Set_Storage">You must wait {timeRemaining} before you can switch Gear Sets</string>
 	<string key="loadout_tutorial" rel_version="Feature_Gear_Set_Storage">Gear Sets Available!\nQuickly create and swap Gear Sets for any activity.</string>
+	<string key="loadout_notification_itemremove_space_failure" rel_version="Feature_Gear_Set_Storage">Couldn't return gear set items to inventory due to inadequate space.</string>
 	<string key="loadout_notification_return_space_fail" rel_version="Feature_Gear_Set_Storage">Couldn't return gear set items to inventory due to inadequate space. Please clear space and log out for several minutes to retry.</string>
 	<string key="incompatible_elemental_perk">Incompatible elemental perk</string>
 	<string key="incompatible_socket_item">This cannot be socketed into an item of this type</string>
