@@ -2175,6 +2175,9 @@
 	<string key="ui_metachievement_territorystanding_firstlight_title1">First Light: Making Headway</string>
 	<string key="ui_metachievement_territorystanding_firstlight_title1_SHE">First Light: Making Headway</string>
 	<string key="ui_metachievement_territorystanding_firstlight_title1_THEY">First Light: Making Headway</string>
+	<string key="ui_metachievement_territorystanding_firstlight_title_retract_10">Getting to Know New People</string>
+	<string key="ui_metachievement_territorystanding_firstlight_title_retract_10_SHE">Getting to Know New People</string>
+	<string key="ui_metachievement_territorystanding_firstlight_title_retract_10_THEY">Getting to Know New People</string>
 	<string key="ui_metachievement_territorystanding_firstlight_title2">First Light: Earning A Good Reputation</string>
 	<string key="ui_metachievement_territorystanding_firstlight_title2_SHE">First Light: Earning A Good Reputation</string>
 	<string key="ui_metachievement_territorystanding_firstlight_title2_THEY">First Light: Earning A Good Reputation</string>
@@ -3651,11 +3654,15 @@
 	<string key="ui_metachievement_quest_brimstonesands_heartgem_desc" rel_version="Territory_Brimstone_Sands">The secrets of improving your Heartgem have been revealed to you, forging you into an even more formidable champion of Aeternum.</string>
 	<string key="ui_metachievement_lore_brimstone_ancientglyphs_title" rel_version="Territory_Brimstone_Sands">Scrivener of the Ancients</string>
 	<string key="ui_metachievement_lore_brimstone_ancientglyphs_desc" rel_version="Territory_Brimstone_Sands">Having found all of the Ancient glyphs, your journey towards enlightenment has only just begun…</string>
+	<string key="ui_metachievement_pve_bossKill_trial_sandworm_title" rel_version="Territory_Brimstone_Sands">Slayer of Shah-Neshen</string>
+	<string key="ui_metachievement_pve_bossKill_trial_sandworm_desc" rel_version="Territory_Brimstone_Sands">Defeat Shah-Neshen in Brimstone Sands</string>
 	<string key="ui_metachievement_hidden_brimstone">Keep playing in Brimstone Sands to complete this hidden achievement.</string>
 	<string key="ui_metachievement_hidden_brimstone_ancientglyphs">Collect more Ancient glyphs in Brimstone Sands to complete this hidden achievement.</string>
 	<string key="ui_metachievement_hidden_monarchs">Keep playing in Monarch's Bluffs to complete this hidden achievement.</string>
 	<string key="ui_metachievement_hidden_windsward">Keep playing in Windsward to complete this hidden achievement.</string>
 	<string key="ui_metachievement_hidden_everfall">Keep playing in Everfall to complete this hidden achievement.</string>
 	<string key="ui_metachievement_hidden_weaversfen">Keep playing in Weaver's Fen to complete this hidden achievement.</string>
+	<string key="ui_metaachievement_Music_Summer_GuitarHero_title" rel_version="Event_Summer2023_Perm">Guitar Hero</string>
+	<string key="ui_metaachievement_Music_Summer_GuitarHero_desc" rel_version="Event_Summer2023_Perm">Complete the Expert version of YAAAHHHH! with an Amazing score.</string>
 </resources>
 

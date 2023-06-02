@@ -14,11 +14,42 @@
 	<string key="ui_pvp_rewards_panel1_title" rel_version="PvP_Rewards_Track">NEW PVP REWARD TRACK ADDED</string>
 	<string key="ui_pvp_rewards_panel1_subtitle" rel_version="PvP_Rewards_Track">The PvP Reward Track contains PvP-specific rewards for doing PvP activities in the game. The track can be completed and run again to get a different selection of rewards, with more prestigious rewards becoming available as more tracks are completed.</string>
 	<string key="ui_pvp_rewards_panel1_bullet1_title" rel_version="PvP_Rewards_Track">PVP XP</string>
-	<string key="ui_pvp_rewards_panel1_bullet1_text" rel_version="PvP_Rewards_Track">Progress your track by engaging in PvP Missions, War, Outpost Rush, Capturing Forts, Defeating other players and 3v3 Arenas.</string>
+	<string key="ui_pvp_rewards_panel1_bullet1_text" rel_version="PvP_Rewards_Track">Progress your track by defeating other players and engaging in PvP Missions, War, Outpost Rush, Capturing Forts, and 3v3 Arenas.</string>
 	<string key="ui_pvp_rewards_panel1_bullet2_title" rel_version="PvP_Rewards_Track">AZOTH SALT</string>
 	<string key="ui_pvp_rewards_panel1_bullet2_text" rel_version="PvP_Rewards_Track">Azoth Salt is a currency that allows you to acquire rewards from the PvP Track. You can gain Azoth Salt by engaging in War, Outpost Rush, 3v3 Arenas, PvP Missions, killing players in the open world, and earning XP while flagged.</string>
 	<string key="ui_pvp_rewards_panel1_bullet3_title" rel_version="PvP_Rewards_Track">REWARDS</string>
 	<string key="ui_pvp_rewards_panel1_bullet3_text" rel_version="PvP_Rewards_Track">Choose between unique rewards such as prestige armor and weapons, emotes, currencies, and consumables.</string>
+	<string key="ui_event_summer_rank_0" rel_version="Event_Summer_Temp">Minstrel</string>
+	<string key="ui_event_summer_rank_1" rel_version="Event_Summer_Temp">Troubadour</string>
+	<string key="ui_event_summer_rank_2" rel_version="Event_Summer_Temp">Bard</string>
+	<string key="ui_event_summer_rank_3" rel_version="Event_Summer_Temp">Virtuoso</string>
+	<string key="ui_event_summer_rank_4" rel_version="Event_Summer_Temp">Maestro</string>
+	<string key="ui_event_summer_shop_header" rel_version="Event_Summer_Temp">Summer Medleyfaire Shop</string>
+	<string key="ui_event_summer_progress_name" rel_version="Event_Summer_Temp">Event Reputation</string>
+	<string key="ui_event_summer_panel1_title" rel_version="Event_Summer_Temp">SUMMER MEDLEYFAIRE IS HERE</string>
+	<string key="ui_event_summer_panel1_subtitle" rel_version="Event_Summer_Temp">Event starts on {startDate}</string>
+	<string key="ui_event_summer_panel1_bullet1_title" rel_version="Event_Summer_Temp">LIMITED TIME ACTIVITIES</string>
+	<string key="ui_event_summer_panel1_bullet1_text" rel_version="Event_Summer_Temp">Hit the dance floor, perform music, catch Maudlinbug bait and fish up the exceptionally delectable Aeternum Sturgeons to feed the festival; the Medleyfaire abounds with activities for all!\n\nBe certain to visit the Mount-A-Catch station to craft mementos of your proudest catches!</string>
+	<string key="ui_event_summer_panel1_bullet2_title" rel_version="Event_Summer_Temp">MEDLEYFAIRE REWARDS</string>
+	<string key="ui_event_summer_panel1_bullet2_text" rel_version="Event_Summer_Temp">Summer breezes and the Medleyfaire Maestro bring with them new armors, skins, emotes, and a bounty of décor items themed off the colorfully energetic Summer Medleyfaire!\n\n“Dance and shop 'til you drop!” - Medleyfaire Maestro</string>
+	<string key="ui_event_summer_panel1_bullet3_title" rel_version="Event_Summer_Temp">MEDLEYFAIRE VENUES</string>
+	<string key="ui_event_summer_panel1_bullet3_text" rel_version="Event_Summer_Temp">The Medleyfaire Maestro has set up four venues to accommodate the bubbling energy of Summer Medleyfaire! Visit these locations to meet the host, staff, and guests. Carry out their holiday quests and spread joy across Aeternum!\n(Questline unlocks at level 20)</string>
+	<string key="ui_event_summer_panel2_title" rel_version="Event_Summer_Temp">MEDLEYFAIRE STAGE-HANDS</string>
+	<string key="ui_event_summer_panel2_subtitle" rel_version="Event_Summer_Temp">Celebrate Summer Medleyfaire in Aeternum by spreading festival vibes across the settlements! Complete Medleyfaire Town Projects to upgrade each settlement's Medleyfaire Stage centerpiece to enhance its beauty and unlock increasingly valuable daily rewards!</string>
+	<string key="ui_event_summer_panel3_title" rel_version="Event_Summer_Temp">HEAVY METAL THEMED STORE ITEMS</string>
+	<string key="ui_event_summer_panel3_subtitle" rel_version="Event_Summer_Temp">Check the store for exclusive heavy metal themed cosmetics and décor items!</string>
+	<string key="ui_event_summer_lastday_panel1_title" rel_version="Event_Summer_Temp">SUMMER MEDLEYFAIRE FINAL DAY</string>
+	<string key="ui_event_summer_lastday_panel1_subtitle" rel_version="Event_Summer_Temp">This year's Medleyfaire is drawing to a close. Final chance to earn as many Medleyfaire Rewards as possible!\n\n(Medleyfaire Tokens and other event-limited items will be removed upon the events conclusion)</string>
+	<string key="ui_event_summer_lastday_ending_button" rel_version="Event_Summer_Temp">OK!</string>
+	<string key="ui_event_summer_calendar_event_button_about" rel_version="Event_Summer_Temp">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; About Summer Medleyfaire</string>
+	<string key="ui_event_2xfishing_panel1_title" rel_version="Event_Summer_Temp">FISHING AND MUSIC DOUBLE XP WEEKEND!</string>
+	<string key="ui_event_2xfishing_panel1_subtitle" rel_version="Event_Summer_Temp">Enjoy Double XP for Fishing and Musical Instruments trade skills each weekend throughout the Summer Medleyfaire event!</string>
+	<string key="ui_event_2xfishing_ending_button" rel_version="Event_Summer_Temp">Sweet!</string>
+	<string key="ui_event_2xfishing_calendar_event_button_about" rel_version="Event_Summer_Temp">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; About Fishing and Music for Double XP</string>
+	<string key="ui_event_barnacles_panel1_title" rel_version="Event_Summer_Temp">BARNACLES &amp; BLACK POWDER</string>
+	<string key="ui_event_barnacles_panel1_subtitle" rel_version="Event_Summer_Temp">Rumors of a legendary treasure called the Ocean Heart hidden just off the coast have circulated in Cutlass Keys. This treasure has been rumored to carry powers of dominion and control and could threaten the settlement of Cutlass Keys and beyond.</string>
+	<string key="ui_event_barnacles_ending_button" rel_version="Event_Summer_Temp">Yarrr!</string>
+	<string key="ui_event_barnacles_calendar_event_button_about" rel_version="Event_Summer_Temp">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; About Barnacles &amp; Black Powder</string>
 	<string key="ui_event_weapon_xp_tabname">XP Event</string>
 	<string key="ui_event_weapon_xp_title">WEAPON XP BONUS EVENT</string>
 	<string key="ui_event_weapon_xp_desc">Active bonuses:</string>
@@ -122,6 +153,10 @@
 	<string key="ui_event_dec_mtx_description" rel_version="Entitlements_WinterConvergence_MTX">Protect yourself from the ravages of Forever Winter with new cosmetics available in the store! You'll want to kit yourself out with the latest winter weapons and apparel when the days grow shorter and long nights of terror await. Check the store regularly for free gifts in December and take advantage of our winter sales! Special unvaulted content goes on sale 12/13 and last year's Winter Convergence gear arrives on 12/20!</string>
 	<string key="ui_event_dec_mtx_button_about" rel_version="Entitlements_WinterConvergence_MTX">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Winter Convergence</string>
 	<string key="ui_news_store_tabname">Store</string>
+	<string key="ui_news_expedition_tabname">Expedition</string>
+	<string key="ui_news_season_tabname">Season</string>
+	<string key="ui_news_seasons_tabname">Seasons</string>
+	<string key="ui_news_event_tabname">Event</string>
 	<string key="ui_event_jan_mtx_title" rel_version="Entitlements_WinterDragon">Winter Dragon</string>
 	<string key="ui_event_jan_mtx_description" rel_version="Entitlements_WinterDragon">Is the shape of winter the shadow of a dragon? Visit the store for new cosmetics kissed by the frosty breath of the serpent! Don't get caught unprepared when less lethal combat breaks out! Pick up the Slap Fight emote or opt for the Tiptoe Walk in order to sneak past any violent squabbles instead!</string>
 	<string key="ui_event_jan_mtx_button_about" rel_version="Entitlements_WinterDragon">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Winter Dragon</string>
@@ -154,17 +189,17 @@
 	<string key="ui_event_apr_mtx_bullet2" rel_version="Entitlements_Highwayman">Weapon Skins</string>
 	<string key="ui_event_apr_mtx_bullet3" rel_version="Entitlements_Highwayman">Emotes</string>
 	<string key="ui_event_apr_mtx_about" rel_version="Entitlements_Highwayman">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Highwaymen</string>
-	<string key="ui_event_fury_of_the_spriggan_tabname" rel_version="Season_1_Event">Fury of the Spriggan</string>
-	<string key="ui_event_fury_of_the_spriggan_title" rel_version="Season_1_Event">Fury of the Spriggan</string>
-	<string key="ui_event_fury_of_the_spriggan_description" rel_version="Season_1_Event">With the Ennead awakened, the Angry Earth are rising up around Aeternum! Put a stop to their rituals as they attempt to awaken furious Spriggans. Earn unique daily rewards for your efforts as you quell these rituals in Brightwood, Weavers Fen, Mourningdale, and Ebonscale Reach.</string>
-	<string key="ui_event_fury_of_the_spriggan_bullet1" rel_version="Season_1_Event">Daily Armor Pieces</string>
-	<string key="ui_event_fury_of_the_spriggan_bullet2" rel_version="Season_1_Event">Daily Weapons</string>
-	<string key="ui_event_fury_of_the_spriggan_about" rel_version="Season_1_Event">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Fury of the Spriggan</string>
 	<string key="ui_event_may_mtx_title" rel_version="Entitlements_MedievalHistoric">Knights Errant</string>
 	<string key="ui_event_may_mtx_description" rel_version="Entitlements_MedievalHistoric">Dost thou hath weapons and armor from the days of Yore? Gothic skins based on real designs from the 16th and 17th centuries are now available to buy in the store. Smite your foes while wearing solid steel fit for a hero of old, or strike terror in your enemies while clad in menacing armor. Regardless of your choice, your rivals will shudder in fear when you brandish thine weapon. With these tried and true armaments, victory on the field of battle is nearly ensured.</string>
 	<string key="ui_event_may_mtx_bullet1" rel_version="Entitlements_MedievalHistoric">Armors</string>
 	<string key="ui_event_may_mtx_bullet2" rel_version="Entitlements_MedievalHistoric">Weapons</string>
 	<string key="ui_event_may_mtx_bullet3" rel_version="Entitlements_MedievalHistoric">Emotes</string>
 	<string key="ui_event_may_mtx_about" rel_version="Entitlements_MedievalHistoric">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Knights Errant</string>
+	<string key="ui_event_jun_mtx_title" comment="DO NOT TRANSLATE" rel_version="Entitlements_WastelandFrontier">Wasteland Frontier</string>
+	<string key="ui_event_jun_mtx_description" comment="DO NOT TRANSLATE" rel_version="Entitlements_WastelandFrontier">Wasteland Frontier</string>
+	<string key="ui_event_jun_mtx_bullet1" comment="DO NOT TRANSLATE" rel_version="Entitlements_WastelandFrontier">Apparel Skins</string>
+	<string key="ui_event_jun_mtx_bullet2" comment="DO NOT TRANSLATE" rel_version="Entitlements_WastelandFrontier">Weapon Skins</string>
+	<string key="ui_event_jun_mtx_bullet3" comment="DO NOT TRANSLATE" rel_version="Entitlements_WastelandFrontier">Emotes</string>
+	<string key="ui_event_jun_mtx_about" comment="DO NOT TRANSLATE" rel_version="Entitlements_WastelandFrontier">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Wasteland Frontier</string>
 </resources>
 

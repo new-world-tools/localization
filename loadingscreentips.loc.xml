@@ -55,9 +55,9 @@
 	<string key="tip_overworld_combat_duels01-content">There's no penalty for losing a Duel so don't be afraid to take on all challengers!</string>
 	<string key="tip_overworld_combat_duels02-title">Duels</string>
 	<string key="tip_overworld_combat_duels02-content">Ammo is not consumed during Duels.</string>
-	<string key="tip_overworld_combat_pvpFlagging01-title">PVP Flagging</string>
-	<string key="tip_overworld_combat_pvpFlagging01-content">You can turn your PVP flag on and off inside of Settlements, Outposts, Watchtowers, and at Spirit Shrines.</string>
-	<string key="tip_overworld_combat_pvpFlagging02-title">PVP Flagging</string>
+	<string key="tip_overworld_combat_pvpFlagging01-title">PvP Flagging</string>
+	<string key="tip_overworld_combat_pvpFlagging01-content">You can turn your PvP flag on and off inside of Settlements, Outposts, Watchtowers, and at Spirit Shrines.</string>
+	<string key="tip_overworld_combat_pvpFlagging02-title">PvP Flagging</string>
 	<string key="tip_overworld_combat_pvpFlagging02-content">Before leaving a Territory, be sure to double-check if you're Flagged for PVP!</string>
 	<string key="tip_overworld_combat_npcNameplates01-title">Enemy Nameplates</string>
 	<string key="tip_overworld_combat_npcNameplates01-content">If the enemy has a Skull &lt;img src="lyshineui/images/loadingscreen/icons/nameplateskull" xPadding="0" scale="2.0" yOffset="6.0"&gt;&lt;/img&gt; over their health bar, don't engage! This indicates a level, and difficulty, much higher than yours. Aeternum does not show mercy.</string>
@@ -88,13 +88,13 @@
 	<string key="tip_overworld_combat_lifeStaff02-title">The Life Staff</string>
 	<string key="tip_overworld_combat_lifeStaff02-content">If you want to use a Life Staff ability on yourself, press [{hint1}] + the ability key.</string>
 	<string key="tip_overworld_combat_iceGaunlet01-title">The Ice Gauntlet</string>
-	<string key="tip_overworld_combat_iceGaunlet01-content">The Ice Gauntlet is excellent at hindering enemy progression. Use the Slowing Effects to gain better positioning or give teammates an opening to do more damage.</string>
+	<string key="tip_overworld_combat_iceGaunlet01-content">The Ice Gauntlet is excellent at hindering enemy progression. Use its Slowing Effects to gain better positioning or give teammates an opening to do more damage.</string>
 	<string key="tip_overworld_combat_voidGaunlet01-title">The Void Gauntlet</string>
 	<string key="tip_overworld_combat_voidGaunlet01-content">The Void Gauntlet's numerous Buffs and Debuffs make it very effective in group combat.</string>
 	<string key="tip_overworld_combat_ai01-title">Retreating Enemies</string>
 	<string key="tip_overworld_combat_ai01-content">Enemies in the world will retreat and become temporarily invulnerable if they are led too far from home, or cannot reach you.</string>
 	<string key="tip_overworld_company_benefits01-title">Companies</string>
-	<string key="tip_overworld_company_benefits01-content">Join a Company and fight alongside your friends against the Corrupted. Also, siege opposing Faction Territories.</string>
+	<string key="tip_overworld_company_benefits01-content">Join a Company and fight alongside your friends against the Corrupted and siege opposing Faction Territories.</string>
 	<string key="tip_overworld_company_benefits02-title">Companies</string>
 	<string key="tip_overworld_company_benefits02-content">Only Companies can declare war and siege Territories to take them over. As Governor of a Territory, your Company earns coin through upkeep, gets huge discounts on Fast Travel, and contributes to the success of your whole Faction.</string>
 	<string key="tip_overworld_company_benefits03-title">Companies</string>
@@ -168,9 +168,9 @@
 	<string key="tip_overworld_factions_benefits02-title">Faction Benefit</string>
 	<string key="tip_overworld_factions_benefits02-content">Every settlement has a unique item cart in it. Visit a settlement controlled by your faction to claim free items. Be sure to check back regularly!</string>
 	<string key="tip_overworld_factions_pvpMissions01-title">Consequences of DEATH</string>
-	<string key="tip_overworld_factions_pvpMissions01-content">Some PVP Missions will be Reset if you die while they're in progress. Turn in finished PVP Missions as soon as you can to guarantee Rewards for you and your Faction!</string>
+	<string key="tip_overworld_factions_pvpMissions01-content">Some PvP Missions will be Reset if you die while they're in progress. Turn in finished PvP Missions as soon as you can to guarantee Rewards for you and your Faction!</string>
 	<string key="tip_overworld_factions_pveMissions01-title">Faction Reputation</string>
-	<string key="tip_overworld_factions_pveMissions01-content">Complete PVE Missions to increase your Faction Reputation, increase your XP, and earn access to better Faction Gear.</string>
+	<string key="tip_overworld_factions_pveMissions01-content">Complete PvE Missions to increase your Faction Reputation, increase your XP, and earn access to better Faction Gear.</string>
 	<string key="tip_overworld_factions_currency01-title">Faction Equipment</string>
 	<string key="tip_overworld_factions_currency01-content">Faction Representatives sell reliable Armor and Weapons. Consider purchasing some if you're looking for something specific.</string>
 	<string key="tip_overworld_factions_huntMissions01-title">Hunters Hunt</string>
@@ -306,7 +306,7 @@
 	<string key="tip_overworld_movement_lore01-title">Lore Pages</string>
 	<string key="tip_overworld_movement_lore01-content">Feed your head! Reading Lore Pages on Aeternum awards XP!</string>
 	<string key="tip_overworld_pings_contextualPings01-title">Contextual Pings</string>
-	<string key="tip_overworld_pings_contextualPings01-content">Quick pings [{hint1}] are contextual. Placing one in the environment, PVP enemies, or loot, will ping "Moving Here", "Danger Here", and "Loot Here".</string>
+	<string key="tip_overworld_pings_contextualPings01-content">Quick pings [{hint1}] are contextual. Placing one in the environment, PvP enemies, or loot, will ping "Moving Here", "Danger Here", and "Loot Here".</string>
 	<string key="tip_overworld_pings_pingWheel01-title">Ping Wheel</string>
 	<string key="tip_overworld_pings_pingWheel01-content">Hold [{hint1}] to open the Ping Wheel for more ping types.</string>
 	<string key="tip_overworld_pings_targetMarking01-title">Target Marking</string>

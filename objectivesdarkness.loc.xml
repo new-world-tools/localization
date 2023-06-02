@@ -68,6 +68,11 @@
 	<string key="objective_darkness_invasion_waves_title">DEFEND THE FORT</string>
 	<string key="objective_darkness_invasion_waves_desc">WAVE &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{currentWave}&lt;/font&gt;&lt;/font&gt; OF &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{totalWaves}&lt;/font&gt;</string>
 	<string key="objective_darkness_invasion_waves_desc_final">FINAL WAVE</string>
+	<string key="ui_summermedley_maudlinbugwaltz" rel_version="Event_Summer_Temp">Maudlinbug Swarm</string>
+	<string key="ui_summermedley_maudlinbugwaltz_description" rel_version="Event_Summer_Temp">A swarm of Maudlinbugs has formed! Grab a guitar and perform the entrancing melody of the Maudlinbug Haze to capitivate and catch those bumbling bugs!</string>
+	<string key="ui_summermedley_shredlyfair" rel_version="Event_Summer2023_Perm">Concert Stage</string>
+	<string key="ui_summermedley_sturgeonhotspot" rel_version="Event_Summer_Temp">Aeternum Sturgeon Fishing Hotspot</string>
+	<string key="ui_summermedley_sturgeonhotspot_description" rel_version="Event_Summer_Temp">A school of glittering Aeternum Sturgeons! Cast a line to land the best catch in all Aeternum and supply the Medleyfaire!</string>
 	<string key="ui_preddieu_farm_attack" rel_version="Quest_MSQ2_Revamp">Sneed's Revenge</string>
 	<string key="ui_preddieu_farm_attack_description" rel_version="Quest_MSQ2_Revamp">Farmer Sneed still thinks this land is his and will stop at nothing to reclaim it. Protect the farms and drive him away.</string>
 	<string key="objective_preddieu_farm_attack_title">Stop Lost from Destroying Supplies</string>
@@ -159,27 +164,14 @@
 	<string key="ui_turkeyterror_worldboss_Turkulon_description">Turkulon has returned to avenge their fallen brethren</string>
 	<string key="ui_worldboss_defeated" rel_version="Event_February_Perm">{objective} Defeated</string>
 	<string key="ui_worldboss_daily_reset" rel_version="Event_February_Perm">Daily Reward Resets At {time}</string>
-	<string key="ui_worldboss_season_01_event" rel_version="Season_1_Temp">Fury of the Spriggan</string>
-	<string key="ui_worldboss_season_01_event_description" rel_version="Season_1_Temp">The earth rises up against us, subdue the Dryads and the weapon they seek to summon.\n\nContains &lt;font color="#ffe940"&gt;3&lt;/font&gt; Daily Rewards. Resets at {time}</string>
-	<string key="objective_worldboss_task_season_01_event_wave0_title" rel_version="Season_1_Temp">Construct the Flame Braziers to empower your weapons and defeat the Dryads.</string>
-	<string key="objective_worldboss_task_season_01_event_wave0_desc" rel_version="Season_1_Temp">Flame Braziers Remaining: {remainingCount}</string>
-	<string key="objective_worldboss_task_season_01_event_wave1_title" rel_version="Season_1_Temp">Empower your weapons at the Braziers and hold out against the Dryads</string>
-	<string key="objective_worldboss_task_season_01_event_wave1_desc" rel_version="Season_1_Temp">Time Remaining:</string>
-	<string key="objective_worldboss_task_season_01_event_wave2_title" rel_version="Season_1_Temp">Stop the ritual.</string>
-	<string key="objective_worldboss_task_season_01_event_wave2_desc" rel_version="Season_1_Temp">Shamans remaining: {remainingCount}</string>
-	<string key="objective_worldboss_task_season_01_event_wave3_title" rel_version="Season_1_Temp">The ritual was completed! Defend yourself from the Spriggan!</string>
-	<string key="objective_worldboss_task_season_01_event_wave3_desc" rel_version="Season_1_Temp">Defeat the Spriggan.</string>
-	<string key="objective_S01_Aidyn" rel_version="Season_1_Temp">Hot On The Trail</string>
-	<string key="objective_S01_Aidyn_description" rel_version="Season_1_Temp">Aidyn has been corrupted by Faceless and needs your assistance.</string>
-	<string key="objective_S01_Aidyn_task_approach_title" rel_version="Season_1_Temp">Aidyn has been corrupted by Faceless and needs your assistance.</string>
-	<string key="objective_S01_Aidyn_task_approach_desc" rel_version="Season_1_Temp">Approach Aidyn</string>
-	<string key="objective_S01_Aidyn_task_defeat_title" rel_version="Season_1_Temp">Aidyn has been corrupted by Faceless and needs your assistance.</string>
-	<string key="objective_S01_Aidyn_task_defeat_desc" rel_version="Season_1_Temp">Defeat Aidyn</string>
-	<string key="objective_S01_Faceless" rel_version="Season_1_Temp">The Dark Sorcerer</string>
-	<string key="objective_S01_Faceless_description" rel_version="Season_1_Temp">Put an end to Faceless' evil plans.</string>
-	<string key="objective_S01_Faceless_task_approach_title" rel_version="Season_1_Temp">Put an end to Faceless' evil plans.</string>
-	<string key="objective_S01_Faceless_task_approach_desc" rel_version="Season_1_Temp">Approach Faceless</string>
-	<string key="objective_S01_Faceless_task_defeat_title" rel_version="Season_1_Temp">Put an end to Faceless' evil plans.</string>
-	<string key="objective_S01_Faceless_task_defeat_desc" rel_version="Season_1_Temp">Defeat Faceless</string>
+	<string key="objective_Season_02_PoolsOfOrcus_title_wave1" rel_version="Quest_MSQ_Update_4">Pools of Orcus</string>
+	<string key="objective_Season_02_PoolsOfOrcus_encounter1" rel_version="Quest_MSQ_Update_4">Stop the Geysers: {remainingCount}/3</string>
+	<string key="objective_Season_02_DancingPillars_title_wave1" rel_version="Quest_MSQ_Update_4">Dancing Pillars: Stage 1/5</string>
+	<string key="objective_Season_02_DancingPillars_title_wave2" rel_version="Quest_MSQ_Update_4">Dancing Pillars: Stage 2/5</string>
+	<string key="objective_Season_02_DancingPillars_title_wave3" rel_version="Quest_MSQ_Update_4">Dancing Pillars: Stage 3/5</string>
+	<string key="objective_Season_02_DancingPillars_title_wave4" rel_version="Quest_MSQ_Update_4">Dancing Pillars: Stage 4/5</string>
+	<string key="objective_Season_02_DancingPillars_title_wave5" rel_version="Quest_MSQ_Update_4">Dancing Pillars: Stage 5/5</string>
+	<string key="objective_Season_02_DancingPillars_encounter1" rel_version="Quest_MSQ_Update_4">Reach the Marker</string>
+	<string key="ui_poi_spiritshrine_20430" rel_version="Season_2_Perm">Shrine of Pillars</string>
 </resources>
 
