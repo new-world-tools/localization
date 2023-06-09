@@ -973,6 +973,8 @@
 	<string key="ui_metaachievement_all_territories_leaderboard_top10_company_score_title" rel_version="Feature_Leaderboards">Territory Control Medalist</string>
 	<string key="ui_metaachievement_all_territories_leaderboard_top10_company_score_title_SHE" rel_version="Feature_Leaderboards">Territory Control Medalist</string>
 	<string key="ui_metaachievement_all_territories_leaderboard_top10_company_score_title_THEY" rel_version="Feature_Leaderboards">Territory Control Medalist</string>
+	<string key="ui_metaachievement_all_territories_leaderboard_top1_trial_devourer_title" rel_version="Trial_Brimstone_Sandworm">The Devourer Victor</string>
+	<string key="ui_metaachievement_all_territories_leaderboard_top10_trial_devourer_title" rel_version="Trial_Brimstone_Sandworm">The Devourer Medalist</string>
 	<string key="ui_metachievement_pvefactionmissions_arcana_title1">Arcane Provisioner</string>
 	<string key="ui_metachievement_pvefactionmissions_arcana_title1_SHE">Arcane Provisioner</string>
 	<string key="ui_metachievement_pvefactionmissions_arcana_title1_THEY">Arcane Provisioner</string>
@@ -3292,6 +3294,8 @@
 	<string key="ui_metaachievement_brimstone_leaderboard_top10_company_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 6 on the Brimestone Sands Days Governed Leaderboard.</string>
 	<string key="ui_metaachievement_all_territories_leaderboard_top1_company_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 3 on the Days Governed for All Territories.</string>
 	<string key="ui_metaachievement_all_territories_leaderboard_top10_company_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 6 on the Days Governed for All Territories.</string>
+	<string key="ui_metaachievement_all_territories_leaderboard_top1_trial_devourer_desc" rel_version="Trial_Brimstone_Sandworm">Title earned by placing Top 10 on the Devourer Elite Trial Leaderboard.</string>
+	<string key="ui_metaachievement_all_territories_leaderboard_top10_trial_devourer_desc" rel_version="Trial_Brimstone_Sandworm">Title earned by placing Top 50 on the Devourer Elite Trial Leaderboard.</string>
 	<string key="ui_metachievement_pvefactionmissions_arcana_generic_desc">Complete {number} Arcana PvE faction missions.</string>
 	<string key="ui_metachievement_pvefactionmissions_armory_generic_desc">Complete {number} Armoring PvE faction missions.</string>
 	<string key="ui_metachievement_pvefactionmissions_cook_generic_desc">Complete {number} Cooking PvE faction missions.</string>
@@ -3662,7 +3666,5 @@
 	<string key="ui_metachievement_hidden_windsward">Keep playing in Windsward to complete this hidden achievement.</string>
 	<string key="ui_metachievement_hidden_everfall">Keep playing in Everfall to complete this hidden achievement.</string>
 	<string key="ui_metachievement_hidden_weaversfen">Keep playing in Weaver's Fen to complete this hidden achievement.</string>
-	<string key="ui_metaachievement_Music_Summer_GuitarHero_title" rel_version="Event_Summer2023_Perm">Guitar Hero</string>
-	<string key="ui_metaachievement_Music_Summer_GuitarHero_desc" rel_version="Event_Summer2023_Perm">Complete the Expert version of YAAAHHHH! with an Amazing score.</string>
 </resources>
 

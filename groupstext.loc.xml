@@ -60,6 +60,7 @@
 	<string key="ui_grouperrortitle" comment="">Grouping Error</string>
 	<string key="ui_cannotinvite" comment="">You cannot invite someone at this time.</string>
 	<string key="ui_cannotinviteingroup" comment="">You cannot invite someone in your group.</string>
+	<string key="ui_cannotinviteinraid" comment="">You cannot invite someone in your raid.</string>
 	<string key="ui_cannotinvitependinginvite" comment="">You have already invited this player.</string>
 	<string key="ui_cannotinvitegroupfull" comment="">Your group is already full.</string>
 	<string key="ui_cannotinviteinWar" comment="">You cannot invite someone during a War.</string>
@@ -280,6 +281,7 @@
 	<string rel_version="Feature_Raid_Groups" key="ui_promote_to_leader_notification_THEY">{promoter} demoted themself. {promotee} is now the General.</string>
 	<string rel_version="Feature_Raid_Groups" key="ui_raid_promotion_notification">{name} has been promoted to {newRank}.</string>
 	<string rel_version="Feature_Raid_Groups" key="ui_raid_demotion_notification">{name} has been demoted to {newRank}.</string>
+	<string rel_version="Trial_Brimstone_Sandworm" key="ui_raidgroup_whatisraids_tooltip">A raid allows up to {maxRaidSize} players to group up for PvP and PvE activities and is required to enter Elite Trials.</string>
 	<string rel_version="Feature_Raid_Groups" key="ui_raidgroup_whatisraids_tooltip_trimmed">A raid allows up to {maxRaidSize} players to group up for PvP and PvE activities.</string>
 	<string rel_version="Feature_Raid_Groups" key="ui_pvp_raid" comment="">PvP Raid</string>
 	<string rel_version="Feature_Raid_Groups" key="ui_raid" comment="">Raid</string>

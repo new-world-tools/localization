@@ -810,6 +810,24 @@
 	<string key="AI_FireNaga_Flamethrower_DoT_Tooltip" rel_version="Expedition_GreatCleave_01">Burning for {[Type_StatusEffectData.AI_FireNaga_Flamethrower_DoT.HealthModifierPercent * -100]}% max health of Fire damage every {[Type_StatusEffectData.AI_FireNaga_Flamethrower_DoT.TickRate]} seconds for {[Type_StatusEffectData.AI_FireNaga_Flamethrower_DoT.BaseDuration]} seconds.</string>
 	<string key="AI_FireNaga_LavaPool_DoT_DisplayName" rel_version="Expedition_GreatCleave_01">Burning Lava</string>
 	<string key="AI_FireNaga_LavaPool_DoT_Tooltip" rel_version="Expedition_GreatCleave_01">Burning for {[Type_StatusEffectData.AI_FireNaga_LavaPool_DoT.HealthModifierPercent * -100]}% max health of Fire damage every {[Type_StatusEffectData.AI_FireNaga_LavaPool_DoT.TickRate]} second.</string>
+	<string key="Sandworm_ArenaEncounter_PressurePlate_Ranged_Buff_DisplayName" rel_version="Trial_Brimstone_Sandworm">Shield Breaker</string>
+	<string key="Sandworm_ArenaEncounter_PressurePlate_Ranged_Buff_Tooltip" rel_version="Trial_Brimstone_Sandworm">Become overcharged dealing bonus Shield stamina damage.</string>
+	<string key="Sandworm_Acid_Resistance_DisplayName" rel_version="Trial_Brimstone_Sandworm">Storm Chaser</string>
+	<string key="Sandworm_Acid_Resistance_Tooltip" rel_version="Trial_Brimstone_Sandworm">Become highly resistant to Siege Damage. Your Melee attacks apply Rend causing targets hit to take increased damage by {[Type_StatusEffectData.Sandworm_Storm_Chaser_Debuff.ABSStandard * -100]}% for {[Type_StatusEffectData.Sandworm_Storm_Chaser_Debuff.BaseDuration]} seconds, stacking up to {[Type_StatusEffectData.Sandworm_Storm_Chaser_Debuff.StackMax]} times.</string>
+	<string key="Sandworm_Acid_Pool_DisplayName" rel_version="Trial_Brimstone_Sandworm">Acid Pool</string>
+	<string key="Sandworm_Acid_Pool_Tooltip" rel_version="Trial_Brimstone_Sandworm">Taking {[Type_StatusEffectData.Sandworm_Acid_Pool.HealthModifierPercent * -100]}% max health in Acid damage and suffer Acid Affliction every {[Type_StatusEffectData.Sandworm_Acid_Pool.TickRate]} seconds.</string>
+	<string key="Sandworm_Devour_Area_Denial_DisplayName" rel_version="Trial_Brimstone_Sandworm">Digestive Juices</string>
+	<string key="Sandworm_Devour_Area_Denial_Tooltip" rel_version="Trial_Brimstone_Sandworm">Taking {[Type_StatusEffectData.Sandworm_Devour_Area_Denial.HealthModifierPercent * -100]}% max health in Acid damage and suffer Acid Affliction every {[Type_StatusEffectData.Sandworm_Devour_Area_Denial.TickRate]} seconds.</string>
+	<string key="Sandworm_ElenetalJuggernaut_Invulnerability_DisplayName" rel_version="Trial_Brimstone_Sandworm">Shielded</string>
+	<string key="Sandworm_ElenetalJuggernaut_Invulnerability_Tooltip" rel_version="Trial_Brimstone_Sandworm">Immune to damage.</string>
+	<string key="Sandworm_Invulnerability_DisplayName" rel_version="Trial_Brimstone_Sandworm">Shielded</string>
+	<string key="Sandworm_Invulnerability_Tooltip" rel_version="Trial_Brimstone_Sandworm">Immune to damage.</string>
+	<string key="Sandworm_Storm_Chaser_Debuff_DisplayName" rel_version="Trial_Brimstone_Sandworm">Storm Chaser Rend</string>
+	<string key="Sandworm_Storm_Chaser_Debuff_Tooltip" rel_version="Trial_Brimstone_Sandworm">Incoming damage is increased by {[Type_StatusEffectData.Sandworm_Storm_Chaser_Debuff.ABSStandard * 100]}% for {[{[Type_StatusEffectData.Sandworm_Storm_Chaser_Debuff.BaseDuration]}]} seconds. Stacks up to {[Type_StatusEffectData.Sandworm_Storm_Chaser_Debuff.StackMax]} times.</string>
+	<string key="Sandworm_Acid_Storm_DisplayName" rel_version="Trial_Brimstone_Sandworm">Acid Storm</string>
+	<string key="Sandworm_Acid_Storm_Tooltip" rel_version="Trial_Brimstone_Sandworm">Taking {[Type_StatusEffectData.Sandworm_Acid_Storm.HealthModifierPercent * -100]}% max health in Acid damage and suffer Acid Affliction every {[Type_StatusEffectData.Sandworm_Acid_Storm.TickRate]} seconds.</string>
+	<string key="Sandworm_Acid_Spew_DisplayName" rel_version="Trial_Brimstone_Sandworm">Acid Spew</string>
+	<string key="Sandworm_Acid_Spew_Tooltip" rel_version="Trial_Brimstone_Sandworm">Taking {[Type_StatusEffectData.Sandworm_Acid_Spew.HealthModifierPercent * -100]}% max health in Acid damage and suffer Acid Affliction every {[Type_StatusEffectData.Sandworm_Acid_Spew.TickRate]} seconds.</string>
 	<string key="godModeThirst_DisplayName">God Mode</string>
 	<string key="godModeHealth_DisplayName">God Mode</string>
 	<string key="godModeAll_DisplayName">God Mode</string>

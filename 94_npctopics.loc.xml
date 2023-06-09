@@ -1,13 +1,2 @@
-<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<string key="9401_Hint_Prompt" speaker="UI - player prompt" rel_version="Quest_MSQ2_Brightwood">"Can you explain riding?"</string>
-	<string key="9401_Hint_Response" speaker="JochiKhan" name="Jochi Khan" rel_version="Quest_MSQ2_Brightwood">You can walk with crtl, sprint with shift, and jump with Space\n&lt;img src="lyshineui/images/tooltipimages/fishinghotspotactive.png" height="188"&gt;&lt;/img&gt;\nSprinting and jumping cost mount stamina. Falling from great heights and being hit by enemies reduces your stamina. You can replenish stamina by feeding your mount. If you take too much stamina damage, you will be dismounted.\n\nn&lt;img src="lyshineui/images/tooltipimages/fishinghotspotdepleted.png" height="188"&gt;&lt;/img&gt;</string>
-	<string key="9402_Hint_Prompt" speaker="UI - player prompt" rel_version="Quest_MSQ2_Brightwood">"Why did you build this stable?"</string>
-	<string key="9402_Hint_Response" speaker="FrancoisDeLaRama" name="Francois De La Rama" VO_Status="Needs Recording" rel_version="Quest_MSQ2_Brightwood">My former paramour and I used our knowledge of the Ancient light bridges to move goods for very private clientele.\n\nBut it was too much looking over my shoulder. I organize horse races now. At least when I’m riding I know who’s chasing me.</string>
-	<string key="9403_Hint_Prompt" speaker="UI - player prompt">"What is it like to train Dire Wolves "</string>
-	<string key="9403_Hint_Response" speaker="ValenciaIznov" name="Valencia Iznov" VO_Status="Needs Recording">Wolves are easier than humans. They do not feel greed or pride or envy. Simply show courage, show yourself to be the natural leader of the pack, and they follow.</string>
-	<string key="9404_Hint_Prompt" speaker="UI - player prompt">"Do you know the best route?"</string>
-	<string key="9404_Hint_Response" speaker="SatiahRamotep" name="Satiah Ramotep" VO_Status="Needs Recording">Oh, I can't take sides, hero. That wouldn't be sporting. But you seem capable enough. But the fastest riders have knowledge of hidden glyphs and the Ancient bridges.</string>
-	<string key="9405_Hint_Prompt" speaker="UI - player prompt">"Do you trust humans?"</string>
-	<string key="9405_Hint_Response" speaker="Zinumun" name="Zinumun" VO_Status="Needs Recording">Your kind are not like us. Mother Earth has not given you a natural instinct to follow. Some, like yourself, are as constant as the tides. Others are capricious, like a leaf on the wind. I trust who I can and am wary of others.</string>
-</resources>
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
 

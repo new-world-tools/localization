@@ -420,5 +420,6 @@
 	<string key="ui_elitetrial_map_weekly_count" rel_version="Season_2_Perm">{count} / {max} Weekly Reward Collected</string>
 	<string key="ui_elitetrial_banner_daily_count" rel_version="Season_2_Perm">{count}/{max} Daily</string>
 	<string key="ui_elitetrial_banner_weekly_count" rel_version="Season_2_Perm">{count}/{max} Weekly</string>
+	<string key="Respawn_EntranceNameTrial" rel_version="Trial_Brimstone_Sandworm">Trial Entrance</string>
 </resources>
 

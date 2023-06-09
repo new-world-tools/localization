@@ -1913,6 +1913,8 @@
 	<string key="ui_poi_beast_den_20311_description" rel_version="Territory_Brimstone_Sands">The bites are far worse than their bark.</string>
 	<string key="ui_poi_legion_warcamp_20316" rel_version="Territory_Brimstone_Sands">Castellum Auxilia</string>
 	<string key="ui_poi_legion_warcamp_20316_description" rel_version="Territory_Brimstone_Sands">Drusilla's enclave guards the gate to the 19th Legion's headquarters.</string>
+	<string key="ui_poi_sandworm_arena_20317" rel_version="Trial_Brimstone_Sandworm">Trial of the Devourer</string>
+	<string key="ui_poi_sandworm_arena_20317_description" rel_version="Trial_Brimstone_Sandworm">&lt;font color="#D05050"&gt;Elite Trial&lt;/font&gt;\n\nEnter the Ambuscade, where the drum calls forth Shah-Neshen. The chains of Apophis are severed, and so the great ordeal, World-Encircler, can answer. The leviathan has awakened.</string>
 	<string key="ui_poi_spiritshrine_30419" rel_version="Territory_Brimstone_Sands">Great Shrine of Thoth</string>
 	<string key="ui_poi_spiritshrine_30322" rel_version="Territory_Brimstone_Sands">Cavalier's Shrine</string>
 	<string key="ui_poi_spiritshrine_30331" rel_version="Territory_Brimstone_Sands">Deadwater Way</string>

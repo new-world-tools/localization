@@ -165,13 +165,13 @@
 	<string key="ui_language">Language</string>
 	<string key="ui_language_desc">Select the menu language</string>
 	<string key="en-US">English</string>
-	<string key="fr-FR">Fran�ais</string>
+	<string key="fr-FR">Français</string>
 	<string key="it-IT">Italiano</string>
 	<string key="de-DE">Deutsch</string>
 	<string key="pl-PL">Polski</string>
-	<string key="es-ES">Espa�ol � ES</string>
-	<string key="es-MX">Espa�ol - MX</string>
-	<string key="pt-BR">Portugu�s - BR</string>
+	<string key="es-ES">Español – ES</string>
+	<string key="es-MX">Español - MX</string>
+	<string key="pt-BR">Português - BR</string>
 	<string key="ui_profanity_filter">Language Filter</string>
 	<string key="ui_profanity_filter_desc">Filter bad words from the chat</string>
 	<string key="ui_subtitles">Subtitles</string>

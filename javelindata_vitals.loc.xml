@@ -2322,7 +2322,11 @@
 	<string key="Desert_Scorpion_ELITE_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Desert Scorpion</string>
 	<string key="Desert_Scorpion_Impaler_ELITE_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Elite Desert Scorpion Impaler</string>
 	<string key="Desert_Scorpion_Impaler_Medium_ELITE_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Elite Desert Scorpion Impaler</string>
+	<string key="Desert_Scorpion_Impaler_Medium_Sandworm_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Trial_Brimstone_Sandworm">Twinguard Sulfurwig</string>
 	<string key="Desert_Scorpion_Impaler_Medium_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Desert Scorpion Impaler</string>
+	<string key="Desert_Scorpion_Impaler_Sandworm_Intro_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Trial_Brimstone_Sandworm">Wurmsign Scorpion</string>
+	<string key="Desert_Scorpion_Impaler_Sandworm_S_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Trial_Brimstone_Sandworm">Wurmsign Scorpion</string>
+	<string key="Desert_Scorpion_Impaler_Sandworm_XS_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Trial_Brimstone_Sandworm">Wurmsign Scorpion</string>
 	<string key="Desert_Scorpion_Impaler_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Desert Scorpion Impaler</string>
 	<string key="Desert_Scorpion_Medium_60_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Desert Scorpion</string>
 	<string key="Desert_Scorpion_Medium_61_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Desert Scorpion</string>
@@ -2344,6 +2348,7 @@
 	<string key="Desert_Scorpion_Slinger_ELITE_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Elite Desert Scorpion Slinger</string>
 	<string key="Desert_Scorpion_Slinger_Medium_ELITE_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Elite Desert Scorpion Slinger</string>
 	<string key="Desert_Scorpion_Slinger_Medium_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Desert Scorpion Slinger</string>
+	<string key="Desert_Scorpion_Slinger_Sandworm_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Trial_Brimstone_Sandworm">Wurmsign Slingshotter</string>
 	<string key="Desert_Scorpion_Slinger_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Desert Scorpion Slinger</string>
 	<string key="Desert_Scorpion_Small_VitalsName" comment="BASE" speaker="VitalsCategory" rel_version="Territory_Brimstone_Sands">Young Scorpling</string>
 	<string key="Desert_Scorpion_Sulfur_Named_00_VitalsName" comment="Generic Level Variant" speaker="VitalsCategory" rel_version="Territory_Brimstone_Sands">Pools04</string>
@@ -3195,6 +3200,11 @@
 	<string key="Season_02_Malek_BloodOfTheSands_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Season_2_Temp">Mirage of Malek</string>
 	<string key="Season_02_LtHerikai_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Season_1_Perm">Lieutenant Herikai</string>
 	<string key="VC_Season_02_LtHerikai" speaker="Vitals Category" rel_version="Season_1_Perm">Lieutenant Herikai</string>
+	<string key="Season_02_EggDefend_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Season_2_Event">Dormant Royal Egg</string>
+	<string key="Season_02_EventBoss_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Season_2_Event">Remnant of the Unmaker</string>
+	<string key="Season_02_Sulfur_Elemental_Soldier_EventBoss_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Season_2_Event">Sword of Sulfur</string>
+	<string key="Season_02_Sulfur_Elemental_Shaman_EventBoss_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Season_2_Event">Rage of Sulfur</string>
+	<string key="Season_02_Sulfur_Elemental_Heavy_EventBoss_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Season_2_Event">Hammer of Sulfur</string>
 	<string key="Evil_Knight_LifeStaff_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Season_1_Perm">Varangian Mender</string>
 	<string key="Evil_Knight_LifeStaff_FireVariant_VitalsName" comment="S1 Flame Variant" speaker="Vitals Sheet" rel_version="Season_1_Perm">Forged Varangian Mender</string>
 	<string key="Evil_Knight_LifeStaff_DG_GreatCleave01_00_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_01">Hospitaller Cleric</string>
@@ -4382,8 +4392,15 @@
 	<string key="Sand_Elemental_Soldier_Spawn_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Terra Myrmidon</string>
 	<string key="Sand_Elemental_Soldier_RockPile_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Fallen Soldier</string>
 	<string key="Sand_Elemental_Soldier_RockPile_Spawn_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Fallen Soldier</string>
+	<string key="Sandworm_Acidball_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Trial_Brimstone_Sandworm">Acid Ball</string>
+	<string key="Sandworm_AcidSpew_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Trial_Brimstone_Sandworm">Acid Spew</string>
+	<string key="Sandworm_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Trial_Brimstone_Sandworm">Shah-Neshen the Devourer</string>
+	<string key="VC_Sandworm" rel_version="Trial_Brimstone_Sandworm">Shah-Neshen the Devourer</string>
 	<string key="Season_02_BabySandworm_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Season_2_Temp">Enraged Devourer Drone</string>
 	<string key="VC_Season_02_BabySandworm" speaker="Vitals Category" rel_version="Season_2_Temp">Enraged Devourer</string>
+	<string key="Sand_Elemental_Heavy_Sandworm_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Trial_Brimstone_Sandworm">Wurmsign Nephilim</string>
+	<string key="Sand_Elemental_Shaman_Sandworm_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Trial_Brimstone_Sandworm">Wurmsign Jinn</string>
+	<string key="Sand_Elemental_Soldier_Sandworm_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Trial_Brimstone_Sandworm">Wurmsign Myrmidon</string>
 	<string key="Sulfur_Elemental_Heavy_Named_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Season_2_Perm">Sulfur Elemental Heavy</string>
 	<string key="Sulfur_Elemental_Heavy_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Season_2_Perm">Sulfur Elemental Heavy</string>
 	<string key="Sulfur_Elemental_Soldier_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Season_2_Perm">Sulfur Elemental Soldier</string>
@@ -13261,6 +13278,9 @@
 	<string key="VC_Evil_Knight_Warhammer_03GC08" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="Season_1_Perm">Forge Raider Crusher</string>
 	<string key="VC_Evil_Knight_Caster_03GC08" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="Season_1_Perm">Forge Raider Mage</string>
 	<string key="VC_Evil_Knight_Hound_03GC08" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="Season_1_Perm">Forge Raider Hound</string>
+	<string key="VC_Season_02_Event_Sulfur_Elemental_Soldier" rel_version="Season_2_Event">Sulfur Warden</string>
+	<string key="VC_Season_02_Event_Sulfur_Elemental_Shaman" rel_version="Season_2_Event">Sulfur Shaman</string>
+	<string key="VC_Season_02_Event_Sulfur_Elemental_Heavy" rel_version="Season_2_Event">Sulfur Menace</string>
 	<string key="Dunewalker_Wanderer_Longsword_Trial_SoloPlus_vitalsname" speaker="Vitals Sheet" rel_version="Season_2_Temp">Hatchery Guardian Scout</string>
 	<string key="Dunewalker_Wanderer_Longsword_Trial_Group_vitalsname" speaker="Vitals Sheet" rel_version="Season_2_Temp">Hatchery Guardian Scout</string>
 	<string key="Dunewalker_Wanderer_Longsword_Trial_Quest_vitalsname" speaker="Vitals Sheet" rel_version="Season_2_Temp">Hatchery Guardian Scout</string>

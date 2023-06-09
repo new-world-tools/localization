@@ -268,6 +268,14 @@
 	<string key="dungeon_shattermtn00_task_dungeon_complete" rel_version="Expedition_ShatterMtn_00">Exit the Tempest's Heart Expedition</string>
 	<string key="DungeonUseRelicBubble" rel_version="Expedition_ShatterMtn_00">Requires The Reliquary</string>
 	<string key="dungeon_open_conversation" rel_version="Expedition_CutlassKeys_00">Examine</string>
+	<string key="trial_brimstone_sandworm_title" rel_version="Trial_Brimstone_Sandworm">Trial of the Devourer</string>
+	<string key="trial_brimstone_sandworm_description" rel_version="Trial_Brimstone_Sandworm">Lure Shah-Neshen the Devourer from the sands of Brimstone and trap the colossal leviathan.</string>
+	<string key="trial_sandworm_title" rel_version="Trial_Brimstone_Sandworm">Trial of the Devourer</string>
+	<string key="trial_clearscorpions" rel_version="Trial_Brimstone_Sandworm">Clear the Arena</string>
+	<string key="trial_callsandworm" rel_version="Trial_Brimstone_Sandworm">Call Shah-Neshen the Devourer</string>
+	<string key="trial_bossfight" rel_version="Trial_Brimstone_Sandworm">Defeat Shah-Neshen the Devourer</string>
+	<string key="trial_victory" rel_version="Trial_Brimstone_Sandworm">Exit the Trial</string>
+	<string key="trial_exitarena" rel_version="Trial_Brimstone_Sandworm">Exit the Trial</string>
 	<string key="Quest_Apophis_title" rel_version="Territory_Brimstone_Sands">Necropolis of Sutekh</string>
 	<string key="Quest_Apophis_description" rel_version="Territory_Brimstone_Sands">Prevent Apophis from reawakening the mighty Ancient, Sutekh, or all of Aeternum shall be flung into madness.</string>
 	<string key="quest_apophis_task_approach" rel_version="Territory_Brimstone_Sands">Approach the Ancient Sarcophagus</string>
@@ -332,5 +340,8 @@
 	<string key="Trial_Season_01_Objective_1" rel_version="Season_2_Temp">Defeat Hadish Hazar and his minions</string>
 	<string key="Trial_Season_01_Objective_2" rel_version="Season_2_Temp">Withstand the heat of The Hatchery</string>
 	<string key="Trial_Season_01_Objective_3" rel_version="Season_2_Temp">Claim the riches of the desert in victory</string>
+	<string key="Trial_Season_02_Objective_1" rel_version="Trial_Brimstone_Sandworm">Defeat Shan Neshen in the desert arena</string>
+	<string key="Trial_Season_02_Objective_2" rel_version="Trial_Brimstone_Sandworm">Withstand the brutal and acidic hazards</string>
+	<string key="Trial_Season_02_Objective_3" rel_version="Trial_Brimstone_Sandworm">Claim the riches of victory over the wurm</string>
 </resources>
 

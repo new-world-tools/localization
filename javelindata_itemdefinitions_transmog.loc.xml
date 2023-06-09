@@ -1640,6 +1640,37 @@
 	<string key="chitinscorpionT5_gloves_TransmogName">Scorpion Chitin Medium Handwear</string>
 	<string key="TurkeyTerror_feet_TransmogName">Turkulon's Juicy Calves</string>
 	<string key="RabbitMask_head_TransmogName">Corrupted Rabbit's Mask</string>
+	<string key="SandwormH_chest_TransmogName" rel_version="Sandworm_Apparel">Shah-Neshen's Heavy Chestwear</string>
+	<string key="SandwormH_head_TransmogName" rel_version="Sandworm_Apparel">Shah-Neshen's Heavy Headwear</string>
+	<string key="SandwormH_legs_TransmogName" rel_version="Sandworm_Apparel">Shah-Neshen's Heavy Legwear</string>
+	<string key="SandwormH_feet_TransmogName" rel_version="Sandworm_Apparel">Shah-Neshen's Heavy Footwear</string>
+	<string key="SandwormH_gloves_TransmogName" rel_version="Sandworm_Apparel">Shah-Neshen's Heavy Handwear</string>
+	<string key="SandwormM_chest_TransmogName" rel_version="Sandworm_Apparel">Shah-Neshen's Medium Chestwear</string>
+	<string key="SandwormM_head_TransmogName" rel_version="Sandworm_Apparel">Shah-Neshen's Medium Headwear</string>
+	<string key="SandwormM_legs_TransmogName" rel_version="Sandworm_Apparel">Shah-Neshen's Medium Legwear</string>
+	<string key="SandwormM_feet_TransmogName" rel_version="Sandworm_Apparel">Shah-Neshen's Medium Footwear</string>
+	<string key="SandwormM_gloves_TransmogName" rel_version="Sandworm_Apparel">Shah-Neshen's Medium Handwear</string>
+	<string key="SandwormL_chest_TransmogName" rel_version="Sandworm_Apparel">Shah-Neshen's Light Chestwear</string>
+	<string key="SandwormL_head_TransmogName" rel_version="Sandworm_Apparel">Shah-Neshen's Light Headwear</string>
+	<string key="SandwormL_legs_TransmogName" rel_version="Sandworm_Apparel">Shah-Neshen's Light Legwear</string>
+	<string key="SandwormL_feet_TransmogName" rel_version="Sandworm_Apparel">Shah-Neshen's Light Footwear</string>
+	<string key="SandwormL_gloves_TransmogName" rel_version="Sandworm_Apparel">Shah-Neshen's Light Handwear</string>
+	<string key="SandwormHat_head_TransmogName" rel_version="Sandworm_Apparel">Mini Shah-Neshen Helm</string>
+	<string key="SandwormChitinH_chest_TransmogName" rel_version="Sandworm_Apparel">Pale Sandwurm Heavy Chestwear</string>
+	<string key="SandwormChitinH_head_TransmogName" rel_version="Sandworm_Apparel">Pale Sandwurm Heavy Headwear</string>
+	<string key="SandwormChitinH_legs_TransmogName" rel_version="Sandworm_Apparel">Pale Sandwurm Heavy Legwear</string>
+	<string key="SandwormChitinH_feet_TransmogName" rel_version="Sandworm_Apparel">Pale Sandwurm Heavy Footwear</string>
+	<string key="SandwormChitinH_gloves_TransmogName" rel_version="Sandworm_Apparel">Pale Sandwurm Heavy Handwear</string>
+	<string key="SandwormChitinM_chest_TransmogName" rel_version="Sandworm_Apparel">Pale Sandwurm Medium Chestwear</string>
+	<string key="SandwormChitinM_head_TransmogName" rel_version="Sandworm_Apparel">Pale Sandwurm Medium Headwear</string>
+	<string key="SandwormChitinM_legs_TransmogName" rel_version="Sandworm_Apparel">Pale Sandwurm Medium Legwear</string>
+	<string key="SandwormChitinM_feet_TransmogName" rel_version="Sandworm_Apparel">Pale Sandwurm Medium Footwear</string>
+	<string key="SandwormChitinM_gloves_TransmogName" rel_version="Sandworm_Apparel">Pale Sandwurm Medium Handwear</string>
+	<string key="SandwormChitinL_chest_TransmogName" rel_version="Sandworm_Apparel">Pale Sandwurm Light Chestwear</string>
+	<string key="SandwormChitinL_head_TransmogName" rel_version="Sandworm_Apparel">Pale Sandwurm Light Headwear</string>
+	<string key="SandwormChitinL_legs_TransmogName" rel_version="Sandworm_Apparel">Pale Sandwurm Light Legwear</string>
+	<string key="SandwormChitinL_feet_TransmogName" rel_version="Sandworm_Apparel">Pale Sandwurm Light Footwear</string>
+	<string key="SandwormChitinL_gloves_TransmogName" rel_version="Sandworm_Apparel">Pale Sandwurm Light Handwear</string>
 	<string key="unholyDepthsHFire_chest_TransmogName">Empyrean Heavy Chestwear</string>
 	<string key="unholyDepthsHFire_head_TransmogName">Empyrean Heavy Headwear</string>
 	<string key="unholyDepthsHFire_legs_TransmogName">Empyrean Heavy Legwear</string>
@@ -2136,6 +2167,40 @@
 	<string key="2hWarhammer_ParabellumT5_TransmogName">Parabellum War Hammer</string>
 	<string key="2hWarhammer_RestraintT5_TransmogName">Restraint War Hammer</string>
 	<string key="2hWarhammer_SoulforgedBlightT5_TransmogName">Soulforged Blight War Hammer</string>
+	<string key="2hBowSandwormTrialsT5_TransmogName" rel_version="Sandworm_Weapons">Sandwurm Bow</string>
+	<string key="2hGreatAxeSandwormTrialsT5_TransmogName" rel_version="Sandworm_Weapons">Sandwurm Great Axe</string>
+	<string key="1hKiteShieldSandwormTrialsT5_TransmogName" rel_version="Sandworm_Weapons">Sandwurm Kite Shield</string>
+	<string key="1hSwordSandwormTrialsT5_TransmogName" rel_version="Sandworm_Weapons">Sandwurm Longsword</string>
+	<string key="2hMusketSandwormTrialsT5_TransmogName" rel_version="Sandworm_Weapons">Sandwurm Musket</string>
+	<string key="1hRapierSandwormTrialsT5_TransmogName" rel_version="Sandworm_Weapons">Sandwurm Rapier</string>
+	<string key="1hRoundShieldSandwormTrialsT5_TransmogName" rel_version="Sandworm_Weapons">Sandwurm Round Shield</string>
+	<string key="2hSpearSandwormTrialsT5_TransmogName" rel_version="Sandworm_Weapons">Sandwurm Spear</string>
+	<string key="1hHatchetSandwormTrialsT5_TransmogName" rel_version="Sandworm_Weapons">Sandwurm Hatchet</string>
+	<string key="2hWarhammerSandwormTrialsT5_TransmogName" rel_version="Sandworm_Weapons">Sandwurm War Hammer</string>
+	<string key="2hFireStaffSandwormTrialsT5_TransmogName" rel_version="Sandworm_Weapons">Sandwurm Fire Staff</string>
+	<string key="2hLifeStaffSandwormTrialsT5_TransmogName" rel_version="Sandworm_Weapons">Sandwurm Life Staff</string>
+	<string key="1hTowerShieldSandwormTrialsT5_TransmogName" rel_version="Sandworm_Weapons">Sandwurm Tower Shield</string>
+	<string key="2hIceGauntletSandwormTrialsT5_TransmogName" rel_version="Sandworm_Weapons">Sandwurm Ice Gauntlet</string>
+	<string key="2hVoidGauntletSandwormTrialsT5_TransmogName" rel_version="Sandworm_Weapons">Sandwurm Void Gauntlet</string>
+	<string key="2hBlunderbussSandwormTrialsT5_TransmogName" rel_version="Sandworm_Weapons">Sandwurm Blunderbuss</string>
+	<string key="2hGreatswordSandwormTrialsT5_TransmogName" rel_version="Sandworm_Weapons">Sandwurm Greatsword</string>
+	<string key="2hBowBabySandwormTrialsT5_TransmogName" rel_version="Sandworm_Weapons">Pale Sandwurm Bow</string>
+	<string key="2hGreatAxeBabySandwormTrialsT5_TransmogName" rel_version="Sandworm_Weapons">Pale Sandwurm Great Axe</string>
+	<string key="1hKiteShieldBabySandwormTrialsT5_TransmogName" rel_version="Sandworm_Weapons">Pale Sandwurm Kite Shield</string>
+	<string key="1hSwordBabySandwormTrialsT5_TransmogName" rel_version="Sandworm_Weapons">Pale Sandwurm Longsword</string>
+	<string key="2hMusketBabySandwormTrialsT5_TransmogName" rel_version="Sandworm_Weapons">Pale Sandwurm Musket</string>
+	<string key="1hRapierBabySandwormTrialsT5_TransmogName" rel_version="Sandworm_Weapons">Pale Sandwurm Rapier</string>
+	<string key="1hRoundShieldBabySandwormTrialsT5_TransmogName" rel_version="Sandworm_Weapons">Pale Sandwurm Round Shield</string>
+	<string key="2hSpearBabySandwormTrialsT5_TransmogName" rel_version="Sandworm_Weapons">Pale Sandwurm Spear</string>
+	<string key="1hHatchetBabySandwormTrialsT5_TransmogName" rel_version="Sandworm_Weapons">Pale Sandwurm Hatchet</string>
+	<string key="2hWarhammerBabySandwormTrialsT5_TransmogName" rel_version="Sandworm_Weapons">Pale Sandwurm War Hammer</string>
+	<string key="2hFireStaffBabySandwormTrialsT5_TransmogName" rel_version="Sandworm_Weapons">Pale Sandwurm Fire Staff</string>
+	<string key="2hLifeStaffBabySandwormTrialsT5_TransmogName" rel_version="Sandworm_Weapons">Pale Sandwurm Life Staff</string>
+	<string key="1hTowerShieldBabySandwormTrialsT5_TransmogName" rel_version="Sandworm_Weapons">Pale Sandwurm Tower Shield</string>
+	<string key="2hIceGauntletBabySandwormTrialsT5_TransmogName" rel_version="Sandworm_Weapons">Pale Sandwurm Ice Gauntlet</string>
+	<string key="2hVoidGauntletBabySandwormTrialsT5_TransmogName" rel_version="Sandworm_Weapons">Pale Sandwurm Void Gauntlet</string>
+	<string key="2hBlunderbussBabySandwormTrialsT5_TransmogName" rel_version="Sandworm_Weapons">Pale Sandwurm Blunderbuss</string>
+	<string key="2hGreatswordBabySandwormTrialsT5_TransmogName" rel_version="Sandworm_Weapons">Pale Sandwurm Greatsword</string>
 	<string key="2hVoidGauntletGlassT5_TransmogName" rel_version="Weapon_Void_Gauntlet">Glass Void Gauntlet</string>
 	<string key="2hVoidGauntletElegantT3_TransmogName" rel_version="Weapon_Void_Gauntlet">Elegant Void Gauntlet</string>
 	<string key="2hVoidGauntletElegantT4_TransmogName" rel_version="Weapon_Void_Gauntlet">Elegant Void Gauntlet</string>
