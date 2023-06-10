@@ -312,7 +312,7 @@
 	<string key="trial_season_02_q13_task_defeat_boss" rel_version="Season_2_Temp">Defeat Malek</string>
 	<string key="trial_season_02_q13_task_leave" rel_version="Season_2_Temp">Exit the Soul Trial</string>
 	<string key="trial_hatchery_title" rel_version="Season_2_Temp">The Hatchery</string>
-	<string key="trial_hatchery_description" rel_version="Season_2_Temp">Gather your allies and stop Malek's plans to hatch the eggs of the Devourers.</string>
+	<string key="trial_hatchery_description" rel_version="Season_2_Temp">Gather your allies and stop Hadish Azar and the plans to hatch the eggs of the Devourers.</string>
 	<string key="trial_hatchery_approach_01" rel_version="Season_2_Temp">Approach the center of the arena</string>
 	<string key="trial_hatchery_defeat_fodder01" rel_version="Season_2_Temp">Survive the Dunewalker ambush</string>
 	<string key="trial_hatchery_defeat_fodder01_banner_title" rel_version="Season_2_Temp">Stage 1 of 5</string>
@@ -335,7 +335,7 @@
 	<string key="trial_hatchery_defeat_boss_banner_description" rel_version="Season_2_Temp">Defeat Hadish Azar, Keeper of Flame</string>
 	<string key="trial_hatchery_leave" rel_version="Season_2_Temp">Explore and then exit the Soul Trial</string>
 	<string key="Trial_Season_01_title" rel_version="Season_2_Temp">The Hatchery</string>
-	<string key="Trial_Season_01_description" rel_version="Season_2_Temp">Gather your allies and stop Malek's plans to hatch the eggs of the Devourers.</string>
+	<string key="Trial_Season_01_description" rel_version="Season_2_Temp">Gather your allies and stop Hadish Azar and the plan to hatch the eggs of the Devourers.</string>
 	<string key="Trial_Season_01_required_equipment" rel_version="Season_2_Temp">1 Ranged Weapon</string>
 	<string key="Trial_Season_01_Objective_1" rel_version="Season_2_Temp">Defeat Hadish Hazar and his minions</string>
 	<string key="Trial_Season_01_Objective_2" rel_version="Season_2_Temp">Withstand the heat of The Hatchery</string>

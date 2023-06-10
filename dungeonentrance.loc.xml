@@ -396,9 +396,9 @@
 	<string key="ui_elitetrial_reward_completiondesc" rel_version="Season_2_Perm">These items are awarded upon Trial completion. Repeatable.</string>
 	<string key="ui_seasontrial_available_rewards" rel_version="Season_2_Perm">Available Rewards</string>
 	<string key="ui_seasontrial_exclusive_rewards" rel_version="Season_2_Perm">Exclusive Rewards</string>
-	<string key="ui_seasontrial_exclusive_rewards_desc" rel_version="Season_2_Perm">These only drop on Trial completion during your first 7 attempts.</string>
+	<string key="ui_seasontrial_exclusive_rewards_desc" rel_version="Season_2_Perm">These only drop on first 7 completions and change every week.</string>
 	<string key="ui_seasontrial_unique_rewards" rel_version="Season_2_Perm">Unique Rewards</string>
-	<string key="ui_seasontrial_unique_rewards_desc" rel_version="Season_2_Perm">These items drop more frequently during your first 7 attempts.</string>
+	<string key="ui_seasontrial_unique_rewards_desc" rel_version="Season_2_Perm">These only drop on first 7 completions and change every week.</string>
 	<string key="ui_seasontrial_basic_rewards" rel_version="Season_2_Perm">Basic Rewards</string>
 	<string key="ui_seasontrial_basic_rewards_desc" rel_version="Season_2_Perm">These items can always drop.</string>
 	<string key="ui_seasontrial_not_in_raid" rel_version="Season_2_Perm">You're not in a Raid</string>

@@ -2718,8 +2718,6 @@
 	<string key="ui_transmog_npc_name">Stylemancer</string>
 	<string key="ui_transmog_npc_tooltip">Create skins from items you've collected by using &lt;img src="lyshineui/images/icons/items/currency/transmogtokensmall" xPadding="0" scale="2.2" yOffset="6.0"&gt;&lt;/img&gt; Transmog Tokens.</string>
 	<string key="ui_unclaimed_seasons_rewards">Unclaimed Season Rewards</string>
-	<string key="toggle_unclaimed_content_keybind">{$ui.toggleUnclaimedRewards_mod$} + {$ui.toggleUnclaimedRewards$}</string>
-	<string key="toggle_unclaimed_content_bind_menu_keybind">LALT + F9</string>
 	<string key="generic_list_2">{item1} and {item2}</string>
 	<string key="generic_list_3">{item1}, {item2}, and {item3}</string>
 	<string key="generic_list_4">{item1}, {item2}, {item3}, and {item4}</string>

@@ -2253,7 +2253,7 @@
 	<string key="ui_poi_malekscamp_30337" rel_version="Season_2_Perm">East Sands Camp</string>
 	<string key="ui_poi_malekscamp_30337_description" rel_version="Season_2_Perm">A makeshift encampment for the adherents of the Blood of the Sands.</string>
 	<string key="ui_poi_Hatchery_Trial_30339" rel_version="Season_2_Temp">The Hatchery</string>
-	<string key="ui_poi_Hatchery_Trial_30339_description" rel_version="Season_2_Temp">&lt;font color="#506AD0"&gt;Seasonal Trial&lt;/font&gt;\n\nGather your allies and stop Malek's plans to hatch the eggs of the Devourers.</string>
+	<string key="ui_poi_Hatchery_Trial_30339_description" rel_version="Season_2_Temp">&lt;font color="#506AD0"&gt;Seasonal Trial&lt;/font&gt;\n\nGather your allies and stop Hadish Azar and the plan to hatch the eggs of the Devourers.</string>
 	<string key="ui_poi_spiritshrine_30340" rel_version="Season_2_Perm">Arrival of Hapi</string>
 	<string key="ui_poi_spiritshrine_30436" rel_version="Season_2_Perm">Shrine of Bast</string>
 </resources>
