@@ -59,7 +59,7 @@
 	<string key="ui_dungeon_activating_seasontrial" rel_version="Season_2_Perm">Entering Seasonal Trial...</string>
 	<string key="ui_dungeon_not_enough_members">Not enough members in group.</string>
 	<string key="ui_dungeon_too_many_members">Too many members in group.</string>
-	<string key="ui_dungeon_not_in_regular_group">Must be in a regular group.</string>
+	<string key="ui_dungeon_not_in_regular_group">Cannot enter this instance while in a raid group.</string>
 	<string key="ui_dungeon_not_in_raid_group">Must be in a raid group.</string>
 	<string key="ui_dungeon_convert_to_raid_tooltip">Form a group and convert it to raid from the group menu.</string>
 	<string key="ui_dungeon_not_group_leader">Must be the group leader.</string>

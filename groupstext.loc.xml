@@ -67,8 +67,9 @@
 	<string key="ui_cannotinviteinInvasion" comment="">You cannot invite someone during an Invasion.</string>
 	<string key="ui_cannotinviteinOutpostRush" comment="">You cannot invite someone while in Outpost Rush.</string>
 	<string key="ui_cannotinviteinPvPArena" comment="">You cannot invite someone while in a 3v3 Arena.</string>
-	<string key="ui_cannotinvitein_pvp_wrong_faction" comment="">Must be in same faction for PvP group.</string>
 	<string key="ui_cannotleavegroup_in_outpost_rush" comment="">You cannot leave your group while in Outpost Rush.</string>
+	<string key="ui_cannotinvitein_pvp_wrong_faction" comment="">Must be in same faction for PvP group.</string>
+	<string key="ui_cannotinvitein_player_in_cw_instance" comment="">You cannot invite someone while they are cross world.</string>
 	<string key="ui_cannotleavegroup_in_arena" comment="">You cannot leave your group while in an Arena.</string>
 	<string key="ui_cannotleavegroup_in_war" comment="">You cannot leave your group while in a War.</string>
 	<string key="ui_cannotleavegroup_in_invasion" comment="">You cannot leave your group while in an Invasion.</string>
@@ -83,9 +84,9 @@
 	<string key="ui_groupmaxinviteserrormessage" comment="">Can&apos;t invite {playerName}, you reached your max number of invites.</string>
 	<string key="ui_groupfromplayerofflineerrormessage" comment="">Group invite removed: {playerName} went offline.</string>
 	<string key="ui_groupinvitetoplayerofflineerrormessage" comment="">Group invite failed: {playerName} went offline.</string>
-	<string key="ui_grouptoplayerofflineerrormessage" comment="">Can&apos;t invite {playerName}, he is offline.</string>
-	<string key="ui_grouptoplayerofflineerrormessage_SHE" comment="">Can&apos;t invite {playerName}, she is offline.</string>
-	<string key="ui_grouptoplayerofflineerrormessage_THEY" comment="">Can&apos;t invite {playerName}, they are offline.</string>
+	<string key="ui_grouptoplayerofflineerrormessage" comment="">Can&apos;t invite {playerName}, he is offline or in a Cross World mode.</string>
+	<string key="ui_grouptoplayerofflineerrormessage_SHE" comment="">Can&apos;t invite {playerName}, she is offline or in a Cross World mode.</string>
+	<string key="ui_grouptoplayerofflineerrormessage_THEY" comment="">Can&apos;t invite {playerName}, they are offline or in a Cross World mode.</string>
 	<string key="ui_groupinvitefailedgroupfullmessage" comment="">Group invite failed: {playerName}&apos;s group is now full.</string>
 	<string key="ui_groupinvitefailederrormessage" comment="">Failed to respond to invite from {playerName}'s group.</string>
 	<string key="ui_groupinvitefailedraid" comment="">Failed to respond to invite</string>

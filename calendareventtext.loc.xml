@@ -123,9 +123,19 @@
 	<string key="ui_event_dec_mtx_button_about" rel_version="Entitlements_WinterConvergence_MTX">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Winter Convergence</string>
 	<string key="ui_news_store_tabname">Store</string>
 	<string key="ui_news_expedition_tabname">Expedition</string>
+	<string key="ui_news_expeditions_tabname">Expeditions</string>
 	<string key="ui_news_season_tabname">Season</string>
 	<string key="ui_news_seasons_tabname">Seasons</string>
 	<string key="ui_news_event_tabname">Event</string>
+	<string key="ui_news_events_tabname">Events</string>
+	<string key="ui_news_trial_tabname" rel_version="Season_2_Trial">Trial</string>
+	<string key="ui_news_trials_tabname" rel_version="Season_2_Trial">Trials</string>
+	<string key="ui_news_feature_tabname">Feature</string>
+	<string key="ui_news_features_tabname">Features</string>
+	<string key="ui_news_pvp_tabname" rel_version="Feature_PVP_Arena02">PvP</string>
+	<string key="ui_news_bullet_armor_skins">Armor Skins</string>
+	<string key="ui_news_bullet_weapon_skins">Weapon Skins</string>
+	<string key="ui_news_bullet_weapons">Weapons</string>
 	<string key="ui_event_jan_mtx_title" rel_version="Entitlements_WinterDragon">Winter Dragon</string>
 	<string key="ui_event_jan_mtx_description" rel_version="Entitlements_WinterDragon">Is the shape of winter the shadow of a dragon? Visit the store for new cosmetics kissed by the frosty breath of the serpent! Don't get caught unprepared when less lethal combat breaks out! Pick up the Slap Fight emote or opt for the Tiptoe Walk in order to sneak past any violent squabbles instead!</string>
 	<string key="ui_event_jan_mtx_button_about" rel_version="Entitlements_WinterDragon">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Winter Dragon</string>
@@ -164,11 +174,35 @@
 	<string key="ui_event_may_mtx_bullet2" rel_version="Entitlements_MedievalHistoric">Weapons</string>
 	<string key="ui_event_may_mtx_bullet3" rel_version="Entitlements_MedievalHistoric">Emotes</string>
 	<string key="ui_event_may_mtx_about" rel_version="Entitlements_MedievalHistoric">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Knights Errant</string>
-	<string key="ui_event_jun_mtx_title" comment="DO NOT TRANSLATE" rel_version="Entitlements_WastelandFrontier">Wasteland Frontier</string>
-	<string key="ui_event_jun_mtx_description" comment="DO NOT TRANSLATE" rel_version="Entitlements_WastelandFrontier">Wasteland Frontier</string>
-	<string key="ui_event_jun_mtx_bullet1" comment="DO NOT TRANSLATE" rel_version="Entitlements_WastelandFrontier">Apparel Skins</string>
-	<string key="ui_event_jun_mtx_bullet2" comment="DO NOT TRANSLATE" rel_version="Entitlements_WastelandFrontier">Weapon Skins</string>
-	<string key="ui_event_jun_mtx_bullet3" comment="DO NOT TRANSLATE" rel_version="Entitlements_WastelandFrontier">Emotes</string>
-	<string key="ui_event_jun_mtx_about" comment="DO NOT TRANSLATE" rel_version="Entitlements_WastelandFrontier">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Wasteland Frontier</string>
+	<string key="ui_event_jun_mtx_title" rel_version="Entitlements_WastelandFrontier">Wasteland Frontier</string>
+	<string key="ui_event_jun_mtx_description" rel_version="Entitlements_WastelandFrontier">There's riches to be had on Aeternum for those willing to take them. Outlaws and brigands should head to the store for new apparel and weapon skins. Don't wander the wasteland unprepared!</string>
+	<string key="ui_event_jun_mtx_bullet1" rel_version="Entitlements_WastelandFrontier">Armor Skins</string>
+	<string key="ui_event_jun_mtx_bullet2" rel_version="Entitlements_WastelandFrontier">Weapon Skins</string>
+	<string key="ui_event_jun_mtx_bullet3" rel_version="Entitlements_WastelandFrontier">Housing</string>
+	<string key="ui_event_jun_mtx_about" rel_version="Entitlements_WastelandFrontier">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Wasteland Frontier</string>
+	<string key="ui_event_first_light_fallen_title" rel_version="Territory_FirstLightRetraction">First Light has Fallen!</string>
+	<string key="ui_event_first_light_fallen_description" rel_version="Territory_FirstLightRetraction">The Angry Earth have overrun Old First Light. Answering the sinister call of the Ancient huntress Adiana, they've destroyed homes and taken our friends captive, now subjecting them to unknown horrors behind a wall of thorns barring entry to any adventurers.</string>
+	<string key="ui_event_first_light_fallen_descriptionbullet1" rel_version="Territory_FirstLightRetraction">&lt;b&gt;Quests:&lt;/b&gt; All regional quests from Old First Light have been canceled.</string>
+	<string key="ui_event_first_light_fallen_descriptionbullet2" rel_version="Territory_FirstLightRetraction">&lt;b&gt;Storage:&lt;/b&gt; Once all items are claimed, Old First Light storage will be closed.</string>
+	<string key="ui_event_first_light_fallen_descriptionbullet3" rel_version="Territory_FirstLightRetraction">&lt;b&gt;Trading Post:&lt;/b&gt; Any pending transactions are accessible from other territories.</string>
+	<string key="ui_event_first_light_fallen_descriptionbullet4" rel_version="Territory_FirstLightRetraction">&lt;b&gt;Housing:&lt;/b&gt; A compensation for the loss of housing has been made. All furniture from your home has been placed in the storage.</string>
+	<string key="ui_event_first_light_fallen_descriptionbullet5" rel_version="Territory_FirstLightRetraction">&lt;b&gt;Governing Company:&lt;/b&gt; A one-time deposit has been paid into your treasury for the loss of the territory.</string>
+	<string key="ui_event_first_light_fallen_about" rel_version="Territory_FirstLightRetraction">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About First Light Has Fallen</string>
+	<string key="ui_event_arena_shah_neshen_title" rel_version="Trial_Brimstone_Sandworm">Arena of Shah-Neshen</string>
+	<string key="ui_event_arena_shah_neshen_description" rel_version="Trial_Brimstone_Sandworm">The rekindled fires of Ennead called the primal terror from the deep beneath the sands. Now the Great Devourer stalks the dunes of Brimstone once again. Gather your bravest warriors at the Ambuscade. Can you defeat the spawn of the Titans? \n\n&lt;font color="#edc63e"&gt;Requires 20 person raid group.&lt;/font&gt;</string>
+	<string key="ui_event_arena_shah_neshen_bullet1" rel_version="Trial_Brimstone_Sandworm">Armor Skins</string>
+	<string key="ui_event_arena_shah_neshen_bullet2" rel_version="Trial_Brimstone_Sandworm">Weapon Skins</string>
+	<string key="ui_event_arena_shah_neshen_about" rel_version="Trial_Brimstone_Sandworm">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Arena of Shah-Neshen</string>
+	<string key="ui_event_dunewalker_trial_title" rel_version="Season_2_Trial">The Hatchery</string>
+	<string key="ui_event_dunewalker_trial_description" rel_version="Season_2_Trial">Dark forces have unearthed The Hatchery, a long-forgotten chamber, buried deep beneath the sands of Neapolis. There, they conspire to rip Aeternum asunder with a horde of sandwurms.\n\nRally with up to nine other adventurers to crush wave after wave of enemies in this high stakes, high reward trial. Stand victorious, and walk away with unique riches.</string>
+	<string key="ui_event_dunewalker_trial_bullet1" rel_version="Season_2_Trial">Armor Skins</string>
+	<string key="ui_event_dunewalker_trial_bullet2" rel_version="Season_2_Trial">Weapon Skins</string>
+	<string key="ui_event_dunewalker_trial_about" rel_version="Season_2_Trial">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About The Hatchery</string>
+	<string key="ui_event_season_two_title" rel_version="Season_2_Perm">Blood of the Sands</string>
+	<string key="ui_event_season_two_description" rel_version="Season_2_Perm">A new epic adventure awaits you and the Silver Crows in the sweltering heat of Brimstone Sands.\n\nMalek, a man claiming to be with the ancient order Blood of the Sands, is willing to pay you handsomely for primordial artifacts - Sandwurm eggs.\nJoin Grace O'Malley, Zander, and a new cast of characters as you discover the ancient power that has awakened beneath the shifting dunes.\n\n&lt;font color="#edc63e"&gt;Level 60 players&lt;/font&gt; can start their adventure by visiting any Crow's Nest location found in Edengrove, Shattered Mountain, and Brimstone Sands.</string>
+	<string key="ui_event_season_two_about" rel_version="Season_2_Perm">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Season Two</string>
+	<string key="ui_event_pvp_arena_map_2_title" rel_version="Feature_PVP_Arena02">New 3v3 Arena Map!</string>
+	<string key="ui_event_pvp_arena_map_2_description" rel_version="Feature_PVP_Arena02">The fight promoter, Maximus Marcellus, is spreading word of a ruined gladiatorial pit in Brimstone Sands.\n\nGather your team and your wits to master this new arena of varying heights!</string>
+	<string key="ui_event_pvp_arena_map_2_about" rel_version="Feature_PVP_Arena02">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About New 3v3 Arena Map</string>
 </resources>
 

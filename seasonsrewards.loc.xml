@@ -344,7 +344,7 @@
 	<string key="SeasonsRewardTrack_PartialClaimWarning" rel_version="Feature_Seasons_Rewards">One or more of the items in this reward are already claimed on this account.</string>
 	<string key="SeasonsRewardTrack_LevelsPrice" rel_version="Feature_Seasons_Rewards">{price}&lt;img src="LyShineUI/Images/mtx/icon_mtx_currency" scale="0.78125"&gt;&lt;/img&gt;</string>
 	<string key="SeasonsRewardTrack_ClaimUnclaimedButton" rel_version="Feature_Seasons_Rewards">Claim Previous Unclaimed</string>
-	<string key="SeasonsRewardsUnclaimed_UnclaimedPopupHeader" rel_version="Feature_Seasons_Rewards">Unclaimed Content</string>
+	<string key="SeasonsRewardsUnclaimed_UnclaimedPopupHeader" rel_version="Feature_Seasons_Rewards">Unclaimed Rewards</string>
 	<string key="SeasonsRewardsUnclaimed_UnclaimedPopupBody" rel_version="Feature_Seasons_Rewards">Any earned rewards from previous Seasons can be claimed for a limited time!\n\nGo to unclaimed Season rewards?</string>
 	<string key="ui_seasonpassrewardsinfo">&lt;img src="LyShineUI/Images/Icons/Misc/icon_question_orange" scale="2" yOffset="5"&gt;&lt;/img&gt;  Season Pass Rewards Information</string>
 	<string key="url_seasonpassrewardsinfo">https://www.newworld.com/en-us/news/articles/season-pass-free-and-premium-reward-tracks-faq</string>
