@@ -376,6 +376,7 @@
 	<string key="ui_seasontrial_header" rel_version="Season_2_Perm">Seasonal Trial</string>
 	<string key="ui_seasontrial_bonusruns_prefix" rel_version="Season_2_Perm">&lt;img src="lyshineui/images/icons/misc/icon_hourglass" scale="0.80" yOffset="1.0"&gt;&lt;/img&gt;</string>
 	<string key="ui_seasontrial_player_average_gear_score" rel_version="Season_2_Perm">Average Gear Score: &lt;img src="lyshineui/images/icons/misc/icon_gearscore_tan" scale="1.6" yOffset="4.0" &gt;&lt;/img&gt; {gearscore}</string>
+	<string key="ui_seasontrial_player_recommended_gear_score" rel_version="Season_2_Perm">Recommended: &lt;img src="lyshineui/images/icons/misc/icon_gearscore_tan" scale="1.6" yOffset="4.0" &gt;&lt;/img&gt; {gearscoreMin} - {gearscoreMax}</string>
 	<string key="ui_seasontrial_season_ends_prefix" rel_version="Season_2_Perm">Season End in:</string>
 	<string key="ui_howtofindraid_title" rel_version="Season_2_Perm">Forming a raid</string>
 	<string key="ui_howtofindraid_bullet1" rel_version="Season_2_Perm">i.</string>
@@ -387,9 +388,13 @@
 	<string key="ui_howtofindraid_body1" rel_version="Season_2_Perm">Raid is formed through an existing group. Invite at least one player to form a group.</string>
 	<string key="ui_howtofindraid_body2" rel_version="Season_2_Perm">Access "more options" under group members' portraits.</string>
 	<string key="ui_howtofindraid_body3" rel_version="Season_2_Perm">A player who converts the group into a raid will be assigned as the group leader. They will be able to manage the raid and invite players into the raid.</string>
+	<string key="ui_elitetrial_landing_header" rel_version="Season_2_Perm">Available Rewards</string>
+	<string key="ui_elitetrial_landing_daily" rel_version="Season_2_Perm">Daily</string>
+	<string key="ui_elitetrial_landing_weekly" rel_version="Season_2_Perm">Weekly</string>
 	<string key="ui_elitetrial_reward_header" rel_version="Season_2_Perm">Rewards</string>
-	<string key="ui_elitetrial_reward_desc" rel_version="Season_2_Perm">Successfully completing the trial will always drop the following if you haven't reached your daily/weekly limit.</string>
+	<string key="ui_elitetrial_reward_desc" rel_version="Season_2_Perm">Successfully completing the trial will drop the following if you haven't reached your daily/weekly limit.</string>
 	<string key="ui_elitetrial_reward_daily" rel_version="Season_2_Perm">{amount}/{max} Daily</string>
+	<string key="ui_elitetrial_reward_dailydesc" rel_version="Season_2_Perm">Daily Chest contains one of these items.</string>
 	<string key="ui_elitetrial_reward_weekly" rel_version="Season_2_Perm">{amount}/{max} Weekly</string>
 	<string key="ui_elitetrial_reward_weeklydesc" rel_version="Season_2_Perm">Weekly Chest contains one of these items.</string>
 	<string key="ui_elitetrial_reward_completion" rel_version="Season_2_Perm">Completion</string>
@@ -410,6 +415,7 @@
 	<string key="ui_seasontrial_map_bonusrun_count" rel_version="Season_2_Perm">{count} / {max} Bonus Runs Completed</string>
 	<string key="ui_seasontrial_beat_in" rel_version="Season_2_Perm">Time Remaining</string>
 	<string key="ui_seasontrial_milestone_bonus_run_rewards_message" rel_version="Season_2_Perm">Bonus Run Rewards</string>
+	<string key="ui_seasontrial_bonus_run_header" rel_version="Season_2_Perm">Bonus Runs</string>
 	<string key="ui_seasontrial_bonus_run_tooltip" rel_version="Season_2_Perm">Your first {maxCount} attempts at the Trial each week earn bonus rewards. Season Exclusives only drop during these attempts.</string>
 	<string key="ui_seasontrial_milestone_normal_message" rel_version="Season_2_Perm">Trial Complete</string>
 	<string key="ui_elitetrial_milestone_daily_weekly_rewards_message" rel_version="Season_2_Perm">Daily and Weekly Rewards</string>

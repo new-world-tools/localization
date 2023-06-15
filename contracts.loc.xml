@@ -287,6 +287,7 @@
 	<string key="compensations_notification_title" rel_version="Feature_Make_Good">Compensation Available</string>
 	<string key="ui_compensations_available_desc_mult" rel_version="Feature_Make_Good">You have &lt;font color={color}&gt;{number} pending compensations&lt;/font&gt; to claim!</string>
 	<string key="ui_compensations_available_desc_one" rel_version="Feature_Make_Good">You have &lt;font color={color}&gt;1 pending compensation&lt;/font&gt; to claim!</string>
+	<string key="ui_compensations_no_existing_compensations_message" rel_version="Feature_Make_Good">No existing compensations</string>
 	<string key="ui_claim" rel_version="Feature_Make_Good">Claim</string>
 	<string key="ui_claimed" rel_version="Feature_Make_Good">Claimed</string>
 	<string key="ui_unclaimed_contract" rel_version="Feature_Make_Good">Unclaimed</string>

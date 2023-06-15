@@ -167,7 +167,7 @@
 	<string key="mm_rejected_Capitals_Not_Ready">Server not ready: Bases are being built.</string>
 	<string key="mm_rejected_Duplicate_Connection">Player is already connected.</string>
 	<string key="mm_rejected_No_Persistence_Spawner">Server is not ready for players yet. Retrying...</string>
-	<string key="mm_rejected_Character_Restore_Failure">Server error: Failed to restore the character.</string>
+	<string key="mm_rejected_Character_Restore_Failure">Your data is not available right now.\nPlease try again after a few minutes.</string>
 	<string key="mm_rejected_Character_Persist_Failure">Server error: Failed to persist the character.</string>
 	<string key="mm_rejected_Character_Service_Failure">Server error: Failed to load character data.</string>
 	<string key="mm_rejected_Character_Already_Exists">Server error: Character already exists.</string>

@@ -340,7 +340,7 @@
 	<string key="Trial_Season_01_Objective_1" rel_version="Season_2_Temp">Defeat Hadish Hazar and his minions</string>
 	<string key="Trial_Season_01_Objective_2" rel_version="Season_2_Temp">Withstand the heat of The Hatchery</string>
 	<string key="Trial_Season_01_Objective_3" rel_version="Season_2_Temp">Claim the riches of the desert in victory</string>
-	<string key="Trial_Season_02_Objective_1" rel_version="Trial_Brimstone_Sandworm">Defeat Shan Neshen in the desert arena</string>
+	<string key="Trial_Season_02_Objective_1" rel_version="Trial_Brimstone_Sandworm">Defeat Shah Neshen in the desert arena</string>
 	<string key="Trial_Season_02_Objective_2" rel_version="Trial_Brimstone_Sandworm">Withstand the brutal and acidic hazards</string>
 	<string key="Trial_Season_02_Objective_3" rel_version="Trial_Brimstone_Sandworm">Claim the riches of victory over the wurm</string>
 </resources>

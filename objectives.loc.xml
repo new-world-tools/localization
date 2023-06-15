@@ -310,5 +310,6 @@
 	<string key="objective_mission_boatencounter_obj_title" rel_version="Quest_MSQ2_Revamp">Destroy Boat</string>
 	<string key="objective_mission_boatencounter_obj_desc" rel_version="Quest_MSQ2_Revamp">Fire Cannons</string>
 	<string key="objective_available">Available</string>
+	<string key="ui_show_available_objectives">Show Available</string>
 </resources>
 
