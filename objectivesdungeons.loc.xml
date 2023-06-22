@@ -269,11 +269,11 @@
 	<string key="DungeonUseRelicBubble" rel_version="Expedition_ShatterMtn_00">Requires The Reliquary</string>
 	<string key="dungeon_open_conversation" rel_version="Expedition_CutlassKeys_00">Examine</string>
 	<string key="trial_brimstone_sandworm_title" rel_version="Trial_Brimstone_Sandworm">Trial of the Devourer</string>
-	<string key="trial_brimstone_sandworm_description" rel_version="Trial_Brimstone_Sandworm">Lure Shah-Neshen the Devourer from the sands of Brimstone and trap the colossal leviathan.</string>
+	<string key="trial_brimstone_sandworm_description" rel_version="Trial_Brimstone_Sandworm">Lure Shah Neshen the Devourer from the sands of Brimstone and trap the colossal leviathan.</string>
 	<string key="trial_sandworm_title" rel_version="Trial_Brimstone_Sandworm">Trial of the Devourer</string>
 	<string key="trial_clearscorpions" rel_version="Trial_Brimstone_Sandworm">Clear the Arena</string>
-	<string key="trial_callsandworm" rel_version="Trial_Brimstone_Sandworm">Call Shah-Neshen the Devourer</string>
-	<string key="trial_bossfight" rel_version="Trial_Brimstone_Sandworm">Defeat Shah-Neshen the Devourer</string>
+	<string key="trial_callsandworm" rel_version="Trial_Brimstone_Sandworm">Call Shah Neshen the Devourer</string>
+	<string key="trial_bossfight" rel_version="Trial_Brimstone_Sandworm">Defeat Shah Neshen the Devourer</string>
 	<string key="trial_victory" rel_version="Trial_Brimstone_Sandworm">Exit the Trial</string>
 	<string key="trial_exitarena" rel_version="Trial_Brimstone_Sandworm">Exit the Trial</string>
 	<string key="Quest_Apophis_title" rel_version="Territory_Brimstone_Sands">Necropolis of Sutekh</string>

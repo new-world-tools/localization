@@ -36,6 +36,8 @@
 	<string key="ui_chat_name_help_upper">HELP</string>
 	<string key="ui_chat_name_trading">Trade</string>
 	<string key="ui_chat_name_trading_upper">TRADE</string>
+	<string rel_version="Feature_Cross_World_Social" key="ui_chat_name_game_mode_match">Match</string>
+	<string rel_version="Feature_Cross_World_Social" key="ui_chat_name_game_mode_match_upper">MATCH</string>
 	<string key="ui_chat_to">TO</string>
 	<string key="ui_chat_from">from</string>
 	<string key="ui_chat_filter_global">Show Global Chat</string>
@@ -180,6 +182,10 @@
 	<string key="ui_p2ptrading_failmessage_dont_meet_requirements_probation">You must have an account older than {time} to trade items away.</string>
 	<string key="ui_p2ptrading_failmessage_dont_meet_requirements_free">Purchase New World to trade items away.</string>
 	<string key="ui_p2ptrading_failmessage_dont_meet_requirements_generic">You are unable to trade items away.</string>
+	<string key="ui_p2ptrading_failmessage_tradeblockedcrossworld" rel_version="Feature_Cross_World_Social">Both participants must be on their Home World in order to Trade.</string>
+	<string key="ui_p2ptrading_failmessage_playersnotfromsameworld" rel_version="Feature_Cross_World_Social">You can only Trade with players from your own World.</string>
+	<string key="ui_p2ptrading_tooltip_tradeblockedcrossworld" rel_version="Feature_Cross_World_Social">You cannot Trade while on this World.</string>
+	<string key="ui_p2ptrading_tooltip_playernotfromsameworld" rel_version="Feature_Cross_World_Social">You cannot Trade with players from different Worlds.</string>
 	<string key="ui_p2ptrading_trade_completed">Trade completed.</string>
 	<string key="ui_p2ptrading_overflow_title">Inventory Full</string>
 	<string key="ui_p2ptrading_overflow_message">Some of the items you received didn't fit in your inventory and were dropped on the ground.</string>
@@ -205,6 +211,12 @@
 	<string key="ui_maxfriendsreached">You can only have {maxFriends} friends.</string>
 	<string key="ui_invalidfriend">The specified player is no longer valid.</string>
 	<string key="ui_sendguildinvite">Send Company Invite</string>
+	<string key="ui_social_menu_crossworld_warning" rel_version="Feature_Cross_World_Social">Online/offline information is not available in a Cross World instance.</string>
+	<string key="ui_friends_cross_world" rel_version="Feature_Cross_World_Social">You can not send/respond to friend invites while in a Cross World instance.</string>
+	<string key="ui_action_disabled_crossworld" rel_version="Feature_Cross_World_Social">You cannot perform this action while on this World.</string>
+	<string key="ui_action_disabled_differentworld" rel_version="Feature_Cross_World_Social">You cannot perform this action with a player from a different Home World.</string>
+	<string key="ui_button_disabled_differentworld" rel_version="Feature_Cross_World_Social">This functionality is currently unavailable in Cross World instances.</string>
+	<string key="ui_bio_buffs_crossworld_warning" rel_version="Feature_Cross_World_Social">Your buffs are active but are not visible in Cross World instances.</string>
 	<string key="ui_guild">Company</string>
 	<string key="ui_war_declared_chat_notification">{guild1} has declared war on {guild2} for control of {territoryName}!</string>
 	<string key="ui_war_extended_chat_notification">The war between {guild1} and {guild2} has been extended!</string>

@@ -371,5 +371,7 @@
 	<string key="Skin_SkinningKnife_FrontierWastelander_Description">Waste not - all parts of your quarry are useful in their way.</string>
 	<string key="Jun2023_Container_MasterName">Frontier Supply Crate</string>
 	<string key="Jun2023_Container_Description">Everything you need for venturing into the vast unknown.</string>
+	<string key="PrimeDay2023_Container_MasterName">Prime Bounty</string>
+	<string key="PrimeDay2023_Container_Description">A cache of fine items that had been stashed away for a special day.</string>
 </resources>
 

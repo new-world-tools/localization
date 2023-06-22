@@ -4394,8 +4394,8 @@
 	<string key="Sand_Elemental_Soldier_RockPile_Spawn_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Fallen Soldier</string>
 	<string key="Sandworm_Acidball_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Trial_Brimstone_Sandworm">Acid Ball</string>
 	<string key="Sandworm_AcidSpew_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Trial_Brimstone_Sandworm">Acid Spew</string>
-	<string key="Sandworm_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Trial_Brimstone_Sandworm">Shah-Neshen the Devourer</string>
-	<string key="VC_Sandworm" rel_version="Trial_Brimstone_Sandworm">Shah-Neshen the Devourer</string>
+	<string key="Sandworm_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Trial_Brimstone_Sandworm">Shah Neshen the Devourer</string>
+	<string key="VC_Sandworm" rel_version="Trial_Brimstone_Sandworm">Shah Neshen the Devourer</string>
 	<string key="Season_02_BabySandworm_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Season_2_Temp">Enraged Devourer Drone</string>
 	<string key="VC_Season_02_BabySandworm" speaker="Vitals Category" rel_version="Season_2_Temp">Enraged Devourer</string>
 	<string key="Sand_Elemental_Heavy_Sandworm_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Trial_Brimstone_Sandworm">Wurmsign Nephilim</string>

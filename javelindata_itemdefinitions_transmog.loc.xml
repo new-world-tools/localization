@@ -1640,22 +1640,22 @@
 	<string key="chitinscorpionT5_gloves_TransmogName">Scorpion Chitin Medium Handwear</string>
 	<string key="TurkeyTerror_feet_TransmogName">Turkulon's Juicy Calves</string>
 	<string key="RabbitMask_head_TransmogName">Corrupted Rabbit's Mask</string>
-	<string key="SandwormH_chest_TransmogName" rel_version="Sandworm_Apparel">Shah-Neshen's Heavy Chestwear</string>
-	<string key="SandwormH_head_TransmogName" rel_version="Sandworm_Apparel">Shah-Neshen's Heavy Headwear</string>
-	<string key="SandwormH_legs_TransmogName" rel_version="Sandworm_Apparel">Shah-Neshen's Heavy Legwear</string>
-	<string key="SandwormH_feet_TransmogName" rel_version="Sandworm_Apparel">Shah-Neshen's Heavy Footwear</string>
-	<string key="SandwormH_gloves_TransmogName" rel_version="Sandworm_Apparel">Shah-Neshen's Heavy Handwear</string>
-	<string key="SandwormM_chest_TransmogName" rel_version="Sandworm_Apparel">Shah-Neshen's Medium Chestwear</string>
-	<string key="SandwormM_head_TransmogName" rel_version="Sandworm_Apparel">Shah-Neshen's Medium Headwear</string>
-	<string key="SandwormM_legs_TransmogName" rel_version="Sandworm_Apparel">Shah-Neshen's Medium Legwear</string>
-	<string key="SandwormM_feet_TransmogName" rel_version="Sandworm_Apparel">Shah-Neshen's Medium Footwear</string>
-	<string key="SandwormM_gloves_TransmogName" rel_version="Sandworm_Apparel">Shah-Neshen's Medium Handwear</string>
-	<string key="SandwormL_chest_TransmogName" rel_version="Sandworm_Apparel">Shah-Neshen's Light Chestwear</string>
-	<string key="SandwormL_head_TransmogName" rel_version="Sandworm_Apparel">Shah-Neshen's Light Headwear</string>
-	<string key="SandwormL_legs_TransmogName" rel_version="Sandworm_Apparel">Shah-Neshen's Light Legwear</string>
-	<string key="SandwormL_feet_TransmogName" rel_version="Sandworm_Apparel">Shah-Neshen's Light Footwear</string>
-	<string key="SandwormL_gloves_TransmogName" rel_version="Sandworm_Apparel">Shah-Neshen's Light Handwear</string>
-	<string key="SandwormHat_head_TransmogName" rel_version="Sandworm_Apparel">Mini Shah-Neshen Helm</string>
+	<string key="SandwormH_chest_TransmogName" rel_version="Sandworm_Apparel">Shah Neshen's Heavy Chestwear</string>
+	<string key="SandwormH_head_TransmogName" rel_version="Sandworm_Apparel">Shah Neshen's Heavy Headwear</string>
+	<string key="SandwormH_legs_TransmogName" rel_version="Sandworm_Apparel">Shah Neshen's Heavy Legwear</string>
+	<string key="SandwormH_feet_TransmogName" rel_version="Sandworm_Apparel">Shah Neshen's Heavy Footwear</string>
+	<string key="SandwormH_gloves_TransmogName" rel_version="Sandworm_Apparel">Shah Neshen's Heavy Handwear</string>
+	<string key="SandwormM_chest_TransmogName" rel_version="Sandworm_Apparel">Shah Neshen's Medium Chestwear</string>
+	<string key="SandwormM_head_TransmogName" rel_version="Sandworm_Apparel">Shah Neshen's Medium Headwear</string>
+	<string key="SandwormM_legs_TransmogName" rel_version="Sandworm_Apparel">Shah Neshen's Medium Legwear</string>
+	<string key="SandwormM_feet_TransmogName" rel_version="Sandworm_Apparel">Shah Neshen's Medium Footwear</string>
+	<string key="SandwormM_gloves_TransmogName" rel_version="Sandworm_Apparel">Shah Neshen's Medium Handwear</string>
+	<string key="SandwormL_chest_TransmogName" rel_version="Sandworm_Apparel">Shah Neshen's Light Chestwear</string>
+	<string key="SandwormL_head_TransmogName" rel_version="Sandworm_Apparel">Shah Neshen's Light Headwear</string>
+	<string key="SandwormL_legs_TransmogName" rel_version="Sandworm_Apparel">Shah Neshen's Light Legwear</string>
+	<string key="SandwormL_feet_TransmogName" rel_version="Sandworm_Apparel">Shah Neshen's Light Footwear</string>
+	<string key="SandwormL_gloves_TransmogName" rel_version="Sandworm_Apparel">Shah Neshen's Light Handwear</string>
+	<string key="SandwormHat_head_TransmogName" rel_version="Sandworm_Apparel">Mini Shah Neshen Helm</string>
 	<string key="SandwormChitinH_chest_TransmogName" rel_version="Sandworm_Apparel">Pale Sandwurm Heavy Chestwear</string>
 	<string key="SandwormChitinH_head_TransmogName" rel_version="Sandworm_Apparel">Pale Sandwurm Heavy Headwear</string>
 	<string key="SandwormChitinH_legs_TransmogName" rel_version="Sandworm_Apparel">Pale Sandwurm Heavy Legwear</string>
