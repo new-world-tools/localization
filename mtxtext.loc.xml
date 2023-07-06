@@ -182,6 +182,8 @@
 	<string key="ui_claim_fail_alreadyunlocked">You have already claimed this entitlement.</string>
 	<string key="ui_claim_fail_inventoryfull">Cannot claim entitlement while your inventory is full. Please free up some space and try again.</string>
 	<string key="ui_claim_fail_transactionerror">Transaction error. Please try again.</string>
+	<string key="ui_claim_fail_claimpending">There is already a claim transaction in progress. Please wait for it to complete before claiming another.</string>
+	<string key="ui_claim_fail_entitlementnotunlocked">Cannot claim an entitlement you do not own. Please wait and try again.</string>
 	<string key="smolderingscarlet_dye_name" rel_version="Dye_SmolderingScarlet">Smoldering Scarlet</string>
 	<string key="runic_jackal_name" rel_version="Apparel_RunicJackal">Runic Jackal</string>
 	<string key="crescent_fang_name" rel_version="Weapon_CrescentFang">Crescent Fang</string>

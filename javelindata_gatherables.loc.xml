@@ -994,6 +994,7 @@
 	<string key="SandwormTrial_BlueButton_DisplayName" rel_version="Trial_Brimstone_Sandworm">Blue</string>
 	<string key="Sandworm_Powerup_DisplayName" rel_version="Trial_Brimstone_Sandworm">Become Empowered</string>
 	<string key="SandwormDrumLocked" rel_version="Trial_Brimstone_Sandworm">Locked Drum of Shah Neshen</string>
+	<string key="SandwormTrial_WormPellet" rel_version="Trial_Brimstone_Sandworm">Destroy Explosive</string>
 	<string key="99C_MSQ2_WitchyGlyph_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Destructive Glyph</string>
 	<string key="99C_MSQ2_RitualObject_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Arcane Anchor</string>
 	<string key="99C_MSQ2_GlowingMushroom_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Study Unusual Plants</string>

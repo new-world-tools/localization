@@ -310,7 +310,7 @@
 	<string key="SeasonsActivities_ConsumeT5ResistanceConsumable" rel_version="Feature_Seasons_Rewards">Use Tier 5 Resistance Consumables</string>
 	<string key="SeasonsActivities_DefeatBrimstoneSandsBoss" rel_version="Feature_Seasons_Rewards">Defeat Shah Neshen the Devourer</string>
 	<string key="SeasonsActivities_Kill10Dunewalkers" rel_version="Season_2_Perm">Kill Dunewalkers</string>
-	<string key="SeasonsActivities_PlayMaudlinbugSong" rel_version="Season_2_Perm">Play Maudlinwaltz</string>
+	<string key="SeasonsActivities_PlayMaudlinbugSong" rel_version="Season_2_Perm">Play Maudlinbug Haze</string>
 	<string key="SeasonsActivities_Gather500Resources" rel_version="Season_2_Perm">Gather Resources</string>
 	<string key="SeasonsActivities_Kill5Scorpions" rel_version="Feature_Seasons_Rewards">Kill Scorpions</string>
 	<string key="SeasonsRewardTrack_Activity" rel_version="Feature_Seasons_Rewards">Activity Card</string>
@@ -434,8 +434,8 @@
 	<string key="ui_seasons_task_description_CraftRuneglass" rel_version="Season_2_Perm">Craft {maxCount} Runeglass Gems</string>
 	<string key="ui_seasons_task_name_SongCallOfTheAncientsExpert" rel_version="Season_2_Perm">Call of the Ancients</string>
 	<string key="ui_seasons_task_description_SongCallOfTheAncientsExpert" rel_version="Season_2_Perm">Play the song Call of the Ancients with a 4 star rating</string>
-	<string key="ui_seasons_task_name_SongsExpertWithFullBand_1" rel_version="Season_2_Perm">Getting the Band Together</string>
-	<string key="ui_seasons_task_description_SongsExpertWithFullBand" rel_version="Season_2_Perm">Play {maxCount} songs on Expert difficulty with a full band</string>
+	<string key="ui_seasons_task_name_SongsExpertWithFullBand_1" rel_version="Season_2_Perm">Mastering the Music</string>
+	<string key="ui_seasons_task_description_SongsExpertWithFullBand" rel_version="Season_2_Perm">Play {maxCount} songs on Expert difficulty</string>
 	<string key="ui_seasons_task_name_CatchBrimstoneLegendaryFish" rel_version="Season_2_Perm">Desert Angler</string>
 	<string key="ui_seasons_task_description_CatchBrimstoneLegendaryFish" rel_version="Season_2_Perm">Catch the Brimstone Sands Legendary fish</string>
 	<string key="ui_seasons_task_name_CatchLbsOfFish_1" rel_version="Season_2_Perm">Half-Ton Hauler</string>
