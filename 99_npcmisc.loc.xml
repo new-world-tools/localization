@@ -38,7 +38,7 @@
 	<string key="9903_MSQ_Emile_title" comment="male" gender="M">Covenant Lieutenant</string>
 	<string key="9903b_MSQ_Emile_title" comment="male" gender="M">Covenant General</string>
 	<string key="9903c_MSQ_Emile_title" comment="male" gender="M">Covenant General</string>
-	<string key="9903d_MSQ_Emile_title" comment="male" gender="M">Veteran of Fort Alazar</string>
+	<string key="9903d_MSQ_Emile_title" comment="male" gender="M">Veteran of Caer Dun</string>
 	<string key="9903e_MSQ_Emile_title" comment="male" gender="M">Soulwarden Elite</string>
 	<string key="9904b_MSQ_Theophrastus_title" comment="male" gender="M">Syndicate Representative</string>
 	<string key="9904c_MSQ_Theophrastus_title" comment="male" gender="M">Research Alchemist</string>
@@ -46,7 +46,7 @@
 	<string key="9904e_MSQ_Theophrastus_title" comment="male" gender="M">Master Researcher</string>
 	<string key="9905_MSQ_Rima_title" comment="female" gender="F">Marauder Roughneck</string>
 	<string key="9905b_MSQ_Rima_title" comment="female" gender="F">Marauder Representative</string>
-	<string key="9905c_MSQ_Rima_title" comment="female" gender="F">Veteran of Fort Alazar</string>
+	<string key="9905c_MSQ_Rima_title" comment="female" gender="F">Veteran of Caer Dun</string>
 	<string key="9905d_MSQ_Rima_title" comment="female" gender="F">Soulwarden Vanguard</string>
 	<string key="9905e_MSQ_Rima_title" comment="female" gender="F">Soulwarden Vanguard</string>
 	<string key="9906_MSQ_Shamaness_title" comment="female" gender="F">Protector of the Grove</string>

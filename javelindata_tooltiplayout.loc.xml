@@ -250,7 +250,10 @@
 	<string key="FishT4_DerivedFrom">Electric Eel, Swordfish</string>
 	<string key="WheatT1_DerivedFrom">Wheat Plants</string>
 	<string key="RiceT1_DerivedFrom">Provision Containers</string>
-	<string key="EggT1_DerivedFrom">Turkey, Turkey Nest</string>
+	<string key="EggT1_DerivedFrom">Animal Nests</string>
+	<string key="EggT5_DerivedFrom" rel_version="Territory_FirstLight">Giant Lizard Nest, Elysian Wilds</string>
+	<string key="BananaT1_DerivedFrom" rel_version="Territory_FirstLight">Banana Trees, Elysian Wilds, </string>
+	<string key="MycodendraFleshT1_DerivedFrom" rel_version="Territory_FirstLight">Mycodendra, Mycocytes, Elysian Wilds</string>
 	<string key="PoultryT1_DerivedFrom">Turkey</string>
 	<string key="StrawberryT1_DerivedFrom">Strawberry Plants</string>
 	<string key="CranberryT1_DerivedFrom">Cranberry Plants</string>
