@@ -178,7 +178,7 @@
 	<string key="HousingTrdG_Curtains_GroupDesc" comment="Housing Furniture - Trading Post - TradingGroup">Housing Curtains</string>
 	<string key="HousingTrdG_Curtains_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Curtains</string>
 	<string key="HousingTrdG_DecorOther_GroupDesc" comment="Housing Furniture - Trading Post - TradingGroup">Other Decorations</string>
-	<string key="HousingTrdG_DecorOther_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Others</string>
+	<string key="HousingTrdG_DecorOther_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Other (Small)</string>
 	<string key="HousingTrdG_Dishes_GroupDesc" comment="Housing Furniture - Trading Post - TradingGroup">Housing Dishware</string>
 	<string key="HousingTrdG_Dishes_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Dishware</string>
 	<string key="HousingTrdG_Food_GroupDesc" comment="Housing Furniture - Trading Post - TradingGroup">Housing Food</string>
@@ -186,7 +186,7 @@
 	<string key="HousingTrdG_Lighting_GroupDesc" comment="Housing Furniture - Trading Post - TradingGroup">Housing Lighting</string>
 	<string key="HousingTrdG_Lighting_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Lighting</string>
 	<string key="HousingTrdG_MiscOther_GroupDesc" comment="Housing Furniture - Trading Post - TradingGroup">Other Miscellaneous</string>
-	<string key="HousingTrdG_MiscOther_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Other</string>
+	<string key="HousingTrdG_MiscOther_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Other (Large)</string>
 	<string key="HousingTrdG_Paintings_GroupDesc" comment="Housing Furniture - Trading Post - TradingGroup">Housing Paintings</string>
 	<string key="HousingTrdG_Paintings_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Paintings</string>
 	<string key="HousingTrdG_Rugs_GroupDesc" comment="Housing Furniture - Trading Post - TradingGroup">Housing Rugs</string>
@@ -866,7 +866,7 @@
 	<string key="DungeonReps8_GroupName">Ennead Replicas</string>
 	<string key="DungeonReps9_GroupName">Tempest Heart Replicas</string>
 	<string key="DungeonShields_GroupName">Expedition Shields</string>
-	<string key="DungeonReps12_GroupName" rel_version="Expedition_FirstLight_01">Crystalclaw Replicas</string>
+	<string key="DungeonReps12_GroupName" rel_version="Expedition_FirstLight_01">Savage Divide Replicas</string>
 	<string key="Dye1_GroupDesc">Craft one of a variety of shades of Red Dye.</string>
 	<string key="Dye1_GroupName">Red Dye</string>
 	<string key="Dye10_GroupDesc">Umber Dye for your armor.</string>
@@ -1999,6 +1999,7 @@
 	<string key="PrismaticArmorPlate_GroupName" rel_version="Territory_FirstLight">Heavy Armor - Prismatic Scarab</string>
 	<string key="PrismaticArmorFur_GroupName" rel_version="Territory_FirstLight">Medium Armor - Prismatic Scarab</string>
 	<string key="PrismaticArmorCloth_GroupName" rel_version="Territory_FirstLight">Light Armor - Prismatic Scarab</string>
+	<string key="PrismaticJewelry_GroupName" rel_version="Territory_FirstLight">Jewelry - Prismatic Scarab</string>
 	<string key="LeatherT52_GroupName">Tier 5 Leather (Rare)</string>
 	<string key="LeatherT53_GroupName">Prismatic Leather</string>
 	<string key="MetalT52_GroupName">Tier 5 Ingot (Rare)</string>

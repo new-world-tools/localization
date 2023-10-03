@@ -1338,13 +1338,13 @@
 	<string key="ui_playertitle_season3_journeychallenge8_SHE" rel_version="Season_3_Perm">Mushroom Muncher</string>
 	<string key="ui_playertitle_season3_journeychallenge8_THEY" rel_version="Season_3_Perm">Mushroom Muncher</string>
 	<string key="ui_playertitle_season3_journeychallenge8_description" rel_version="Season_3_Perm">Earned by completing the Season 3 Challenge: Mushroom Muncher</string>
-	<string key="ui_playertitle_season3_journeychallenge9" rel_version="Season_3_Perm">First Light Freedom Fighter</string>
-	<string key="ui_playertitle_season3_journeychallenge9_SHE" rel_version="Season_3_Perm">First Light Freedom Fighter</string>
-	<string key="ui_playertitle_season3_journeychallenge9_THEY" rel_version="Season_3_Perm">First Light Freedom Fighter</string>
-	<string key="ui_playertitle_season3_journeychallenge9_description" rel_version="Season_3_Perm">Earned by completing the Season 3 Challenge: First Light Freedom Fighter</string>
-	<string key="ui_playertitle_season3_journeychallenge10" rel_version="Season_3_Perm">Legendary Adventurer</string>
-	<string key="ui_playertitle_season3_journeychallenge10_SHE" rel_version="Season_3_Perm">Legendary Adventurer</string>
-	<string key="ui_playertitle_season3_journeychallenge10_THEY" rel_version="Season_3_Perm">Legendary Adventurer</string>
-	<string key="ui_playertitle_season3_journeychallenge10_description" rel_version="Season_3_Perm">Earned by completing the Season 3 Challenge: Legendary Adventurer</string>
+	<string key="ui_playertitle_season3_journeychallenge9" rel_version="Season_3_Perm">Elysian Wilds Freedom Fighter</string>
+	<string key="ui_playertitle_season3_journeychallenge9_SHE" rel_version="Season_3_Perm">Elysian Wilds Freedom Fighter</string>
+	<string key="ui_playertitle_season3_journeychallenge9_THEY" rel_version="Season_3_Perm">Elysian Wilds Freedom Fighter</string>
+	<string key="ui_playertitle_season3_journeychallenge9_description" rel_version="Season_3_Perm">Earned by completing the Season 3 Challenge: Elysian Wilds Freedom Fighter</string>
+	<string key="ui_playertitle_season3_journeychallenge10" rel_version="Season_3_Perm">Beastly Treasure Hunter</string>
+	<string key="ui_playertitle_season3_journeychallenge10_SHE" rel_version="Season_3_Perm">Beastly Treasure Hunter</string>
+	<string key="ui_playertitle_season3_journeychallenge10_THEY" rel_version="Season_3_Perm">Beastly Treasure Hunter</string>
+	<string key="ui_playertitle_season3_journeychallenge10_description" rel_version="Season_3_Perm">Earned by completing the Season 3 Challenge: Beastly Treasure Hunter</string>
 </resources>
 

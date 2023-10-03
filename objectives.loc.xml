@@ -333,15 +333,15 @@
 	<string key="objective_artifact_equip_reminder" rel_version="Feature_Artifacts">When Equipped:</string>
 	<string key="Objective_Artifact_PerkTasks" rel_version="Feature_Expansion_1">Each task unlocks a perk</string>
 	<string key="Objective_Artifact_Desc" rel_version="Feature_Expansion_1">Complete the following to improve this Artifact</string>
-	<string key="Objective_Artifact_Set1_HeavyHead" rel_version="Feature_Expansion_1">Artifact: Unyeilding Helm</string>
+	<string key="Objective_Artifact_Set1_HeavyHead" rel_version="Feature_Expansion_1">Artifact: Unyeilding</string>
 	<string key="Objective_Artifact_Set1_HeavyChest" rel_version="Feature_Expansion_1">Artifact: Void Darkplate</string>
 	<string key="Objective_Artifact_Set1_HeavyHands" rel_version="Feature_Expansion_1">Artifact: Magnetic Gauntlets</string>
-	<string key="Objective_Artifact_Set1_HeavyLegs" rel_version="Feature_Expansion_1">Artifact: Freedom Leggings</string>
-	<string key="Objective_Artifact_Set1_MediumHead" rel_version="Feature_Expansion_1">Artifact: Headwrap</string>
+	<string key="Objective_Artifact_Set1_HeavyLegs" rel_version="Feature_Expansion_1">Artifact: Freedom</string>
+	<string key="Objective_Artifact_Set1_MediumHead" rel_version="Feature_Expansion_1">Artifact: Djinn Headwrap</string>
 	<string key="Objective_Artifact_Set1_MediumChest" rel_version="Feature_Expansion_1">Artifact: Nimble Coat</string>
-	<string key="Objective_Artifact_Set1_MediumHands" rel_version="Feature_Expansion_1">Artifact: Goul Gloves</string>
-	<string key="Objective_Artifact_Set1_MediumLegs" rel_version="Feature_Expansion_1">Artifact: Attuned Pants</string>
-	<string key="Objective_Artifact_Set1_LightHead" rel_version="Feature_Expansion_1">Artifact: Wizard's Hat</string>
+	<string key="Objective_Artifact_Set1_MediumHands" rel_version="Feature_Expansion_1">Artifact: Ghoul Gloves</string>
+	<string key="Objective_Artifact_Set1_MediumLegs" rel_version="Feature_Expansion_1">Artifact: Attuned Leather Pants</string>
+	<string key="Objective_Artifact_Set1_LightHead" rel_version="Feature_Expansion_1">Artifact: Grey Wizard's Hat</string>
 	<string key="Objective_Artifact_Set1_LightChest" rel_version="Feature_Expansion_1">Artifact: Featherweight</string>
 	<string key="Objective_Artifact_Set1_LightFeet" rel_version="Feature_Expansion_1">Artifact: Tumbler Feetwraps</string>
 	<string key="Objective_Artifact_Set1_1hLongsword" rel_version="Feature_Expansion_1">Artifact: The Butcher</string>
@@ -378,5 +378,6 @@
 	<string key="Objective_Kill_OPR" rel_version="Feature_Expansion_1">Defeat {targetName} enemies in Outpost Rush</string>
 	<string key="Objective_Kill_Arena" rel_version="Feature_Expansion_1">Defeat {targetName} enemies in Arena</string>
 	<string key="Objective_Kill_OpenWorld" rel_version="Feature_Expansion_1">Defeat {targetName} enemies</string>
+	<string key="Objective_CraftArtifact" rel_version="Feature_Expansion_1">Upgrade this item at the Gypsum Kiln</string>
 </resources>
 

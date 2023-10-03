@@ -250,7 +250,7 @@
 	<string key="09A_M5_Container_01A" speaker="UI" rel_version="Territory_FirstLight">Find Ingredients to make Pitch</string>
 	<string key="09A_M5_Sap" speaker="UI" rel_version="Territory_FirstLight">Collect Thick Sap</string>
 	<string key="09A_M5_Charcoal" speaker="UI" rel_version="Territory_FirstLight">Collect Burnt Charcoal</string>
-	<string key="09A_M5_RatFat" speaker="UI" rel_version="Territory_FirstLight">Collect Fatty Glands from the Hercyne Rats</string>
+	<string key="09A_M5_RatFat" speaker="UI" rel_version="Territory_FirstLight">Collect Fatty Glands from the Hollow Rats</string>
 	<string key="09A_M5_MulchInnards" speaker="UI" rel_version="Territory_FirstLight">Collect Mulchy Innards from the Angry Earth</string>
 	<string key="09A_M5_Container_01B" speaker="UI" rel_version="Territory_FirstLight">Find Broken Shrine Fragment</string>
 	<string key="09A_M5_TriggerArea_WhisperPlant_Tanglesnap" speaker="UI" rel_version="Territory_FirstLight">Search for the Shrine Fragment</string>
@@ -275,7 +275,7 @@
 	<string key="09A_M5_DefenseEncounter_Title3" speaker="Encounter UI" rel_version="Territory_FirstLight">Watch out!</string>
 	<string key="09A_M5_DefenseEncounter_Description3" speaker="Encounter UI" rel_version="Territory_FirstLight">Avoid the divine Meteor bombardment!</string>
 	<string key="09A_M5_DefenseEncounter_Title4" speaker="Encounter UI" rel_version="Territory_FirstLight">Stage 3/3</string>
-	<string key="09A_M5_DefenseEncounter_Description4" speaker="Encounter UI" rel_version="Territory_FirstLight">Slay the Hercyne Boar!</string>
+	<string key="09A_M5_DefenseEncounter_Description4" speaker="Encounter UI" rel_version="Territory_FirstLight">Slay the Hercyne Boars!</string>
 	<string key="fake_key_05" comment="ABDUCTED ARTIFICER" rel_version="Territory_FirstLight">ABDUCTED ARTIFICER</string>
 	<string key="09A_M6_Title" speaker="UI" rel_version="Territory_FirstLight">Abducted Artificer</string>
 	<string key="09A_M6_Description" speaker="UI" rel_version="Territory_FirstLight">Survivalist Riches implores us for aid, saving his kidnapped friend Jihoon Kim. Kim was captured by Medusa in the initial invasion, but Riches recently spotted him being dragged east to Saircor, go rescue the Artificer if you can.</string>
@@ -307,7 +307,7 @@
 	<string key="09a_M6_Vachon_Rescue_prompt" speaker="UI - Player Prompt" rel_version="Territory_FirstLight">"Have you seen an Artificer named Kim?"</string>
 	<string key="09a_M6_Vachon_Rescue_response" speaker="Vashon" name="SebastienVachon" VO="npc_09a_M6_Vachon_Rescue_response" VO_Type="npc_" VO_Status="Recorded" rel_version="Territory_FirstLight">No, we followed him here but were captured before we found where they're holding him.\n\nI'd help you look, but I need to tell Trahern what we saw.</string>
 	<string key="09a_Zayden_Default" speaker="Zayden" name="Zayden" VO="npc_09a_Zayden_Default" VO_Type="npc_" VO_Status="Recorded" rel_version="Territory_FirstLight">I swear, I should have stayed back north, and never come to this place.</string>
-	<string key="09a_Zayden_Rescue_01" speaker="Zayden" name="Zayden" VO="npc_09a_Zayden_Rescue_01" VO_Type="npc_" VO_Status="Recorded" rel_version="Territory_FirstLight">How did you make it through? There were so many of them… too many to for Sebastien and I to fight through.</string>
+	<string key="09a_Zayden_Rescue_01" speaker="Zayden" name="Zayden" VO="npc_09a_Zayden_Rescue_01" VO_Type="npc_" VO_Status="Recorded" rel_version="Territory_FirstLight">How did you make it through? There were so many of them… too many for Sebastien and I to fight through.</string>
 	<string key="09a_M6_Zayden_Rescue_prompt" speaker="UI - Player Prompt" rel_version="Territory_FirstLight">"Have you seen an Artificer named Kim?"</string>
 	<string key="09a_M6_Zayden_Rescue_response" speaker="Zayden" name="Zayden" VO="npc_09a_M6_Zayden_Rescue_response" VO_Type="npc_" VO_Status="Recorded" rel_version="Territory_FirstLight">Yes, they're holding him in the central area.\n\nHe's heavily guarded because he tried to escape.</string>
 	<string key="09A_Kim_Default" speaker="Artificer Kim" name="ArtificerKim" VO="npc_09A_Kim_Default" VO_Type="npc_" VO_Status="Recorded" rel_version="Territory_FirstLight">Fates align! Break these bars and get me out of here!</string>
@@ -331,7 +331,7 @@
 	<string key="09A_M6_Container_02" speaker="UI" rel_version="Territory_FirstLight">Fight through the Ancient Fortress</string>
 	<string key="09A_M6_Kill_Guards" speaker="UI" rel_version="Territory_FirstLight">Defeat Jihoon Kim's jailer</string>
 	<string key="09A_M6_BreakBars" speaker="UI" rel_version="Territory_FirstLight">Destroy the bars on Jihoon Kim's Cell</string>
-	<string key="09A_Fionn_Default" speaker="Fionn" name="Fionn" VO="npc_09A_Fionn_Default" VO_Type="npc_" VO_Status="Recorded" rel_version="Territory_FirstLight">N/A HERE</string>
+	<string key="09A_Fionn_Default" speaker="Fionn" name="Fionn" VO="npc_09A_Fionn_02" VO_Type="npc_" VO_Status="Recorded" rel_version="Territory_FirstLight">Angry Earth rampaging across First Light, massive beasts on the mainland, factions working together… \n\nNot sure I'm cut out for whatever Aeternum has in store for us next.</string>
 	<string key="fake_key_06" comment="ESCAPING SAIRCOR" rel_version="Territory_FirstLight">ESCAPING SAIRCOR</string>
 	<string key="09A_M7_Title" speaker="UI" rel_version="Territory_FirstLight">Escaping The Ruins</string>
 	<string key="09A_M7_Description" speaker="UI" rel_version="Territory_FirstLight">Jihoon Kim believes Medusa and Artemis stole an item of importance and stashed it at Portico Tideswallow. If the item is recovered, it may convince the Minotaur there is something sinister going on with Artemis and the Beast Lords.</string>
@@ -392,7 +392,7 @@
 	<string key="fake_key_08" comment="LORD OF THE PRIDE" rel_version="Territory_FirstLight">LORD OF THE PRIDE</string>
 	<string key="09A_M9_Title" speaker="UI" rel_version="Territory_FirstLight">Lord of the Pride</string>
 	<string key="09A_M9_Description" speaker="UI" rel_version="Territory_FirstLight">To forge an alliance with the Beast Lords we will first need to prove ourselves to them. Taurus suggests that we begin with the Lion Lord Shirzad to the north in Gurhaowl's Pride. Complete his challenge and gain an audience.</string>
-	<string key="09A_Taurus_01" speaker="Taurus" rel_version="Territory_FirstLight" cameraState="UI_CustomDialogue" cameraStateLookAt="-1 -1.25 2.25" cameraStateOrigin="0 1.25 1.35" cameraEnterBlendTime="0.5" cameraExitBlendTime="0.5" hideNearbyPlayerAvatars="TRUE" originEnterBlendTime="0.5">I am the one who summoned the Beast Lords, and it was on my word that they agreed to bargain with the Huntress.\n\nIf I have misled them, I am ashamed, and if they succumb to her influence, the danger is great.</string>
+	<string key="09A_Taurus_01" speaker="Taurus" name="Taurus" VO="npc_09A_Taurus_01" VO_Status="Recorded" rel_version="Territory_FirstLight" cameraState="UI_CustomDialogue" cameraStateLookAt="-1 -1.25 2.25" cameraStateOrigin="0 1.25 1.35" cameraEnterBlendTime="0.5" cameraExitBlendTime="0.5" hideNearbyPlayerAvatars="TRUE" originEnterBlendTime="0.5">I am the one who summoned the Beast Lords, and it was on my word that they agreed to bargain with the Huntress.\n\nIf I have misled them, I am ashamed, and if they succumb to her influence, the danger is great.</string>
 	<string key="09A_M9_Prompt" speaker="UI - Player Prompt" rel_version="Territory_FirstLight">"What would happen?"</string>
 	<string key="09A_M9_Proposal" speaker="Taurus" name="Taurus" VO="npc_09A_M9_Proposal" VO_Type="npc_" VO_Status="Recorded" dialogue-next="@09A_M9_Proposal_next" rel_version="Territory_FirstLight">The Beast Lords are primal powers, far beyond anything you or I can imagine. If they war, they will win.\n\nOf equal concern, the Tear of Gaea, a relic of this island's creation safekept for millennia, but now part of the Huntress's bargain.</string>
 	<string key="09A_M9_Proposal_next_prompt" speaker="UI - Player Prompt" rel_version="Territory_FirstLight">"We can't let Artemis get the Tear of Gaea."</string>
@@ -460,7 +460,7 @@
 	<string key="09A_Kurok_02" speaker="Kurok" name="BeastLordKurok" VO="npc_09A_Kurok_02" VO_Type="npc_" VO_Status="Recorded" rel_version="Territory_FirstLight" cameraState="UI_CustomDialogue" cameraStateLookAt="-1.5 -2.3 0.5" cameraStateOrigin="0 1 0.5" cameraEnterBlendTime="0.5" cameraExitBlendTime="0.5" originEnterBlendTime="0.5">Our brother… we shall not let him fall to this affliction.</string>
 	<string key="09A_M11_Task_GoToMammoth" speaker="UI" rel_version="Territory_FirstLight">Travel to the Trampled Steppes</string>
 	<string key="09A_M11_Task_TalkToMammothAmbush" speaker="UI" rel_version="Territory_FirstLight">Seek an audience with Mahantaram</string>
-	<string key="09A_M11_Task_DefeatMammoth" speaker="UI" rel_version="Territory_FirstLight">Defeat the enraged Mammoth Lord</string>
+	<string key="09A_M11_Task_DefeatMammoth" speaker="UI" rel_version="Territory_FirstLight">Negotiate with the Mammoth Lord</string>
 	<string key="09A_M11_Task_Container_01" speaker="UI" rel_version="Territory_FirstLight">Speak with your Allies</string>
 	<string key="09A_M11_Task_TalkToShirzad" speaker="UI" rel_version="Territory_FirstLight">Speak with Shirzad</string>
 	<string key="09A_M11_Task_TalkToTaurus" speaker="UI" rel_version="Territory_FirstLight">Speak with Taurus</string>
@@ -1103,7 +1103,7 @@
 	<string key="FactionMission_C_R0902_quest_desc" rel_version="Territory_FirstLight">The Ancients of {POITags} guard a rich bounty. Defeat &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; and claim their hoard.</string>
 	<string key="FactionMission_C_R0902_quest_name" rel_version="Territory_FirstLight">Awakened Crypts</string>
 	<string key="FactionMission_C_R0903_quest_desc" rel_version="Territory_FirstLight">The Angry Earth of {POITags} have been stockipiling treasures. Defeat &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; and recover their hoarded wealth.</string>
-	<string key="FactionMission_C_R0903_quest_name" rel_version="Territory_FirstLight">Ginrdmills</string>
+	<string key="FactionMission_C_R0903_quest_name" rel_version="Territory_FirstLight">Grindmills</string>
 	<string key="FactionMission_C_R0904_quest_desc" rel_version="Territory_FirstLight">The Angry Earth of {POITags} guard a stockpile of useful materials. Defeat &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; and harvest whatever material you can find.</string>
 	<string key="FactionMission_C_R0904_quest_name" rel_version="Territory_FirstLight">Cauterizing a Wound</string>
 	<string key="FactionMission_C_R0905_quest_desc" rel_version="Territory_FirstLight">The Angry Earth of {POITags} have been stockipiling treasures. Defeat &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; and recover their hoarded wealth.</string>

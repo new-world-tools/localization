@@ -881,7 +881,7 @@
 	<string key="03_sq_01_task_goto1" speaker="UI - Task Description" rel_version="Quest_Supplement_GreatCleave">Go to {POITags}</string>
 	<string key="03_SQ_01_Task_LootChests" speaker="UI - Task Description" rel_version="Quest_Supplement_GreatCleave">Search chests for battle plans</string>
 	<string key="03_SQ_02_ArmedPoints_Title" speaker="UI - Quest Title" rel_version="Quest_Supplement_GreatCleave">Armed At All Points</string>
-	<string key="03_SQ_02_ArmedPoints_Desc" speaker="UI – Quest Description" rel_version="Quest_Supplement_GreatCleave">Kill the Siege Engineers at {POITags}.</string>
+	<string key="03_SQ_02_ArmedPoints_Desc" speaker="UI – Quest Description" rel_version="Quest_Supplement_GreatCleave">Defeat the Siege Engineers at Riven Anvil.</string>
 	<string key="03_00_Hotspur_B_DefaultDialog" speaker="Gundulf Hotspur" name="SerHerodionHotspur" gender="m" VO="npc_03_00_Hotspur_B_DefaultDialog" VO_Status="Recorded" rel_version="Quest_Supplement_GreatCleave">No quarter for Siege Engineers!</string>
 	<string key="03_SQ_02_ArmedPoints_Start" speaker="UI - Player Prompt" rel_version="Quest_Supplement_GreatCleave">"No quarter!"</string>
 	<string key="03_SQ_02_ArmedPoints_Proposal" speaker="Gundulf Hotspur" name="SerHerodionHotspur" gender="m" VO="npc_03_SQ_02_ArmedPoints_Proposal" VO_Status="Recorded" dialogue-next="@03_SQ_02_ArmedPoints_Proposal_Next2" rel_version="Quest_Supplement_GreatCleave">Let us take measure of these plans. Hmm. \n\nWhat treachery is this? Those villains are building Siege Engines to wreak destruction upon the Soulwardens.</string>

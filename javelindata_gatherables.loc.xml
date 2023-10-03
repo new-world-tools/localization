@@ -1065,8 +1065,8 @@
 	<string key="Sandworm_Powerup_DisplayName" rel_version="Trial_Brimstone_Sandworm">Become Empowered</string>
 	<string key="SandwormDrumLocked" rel_version="Trial_Brimstone_Sandworm">Locked Drum of Shah Neshen</string>
 	<string key="SandwormTrial_WormPellet" rel_version="Trial_Brimstone_Sandworm">Destroy Explosive</string>
-	<string key="Rage_Miasma_Interact_DisplayName" rel_version="Territory_FirstLight">Extinguish Rage Flower</string>
-	<string key="Rage_Miasma_Spore_Description" rel_version="Territory_FirstLight">Cutting down this plant will extinguish the spore induced rage of any nearby beasts!</string>
+	<string key="Rage_Miasma_Interact_DisplayName" rel_version="Territory_FirstLight">Destroy Rage Flower</string>
+	<string key="Rage_Miasma_Spore_Description" rel_version="Territory_FirstLight">Enrages all nearby Beasts. Destroy this plant to end the effect!</string>
 	<string key="99C_MSQ2_WitchyGlyph_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Destructive Glyph</string>
 	<string key="99C_MSQ2_RitualObject_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Arcane Anchor</string>
 	<string key="99C_MSQ2_GlowingMushroom_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Study Unusual Plants</string>
@@ -1334,8 +1334,9 @@
 	<string key="Corrupted_Leviathan_Tentacle_Altar_DisplayName" rel_version="Quest_MSQ2_GreatCleave">Charge Ancient Altar</string>
 	<string key="gimmick_poisonpolyp_DisplayName" rel_version="Feature_Mounts">Poison Polyp</string>
 	<string key="9401_Vines_DisplayName">Overgrown Vines</string>
-	<string key="09FL_BeastGlyphLock_DisplayName" rel_version="Territory_FirstLight">Commune</string>
-	<string key="09FL_BeastGlyphLearn_DisplayName" rel_version="Territory_FirstLight">Commune with the Beast Lord</string>
+	<string key="09FL_BeastGlyphLock_DisplayName" rel_version="Territory_FirstLight">Place Hand</string>
+	<string key="09FL_BeastGlyphLearn_DisplayName" rel_version="Territory_FirstLight">Commune</string>
+	<string key="09FL_BeastGlyphNearby_DisplayName" rel_version="Territory_FirstLight">A signet of a Beast Lord is nearby.</string>
 	<string key="09FL_Jungle_CorpseFlower_DisplayName" rel_version="Territory_FirstLight">Elysian Ambrosia</string>
 	<string key="Rafflebones_Portal_FOTB_DisplayName">Summon Rafflebones</string>
 	<string key="Halloween_Basket_Candy_DisplayName">Collect Treats</string>

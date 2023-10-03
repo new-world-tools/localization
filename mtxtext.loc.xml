@@ -1174,5 +1174,6 @@
 	<string key="Bundle_PR_Elven_Timbersworn_name" rel_version="Entitlements_FirstLightMTX">Timbersworn Bundle</string>
 	<string key="Bundle_PR_Elven_Silverswept_name" rel_version="Entitlements_FirstLightMTX">Silverswept Bundle</string>
 	<string key="Bundle_PR_Elven_VerdantDawn_name" rel_version="Entitlements_FirstLightMTX">Verdant Dawn Bundle</string>
+	<string key="reward_type_Weaponskin_Flail" rel_version="Entitlements_FirstLightMTX">Flail Skin</string>
 </resources>
 

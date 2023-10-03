@@ -1239,7 +1239,7 @@
 	<string key="ui_teleport_backup_location">Your respawn destination was unavailable, you have been teleported nearby.</string>
 	<string key="ui_territoryLockedReclaim">Cannot reclaim until the end of Resolution phase.</string>
 	<string key="ui_territoryLockedClaim">Cannot be claimed as a 3rd party until War ends.</string>
-	<string key="ui_territoryinfluencetooltip">During an Influence Race, factions earn Influence through &lt;font face="lyshineui/fonts/Nimbus_semibold.font" &gt;PvP Faction Missions&lt;/font&gt; and &lt;font face="lyshineui/fonts/Nimbus_semibold.font" &gt;Faction Control Points&lt;/font&gt;. Faction Control Points give the controlling faction a bonus to all Influence Earned. \n\nThe Attacking Faction that pushes the most Influence during an Influence Race earns a declaration of war. Companies must complete Faction Missions to earn enough Influence to be eligible to declare. \n\nFactions with 2 less territories owned earn an added &lt;font color="#FFFFFF"&gt;10%&lt;/font&gt; Influence Point Bonus.</string>
+	<string key="ui_territoryinfluencetooltip">During an Influence Race, factions earn Influence through &lt;font face="lyshineui/fonts/Nimbus_semibold.font" &gt;PvP Faction Missions&lt;/font&gt; and &lt;font face="lyshineui/fonts/Nimbus_semibold.font" &gt;Faction Control Points&lt;/font&gt;. Faction Control Points give the controlling faction a bonus to all Influence Earned. \n\nThe Attacking Faction that pushes the most Influence during an Influence Race earns a declaration of war. Companies must complete Faction Missions to earn enough Influence to be eligible to declare. \n\n&lt;font face="lyshineui/fonts/Nimbus_semibold.font" &gt;Underdog Bonus:&lt;/font&gt; Factions with 2 less territories owned earn an added &lt;font color="#FFFFFF"&gt;10%&lt;/font&gt; Influence Point Bonus.</string>
 	<string key="ui_availableToReclaimIn">Available to reclaim in :</string>
 	<string key="ui_availableToClaimIn">Available to claim in :</string>
 	<string key="ui_availableTimeToCapture">Available time to capture :</string>
@@ -2116,7 +2116,7 @@
 	<string key="ui_next_milestone">Next Unlock</string>
 	<string key="ui_locked">LOCKED</string>
 	<string key="ui_unlocked">UNLOCKED</string>
-	<string key="ui_attribute_scale">&lt;font face="lyshineui/fonts/Nimbus_Semibold.font" color={color}&gt;{name}&lt;/font&gt;\nDamage scales with {attribute}</string>
+	<string key="ui_attribute_scale">&lt;font face="lyshineui/fonts/Nimbus_Semibold.font" color={color}&gt;{name}&lt;/font&gt;\n{stat} scales with {attribute}</string>
 	<string key="ui_weapon_damage">Damage</string>
 	<string key="ui_shield_disabled">Shield stats and perks are only applied if you have a sword or flail equipped and unsheathed.\n\nIf you are not using a sword or flail, consider unequipping the shield to reduce your equip load.</string>
 	<string key="ui_unspent">unspent</string>
@@ -2839,5 +2839,6 @@
 	<string key="ui_sort_by_end_date">Sort by End Date</string>
 	<string key="ui_sort_by_price_low">Sort by Price: Low to High</string>
 	<string key="ui_sort_by_price_high">Sort by Price: High to Low</string>
+	<string key="ui_requirements">Requirements</string>
 </resources>
 

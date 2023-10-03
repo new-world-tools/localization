@@ -3266,7 +3266,7 @@
 	<string key="ui_metachievement_pvp_totalkills_generic_desc">Personally defeat {number} other players.</string>
 	<string key="ui_metachievement_pvp_outpostrushwin_first_desc">Win your first Outpost Rush teamplay battle.</string>
 	<string key="ui_metachievement_pvp_outpostrushwin_desc">Win {number} Outpost Rush teamplay battles.</string>
-	<string key="ui_metachievement_pvp_countrolpointcount_first_desc">Outside of War, capture a Control Point to claim the fort for your faction.</string>
+	<string key="ui_metachievement_pvp_countrolpointcount_first_desc">Outside of War, capture a Control Point at the fort or one of three Watch locations during an Influence Race.</string>
 	<string key="ui_metachievement_pvp_countrolpointcount_desc">Capture {number} Control Points to claim forts for your faction.</string>
 	<string key="ui_metachievement_questarc_brightwood_desc1">Complete the Brightwood arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Inquisitor's Legacy&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_brightwood_desc2">Complete the Brightwood arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Secrets of the Earth&lt;/font&gt;.</string>

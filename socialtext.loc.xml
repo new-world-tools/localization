@@ -587,6 +587,8 @@
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationautodeclined_pvpflagmismatched">Invite declined. Player has mismatched PVP flagging.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationautodeclined_atdungeonlimit">Invite declined. Player at Expedition Limit.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationautodeclined_mismatchedfaction">Invite declined. Player in different Faction.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationautodeclined_mutationlevel">Invite declined. Player too low level.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_mutationlevel">You are too low a level to create a lobby for this mutatated expedition.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_directinvite">Invite to Lobby</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_directinvite_tooltip_not_creator">Only the Lobby creator can invite.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_directinvite_tooltip_already_in_group">{player} is already in your Lobby.</string>

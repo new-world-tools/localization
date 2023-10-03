@@ -14,11 +14,16 @@
 	<string key="ui_factioncontrol_status_label">Status</string>
 	<string key="ui_factioncontrol_benefits_label">Control Benefits</string>
 	<string key="ui_factioncontrol_territory_bonuses_label">Territory Bonuses</string>
+	<string key="ui_bonus_flyout_influencesection">Influence Section</string>
+	<string key="ui_bonus_flyout_towermodifier">Tower(s) Modifier:</string>
+	<string key="ui_bonus_flyout_fortmodifier">Fort Modifier:</string>
+	<string key="ui_bonus_flyout_underdogmodifier">Underdog Modifier:</string>
 	<string key="ui_factioncontrol_faction_bonuses_label">Faction Bonuses</string>
 	<string key="ui_factioncontrol_controlledby_inline">Controlled by {factionName}</string>
 	<string key="ui_factioncontrol_controlledby_label">Controlled by:</string>
 	<string key="ui_factioncontrol_defend_controlpoint">Defend the Control Point</string>
 	<string key="ui_factioncontrol_claim_controlpoint">Claim the Control Point</string>
+	<string key="ui_influencetower_bonus">+{multiplier}%</string>
 	<string key="ui_factioncontrol_defend_influencetower" rel_version="Feature_Influence_V2">Defend {towerName}</string>
 	<string key="ui_factioncontrol_claim_influencetower" rel_version="Feature_Influence_V2">Claim {towerName}</string>
 	<string key="ui_factioncontrol_reminder_influencetower" rel_version="Feature_Influence_V2">Flag for PvP in a Sanctuary to capture Influence Towers.</string>

@@ -5274,11 +5274,13 @@
 	<string key="legendaryheavyforearms1_gloves_TransmogName" rel_version="Territory_FirstLight">Legendary Gauntlets</string>
 	<string key="legendaryheavyforearms2_gloves_TransmogName" rel_version="Territory_FirstLight">Legendary Leather Gloves</string>
 	<string key="legendarylightforearms1_gloves_TransmogName" rel_version="Territory_FirstLight">Legendary Cloth Gloves</string>
-	<string key="legendaryheavycalves2_feet_TransmogName" rel_version="Territory_FirstLight">Legendary Greeves</string>
+	<string key="legendaryheavycalves2_feet_TransmogName" rel_version="Territory_FirstLight">Legendary Greaves</string>
 	<string key="legendarymediumcalves1_feet_TransmogName" rel_version="Territory_FirstLight">Legendary Boots</string>
 	<string key="legendarymediumthighs1_legs_TransmogName" rel_version="Territory_FirstLight">Legendary Plate Pants</string>
 	<string key="legendarymediumthighs3_legs_TransmogName" rel_version="Territory_FirstLight">Legendary Leather Pants</string>
 	<string key="legendaryheavychest6_chest_TransmogName" rel_version="Territory_FirstLight">Legendary Cuirass</string>
 	<string key="legendarylightchest2_chest_TransmogName" rel_version="Territory_FirstLight">Legendary Coat</string>
+	<string key="nagacorruptedmedium_hands_TransmogName" rel_version="Expedition_BrimstoneSands_00">Legendary Naga Gloves</string>
+	<string key="nagacorruptedmedium_legs_TransmogName" rel_version="Expedition_BrimstoneSands_00">Legendary Naga Pants</string>
 </resources>
 

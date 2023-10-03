@@ -65,7 +65,8 @@
 	<string key="ui_mount_dash_failed_force_walk" rel_version="Feature_Mounts">Cannot dash in settlements</string>
 	<string key="ui_mount_locked" rel_version="Feature_Mounts">Mount locked</string>
 	<string key="ui_mount_change_throttled" rel_version="Feature_Mounts">Mount change request throttled. Please try again later.</string>
-	<string key="ui_identical_mount" rel_version="Feature_Mounts">Cannot change to identical mount</string>
+	<string key="ui_mount_dye_throttled" rel_version="Feature_Mounts">Mount dye request throttled. Please try again later.</string>
+	<string key="ui_identical_mount" rel_version="Feature_Mounts">Cannot change to identical mount.</string>
 	<string key="ui_mount_unlocked" rel_version="Feature_Mounts">Mount unlocked</string>
 	<string key="ui_mounts_owned" rel_version="Feature_Mounts">Owned</string>
 	<string key="ui_mounts_not_owned" rel_version="Feature_Mounts">You do not own this mount.</string>
@@ -107,8 +108,8 @@
 	<string key="ui_mounts_wolf_shop" rel_version="Feature_Mounts">Wolf Shop</string>
 	<string key="ui_mounts_lion_shop" rel_version="Feature_Mounts">Lion Shop</string>
 	<string key="ui_navmenu_mounts" rel_version="Feature_Mounts">Mount</string>
-	<string key="ui_mounts_dye_command" rel_version="Feature_Mounts">Dye</string>
-	<string key="ui_mounts_dye_screen_title" rel_version="Feature_Mounts">Dye Mount</string>
+	<string key="ui_mounts_dye_command" rel_version="Feature_Mounts">Dye Armor</string>
+	<string key="ui_mounts_dye_screen_title" rel_version="Feature_Mounts">Dye Mount Armor</string>
 	<string key="ui_rename_mount" rel_version="Feature_Mounts">Rename Mount</string>
 	<string key="ui_mounts_horse_starter_description" rel_version="Feature_Mounts">You will never forget that fateful day when you saw Moonshadow by the river bank.</string>
 	<string key="ui_mounts_wolf_starter_description" rel_version="Feature_Mounts">Your reward for rescuing the wolves from their cages. May the pack forever be in your debt.</string>
@@ -192,6 +193,8 @@
 	<string key="ui_mounts_keybind_dismount_cancel_summon" rel_version="Feature_Mounts">Cancel Summon/Dismiss Mount</string>
 	<string key="ui_mounts_keybind_dash" rel_version="Feature_Mounts">Dash</string>
 	<string key="ui_mounts_keybind_jump" rel_version="Feature_Mounts">Jump</string>
+	<string key="ui_mount_auto_road_follow" rel_version="Feature_Mounts">Mount Road Following</string>
+	<string key="ui_mount_auto_road_follow_desc" rel_version="Feature_Mounts">Mounts will automatically follow roads while auto-running</string>
 	<string key="ui_mount_level_requirement_long" rel_version="Feature_Mounts">Riding Rank Required</string>
 	<string key="ui_mount_customize_keybinds_description" rel_version="Feature_Mounts">Allows Mount navigation keybinds to be independent of your character</string>
 	<string key="ui_mount_paperdoll_button_unlock" rel_version="Feature_Mounts">Requires {expansion_name} to access mounts. \n\nClick to purchase.</string>
@@ -222,7 +225,7 @@
 	<string key="Mount_Wolf_PatternA4_Name" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Togo</string>
 	<string key="Mount_Wolf_PatternA5_Name" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Cooper</string>
 	<string key="Mount_Wolf_PatternA6_Name" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Runa</string>
-	<string key="Mount_Wolf_PatternA6_description" rel_version="Feature_Mounts">Runa's mighty appetite keeps the food bill totting up. Perhaps that's why the vendor is willing to sell such a magnificant beast.</string>
+	<string key="Mount_Wolf_PatternA6_description" rel_version="Feature_Mounts">Runa's mighty appetite keeps the food bill totting up. Perhaps that's why the vendor is willing to sell such a magnificent beast.</string>
 	<string key="Mount_Wolf_PatternA7_Name" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Bloodfeast</string>
 	<string key="Mount_Wolf_PatternA8_Name" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Bolt</string>
 	<string key="Mount_Wolf_PatternA9_Name" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Ash</string>

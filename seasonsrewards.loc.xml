@@ -73,6 +73,7 @@
 	<string key="ui_hiw_sect1_pt1" rel_version="Feature_Seasons_Rewards">&lt;img src="LyShineUI/Images/SeasonsRewards/pip" yOffset="1"&gt;&lt;/img&gt;  Select a highlighted square to stamp the card and earn Season XP.</string>
 	<string key="ui_hiw_sect1_pt2" rel_version="Feature_Seasons_Rewards">&lt;img src="LyShineUI/Images/SeasonsRewards/pip" yOffset="1"&gt;&lt;/img&gt;  Stamp lines on the card to earn additional Season XP.</string>
 	<string key="ui_hiw_sect1_pt3" rel_version="Feature_Seasons_Rewards">&lt;img src="LyShineUI/Images/SeasonsRewards/pip" yOffset="1"&gt;&lt;/img&gt;  Complete enough stamps to finish a card and earn a new one.</string>
+	<string key="ui_hiw_sect1_pt4" rel_version="Feature_Seasons_Rewards">&lt;img src="LyShineUI/Images/SeasonsRewards/pip" yOffset="1"&gt;&lt;/img&gt;  Obtain one wild stamp daily or by completing lines of four stamps on the activity card.</string>
 	<string key="ui_hiw_sect2_header" rel_version="Feature_Seasons_Rewards">Reroll</string>
 	<string key="ui_hiw_sect2_desc" rel_version="Feature_Seasons_Rewards">In exchange for Azoth, you may reroll the Activities list to get new ones. Any progress toward unstamped Activites will be lost.</string>
 	<string key="ui_hiw_sect2_pt1" rel_version="Feature_Seasons_Rewards">&lt;img src="LyShineUI/Images/SeasonsRewards/pip" yOffset="1"&gt;&lt;/img&gt;  Each new card comes with 1 free reroll.</string>
@@ -266,6 +267,8 @@
 	<string key="SeasonsActivities_Catch1TreasureChest" rel_version="Feature_Seasons_Rewards">Fish Up Treasure Chests</string>
 	<string key="SeasonsActivities_Catch5RareFish" rel_version="Feature_Seasons_Rewards">Catch Rare Fish</string>
 	<string key="SeasonsActivities_Craft5T5WeaponOrApparel" rel_version="Feature_Seasons_Rewards">Craft Tier 5 Weapon or Apparel Items</string>
+	<string key="SeasonsActivities_Craft5T5Weapon" rel_version="Feature_Seasons_Rewards">Craft Tier 5 Weapon Items</string>
+	<string key="SeasonsActivities_Craft5T5Apparel" rel_version="Feature_Seasons_Rewards">Craft Tier 5 Apparel Items</string>
 	<string key="SeasonsActivities_Craft10T5Consumables" rel_version="Feature_Seasons_Rewards">Craft Tier 5 Consumables</string>
 	<string key="SeasonsActivities_KillingBlowOPR" rel_version="Feature_Seasons_Rewards">Get Killing Blows on Enemies in Outpost Rush</string>
 	<string key="SeasonsActivities_ParticipateIn1OPR" rel_version="Feature_Seasons_Rewards">Participate in Outpost Rush</string>
@@ -496,8 +499,10 @@
 	<string key="SeasonsActivities_Complete2Songs" rel_version="Season_2_Perm">Play Songs</string>
 	<string key="ui_seasons_task_name_ReachLevel65" rel_version="Season_3_Perm">Exceptionally Experienced</string>
 	<string key="ui_seasons_task_description_ReachLevel" rel_version="Season_3_Perm">Reach level {maxCount}</string>
+	<string key="ui_seasons_task_description_ReachLevel65" rel_version="Season_3_Perm">Reach level 65</string>
 	<string key="ui_seasons_task_name_FlailMastery_1" rel_version="Season_3_Perm">Fellowship of the Flail I</string>
 	<string key="ui_seasons_task_name_FlailMastery_2" rel_version="Season_3_Perm">Fellowship of the Flail II</string>
+	<string key="ui_seasons_task_name_FlailMastery_3" rel_version="Season_3_Perm">Fellowship of the Flail III</string>
 	<string key="ui_seasons_task_description_FlailMastery" rel_version="Season_3_Perm">Reach Mastery {maxCount} with the Flail</string>
 	<string key="ui_seasons_task_name_EdengroveSettlement" rel_version="Season_3_Perm">Edengrove Settler</string>
 	<string key="ui_seasons_task_description_EdengroveSettlement" rel_version="Season_3_Perm">Discover Edengrove Settlement</string>
@@ -516,7 +521,7 @@
 	<string key="ui_seasons_task_description_ParticipateInfluenceRaceSingle" rel_version="Season_3_Perm">Participate in an Influence Race</string>
 	<string key="ui_seasons_task_description_WinInfluenceRace" rel_version="Season_3_Perm">Win {maxCount} Influence Races</string>
 	<string key="ui_seasons_task_name_GatherSpore" rel_version="Season_3_Perm">Speaker for the Spores</string>
-	<string key="ui_seasons_task_description_GatherSpore" rel_version="Season_3_Perm">Gather from {maxCount} Spore Pods</string>
+	<string key="ui_seasons_task_description_GatherSpore" rel_version="Season_3_Perm">Harvest {maxCount} Spore Pods</string>
 	<string key="ui_seasons_task_name_Quest_InvasionOfArtemis" rel_version="Season_3_Perm">Defy the Divine</string>
 	<string key="ui_seasons_task_description_Quest_InvasionOfArtemis" rel_version="Season_3_Perm">Complete Quest: The Invasion of Artemis</string>
 	<string key="ui_seasons_task_name_GearScore700" rel_version="Season_3_Perm">Gallantly Geared</string>
@@ -530,8 +535,8 @@
 	<string key="ui_seasons_task_description_RidingTradeskill" rel_version="Season_3_Perm">Reach level {maxCount} in the Riding Tradeskill</string>
 	<string key="ui_seasons_task_name_Forellac" rel_version="Season_3_Perm">Forellac Frolicker</string>
 	<string key="ui_seasons_task_description_Forellac" rel_version="Season_3_Perm">Discover Forellac</string>
-	<string key="ui_seasons_task_name_Quest_ToDivideAndConquer" rel_version="Season_3_Perm">Divided and Conquered</string>
-	<string key="ui_seasons_task_description_Quest_ToDivideAndConquer" rel_version="Season_3_Perm">Complete Quest: To Divide and Conquer</string>
+	<string key="ui_seasons_task_name_Quest_ToDivideAndConquer" rel_version="Season_3_Perm">Escape Artist</string>
+	<string key="ui_seasons_task_description_Quest_ToDivideAndConquer" rel_version="Season_3_Perm">Complete Quest: Escaping the Ruins</string>
 	<string key="ui_seasons_task_name_WarFirstLight" rel_version="Season_3_Perm">Battle for First Light</string>
 	<string key="ui_seasons_task_description_WarFirstLight" rel_version="Season_3_Perm">Participate in a War in First Light</string>
 	<string key="ui_seasons_task_name_LevelTradeskill250" rel_version="Season_3_Perm">Master of Your Craft</string>
@@ -569,7 +574,7 @@
 	<string key="ui_seasons_task_description_CrystalclawM2" rel_version="Season_3_Perm">Complete M2 Savage Divide</string>
 	<string key="ui_seasons_task_description_CrystalclawM3" rel_version="Season_3_Perm">Complete M3 Savage Divide</string>
 	<string key="ui_seasons_task_name_MountBuffs" rel_version="Season_3_Perm">Beastly Buffs</string>
-	<string key="ui_seasons_task_description_MountBuffs" rel_version="Season_3_Perm">Use {maxCount} Mount Buffs</string>
+	<string key="ui_seasons_task_description_MountBuffs" rel_version="Season_3_Perm">Use {maxCount} Mount Consumables</string>
 	<string key="ui_seasons_task_name_MountRace_PathOfTheOldWarrior" rel_version="Season_3_Perm">Checkered Flag</string>
 	<string key="ui_seasons_task_description_MountRace_PathOfTheOldWarrior" rel_version="Season_3_Perm">Complete the Hermit's Rally race</string>
 	<string key="ui_seasons_task_name_FactionStory" rel_version="Season_3_Perm">Faction Famil</string>
@@ -612,6 +617,8 @@
 	<string key="ui_seasons_task_description_KillPlants" rel_version="Season_3_Perm">Kill {maxCount} Mega Flora</string>
 	<string key="ui_seasons_task_name_Challenge_MushroomFlask" rel_version="Season_3_Perm">Mushroom Muncher</string>
 	<string key="ui_seasons_task_description_Challenge_MushroomFlask" rel_version="Season_3_Perm">Consume a Spore Jelly potion {maxCount} times</string>
+	<string key="ui_seasons_task_name_Challenge_LootBeastChest" rel_version="Season_3_Perm">Beastly Treasure Hunter</string>
+	<string key="ui_seasons_task_description_Challenge_LootBeastChest" rel_version="Season_3_Perm">Loot {maxCount} Elite Beast Hoards.</string>
 	<string key="ui_seasons_wild_stamp_count" rel_version="Feature_Seasons_Rewards">&lt;img src="LyShineUI/Images/SeasonsRewards/Wild-Stamp-Icon-Small" scale="2" yOffset="7"&gt;&lt;/img&gt; Wild Stamps: {count}</string>
 	<string key="ui_seasons_wild_stamp_count_and_max" rel_version="Feature_Seasons_Rewards">&lt;img src="LyShineUI/Images/SeasonsRewards/Wild-Stamp-Icon-Small" scale="2" yOffset="7"&gt;&lt;/img&gt; Wild Stamps: {count}/{max}</string>
 	<string key="ui_seasons_wild_stamp_awarded_header" rel_version="Feature_Seasons_Rewards">Wild Stamp Bonus</string>

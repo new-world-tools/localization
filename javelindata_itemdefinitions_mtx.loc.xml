@@ -536,7 +536,7 @@
 	<string key="Skin_FirstLightElven_ShieldR_PrimaryDesc">Unfailing protection in a surprisingly light package.</string>
 	<string key="Skin_FirstLightElven_Longsword_PrimaryName">Nettlecleaver</string>
 	<string key="Skin_FirstLightElven_Longsword_PrimaryDesc">Whatever you do, make sure you're not the one it stings.</string>
-	<string key="Skin_FirstLightElven_LifeStaff_PrimaryName">Slivervine Cane</string>
+	<string key="Skin_FirstLightElven_LifeStaff_PrimaryName">Silvervine Cane</string>
 	<string key="Skin_FirstLightElven_LifeStaff_PrimaryDesc">Let vine and branch inspire and heal.</string>
 	<string key="Skin_FirstLightElven_Bow_PrimaryName">Luminous Scatterspore</string>
 	<string key="Skin_FirstLightElven_Bow_PrimaryDesc">Don't let the elegant design fool you - it packs quite a punch.</string>
@@ -555,12 +555,12 @@
 	<string key="Skin_FirstLightElven_LoggingAxe_Description">For only the fanciest timbers.</string>
 	<string key="Skin_FirstLightElven_Pickaxe_Description">Deceptively delicate in appearance, but absolutely up to the task.</string>
 	<string key="Skin_FirstLightElven_Sickle_Description">The leaflike blade is reminiscent of the very items it is meant to harvest.</string>
-	<string key="Skin_FirstLightElven_SkinningKnife_Description">Some skinners favor shorter blades such as this their most precise work.</string>
+	<string key="Skin_FirstLightElven_SkinningKnife_Description">Some skinners favor shorter blades such as this for their most precise work.</string>
 	<string key="2hBowFirstLightT5_TransmogName">Luminous Scatterspore</string>
 	<string key="1hSwordFirstLightT5_TransmogName">Nettlecleaver</string>
 	<string key="1hRoundShieldFirstLightT5_TransmogName">Ironwood Rondel</string>
 	<string key="2hSpearFirstLightT5_TransmogName">Goldvein Spire</string>
-	<string key="2hLifeStaffFirstLightT5_TransmogName">Slivervine Cane</string>
+	<string key="2hLifeStaffFirstLightT5_TransmogName">Silvervine Cane</string>
 	<string key="1hFlailFirstLightT5_TransmogName">Chained Inflorescence</string>
 	<string key="2hFishingPoleFirstLightElvenT5_TransmogName">Gilded Verdure Fishing Pole</string>
 	<string key="2hAzothScepterFirstLightElvenT5_TransmogName">Gilded Verdure Azoth Scepter</string>
@@ -646,7 +646,7 @@
 	<string key="Bundle_PR_Elven_Apparel_name">Gilded Verdure Armor Bundle</string>
 	<string key="Bundle_PR_Elven_Weapon_name">Gilded Verdure Weapon Bundle</string>
 	<string key="Weapon_Elven_Shield_name">Ironwood Rondel</string>
-	<string key="Weapon_Elven_Lifestaff_name">Slivervine Cane</string>
+	<string key="Weapon_Elven_Lifestaff_name">Silvervine Cane</string>
 	<string key="Weapon_Elven_Bow_name">Luminous Scatterspore</string>
 	<string key="Weapon_Elven_Spear_name">Goldvein Spire</string>
 	<string key="Weapon_Elven_Flail_name">Chained Inflorescence</string>

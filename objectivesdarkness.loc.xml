@@ -187,26 +187,26 @@
 	<string key="objective_motherwell_attack_wave_01_desc" rel_version="Quest_MSQ2_Edengrove">{remainingCount}/1</string>
 	<string key="objective_motherwell_attack_wave_02_title" rel_version="Quest_MSQ2_Edengrove">Defend the Barrier:</string>
 	<string key="objective_motherwell_attack_wave_02_desc" rel_version="Quest_MSQ2_Edengrove">Time Remaining:</string>
-	<string key="ui_fl_worldboss_beast_01_Obj_Enc_Title" rel_version="Territory_FirstLight">Defeat Kol Ciron</string>
-	<string key="ui_fl_worldboss_beast_02_Obj_Enc_Title" rel_version="Territory_FirstLight">Defeat Bulrok the Burning</string>
-	<string key="ui_fl_worldboss_beast_03_Obj_Enc_Title" rel_version="Territory_FirstLight">Defeat Kondak the Frigid</string>
-	<string key="ui_fl_worldboss_beast_04_Obj_Enc_Title" rel_version="Territory_FirstLight">Defeat Mawthor, The Thundering</string>
-	<string key="ui_fl_worldboss_beast_05_Obj_Enc_Title" rel_version="Territory_FirstLight">Defeat Mosantar, The Earth Eater</string>
-	<string key="ui_fl_worldboss_beast_06_Obj_Enc_Title" rel_version="Territory_FirstLight">Defeat Zirash</string>
-	<string key="ui_fl_worldboss_beast_07_Obj_Enc_Title" rel_version="Territory_FirstLight">Defeat Kudzu</string>
-	<string key="ui_fl_worldboss_beast_01_Obj_Enc_Title_description" rel_version="Territory_FirstLight">Hunt the indomitable Kol Ciron</string>
-	<string key="ui_fl_worldboss_beast_02_Obj_Enc_Title_description" rel_version="Territory_FirstLight">Hunt the blazing Bulrok the Burning</string>
-	<string key="ui_fl_worldboss_beast_03_Obj_Enc_Title_description" rel_version="Territory_FirstLight">Hunt the frostbitten Kondak the Frigid</string>
-	<string key="ui_fl_worldboss_beast_04_Obj_Enc_Title_description" rel_version="Territory_FirstLight">Hunt the voice of the sky Mawthor, The Thundering</string>
-	<string key="ui_fl_worldboss_beast_05_Obj_Enc_Title_description" rel_version="Territory_FirstLight">Hunt the giant Mosantar, The Earth Eater</string>
-	<string key="ui_fl_worldboss_beast_06_Obj_Enc_Title_description" rel_version="Territory_FirstLight">Hunt the pride of Zirash</string>
-	<string key="ui_fl_worldboss_beast_07_Obj_Enc_Title_description" rel_version="Territory_FirstLight">Hunt the scourge of the jungle Kudzu</string>
-	<string key="objective_enc_darkness_Hunt_armored_dragon_wave_01_title" rel_version="Territory_FirstLight">Rend the scales</string>
-	<string key="objective_enc_darkness_Hunt_Fire_Gorilla_wave_01_title" rel_version="Territory_FirstLight">Stop the inferno</string>
-	<string key="objective_enc_darkness_Hunt_Ice_Gorilla_wave_01_title" rel_version="Territory_FirstLight">Melt the frost</string>
-	<string key="objective_enc_darkness_Hunt_Mammoth_Lightning_wave_01_title" rel_version="Territory_FirstLight">Break the Tusk</string>
-	<string key="objective_enc_darkness_Hunt_Mammoth_Nature_wave_01_title" rel_version="Territory_FirstLight">Smash the growth</string>
-	<string key="objective_enc_darkness_Hunt_Primal_Lions_wave_01_title" rel_version="Territory_FirstLight">Slay the Beasts</string>
-	<string key="objective_enc_darkness_Hunt_Razro_Lotus_wave_01_title" rel_version="Territory_FirstLight">Uproot the horde</string>
+	<string key="ui_fl_worldboss_beast_01_Obj_Enc_Title" rel_version="Territory_FirstLight">Kol Ciron</string>
+	<string key="ui_fl_worldboss_beast_02_Obj_Enc_Title" rel_version="Territory_FirstLight">Bulrok the Burning</string>
+	<string key="ui_fl_worldboss_beast_03_Obj_Enc_Title" rel_version="Territory_FirstLight">Kondak the Frigid</string>
+	<string key="ui_fl_worldboss_beast_04_Obj_Enc_Title" rel_version="Territory_FirstLight">Mawthor, the Thundering</string>
+	<string key="ui_fl_worldboss_beast_05_Obj_Enc_Title" rel_version="Territory_FirstLight">Mosantar, the Earth Eater</string>
+	<string key="ui_fl_worldboss_beast_06_Obj_Enc_Title" rel_version="Territory_FirstLight">Zirash</string>
+	<string key="ui_fl_worldboss_beast_07_Obj_Enc_Title" rel_version="Territory_FirstLight">Kudzu</string>
+	<string key="ui_fl_worldboss_beast_01_Obj_Enc_Title_description" rel_version="Territory_FirstLight">A legendary creature was spotted here.</string>
+	<string key="ui_fl_worldboss_beast_02_Obj_Enc_Title_description" rel_version="Territory_FirstLight">A legendary creature was spotted here.</string>
+	<string key="ui_fl_worldboss_beast_03_Obj_Enc_Title_description" rel_version="Territory_FirstLight">A legendary creature was spotted here.</string>
+	<string key="ui_fl_worldboss_beast_04_Obj_Enc_Title_description" rel_version="Territory_FirstLight">A legendary creature was spotted here.</string>
+	<string key="ui_fl_worldboss_beast_05_Obj_Enc_Title_description" rel_version="Territory_FirstLight">A legendary creature was spotted here.</string>
+	<string key="ui_fl_worldboss_beast_06_Obj_Enc_Title_description" rel_version="Territory_FirstLight">A legendary creature was spotted here.</string>
+	<string key="ui_fl_worldboss_beast_07_Obj_Enc_Title_description" rel_version="Territory_FirstLight">A legendary creature was spotted here.</string>
+	<string key="objective_enc_darkness_Hunt_armored_dragon_wave_01_title" rel_version="Territory_FirstLight">Defeat Kol Ciron</string>
+	<string key="objective_enc_darkness_Hunt_Fire_Gorilla_wave_01_title" rel_version="Territory_FirstLight">Defeat Bulrok the Burning</string>
+	<string key="objective_enc_darkness_Hunt_Ice_Gorilla_wave_01_title" rel_version="Territory_FirstLight">Defeat Kondak the Frigid</string>
+	<string key="objective_enc_darkness_Hunt_Mammoth_Lightning_wave_01_title" rel_version="Territory_FirstLight">Defeat Mawthor, the Thundering</string>
+	<string key="objective_enc_darkness_Hunt_Mammoth_Nature_wave_01_title" rel_version="Territory_FirstLight">Defeat Mosantar, the Earth Eater</string>
+	<string key="objective_enc_darkness_Hunt_Primal_Lions_wave_01_title" rel_version="Territory_FirstLight">Defeat Zirash</string>
+	<string key="objective_enc_darkness_Hunt_Razro_Lotus_wave_01_title" rel_version="Territory_FirstLight">Defeat Kudzu</string>
 </resources>
 

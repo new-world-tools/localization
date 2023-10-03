@@ -225,7 +225,7 @@
 	<string key="Baalphazu_ExitWeak_02" speaker="Baalphazu" comment="HalloweenBoss.slice" rel_version="Territory_Brimstone_Sands">You will suffer, maggot!</string>
 	<string key="Baalphazu_ExitWeak_03" speaker="Baalphazu" comment="HalloweenBoss.slice" rel_version="Territory_Brimstone_Sands">Damn your insolence!</string>
 	<string key="Baalphazu_Victory_Bark1" speaker="Baalphazu" comment="HalloweenBoss.slice" rel_version="Territory_Brimstone_Sands">Endless horrors will claim this land! A gluttonous feast for my master!</string>
-	<string key="Baalphazu_Death_Bark1" speaker="Baalphazu" comment="HalloweenBoss.slice" rel_version="Territory_Brimstone_Sands">My master will be sated! No light can ever banish the eternal darkness…</string>
+	<string key="Baalphazu_Death_Bark1" speaker="Baalphazu" comment="HalloweenBoss.slice" rel_version="Territory_Brimstone_Sands">My master will be sated! There is no escape from terror! No light can ever banish the eternal darkness…</string>
 	<string key="Apophis_CombatTaunt_A" speaker="Apophis" comment="Sand_Elemental_QuestBoss.slice" rel_version="Territory_Brimstone_Sands">Prepare to face judgement!</string>
 	<string key="Apophis_CombatTaunt_B" speaker="Apophis" comment="Sand_Elemental_QuestBoss.slice" rel_version="Territory_Brimstone_Sands">We have suffered your presence long enough!</string>
 	<string key="Apophis_CombatTaunt_C" speaker="Apophis" comment="Sand_Elemental_QuestBoss.slice" rel_version="Territory_Brimstone_Sands">I hunger for destruction!</string>

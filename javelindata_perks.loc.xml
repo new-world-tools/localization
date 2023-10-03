@@ -1182,7 +1182,7 @@
 	<string key="PerkID_Ability_Bow_SplinterShot_Name">Empowering Explosive Arrow</string>
 	<string key="PerkID_Ability_Bow_SplinterShot_Description">Explosive Arrow hits grant Empower, increasing damage by {[Type_StatusEffectData.Status_Perk_Bow_SplinterShot_Empower.DMGStandard * 100 * {perkMultiplier}]}% for {[Type_StatusEffectData.Status_Perk_Bow_SplinterShot_Empower.BaseDuration]}s or until the next attack.</string>
 	<string key="PerkID_Ability_Rapier_Tondo_Name">Keen Tondo</string>
-	<string key="PerkID_Ability_Rapier_Tondo_Description">+{[PerksAbilityTable.GlobalPerk_Ability_Rapier_Tondo.CritChance * 100 * {perkMultiplier}]}% critical chance against targets affected by Tondo's Bleed. If this perk is on a weapon Tondo also causes {[Type_StatusEffectData.Status_Perk_TondoWeaken.DMGStandard * 100]}% weakness for {[Type_StatusEffectData.Status_Perk_TondoWeaken.BaseDuration]}s. </string>
+	<string key="PerkID_Ability_Rapier_Tondo_Description">+{[PerksAbilityTable.GlobalPerk_Ability_Rapier_Tondo.CritChance * 100 * {perkMultiplier}]}% critical chance against targets affected by Tondo's Bleed. If this perk is on a weapon, Tondo also inflicts {[Type_StatusEffectData.Status_Perk_TondoWeaken.DMGStandard * -100]}% weaknen for {[Type_StatusEffectData.Status_Perk_TondoWeaken.BaseDuration]}s. </string>
 	<string key="PerkID_Ability_Rapier_FlourishAndFinish_Name">Deadly Flourish</string>
 	<string key="PerkID_Ability_Rapier_FlourishAndFinish_Description">Flourish deals +{[PerksAbilityTable.GlobalPerk_Ability_Rapier_FlourishAndFinish.BaseDamage * 100 * {perkMultiplier}]}% damage against targets below 50% Health.</string>
 	<string key="PerkID_Ability_Rapier_Flurry_Name">Leeching Flurry</string>
@@ -2512,9 +2512,9 @@
 	<string key="PerkID_Amulet_LowCooldown_Name">Refreshing Recovery</string>
 	<string key="PerkID_Amulet_LowCooldown_Desc">When your health drops below {[PerksAbilityTable.Global_Amulet_LowCooldown.MyHealthPercent]}% all your active abilities cooldowns are reset. ({[PerksAbilityTable.Global_Amulet_LowCooldown.ActivationCooldown]}s cooldown.)</string>
 	<string key="PerkID_Earring_OnPotionDmg_Name">Empowering Toast</string>
-	<string key="PerkID_Earring_OnPotionDmg_Desc">On Potion Drink: gain {[Type_StatusEffectData.Status_Perk_Earring_OnPotionEmpower.DMGStandard * 100]}% Empower for {[Type_StatusEffectData.Status_Perk_Earring_OnPotionEmpower.BaseDuration]}s.</string>
+	<string key="PerkID_Earring_OnPotionDmg_Desc">On Potion Drink: gain {[Type_StatusEffectData.Status_Perk_Earring_OnPotionEmpower.DMGStandard * 100]}% Empower for {[Type_StatusEffectData.Status_Perk_Earring_OnPotionEmpower.BaseDuration]}s. ({[PerksAbilityTable.Global_Earring_OnPotionDmg.ActivationCooldown]}s cooldown)</string>
 	<string key="PerkID_Earring_OnPotionFort_Name">Fortifying Toast</string>
-	<string key="PerkID_Earring_OnPotionFort_Desc">On Potion Drink: gain {[Type_StatusEffectData.Status_Perk_Earring_OnPotionFort.PhysicalArmor * 100]}% Fortify for {[Type_StatusEffectData.Status_Perk_Earring_OnPotionFort.BaseDuration]}s.</string>
+	<string key="PerkID_Earring_OnPotionFort_Desc">On Potion Drink: gain {[Type_StatusEffectData.Status_Perk_Earring_OnPotionFort.PhysicalArmor * 100]}% Fortify for {[Type_StatusEffectData.Status_Perk_Earring_OnPotionFort.BaseDuration]}s. ({[PerksAbilityTable.Global_Earring_OnPotionFort.ActivationCooldown]}s cooldown)</string>
 	<string key="PerkID_Earring_OnHeartHeal_Name">Healing Heart</string>
 	<string key="PerkID_Earring_OnHeartHeal_Desc">On Heartrune: Heal for {[Type_StatusEffectData.Status_Perk_Earring_OnHeartHeal.HealthModifierPercent * 100 * {perkMultiplier}]}% your max health.</string>
 	<string key="PerkID_Ring_OnHealHot_Name">Healing Breeze</string>
@@ -2548,13 +2548,14 @@
 	<string key="PerkID_Armor_DmgArcane_Name">Arcane Harnessing</string>
 	<string key="PerkID_Armor_DmgArcane_Desc">you deal +{[AffixStatDataTable.Affix_Armor_DmgArcane.DMGArcane * 100 * {perkMultiplier}]}% arcane damage</string>
 	<string key="PerkID_Shield_Kite_OnBlockHeal_Name">Healing Defense</string>
-	<string key="PerkID_Shield_Kite_OnBlockHeal_Desc">On Block: heal for {[Type_StatusEffectData.Status_Perk_Shield_Kite_OnBlockHeal.HealthModifierBasePercent * 100 * {perkMultiplier}]}% base max health.</string>
+	<string key="PerkID_Shield_Kite_OnBlockHeal_Desc">On Block: heal for {[Type_StatusEffectData.Status_Perk_Shield_Kite_OnBlockHeal.HealthModifierBasePercent * 100 * {perkMultiplier}]}% base max health. ({[PerksAbilityTable.Global_Shield_Kite_OnBlockHeal.ActivationCooldown]}s cooldown)</string>
 	<string key="PerkID_Shield_Kite_OnBlockDmg_Name">Counter Attack</string>
 	<string key="PerkID_Shield_Kite_OnBlockDmg_Desc">On Block: gain a {[Type_StatusEffectData.Status_Perk_Shield_Kite_OnBlockDmg.DMGStandard * 100]}% Empower for {[Type_StatusEffectData.Status_Perk_Shield_Kite_OnBlockDmg.BaseDuration]}s..</string>
 	<string key="PerkID_Bags_BonusTown_Name">Town Loyality</string>
 	<string key="PerkID_Bags_BonusTown_Desc">Increase territory standing by {[Type_StatusEffectData.Status_Perk_Bags_BonusTown.TerritoryStandingMod * 100 * {perkMultiplier}]}%.</string>
 	<string key="ui_stat_magnify_tooltip">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;+{amount1} Magnify&lt;/font&gt; (highest attribute: {attribute1})</string>
 	<string key="ui_stat_amplify_tooltip">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;+{amount1} Amplify&lt;/font&gt; (highest attributes: {attribute1}, {attribute2})</string>
+	<string key="ui_stat_magnify_split_tooltip">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;+{total} Magnify&lt;/font&gt; (split between highest attributes)</string>
 	<string key="PerkID_Artifact_Set1_Sword_Name">Bloodletting</string>
 	<string key="PerkID_Artifact_Set1_Sword_Desc">Bleeds lasts {[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_Sword.TargetStatusEffectDurationMult * 100]}% longer. (works on both weapons)</string>
 	<string key="PerkID_Artifact_Set1_SwordPerk_Name">Jagged Whirls</string>
@@ -2582,7 +2583,7 @@
 	<string key="PerkID_Artifact_Set1_FirestaffPerk_Desc">+{[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_FirestaffPerk.BaseDamage * 100]}% damage when you hit a target within {[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_FirestaffPerk.DistFromDefender]}m. </string>
 	<string key="PerkID_Artifact_Set1_FirestaffPerk_Name">Hellfire's Fury</string>
 	<string key="PerkID_Artifact_Set1_Spear_Name">Sting</string>
-	<string key="PerkID_Artifact_Set1_Spear_Desc">Javelin now does {[DamageTable.2H_Spear_Javelin_ArtifactSet1.DmgCoef * 100]}% weapon damage and pulls targets towards you.</string>
+	<string key="PerkID_Artifact_Set1_Spear_Desc">Javelin now does {[DamageTable.2H_Spear_Javelin_ArtifactSet1Close.DmgCoef * 100]}% weapon damage and pulls targets towards you.</string>
 	<string key="PerkID_Artifact_Set1_Rapier_Name">Finisher Harmony</string>
 	<string key="PerkID_Artifact_Set1_Rapier_Desc">Attacks against Bleeding targets deal {[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_Rapier2.BaseDamage * 100]}% more damage, and reduce Flourish's cooldown by {[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_Rapier.CooldownTimer * -100]}% ({[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_Rapier.ActivationCooldown]}s cooldown, works on both weapons)</string>
 	<string key="PerkID_Artifact_Set1_VoidGauntlet_Name">Negative Energy</string>
@@ -2596,15 +2597,15 @@
 	<string key="PerkID_Artifact_Set1_Amulet1_Name">Stunny Gaze</string>
 	<string key="PerkID_Artifact_Set1_Amulet1_Desc">Activate Taunt Gems. Stuns last {[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_Amulet1B.TargetStatusEffectDurationMult * 100]}% longer, but base damage is decreased by {[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_Amulet1B.BaseDamage * -100]}%.</string>
 	<string key="PerkID_Artifact_Set1_Amulet2_Name">Center of Attention</string>
-	<string key="PerkID_Artifact_Set1_Amulet2_Desc">Incoming heals are {[Type_StatusEffectData.Status_Perk_Artifact_Set1_Amulet2.HealMod * 100]}% stronger, consumable and outgoing heals are {[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_Amulet2.HealScalingValueMultiplier * -100]}% weaker</string>
+	<string key="PerkID_Artifact_Set1_Amulet2_Desc">Incoming heals are {[Type_StatusEffectData.Status_Perk_Artifact_Set1_Amulet2.NonConsumableHealMod * 100]}% stronger, consumable and outgoing heals are {[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_Amulet2.HealScalingValueMultiplier * -100]}% weaker</string>
 	<string key="PerkID_Artifact_Set1_Ring1_Name">Ghouls Harmony</string>
 	<string key="PerkID_Artifact_Set1_Ring1_Desc">-{[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_Ring1.BaseDamage * 100]}% damage, {[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_Ring1.DmgPctToHealth * 100]}% lifesteal</string>
 	<string key="PerkID_Artifact_Set1_Earring1_Name">The Thirst</string>
-	<string key="PerkID_Artifact_Set1_Earring1_Desc">Health potion are {[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_Earring1.ConsumableHealMod * 100]}% stronger, but the cooldown is {[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_Earring1.CooldownTimer * 100]}% longer.</string>
+	<string key="PerkID_Artifact_Set1_Earring1_Desc">Health potions are {[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_Earring1.ConsumableHealMod * 100]}% stronger, but the cooldown is {[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_Earring1_2.CooldownTimer * 100]}% longer.</string>
 	<string key="PerkID_Artifact_Set1_Flail_Name">Odo's Punishment</string>
 	<string key="PerkID_Artifact_Set1_Flail_Desc">You deal {[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_Flail.BaseDamage * 100]}% more damage to stunned foes. (works on both weapons)</string>
 	<string key="PerkID_Artifact_Set1_FlailPerk_Name">Odo's Defense</string>
-	<string key="PerkID_Artifact_Set1_FlailPerk_Desc">On Block: heal for {[Type_StatusEffectData.Status_Perk_Artifact_Set1_Flail.HealthModifierBasePercent * 100 * {perkMultiplier}]}% base health.</string>
+	<string key="PerkID_Artifact_Set1_FlailPerk_Desc">On Block: heal for {[Type_StatusEffectData.Status_Perk_Artifact_Set1_Flail.HealthModifierBasePercent * 100 * {perkMultiplier}]}% base health. ({[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_Flailperk.ActivationCooldown]}s cooldown)</string>
 	<string key="PerkID_Artifact_Set1_HeavyHead_Name">Hard Head</string>
 	<string key="PerkID_Artifact_Set1_HeavyHead_Desc">PvP Only: Receive {[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_HeavyHead.CritDamageReduction * 100]}% less damage from critical hits</string>
 	<string key="PerkID_Artifact_Set1_HeavyChest_Name">Dark Reinforced</string>
@@ -2618,7 +2619,7 @@
 	<string key="PerkID_Artifact_Set1_MediumChest_Name">Highly Refreshing</string>
 	<string key="PerkID_Artifact_Set1_MediumChest_Desc">Reduces max cooldowns by {[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_MediumChest.CooldownTimer * -100]}%.</string>
 	<string key="PerkID_Artifact_Set1_MediumHands_Name">Ghoul's Touch</string>
-	<string key="PerkID_Artifact_Set1_MediumHands_Desc">When you hit a foe below half health, transfer one debuff. ({[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_MediumHands.ActivationCooldown]}s cooldown)</string>
+	<string key="PerkID_Artifact_Set1_MediumHands_Desc">When you hit a foe that is below half health, transfer one debuff. ({[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_MediumHands.ActivationCooldown]}s cooldown)</string>
 	<string key="PerkID_Artifact_Set1_MediumLegs_Name">+25 Amplify (top 2 attributes):</string>
 	<string key="PerkID_Artifact_Set1_MediumLegs_SecondaryName">Well Rounded</string>
 	<string key="PerkID_Artifact_Set1_MediumLegs_Desc">+10 to all other attributes.</string>
@@ -2627,7 +2628,7 @@
 	<string key="PerkID_Artifact_Set1_LightChest_Name">Weightless</string>
 	<string key="PerkID_Artifact_Set1_LightChest_Desc">This armor is weightless</string>
 	<string key="PerkID_Artifact_Set1_LightFeet_Name">Shirking Blessing</string>
-	<string key="PerkID_Artifact_Set1_LightFeet_Desc">Successfully dodging an attack, gives you {[Type_StatusEffectData.Status_Perk_Artifact_Set1_LightFeetBuffs.DMGStandard * 100]}% empower and {[Type_StatusEffectData.Status_Perk_Artifact_Set1_LightFeetBuffs.PhysicalArmor * 100]}% fortify for {[Type_StatusEffectData.Status_Perk_Artifact_Set1_LightFeetBuffs.BaseDuration]}s, you are also healed for {[Type_StatusEffectData.Status_Perk_Artifact_Set1_LightFeetHeal.Health]} + {[Type_StatusEffectData.Status_Perk_Artifact_Set1_LightFeetHeal.HealthModifierPercent * 100]}% of your max hp.</string>
+	<string key="PerkID_Artifact_Set1_LightFeet_Desc">Successfully dodging an attack, gives you {[Type_StatusEffectData.Status_Perk_Artifact_Set1_LightFeetEmpower.DMGStandard * 100]}% empower and {[Type_StatusEffectData.Status_Perk_Artifact_Set1_LightFeetFortify.PhysicalArmor * 100]}% fortify for {[Type_StatusEffectData.Status_Perk_Artifact_Set1_LightFeetEmpower.BaseDuration]}s, you are also healed for {[Type_StatusEffectData.Status_Perk_Artifact_Set1_LightFeetHeal.Health]} + {[Type_StatusEffectData.Status_Perk_Artifact_Set1_LightFeetHeal.HealthModifierPercent * 100]}% of your max hp.</string>
 	<string key="PerkID_Stat_RoundShield_Name">Shield Aggression</string>
 	<string key="PerkID_Stat_RoundShield_Desc">+{[PerksAbilityTable.Global_Shield_Round.BaseDamage * 100 * {perkMultiplier}]}% base damage.</string>
 	<string key="PerkID_Stat_KiteShield_Name">Refreshing Defense</string>

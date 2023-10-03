@@ -442,6 +442,9 @@
 	<string key="FactionMission_S_ASSASSINATE_ELITE_desc">The Syndicate has identified &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; to be a target for elimination.\n\nProve your cunning by tracking them down in {POITags} and destroying them.\n&lt;font color="#eaeaea"&gt;(Elite)&lt;/font&gt;</string>
 	<string key="FactionMission_C_ASSASSINATE_ELITE_title">Smite: {POITags} (Elite)</string>
 	<string key="FactionMission_C_ASSASSINATE_ELITE_desc">The Covenant has identified &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; to be eliminated.\n\nProve your devotion by tracking them down in {POITags} and destroying them.\n &lt;font color="#eaeaea"&gt;(Elite)&lt;/font&gt;</string>
+	<string key="FactionMission_C_ASSASSINATE_ELITE_desc2">The Covenant has identified &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; to be eliminated.\n\nProve your devotion by tracking them down in {POITags} and destroying them. (Hint: targets appear as part of an event)\n &lt;font color="#eaeaea"&gt;(Elite)&lt;/font&gt;</string>
+	<string key="FactionMission_ASSASSINATE_ELITE_desc2">The Marauders need &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; removed from the theater.\n\nProve your valor by tracking them down in {POITags} and destroying them. (Hint: targets appear as part of an event)\n&lt;font color="#eaeaea"&gt;(Elite)&lt;/font&gt;</string>
+	<string key="FactionMission_S_ASSASSINATE_ELITE_desc2">The Syndicate has identified &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; to be a target for elimination.\n\nProve your cunning by tracking them down in {POITags} and destroying them. (Hint: targets appear as part of an event)\n&lt;font color="#eaeaea"&gt;(Elite)&lt;/font&gt;</string>
 	<string key="FactionMission_RAID_ELITE_title">Raid: {POITags} (Elite)</string>
 	<string key="FactionMission_RAID_ELITE_desc">We've identified a threat to Marauder interests in this region.\n\nGo to {POITags} and defeat every &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; necessary - with extreme prejudice.\n &lt;font color="#eaeaea"&gt;(Elite)&lt;/font&gt;</string>
 	<string key="FactionMission_LOOT_ELITE_title">Plunder: {POITags} (Elite)</string>
@@ -569,7 +572,7 @@
 	<string key="influence_race_starting_info" rel_version="Feature_Influence_V2">{territoryName} Influence Race starts now!</string>
 	<string key="influence_race_starting_multiple" rel_version="Feature_Influence_V2">Influence Races have started in the following territories:\n{territoryNameList}</string>
 	<string key="influence_race_ended_title" rel_version="Feature_Influence_V2">INFLUENCE RACE ENDED</string>
-	<string key="influence_race_ended_info" rel_version="Feature_Influence_V2">View results for your faction and company.</string>
+	<string key="influence_race_ended_info" rel_version="Feature_Influence_V2">View results for {territoryName}.</string>
 	<string key="influence_race_countdown_title" rel_version="Feature_Influence_V2">Influence Race Countdown:</string>
 	<string key="influence_race_countdown_body" rel_version="Feature_Influence_V2">PvP missions cannot be accepted or completed until the Influence Race begins.</string>
 </resources>

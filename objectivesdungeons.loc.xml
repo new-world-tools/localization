@@ -379,15 +379,15 @@
 	<string key="Trial_Season_02_Objective_1" rel_version="Trial_Brimstone_Sandworm">Defeat Shah Neshen in the desert arena</string>
 	<string key="Trial_Season_02_Objective_2" rel_version="Trial_Brimstone_Sandworm">Withstand the brutal and acidic hazards</string>
 	<string key="Trial_Season_02_Objective_3" rel_version="Trial_Brimstone_Sandworm">Claim the riches of victory over the wurm</string>
-	<string key="Quest_mammoth_title" rel_version="Territory_FirstLight">Rage of the Mammoth</string>
-	<string key="Quest_mammoth_description" rel_version="Territory_FirstLight">Enter and show humility, mortal, you who dares entreat with the Lord of all Mammoths, Eldest of the Tribunal.</string>
+	<string key="Quest_mammoth_title" rel_version="Territory_FirstLight">Mahantaram's Court</string>
+	<string key="Trial_mammoth_description" rel_version="Territory_FirstLight">Enter and show humility, mortal, you who dares entreat with the Lord of all Mammoths, Eldest of the Tribunal.</string>
 	<string key="Quest_mammoth_required_equipment" rel_version="Territory_FirstLight">1 Azoth Staff</string>
-	<string key="trial_mammoth_approach" rel_version="Territory_FirstLight">Approach the Mammoth Lord</string>
-	<string key="trial_mammoth_defeat_boss" rel_version="Territory_FirstLight">Defeat Mahantaram</string>
-	<string key="trial_mammoth_defeat_boss_banner_title" rel_version="Territory_FirstLight">Defeat the Beast Lord</string>
-	<string key="trial_mammoth_defeat_boss_banner_description" rel_version="Territory_FirstLight">Defeat Mahantaram</string>
-	<string key="trial_mammoth_leave" rel_version="Territory_FirstLight">Finish your tasks, and collect remaining loot. When you are ready, you may exit the Soul Trial</string>
-	<string key="trial_mammoth_title" rel_version="Territory_FirstLight">Rage of the Mammoth</string>
+	<string key="trial_mammoth_approach" rel_version="Territory_FirstLight">Speak with Mahantaram</string>
+	<string key="trial_mammoth_defeat_boss" rel_version="Territory_FirstLight">Win the contest of strength</string>
+	<string key="trial_mammoth_defeat_boss_banner_title" rel_version="Territory_FirstLight">Negotations have failed</string>
+	<string key="trial_mammoth_defeat_boss_banner_description" rel_version="Territory_FirstLight">Win the contest of strength</string>
+	<string key="trial_mammoth_leave" rel_version="Territory_FirstLight">Finish your tasks, and collect remaining loot. When you are ready, you may exit the Soul Trial through the Portal</string>
+	<string key="trial_mammoth_title" rel_version="Territory_FirstLight">Mahantaram's Court</string>
 	<string key="Quest_adiana_title" rel_version="Territory_FirstLight">The End of New Eden</string>
 	<string key="Quest_adiana_description" rel_version="Territory_FirstLight">Hear us, Artemis, celebrated queen, eternal and Ancient, of a noble mien: In arrows rejoicing and on all to shine, bow-bearing Goddess, Diana divine; O'er Motherwell presided, Wild Creator and more, glorying in this Elysian war.</string>
 	<string key="Quest_adiana_required_equipment" rel_version="Territory_FirstLight">1 Azoth Staff</string>
@@ -395,7 +395,7 @@
 	<string key="trial_adiana_defeat_boss" rel_version="Territory_FirstLight">Defeat Artemis</string>
 	<string key="trial_adiana_defeat_boss_banner_title" rel_version="Territory_FirstLight">Defeat the Goddess</string>
 	<string key="trial_adiana_defeat_boss_banner_description" rel_version="Territory_FirstLight">Defeat Artemis</string>
-	<string key="trial_adiana_leave" rel_version="Territory_FirstLight">Finish your tasks, and collect remaining loot. When you are ready, you may exit the Soul Trial</string>
+	<string key="trial_adiana_leave" rel_version="Territory_FirstLight">Finish your tasks, and collect remaining loot. When you are ready, you may exit the Soul Trial through the Portal</string>
 	<string key="trial_adiana_title" rel_version="Territory_FirstLight">Defeat the Goddess</string>
 	<string key="Quest_medusa_title" rel_version="Territory_FirstLight">The Petrified Throne</string>
 	<string key="Quest_medusa_description" rel_version="Territory_FirstLight">The Pontifex of New Corsica has been transformed by the powers of the Pyramid that destroyed her realm centuries ago. Born anew, now the living embodiment of the Curse of Medusa. What began in Brimstone Sands must now end here.</string>
@@ -413,7 +413,7 @@
 	<string key="quest_Yonas_task_destroy_boss" rel_version="Quest_MSQ2_GreatCleave">Defeat Yonas</string>
 	<string key="quest_Yonas_task_leave" rel_version="Quest_MSQ2_GreatCleave">Leave the cave</string>
 	<string key="Quest_Nihilo_title" rel_version="Quest_MSQ2_GreatCleave">Beyond the Gates</string>
-	<string key="Quest_Nihilo_description" rel_version="Quest_MSQ2_GreatCleave">It is a place of horror and beauty intertwined, where the eye betrays the mind's understanding. A realm that we cannot comprehend. Leap, and let go of this mortal grip called sanity. Leap, and know what is truly unknowable beyond the gates.</string>
+	<string key="Quest_Nihilo_description" rel_version="Quest_MSQ2_GreatCleave">It is a place of horror and beauty intertwined, where the eye betrays the mind. A realm that we cannot comprehend. Leap, and know what is truly unknowable beyond the gates.</string>
 	<string key="Quest_Nihilo_required_equipment" rel_version="Quest_MSQ2_GreatCleave">1 Azoth Staff</string>
 </resources>
 
