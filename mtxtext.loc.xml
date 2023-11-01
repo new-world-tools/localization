@@ -1168,7 +1168,7 @@
 	<string key="SeasonPass_HeadStart_Season_3_name" rel_version="Season_3_Perm">Premium Pass Head Start - Season 3</string>
 	<string key="reward_type_token_single" rel_version="Feature_Transmog">Token</string>
 	<string key="Token_PremiumEmote_WitchBroom_name" rel_version="Entitlements_Seance">Witch's Broom Permit</string>
-	<string key="Token_PremiumEmote_WitchBroom_description" rel_version="Entitlements_Seance">Fly, my pretty!</string>
+	<string key="Token_PremiumEmote_WitchBroom_description" rel_version="Entitlements_Seance">Fly, my pretty! \nPermit grants the use of Witch's Broom emote for 24 hours.\n\nYou can use an Emote Permit by opening the Augments menu from your inventory.</string>
 	<string key="Bundle_PR_Seance_Masks_name" rel_version="Entitlements_Seance">Séance Mask Bundle</string>
 	<string key="Bundle_PR_Seance_Masks_description" rel_version="Entitlements_Seance">Spirits from beyond the grave roam more freely on Aeternum than the world at large. Best they don't know you too intimately.</string>
 	<string key="Bundle_PR_Elven_Timbersworn_name" rel_version="Entitlements_FirstLightMTX">Timbersworn Bundle</string>

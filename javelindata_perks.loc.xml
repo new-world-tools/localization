@@ -1262,7 +1262,7 @@
 	<string key="PerkID_Ability_VoidGauntlet_DecayingOrb_ReduceBuffs_Name">Diminishing Orb</string>
 	<string key="PerkID_Ability_VoidGauntlet_DecayingOrb_ReduceBuffs_Description">Orb of Decay reduces the duration of the target's non-consumable buffs by {[PerksAbilityTable.GlobalPerk_Ability_VoidGauntlet_DecayingOrb_ReduceBuffs.TargetStatusEffectDurationMult * -100 * {perkMultiplier}]}% on hit.</string>
 	<string key="PerkID_Ability_VoidGauntlet_DrainingTether_Slow_Name">Slowing Tether</string>
-	<string key="PerkID_Ability_VoidGauntlet_DrainingTether_Slow_Description">Baleful Tether inflicts Slow on hit, reducing the target's movement speed by {[Type_StatusEffectData.VoidGauntlet_DrainingTether_Slow.MoveSpeedMod * -100 * {perkMultiplier}]}% for {[Type_StatusEffectData.VoidGauntlet_DrainingTether_Slow.BaseDuration]}s. Baleful Tether now inflicts Disintegrate every second.</string>
+	<string key="PerkID_Ability_VoidGauntlet_DrainingTether_Slow_Description">Baleful Tether inflicts Slow on hit, reducing the target's movement speed by {[Type_StatusEffectData.VoidGauntlet_DrainingTether_Slow.MoveSpeedMod * -100 * {perkMultiplier}]}% for {[Type_StatusEffectData.VoidGauntlet_DrainingTether_Slow.BaseDuration]}s. Baleful Tether now inflicts Disintegrate on application.</string>
 	<string key="PerkID_Ability_VoidGauntlet_EssenceRupture_Empower_Name">Refreshing Rupture</string>
 	<string key="PerkID_Ability_VoidGauntlet_EssenceRupture_Empower_Description">When you hit a target with Essence Rupture, reduce Essence Rupture's cooldown by {[PerksAbilityTable.GlobalPerk_Ability_VoidGauntlet_EssenceRupture_Empower.CooldownTimer * -100 * {perkMultiplier}]}%.</string>
 	<string key="PerkID_Common_CDR_Name">Refreshing</string>
@@ -1491,7 +1491,7 @@
 	<string key="PerkID_Earring_ManaOnPotion_Name">Mana Toast</string>
 	<string key="PerkID_Earring_ManaOnPotion_Description">When you drink a health potion, gain {[Type_StatusEffectData.Status_Perk_Earring_ManaOnPotion.Mana * {perkMultiplier}]} Mana.</string>
 	<string key="PerkID_Earring_HealthOnPotion_Name">Healthy Toast</string>
-	<string key="PerkID_Earring_HealthOnPotion_Description">When you drink a Mana potion, gain {[Type_StatusEffectData.Status_Perk_Earring_HealthOnPotion.HealthModifierPercent * 100 * {perkMultiplier}]}% of your max Health.</string>
+	<string key="PerkID_Earring_HealthOnPotion_Description">When you drink a Mana potion, gain {[Type_StatusEffectData.Status_Perk_Earring_HealthOnPotion.HealthModifierBasePercent * 100 * {perkMultiplier}]}% of your base Health.</string>
 	<string key="PerkID_Earring_RemoveOnPotion_Name">Purifying Toast</string>
 	<string key="PerkID_Earring_RemoveOnPotion_Description">When you drink a regeneration potion, lose {[PerksAbilityTable.Global_Earring_RemoveOnPotion.NumStatusEffectsToRemove]} debuff.</string>
 	<string key="PerkID_Earring_GainOnPotion_Name">Duplicating Toast</string>
@@ -1751,7 +1751,7 @@
 	<string key="PerkID_PvP_Shield_FortifyStackOnBlock_Name" rel_version="PvP_Rewards_Track">Sturdy Fortification</string>
 	<string key="PerkID_PvP_Shield_FortifyStackOnBlock_Description" rel_version="PvP_Rewards_Track">PvP Only: Blocking player attacks adds a stack of {[Type_StatusEffectData.Status_PvP_Perk_Shield_FortifyStack.PhysicalArmor * 100]}% Fortify to you for {[Type_StatusEffectData.Status_PvP_Perk_Shield_FortifyStack.BaseDuration]}s for each blocked hit (Max {[Type_StatusEffectData.Status_PvP_Perk_Shield_FortifyStack.StackMax]} stacks).</string>
 	<string key="PerkID_PvP_Armor_DodgeSuccess_Heal_Name" rel_version="PvP_Rewards_Track">Shirking Heals</string>
-	<string key="PerkID_PvP_Armor_DodgeSuccess_Heal_Description" rel_version="PvP_Rewards_Track">PvP Only: Dodging an attack heals {[Type_StatusEffectData.Status_PvP_Perk_Armor_DodgeHealStack.Health * {perkMultiplier}]} Health and {[Type_StatusEffectData.Status_PvP_Perk_Armor_DodgeHealStack.HealthModifierPercent * 100]}% of your max Health (Each armor piece with this perk adds a stack. Max 1 trigger per 5s).</string>
+	<string key="PerkID_PvP_Armor_DodgeSuccess_Heal_Description" rel_version="PvP_Rewards_Track">PvP Only: Dodging an attack heals {[Type_StatusEffectData.Status_PvP_Perk_Armor_DodgeHealStack.Health * {perkMultiplier}]} Health and {[Type_StatusEffectData.Status_PvP_Perk_Armor_DodgeHealStack.HealthModifierPercent * 100 * {perkMultiplier}]}% of your max Health (Each armor piece with this perk adds a stack. Max 1 trigger per 5s).</string>
 	<string key="PerkID_PvP_Armor_SiegeDamageReduction_Name" rel_version="PvP_Rewards_Track">Siege Ward</string>
 	<string key="PerkID_PvP_Armor_SiegeDamageReduction_Description" rel_version="PvP_Rewards_Track">PvP Only: Receive {[PerksAbilityTable.Global_PvP_Armor_SiegeDamageReduction.BaseDamageReduction * 100 * {perkMultiplier}]}% less damage from Siege weapons.</string>
 	<string key="PerkID_PvP_Ring_OnKill_EmpowerStack_Name" rel_version="PvP_Rewards_Track">Mortal Empowerment</string>
@@ -2595,7 +2595,7 @@
 	<string key="PerkID_Artifact_Set1_Greatsword_Name">Balanced Blade</string>
 	<string key="PerkID_Artifact_Set1_Greatsword_Desc">Offense stance: +{[Type_StatusEffectData.Status_Perk_Artifact_Set1_Greatsword_Empower.DMGStandard * 100]}% empower per attack for {[Type_StatusEffectData.Status_Perk_Artifact_Set1_Greatsword_Empower.BaseDuration]}s (max {[Type_StatusEffectData.Status_Perk_Artifact_Set1_Greatsword_Empower.StackMax]} stacks)\nDefense stance: +{[Type_StatusEffectData.Status_Perk_Artifact_Set1_Greatsword_Fort.PhysicalArmor * 100]}% fortify when hit for {[Type_StatusEffectData.Status_Perk_Artifact_Set1_Greatsword_Fort.BaseDuration]}s (max {[Type_StatusEffectData.Status_Perk_Artifact_Set1_Greatsword_Fort.StackMax]} stacks) </string>
 	<string key="PerkID_Artifact_Set1_Amulet1_Name">Stunny Gaze</string>
-	<string key="PerkID_Artifact_Set1_Amulet1_Desc">Activate Taunt Gems. Stuns last {[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_Amulet1B.TargetStatusEffectDurationMult * 100]}% longer, but base damage is decreased by {[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_Amulet1B.BaseDamage * -100]}%.</string>
+	<string key="PerkID_Artifact_Set1_Amulet1_Desc">Activate Taunt Gems and generate {[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_Amulet1.ThreatDamage * 100]}% more threat. Stuns last {[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_Amulet1B.TargetStatusEffectDurationMult * 100]}% longer, but base damage is decreased by {[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_Amulet1B.BaseDamage * -100]}%.</string>
 	<string key="PerkID_Artifact_Set1_Amulet2_Name">Center of Attention</string>
 	<string key="PerkID_Artifact_Set1_Amulet2_Desc">Incoming heals are {[Type_StatusEffectData.Status_Perk_Artifact_Set1_Amulet2.NonConsumableHealMod * 100]}% stronger, consumables and outgoing heals are {[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_Amulet2.HealScalingValueMultiplier * -100]}% weaker</string>
 	<string key="PerkID_Artifact_Set1_Ring1_Name">Ghouls Harmony</string>
@@ -2628,7 +2628,7 @@
 	<string key="PerkID_Artifact_Set1_LightChest_Name">Weightless</string>
 	<string key="PerkID_Artifact_Set1_LightChest_Desc">This armor is weightless</string>
 	<string key="PerkID_Artifact_Set1_LightFeet_Name">Shirking Blessing</string>
-	<string key="PerkID_Artifact_Set1_LightFeet_Desc">Successfully dodging an attack, gives you {[Type_StatusEffectData.Status_Perk_Artifact_Set1_LightFeetEmpower.DMGStandard * 100]}% empower and {[Type_StatusEffectData.Status_Perk_Artifact_Set1_LightFeetFortify.PhysicalArmor * 100]}% fortify for {[Type_StatusEffectData.Status_Perk_Artifact_Set1_LightFeetEmpower.BaseDuration]}s, you are also healed for {[Type_StatusEffectData.Status_Perk_Artifact_Set1_LightFeetHeal.Health]} + {[Type_StatusEffectData.Status_Perk_Artifact_Set1_LightFeetHeal.HealthModifierPercent * 100]}% of your max hp.</string>
+	<string key="PerkID_Artifact_Set1_LightFeet_Desc">Successfully dodging an attack, gives you {[Type_StatusEffectData.Status_Perk_Artifact_Set1_LightFeetEmpower.DMGStandard * 100]}% empower and {[Type_StatusEffectData.Status_Perk_Artifact_Set1_LightFeetFortify.PhysicalArmor * 100]}% fortify for {[Type_StatusEffectData.Status_Perk_Artifact_Set1_LightFeetEmpower.BaseDuration]}s, you are also healed for {[Type_StatusEffectData.Status_Perk_Artifact_Set1_LightFeetHeal.Health]} + {[Type_StatusEffectData.Status_Perk_Artifact_Set1_LightFeetHeal.HealthModifierPercent * 100]}% of your max hp. ({[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_LightFeet.ActivationCooldown]}s Cooldown)</string>
 	<string key="PerkID_Stat_RoundShield_Name">Shield Aggression</string>
 	<string key="PerkID_Stat_RoundShield_Desc">+{[PerksAbilityTable.Global_Shield_Round.BaseDamage * 100 * {perkMultiplier}]}% base damage.</string>
 	<string key="PerkID_Stat_KiteShield_Name">Refreshing Defense</string>
