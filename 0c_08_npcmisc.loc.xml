@@ -1,0 +1,34 @@
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="0823_Fisher" comment="male">Chang Kai</string>
+	<string key="0802_Magistrate" comment="female">Constance Redridge</string>
+	<string key="0803_Survivalist" comment="male">Bartram Hopkins</string>
+	<string key="0804_Overseer" comment="male">Elder Kemba</string>
+	<string key="0805_Artificer" comment="female">Long Da</string>
+	<string key="0806_Trader" comment="male">Trader Xian</string>
+	<string key="0807_Commander" comment="female">Lyonell Hartford</string>
+	<string key="0808_Alchemist" comment="male">Ambrose Lane</string>
+	<string key="0809_Adjudicator" comment="male">Wen Zhu </string>
+	<string key="0810_Barkeep" comment="male">Huang Bao</string>
+	<string key="0811_Stranger" comment="female">Zeng Lingyun</string>
+	<string key="0824_Innkeep" comment="female">Fazila Tamar</string>
+	<string key="0899_Liberator" comment="male">Guo the Liberator</string>
+	<string key="0823_Fisher_t">Master Fisher of Ebonscale Reach</string>
+	<string key="0802_Magistrate_t">Magistrate of Ebonscale Reach</string>
+	<string key="0803_Survivalist_t">Survivalist of Ebonscale Reach</string>
+	<string key="0804_Overseer_t">Elder of Ebonscale Reach</string>
+	<string key="0805_Artificer_t">Artificer of Ebonscale Reach</string>
+	<string key="0807_Commander_t">Commander of Ebonscale Reach</string>
+	<string key="0808_Alchemist_t">Alchemist of Ebonscale Reach</string>
+	<string key="0809_Adjudicator_t">Adjudicator of Ebonscale Reach</string>
+	<string key="0810_Barkeep_t">Barkeep of Ebonscale Reach</string>
+	<string key="0811_Stranger_t">Handmaiden To The Empress</string>
+	<string key="0811_Stranger_t1">Handmaiden To The Prince</string>
+	<string key="0824_Innkeep_t">Innkeeper of the Three Stars</string>
+	<string key="0899_Liberator_t">Liberator of Masses</string>
+	<string key="0830_Override">Read</string>
+	<string key="0831_TangZhi">Wang Tangzhi</string>
+	<string key="0831_TangZhi_title">Master Weaponsmith</string>
+	<string key="0832_Alvaro">Alvaro de Villanueva</string>
+	<string key="0832_Alvaro_title">Master Artificer</string>
+</resources>
+
