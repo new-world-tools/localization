@@ -699,8 +699,8 @@
 	<string key="Bundle_PR_Seance_Weapon_description" rel_version="Entitlements_Seance">Legends long past lend power in death, as they did in life.</string>
 	<string key="Skin_MossborneTwitch_Flail_PrimaryName" rel_version="Entitlements_FirstLightMTX">Call of the Wilds Flail</string>
 	<string key="Skin_MossborneTwitch_Flail_PrimaryDesc" rel_version="Entitlements_FirstLightMTX">Heed the call and strike forth to explore the reborn wilds.</string>
-	<string key="Nov2023_Container_PrimaryName" rel_version="Entitlements_GothKnight">Gothic Pageantry Cache</string>
-	<string key="Nov2023_Container_PrimaryDesc" rel_version="Entitlements_GothKnight">Everything you need to put your feet up after a long day tromping across Aeternum fighting evil.</string>
+	<string key="Nov2023_Container_PrimaryName" rel_version="Entitlements_Gothknight">Gothic Pageantry Cache</string>
+	<string key="Nov2023_Container_PrimaryDesc" rel_version="Entitlements_Gothknight">Everything you need to put your feet up after a long day tromping across Aeternum fighting evil.</string>
 	<string key="Skin_Head_sprigganheavygrowth_PrimaryName" rel_version="Entitlements_FirstLightMTX">Mossclad Helm</string>
 	<string key="Skin_Chest_sprigganheavygrowth_PrimaryName" rel_version="Entitlements_FirstLightMTX">Mossclad Thornvest</string>
 	<string key="Skin_Hands_sprigganheavygrowth_PrimaryName" rel_version="Entitlements_FirstLightMTX">Mossclad Vambraces</string>
@@ -711,36 +711,36 @@
 	<string key="Skin_Hands_sprigganheavygrowth_PrimaryDesc" rel_version="Entitlements_FirstLightMTX">By root and by branch, by bramble and thorn, to defense of these lands you now have been sworn.</string>
 	<string key="Skin_Legs_sprigganheavygrowth_PrimaryDesc" rel_version="Entitlements_FirstLightMTX">By root and by branch, by bramble and thorn, to defense of these lands you now have been sworn.</string>
 	<string key="Skin_Feet_sprigganheavygrowth_PrimaryDesc" rel_version="Entitlements_FirstLightMTX">By root and by branch, by bramble and thorn, to defense of these lands you now have been sworn.</string>
-	<string key="Skin_Head_GothicKnightAssassin_PrimaryName" rel_version="Armor_GothKnight">Penitent Assassin's Emesa</string>
-	<string key="Skin_Chest_GothicKnightAssassin_PrimaryName" rel_version="Armor_GothKnight">Penitent Assassin's Spaulders</string>
-	<string key="Skin_Hands_GothicKnightAssassin_PrimaryName" rel_version="Armor_GothKnight">Penitent Assassin's Vambraces</string>
-	<string key="Skin_Legs_GothicKnightAssassin_PrimaryName" rel_version="Armor_GothKnight">Penitent Assassin's Trousers</string>
-	<string key="Skin_Feet_GothicKnightAssassin_PrimaryName" rel_version="Armor_GothKnight">Penitent Assassin's Half-boots</string>
-	<string key="Skin_Head_GothicKnightAssassin_PrimaryDesc" rel_version="Armor_GothKnight">Crocodiles are said to cry only when hunting. The Penitent Assassin is much the same.</string>
-	<string key="Skin_Chest_GothicKnightAssassin_PrimaryDesc" rel_version="Armor_GothKnight">Crocodiles are said to cry only when hunting. The Penitent Assassin is much the same.</string>
-	<string key="Skin_Hands_GothicKnightAssassin_PrimaryDesc" rel_version="Armor_GothKnight">Crocodiles are said to cry only when hunting. The Penitent Assassin is much the same.</string>
-	<string key="Skin_Legs_GothicKnightAssassin_PrimaryDesc" rel_version="Armor_GothKnight">Crocodiles are said to cry only when hunting. The Penitent Assassin is much the same.</string>
-	<string key="Skin_Feet_GothicKnightAssassin_PrimaryDesc" rel_version="Armor_GothKnight">Crocodiles are said to cry only when hunting. The Penitent Assassin is much the same.</string>
-	<string key="Skin_Head_GothicKnightBlackCitadel_PrimaryName" rel_version="Armor_GothKnight">Black Spire Crown</string>
-	<string key="Skin_Chest_GothicKnightBlackCitadel_PrimaryName" rel_version="Armor_GothKnight">Black Spire Cuirass</string>
-	<string key="Skin_Hands_GothicKnightBlackCitadel_PrimaryName" rel_version="Armor_GothKnight">Black Spire Armguards</string>
-	<string key="Skin_Legs_GothicKnightBlackCitadel_PrimaryName" rel_version="Armor_GothKnight">Black Spire Poleyns</string>
-	<string key="Skin_Feet_GothicKnightBlackCitadel_PrimaryName" rel_version="Armor_GothKnight">Black Spire Sabatons</string>
-	<string key="Skin_Head_GothicKnightBlackCitadel_PrimaryDesc" rel_version="Armor_GothKnight">Crowned by blackened iron, strike forth and strike true.</string>
-	<string key="Skin_Chest_GothicKnightBlackCitadel_PrimaryDesc" rel_version="Armor_GothKnight">Crowned by blackened iron, strike forth and strike true.</string>
-	<string key="Skin_Hands_GothicKnightBlackCitadel_PrimaryDesc" rel_version="Armor_GothKnight">Crowned by blackened iron, strike forth and strike true.</string>
-	<string key="Skin_Legs_GothicKnightBlackCitadel_PrimaryDesc" rel_version="Armor_GothKnight">Crowned by blackened iron, strike forth and strike true.</string>
-	<string key="Skin_Feet_GothicKnightBlackCitadel_PrimaryDesc" rel_version="Armor_GothKnight">Crowned by blackened iron, strike forth and strike true.</string>
-	<string key="Skin_Head_GothicKnightDarkRadiant_PrimaryName" rel_version="Armor_GothKnight">Somber Legionnaire's Greathelm</string>
-	<string key="Skin_Chest_GothicKnightDarkRadiant_PrimaryName" rel_version="Armor_GothKnight">Somber Legionnaire's Plastron</string>
-	<string key="Skin_Hands_GothicKnightDarkRadiant_PrimaryName" rel_version="Armor_GothKnight">Somber Legionnaire's Bracers</string>
-	<string key="Skin_Legs_GothicKnightDarkRadiant_PrimaryName" rel_version="Armor_GothKnight">Somber Legionnaire's Tassets</string>
-	<string key="Skin_Feet_GothicKnightDarkRadiant_PrimaryName" rel_version="Armor_GothKnight">Somber Legionnaire's Boots</string>
-	<string key="Skin_Head_GothicKnightDarkRadiant_PrimaryDesc" rel_version="Armor_GothKnight">Spines of cold iron to adorn a chillingly stoic visage.</string>
-	<string key="Skin_Chest_GothicKnightDarkRadiant_PrimaryDesc" rel_version="Armor_GothKnight">Spines of cold iron to adorn a chillingly stoic visage.</string>
-	<string key="Skin_Hands_GothicKnightDarkRadiant_PrimaryDesc" rel_version="Armor_GothKnight">Spines of cold iron to adorn a chillingly stoic visage.</string>
-	<string key="Skin_Legs_GothicKnightDarkRadiant_PrimaryDesc" rel_version="Armor_GothKnight">Spines of cold iron to adorn a chillingly stoic visage.</string>
-	<string key="Skin_Feet_GothicKnightDarkRadiant_PrimaryDesc" rel_version="Armor_GothKnight">Spines of cold iron to adorn a chillingly stoic visage.</string>
+	<string key="Skin_Head_GothicKnightAssassin_PrimaryName" rel_version="Armor_Gothknight">Penitent Assassin's Emesa</string>
+	<string key="Skin_Chest_GothicKnightAssassin_PrimaryName" rel_version="Armor_Gothknight">Penitent Assassin's Spaulders</string>
+	<string key="Skin_Hands_GothicKnightAssassin_PrimaryName" rel_version="Armor_Gothknight">Penitent Assassin's Vambraces</string>
+	<string key="Skin_Legs_GothicKnightAssassin_PrimaryName" rel_version="Armor_Gothknight">Penitent Assassin's Trousers</string>
+	<string key="Skin_Feet_GothicKnightAssassin_PrimaryName" rel_version="Armor_Gothknight">Penitent Assassin's Half-boots</string>
+	<string key="Skin_Head_GothicKnightAssassin_PrimaryDesc" rel_version="Armor_Gothknight">Crocodiles are said to cry only when hunting. The Penitent Assassin is much the same.</string>
+	<string key="Skin_Chest_GothicKnightAssassin_PrimaryDesc" rel_version="Armor_Gothknight">Crocodiles are said to cry only when hunting. The Penitent Assassin is much the same.</string>
+	<string key="Skin_Hands_GothicKnightAssassin_PrimaryDesc" rel_version="Armor_Gothknight">Crocodiles are said to cry only when hunting. The Penitent Assassin is much the same.</string>
+	<string key="Skin_Legs_GothicKnightAssassin_PrimaryDesc" rel_version="Armor_Gothknight">Crocodiles are said to cry only when hunting. The Penitent Assassin is much the same.</string>
+	<string key="Skin_Feet_GothicKnightAssassin_PrimaryDesc" rel_version="Armor_Gothknight">Crocodiles are said to cry only when hunting. The Penitent Assassin is much the same.</string>
+	<string key="Skin_Head_GothicKnightBlackCitadel_PrimaryName" rel_version="Armor_Gothknight">Black Spire Crown</string>
+	<string key="Skin_Chest_GothicKnightBlackCitadel_PrimaryName" rel_version="Armor_Gothknight">Black Spire Cuirass</string>
+	<string key="Skin_Hands_GothicKnightBlackCitadel_PrimaryName" rel_version="Armor_Gothknight">Black Spire Armguards</string>
+	<string key="Skin_Legs_GothicKnightBlackCitadel_PrimaryName" rel_version="Armor_Gothknight">Black Spire Poleyns</string>
+	<string key="Skin_Feet_GothicKnightBlackCitadel_PrimaryName" rel_version="Armor_Gothknight">Black Spire Sabatons</string>
+	<string key="Skin_Head_GothicKnightBlackCitadel_PrimaryDesc" rel_version="Armor_Gothknight">Crowned by blackened iron, strike forth and strike true.</string>
+	<string key="Skin_Chest_GothicKnightBlackCitadel_PrimaryDesc" rel_version="Armor_Gothknight">Crowned by blackened iron, strike forth and strike true.</string>
+	<string key="Skin_Hands_GothicKnightBlackCitadel_PrimaryDesc" rel_version="Armor_Gothknight">Crowned by blackened iron, strike forth and strike true.</string>
+	<string key="Skin_Legs_GothicKnightBlackCitadel_PrimaryDesc" rel_version="Armor_Gothknight">Crowned by blackened iron, strike forth and strike true.</string>
+	<string key="Skin_Feet_GothicKnightBlackCitadel_PrimaryDesc" rel_version="Armor_Gothknight">Crowned by blackened iron, strike forth and strike true.</string>
+	<string key="Skin_Head_GothicKnightDarkRadiant_PrimaryName" rel_version="Armor_Gothknight">Somber Legionnaire's Greathelm</string>
+	<string key="Skin_Chest_GothicKnightDarkRadiant_PrimaryName" rel_version="Armor_Gothknight">Somber Legionnaire's Plastron</string>
+	<string key="Skin_Hands_GothicKnightDarkRadiant_PrimaryName" rel_version="Armor_Gothknight">Somber Legionnaire's Bracers</string>
+	<string key="Skin_Legs_GothicKnightDarkRadiant_PrimaryName" rel_version="Armor_Gothknight">Somber Legionnaire's Tassets</string>
+	<string key="Skin_Feet_GothicKnightDarkRadiant_PrimaryName" rel_version="Armor_Gothknight">Somber Legionnaire's Boots</string>
+	<string key="Skin_Head_GothicKnightDarkRadiant_PrimaryDesc" rel_version="Armor_Gothknight">Spines of cold iron to adorn a chillingly stoic visage.</string>
+	<string key="Skin_Chest_GothicKnightDarkRadiant_PrimaryDesc" rel_version="Armor_Gothknight">Spines of cold iron to adorn a chillingly stoic visage.</string>
+	<string key="Skin_Hands_GothicKnightDarkRadiant_PrimaryDesc" rel_version="Armor_Gothknight">Spines of cold iron to adorn a chillingly stoic visage.</string>
+	<string key="Skin_Legs_GothicKnightDarkRadiant_PrimaryDesc" rel_version="Armor_Gothknight">Spines of cold iron to adorn a chillingly stoic visage.</string>
+	<string key="Skin_Feet_GothicKnightDarkRadiant_PrimaryDesc" rel_version="Armor_Gothknight">Spines of cold iron to adorn a chillingly stoic visage.</string>
 	<string key="Skin_GothicKnight_Bow_PrimaryName" rel_version="Weapons_Gothknight">Nightshatter</string>
 	<string key="Skin_GothicKnight_Greataxe_PrimaryName" rel_version="Weapons_Gothknight">Skullsplitter</string>
 	<string key="Skin_GothicKnight_ShieldK_PrimaryName" rel_version="Weapons_Gothknight">Soulkeeper</string>
@@ -753,14 +753,14 @@
 	<string key="Skin_GothicKnight_Flail_PrimaryDesc" rel_version="Weapons_Gothknight">From darkness comes might.</string>
 	<string key="Skin_GothicKnight_Longsword_PrimaryDesc" rel_version="Weapons_Gothknight">From darkness comes tenacity.</string>
 	<string key="Skin_GothicKnight_Greatsword_PrimaryDesc" rel_version="Weapons_Gothknight">From darkness comes power.</string>
-	<string key="Apparel_GothicKnight_PenitentAssassin_name" rel_version="Entitlements_GothKnight">Penitent Assassin</string>
-	<string key="Apparel_GothicKnight_BlackSpireSentinel_name" rel_version="Entitlements_GothKnight">Black Spire Sentinel</string>
-	<string key="Apparel_GothicKnight_SomberLegionnaire_name" rel_version="Entitlements_GothKnight">Somber Legionnaire</string>
-	<string key="Apparel_FirstLightElven_ArgentArborGladekeeper_name" rel_version="Entitlements_GothKnight">Argent Arbor Gladekeeper</string>
-	<string key="xpac_riseoftheangryearth_name" rel_version="Entitlements_GothKnight">Rise of the Angry Earth Expansion</string>
-	<string key="xpac_riseoftheangryearth_desc" rel_version="Entitlements_GothKnight">The first expansion for New World.</string>
-	<string key="Bundle_PR_GothKnight_WeaponArmor_name" rel_version="Entitlements_GothKnight">Dark Legion Complete Bundle</string>
-	<string key="Bundle_PR_GothKnight_WeaponArmor_desc" rel_version="Entitlements_GothKnight">Embrace the darkness, and come in to your power.</string>
+	<string key="Apparel_GothicKnight_PenitentAssassin_name" rel_version="Entitlements_Gothknight">Penitent Assassin</string>
+	<string key="Apparel_GothicKnight_BlackSpireSentinel_name" rel_version="Entitlements_Gothknight">Black Spire Sentinel</string>
+	<string key="Apparel_GothicKnight_SomberLegionnaire_name" rel_version="Entitlements_Gothknight">Somber Legionnaire</string>
+	<string key="Apparel_FirstLightElven_ArgentArborGladekeeper_name" rel_version="Entitlements_Gothknight">Argent Arbor Gladekeeper</string>
+	<string key="xpac_riseoftheangryearth_name" rel_version="Entitlements_Gothknight">Rise of the Angry Earth Expansion</string>
+	<string key="xpac_riseoftheangryearth_desc" rel_version="Entitlements_Gothknight">The first expansion for New World.</string>
+	<string key="Bundle_PR_Gothknight_WeaponArmor_name" rel_version="Entitlements_Gothknight">Dark Legion Complete Bundle</string>
+	<string key="Bundle_PR_Gothknight_WeaponArmor_desc" rel_version="Entitlements_Gothknight">Embrace the darkness, and come in to your power.</string>
 	<string key="MTX_Ronin_Bow_name" rel_version="Entitlements_Ronin">Bow of the Unsworn</string>
 	<string key="MTX_Ronin_Flail_name" rel_version="Entitlements_Ronin">Flail of the Unsworn</string>
 	<string key="MTX_Ronin_Longsword_name" rel_version="Entitlements_Ronin">Blade of the Unsworn</string>
@@ -869,14 +869,14 @@
 	<string key="MTX_Ronin_Deluxe_Name" rel_version="Entitlements_Ronin">Resolute Soul</string>
 	<string key="Bundle_PR_Ronin_ResoluteSoul_Name" rel_version="Entitlements_Ronin">Resolute Soul Bundle</string>
 	<string key="Bundle_PR_Ronin_RoadwornFateweaver_Name" rel_version="Entitlements_Ronin">Roadworn Fateweaver Bundle</string>
-	<string key="Bundle_PR_Dec23_UnvaultPromo_Name" rel_version="Entitlements_Ronin">December 2023 Unvault Bundle</string>
+	<string key="Bundle_PR_Dec23_UnvaultPromo_Name" rel_version="Entitlements_Ronin">Stylemancer's Seasonal Bundle</string>
 	<string key="Bundle_PR_Ronin_IronScaleArcher_Name" rel_version="Entitlements_Ronin">Iron Scale Archer Bundle</string>
-	<string key="Bundle_PR_Ronin_ShadowsReach_Name" rel_version="Entitlements_Ronin">Shadows Reach Bundle</string>
+	<string key="Bundle_PR_Ronin_ShadowsReach_Name" rel_version="Entitlements_Ronin">Shadow's Reach Bundle</string>
 	<string key="Bundle_PR_WinterMerc_SnowboundSavior_Name" rel_version="Entitlements_Ronin">Snowbound Savior Bundle</string>
 	<string key="Bundle_PR_WinterMerc_Stag-heartedWarrior_Name" rel_version="Entitlements_Ronin">Stag-hearted Warrior Bundle</string>
 	<string key="Bundle_PR_Ronin_ResoluteSoul_Desc" rel_version="Entitlements_Ronin">Seek your own destiny, and be unbound from the expectations of others.</string>
 	<string key="Bundle_PR_Ronin_RoadwornFateweaver_Desc" rel_version="Entitlements_Ronin">When fate's head rears, weave your own path.</string>
-	<string key="Bundle_PR_Dec23_UnvaultPromo_Desc" rel_version="Entitlements_Ronin">Welcome the end of this year and the beginning of the next with splendors untold.</string>
+	<string key="Bundle_PR_Dec23_UnvaultPromo_Desc" rel_version="Entitlements_Ronin">Dress yourself for the season! Perfect for all the holiday parties from Caliburne to Windsward.</string>
 	<string key="Bundle_PR_Ronin_IronScaleArcher_Desc" rel_version="Entitlements_Ronin">May your arrows fly true, and ever find their mark.</string>
 	<string key="Bundle_PR_Ronin_ShadowsReach_Desc" rel_version="Entitlements_Ronin">The reach of the shadows is boundless - do not underestimate those that walk in them.</string>
 	<string key="Bundle_PR_WinterMerc_SnowboundSavior_Desc" rel_version="Entitlements_Ronin">Whether warming hearts or piercing them with an icy blow, do it in comfort and style.</string>

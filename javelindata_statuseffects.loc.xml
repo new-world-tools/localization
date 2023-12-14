@@ -687,23 +687,23 @@
 	<string key="AI_Empress_DragonBurn_DisplayName">Burn</string>
 	<string key="AI_Empress_DragonBurn_Tooltip">Deals {[Type_StatusEffectData.AI_Empress_DragonBurn.HealthModifierDamageBased * -100]}% fire damage every {[Type_StatusEffectData.AI_Empress_DragonBurn.TickRate]} seconds for {[Type_StatusEffectData.AI_Empress_DragonBurn.BaseDuration]} seconds. Stacks {[Type_StatusEffectData.AI_Empress_DragonBurn.StackMax]} times.</string>
 	<string key="AI_Torso_Boss_ArenaShrink_DisplayName">Arcane Burden</string>
-	<string key="AI_Torso_Boss_ArenaShrink_Tooltip">"You are burdened with arcane energy, silencing you and dealing damage over time."</string>
+	<string key="AI_Torso_Boss_ArenaShrink_Tooltip">You are burdened with arcane energy, silencing you and dealing damage over time.</string>
 	<string key="AI_Torso_Boss_Stun_Player_DisplayName">Arcane Overload</string>
-	<string key="AI_Torso_Boss_Stun_Player_Tooltip">You are overloaded with arcane energy, stunning you for 10s."</string>
+	<string key="AI_Torso_Boss_Stun_Player_Tooltip">You are overloaded with arcane energy, stunning you for 10s.</string>
 	<string key="AI_Torso_Boss_ArcaneOrb_DisplayName">Arcane Attunement</string>
-	<string key="AI_Torso_Boss_ArcaneOrb_Tooltip">"You are carrying an arcane orb, attuning you to the magical frequencies of the arcane conduits."</string>
-	<string key="AI_Ice_Torso_Boss_Empower_Player_DisplayName" rel_version="Expedition_GreatCleave_00">"Ancient Empower"</string>
-	<string key="AI_Ice_Torso_Boss_Empower_Player_Tooltip" rel_version="Expedition_GreatCleave_00">"Buffed by ancient power, increasing damage."</string>
-	<string key="AI_Ice_Torso_Boss_Energy_Charged_DisplayName" rel_version="Expedition_GreatCleave_00">"Energy Overload"</string>
-	<string key="AI_Ice_Torso_Boss_Energy_Charged_Tooltip" rel_version="Expedition_GreatCleave_00">"Become overcharged dealing bonus Shield stamina damage."</string>
-	<string key="AI_Ice_Torso_Boss_FrozenAura_DisplayName" rel_version="Expedition_GreatCleave_00">"Frozen Aura"</string>
-	<string key="AI_Ice_Torso_Boss_FrozenAura_Tooltip" rel_version="Expedition_GreatCleave_00">"Deal ice damage to near by characters. Will create a deadly ice zone after countdown!"</string>
-	<string key="AI_Ice_Torso_Boss_FrostBite_DisplayName" rel_version="Expedition_GreatCleave_00">"Frost Bite"</string>
-	<string key="AI_Ice_Torso_Boss_FrostBite_Tooltip" rel_version="Expedition_GreatCleave_00">"Frozen by Ancient Ice Magic, can't run or jump"</string>
-	<string key="AI_Ice_Torso_Boss_Deep_Frozen_DisplayName" rel_version="Expedition_GreatCleave_00">"Deep Frozen"</string>
-	<string key="AI_Ice_Torso_Boss_Deep_Frozen_Tooltip" rel_version="Expedition_GreatCleave_00">"Deep Frozen from the Commander's attacks and will trigger frost bite in 5 stacks."</string>
-	<string key="AI_Ice_Torso_Boss_Ice_Ground_DisplayName" rel_version="Expedition_GreatCleave_00">"Icy Ground"</string>
-	<string key="AI_Ice_Torso_Boss_Ice_Ground_Tooltip" rel_version="Expedition_GreatCleave_00">"Dealing damage and slow movement speed."</string>
+	<string key="AI_Torso_Boss_ArcaneOrb_Tooltip">You are carrying an arcane orb, attuning you to the magical frequencies of the arcane conduits.</string>
+	<string key="AI_Ice_Torso_Boss_Empower_Player_DisplayName" rel_version="Expedition_GreatCleave_00">Ancient Empower</string>
+	<string key="AI_Ice_Torso_Boss_Empower_Player_Tooltip" rel_version="Expedition_GreatCleave_00">Buffed by ancient power, increasing damage.</string>
+	<string key="AI_Ice_Torso_Boss_Energy_Charged_DisplayName" rel_version="Expedition_GreatCleave_00">Energy Overload</string>
+	<string key="AI_Ice_Torso_Boss_Energy_Charged_Tooltip" rel_version="Expedition_GreatCleave_00">Become overcharged dealing bonus Shield stamina damage.</string>
+	<string key="AI_Ice_Torso_Boss_FrozenAura_DisplayName" rel_version="Expedition_GreatCleave_00">Frozen Aura</string>
+	<string key="AI_Ice_Torso_Boss_FrozenAura_Tooltip" rel_version="Expedition_GreatCleave_00">Deal ice damage to near by characters. Will create a deadly ice zone after countdown!</string>
+	<string key="AI_Ice_Torso_Boss_FrostBite_DisplayName" rel_version="Expedition_GreatCleave_00">Frost Bite</string>
+	<string key="AI_Ice_Torso_Boss_FrostBite_Tooltip" rel_version="Expedition_GreatCleave_00">Frozen by Ancient Ice Magic, can't run or jump.</string>
+	<string key="AI_Ice_Torso_Boss_Deep_Frozen_DisplayName" rel_version="Expedition_GreatCleave_00">Deep Frozen</string>
+	<string key="AI_Ice_Torso_Boss_Deep_Frozen_Tooltip" rel_version="Expedition_GreatCleave_00">Deep Frozen from the Commander's attacks and will trigger frost bite in 5 stacks.</string>
+	<string key="AI_Ice_Torso_Boss_Ice_Ground_DisplayName" rel_version="Expedition_GreatCleave_00">Icy Ground</string>
+	<string key="AI_Ice_Torso_Boss_Ice_Ground_Tooltip" rel_version="Expedition_GreatCleave_00">Dealing damage and slow movement speed.</string>
 	<string key="AI_Hercyne_Bleed_DisplayName" rel_version="Territory_FirstLight">Bleed</string>
 	<string key="AI_Hercyne_Bleed_Tooltip" rel_version="Territory_FirstLight">Bleeding for {[Type_StatusEffectData.AI_Hercyne_Bleed.HealthModifierDamageBased * -100]}% base + {[Type_StatusEffectData.AI_Hercyne_Bleed.HealthModifierPercent * -100]}% base health Physical damage every {[Type_StatusEffectData.AI_Hercyne_Bleed.TickRate]} seconds for {[Type_StatusEffectData.AI_Hercyne_Bleed.BaseDuration]} seconds. Stacks {[Type_StatusEffectData.AI_Hercyne_Bleed.StackMax]} times.</string>
 	<string key="AI_HercyneBoar_Thorn_Ally_DisplayName" rel_version="Territory_FirstLight">Thorny Hide</string>
@@ -867,6 +867,12 @@
 	<string key="AI_AdmiralBrute_Blackpowder_Burn_Tooltip" rel_version="Expedition_CutlassKeys_00">Burning for {[Type_StatusEffectData.AI_AdmiralBrute_Blackpowder_Burn.HealthModifierPercent * -100]}% base health Fire damage every {[Type_StatusEffectData.AI_AdmiralBrute_Blackpowder_Burn.TickRate]} seconds for {[Type_StatusEffectData.AI_AdmiralBrute_Blackpowder_Burn.BaseDuration]} seconds.</string>
 	<string key="AI_AdmiralBrute_CannonRain_Targeted_DOT_DisplayName" rel_version="Expedition_CutlassKeys_00">Cannon Burn</string>
 	<string key="AI_AdmiralBrute_CannonRain_Targeted_DOT_Tooltip" rel_version="Expedition_CutlassKeys_00">Burning for {[Type_StatusEffectData.AI_AdmiralBrute_CannonRain_Targeted_DOT.HealthModifierDamageBased * -100]}% base Fire damage every {[Type_StatusEffectData.AI_AdmiralBrute_CannonRain_Targeted_DOT.TickRate]} seconds.</string>
+	<string key="AI_Yeti_2022_IceDome_Empower_DisplayName" rel_version="Event_WinterConvergence_Temp">Bestial Strength</string>
+	<string key="AI_Yeti_2022_IceDome_Empower_Tooltip" rel_version="Event_WinterConvergence_Temp">Winter Warrior's damage increased by {[Type_StatusEffectData.AI_Yeti_2022_IceDome_Empower.DMGStandard * 100]}%.</string>
+	<string key="AI_Yeti_2022_IceDome_Fortify_DisplayName" rel_version="Event_WinterConvergence_Temp">Winter's Endurance</string>
+	<string key="AI_Yeti_2022_IceDome_Fortify_Tooltip" rel_version="Event_WinterConvergence_Temp">Winter Warrior's damage absorption increased by {[Type_StatusEffectData.AI_Yeti_2022_IceDome_Fortify.ABSStandard * 100]}%.</string>
+	<string key="AI_Yeti_2022_Snare_and_DoT_DomeFX_DisplayName" rel_version="Event_WinterConvergence_Temp">The Forever Winter's Sting</string>
+	<string key="AI_Yeti_2022_Snare_and_DoT_DomeFX_Tooltip" rel_version="Event_WinterConvergence_Temp">You are slowed and taking cold damage from the sting of the Forever Winter's magic.</string>
 	<string key="AI_FireNaga_Flamethrower_DoT_DisplayName" rel_version="Expedition_GreatCleave_01">Burning</string>
 	<string key="AI_FireNaga_Flamethrower_DoT_Tooltip" rel_version="Expedition_GreatCleave_01">Burning for {[Type_StatusEffectData.AI_FireNaga_Flamethrower_DoT.HealthModifierPercent * -100]}% max health of Fire damage every {[Type_StatusEffectData.AI_FireNaga_Flamethrower_DoT.TickRate]} seconds for {[Type_StatusEffectData.AI_FireNaga_Flamethrower_DoT.BaseDuration]} seconds.</string>
 	<string key="AI_FireNaga_LavaPool_DoT_DisplayName" rel_version="Expedition_GreatCleave_01">Burning Lava</string>
@@ -1453,6 +1459,10 @@
 	<string key="Status_Flail_AllyDamageSplit_Self_Description" rel_version="Weapon_Flail">While this effect is active, a portion of the damage a nearby ally takes is transferred to a you.</string>
 	<string key="Status_Flail_Ultimate_Healing_DisplayName">Better Together</string>
 	<string key="Status_Flail_Ultimate_Healing_Description">You heal for {[Type_StatusEffectData.Status_Flail_Ultimate_HealOverTime.HealthModifierDamageBased * 100]}% of the flail wielder's weapon damage.</string>
+	<string key="Status_StaticCharge">Static Charge</string>
+	<string key="Status_StaticCharge_Description">If hit by an enemy wielding Boltcaster with 3 stacks active, you'll trigger a static discharge taking bonus damage.</string>
+	<string key="Status_StaticDischarge">Static Discharge</string>
+	<string key="Status_StaticDischarge_Description">Deals {[Type_StatusEffectData.Status_Perk_Artifact_Set1_Bow_StaticDischarge.HealthModifierDamageBased * -100]}% of attacker's weapon damage.</string>
 	<string key="BlockBreakerDebuffPerk_DisplayName">Exhaust</string>
 	<string key="BlockSpeedPerk1_Description">Your movement speed is increased by {[Type_StatusEffectData.BlockSpeedPerk1.MoveSpeedMod * 100]}</string>
 	<string key="BlockSpeedPerk2_Description">Your movement speed is increased by {[Type_StatusEffectData.BlockSpeedPerk2.MoveSpeedMod * 100]}</string>

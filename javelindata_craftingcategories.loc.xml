@@ -867,6 +867,7 @@
 	<string key="DungeonReps9_GroupName">Tempest Heart Replicas</string>
 	<string key="DungeonShields_GroupName">Expedition Shields</string>
 	<string key="DungeonReps12_GroupName" rel_version="Expedition_FirstLight_01">Savage Divide Replicas</string>
+	<string key="DungeonReps13_GroupName" rel_version="Expedition_FirstLight_01">Glacial Tarn Replicas</string>
 	<string key="Dye1_GroupDesc">Craft one of a variety of shades of Red Dye.</string>
 	<string key="Dye1_GroupName">Red Dye</string>
 	<string key="Dye10_GroupDesc">Umber Dye for your armor.</string>
@@ -2020,5 +2021,6 @@
 	<string key="weaponsmithingrecipes_GroupName">Weaponsmithing Patterns</string>
 	<string key="furnishingrecipes_GroupName">Furnishing Schematics</string>
 	<string key="arcanarecipes_GroupName">Arcana Patterns</string>
+	<string key="sealedFactionArmor_GroupName">Sealed Faction Armor</string>
 </resources>
 

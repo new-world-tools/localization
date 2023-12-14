@@ -139,7 +139,7 @@
 	<string key="ui_seasons_task_Complete2SeasonalChallenge_name" rel_version="Feature_Seasons_Rewards">Conquered the Challenge II</string>
 	<string key="ui_seasons_task_Complete3SeasonalChallenge_name" rel_version="Feature_Seasons_Rewards">Conquered the Challenge III</string>
 	<string key="ui_seasons_task_Complete4SeasonalChallenge_name" rel_version="Feature_Seasons_Rewards">Conquered the Challenge IV</string>
-	<string key="ui_seasons_task_CompleteSeasonalChallenge_desc" rel_version="Feature_Seasons_Rewards">Complete {maxCount} Seasonal Challenge</string>
+	<string key="ui_seasons_task_CompleteSeasonalChallenge_desc" rel_version="Feature_Seasons_Rewards">Complete {maxCount} Seasonal Challenge(s)</string>
 	<string key="ui_seasons_task_CompleteSongsAnyDifficultyGrouped_name" rel_version="Feature_Seasons_Rewards">Let's Start a Band</string>
 	<string key="ui_seasons_task_CompleteSongsAnyDifficultyGrouped_desc" rel_version="Feature_Seasons_Rewards">Play {maxCount} songs on any difficulty in a group</string>
 	<string key="ui_seasons_task_Complete1War_name" rel_version="Feature_Seasons_Rewards">War-rior</string>
@@ -384,7 +384,7 @@
 	<string key="ui_seasons_task_name_CompleteSeasonalChallenge_4" rel_version="Season_2_Perm">Conquered the Challenge IV</string>
 	<string key="ui_seasons_task_name_CompleteSeasonalChallenge_5" rel_version="Season_2_Perm">Conquered the Challenge V</string>
 	<string key="ui_seasons_task_descripion_CompleteSeasonalChallengeSingle" rel_version="Season_2_Perm">Complete a Seasonal Challenge</string>
-	<string key="ui_seasons_task_descripion_CompleteSeasonalChallenge" rel_version="Season_2_Perm">Complete {maxCount} Seasonal Challenge</string>
+	<string key="ui_seasons_task_descripion_CompleteSeasonalChallenge" rel_version="Season_2_Perm">Complete {maxCount} Seasonal Challenge(s)</string>
 	<string key="ui_seasons_task_name_CompleteTownProjects_1" rel_version="Season_2_Perm">Project Progenitor I</string>
 	<string key="ui_seasons_task_name_CompleteTownProjects_2" rel_version="Season_2_Perm">Project Progenitor II</string>
 	<string key="ui_seasons_task_name_CompleteTownProjects_3" rel_version="Season_2_Perm">Project Progenitor III</string>
@@ -683,7 +683,7 @@
 	<string key="ui_seasons_task_description_GlacialTarnM2" rel_version="Season_4_Perm">Complete M2 Glacial Tarn Expedition</string>
 	<string key="ui_seasons_task_description_GlacialTarnM3" rel_version="Season_4_Perm">Complete M3 Glacial Tarn Expedition</string>
 	<string key="ui_seasons_task_description_CraftCoatingT5" rel_version="Season_4_Perm">Craft {maxCount} T5+ Weapon Coatings</string>
-	<string key="ui_seasons_task_description_KillIceVarangian" rel_version="Season_4_Perm">Kill {maxCount} Ice Varangians</string>
+	<string key="ui_seasons_task_description_KillIceVarangian" rel_version="Season_4_Perm">Kill {maxCount} Frostbound Varangians</string>
 	<string key="ui_seasons_task_description_CompleteHatchery" rel_version="Season_4_Perm">Complete the Hatchery Trial {maxCount} times</string>
 	<string key="ui_seasons_task_description_CompleteMutation" rel_version="Season_4_Perm">Complete {maxCount} Mutated Expeditions</string>
 	<string key="ui_seasons_task_description_CraftPrismaticScarabSingle" rel_version="Season_4_Perm">Craft an item using a Prismatic Scarab</string>
@@ -722,7 +722,7 @@
 	<string key="ui_seasons_task_description_Challenge_MountRaces" rel_version="Season_4_Perm">Complete {maxCount} Mount Races</string>
 	<string key="ui_seasons_task_description_Challenge_LootElite" rel_version="Season_4_Perm">Loot {maxCount} Elite Chests</string>
 	<string key="ui_seasons_task_description_Challenge_KillPlayers" rel_version="Season_4_Perm">Kill {maxCount} Players in PvP</string>
-	<string key="ui_seasons_task_description_Challenge_FlawlessGlacialTarn" rel_version="Season_4_Perm">Complete Glacial Tarn Flawlessly {maxCount} times</string>
+	<string key="ui_seasons_task_description_Challenge_FlawlessGlacialTarn" rel_version="Season_4_Perm">Complete Glacial Tarn Flawlessly (No Deaths) {maxCount} times</string>
 	<string key="ui_seasons_wild_stamp_count" rel_version="Feature_Seasons_Rewards">&lt;img src="LyShineUI/Images/SeasonsRewards/Wild-Stamp-Icon-Small" scale="2" yOffset="7"&gt;&lt;/img&gt; Wild Stamps: {count}</string>
 	<string key="ui_seasons_wild_stamp_count_and_max" rel_version="Feature_Seasons_Rewards">&lt;img src="LyShineUI/Images/SeasonsRewards/Wild-Stamp-Icon-Small" scale="2" yOffset="7"&gt;&lt;/img&gt; Wild Stamps: {count}/{max}</string>
 	<string key="ui_seasons_wild_stamp_awarded_header" rel_version="Feature_Seasons_Rewards">Wild Stamp Bonus</string>
@@ -755,7 +755,7 @@
 	<string key="SeasonsActivities_KillGreatCleave" rel_version="Feature_Seasons_Rewards">Kill Enemies in Great Cleave</string>
 	<string key="SeasonsActivities_KillNamedGreatCleave" rel_version="Feature_Seasons_Rewards">Kill Named Enemies in Great Cleave</string>
 	<string key="SeasonsActivities_CompleteGlacialTarn" rel_version="Feature_Seasons_Rewards">Complete a run of Glacial Tarn</string>
-	<string key="SeasonsActivities_KillIceVarangian" rel_version="Season_4_Perm">Kill Ice Varangians</string>
+	<string key="SeasonsActivities_KillIceVarangian" rel_version="Season_4_Perm">Kill Frostbound Varangians</string>
 	<string key="SeasonsActivities_KillFrostAncient" rel_version="Season_4_Perm">Kill Ancient Elementals</string>
 	<string key="ui_seasons_task_placeholder_name" rel_version="Feature_Seasons_Rewards">PLACEHOLDER</string>
 	<string key="ui_seasons_task_placeholder_desc" rel_version="Feature_Seasons_Rewards">PLACEHOLDER</string>

@@ -2409,7 +2409,7 @@
 	<string key="ui_poi_factionarea_40424">Precipice</string>
 	<string key="ui_poi_factionarea_40424_description">Contested Area</string>
 	<string key="ui_poi_dungeon_tarn_40360" rel_version="Expedition_GreatCleave_00">Glacial Tarn</string>
-	<string key="ui_poi_dungeon_tarn_40360_description" rel_version="Expedition_GreatCleave_00">Expedition\n\n PLACEHOLDER NEEDS LORE</string>
+	<string key="ui_poi_dungeon_tarn_40360_description" rel_version="Expedition_GreatCleave_00">Expedition\n\nDiscovered centuries ago by an ill-fated expedition, these frozen caverns harbor a long-lost passage into the Empyrean Forge.</string>
 	<string key="ui_poi_spiritshrine_30346" rel_version="Season_4_Perm">Ice Castle Shrine</string>
 	<string key="ui_poi_spiritshrine_40362" rel_version="Season_4_Perm">Mokash Springs Shrine</string>
 	<string key="ui_poi_spiritshrine_30260" rel_version="Season_4_Perm">Serenity Shrine</string>

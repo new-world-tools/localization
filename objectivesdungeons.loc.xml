@@ -452,12 +452,12 @@
 	<string key="trial_season_04_q06_task_defeat_boss" rel_version="Season_4_Perm">Defeat Mordred</string>
 	<string key="trial_season_04_q06_task_exit" rel_version="Season_4_Perm">Exit the Soul Trial</string>
 	<string key="trial_season_04_q05_title" rel_version="Season_4_Perm">The Winter Rune Forge</string>
-	<string key="trial_season_04_q05_description" rel_version="Season_4_Perm">Descend into the ancient Runeforge and claim victory over its guardians.</string>
+	<string key="trial_season_04_q05_description" rel_version="Season_4_Perm">Descend into the ancient Rune Forge and claim victory over its guardians.</string>
 	<string key="Trial_Season_04_Objective_1" rel_version="Season_4_Perm">Align the runes to reactivate forge machination</string>
 	<string key="Trial_Season_04_Objective_2" rel_version="Season_4_Perm">Use the environment to your advantage</string>
 	<string key="Trial_Season_04_Objective_3" rel_version="Season_4_Perm">Defeat the ancient constructs</string>
 	<string key="trial_runeforge_title" rel_version="Season_4_Perm">The Winter Rune Forge</string>
-	<string key="trial_runeforge_description" rel_version="Season_4_Perm">Descend into the ancient Runeforge with a team and claim victory over its guardians.</string>
+	<string key="trial_runeforge_description" rel_version="Season_4_Perm">Descend into the ancient Rune Forge with a team and claim victory over its guardians.</string>
 	<string key="Trial_Season_04_required_equipment" rel_version="Season_4_Perm">1 Azoth Staff</string>
 	<string key="trial_runeforge_approach_01" rel_version="Season_4_Perm">Align the runes to unlock the ancient machination</string>
 	<string key="trial_runeforge_defeat_fodder01" rel_version="Season_4_Perm">Defeat the forge guardians</string>

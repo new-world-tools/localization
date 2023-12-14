@@ -301,8 +301,8 @@
 	<string key="ui_analyticsenabled_desc">Set whether to send certain client telemetry data relating to your play experience and settings to the New World team (if you are experiencing network issues while playing, disabling this setting may help)</string>
 	<string key="ui_leaderboardenabled" rel_version="Feature_Leaderboards">Participate in Leaderboards</string>
 	<string key="ui_leaderboardenabled_desc" rel_version="Feature_Leaderboards">Set whether to display your character name leaderboards and enable leaderboard rewards</string>
-	<string key="ui_enable_camera_lock">Targeted Healing</string>
-	<string key="ui_enable_camera_lock_description">Set whether to enable the targeted healing system</string>
+	<string key="ui_enable_targeted_healing">Targeted Healing</string>
+	<string key="ui_enable_targeted_healing_description">Set whether to enable the targeted healing system</string>
 	<string key="ui_enable_camera_lock_friendlies">Camera Lock Friendlies</string>
 	<string key="ui_enable_camera_lock_friendlies_description">Set whether to enable the targeting system on friendly targets for healing</string>
 	<string key="ui_enable_camera_lock_target_follow">Camera follows locked target</string>
