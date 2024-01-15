@@ -151,6 +151,7 @@
 	<string key="ui_news_bullet_resources">Resources</string>
 	<string key="ui_news_bullet_mounts" rel_version="Feature_Mounts">Mounts</string>
 	<string key="ui_news_bullet_mount_skins" rel_version="Feature_Mounts">Mount Skins</string>
+	<string key="ui_news_bullet_mount_attachments" rel_version="Feature_Mounts">Mount Attachments</string>
 	<string key="ui_news_bullet_artifact" rel_version="Feature_Artifacts">Artifact</string>
 	<string key="ui_news_bullet_artifacts" rel_version="Feature_Artifacts">Artifacts</string>
 	<string key="ui_news_bullet_transmog_tokens" rel_version="Season_2_Perm">Transmog Tokens</string>
@@ -163,12 +164,6 @@
 	<string key="ui_event_feb_mtx_bullet1" rel_version="Entitlements_OmensOfWinter">Skins</string>
 	<string key="ui_event_feb_mtx_bullet2" rel_version="Entitlements_OmensOfWinter">Emotes</string>
 	<string key="ui_event_feb_mtx_button_about" rel_version="Entitlements_OmensOfWinter">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Omens Of Winter</string>
-	<string key="ui_event_legacy_of_crassus_tabname" rel_version="Event_February_Temp">Legacy of Crassus</string>
-	<string key="ui_event_legacy_of_crassus_title" rel_version="Event_February_Temp">Legacy of Crassus</string>
-	<string key="ui_event_legacy_of_crassus_description" rel_version="Event_February_Temp">The might of Rome threatens Aeternum! Hunt down General Crassus's monstrous captains, Decimus and Lucanus, and banish the shadow of Roman tyranny. Collect daily rewards in addition to rewards for striking down these vicious brutes in Brightwood, Weavers Fen, Mourningdale, Ebonscale Reach, and Edengrove.</string>
-	<string key="ui_event_legacy_of_crassus_about" rel_version="Event_February_Temp">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Legacy of Crassus</string>
-	<string key="ui_event_legacy_of_crassus_bullet1" rel_version="Event_February_Temp">Daily Weapons</string>
-	<string key="ui_event_legacy_of_crassus_bullet2" rel_version="Event_February_Temp">Daily Armor Pieces</string>
 	<string key="ui_event_empyrean_forge_tabname" rel_version="Expedition_GreatCleave_01">Empyrean Forge</string>
 	<string key="ui_event_empyrean_forge_title" rel_version="Expedition_GreatCleave_01">Empyrean Forge</string>
 	<string key="ui_event_empyrean_forge_description" rel_version="Expedition_GreatCleave_01">Legendary foundry where Ancients forged their devastating engines of war. Those who hunger for power yearn for the eldritch magics unleashed in these colossal ruins.</string>
@@ -343,5 +338,8 @@
 	<string key="ui_event_jan_2024_mtx_title" rel_version="Entitlements_Ronin">Ronin Part II</string>
 	<string key="ui_event_jan_2024_mtx_description" rel_version="Entitlements_Ronin">Ronin's Shadow stretches longer over the land! Visit the shop for new samurai-themed items!</string>
 	<string key="ui_event_jan_2024_mtx_about" rel_version="Entitlements_Ronin">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Ronin Part II</string>
+	<string key="ui_event_year_of_the_dragon_title" comment="DO NOT TRANSLATE" rel_version="Event_Lunar_NewYear2024_Perm">Year of the Dragon</string>
+	<string key="ui_event_year_of_the_dragon_description" comment="DO NOT TRANSLATE" rel_version="Event_Lunar_NewYear2024_Perm">Celebrate the Lunar New Year with the denizens of Ebonscale Reach. Cook up delicious food at the hot pot, take in the spectacular fireworks in the evening, and complete tribute runs to gain the Dragon's blessing during the Year of the Dragon.</string>
+	<string key="ui_event_year_of_the_dragon_about" comment="DO NOT TRANSLATE" rel_version="Event_Lunar_NewYear2024_Perm">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About the Year of the Dragon</string>
 </resources>
 
