@@ -2601,7 +2601,7 @@
 	<string key="PerkID_Artifact_Set1_VoidGauntlet_Name">Negative Energy</string>
 	<string key="PerkID_Artifact_Set1_VoidGauntlet_Desc">Your ranged attacks inflict Disintegrate for {[Type_StatusEffectData.VoidGauntlet_Disintegrate.BaseDuration]}s on both weapons ({[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_VoidGauntlet.ActivationCooldown]} cooldown). And if your dexterity attribute is higher, replace your base weapon scaling with dexterity.</string>
 	<string key="PerkID_Artifact_Set1_Blunderbuss_Name">Blighted Enchantment</string>
-	<string key="PerkID_Artifact_Set1_Blunderbuss_Desc">Attacks from both weapons against targets inflict a stack of poison and a decrease to incoming healing by {[Type_StatusEffectData.Status_Perk_Artifact_Set1_BlunderbussPerk.HealthModifierDamageBased * -100]}% and outgoing by {[Type_StatusEffectData.Status_Perk_Artifact_Set1_BlunderbussPerk.HealScalingValueMultiplier * -100]}% per stack for {[Type_StatusEffectData.Status_Perk_Artifact_Set1_BlunderbussPerk.BaseDuration]}s (Max {[Type_StatusEffectData.Status_Perk_Artifact_Set1_BlunderbussPerk.StackMax]} stacks).</string>
+	<string key="PerkID_Artifact_Set1_Blunderbuss_Desc">Attacks from both weapons against targets inflict a stack of poison and a decrease to incoming healing by {[Type_StatusEffectData.Status_Perk_Artifact_Set1_BlunderbussPerk.HealthModifierDamageBased * -100]}% and outgoing by {[Type_StatusEffectData.Status_Perk_Artifact_Set1_BlunderbussPerk.HealScalingValueMultiplier * -100]}% per stack for {[Type_StatusEffectData.Status_Perk_Artifact_Set1_BlunderbussPerk.BaseDuration]}s (Max {[Type_StatusEffectData.Status_Perk_Artifact_Set1_BlunderbussPerk.StackMax]} stacks, {[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_Blunderbuss.ActivationCooldown]}s activation cooldown).</string>
 	<string key="PerkID_Artifact_Set1_BlunderbussPerk_Name">Pest</string>
 	<string key="PerkID_Artifact_Set1_BlunderbussPerk_Desc">{[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_BlunderbussPerk.BaseDamage * 100]}% damage against poisoned and diseased targets.</string>
 	<string key="PerkID_Artifact_Set1_Greatsword_Name">Balanced Blade</string>
@@ -2642,7 +2642,7 @@
 	<string key="PerkID_Artifact_Set1_MediumLegs_SecondaryName">Well Rounded</string>
 	<string key="PerkID_Artifact_Set1_MediumLegs_Desc">+10 to all attributes.</string>
 	<string key="PerkID_Artifact_Set1_MediumFeet_Name" rel_version="Feature_Artifacts_Set2">Speedy</string>
-	<string key="PerkID_Artifact_Set1_MediumFeet_Desc" rel_version="Feature_Artifacts_Set2">Base duration of hastes on you is increase by {[Type_StatusEffectData.Status_Perk_Artifact_Set1_MediumFeetHasteDuration.EffectDurationMods_Tooltip * 100]}%.</string>
+	<string key="PerkID_Artifact_Set1_MediumFeet_Desc" rel_version="Feature_Artifacts_Set2">Base duration of hastes on you is increased by {[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_MediumFeet.StatusEffectDurationReduction * 100]}%.</string>
 	<string key="PerkID_Artifact_Set1_LightHead_Name">Brilliance</string>
 	<string key="PerkID_Artifact_Set1_LightHead_Desc">+{[AffixStatDataTable.Affix_Artifact_Set1_LightHead.MaxManaMod * 100]}% max mana.</string>
 	<string key="PerkID_Artifact_Set1_LightChest_Name">Weightless</string>

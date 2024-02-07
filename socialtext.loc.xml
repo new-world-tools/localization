@@ -565,7 +565,7 @@
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_role_dps_recommended">Blunderbuss, Bow, Fire Staff, Greataxe, Hatchet, Ice Gauntlet, Musket, Rapier, Spear, Void Gauntlet</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_role_healer_name">Healer</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_role_healer_description">Healers are responsible for keeping the party alive utilizing healing and mitigation buffs such as fortify. Healers can also be responsible for removing harmful debuffs from their allies such as bleeding or poison. Healers should invest in the Focus stat to maximize their healing effectiveness.</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_role_healer_recommended">Life Staff, Void Gauntlet</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_role_healer_recommended">Life Staff, Void Gauntlet, Flail</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_groupcreated">Lobby Created</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_groupupdated">Lobby Updated</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_groupremoved">Lobby Removed</string>
@@ -748,6 +748,8 @@
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_in_queue_tooltip">You cannot request to join a matchmaking queue because you are currently signed up for {matchname}.</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_in_role_select_tooltip">You cannot request to join a matchmaking queue because you are currently signed up for {matchname}. Group members are selecting roles.</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_war_tooltip">You cannot request to join a matchmaking queue because you are already signed up for an upcoming war that starts within the next hour.</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_at_limit">You have reached your limit for this type of activity.</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_group_at_limit">One or more of your group members have reached their limit for this type of activity.</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_premade_group_dungeon_tooltip">You cannot request to join a matchmaking queue because you are currently in queue for an Expedition or Elite Trial.</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_group_finder_lobby_tooltip">You cannot request to join a matchmaking queue while in a Lobby.</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_group_invite_tooltip">You cannot request to join a matchmaking queue because you currently have a pending invite.</string>
@@ -759,6 +761,7 @@
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_no_azoth_staff_simple">&lt;img src="LyShineUI/Images/Icons/Misc/icon_exclamation" scale="1.5" yOffset="3.5"&gt;&lt;/img&gt; &lt;font color={color}&gt; Azoth Staff Not Equipped&lt;/font&gt;</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_group_full_tooltip">You cannot request to join a matchmaking queue while your group is full.</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_ineligible_unhandled_tooltip">You cannot request to join a matchmaking queue at this time.</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_M3s_disabled_tooltip">Elite Mutations (M3) are only available for Local Groups.</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_button_cancel_queue">Leave Queue</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_button_select_role">Select Role</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_button_decline">Decline</string>
@@ -778,6 +781,7 @@
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_cancel_queue_title">Leave Queue</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_cancel_queue_expedition_desc">Are you sure you want to leave the Expedition(s) queue?</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_cancel_queue_mutation_desc">Are you sure you want to leave the Mutated Expedition(s) queue?</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_cancel_queue_enter_dungeon">You are attempting to enter this expedition with your current group. Are you sure you want to leave the matchmaking queue to enter?</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_backfilling_group">Backfilling Group</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_role_select_started_title">Joining Matchmaking Queue</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_role_select_started_info">Role Selection Required</string>
@@ -791,17 +795,18 @@
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_role_description_damage">- Deal as much damage as possible\n- Kill foes before they can overwhelm you</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_role_recommended_damage">- Blunderbuss, Bow, Fire Staff, Greataxe, Hatchet, Ice Gauntlet, Musket, Rapier, Spear, Void Gauntlet\n- Invest in skills and attributes that focus on high damage\n- Area of Effect attacks</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_role_description_healer">- Keep the party alive with healing and mitigation\n- Remove harmful debuffs from allies</string>
-	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_role_recommended_healer">- Life Staff, Void Gauntlet\n- Invest in the Focus stat</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_role_recommended_healer">- Life Staff, Void Gauntlet, Flail\n- Invest in the Focus stat</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_role_description_tank">- Absorb damage\n- Taunt enemies</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_role_recommended_tank">- Sword and Shield, Greataxe, Warhammer\n- Heavy Armor\n- Carnelian Gems\n- Crowd Control (stun, root, flatten)</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_ready_check_decline_popup_title">Confirm Decline</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_ready_check_decline_popup_message">Are you sure you want to decline the Ready Check? You or your group will be removed from the queue and will need to re-queue.</string>
-	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_exit_dungeon_desc">Are you sure you want to leave? You will be teleported outside of the Expedition and will not be able to rejoin.\n\n&lt;font color={penaltyColor}&gt;You will recieve a Deserter Penalty for leaving, preventing you from entering this Activity for a time.&lt;/font&gt;\n\nIf you wish to leave without penalty, use the Vote To Abandon option in the Group Settings.</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_exit_dungeon_desc">Are you sure you want to leave? You will be teleported outside of the Expedition and will not be able to rejoin.\n\n&lt;font color={penaltyColor}&gt;Using Leave applies a Deserter Penalty (20 minutes) if used within the first 10 minutes of the expedition.&lt;/font&gt;\n\nTo guarantee you won't receive the Deserter Penalty, use the Vote To Abandon option in the Group Settings.</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_exit_dungeon_desc_no_penalty">Are you sure you want to leave? You will be teleported outside of the Expedition and will not be able to rejoin.</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_expedition_activity_disabled">Expedition matchmaking is currently disabled. Please try again later.</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_mutation_activity_disabled">Mutated Expedition matchmaking is currently disabled. Please try again later.</string>
 	<string rel_version="Feature_PUG_Finder" key="matchmaking_dungeon_activity">Expedition(s)</string>
 	<string rel_version="Feature_PUG_Finder" key="matchmaking_mutation_activity">Mutated Expedition(s)</string>
-	<string rel_version="Feature_PUG_Finder" key="matchmaking_requirements_replacement_when_M3s_disabled">Cannot matchmake with M3s. Use ENTER WITH GROUP above.</string>
+	<string rel_version="Feature_PUG_Finder" key="matchmaking_requirements_replacement_when_M3s_disabled">Cannot matchmake with M3s. Use Enter With Group above.</string>
+	<string rel_version="Feature_PUG_Finder" key="matchmaking_queue_hud_already_accepted_match_tooltip">You are unable to leave the queue once a match invite has been accepted.</string>
 </resources>
 
