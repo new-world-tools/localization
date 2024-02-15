@@ -60,7 +60,7 @@
 	<string key="ui_territory_manage_tier_description">Upgrade to get higher tier structures.</string>
 	<string key="ui_territory_manage_tier_button">Upgrade</string>
 	<string key="ui_territory_manage_tribute">Tribute Rate.</string>
-	<string key="ui_territory_manage_tribute_description">Tax rate for harvesting resources on your territory.</string>
+	<string key="ui_territory_manage_tribute_description">Fee rate for harvesting resources on your territory.</string>
 	<string key="ui_territory_manage_tribute_button">Coming Soon</string>
 	<string key="ui_territory_settlement_upgrade_tier_1">Hamlet</string>
 	<string key="ui_territory_settlement_upgrade_tier_2">Village</string>
@@ -95,7 +95,7 @@
 	<string key="ui_projects_done_singular">Upgrade</string>
 	<string key="ui_projects_done">Upgrades</string>
 	<string key="ui_project_button_upgrade">Upgrade</string>
-	<string key="ui_start_town_project_cost">Start this town project  &lt;font color='#d7d7d7'&gt;&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{cost}&lt;/font&gt;&lt;/font&gt;&lt;img src="lyshineui/images/icon_crown" xPadding="3" yOffset="3"&gt;&lt;/img&gt;</string>
+	<string key="ui_start_town_project_cost">Start this town project  &lt;font color='#b2aea1'&gt;&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{cost}&lt;/font&gt;&lt;/font&gt;&lt;img src="lyshineui/images/icon_crown" xPadding="3" yOffset="3"&gt;&lt;/img&gt;</string>
 	<string key="ui_leaving_settlement">Leaving Settlement</string>
 	<string key="ui_leaving_settlement_recall_no_cd">Recall back at any time using the map.</string>
 	<string key="ui_leaving_settlement_recall_time">Inn available in &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{time}&lt;/font&gt;</string>
@@ -112,10 +112,10 @@
 	<string key="ui_cancel_existing_project_title">Active Town Project</string>
 	<string key="ui_cancel_existing_project_desc">There's already an active town project. Are you sure you want to start another town project? The current town project will be cancelled and lose all progress.\n Current Project \n {currentProject}, {completionPercent}% completed</string>
 	<string key="ui_town_project_started">Town project started!</string>
-	<string key="ui_project_started_info">This town project is now available for everybody in town to work on.\nCheck it out  in &lt;font color='#e1ae3f'&gt;Town Project board&lt;/font&gt; in Town Center!</string>
+	<string key="ui_project_started_info">This town project is now available for everybody in town to work on.\nCheck it out in the &lt;font color='#edc63e'&gt;Town Project board&lt;/font&gt; in Town Center!</string>
 	<string key="ui_territory_planning_board">Territory Planning Board</string>
 	<string key="ui_territory_planning_board_desc">Update Crafting and Refining stations, Turrets, and Fort gates here.</string>
-	<string key="ui_trading_tax">Trading Tax</string>
+	<string key="ui_trading_tax">Trading Fee</string>
 	<string key="ui_crafting_fee">Crafting Fee</string>
 	<string key="ui_refining_fee">Refining Fee</string>
 	<string key="ui_taxes_low">&lt;font color='#5bdeab'&gt;Low&lt;/font&gt;</string>
@@ -148,12 +148,12 @@
 	<string key="ui_successfully_paid_message">You've successfully paid upkeep for this territory</string>
 	<string key="ui_next_payment">NEXT PAYMENT</string>
 	<string key="ui_since_date">Since {date}</string>
-	<string key="ui_global_average_tax">Global Average: &lt;font color='#FFFFFF'&gt;{tax}&lt;/font&gt;</string>
-	<string key="ui_global_average_fee">Global Average: &lt;font color='#FFFFFF'&gt;{tax}&lt;/font&gt;</string>
+	<string key="ui_global_average_tax">Global Average: &lt;font color='#ebe3d6'&gt;{tax}&lt;/font&gt;</string>
+	<string key="ui_global_average_fee">Global Average: &lt;font color='#ebe3d6'&gt;{tax}&lt;/font&gt;</string>
 	<string key="ui_confirm_set_tax_title">Are you sure?</string>
-	<string key="ui_confirm_set_tax_desc">This will set a new tax or fee value, which can't be changed again until the next update period.</string>
+	<string key="ui_confirm_set_tax_desc">This will set a new fee value, which can't be changed again until the next update period.</string>
 	<string key="ui_property_tax_description">Residents of this territory should pay property upkeep every 7 days</string>
-	<string key="ui_trading_tax_description">Trades within this territory are subject to a value tax</string>
+	<string key="ui_trading_tax_description">Trades within this territory are subject to a fee</string>
 	<string key="ui_crafting_fee_description">Crafting items in this territory costs a fee per item</string>
 	<string key="ui_refining_fee_description">Refining resources in this territory costs a fee per resource</string>
 	<string key="ui_edit">Edit</string>
@@ -182,13 +182,13 @@
 	<string key="ui_encounter_upcomingrace" rel_version="Feature_Influence_V2">UPCOMING RACE</string>
 	<string key="ui_encounter_ongoingrace" rel_version="Feature_Influence_V2">ONGOING RACE</string>
 	<string key="ui_encounter_yourstatus">YOUR STATUS</string>
-	<string key="ui_encounter_statusstandby">Your status : &lt;font color='#fab445'&gt;Standby&lt;/font&gt;</string>
-	<string key="ui_encounter_statusselected">Your status : &lt;font color='#30e5ab'&gt;Selected&lt;/font&gt;</string>
+	<string key="ui_encounter_statusstandby">Your status : &lt;font color='#edc63e'&gt;Standby&lt;/font&gt;</string>
+	<string key="ui_encounter_statusselected">Your status : &lt;font color='#00ffb4'&gt;Selected&lt;/font&gt;</string>
 	<string key="ui_encounter_managebutton">Manage Army</string>
 	<string key="ui_encounter_signupbutton_war">Sign up for War</string>
-	<string key="ui_encounter_signupDesc_war">Sign up for this War at\n&lt;font color='#f1ede2'&gt;a War Board&lt;/font&gt; in this town.</string>
-	<string key="ui_encounter_signupDesc_invasion">Sign up for this Invasion at\n&lt;font color='#f1ede2'&gt;a War Board&lt;/font&gt; in this town.</string>
-	<string key="ui_encounter_signupDesc_invasion_minlevel">&lt;font color="#ff6363"&gt;Minimum level: {level}&lt;/font&gt;</string>
+	<string key="ui_encounter_signupDesc_war">Sign up for this War at\n&lt;font color='#b2aea1'&gt;a War Board&lt;/font&gt; in this town.</string>
+	<string key="ui_encounter_signupDesc_invasion">Sign up for this Invasion at\n&lt;font color='#b2aea1'&gt;a War Board&lt;/font&gt; in this town.</string>
+	<string key="ui_encounter_signupDesc_invasion_minlevel">&lt;font color="#ff7171"&gt;Minimum level: {level}&lt;/font&gt;</string>
 	<string key="ui_encounter_signup_invasion_minlevel_tooltip">You must be at least level {level} to sign up for the invasion.</string>
 	<string key="ui_encounter_signup_invasion_too_early_tooltip">Sign ups are not open yet for this invasion.</string>
 	<string key="ui_encounter_signupbutton_invasion">Sign up for Invasion</string>
@@ -211,9 +211,10 @@
 	<string key="ui_raidpermission_normal">Soldier</string>
 	<string key="ui_raidpermission_assistant">Lieutenant</string>
 	<string key="ui_raidpermission_leader">General</string>
-	<string key="ui_no_tax_permission">You do not have the proper role in the company to pay taxes.</string>
+	<string key="ui_no_tax_permission">You do not have the proper role in the company to pay territory upkeep.</string>
 	<string key="ui_project_territory_not_claimed">Territory must be claimed at the fort!</string>
 	<string key="ui_inprogress">In Progress</string>
+	<string key="ui_oncooldown">On Cooldown</string>
 	<string key="ui_fortressinfo_name">Fort {name}</string>
 	<string key="ui_fortressinfo_description">A fortress that controls {name} territory. Wars and Corrupted invasions are held here.</string>
 	<string key="ui_fortressinfo_siegewindow">Siege Window</string>
@@ -225,7 +226,7 @@
 	<string key="ui_settlementinfo_notclaimed">Settlement is unclaimed.</string>
 	<string key="ui_territoryinfo_unenterable">Unavailable</string>
 	<string key="ui_territoryinfo_unenterabledescription">No one can enter this territory.</string>
-	<string key="ui_territoryinfo_earnings">Earns up to &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#ffffff"&gt;{maxPercent}%&lt;/font&gt; of tax revenue</string>
+	<string key="ui_territoryinfo_earnings">Earns up to &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#ebe3d6"&gt;{maxPercent}%&lt;/font&gt; of fee revenue</string>
 	<string key="ui_fortressinfo_upcomingbattlelabel">Upcoming Battle Event</string>
 	<string key="ui_fortressinfo_ongoingbattlelabel">Ongoing Battle Event</string>
 	<string key="ui_fortressinfo_noupcomingbattle">No upcoming battle event.</string>
@@ -247,7 +248,7 @@
 	<string key="ui_fortressinfo_invasionattackername">The Corrupted</string>
 	<string key="ui_fortressinfo_timetodeclare">Time to Declare War:</string>
 	<string key="ui_fortressinfo_timetodeclare_paused_invasion">Paused (Invasion)</string>
-	<string key="ui_fortressinfo_conflictdescription">You will &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Medium.font"&gt;no longer earn Influence&lt;/font&gt; in this territory until the next Influence Race.\n\nIf multiple Companies that contributed influence declare war, a random one will be selected.</string>
+	<string key="ui_fortressinfo_conflictdescription">You will &lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Medium.font"&gt;no longer earn Influence&lt;/font&gt; in this territory until the next Influence Race.\n\nIf multiple Companies that contributed influence declare war, a random one will be selected.</string>
 	<string key="ui_fortressinfo_noconflict">Territory Not In Conflict</string>
 	<string key="ui_fortressinfo_contributionnotrequired">No company has contributed enough influence yet, so any company would be eligible to declare war.</string>
 	<string key="ui_fortressinfo_hascontribution">Your company HAS contributed enough influence to be eligible to declare war.</string>
@@ -256,15 +257,15 @@
 	<string key="ui_fortressinfo_upcomingwarlabel">War Starts In:</string>
 	<string key="ui_fortressinfo_ongoingwarlabel">War Active</string>
 	<string key="ui_fortressinfo_resolveingwarlabel">War Resolving</string>
-	<string key="ui_fortressinfo_atwardescription">You will &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Medium.font"&gt;no longer earn Influence&lt;/font&gt; in this territory until the next Influence Race.</string>
+	<string key="ui_fortressinfo_atwardescription">You will &lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Medium.font"&gt;no longer earn Influence&lt;/font&gt; in this territory until the next Influence Race.</string>
 	<string key="ui_township">Settlement</string>
 	<string key="ui_fortress">Fort</string>
 	<string key="ui_complete">Complete</string>
 	<string key="ui_township_header" comment="tier is the size of the township e.g. city, town, hamlet">{name} {tier}</string>
 	<string key="ui_fortress_header" comment="tier is the size of the fortress e.g. fort, batallion, etc">{tier} {name}</string>
 	<string key="ui_outpost_header">{name} Outpost</string>
-	<string key="ui_governing_company">Governed by &lt;font color='#e1ddd4'&gt;{name}&lt;/font&gt;</string>
-	<string key="ui_controlling_faction">Controlled by &lt;font color='#e1ddd4'&gt;{name}&lt;/font&gt;</string>
+	<string key="ui_governing_company">Governed by &lt;font color='#b2aea1'&gt;{name}&lt;/font&gt;</string>
+	<string key="ui_controlling_faction">Controlled by &lt;font color='#b2aea1'&gt;{name}&lt;/font&gt;</string>
 	<string key="ui_territory_ownership_benefits">Territory Incentives</string>
 	<string key="ui_how_to_run_a_town">How to run a town?</string>
 	<string key="ui_community_points">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;+ {amount}&lt;/font&gt;</string>
@@ -293,7 +294,7 @@
 	<string key="ui_project_completeallmissions">Complete All Missions</string>
 	<string key="ui_project_turningin">You are turning in</string>
 	<string key="ui_project_totalreward">Total reward</string>
-	<string key="ui_upgrade_numcompleted">&lt;font color='#f5c550'&gt;{numCompleted}&lt;/font&gt; / {total}</string>
+	<string key="ui_upgrade_numcompleted">&lt;font color='#edc63e'&gt;{numCompleted}&lt;/font&gt; / {total}</string>
 	<string key="GenericGemCutT3">Cut Brilliant Gems</string>
 	<string key="GenericGemCutT4">Cut Pristine Gems</string>
 	<string key="ui_always_available_category">Always Available Category Id &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt;</string>
@@ -439,16 +440,16 @@
 	<string key="ui_upgrade_desc_BlacksmithProjectId">Unlock additional Tier 3 crafts and an Azoth Discount.</string>
 	<string key="ui_upgrade_desc_BlacksmithProjectId2">Unlock additional Tier 4 crafts and an Azoth Discount.</string>
 	<string key="ui_upgrade_desc_BlacksmithProjectId3">Unlock additional Tier 5 crafts and an Azoth Discount.</string>
-	<string key="ui_upgrade_desc_SmeltingProjectId">Craft &lt;font color="#ffd058"&gt;Orichalcum ingots&lt;/font&gt;.</string>
-	<string key="ui_upgrade_desc_SmeltingProjectId2">Craft &lt;font color="#ffd058"&gt;Asmodeum ingots&lt;/font&gt;.</string>
-	<string key="ui_upgrade_desc_CarpentryProjectId">Craft &lt;font color="#ffd058"&gt;Ironwood planks&lt;/font&gt;.</string>
-	<string key="ui_upgrade_desc_CarpentryProjectId2">Craft &lt;font color="#ffd058"&gt;Glittering ebony&lt;/font&gt;.</string>
-	<string key="ui_upgrade_desc_MasonryProjectId">Craft &lt;font color="#ffd058"&gt;Obsidian voidstone&lt;/font&gt;.</string>
-	<string key="ui_upgrade_desc_MasonryProjectId2">Craft &lt;font color="#ffd058"&gt;Runestone&lt;/font&gt;.</string>
-	<string key="ui_upgrade_desc_WeavingProjectId">Craft &lt;font color="#ffd058"&gt;Infused Silk&lt;/font&gt;.</string>
-	<string key="ui_upgrade_desc_WeavingProjectId2">Craft &lt;font color="#ffd058"&gt;Phoenixweave&lt;/font&gt;.</string>
-	<string key="ui_upgrade_desc_TanningProjectId">Craft &lt;font color="#ffd058"&gt;Infused Leather&lt;/font&gt;.</string>
-	<string key="ui_upgrade_desc_TanningProjectId2">Craft&lt;font color="#ffd058"&gt;Runic leather&lt;/font&gt;.</string>
+	<string key="ui_upgrade_desc_SmeltingProjectId">Craft &lt;font color="#edc63e"&gt;Orichalcum ingots&lt;/font&gt;.</string>
+	<string key="ui_upgrade_desc_SmeltingProjectId2">Craft &lt;font color="#edc63e"&gt;Asmodeum ingots&lt;/font&gt;.</string>
+	<string key="ui_upgrade_desc_CarpentryProjectId">Craft &lt;font color="#edc63e"&gt;Ironwood planks&lt;/font&gt;.</string>
+	<string key="ui_upgrade_desc_CarpentryProjectId2">Craft &lt;font color="#edc63e"&gt;Glittering ebony&lt;/font&gt;.</string>
+	<string key="ui_upgrade_desc_MasonryProjectId">Craft &lt;font color="#edc63e"&gt;Obsidian voidstone&lt;/font&gt;.</string>
+	<string key="ui_upgrade_desc_MasonryProjectId2">Craft &lt;font color="#edc63e"&gt;Runestone&lt;/font&gt;.</string>
+	<string key="ui_upgrade_desc_WeavingProjectId">Craft &lt;font color="#edc63e"&gt;Infused Silk&lt;/font&gt;.</string>
+	<string key="ui_upgrade_desc_WeavingProjectId2">Craft &lt;font color="#edc63e"&gt;Phoenixweave&lt;/font&gt;.</string>
+	<string key="ui_upgrade_desc_TanningProjectId">Craft &lt;font color="#edc63e"&gt;Infused Leather&lt;/font&gt;.</string>
+	<string key="ui_upgrade_desc_TanningProjectId2">Craft&lt;font color="#edc63e"&gt;Runic leather&lt;/font&gt;.</string>
 	<string key="ui_upgrade_desc_EngineeringProjectId">Unlock additional Tier 3 crafts and an Azoth Discount.</string>
 	<string key="ui_upgrade_desc_EngineeringProjectId2">Unlock additional Tier 4 crafts and an Azoth Discount.</string>
 	<string key="ui_upgrade_desc_EngineeringProjectId3">Unlock additional Tier 5 crafts and an Azoth Discount.</string>
@@ -458,9 +459,9 @@
 	<string key="ui_upgrade_desc_AlchemistProjectId">Unlock additional Tier 3 crafts and an Azoth Discount.</string>
 	<string key="ui_upgrade_desc_AlchemistProjectId2">Unlock additional Tier 4 crafts and an Azoth Discount.</string>
 	<string key="ui_upgrade_desc_AlchemistProjectId3">Unlock additional Tier 5 crafts and an Azoth Discount.</string>
-	<string key="ui_upgrade_desc_CookingProjectId">Craft &lt;font color="#ffd058"&gt;Tier 3 meals&lt;/font&gt;.</string>
-	<string key="ui_upgrade_desc_CookingProjectId2">Craft &lt;font color="#ffd058"&gt;Tier 4 meals&lt;/font&gt;.</string>
-	<string key="ui_upgrade_desc_CookingProjectId3">Craft &lt;font color="#ffd058"&gt;Tier 5 meals&lt;/font&gt;.</string>
+	<string key="ui_upgrade_desc_CookingProjectId">Craft &lt;font color="#edc63e"&gt;Tier 3 meals&lt;/font&gt;.</string>
+	<string key="ui_upgrade_desc_CookingProjectId2">Craft &lt;font color="#edc63e"&gt;Tier 4 meals&lt;/font&gt;.</string>
+	<string key="ui_upgrade_desc_CookingProjectId3">Craft &lt;font color="#edc63e"&gt;Tier 5 meals&lt;/font&gt;.</string>
 	<string key="ui_upgrade_desc_FortGatesProjectId">Increase health of gates.</string>
 	<string key="ui_upgrade_desc_FortGatesProjectId2">Increase health of gates.</string>
 	<string key="ui_upgrade_desc_FortHardPointsProjectId">Unlocks an additional point to deploy an emplacement (Ballista, Burning Oil Vat, etc.)</string>
@@ -487,7 +488,7 @@
 	<string key="ui_project_completeat">COMPLETE AT</string>
 	<string key="ui_lifestyle">Lifestyle</string>
 	<string key="ui_project_reward">PROJECT REWARD</string>
-	<string key="ui_project_points">&lt;font color="#ffd058"&gt;{current}&lt;/font&gt; / {total}</string>
+	<string key="ui_project_points">&lt;font color="#edc63e"&gt;{current}&lt;/font&gt; / {total}</string>
 	<string key="ui_craftable_items">CRAFTABLE ITEMS</string>
 	<string key="ui_reward_BlacksmithProjectId_1">Steel Weapons</string>
 	<string key="ui_reward_BlacksmithProjectId_2">Steel Tools</string>
@@ -535,12 +536,12 @@
 	<string key="ui_territoryupkeep_overdue_point2">Company and Faction bonuses are disabled.</string>
 	<string key="ui_territoryupkeep_overdue_point3">The governing company cannot start a town project.</string>
 	<string key="ui_territoryupkeep_overdue_desc">Territory upkeep is &lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;overdue&lt;/font&gt;.\nThis territory will downgrade every 24 hours until the upkeep is paid.</string>
-	<string key="ui_territoryupkeep_overdue_noupgrade_desc">Territory upkeep is &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;overdue&lt;/font&gt;.&lt;/font&gt;\nThe governing company cannot start a town project.</string>
+	<string key="ui_territoryupkeep_overdue_noupgrade_desc">Territory upkeep is &lt;font color="#ebe3d6"&gt;&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;overdue&lt;/font&gt;.&lt;/font&gt;\nThe governing company cannot start a town project.</string>
 	<string key="ui_companypaycheck">Payrolls</string>
-	<string key="ui_companypaycheck_desc">The governing company receives income from taxes and fees.\n\n{territoryName} earns &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#ffffff"&gt;{currentPercent}%&lt;/font&gt; (maximum &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#ffffff"&gt;{maxPercent}%&lt;/font&gt;) of tax revenue.</string>
-	<string key="ui_companypaycheck_tooltip">The revenue earned by governing companies is a percentage of the total taxes paid in a world and reliant on how upgraded the territory is. As a company upgrades a territory, it will receive a higher percentage of tax revenue up to the listed maximum percentage.</string>
-	<string key="ui_taxandfee">Taxes and Fees</string>
-	<string key="ui_taxandfee_desc">The governing company can adjust rates of Taxes and Fees.</string>
+	<string key="ui_companypaycheck_desc">The governing company receives income from fees.\n\n{territoryName} earns &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#ebe3d6"&gt;{currentPercent}%&lt;/font&gt; (maximum &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#ebe3d6"&gt;{maxPercent}%&lt;/font&gt;) of tax revenue.</string>
+	<string key="ui_companypaycheck_tooltip">The revenue earned by governing companies is a percentage of the total fees paid in a world and reliant on how upgraded the territory is. As a company upgrades a territory, it will receive a higher percentage of fee revenue up to the listed maximum percentage.</string>
+	<string key="ui_taxandfee">Fees</string>
+	<string key="ui_taxandfee_desc">The governing company can adjust rates of fees.</string>
 	<string key="ui_governingCompanyOnly">Governing Company Only</string>
 	<string key="ui_easy">&lt;font color="#69a762"&gt;Easy&lt;/font&gt;</string>
 	<string key="ui_medium">&lt;font color="#e47f35"&gt;Medium&lt;/font&gt;</string>
@@ -551,15 +552,15 @@
 	<string key="ui_no_project_active">No active town project.\n&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;The governing company needs to start a new town project!&lt;/font&gt;</string>
 	<string key="ui_view_current_goal">View Current Goal</string>
 	<string key="ui_governorsdesk">Governor's Desk</string>
-	<string key="ui_governorsdesk_desc">The governing company sets the territory tax rates and pays upkeep here.</string>
-	<string key="ui_upkeep_tooltip">If the governing company doesn't pay the upkeep on time, &lt;font color="#e8a015"&gt;a random part of this territory will get downgraded&lt;/font&gt;.</string>
+	<string key="ui_governorsdesk_desc">The governing company sets the territory fee rates and pays upkeep here.</string>
+	<string key="ui_upkeep_tooltip">If the governing company doesn't pay the upkeep on time, &lt;font color="#edc63e"&gt;a random part of this territory will get downgraded&lt;/font&gt;.</string>
 	<string key="ui_payroll_title">Company Payroll</string>
-	<string key="ui_payroll_tooltip">The governing company earns coin from taxes and fees.</string>
+	<string key="ui_payroll_tooltip">The governing company earns coin from fees.</string>
 	<string key="ui_firstdayofcycle">First day of cycle</string>
 	<string key="ui_nextupkeepdue">Next Upkeep Due</string>
 	<string key="ui_overdue_penalty">OVERDUE PENALTY</string>
 	<string key="ui_town_project">Town projects</string>
-	<string key="ui_tax_management">Tax Management</string>
+	<string key="ui_tax_management">Fee Management</string>
 	<string key="ui_territorylevel">Territory Level</string>
 	<string key="ui_next_penalty">NEXT DOWNGRADE IN</string>
 	<string key="ui_town_project_expired">Town Project Expired!</string>
@@ -585,7 +586,7 @@
 	<string key="ui_upkeep_disabled">Upkeep Payment Disabled</string>
 	<string key="ui_no_territory_upgrade">A Territory with 0 upgrade doesn't require any territory upkeep.</string>
 	<string key="ui_overdue">Overdue</string>
-	<string key="ui_no_upgrade_desc">A Territory with &lt;font color="#ffffff"&gt;0 upgrade&lt;/font&gt; doesn’t require any Territory upkeep.</string>
+	<string key="ui_no_upgrade_desc">A Territory with &lt;font color="#ebe3d6"&gt;0 upgrade&lt;/font&gt; doesn’t require any Territory upkeep.</string>
 	<string key="ui_payroll_bottom_desc">Automatically deposited to the company wallet.</string>
 	<string key="ui_change">Change</string>
 	<string key="ui_until_end">Completed! Next available in</string>
@@ -598,11 +599,11 @@
 	<string key="ui_territory_standing_upgrade_description_increase_stat_no_territory">Increase &lt;font color={color}&gt;{stat}&lt;/font&gt;.</string>
 	<string key="ui_territory_standing_upgrade_description_decrease_stat">Decrease &lt;font color={color}&gt;{stat}&lt;/font&gt; in {territory}.</string>
 	<string key="ui_territory_standing_upgrade_description_own_house">You can own a house in {territory}.</string>
-	<string key="ui_territory_standing_upgrade_value">&lt;font color='#e1ddd4'&gt; ({current}&lt;/font&gt;&lt;img src="lyshineui/images/icons/misc/arrow_right" xPadding="8" scale="0.8" yOffset="-0.4"&gt;&lt;/img&gt;&lt;font color='#e1ddd4'&gt;{value})&lt;/font&gt;</string>
+	<string key="ui_territory_standing_upgrade_value">&lt;font color='#b2aea1'&gt; ({current}&lt;/font&gt;&lt;img src="lyshineui/images/icons/misc/arrow_right" xPadding="8" scale="0.8" yOffset="-0.4"&gt;&lt;/img&gt;&lt;font color='#b2aea1'&gt;{value})&lt;/font&gt;</string>
 	<string key="ui_territory_standing_upgrade_category_generic">Some Category{info}</string>
 	<string key="ui_territory_standing_upgrade_category_reputation">Faction Reputation{info}</string>
 	<string key="ui_territory_standing_upgrade_category_housepoint">House Items{info}</string>
-	<string key="ui_territory_standing_upgrade_category_trading_tax">Trading Tax{info}</string>
+	<string key="ui_territory_standing_upgrade_category_trading_tax">Trading Fee{info}</string>
 	<string key="ui_territory_standing_upgrade_category_crafting_fee">Station fee{info}</string>
 	<string key="ui_territory_standing_upgrade_category_property_tax">Property Upkeep{info}</string>
 	<string key="ui_territory_standing_upgrade_category_xp_gain">XP Gain{info}</string>
@@ -620,7 +621,7 @@
 	<string key="ui_territory_standing_upgrade_stat_faction_tokens">Faction Tokens</string>
 	<string key="ui_territory_standing_upgrade_stat_gathering_speed">Gathering speed</string>
 	<string key="ui_territory_standing_upgrade_stat_detection_distance">Detection distance</string>
-	<string key="ui_territory_standing_upgrade_stat_trading_tax">Trading tax rate</string>
+	<string key="ui_territory_standing_upgrade_stat_trading_tax">Trading Fee rate</string>
 	<string key="ui_territory_standing_upgrade_stat_crafting_fee">Crafting fee</string>
 	<string key="ui_territory_standing_upgrade_stat_property_tax">Property Upkeep</string>
 	<string key="ui_darkness_threshold_0">None</string>
@@ -638,12 +639,12 @@
 	<string key="ui_project_detail">PROJECT DETAIL</string>
 	<string key="ui_reward_FortHardPointsProjectId">+6 Emplacement Points</string>
 	<string key="ui_reward_FortHardPointsProjectId2">+8 Emplacement Points</string>
-	<string key="ui_standing_title_display">{standing} &lt;font color="#959595"&gt;in {territory}&lt;/font&gt;</string>
+	<string key="ui_standing_title_display">{standing} &lt;font color="#b2aea1"&gt;in {territory}&lt;/font&gt;</string>
 	<string key="ui_standing_title_of">{standing} in</string>
 	<string key="ui_redeem_token">Unlock Standing Bonus</string>
 	<string key="ui_require_standing_level">{territory} Standing Level {level} is needed to unlock this bonus.</string>
 	<string key="ui_territory_standing_blank">{territory}\nStanding</string>
-	<string key="ui_territory_bonus_redeemed">&lt;font color="#ffffff"&gt;{territory} :&lt;/font&gt; Territory Bonus added</string>
+	<string key="ui_territory_bonus_redeemed">&lt;font color="#ebe3d6"&gt;{territory} :&lt;/font&gt; Territory Bonus added</string>
 	<string key="ui_start_mission">Start Mission</string>
 	<string key="ui_cancel_mission">Cancel Mission</string>
 	<string key="ui_complete_mission">Complete Mission</string>
@@ -685,19 +686,19 @@
 	<string key="lifestyle_button_ChefsPassionProjectId">Chef's Passion</string>
 	<string key="lifestyle_button_EngineersPatienceProjectId">Engineer's Patience</string>
 	<string key="lifestyle_button_FishermansFortuneProjectId">Fisherman's Fortune</string>
-	<string key="lifestyle_desc_LumberJackSpiritProjectId">Increase Logging Yield by &lt;font color="#ffffff"&gt;20%&lt;/font&gt; for &lt;font color="#ffffff"&gt;3 days&lt;/font&gt;.</string>
-	<string key="lifestyle_desc_MinersResolveProjectId">Increase Mining Yield by &lt;font color="#ffffff"&gt;20%&lt;/font&gt; for &lt;font color="#ffffff"&gt;3 days&lt;/font&gt;.</string>
-	<string key="lifestyle_desc_HuntersBountyProjectId">Increase Skinning Yield by &lt;font color="#ffffff"&gt;20%&lt;/font&gt; for &lt;font color="#ffffff"&gt;3 days&lt;/font&gt;.</string>
-	<string key="lifestyle_desc_FarmersHarvestProjectId">Increase Harvesting Yield by &lt;font color="#ffffff"&gt;20%&lt;/font&gt; for &lt;font color="#ffffff"&gt;3 days&lt;/font&gt;.</string>
-	<string key="lifestyle_desc_ArcaneBlessingProjectId">Increase Corrupted damage absorption by &lt;font color="#ffffff"&gt;5%&lt;/font&gt; for &lt;font color="#ffffff"&gt;3 days&lt;/font&gt;.</string>
-	<string key="lifestyle_desc_HaleAndHeartyProjectId">Increase base HP by &lt;font color="#ffffff"&gt;10%&lt;/font&gt; for &lt;font color="#ffffff"&gt;3 days&lt;/font&gt;.</string>
-	<string key="lifestyle_desc_StalwartProjectId">Increase Defense Recovery by &lt;font color="#ffffff"&gt;20%&lt;/font&gt; for &lt;font color="#ffffff"&gt;3 days&lt;/font&gt;.</string>
-	<string key="lifestyle_desc_OutfittersInspirationProjectId">Increase base Armoring Gear Score for &lt;font color="#ffffff"&gt;3 days&lt;/font&gt;.</string>
-	<string key="lifestyle_desc_BlacksmithTemperamentProjectId">Increase base Weaponsmithing Gear Score for &lt;font color="#ffffff"&gt;3 days&lt;/font&gt;.</string>
-	<string key="lifestyle_desc_ArcaneWisdomProjectId">Increase base Arcanist Gear Score for &lt;font color="#ffffff"&gt;3 days&lt;/font&gt;.</string>
-	<string key="lifestyle_desc_ChefsPassionProjectId">Increase the chance of additional meals when Cooking for &lt;font color="#ffffff"&gt;3 days&lt;/font&gt;.</string>
-	<string key="lifestyle_desc_EngineersPatienceProjectId">Increase base Engineer Gear Score for &lt;font color="#ffffff"&gt;3 days&lt;/font&gt;.</string>
-	<string key="lifestyle_desc_FishermansFortuneProjectId">Increase Fishing Roll Chance for &lt;font color="#ffffff"&gt;3 days&lt;/font&gt;.</string>
+	<string key="lifestyle_desc_LumberJackSpiritProjectId">Increase Logging Yield by &lt;font color="#ebe3d6"&gt;20%&lt;/font&gt; for &lt;font color="#ebe3d6"&gt;3 days&lt;/font&gt;.</string>
+	<string key="lifestyle_desc_MinersResolveProjectId">Increase Mining Yield by &lt;font color="#ebe3d6"&gt;20%&lt;/font&gt; for &lt;font color="#ebe3d6"&gt;3 days&lt;/font&gt;.</string>
+	<string key="lifestyle_desc_HuntersBountyProjectId">Increase Skinning Yield by &lt;font color="#ebe3d6"&gt;20%&lt;/font&gt; for &lt;font color="#ebe3d6"&gt;3 days&lt;/font&gt;.</string>
+	<string key="lifestyle_desc_FarmersHarvestProjectId">Increase Harvesting Yield by &lt;font color="#ebe3d6"&gt;20%&lt;/font&gt; for &lt;font color="#ebe3d6"&gt;3 days&lt;/font&gt;.</string>
+	<string key="lifestyle_desc_ArcaneBlessingProjectId">Increase Corrupted damage absorption by &lt;font color="#ebe3d6"&gt;5%&lt;/font&gt; for &lt;font color="#ebe3d6"&gt;3 days&lt;/font&gt;.</string>
+	<string key="lifestyle_desc_HaleAndHeartyProjectId">Increase base HP by &lt;font color="#ebe3d6"&gt;10%&lt;/font&gt; for &lt;font color="#ebe3d6"&gt;3 days&lt;/font&gt;.</string>
+	<string key="lifestyle_desc_StalwartProjectId">Increase Defense Recovery by &lt;font color="#ebe3d6"&gt;20%&lt;/font&gt; for &lt;font color="#ebe3d6"&gt;3 days&lt;/font&gt;.</string>
+	<string key="lifestyle_desc_OutfittersInspirationProjectId">Increase base Armoring Gear Score for &lt;font color="#ebe3d6"&gt;3 days&lt;/font&gt;.</string>
+	<string key="lifestyle_desc_BlacksmithTemperamentProjectId">Increase base Weaponsmithing Gear Score for &lt;font color="#ebe3d6"&gt;3 days&lt;/font&gt;.</string>
+	<string key="lifestyle_desc_ArcaneWisdomProjectId">Increase base Arcanist Gear Score for &lt;font color="#ebe3d6"&gt;3 days&lt;/font&gt;.</string>
+	<string key="lifestyle_desc_ChefsPassionProjectId">Increase the chance of additional meals when Cooking for &lt;font color="#ebe3d6"&gt;3 days&lt;/font&gt;.</string>
+	<string key="lifestyle_desc_EngineersPatienceProjectId">Increase base Engineer Gear Score for &lt;font color="#ebe3d6"&gt;3 days&lt;/font&gt;.</string>
+	<string key="lifestyle_desc_FishermansFortuneProjectId">Increase Fishing Roll Chance for &lt;font color="#ebe3d6"&gt;3 days&lt;/font&gt;.</string>
 	<string key="ui_your_standing">Your Standing</string>
 	<string key="ui_station_tier">Tier &lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;{tier}&lt;/font&gt;</string>
 	<string key="ui_benefits">Benefits</string>
@@ -752,10 +753,10 @@
 	<string key="Edengrove_Tower_01" rel_version="Feature_Influence_V2">East Edengrove Watch</string>
 	<string key="Edengrove_Tower_02" rel_version="Feature_Influence_V2">South Edengrove Watch</string>
 	<string key="Edengrove_Tower_03" rel_version="Feature_Influence_V2">North Edengrove Watch</string>
-	<string key="generic_influence_tower_description" rel_version="Feature_Influence_V2">This Control Point is capturable during an Influence Race.\n\n&lt;img src="lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease" xPadding="0" scale="2" yOffset="4"&gt;&lt;/img&gt;&lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;+{TowerInfluenceValue}&lt;/font&gt;&lt;/font&gt; Influence every 5 seconds \n&lt;img src="lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease" xPadding="0" scale="2" yOffset="4"&gt;&lt;/img&gt;&lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;+{TowerPercentageValue}%&lt;/font&gt;&lt;/font&gt; Influence earned</string>
+	<string key="generic_influence_tower_description" rel_version="Feature_Influence_V2">This Control Point is capturable during an Influence Race.\n\n&lt;img src="lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease" xPadding="0" scale="2" yOffset="4"&gt;&lt;/img&gt;&lt;font color="#ebe3d6"&gt;&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;+{TowerInfluenceValue}&lt;/font&gt;&lt;/font&gt; Influence every 5 seconds \n&lt;img src="lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease" xPadding="0" scale="2" yOffset="4"&gt;&lt;/img&gt;&lt;font color="#ebe3d6"&gt;&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;+{TowerPercentageValue}%&lt;/font&gt;&lt;/font&gt; Influence earned</string>
 	<string key="influence_myfaction_1" rel_version="Feature_Influence_V2">MY FACTION: &lt;img src="lyshineui/images/crests/foregrounds/icon_faction_fg_1_colored_small" xPadding="0" scale="2" yOffset="15"&gt;&lt;/img&gt; &lt;font face="lyshineui/fonts/CaslonAnt.font" color="#8c37d9"&gt;Syndicate&lt;/font&gt;</string>
 	<string key="influence_myfaction_2" rel_version="Feature_Influence_V2">MY FACTION: &lt;img src="lyshineui/images/crests/foregrounds/icon_faction_fg_2_colored_small" xPadding="0" scale="2" yOffset="15"&gt;&lt;/img&gt; &lt;font face="lyshineui/fonts/CaslonAnt.font" color="#149834"&gt;Marauders&lt;/font&gt;</string>
-	<string key="influence_myfaction_3" rel_version="Feature_Influence_V2">MY FACTION: &lt;img src="lyshineui/images/crests/foregrounds/icon_faction_fg_3_colored_small" xPadding="0" scale="2" yOffset="15"&gt;&lt;/img&gt; &lt;font face="lyshineui/fonts/CaslonAnt.font" color="#ff9900"&gt;Covenant&lt;/font&gt;</string>
+	<string key="influence_myfaction_3" rel_version="Feature_Influence_V2">MY FACTION: &lt;img src="lyshineui/images/crests/foregrounds/icon_faction_fg_3_colored_small" xPadding="0" scale="2" yOffset="15"&gt;&lt;/img&gt; &lt;font face="lyshineui/fonts/CaslonAnt.font" color="#edc63e"&gt;Covenant&lt;/font&gt;</string>
 	<string key="influence_tower_ownership_title" rel_version="Feature_Influence_V2">TOWER OWNERSHIP</string>
 	<string key="influence_view_previous_influence_race" rel_version="Feature_Influence_V2">View Race Results</string>
 </resources>

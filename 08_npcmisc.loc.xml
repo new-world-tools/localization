@@ -25,10 +25,40 @@
 	<string key="0811_Stranger_t1">Handmaiden To The Prince</string>
 	<string key="0824_Innkeep_t">Innkeeper of the Three Stars</string>
 	<string key="0899_Liberator_t">Liberator of Masses</string>
+	<string key="0826_MaWeizhe" rel_version="Quest_Supplement_Ebonscale">Ma Xinyi</string>
+	<string key="0826_MaWeizhe_t" rel_version="Quest_Supplement_Ebonscale">Tiger Sympathizer</string>
+	<string key="0827_Bardroy" rel_version="Quest_Supplement_Ebonscale">Bardroy Byrne</string>
+	<string key="0827_Bardroy_t" rel_version="Quest_Supplement_Ebonscale">Wayward Father</string>
+	<string key="0828_YueLai" rel_version="Quest_Supplement_Ebonscale">Lai Yue</string>
+	<string key="0828_YueLai_t" rel_version="Quest_Supplement_Ebonscale">Curious Scholar</string>
+	<string key="0829_Enlai" rel_version="Quest_Supplement_Ebonscale">Xiang Enlai</string>
+	<string key="0829_Enlai_t" rel_version="Quest_Supplement_Ebonscale">Groom-To-Be</string>
+	<string key="0830_Posting" rel_version="Quest_Supplement_Ebonscale">Posting</string>
+	<string key="0830_Posting_t" rel_version="Quest_Supplement_Ebonscale">Wanted Posting</string>
 	<string key="0830_Override">Read</string>
 	<string key="0831_TangZhi">Wang Tangzhi</string>
 	<string key="0831_TangZhi_title">Master Weaponsmith</string>
 	<string key="0832_Alvaro">Alvaro de Villanueva</string>
 	<string key="0832_Alvaro_title">Master Artificer</string>
+	<string key="08_Yongtai" rel_version="Quest_Supplement_Ebonscale">Wu Yongtai</string>
+	<string key="08_Yongtai_t" rel_version="Quest_Supplement_Ebonscale">Silkweed Farmer</string>
+	<string key="08_Jiahao" rel_version="Quest_Supplement_Ebonscale">Wu Jiahao</string>
+	<string key="08_Jiahao_t" rel_version="Quest_Supplement_Ebonscale">Trader</string>
+	<string key="08_Zuma" rel_version="Quest_Supplement_Ebonscale">Tariq Zuma</string>
+	<string key="08_Zuma_t" rel_version="Quest_Supplement_Ebonscale">Tile Maker</string>
+	<string key="08_Gwendolyn" rel_version="Quest_Supplement_Ebonscale">Gwendolyn Balfour</string>
+	<string key="08_Gwendolyn_t" rel_version="Quest_Supplement_Ebonscale">Textile Merchant</string>
+	<string key="08_Beacher" rel_version="Quest_Supplement_Ebonscale">Beacher Ingram</string>
+	<string key="08_Beacher_t" rel_version="Quest_Supplement_Ebonscale">Acupuncture Enthusiast</string>
+	<string key="08_Muthalaly" rel_version="Quest_Supplement_Ebonscale">Santoshi Muthalaly</string>
+	<string key="08_Muthalaly_t" rel_version="Quest_Supplement_Ebonscale">The Royal Perfumer</string>
+	<string key="08_Tai" rel_version="Quest_Supplement_Ebonscale">Han Tai</string>
+	<string key="08_Tai_t" rel_version="Quest_Supplement_Ebonscale">Imperial Guard</string>
+	<string key="08_Guanyu" rel_version="Quest_Supplement_Ebonscale">Han Guanyu</string>
+	<string key="08_Guanyu_t" rel_version="Quest_Supplement_Ebonscale">Imperial Guard</string>
+	<string key="08_Rong" rel_version="Quest_Supplement_Ebonscale">Li Rong</string>
+	<string key="08_Rong_t" rel_version="Quest_Supplement_Ebonscale">Imperial Guard</string>
+	<string key="08_Na" rel_version="Quest_Supplement_Ebonscale">Wenzhi Na</string>
+	<string key="08_Na_t" rel_version="Quest_Supplement_Ebonscale">Imperial Guard</string>
 </resources>
 

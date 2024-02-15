@@ -1,2 +1,25 @@
-<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="99F_Sun" rel_version="Quest_MSQ3_Ebonscale">Sun Fuchun</string>
+	<string key="99F_Sun_title" rel_version="Quest_MSQ3_Ebonscale">Scholar of Ebonscale</string>
+	<string key="99F_Yash" rel_version="Quest_MSQ3_Ebonscale">Yash Zafar</string>
+	<string key="99F_Yash_title" rel_version="Quest_MSQ3_Ebonscale">Soulwarden</string>
+	<string key="99F_Grace" rel_version="Quest_MSQ3_Ebonscale">Grace O'Malley</string>
+	<string key="99F_Grace_title" rel_version="Quest_MSQ3_Ebonscale">Pirate</string>
+	<string key="99F_Qi" rel_version="Quest_MSQ3_Ebonscale">Qi Shen</string>
+	<string key="99F_Qi_title" rel_version="Quest_MSQ3_Ebonscale">Philosopher</string>
+	<string key="99F_Empress" rel_version="Quest_MSQ3_Ebonscale">Empress Zhou</string>
+	<string key="99F_Empress_title" rel_version="Quest_MSQ3_Ebonscale">Ruler of Ebonscale Reach</string>
+	<string key="99F_Liang" rel_version="Quest_MSQ3_Ebonscale">Zhou Liang</string>
+	<string key="99F_Liang_title" rel_version="Quest_MSQ3_Ebonscale">Son of Empress Zhou</string>
+	<string key="99F_Walker" rel_version="Quest_MSQ3_Ebonscale">Walker</string>
+	<string key="99F_Walker_title" rel_version="Quest_MSQ3_Ebonscale">Soulwarden</string>
+	<string key="99F_Wayne" rel_version="Quest_MSQ3_Ebonscale">Wayne Ballou</string>
+	<string key="99F_Wayne_title" rel_version="Quest_MSQ3_Ebonscale">Soulwarden</string>
+	<string key="99F_Constance" rel_version="Quest_MSQ3_Ebonscale">Constance Zarigueya</string>
+	<string key="99F_Constance_title" rel_version="Quest_MSQ3_Ebonscale">Soulwarden</string>
+	<string key="99F_Eliza" rel_version="Quest_MSQ3_Ebonscale">Eliza Turnbuckle</string>
+	<string key="99F_Eliza_title" rel_version="Quest_MSQ3_Ebonscale">Soulwarden</string>
+	<string key="99F_Samir" rel_version="Quest_MSQ3_Ebonscale">Samira Katari</string>
+	<string key="99F_Samir_title" rel_version="Quest_MSQ3_Ebonscale">Soulwarden</string>
+</resources>
 

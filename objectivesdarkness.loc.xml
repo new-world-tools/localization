@@ -66,7 +66,7 @@
 	<string key="objective_darkness_invasion">Invasion</string>
 	<string key="objective_darkness_invasion_description">{territoryName} Fortress</string>
 	<string key="objective_darkness_invasion_waves_title">DEFEND THE FORT</string>
-	<string key="objective_darkness_invasion_waves_desc">WAVE &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{currentWave}&lt;/font&gt;&lt;/font&gt; OF &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{totalWaves}&lt;/font&gt;</string>
+	<string key="objective_darkness_invasion_waves_desc">WAVE &lt;font color="#ebe3d6"&gt;&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{currentWave}&lt;/font&gt;&lt;/font&gt; OF &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{totalWaves}&lt;/font&gt;</string>
 	<string key="objective_darkness_invasion_waves_desc_final">FINAL WAVE</string>
 	<string key="ui_summermedley_shredlyfair" rel_version="Event_Summer2023_Perm">Concert Stage</string>
 	<string key="ui_preddieu_farm_attack" rel_version="Quest_MSQ2_Revamp">Sneed's Revenge</string>
@@ -172,7 +172,7 @@
 	<string key="ui_worldboss_defeated" rel_version="Event_February_Perm">{objective} Defeated</string>
 	<string key="ui_worldboss_daily_reset" rel_version="Event_February_Perm">Daily Reward Resets At {time}</string>
 	<string key="ui_worldboss_legacyofcrassus" rel_version="Event_Legacy_Of_Crassus2024">Legacy of Crassus</string>
-	<string key="ui_worldboss_legacyofcrassus_description" rel_version="Event_Legacy_Of_Crassus2024">The might of Rome threatens Aeternum! Hunt down Crassus's monstrous captains, Decimus and Lucanus, and banish the shadow of Roman tyranny. Collect daily rewards in addition to rewards for striking down these vicious brutes in Brightwood, Weavers Fen, Mourningdale, Ebonscale Reach, and Edengrove.\n\nContains &lt;font color="#ffe940"&gt;1&lt;/font&gt; Daily Reward. Resets at {time}</string>
+	<string key="ui_worldboss_legacyofcrassus_description" rel_version="Event_Legacy_Of_Crassus2024">The might of Rome threatens Aeternum! Hunt down Crassus's monstrous captains, Decimus and Lucanus, and banish the shadow of Roman tyranny. Collect daily rewards in addition to rewards for striking down these vicious brutes in Brightwood, Weavers Fen, Mourningdale, Ebonscale Reach, and Edengrove.\n\nContains &lt;font color="#edc63e"&gt;1&lt;/font&gt; Daily Reward. Resets at {time}</string>
 	<string key="objective_worldboss_task_legacyofcrassus_wave1_title" rel_version="Event_Legacy_Of_Crassus2024">Legacy of Crassus: Stage 1/2</string>
 	<string key="objective_worldboss_task_legacyofcrassus_wave1_desc" rel_version="Event_Legacy_Of_Crassus2024">Defeat the invaders: {remainingCount} remaining.</string>
 	<string key="objective_worldboss_task_legacyofcrassus_wave2_title" rel_version="Event_Legacy_Of_Crassus2024">Legacy of Crassus: Stage 2/2</string>
@@ -212,7 +212,7 @@
 	<string key="objective_enc_darkness_Hunt_Mammoth_Lightning_wave_01_title" rel_version="Territory_FirstLight">Defeat Mawthor, The Thundering</string>
 	<string key="objective_enc_darkness_Hunt_Mammoth_Nature_wave_01_title" rel_version="Territory_FirstLight">Defeat Mosantar, The Earth Eater</string>
 	<string key="objective_enc_darkness_Hunt_Primal_Lions_wave_01_title" rel_version="Territory_FirstLight">Defeat The Pride</string>
-	<string key="objective_enc_darkness_Hunt_Primal_Lions_wave_01_description" rel_version="Territory_FirstLight">Lure out Zirash</string>
+	<string key="objective_enc_darkness_Hunt_Primal_Lions_wave_01_description" rel_version="Territory_FirstLight">Defeat two lions to lure out Zirash</string>
 	<string key="objective_enc_darkness_Hunt_Primal_Lions_wave_02_title" rel_version="Territory_FirstLight">Defeat Zirash</string>
 	<string key="objective_enc_darkness_Hunt_Primal_Lions_wave_02_description" rel_version="Territory_FirstLight">Finish The Hunt</string>
 	<string key="objective_enc_darkness_Hunt_Razro_Lotus_wave_01_title" rel_version="Territory_FirstLight">Defeat Kudzu Shoots</string>
@@ -220,5 +220,23 @@
 	<string key="objective_enc_darkness_Hunt_Razro_Lotus_wave_02_title" rel_version="Territory_FirstLight">Defeat Kudzu</string>
 	<string key="objective_enc_darkness_Hunt_Razro_Lotus_wave_02_description" rel_version="Territory_FirstLight">Finish The Hunt</string>
 	<string key="objective_enc_darkness_Hunt_description" rel_version="Territory_FirstLight">Complete The Wild Hunt</string>
+	<string key="14AC_Edengrove_Malev3_01_Title">Shadows of Malevolence</string>
+	<string key="ui_malev03_wave_start_title">Disrupt nature's rage</string>
+	<string key="ui_malev03_wave_00_title">Disband the Dryad faithful</string>
+	<string key="ui_malev03_wave_00_desc">Faithful remaining: {remainingCount}</string>
+	<string key="ui_malev03_wave_01_title">Dispel nature's decay</string>
+	<string key="ui_malev03_wave_01_desc">Entropy</string>
+	<string key="ui_malev03_wave_02_title">Disperse nature's whim</string>
+	<string key="ui_malev03_wave_02_desc">Abiogenesis</string>
+	<string key="ui_malev03_wave_03_title">Destroy nature's wroth</string>
+	<string key="ui_malev03_wave_03_desc">Malevolence</string>
+	<string key="ui_malev03_wave_04_title">Take these riches beyond measure, and await the unending cycle of reincarnation</string>
+	<string key="ui_malev03_wave_04_desc">The angry earth will be reborn in</string>
+	<string key="99A_MSQ_03_LastSoulwarden" rel_version="Quest_MSQ2_Revamp">The Last Soulwarden</string>
+	<string key="99A_MSQ_03_LastSoulwarden_description" rel_version="Quest_MSQ2_Revamp">Seek answers about the Soulwardens' fate within the tower Arcturus.</string>
+	<string key="99A_MSQ_03_Enc_Stage_01" rel_version="Quest_MSQ2_Revamp">Silence the Echoes</string>
+	<string key="99A_MSQ_03_Enc_Stage_02" rel_version="Quest_MSQ2_Revamp">End the Torment</string>
+	<string key="99A_MSQ_03_Enc_Stage_01_description" rel_version="Quest_MSQ2_Revamp">Defeat the echoes of\nYonas' fellow Soulwardens</string>
+	<string key="99A_MSQ_03_Enc_Stage_02_description" rel_version="Quest_MSQ2_Revamp">Defeat the Torment of the Soulwardens</string>
 </resources>
 

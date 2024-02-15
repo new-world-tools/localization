@@ -41,12 +41,12 @@
 	<string key="Skin_Musket_Jan2023_Description" rel_version="Weapon_WinterDragon_Musket">On a particularly cold day, the trail of its shot may linger as a cloud, like a single thread through the silken sky.</string>
 	<string key="Skin_GreatAxe_Jan2023_MasterName" rel_version="Weapon_WinterDragon_Greataxe">Wall of Frost</string>
 	<string key="Skin_GreatAxe_Jan2023_Description" rel_version="Weapon_WinterDragon_Greataxe">"And as the enemy breached, the brothers' blasted such a flurry of snow that it formed a towering wall over the kingdom and guarded it forevermore."</string>
-	<string key="house_housingitem_entitlement_winterdragon2022_dragonpillar01_mastername" speaker="Text Updated:" comment="MTX-Pack-16-NewYears-2023" rel_version="Housing_NewYearDragon_MTX_Pack_2023">Draconic Pillar</string>
-	<string key="house_housingitem_entitlement_winterdragon2022_dragonpillar01_description" speaker="Text Updated:" comment="MTX-Pack-16-NewYears-2023" rel_version="Housing_NewYearDragon_MTX_Pack_2023">A monument to wintry leviathans, this pillar reaches towards the heavens to beckon their return.</string>
-	<string key="house_housingitem_entitlement_winterdragon2023_dragonfirescreen01_mastername" speaker="Text Updated:" comment="MTX-Pack-16-NewYears-2023" rel_version="Housing_NewYearDragon_MTX_Pack_2023">Winter Fire Screen</string>
-	<string key="house_housingitem_entitlement_winterdragon2023_dragonfirescreen01_description" speaker="Text Updated:" comment="MTX-Pack-16-NewYears-2023" rel_version="Housing_NewYearDragon_MTX_Pack_2023">When behind this screen, even the greatest inferno feels as a crisp January breeze.</string>
-	<string key="House_HousingItem_Entitlement_WinterDragon2023_Gong01_MasterName" speaker="Text Updated:" comment="MTX-Pack-16-NewYears-2023" rel_version="Housing_NewYearDragon_MTX_Pack_2023">Gong for Aid</string>
-	<string key="House_HousingItem_Entitlement_WinterDragon2023_Gong01_Description" speaker="Text Updated:" comment="MTX-Pack-16-NewYears-2023" rel_version="Housing_NewYearDragon_MTX_Pack_2023">It is said that the call of this gong once summoned dragons to fight at your side. No one knows why it stopped working.</string>
+	<string key="house_housingitem_entitlement_winterdragon2022_dragonpillar01_mastername" comment="MTX-Pack-16-NewYears-2023" speaker="Text Updated:" rel_version="Housing_NewYearDragon_MTX_Pack_2023">Draconic Pillar</string>
+	<string key="house_housingitem_entitlement_winterdragon2022_dragonpillar01_description" comment="MTX-Pack-16-NewYears-2023" speaker="Text Updated:" rel_version="Housing_NewYearDragon_MTX_Pack_2023">A monument to wintry leviathans, this pillar reaches towards the heavens to beckon their return.</string>
+	<string key="house_housingitem_entitlement_winterdragon2023_dragonfirescreen01_mastername" comment="MTX-Pack-16-NewYears-2023" speaker="Text Updated:" rel_version="Housing_NewYearDragon_MTX_Pack_2023">Winter Fire Screen</string>
+	<string key="house_housingitem_entitlement_winterdragon2023_dragonfirescreen01_description" comment="MTX-Pack-16-NewYears-2023" speaker="Text Updated:" rel_version="Housing_NewYearDragon_MTX_Pack_2023">When behind this screen, even the greatest inferno feels as a crisp January breeze.</string>
+	<string key="House_HousingItem_Entitlement_WinterDragon2023_Gong01_MasterName" comment="MTX-Pack-16-NewYears-2023" speaker="Text Updated:" rel_version="Housing_NewYearDragon_MTX_Pack_2023">Gong for Aid</string>
+	<string key="House_HousingItem_Entitlement_WinterDragon2023_Gong01_Description" comment="MTX-Pack-16-NewYears-2023" speaker="Text Updated:" rel_version="Housing_NewYearDragon_MTX_Pack_2023">It is said that the call of this gong once summoned dragons to fight at your side. No one knows why it stopped working.</string>
 	<string key="Feb2023_Container_MasterName" rel_version="Entitlements_OmensOfWinter">Winter's Farewell Package</string>
 	<string key="Feb2023_Container_Description" rel_version="Entitlements_OmensOfWinter">A bundle of gifts to welcome you to spring.</string>
 	<string key="Skin_Chest_Feb2023_OmensWinterOwl_MasterName" rel_version="Apparel_OmensWinter_1">Cailleach Owl's Plume</string>
@@ -353,7 +353,7 @@
 	<string key="Skin_Bow_FrontierWastelander_Description" rel_version="Entitlements_WastelandFrontier">Relentless as the Briar, Thorny as the Rose.</string>
 	<string key="Skin_Greatsword_FrontierWastelander_MasterName" rel_version="Entitlements_WastelandFrontier">Greatsword of the Briar Rose</string>
 	<string key="Skin_Greatsword_FrontierWastelander_Description" rel_version="Entitlements_WastelandFrontier">Enduring as the Briar, Dignified as the Rose.</string>
-	<string key="Skin_LifeStaff_FrontierWastelander_MasterName" rel_version="Entitlements_WastelandFrontier">Lifestaff of the Briar Rose</string>
+	<string key="Skin_LifeStaff_FrontierWastelander_MasterName" rel_version="Entitlements_WastelandFrontier">Life Staff of the Briar Rose</string>
 	<string key="Skin_LifeStaff_FrontierWastelander_Description" rel_version="Entitlements_WastelandFrontier">Hardy as the Briar, Benevolent as the Rose.</string>
 	<string key="Skin_IceGauntlet_FrontierWastelander_MasterName" rel_version="Entitlements_WastelandFrontier">Ice Gauntlet of the Briar Rose</string>
 	<string key="Skin_IceGauntlet_FrontierWastelander_Description" rel_version="Entitlements_WastelandFrontier">Ceaseless as the Briar, Magnificent as the Rose.</string>
@@ -881,5 +881,88 @@
 	<string key="Bundle_PR_Ronin_ShadowsReach_Desc" rel_version="Entitlements_Ronin">The reach of the shadows is boundless - do not underestimate those that walk in them.</string>
 	<string key="Bundle_PR_WinterMerc_SnowboundSavior_Desc" rel_version="Entitlements_Ronin">Whether warming hearts or piercing them with an icy blow, do it in comfort and style.</string>
 	<string key="Bundle_PR_WinterMerc_Stag-heartedWarrior_Desc" rel_version="Entitlements_Ronin">Stand fearlessly against your foes, and strike a valiant figure while doing so.</string>
+	<string key="MTX_Reaper_Void_chest_Name" rel_version="Entitlements_Reaper">Voidmaw Phantom's Cuirass</string>
+	<string key="MTX_Reaper_Void_head_Name" rel_version="Entitlements_Reaper">Voidmaw Phantom's Armet</string>
+	<string key="MTX_Reaper_Void_legs_Name" rel_version="Entitlements_Reaper">Voidmaw Phantom's Greaves</string>
+	<string key="MTX_Reaper_Void_feet_Name" rel_version="Entitlements_Reaper">Voidmaw Phantom's Sollerets</string>
+	<string key="MTX_Reaper_Void_hands_Name" rel_version="Entitlements_Reaper">Voidmaw Phantom's Gauntlets</string>
+	<string key="MTX_Reaper_Void_chest_Desc" rel_version="Entitlements_Reaper">"If you can see me, it is already too late. Your fate is sealed."</string>
+	<string key="MTX_Reaper_Void_head_Desc" rel_version="Entitlements_Reaper">"If you can see me, it is already too late. Your fate is sealed."</string>
+	<string key="MTX_Reaper_Void_legs_Desc" rel_version="Entitlements_Reaper">"If you can see me, it is already too late. Your fate is sealed."</string>
+	<string key="MTX_Reaper_Void_feet_Desc" rel_version="Entitlements_Reaper">"If you can see me, it is already too late. Your fate is sealed."</string>
+	<string key="MTX_Reaper_Void_hands_Desc" rel_version="Entitlements_Reaper">"If you can see me, it is already too late. Your fate is sealed."</string>
+	<string key="MTX_Reaper_Deluxe_chest_Name" rel_version="Entitlements_Reaper">Spectral Sovereign's Plastron</string>
+	<string key="MTX_Reaper_Deluxe_head_Name" rel_version="Entitlements_Reaper">Spectral Sovereign's Coronet</string>
+	<string key="MTX_Reaper_Deluxe_legs_Name" rel_version="Entitlements_Reaper">Spectral Sovereign's Tassets</string>
+	<string key="MTX_Reaper_Deluxe_feet_Name" rel_version="Entitlements_Reaper">Spectral Sovereign's Sabatons</string>
+	<string key="MTX_Reaper_Deluxe_hands_Name" rel_version="Entitlements_Reaper">Spectral Sovereign's Vambraces</string>
+	<string key="MTX_Reaper_Deluxe_chest_Desc" rel_version="Entitlements_Reaper">“Lord of Nothing, they call me - but nothing we were, and nothing we shall become."</string>
+	<string key="MTX_Reaper_Deluxe_head_Desc" rel_version="Entitlements_Reaper">“Lord of Nothing, they call me - but nothing we were, and nothing we shall become."</string>
+	<string key="MTX_Reaper_Deluxe_legs_Desc" rel_version="Entitlements_Reaper">“Lord of Nothing, they call me - but nothing we were, and nothing we shall become."</string>
+	<string key="MTX_Reaper_Deluxe_feet_Desc" rel_version="Entitlements_Reaper">“Lord of Nothing, they call me - but nothing we were, and nothing we shall become."</string>
+	<string key="MTX_Reaper_Deluxe_hands_Desc" rel_version="Entitlements_Reaper">“Lord of Nothing, they call me - but nothing we were, and nothing we shall become."</string>
+	<string key="PRO_Reaper_Twitch_chest_Name" rel_version="Entitlements_Reaper">Vengeful Undertaker's Drape</string>
+	<string key="PRO_Reaper_Twitch_head_Name" rel_version="Entitlements_Reaper">Vengeful Undertaker's Cowl</string>
+	<string key="PRO_Reaper_Twitch_legs_Name" rel_version="Entitlements_Reaper">Vengeful Undertaker's Poleyn</string>
+	<string key="PRO_Reaper_Twitch_feet_Name" rel_version="Entitlements_Reaper">Vengeful Undertaker's Schynbalds</string>
+	<string key="PRO_Reaper_Twitch_hands_Name" rel_version="Entitlements_Reaper">Vengeful Undertaker's Claws</string>
+	<string key="PRO_Reaper_Twitch_chest_Desc" rel_version="Entitlements_Reaper">“If it was a peaceful end you were seeking, I am afraid I have bad news."</string>
+	<string key="PRO_Reaper_Twitch_head_Desc" rel_version="Entitlements_Reaper">“If it was a peaceful end you were seeking, I am afraid I have bad news."</string>
+	<string key="PRO_Reaper_Twitch_legs_Desc" rel_version="Entitlements_Reaper">“If it was a peaceful end you were seeking, I am afraid I have bad news."</string>
+	<string key="PRO_Reaper_Twitch_feet_Desc" rel_version="Entitlements_Reaper">“If it was a peaceful end you were seeking, I am afraid I have bad news."</string>
+	<string key="PRO_Reaper_Twitch_hands_Desc" rel_version="Entitlements_Reaper">“If it was a peaceful end you were seeking, I am afraid I have bad news."</string>
+	<string key="MTX_Reaper_GreatAxe_Name" rel_version="Entitlements_Reaper">Planned Obsolescence</string>
+	<string key="MTX_Reaper_Warhammer_Name" rel_version="Entitlements_Reaper">Splintered Anguish</string>
+	<string key="MTX_Reaper_Greatsword_Name" rel_version="Entitlements_Reaper">Vicious Demise</string>
+	<string key="MTX_Reaper_Sword_Name" rel_version="Entitlements_Reaper">Wailing Annihilation</string>
+	<string key="MTX_Reaper_KiteShield_Name" rel_version="Entitlements_Reaper">Quarrelous Rivalry</string>
+	<string key="MTX_Reaper_Flail_Name" rel_version="Entitlements_Reaper">Fading Tenacity</string>
+	<string key="MTX_Reaper_GreatAxe_Desc" rel_version="Entitlements_Reaper">Strike forth, Harbinger of Extinction, and reap your reward.</string>
+	<string key="MTX_Reaper_Warhammer_Desc" rel_version="Entitlements_Reaper">Strike forth, Harbinger of Anguish, and reap your reward.</string>
+	<string key="MTX_Reaper_Greatsword_Desc" rel_version="Entitlements_Reaper">Strike forth, Harbinger of Malice, and reap your reward.</string>
+	<string key="MTX_Reaper_Sword_Desc" rel_version="Entitlements_Reaper">Strike forth, Harbinger of Despair, and reap your reward.</string>
+	<string key="MTX_Reaper_KiteShield_Desc" rel_version="Entitlements_Reaper">Strike forth, Harbinger of Strife, and reap your reward.</string>
+	<string key="MTX_Reaper_Flail_Desc" rel_version="Entitlements_Reaper">Strike forth, Harbinger of Oblivion, and reap your reward.</string>
+	<string key="Mar2024_Container_Name" rel_version="Entitlements_Reaper">Rewards Well Reaped Cache</string>
+	<string key="Mar2024_Container_Desc" rel_version="Entitlements_Reaper">Though we know victory is a reward all its own, perhaps these will guide you to yours.</string>
+	<string key="MTX_Reaper_Void_Set_Name" rel_version="Entitlements_Reaper">Mein of the Voidmaw Phantom</string>
+	<string key="MTX_Reaper_Deluxe_Set_Name" rel_version="Entitlements_Reaper">Spectral Sovereign's Visage</string>
+	<string key="PRO_Reaper_Twitch_Set_Name" rel_version="Entitlements_Reaper">Vengeful Undertaker</string>
+	<string key="MTX_Battlemage_Blindfold_Set_Name" rel_version="Entitlements_BattleMage">Steelclad Warlock's Aegis</string>
+	<string key="MTX_Battlemage_Blindfold_chest_Name" rel_version="Entitlements_BattleMage">Steelclad Warlock's Spaulder</string>
+	<string key="MTX_Battlemage_Blindfold_head_Name" rel_version="Entitlements_BattleMage">Steelclad Warlock's Visage</string>
+	<string key="MTX_Battlemage_Blindfold_legs_Name" rel_version="Entitlements_BattleMage">Steelclad Warlock's Breeches</string>
+	<string key="MTX_Battlemage_Blindfold_feet_Name" rel_version="Entitlements_BattleMage">Steelclad Warlock's Sollerets</string>
+	<string key="MTX_Battlemage_Blindfold_hands_Name" rel_version="Entitlements_BattleMage">Steelclad Warlock's Vambraces</string>
+	<string key="MTX_Battlemage_Blindfold_chest_Desc" rel_version="Entitlements_BattleMage">When thinking of arcanists, often the image of a robed and rather meek figure comes to mind. Battlemages in particular prove that generalization to be wildly inaccurate.</string>
+	<string key="MTX_Battlemage_Blindfold_head_Desc" rel_version="Entitlements_BattleMage">When thinking of arcanists, often the image of a robed and rather meek figure comes to mind. Battlemages in particular prove that generalization to be wildly inaccurate.</string>
+	<string key="MTX_Battlemage_Blindfold_legs_Desc" rel_version="Entitlements_BattleMage">When thinking of arcanists, often the image of a robed and rather meek figure comes to mind. Battlemages in particular prove that generalization to be wildly inaccurate.</string>
+	<string key="MTX_Battlemage_Blindfold_feet_Desc" rel_version="Entitlements_BattleMage">When thinking of arcanists, often the image of a robed and rather meek figure comes to mind. Battlemages in particular prove that generalization to be wildly inaccurate.</string>
+	<string key="MTX_Battlemage_Blindfold_hands_Desc" rel_version="Entitlements_BattleMage">When thinking of arcanists, often the image of a robed and rather meek figure comes to mind. Battlemages in particular prove that generalization to be wildly inaccurate.</string>
+	<string key="MTX_Battlemage_FireStaff_Name" rel_version="Entitlements_BattleMage">Fulgent Spire</string>
+	<string key="MTX_Battlemage_LifeStaff_Name" rel_version="Entitlements_BattleMage">Panacea's Exultation</string>
+	<string key="MTX_Battlemage_IceGauntlet_Name" rel_version="Entitlements_BattleMage">Scintillating Rime</string>
+	<string key="MTX_Battlemage_VoidGauntlet_Name" rel_version="Entitlements_BattleMage">Crystaline Abyss</string>
+	<string key="MTX_Battlemage_FireStaff_Desc" rel_version="Entitlements_BattleMage">The crystaline flame of this staff thrums with potential, as though longing for battle even when at rest.</string>
+	<string key="MTX_Battlemage_LifeStaff_Desc" rel_version="Entitlements_BattleMage">This particular staff seems to gleam with an inner light that promises solace for allies, and agony for foes.</string>
+	<string key="MTX_Battlemage_IceGauntlet_Desc" rel_version="Entitlements_BattleMage">The interior of the gauntlet is shockingly warm and comfortable - particularly when compared to the frigid bolts it is capable of producing when used.</string>
+	<string key="MTX_Battlemage_VoidGauntlet_Desc" rel_version="Entitlements_BattleMage">Even a cursory glance will reveal that the crystals adorning this gauntlet are more than simple decoration, as they hum with voidal resonance.</string>
+	<string key="MTX_Swashbuckler_ArmoredDuelist_Set_Name">Rakish Courtier</string>
+	<string key="MTX_Swashbuckler_ArmoredDuelist_chest_Name">Rakish Courtier's Breastplate</string>
+	<string key="MTX_Swashbuckler_ArmoredDuelist_head_Name">Rakish Courtier's Plumes</string>
+	<string key="MTX_Swashbuckler_ArmoredDuelist_legs_Name">Rakish Courtier's Genouillere</string>
+	<string key="MTX_Swashbuckler_ArmoredDuelist_feet_Name">Rakish Courtier's Sollerets</string>
+	<string key="MTX_Swashbuckler_ArmoredDuelist_hands_Name">Rakish Courtier's Vambraces</string>
+	<string key="MTX_Swashbuckler_ArmoredDuelist_chest_Desc">Though a bit rough around the edges, even nobles on the mainland show respect to the swashbucklers among them.</string>
+	<string key="MTX_Swashbuckler_ArmoredDuelist_head_Desc">Though a bit rough around the edges, even nobles on the mainland show respect to the swashbucklers among them.</string>
+	<string key="MTX_Swashbuckler_ArmoredDuelist_legs_Desc">Though a bit rough around the edges, even nobles on the mainland show respect to the swashbucklers among them.</string>
+	<string key="MTX_Swashbuckler_ArmoredDuelist_feet_Desc">Though a bit rough around the edges, even nobles on the mainland show respect to the swashbucklers among them.</string>
+	<string key="MTX_Swashbuckler_ArmoredDuelist_hands_Desc">Though a bit rough around the edges, even nobles on the mainland show respect to the swashbucklers among them.</string>
+	<string key="Apr2024_Container_Name">Battlemage's Bounty</string>
+	<string key="Apr2024_Container_Desc">Luxuries and provisions fit for battlefield and homestead alike.</string>
+	<string key="May2024_Container_Name">Lavish Daredevil's Cache</string>
+	<string key="May2024_Container_Desc">Don't ask how the pudding stays fresh in the crate. It just does.</string>
+	<string key="CampSkin_Reaper01_A_MasterName">Final Testament</string>
+	<string key="CampSkin_Reaper01_A_Description">The reaper has no hold on Aeternum - why rest, when you can rise from the ashes?</string>
 </resources>
 

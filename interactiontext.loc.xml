@@ -29,8 +29,8 @@
 	<string key="ui_nopermissionpublic">'{action}' not allowed on public structures.</string>
 	<string key="ui_nopermissionatwar">War Target</string>
 	<string key="ui_nopermissionhover">Rank {rank} Not Permitted</string>
-	<string key="ui_nopermission_warparty">&lt;font color="#ff858d"&gt;Cannot claim this territory until Resolution phase.&lt;/font&gt;</string>
-	<string key="ui_nopermission_nonwarparty">&lt;font color="#ff858d"&gt;Only war participants can claim this territory.&lt;/font&gt;</string>
+	<string key="ui_nopermission_warparty">&lt;font color="#ff7171"&gt;Cannot claim this territory until Resolution phase.&lt;/font&gt;</string>
+	<string key="ui_nopermission_nonwarparty">&lt;font color="#ff7171"&gt;Only war participants can claim this territory.&lt;/font&gt;</string>
 	<string key="ui_notallowedhover">Not Allowed</string>
 	<string key="ui_repair_notneeded">Repair - Not Needed</string>
 	<string key="ui_repair_needparts">You need parts to repair this</string>
@@ -67,7 +67,7 @@
 	<string key="ui_interact_with_item_cost">{interactionName} ({amount} {itemName})</string>
 	<string key="ui_interact_with_item_cost_sufficient">{interactionName} ({have}/{need} &lt;img src="{itemName}" xPadding="2" scale="1.25" yOffset="0.5"&gt;&lt;/img&gt;)</string>
 	<string key="ui_interact_with_item_cost_sufficient_no_qty">{interactionName} (&lt;img src="{itemName}" xPadding="2" scale="1.25" yOffset="0.5"&gt;&lt;/img&gt;)</string>
-	<string key="ui_interact_with_item_cost_insufficient">{interactionName} (&lt;font color="#f14b4b"&gt;{have}&lt;/font&gt;/{need} &lt;img src="{itemName}" xPadding="2" scale="1.25" yOffset="0.5"&gt;&lt;/img&gt;)</string>
+	<string key="ui_interact_with_item_cost_insufficient">{interactionName} (&lt;font color="#ff7171"&gt;{have}&lt;/font&gt;/{need} &lt;img src="{itemName}" xPadding="2" scale="1.25" yOffset="0.5"&gt;&lt;/img&gt;)</string>
 	<string key="ui_interact_with_item_cost_not_needed">{interactionName} - Not Needed</string>
 	<string key="ui_interactable_only_in_conquest_phase">{interactionName} - Only usable during active war</string>
 	<string key="ui_interactable_only_outside_conquest_phase">{interactionName} - Only usable when not in war</string>
@@ -89,6 +89,7 @@
 	<string key="ui_build_structure_menu">Build Structure</string>
 	<string key="ui_replace_structure_menu">Replace Structure</string>
 	<string key="ui_place_structure">Place Structure</string>
+	<string key="ui_place_new_camp">Placing new camp will unbind from existing camp</string>
 	<string key="ui_open_arena_menu">View Trial Information</string>
 	<string key="ui_notification_summoning_stone_placed">SUMMONING STONE PLACED</string>
 	<string key="ui_watcherscampfire">Watcher's Campfire</string>

@@ -119,7 +119,7 @@
 	<string key="dungeon_restlessshores01_task_restore_bridge">Restore the Ancient Bridge</string>
 	<string key="dungeon_restlessshores01_task_explore_portal">Explore the Portal</string>
 	<string key="dungeon_restlessshores01_task_survive_ambush">Survive Commander Thorpe's Ambush</string>
-	<string key="dungeon_restlessshores01_task_exit_ambush_area">Use Teleporter to Exit Ambush Area</string>
+	<string key="dungeon_restlessshores01_task_exit_ambush_area">Use Teleporter to Exit The Core</string>
 	<string key="dungeon_restlessshores01_task_search_key_chamber">Search for a key to unlock Thorpe's Chamber</string>
 	<string key="dungeon_restlessshores01_task_unlock_mechana">Unlock the Azoth Mechana</string>
 	<string key="dungeon_restlessshores01_task_unseal_gate">Unseal the Gate</string>
@@ -188,13 +188,13 @@
 	<string key="dungeon_ebonscale00_task_defeat_empress">Defeat Empress Zhou!</string>
 	<string key="dungeon_ebonscale00_task_leave_dungeon">Leave the Shipyard.</string>
 	<string key="dungeon_greatcleave00_title" rel_version="Expedition_GreatCleave_00">Glacial Tarn</string>
-	<string key="dungeon_greatcleave00_description" rel_version="Expedition_GreatCleave_00">Stop Ser Loth before he harnesses the Primoridal Power of the Forge</string>
+	<string key="dungeon_greatcleave00_description" rel_version="Expedition_GreatCleave_00">Stop Ser Loth before he harnesses the Primordial Power of the Forge.</string>
 	<string key="dungeon_greatcleave00_task_explore" rel_version="Expedition_GreatCleave_00">Pursue Ser Loth through the secret entrance</string>
 	<string key="dungeon_greatcleave00_task_flame" rel_version="Expedition_GreatCleave_00">Destroy the Ancient Guardians and wield the Empyrean Flame to Destroy the Ice Wall</string>
 	<string key="dungeon_greatcleave00_task_upper" rel_version="Expedition_GreatCleave_00">Make your way to the upper bridge</string>
 	<string key="dungeon_greatcleave00_task_ice" rel_version="Expedition_GreatCleave_00">Extend the Ancient Bridge to delve deeper into the ruins</string>
 	<string key="dungeon_greatcleave00_task_further" rel_version="Expedition_GreatCleave_00">Travel deeper into Glacial Tarn's ice caverns</string>
-	<string key="dungeon_greatcleave00_task_troll" rel_version="Expedition_GreatCleave_00">Destroy the Troll Guardian</string>
+	<string key="dungeon_greatcleave00_task_troll" rel_version="Expedition_GreatCleave_00">Defeat Snorok Ice Fist</string>
 	<string key="dungeon_greatcleave00_task_cross" rel_version="Expedition_GreatCleave_00">Continue exploring the ice caverns for a path back into the Empyrean Forge</string>
 	<string key="dungeon_greatcleave00_task_break" rel_version="Expedition_GreatCleave_00">Defeat the Ancient Guardians protecting the bridge</string>
 	<string key="dungeon_greatcleave00_task_seal" rel_version="Expedition_GreatCleave_00">Activate the Ice Seal to reconstruct the central bridge and finish the ancient elemental portal</string>
@@ -306,7 +306,7 @@
 	<string key="Quest_Apophis_required_equipment" rel_version="Territory_Brimstone_Sands">1 Azoth Staff</string>
 	<string key="ui_solo_arena_leave" rel_version="Territory_Brimstone_Sands">Leave</string>
 	<string key="ui_solo_arena_leave_desc" rel_version="Territory_Brimstone_Sands">Are you sure you want to leave Soul Trial?</string>
-	<string key="ui_solo_arena_leave_desc_time" rel_version="Territory_Brimstone_Sands">Are you sure you want to leave Soul Trial?\nYou will be unable to queue for Soul Trial again for &lt;font color="#ffdb7a"&gt;[{time}]&lt;/font&gt;.</string>
+	<string key="ui_solo_arena_leave_desc_time" rel_version="Territory_Brimstone_Sands">Are you sure you want to leave Soul Trial?\nYou will be unable to queue for Soul Trial again for &lt;font color="#edc63e"&gt;[{time}]&lt;/font&gt;.</string>
 	<string key="ui_solo_arena_leave_title" rel_version="Territory_Brimstone_Sands">Leave Soul Trial?</string>
 	<string key="ui_cannot_travel_solo_arena" rel_version="Territory_Brimstone_Sands">You cannot fast travel while in Soul Trial</string>
 	<string key="Quest_CaerDun_title" rel_version="Quest_MSQ2_Brightwood">The Curse of Caer Dun</string>
@@ -436,9 +436,15 @@
 	<string key="Quest_Yonas_description" rel_version="Quest_MSQ2_GreatCleave">Whispers entwined with corruption have found this faithful heart.</string>
 	<string key="Quest_Yonas_required_equipment" rel_version="Quest_MSQ2_GreatCleave">1 Azoth Staff</string>
 	<string key="quest_Yonas_task_leadup" rel_version="Quest_MSQ2_GreatCleave">Deal with corrupted interceptors</string>
-	<string key="quest_Yonas_task_approach" rel_version="Quest_MSQ2_GreatCleave">Approach Isabella</string>
+	<string key="quest_Yonas_task_approach" rel_version="Quest_MSQ2_GreatCleave">Confront Isabella</string>
 	<string key="quest_Yonas_task_destroy_boss" rel_version="Quest_MSQ2_GreatCleave">Defeat Yonas</string>
 	<string key="quest_Yonas_task_leave" rel_version="Quest_MSQ2_GreatCleave">Leave the cave</string>
+	<string key="Quest_Heartforge_title" rel_version="Quest_MSQ2_GreatCleave">A Guardian's Trial</string>
+	<string key="Quest_Heartforge_description" rel_version="Quest_MSQ2_GreatCleave">This guardian has stood stoically as the sole protector of a forgotten tool against corruption.</string>
+	<string key="Quest_Heartforge_required_equipment" rel_version="Quest_MSQ2_GreatCleave">1 Azoth Staff</string>
+	<string key="quest_Heartforge_task_approach" rel_version="Quest_MSQ2_GreatCleave">Confront the Heartforge Guardian</string>
+	<string key="quest_Heartforge_task_destroy_boss" rel_version="Quest_MSQ2_GreatCleave">Defeat the Heartforge Guardian</string>
+	<string key="quest_Heartforge_task_leave" rel_version="Quest_MSQ2_GreatCleave">Obtain the Heartgem and Leave</string>
 	<string key="Quest_Nihilo_title" rel_version="Quest_MSQ2_GreatCleave">Beyond the Gates</string>
 	<string key="Quest_Nihilo_description" rel_version="Quest_MSQ2_GreatCleave">It is a place of horror and beauty intertwined, where the eye betrays the mind. A realm that we cannot comprehend. Leap, and know what is truly unknowable beyond the gates.</string>
 	<string key="Quest_Nihilo_required_equipment" rel_version="Quest_MSQ2_GreatCleave">1 Azoth Staff</string>
@@ -451,8 +457,32 @@
 	<string key="trial_season_04_q06_task_approach" rel_version="Season_4_Perm">Approach Mordred</string>
 	<string key="trial_season_04_q06_task_defeat_boss" rel_version="Season_4_Perm">Defeat Mordred</string>
 	<string key="trial_season_04_q06_task_exit" rel_version="Season_4_Perm">Exit the Soul Trial</string>
+	<string key="quest_liang_title" rel_version="Quest_MSQ3_Ebonscale">The Tormented Prince</string>
+	<string key="quest_liang_description" rel_version="Quest_MSQ3_Ebonscale">Imprisoned for his own protection and the protection of others. The Prince is subdued in the depths of the Wood Shrine… with little hope of ever seeing sunlight again.</string>
+	<string key="quest_liang_task_approach" rel_version="Quest_MSQ3_Ebonscale">Approach Liang</string>
+	<string key="quest_liang_task_approach_banner_title" rel_version="Quest_MSQ3_Ebonscale">Approach Liang</string>
+	<string key="quest_liang_task_approach_banner_description" rel_version="Quest_MSQ3_Ebonscale">Investigate the tormented prince</string>
+	<string key="quest_liang_task_destroy_boss" rel_version="Quest_MSQ3_Ebonscale">Use skills or heavy attacks to immobilize Liang with talismans</string>
+	<string key="quest_liang_task_destroy_boss_banner_title" rel_version="Quest_MSQ3_Ebonscale">Immobilize Liang</string>
+	<string key="quest_liang_task_destroy_boss_banner_description" rel_version="Quest_MSQ3_Ebonscale">Apply talismans through skills or heavy attacks</string>
+	<string key="quest_liang_task_leave" rel_version="Quest_MSQ3_Ebonscale">Return to the Surface to find Liang</string>
+	<string key="quest_liang_task_leave_banner_title" rel_version="Quest_MSQ3_Ebonscale">The Soul of Liang freed</string>
+	<string key="quest_liang_task_leave_banner_description" rel_version="Quest_MSQ3_Ebonscale">Return to the Surface to find Liang</string>
+	<string key="quest_empress_zhou_title" rel_version="Quest_MSQ3_Ebonscale">A Mother's Dream</string>
+	<string key="quest_empress_zhou_description" rel_version="Quest_MSQ3_Ebonscale">A royal pier, once the launching point for new vessels. Now it is the staging ground for tragedy and a desperate attempt to breach the Stormwall.</string>
+	<string key="quest_empress_zhou_task_approach" rel_version="Quest_MSQ3_Ebonscale">Approach Empress Zhou</string>
+	<string key="quest_empress_zhou_task_defeat_boss" rel_version="Quest_MSQ3_Ebonscale">Defeat Empress Zhou</string>
+	<string key="quest_empress_zhou_task_exit" rel_version="Quest_MSQ3_Ebonscale">Exit the Soul Trial</string>
+	<string key="quest_isabella_title" rel_version="Quest_MSQ3_Shattered_V2">Tempest's Mind</string>
+	<string key="quest_isabella_description" rel_version="Quest_MSQ3_Shattered_V2">Venture within the mind cathedral of Isabella, Corruption's champion, and seek absolution of her memories, her dreams, and this shared nightmare.</string>
+	<string key="quest_isabella_solo_enter" rel_version="Quest_MSQ3_Shattered_V2">Enter the Tempest's Mind</string>
+	<string key="quest_isabella_task_approach" rel_version="Quest_MSQ3_Shattered_V2">Confront Isabella</string>
+	<string key="quest_isabella_task_defeat_boss" rel_version="Quest_MSQ3_Shattered_V2">Defeat Isabella</string>
+	<string key="quest_isabella_task_exit" rel_version="Quest_MSQ3_Shattered_V2">Wake Up</string>
 	<string key="trial_season_04_q05_title" rel_version="Season_4_Perm">The Winter Rune Forge</string>
 	<string key="trial_season_04_q05_description" rel_version="Season_4_Perm">Descend into the ancient Rune Forge and claim victory over its guardians.</string>
+	<string key="trial_season_04_title" rel_version="Season_4_Perm">The Winter Rune Forge</string>
+	<string key="trial_season_04_description" rel_version="Season_4_Perm">Descend into the ancient Rune Forge and claim victory over its guardians.</string>
 	<string key="Trial_Season_04_Objective_1" rel_version="Season_4_Perm">Align the runes to reactivate forge machination</string>
 	<string key="Trial_Season_04_Objective_2" rel_version="Season_4_Perm">Use the environment to your advantage</string>
 	<string key="Trial_Season_04_Objective_3" rel_version="Season_4_Perm">Defeat the ancient constructs</string>
@@ -480,5 +510,14 @@
 	<string key="trial_runeforge_defeat_boss_banner_title" rel_version="Season_4_Perm">Stage V</string>
 	<string key="trial_runeforge_defeat_boss_banner_description" rel_version="Season_4_Perm">Ancient Ice Guardian awakened</string>
 	<string key="trial_runeforge_leave" rel_version="Season_4_Perm">Find your way to the Winter Rune</string>
+	<string key="Quest_Gawain_title" rel_version="Quest_MSQ3_Ebonscale">Fall Of The True Heir</string>
+	<string key="Quest_Gawain_description" rel_version="Quest_MSQ3_Ebonscale">Ser Gawain, the True Heir, is Lost! Vanquish him and reclaim the Circlet of Swords.</string>
+	<string key="quest_Gawain_task_approach" rel_version="Quest_MSQ3_Ebonscale">Approach Ser Gawain</string>
+	<string key="quest_Gawain_task_destroy_boss" rel_version="Quest_MSQ3_Ebonscale">Defeat Ser Gawain</string>
+	<string key="quest_Gawain_task_destroy_idols" rel_version="Quest_MSQ3_Ebonscale">Disrupt Ser Gawain's Idols</string>
+	<string key="quest_Gawain_task_destroy_altar" rel_version="Quest_MSQ3_Ebonscale">Break Ser Gawain's Altar</string>
+	<string key="quest_Gawain_task_collect_crown" rel_version="Quest_MSQ3_Ebonscale">Collect the Circlet of Swords\nthe crown of Monarch's Bluffs</string>
+	<string key="quest_Gawain_task_leave" rel_version="Quest_MSQ3_Ebonscale">Exit the Castle</string>
+	<string key="trial_runeforgeraid_leave" rel_version="Season_4_Perm">Exit the Runeforge</string>
 </resources>
 

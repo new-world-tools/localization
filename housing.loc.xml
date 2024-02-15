@@ -118,7 +118,7 @@
 	<string key="ui_housingDecResult_TimeOut" comment="Housing Décor Result">Cannot place, time out</string>
 	<string key="ui_housingDecResult_Unknown" comment="Housing Décor Result">Unknown placement error</string>
 	<string key="ui_housingDecResult_Waiting" comment="Housing Décor Result">Cannot place, waiting</string>
-	<string key="ui_housingDecResult_HousingTaxesUnpaid" comment="Housing Décor Result">Cannot place, taxes unpaid</string>
+	<string key="ui_housingDecResult_HousingTaxesUnpaid" comment="Housing Décor Result">Cannot place, fees unpaid</string>
 	<string key="ui_housingDecResult_ServerError" comment="Housing Décor Result">Cannot perform action due to server error</string>
 	<string key="ui_active_home_point_fail" comment="Housing Errors">Failed to check in</string>
 	<string key="ui_buildmode_disabled" comment="Housing Errors">Decoration mode is under maintenance and is currently disabled</string>
@@ -131,8 +131,8 @@
 	<string key="ui_house_hud_hint" comment="Housing Hints">You are invisible to other players.</string>
 	<string key="ui_housing_grid_snap_hint" comment="Housing Hints">Grid Placement</string>
 	<string key="ui_housing_grid_snap_hint_colon" comment="Housing Hints">Grid Placement:</string>
-	<string key="ui_housing_rotate_camera_hint" comment="Housing Hints">(Hold) Rotate Camera</string>
-	<string key="ui_housing_enable_movement_hint" comment="Housing Hints">(Hold) Enable Movement</string>
+	<string key="ui_housing_rotate_camera_hint" comment="Housing Hints">Rotate</string>
+	<string key="ui_housing_enable_movement_hint" comment="Housing Hints">Enable Movement</string>
 	<string key="ui_housing_rotate_object_hint" comment="Housing Hints">Rotate Object</string>
 	<string key="ui_housing_surface_lock_hint" comment="Housing Hints">Lock To Surface</string>
 	<string key="ui_housing_surface_lock_hint_colon" comment="Housing Hints">Lock To Surface:</string>
@@ -148,23 +148,23 @@
 	<string key="ui_housing_point_tooltip" comment="Housing Score/Points">The Top 20 houses are determined every 2 days by the highest housing points, which are calculated based on the owners' gained Territory Standing and furniture placed on their property.</string>
 	<string key="ui_num_housing_points" comment="Housing Score/Points">{points} Points</string>
 	<string key="ui_cant_pay_property_tax" comment="Housing Taxes">Next Payment: {time}</string>
-	<string key="ui_decoration_mode_unpaid" comment="Housing Taxes">Taxes must be paid to decorate your home.</string>
-	<string key="ui_house_compensation_message_JAV141577" comment="Housing Taxes">Due to incorrect messaging around taxes for first time homebuyers, you have been granted {amount} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; as a homebuyer. We hope you continue to enjoy New World and your house.</string>
-	<string key="ui_house_overdue_at" comment="Housing Taxes">Property upkeep is overdue at {territoryName}. Pay the property upkeep to enable housing features.</string>
-	<string key="ui_house_overdue_desc" comment="Housing Taxes">Property upkeep is overdue. Pay the property upkeep to enable housing features.</string>
+	<string key="ui_decoration_mode_unpaid" comment="Housing Taxes">Upkeep must be paid to decorate your home.</string>
+	<string key="ui_house_compensation_message_JAV141577" comment="Housing Taxes">Due to incorrect messaging around fees for first time homebuyers, you have been granted {amount} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; as a homebuyer. We hope you continue to enjoy New World and your house.</string>
+	<string key="ui_house_overdue_at" comment="Housing Taxes">{territoryName} property upkeep is overdue. Pay to enable housing features.</string>
+	<string key="ui_house_overdue_desc" comment="Housing Taxes">Property upkeep is overdue. Pay to enable housing features.</string>
 	<string key="ui_house_overdue_label" comment="Housing Taxes">Property upkeep overdue</string>
 	<string key="ui_house_property_tax_desc" comment="Housing Taxes">{coin} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
 	<string key="ui_house_property_tax_sub_desc" comment="Housing Taxes">/ pay period is required to maintain this house.</string>
 	<string key="ui_house_tax" comment="Housing Taxes">Upkeep</string>
 	<string key="ui_house_tax_unpaid_flyout_warning" comment="Housing Taxes">House disabled due to unpaid property upkeep.</string>
 	<string key="ui_house_unpaid_taxes" comment="Housing Taxes">Overdue Amount</string>
-	<string key="ui_house_unpaid_taxes_due_soon" comment="Housing Taxes">Property upkeep due at {territoryName} in: {time}. Pay the property upkeep to continue using housing features.</string>
+	<string key="ui_house_unpaid_taxes_due_soon" comment="Housing Taxes">{territoryName} property upkeep due in: {time}. Pay to continue using housing features.</string>
 	<string key="ui_house_unpaid_taxes_string" comment="Housing Taxes">Your House (Disabled)</string>
 	<string key="ui_housing_disabled_tooltip" comment="Housing Taxes">Your house is disabled. Pay upkeep now to enable your house.</string>
 	<string key="ui_housing_pay_taxes" comment="Housing Taxes">Upkeep</string>
 	<string key="ui_pay_house_tax_fail" comment="Housing Taxes">Error paying upkeep on home, please try again.</string>
 	<string key="ui_pay_property_tax" comment="Housing Taxes">Pay Upkeep</string>
-	<string key="ui_pay_property_tax_desc" comment="Housing Taxes">Pay Property upkeep via the map or at your house.</string>
+	<string key="ui_pay_property_tax_desc" comment="Housing Taxes">Pay property upkeep via the map or at your house.</string>
 	<string key="ui_pay_property_tax_popup_desc" comment="Housing Taxes">Property upkeep must be paid in order to recall to, respawn at, and decorate your house.\nUpkeep is due {firstCycle} after you buy a house and every {otherCycle} thereafter.</string>
 	<string key="ui_property_tax" comment="Housing Taxes">Property Management</string>
 	<string key="ui_property_tax_amount_desc" comment="Housing Taxes">Recurring Property Upkeep Amount</string>
@@ -229,10 +229,10 @@
 	<string key="ui_house_purchase_error_full" comment="Purchase House">This plot is full.\nThere's no available unit for sale.</string>
 	<string key="ui_house_purchase_error_standing" comment="Purchase House">This home requires territory standing level {standingRank} in {standingName} to purchase.</string>
 	<string key="ui_house_purchase_error_territory_bonus" comment="Purchase House">Need territory housing permission bonus with {standingName}</string>
-	<string key="ui_house_purchase_error_territory_bonus_desc" comment="Purchase House">&lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#F25D5D"&gt;You don't have&lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt; House Ownership Bonus &lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#F25D5D"&gt;in this territory to purchase a house.&lt;/font&gt;\n &lt;font color="#AAAAAA"&gt;House Ownership bonus is available at&lt;/font&gt; &lt;font color="#EEEEEE"&gt; Territory standing level {standingRank}.&lt;/font&gt;</string>
+	<string key="ui_house_purchase_error_territory_bonus_desc" comment="Purchase House">You don't have House Ownership Bonus in this territory to purchase a house.\nHouse Ownership bonus is available at Territory standing level {standingRank}.</string>
 	<string key="ui_house_purchase_error_unknown" comment="Purchase House">Unknown purchasing error.</string>
-	<string key="ui_house_purchase_standing_bonus_requirement" comment="Purchase House">{standingName} House Ownership Bonus</string>
-	<string key="ui_house_purchase_standing_requirement" comment="Purchase House">{standingValue} {standingName} Standing Level</string>
+	<string key="ui_house_purchase_standing_bonus_requirement" comment="Purchase House">House Ownership Bonus</string>
+	<string key="ui_house_purchase_standing_requirement" comment="Purchase House">Standing Level {standingValue}</string>
 	<string key="ui_house_purchased" comment="Purchase House">House purchased!</string>
 	<string key="ui_house_purchased_detail" comment="Purchase House">Congratulations, you are now a homeowner in {settlementName}!\n\nPay the recurring property upkeep to keep using the housing features.</string>
 	<string key="ui_housing_purchase_house" comment="Purchase House">Purchase House</string>
@@ -244,7 +244,7 @@
 	<string key="ui_inn" comment="Settlement Inn">Inn</string>
 	<string key="ui_inn_already_checked_in" comment="Settlement Inn">Oh, It seems like you already checked into this inn!\n\nYou can recall and respawn at this settlement\nfrom anywhere in the world!</string>
 	<string key="ui_inn_check_in" comment="Settlement Inn">Check in at {territoryName} Inn.</string>
-	<string key="ui_inn_check_in_desc" comment="Settlement Inn">&lt;font color="#EBE3D6"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Welcome to {territoryName} Inn!&lt;/font&gt;&lt;/font&gt;\n\n Would you like to &lt;font color="#f3d981"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;check in&lt;/font&gt;&lt;/font&gt;?\n\nThis will allow you to recall and respawn at this settlement\nfrom anywhere in the world!</string>
+	<string key="ui_inn_check_in_desc" comment="Settlement Inn">&lt;font color="#EBE3D6"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Welcome to {territoryName} Inn!&lt;/font&gt;&lt;/font&gt;\n\n Would you like to &lt;font color="#edc63e"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;check in&lt;/font&gt;&lt;/font&gt;?\n\nThis will allow you to recall and respawn at this settlement\nfrom anywhere in the world!</string>
 	<string key="ui_inn_checked_in" comment="Settlement Inn">{territoryName} is now your new recall point.</string>
 	<string key="ui_inn_fast_travel" comment="Settlement Inn">Recall to Inn</string>
 	<string key="ui_inn_fast_travel_notavailable" comment="Settlement Inn">Can Recall In: {time}</string>
@@ -252,11 +252,11 @@
 	<string key="ui_inn_map_tooltip" comment="Settlement Inn">&lt;font color="#949494"&gt;&lt;font face="lyshineui/fonts/Nimbus_bold.font"&gt;Not Checked In&lt;/font&gt;&lt;/font&gt;\nCheck in to set a respawn and recall point.</string>
 	<string key="ui_inn_recall_from_esc_popup_confirm" comment="Settlement Inn">Would you like to recall to the inn located in {territoryName}?</string>
 	<string key="ui_inn_recall_popup_confirm" comment="Settlement Inn">Would you like to recall to this inn?</string>
-	<string key="ui_inn_replace_desc" comment="Settlement Inn">&lt;font color="#EBE3D6"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Welcome to {territoryName} Inn!&lt;/font&gt;&lt;/font&gt;\n\n Would you like to &lt;font color="#f3d981"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;check in&lt;/font&gt;&lt;/font&gt;?\nThis will allow you to recall and respawn at this settlement\nfrom anywhere in the world!\n\n&lt;font color="#f3d981"&gt;This will replace your current recall point.&lt;/font&gt;</string>
+	<string key="ui_inn_replace_desc" comment="Settlement Inn">&lt;font color="#EBE3D6"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Welcome to {territoryName} Inn!&lt;/font&gt;&lt;/font&gt;\n\n Would you like to &lt;font color="#edc63e"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;check in&lt;/font&gt;&lt;/font&gt;?\nThis will allow you to recall and respawn at this settlement\nfrom anywhere in the world!\n\n&lt;font color="#edc63e"&gt;This will replace your current recall point.&lt;/font&gt;</string>
 	<string key="ui_not_checked_in" comment="Settlement Inn">Check in at the inn to activate the recall point in this settlement.</string>
 	<string key="ui_not_checked_in_escape_menu" comment="Settlement Inn">Check in at an inn to activate a recall point.</string>
 	<string key="ui_not_checked_in_outpost" comment="Settlement Inn">Check in at the inn to activate the recall point in this outpost.</string>
-	<string key="ui_your_inn" comment="Settlement Inn">&lt;font color="#73b651"&gt;&lt;font face="lyshineui/fonts/Nimbus_bold.font"&gt;Checked in&lt;/font&gt;&lt;/font&gt;\nActive Inn. You can recall and respawn at this inn from anywhere in the world.</string>
+	<string key="ui_your_inn" comment="Settlement Inn">&lt;font color="#00ffb4"&gt;&lt;font face="lyshineui/fonts/Nimbus_bold.font"&gt;Checked in&lt;/font&gt;&lt;/font&gt;\nActive Inn. You can recall and respawn at this inn from anywhere in the world.</string>
 	<string key="ui_housing_item_storage" comment="Storage">Storage Containers</string>
 	<string key="ui_return_to_storage" comment="Storage">Return to storage</string>
 	<string key="ui_view_personalstorage" comment="Storage">Storage Shed</string>

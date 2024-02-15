@@ -13,6 +13,9 @@
 	<string key="data_season_04_name" rel_version="Season_4_Perm">Season 4: Eternal Frost</string>
 	<string key="data_season_04_display_name" rel_version="Season_4_Perm">Season 4</string>
 	<string key="data_season_04_desc" rel_version="Season_4_Perm">REPLACEME</string>
+	<string key="data_season_05_name" rel_version="Season_5_Perm">Season 5: Season of the Guardian</string>
+	<string key="data_season_05_display_name" rel_version="Season_5_Perm">Season 5</string>
+	<string key="data_season_05_desc" rel_version="Season_5_Perm">Face foes old and new in the fifth Season for New World</string>
 	<string key="seasons_rewards_categorical_progression_id" rel_version="Feature_Seasons_Rewards">Season Pass</string>
 	<string key="seasons_rewards_tab_battlepass" rel_version="Feature_Seasons_Rewards">Battle Pass</string>
 	<string key="seasons_rewards_tab_journey" rel_version="Feature_Seasons_Rewards">Journey</string>
@@ -24,8 +27,8 @@
 	<string key="seasons_rewards_tasks_label" rel_version="Feature_Seasons_Rewards">Tasks</string>
 	<string key="seasons_rewards_tasks_progress_text" rel_version="Feature_Seasons_Rewards">{value}/{count}</string>
 	<string key="seasons_rewards_chapters_label" rel_version="Feature_Seasons_Rewards">Chapters</string>
-	<string key="seasons_rewards_chapters_info_label" rel_version="Feature_Seasons_Rewards">Complete {count} Objectives from Chapter {chapter}</string>
-	<string key="seasons_rewards_chapters_claimed_info_label" rel_version="Feature_Seasons_Rewards">Complete {count} Objectives from Chapter {chapter} and Claim Chapter {prevChapter} Reward</string>
+	<string key="seasons_rewards_chapters_info_label" rel_version="Feature_Seasons_Rewards">Complete {count} Objectives from Chapter {chapter} to Claim this Reward</string>
+	<string key="seasons_rewards_chapters_claimed_info_label" rel_version="Feature_Seasons_Rewards">Complete {count} Objectives from Chapter {chapter} and Claim the Chapter {prevChapter} Reward to Claim this Reward</string>
 	<string key="seasons_rewards_challenges_info_label" rel_version="Feature_Seasons_Rewards">Complete {count} Challenges</string>
 	<string key="seasons_rewards_journey_chapter_xp_label" rel_version="Feature_Seasons_Rewards">+{xp} Season XP &lt;img src="lyshineui/images/SeasonsRewards/Icon_BXP_Tiny"&gt;&lt;/img&gt;</string>
 	<string key="seasons_rewards_claim_previous_chapter" rel_version="Feature_Seasons_Rewards">Must claim previous chapter</string>
@@ -68,7 +71,7 @@
 	<string key="ui_newcardfaileddesc" rel_version="Feature_Seasons_Rewards">Unable to process New Card transaction. Please try again later.</string>
 	<string key="ui_bxpbonus" rel_version="Feature_Seasons_Rewards">BXP: {bxp}</string>
 	<string key="ui_stamps" rel_version="Feature_Seasons_Rewards">STAMPS</string>
-	<string key="ui_stamptutorial" rel_version="Feature_Seasons_Rewards">Select any &lt;font color="#ffea00"&gt;HIGHLIGHTED SQUARE&lt;/font&gt; to &lt;font color="#ffea00"&gt;STAMP&lt;/font&gt; the Card.</string>
+	<string key="ui_stamptutorial" rel_version="Feature_Seasons_Rewards">Select any &lt;font color="#edc63e"&gt;HIGHLIGHTED SQUARE&lt;/font&gt; to &lt;font color="#edc63e"&gt;STAMP&lt;/font&gt; the Card.</string>
 	<string key="ui_stamptooltip" rel_version="Feature_Seasons_Rewards">Stamp at least {count} squares to be able to finish the current Card.</string>
 	<string key="ui_hiw_title" rel_version="Feature_Seasons_Rewards">How It Works</string>
 	<string key="ui_hiw_sect1_header" rel_version="Feature_Seasons_Rewards">Activity Card</string>
@@ -414,6 +417,8 @@
 	<string key="ui_seasons_task_description_WinWarSingle" rel_version="Season_2_Perm">Win a War</string>
 	<string key="ui_seasons_task_description_WinWar" rel_version="Season_2_Perm">Win {maxCount} Wars</string>
 	<string key="ui_seasons_task_name_PvPXP" rel_version="Season_2_Perm">Adept Adversary</string>
+	<string key="ui_seasons_task_name_PvPXP_1" rel_version="Season_5_Perm">Adept Adversary I</string>
+	<string key="ui_seasons_task_name_PvPXP_2" rel_version="Season_5_Perm">Adept Adversary II</string>
 	<string key="ui_seasons_task_description_PvPXP" rel_version="Season_2_Perm">Earn {maxCount} PvP XP</string>
 	<string key="ui_seasons_task_name_CaptureFactionControlPoints_1" rel_version="Season_2_Perm">Control Point Conquest I</string>
 	<string key="ui_seasons_task_name_CaptureFactionControlPoints_2" rel_version="Season_2_Perm">Control Point Conquest II</string>
@@ -550,6 +555,8 @@
 	<string key="ui_seasons_task_name_LevelTradeskill250" rel_version="Season_3_Perm">Master of Your Craft</string>
 	<string key="ui_seasons_task_description_LevelTradeskill" rel_version="Season_3_Perm">Level a Tradeskill to {maxCount}</string>
 	<string key="ui_seasons_task_name_CraftGS700" rel_version="Season_3_Perm">Crafter of Greatness</string>
+	<string key="ui_seasons_task_name_CraftGS700_1" rel_version="Season_5_Perm">Crafter of Greatness I</string>
+	<string key="ui_seasons_task_name_CraftGS700_2" rel_version="Season_5_Perm">Crafter of Greatness II</string>
 	<string key="ui_seasons_task_description_CraftGS700" rel_version="Season_3_Perm">Craft {maxCount} GS 700 items</string>
 	<string key="ui_seasons_task_name_MountGear" rel_version="Season_3_Perm">Attachment Accumulator</string>
 	<string key="ui_seasons_task_description_MountGear" rel_version="Season_3_Perm">Equip {maxCount} Epic Mount Attachments at once</string>
@@ -628,8 +635,12 @@
 	<string key="ui_seasons_task_name_Challenge_LootBeastChest" rel_version="Season_3_Perm">Beastly Treasure Hunter</string>
 	<string key="ui_seasons_task_description_Challenge_LootBeastChest" rel_version="Season_3_Perm">Loot {maxCount} Elite Beast Hoards.</string>
 	<string key="ui_seasons_task_name_CompleteExpedition" rel_version="Season_4_Perm">Expedition Exploration</string>
+	<string key="ui_seasons_task_name_CompleteExpedition_1" rel_version="Season_5_Perm">Expedition Exploration I</string>
+	<string key="ui_seasons_task_name_CompleteExpedition_2" rel_version="Season_5_Perm">Expedition Exploration II</string>
 	<string key="ui_seasons_task_name_CraftPotion" rel_version="Season_4_Perm">Potent Potions</string>
 	<string key="ui_seasons_task_name_KillElite" rel_version="Season_4_Perm">Elite Exorciser</string>
+	<string key="ui_seasons_task_name_KillElite_1" rel_version="Season_4_Perm">Elite Exorciser I</string>
+	<string key="ui_seasons_task_name_KillElite_2" rel_version="Season_4_Perm">Elite Exorciser II</string>
 	<string key="ui_seasons_task_name_KillNamed_1" rel_version="Season_4_Perm">Named Nemesis I</string>
 	<string key="ui_seasons_task_name_KillNamed_2" rel_version="Season_4_Perm">Named Nemesis II</string>
 	<string key="ui_seasons_task_name_KillNamed_3" rel_version="Season_4_Perm">Named Nemesis III</string>
@@ -641,6 +652,7 @@
 	<string key="ui_seasons_task_name_EaselGreatCleave" rel_version="Season_4_Perm">Art Curator</string>
 	<string key="ui_seasons_task_name_LootEliteChest_1" rel_version="Season_4_Perm">Elite Spoils I</string>
 	<string key="ui_seasons_task_name_LootEliteChest_2" rel_version="Season_4_Perm">Elite Spoils II</string>
+	<string key="ui_seasons_task_name_LootEliteChest_3" rel_version="Season_4_Perm">Elite Spoils III</string>
 	<string key="ui_seasons_task_name_GlacialTarn_1" rel_version="Season_4_Perm">Glacial Gladiator I</string>
 	<string key="ui_seasons_task_name_GlacialTarn_2" rel_version="Season_4_Perm">Glacial Gladiator II</string>
 	<string key="ui_seasons_task_name_GlacialTarn_3" rel_version="Season_4_Perm">Glacial Gladiator III</string>
@@ -650,15 +662,21 @@
 	<string key="ui_seasons_task_name_KillIceVarangian_2" rel_version="Season_4_Perm">Varangian Defroster II</string>
 	<string key="ui_seasons_task_name_CompleteHatchery" rel_version="Season_4_Perm">Hectic Hatcher</string>
 	<string key="ui_seasons_task_name_CompleteMutation" rel_version="Season_4_Perm">Mutation Maniac</string>
+	<string key="ui_seasons_task_name_CompleteMutation_1" rel_version="Season_5_Perm">Mutation Maniac I</string>
+	<string key="ui_seasons_task_name_CompleteMutation_2" rel_version="Season_5_Perm">Mutation Maniac II</string>
 	<string key="ui_seasons_task_name_CraftPrismaticScarab" rel_version="Season_4_Perm">Prismatic Professional</string>
 	<string key="ui_seasons_task_name_KillFrostAncient" rel_version="Season_4_Perm">Ancient Icebreaker</string>
 	<string key="ui_seasons_task_name_CraftGS650" rel_version="Season_4_Perm">Gear, Gizmos, &amp; Gadgets</string>
 	<string key="ui_seasons_task_name_FactionTokens" rel_version="Season_4_Perm">Faction Financier</string>
 	<string key="ui_seasons_task_name_CompleteM3Expedition" rel_version="Season_4_Perm">Maximum Mutation</string>
 	<string key="ui_seasons_task_name_KillPlayer" rel_version="Season_4_Perm">PK Professional</string>
+	<string key="ui_seasons_task_name_KillPlayer_1" rel_version="Season_5_Perm">PK Professional I</string>
+	<string key="ui_seasons_task_name_KillPlayer_2" rel_version="Season_5_Perm">PK Professional II</string>
 	<string key="ui_seasons_task_name_Kill65" rel_version="Season_4_Perm">High Level Hunter</string>
 	<string key="ui_seasons_task_name_MountRace" rel_version="Season_4_Perm">Checkered Flag</string>
 	<string key="ui_seasons_task_name_PvPRewardTrack" rel_version="Season_4_Perm">Reaping the Rewards</string>
+	<string key="ui_seasons_task_name_PvPRewardTrack_1" rel_version="Season_5_Perm">Reaping the Rewards I</string>
+	<string key="ui_seasons_task_name_PvPRewardTrack_2" rel_version="Season_5_Perm">Reaping the Rewards II</string>
 	<string key="ui_seasons_task_name_Quest_SearchRing" rel_version="Season_4_Perm">A Cold Welcome</string>
 	<string key="ui_seasons_task_name_Quest_GetDaichi" rel_version="Season_4_Perm">Daichi Saito</string>
 	<string key="ui_seasons_task_name_Quest_FightMage" rel_version="Season_4_Perm">The Mage</string>
@@ -723,13 +741,69 @@
 	<string key="ui_seasons_task_description_Challenge_LootElite" rel_version="Season_4_Perm">Loot {maxCount} Elite Chests</string>
 	<string key="ui_seasons_task_description_Challenge_KillPlayers" rel_version="Season_4_Perm">Kill {maxCount} Players in PvP</string>
 	<string key="ui_seasons_task_description_Challenge_FlawlessGlacialTarn" rel_version="Season_4_Perm">Complete Glacial Tarn Flawlessly (No Deaths) {maxCount} times</string>
+	<string key="ui_seasons_task_name_KillCorrupted" rel_version="Season_5_Perm">Bane of Corruption</string>
+	<string key="ui_seasons_task_description_KillCorrupted" rel_version="Season_5_Perm">Kill {maxCount} Corrupted Enemies</string>
+	<string key="ui_seasons_task_name_CraftArmorT3" rel_version="Season_5_Perm">Acute Armorsmith</string>
+	<string key="ui_seasons_task_description_CraftArmorT3" rel_version="Season_5_Perm">Craft {maxCount} T3+ Armor pieces</string>
+	<string key="ui_seasons_task_name_CraftWeaponT4" rel_version="Season_5_Perm">Wise Weaponsmith</string>
+	<string key="ui_seasons_task_description_CraftWeaponT4" rel_version="Season_5_Perm">Craft {maxCount} T4+ Weapons</string>
+	<string key="ui_seasons_task_name_KillShatteredMountainElite" rel_version="Season_5_Perm">Mountain Breaker</string>
+	<string key="ui_seasons_task_description_KillShatteredMountainElite" rel_version="Season_5_Perm">Kill {maxCount} Elite Enemies in Shattered Mountain</string>
+	<string key="ui_seasons_task_name_OpenCastGoldNMatter_1" rel_version="Season_5_Perm">Money Matters I</string>
+	<string key="ui_seasons_task_name_OpenCastGoldNMatter_2" rel_version="Season_5_Perm">Money Matters II</string>
+	<string key="ui_seasons_task_description_OpenCastGoldNMatterSingle" rel_version="Season_5_Perm">Craft and open a Cache of Gold-n-Matter</string>
+	<string key="ui_seasons_task_description_OpenCastGoldNMatter" rel_version="Season_5_Perm">Craft and open {maxCount} Caches of Gold-n-Matter</string>
+	<string key="ui_seasons_task_name_KillSirenQueen" rel_version="Season_5_Perm">Siren Regicide</string>
+	<string key="ui_seasons_task_description_KillSirenQueen" rel_version="Season_5_Perm">Defeat the Siren Queen at the Spire of Melpomene</string>
+	<string key="ui_seasons_task_name_GainAptitudeAny" rel_version="Season_5_Perm">Aptitude Addict</string>
+	<string key="ui_seasons_task_description_GainAptitudeAny" rel_version="Season_5_Perm">Gain {maxCount} Tradeskill Aptitude Levels</string>
+	<string key="ui_seasons_task_name_CraftWardT5" rel_version="Season_5_Perm">Wielder of Wards</string>
+	<string key="ui_seasons_task_description_CraftWardT5" rel_version="Season_5_Perm">Craft {maxCount} T5 Ward Potions</string>
+	<string key="ui_seasons_task_name_KillFlamekeeperIceGauntlet" rel_version="Season_5_Perm">Flame Extinguisher</string>
+	<string key="ui_seasons_task_description_KillFlamekeeperIceGauntlet" rel_version="Season_5_Perm">Kill Hadish Azar, Keeper of the Flame in the Hatchery Trial using an Ice Gauntlet</string>
+	<string key="ui_seasons_task_name_CompleteRuneforge_1" rel_version="Season_5_Perm">The Winter Rune Forge I</string>
+	<string key="ui_seasons_task_name_CompleteRuneforge_2" rel_version="Season_5_Perm">The Winter Rune Forge II</string>
+	<string key="ui_seasons_task_description_CompleteRuneforgeSingle" rel_version="Season_5_Perm">Complete the Winter Rune Forge Trial</string>
+	<string key="ui_seasons_task_description_CompleteRuneforge" rel_version="Season_5_Perm">Complete the Winter Rune Forge Trial {maxCount} times</string>
+	<string key="ui_seasons_task_name_EquipS5Artifact" rel_version="Season_5_Perm">Artifact Appreciator</string>
+	<string key="ui_seasons_task_description_EquipS5Artifact" rel_version="Season_5_Perm">Equip one of the 8 new Artifacts</string>
+	<string key="ui_seasons_task_name_KillRuneforgeBossGreatAxe" rel_version="Season_5_Perm">Ice Cleaver</string>
+	<string key="ui_seasons_task_description_KillRuneforgeBossGreatAxe" rel_version="Season_5_Perm">Kill the Ice Guardian in the Winter rune Forge Trial with a Great Axe</string>
+	<string key="ui_seasons_task_name_CompleteSandwormTrial_1" rel_version="Season_5_Perm">The Trial of the Devourer I</string>
+	<string key="ui_seasons_task_name_CompleteSandwormTrial_2" rel_version="Season_5_Perm">The Trial of the Devourer II</string>
+	<string key="ui_seasons_task_description_CompleteSandwormTrialSingle" rel_version="Season_5_Perm">Complete the Trial of the Devourer</string>
+	<string key="ui_seasons_task_description_CompleteSandwormTrial" rel_version="Season_5_Perm">Complete the Trial of the Devourer {maxCount} times</string>
+	<string key="ui_seasons_task_name_AnyTrial" rel_version="Season_5_Perm">Trials and Tribulations</string>
+	<string key="ui_seasons_task_description_AnyTrial" rel_version="Season_5_Perm">Complete any Trial {maxCount} times</string>
+	<string key="ui_seasons_task_name_KillSandwormMagicWeapon" rel_version="Season_5_Perm">Devourer's Demise</string>
+	<string key="ui_seasons_task_description_KillSandwormMagicWeapon" rel_version="Season_5_Perm">Kill Shah Neshen the Devourer in the Trial of the Devourer using a Magic weapon</string>
+	<string key="ui_seasons_task_name_Challenge_CompleteRuneforge" rel_version="Season_5_Perm">Rune Forgemaster</string>
+	<string key="ui_seasons_task_description_Challenge_CompleteRuneforge" rel_version="Season_5_Perm">Complete the Winter Rune Forge Trial {maxCount} times</string>
+	<string key="ui_seasons_task_name_Challenge_AnyTrial" rel_version="Season_5_Perm">Trial Conquerer</string>
+	<string key="ui_seasons_task_description_Challenge_AnyTrial" rel_version="Season_5_Perm">Complete any Trial {maxCount} times</string>
+	<string key="ui_seasons_task_name_Challenge_S5Completionist" rel_version="Season_5_Perm">Guardian Completionist</string>
+	<string key="ui_seasons_task_description_Challenge_S5Completionist" rel_version="Season_5_Perm">Complete all of this Season's Journey Tasks</string>
+	<string key="ui_seasons_task_name_Challenge_CraftingAptitude" rel_version="Season_5_Perm">Consummate Crafter</string>
+	<string key="ui_seasons_task_description_Challenge_CraftingAptitude" rel_version="Season_5_Perm">Gain {maxCount} Aptitude levels in Crafting Tradeskills</string>
+	<string key="ui_seasons_task_name_Challenge_PrismaticScarab" rel_version="Season_5_Perm">Prismatic Artisan</string>
+	<string key="ui_seasons_task_description_Challenge_PrismaticScarab" rel_version="Season_5_Perm">Craft {maxCount} items using a Prismatic Scarb</string>
+	<string key="ui_seasons_task_name_Challenge_DamageOrHealTrial" rel_version="Season_5_Perm">Champion of the Forge</string>
+	<string key="ui_seasons_task_description_Challenge_DamageOrHealTrial" rel_version="Season_5_Perm">Deal or Heal {maxCount} damage in the Winter Rune Forge Trial</string>
+	<string key="ui_seasons_task_name_Challenge_InfluenceTower" rel_version="Season_5_Perm">Tower Terror</string>
+	<string key="ui_seasons_task_description_Challenge_InfluenceTower" rel_version="Season_5_Perm">Capture {maxCount} Influence Towers</string>
+	<string key="ui_seasons_task_name_Challenge_PvPRewardTrack" rel_version="Season_5_Perm">Accomplished Slayer</string>
+	<string key="ui_seasons_task_description_Challenge_PvPRewardTrack" rel_version="Season_5_Perm">Complete {maxCount} PvP Reward Tracks</string>
+	<string key="ui_seasons_task_name_Challenge_HiddenShrines" rel_version="Season_5_Perm">Soulwarden Trials</string>
+	<string key="ui_seasons_task_description_Challenge_HiddenShrines" rel_version="Season_5_Perm">Raise a Soulwarden banner near each of the 6 Trial entrances</string>
+	<string key="ui_seasons_task_name_Challenge_KillElite60" rel_version="Season_5_Perm">Elite Exterminator</string>
+	<string key="ui_seasons_task_description_Challenge_KillElite60" rel_version="Season_5_Perm">Kill {maxCount} Elite level 60+ Enemies</string>
 	<string key="ui_seasons_wild_stamp_count" rel_version="Feature_Seasons_Rewards">&lt;img src="LyShineUI/Images/SeasonsRewards/Wild-Stamp-Icon-Small" scale="2" yOffset="7"&gt;&lt;/img&gt; Wild Stamps: {count}</string>
 	<string key="ui_seasons_wild_stamp_count_and_max" rel_version="Feature_Seasons_Rewards">&lt;img src="LyShineUI/Images/SeasonsRewards/Wild-Stamp-Icon-Small" scale="2" yOffset="7"&gt;&lt;/img&gt; Wild Stamps: {count}/{max}</string>
 	<string key="ui_seasons_wild_stamp_awarded_header" rel_version="Feature_Seasons_Rewards">Wild Stamp Bonus</string>
 	<string key="ui_seasons_wild_stamp_awarded" rel_version="Feature_Seasons_Rewards">You have earned a free stamp!\n\nYou may have up to {max} Wild Stamps at any time.</string>
 	<string key="ui_seasons_wild_stamp_awarded_nolimit" rel_version="Feature_Seasons_Rewards">You have earned a free stamp!\n\nThere is no limit to the number of Wild Stamps you may collect.</string>
 	<string key="ui_seasons_wild_stamp_award_pending" rel_version="Feature_Seasons_Rewards">You have reached your Wild Stamp Limit!\n\nUse a Wild Stamp and re-log to claim today's free Wild Stamp!</string>
-	<string key="ui_seasons_wild_stamp_tooltip" rel_version="Feature_Seasons_Rewards">Select any &lt;font color="#ffea00"&gt;OPEN SQUARE&lt;/font&gt; to &lt;font color="#ffea00"&gt;STAMP&lt;/font&gt; the Card.</string>
+	<string key="ui_seasons_wild_stamp_tooltip" rel_version="Feature_Seasons_Rewards">Select any &lt;font color="#edc63e"&gt;OPEN SQUARE&lt;/font&gt; to &lt;font color="#edc63e"&gt;STAMP&lt;/font&gt; the Card.</string>
 	<string key="ui_CWI_reroll_disabled_tooltip" rel_version="Season_2_Perm">Rerolling is disabled while in Cross World Instances.</string>
 	<string key="ui_CWI_claiming_disabled_title" rel_version="Season_2_Perm">Claiming Disabled</string>
 	<string key="ui_CWI_claiming_items_disabled_desc" rel_version="Season_2_Perm">Item claiming is disabled in Cross World Instances and only available from your Home World.</string>
@@ -757,6 +831,9 @@
 	<string key="SeasonsActivities_CompleteGlacialTarn" rel_version="Feature_Seasons_Rewards">Complete a run of Glacial Tarn</string>
 	<string key="SeasonsActivities_KillIceVarangian" rel_version="Season_4_Perm">Kill Frostbound Varangians</string>
 	<string key="SeasonsActivities_KillFrostAncient" rel_version="Season_4_Perm">Kill Ancient Elementals</string>
+	<string key="SeasonsActivities_CompleteRuneforge" rel_version="Season_5_Perm">Complete the Winter Rune Forge Trial</string>
+	<string key="SeasonsActivities_KillVoidGauntlet" rel_version="Season_5_Perm">Get Kills with the Void Gauntlet</string>
+	<string key="SeasonsActivities_PvPRewardTrack" rel_version="Season_5_Perm">Complete a level on the PvP Reward Track</string>
 	<string key="ui_seasons_task_placeholder_name" rel_version="Feature_Seasons_Rewards">PLACEHOLDER</string>
 	<string key="ui_seasons_task_placeholder_desc" rel_version="Feature_Seasons_Rewards">PLACEHOLDER</string>
 </resources>

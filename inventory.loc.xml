@@ -68,25 +68,29 @@
 	<string key="inv_equipLoadSlow">Heavy</string>
 	<string key="inv_equipLoadOverburdened">Over-Equipped</string>
 	<string key="inv_equipLoadTooltip">The combined weight of your equipped armor and shield determines your equip load. Each equip load offers a unique dodge and other effects.</string>
-	<string key="inv_equipLoadFastTooltip">• Base Damage: +{[Type_EncumbranceData.Player.EquipLoadDamageMultFast * 100]}%
+	<string key="inv_equipLoadFastTooltip">• Base Damage: +{[0.150000 * 100]}%
 	\n• Outgoing Healing: +30%
+	\n• Block Stability: -15%
+	\n• Incoming Crowd Control Duration: +10%
 	\n• Your dodge is a quick roll. 
-	\n• Dodge Stamina Cost: {[StaminaCosts_Player.Dodge_Roll_Fast.StaminaCost]}
-	\n• For {[StatusEffects_Common.Sprint_Delay_Combat_Timer_Light.BaseDuration]}s after taking a melee hit, dodge distance is reduced by 20% and you cannot run.
-	\n• PvP Crit Damage Taken: -{[GlobalAbilityTable.EquipLoad_CritDmgReduction_Light.CritDamageReduction * 100]}%	</string>
-	<string key="inv_equipLoadNormalTooltip">• Base Damage: +{[Type_EncumbranceData.Player.EquipLoadDamageMultNormal * 100]}% 
-	\n• Incoming Crowd Control Duration: -10%
-	\n• Your dodge is a quick hop.
-	\n• Dodge Stamina Cost: {[StaminaCosts_Player.Dodge_Roll.StaminaCost]}
-	\n• For {[StatusEffects_Common.Sprint_Delay_Combat_Timer_Medium.BaseDuration]}s after taking a melee hit, dodge distance is reduced by 20% and you cannot run.
-	\n• PvP Crit Damage Taken: -{[GlobalAbilityTable.EquipLoad_CritDmgReduction_Medium.CritDamageReduction * 100]}%</string>
-	<string key="inv_equipLoadSlowTooltip">• Block Stability: +15%
-	\n• Incoming Crowd Control Duration: -20%
+	\n• Dodge Stamina Cost: {[50.000000]}
+	\n• For {[1.000000]}s after taking a melee hit, dodge distance is reduced by 20% and you cannot run.
+	\n• [PvP] Crit Damage Taken: -{[0.150000 * 100]}%	
+	</string>
+	<string key="inv_equipLoadNormalTooltip">• Your dodge is a quick hop.
+	\n• Dodge Stamina Cost: {[50.000000]}
+	\n• For {[0.750000]}s after taking a melee hit, dodge distance is reduced by 20% and you cannot run.
+	\n• [PvP] Crit Damage Taken: -{[0.200000 * 100]}%
+	</string>
+	<string key="inv_equipLoadSlowTooltip">• Base Damage: -{[-0.150000 * -100]}% 
 	\n• Outgoing Healing: -30%
+	\n• Block Stability: +15%
+	\n• Incoming Crowd Control Duration: -20%
 	\n• Your dodge is a directional step. 
-	\n• Dodge Stamina Cost: {[StaminaCosts_Player.Dodge_Roll_Slow.StaminaCost]}
-	\n• For {[StatusEffects_Common.Sprint_Delay_Combat_Timer_Heavy.BaseDuration]}s after taking a melee hit, you cannot run.
-	\n• PvP Crit Damage Taken: -{[GlobalAbilityTable.EquipLoad_CritDmgReduction_Heavy.CritDamageReduction * 100]}%</string>
+	\n• Dodge Stamina Cost: {[55.000000]}
+	\n• For {[0.500000]}s after taking a melee hit, you cannot run.
+	\n• [PvP] Crit Damage Taken: -{[0.250000 * 100]}%
+	</string>
 	<string key="inv_equipLoadOverburdenedTooltip">When you exceed your maximum Equip Load, you cannot dodge, run, or use abilities. You should unequip some items.</string>
 	<string key="inv_equipLoadEncumberedTooltip">If the inventory weight limit is exceeded, you are encumbered, which restricts your movement and actions. You also lose more stamina while blocking.</string>
 	<string key="inv_equipLoadOverburdened_Tooltip" comment="This tooltip is for the status effect icon near vitals">You have equipped more than your maximum equip load. You cannot dodge or run, and you suffer a significant penalty to stamina recharge rate. You should unequip some items.</string>
@@ -107,16 +111,16 @@
 	<string key="inv_repairparts_quantity">{count} Repair Parts</string>
 	<string key="inv_repairparts_tooltip_name">REPAIR PARTS</string>
 	<string key="ui_repairparts">Repair Parts</string>
-	<string key="inv_repairparts_tooltip_description">Repair Parts are a unique resource used to repair items.\n\nRepair Parts cannot be traded, sold, or purchased. To receive more, salvage weapon and armor items you no longer need.\n\n&lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#aaaaaa"&gt;Source:&lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#ebe3d6"&gt; Weapons, Armor&lt;/font&gt;</string>
+	<string key="inv_repairparts_tooltip_description">Repair Parts are a unique resource used to repair items.\n\nRepair Parts cannot be traded, sold, or purchased. To receive more, salvage weapon and armor items you no longer need.\n\n&lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#b2aea1"&gt;Source:&lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#ebe3d6"&gt; Weapons, Armor&lt;/font&gt;</string>
 	<string key="inv_repairparts_tooltip_drivedfrom">Weapons and Armor</string>
 	<string key="inv_azoth_tooltip_drivedfrom">Corruption Breaches, Quests</string>
-	<string key="inv_repairparts_nearlimit">&lt;font color="#f25d5d"&gt;You are almost at your Repair Parts limit.&lt;/font&gt;</string>
-	<string key="inv_repairparts_atlimit">&lt;font color="#f25d5d"&gt;You are at your Repair Parts limit.&lt;/font&gt;</string>
+	<string key="inv_repairparts_nearlimit">&lt;font color="#ff7171"&gt;You are almost at your Repair Parts limit.&lt;/font&gt;</string>
+	<string key="inv_repairparts_atlimit">&lt;font color="#ff7171"&gt;You are at your Repair Parts limit.&lt;/font&gt;</string>
 	<string key="inv_repairparts_resources_nearlimit">Salvaging this item will return {min}-{max} {itemName} and {numRepairParts} Repair Parts.</string>
-	<string key="inv_repairparts_resources_atlimit">Salvaging this item will return {min}-{max} {itemName} and &lt;font color="#f25d5d"&gt;{numRepairParts} Repair Parts.&lt;/font&gt;</string>
+	<string key="inv_repairparts_resources_atlimit">Salvaging this item will return {min}-{max} {itemName} and &lt;font color="#ff7171"&gt;{numRepairParts} Repair Parts.&lt;/font&gt;</string>
 	<string key="inv_repairparts_onlyrepairparts">Salvaging this item will return {numRepairParts} Repair Parts.</string>
 	<string key="inv_repairparts_onlyrepairparts_withcoin">Salvaging this item will return {numRepairParts} Repair Parts and {coinAmount}.</string>
-	<string key="inv_coin_atlimit">&lt;font color="#f25d5d"&gt;You are at your Coin Cap.&lt;/font&gt;</string>
+	<string key="inv_coin_atlimit">&lt;font color="#ff7171"&gt;You are at your Coin Cap.&lt;/font&gt;</string>
 	<string key="inv_notification_cannot_use_during_combat">Cannot use consumables from Inventory while in combat! Equip to Quickslots instead.</string>
 	<string key="salvage_notification_obtained_1">Obtained {entry1}</string>
 	<string key="salvage_notification_obtained_2">Obtained {entry1} and {entry2}</string>
@@ -207,7 +211,7 @@
 	<string key="ui_Constitution_short">CON</string>
 	<string key="ui_loot_bag_1_item">1 item</string>
 	<string key="ui_loot_bag_items">{amount} items</string>
-	<string key="tutorial_salvage_items">Salvage your weapons, armor, and tools for &lt;font color="#ffea00"&gt;Repair parts&lt;/font&gt;.</string>
+	<string key="tutorial_salvage_items">Salvage your weapons, armor, and tools for &lt;font color="#edc63e"&gt;Repair parts&lt;/font&gt;.</string>
 	<string key="tooltip_weapon_damage_with_pellets">{damage}x{pellets}</string>
 	<string key="inv_TargetDeathDoorNotification">Target is in Death's Door</string>
 	<string key="inv_TargetDeadNotification">Target is Dead</string>
@@ -223,6 +227,8 @@
 	<string key="loadout_removefrom_command" rel_version="Feature_Gear_Set_Storage">Remove From Gear Set</string>
 	<string key="loadout_removefromall_command" rel_version="Feature_Gear_Set_Storage">Remove From All Gear Sets</string>
 	<string key="loadout_store_callout" rel_version="Feature_Gear_Set_Storage">Unlock Additional Gear Sets</string>
+	<string key="loadout_toggle_show_hint" rel_version="Feature_Gear_Set_Storage">Show Gear Sets</string>
+	<string key="loadout_toggle_hide_hint" rel_version="Feature_Gear_Set_Storage">Hide Gear Sets</string>
 	<string key="loadout_store_button" rel_version="Feature_Gear_Set_Storage">Open Store</string>
 	<string key="loadout_import_current" rel_version="Feature_Gear_Set_Storage">Import equipped items</string>
 	<string key="loadout_unequipall_tooltip" rel_version="Feature_Gear_Set_Storage">Remove all items</string>

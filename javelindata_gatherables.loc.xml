@@ -437,7 +437,7 @@
 	<string key="SurvivalistQuest_AlphaLure_1203_0201_Placed_interact">Reeking Snaggletooth Musk</string>
 	<string key="06_Grave">Grave</string>
 	<string key="0808_CorruptedScroll">Corrupted Scroll</string>
-	<string key="0802_Airshrine">Collect Air Statuette</string>
+	<string key="0802_Airshrine">Collect Metal Statuette</string>
 	<string key="0802_Watershrine">Collect Water Statuette</string>
 	<string key="0802_Earthshrine">Collect Earth Statuette</string>
 	<string key="0802_Fireshrine">Collect Fire Statuette</string>
@@ -1286,6 +1286,7 @@
 	<string key="09A_WhisperPlant_ScalefangEnclave_DisplayName" rel_version="Territory_FirstLight">Examine Murmuring Root</string>
 	<string key="09A_WhisperPlant_LightsCrown_DisplayName" rel_version="Territory_FirstLight">Examine Murmuring Root</string>
 	<string key="09A_WhisperPlant_ElafryPyrgo_DisplayName" rel_version="Territory_FirstLight">Examine Murmuring Root</string>
+	<string key="10A_M2_Chair_DisplayName">Listen to Grimm's Tale</string>
 	<string key="99E_MSQ_01_ExamineMural_DisplayName" rel_version="Quest_MSQ2_Edengrove">Examine Mural</string>
 	<string key="99E_MSQ_01_RotateTumbler_DisplayName" rel_version="Quest_MSQ2_Edengrove">Rotate Tumbler</string>
 	<string key="99E_MSQ_01_MuralVines_DisplayName" rel_version="Quest_MSQ2_Edengrove">Cut the Overgrowth</string>
@@ -1386,16 +1387,67 @@
 	<string key="Gorilla_Boss_Rift_Lightning_DisplayName" rel_version="Territory_FirstLight">Lightning Glyph</string>
 	<string key="14AC_Motherwell_FastTravel_DisplayName" rel_version="Quest_MSQ2_Edengrove">Travel through the Blighted Passage</string>
 	<string key="03_SQ_03_GraveDigger" rel_version="Quest_MSQ2_GreatCleave">Dig up Hotspur's Map</string>
+	<string key="99F_MSQ_01_Free_Samir" rel_version="Quest_MSQ3_Ebonscale">Help Samir</string>
+	<string key="99F_MSQ_01_Free_Wayne" rel_version="Quest_MSQ3_Ebonscale">Help Wayne</string>
+	<string key="99F_MSQ_01_Flag_Piece_01" rel_version="Quest_MSQ3_Ebonscale">Collect Soulwarden Flag Pieces</string>
+	<string key="99F_MSQ_01_Flag_Piece_02" rel_version="Quest_MSQ3_Ebonscale">Collect Soulwarden Flag Scraps</string>
+	<string key="99F_MSQ_02_Puzzle1" rel_version="Quest_MSQ3_Ebonscale">Strike the Gong</string>
+	<string key="99F_MSQ_02_Puzzle2" rel_version="Quest_MSQ3_Ebonscale">Strike the Gong</string>
+	<string key="99F_MSQ_02_Puzzle3" rel_version="Quest_MSQ3_Ebonscale">Strike the Gong</string>
+	<string key="99F_MSQ_02_Meditate" rel_version="Quest_MSQ3_Ebonscale">Meditate with Qi Shen</string>
+	<string key="99F_MSQ_03_Supply_Bundle" rel_version="Quest_MSQ3_Ebonscale">Gather Supply Bundle</string>
+	<string key="99F_MSQ_03_Weapons_Crate" rel_version="Quest_MSQ3_Ebonscale">Gather Weapons Crate</string>
+	<string key="99F_MSQ_03_Cover1" rel_version="Quest_MSQ3_Ebonscale">Place Cover</string>
+	<string key="99F_MSQ_03_Cover2" rel_version="Quest_MSQ3_Ebonscale">Place Cover</string>
+	<string key="99F_MSQ_04_CollectThread" rel_version="Quest_MSQ3_Ebonscale">Gather Thread</string>
+	<string key="99F_MSQ_04_PlaceFlag" rel_version="Quest_MSQ3_Ebonscale">Plant the Soulwarden Banner</string>
+	<string key="99F_MSQ_05_Tea_Leaf_Bush" rel_version="Quest_MSQ3_Ebonscale">Pick Green Tea Leaves</string>
+	<string key="99F_MSQ_06_Incense1" rel_version="Quest_MSQ3_Ebonscale">Light the Royal Incense</string>
+	<string key="99F_MSQ_06_Incense2" rel_version="Quest_MSQ3_Ebonscale">Light the Royal Incense</string>
+	<string key="99F_MSQ_06_Incense3" rel_version="Quest_MSQ3_Ebonscale">Light the Royal Incense</string>
+	<string key="99F_MSQ_06_RingBell" rel_version="Quest_MSQ3_Ebonscale">Ring the Celestial Bell</string>
+	<string key="99F_MSQ_07_EmpressPoetry" rel_version="Quest_MSQ3_Ebonscale">Read the Book of Poetry</string>
+	<string key="99F_MSQ_07_CollectMetalPlant" rel_version="Quest_MSQ3_Ebonscale">Harvest Dragon's Claw</string>
+	<string key="99F_MSQ_07_CollectFirePlant" rel_version="Quest_MSQ3_Ebonscale">Harvest Hungry Ghost Lantern</string>
+	<string key="99F_MSQ_07_CollectWaterPlant" rel_version="Quest_MSQ3_Ebonscale">Harvest Aqueous Bloom</string>
+	<string key="99F_MSQ_07_CollectEarthPlant" rel_version="Quest_MSQ3_Ebonscale">Harvest Penumbra Fungus</string>
+	<string key="99F_MSQ_08_Incense" rel_version="Quest_MSQ3_Ebonscale">Light the Soulsever Incense</string>
+	<string key="99F_MSQ_08_Liang_Soul_Separation" rel_version="Quest_MSQ3_Ebonscale">Extract Liang's Soul</string>
+	<string key="99F_MSQ_09_Liang_Wood_Carving_Kit" rel_version="Quest_MSQ3_Ebonscale">Collect Liang's Lost Toys</string>
+	<string key="99F_MSQ_10_CommandSeal01" rel_version="Quest_MSQ3_Ebonscale">Take Seal of Command</string>
+	<string key="99F_MSQ_10_CommandSeal02" rel_version="Quest_MSQ3_Ebonscale">Take Seal of Command</string>
+	<string key="99F_MSQ_10_CommandSeal03" rel_version="Quest_MSQ3_Ebonscale">Take Seal of Command</string>
+	<string key="99F_MSQ_12_EmpressPoem" rel_version="Quest_MSQ3_Ebonscale">Pick up Scroll Case</string>
 	<string key="09FL_HornholdExit" rel_version="Territory_FirstLight">Return to Outpost</string>
 	<string key="09FL_BypassHornhold" rel_version="Territory_FirstLight">Return to Taurus</string>
 	<string key="09FL_HornOfVictory" rel_version="Territory_FirstLight">Horn of Victory</string>
-	<string key="LNY_tribute_table_01_displayname" rel_version="Event_Lunar_NewYear_Temp">Place Century Wine</string>
-	<string key="LNY_tribute_table_02_displayname" rel_version="Event_Lunar_NewYear_Temp">Place Jade Green Tea</string>
-	<string key="LNY_tribute_table_03_displayname" rel_version="Event_Lunar_NewYear_Temp">Place Ancient Scroll</string>
-	<string key="LNY_tribute_table_04_displayname" rel_version="Event_Lunar_NewYear_Temp">Place Blooming Fish</string>
-	<string key="LNY_Tribute_Heirloom_01_DisplayName" rel_version="Event_Lunar_NewYear_Temp">Retrieve Century Wine</string>
-	<string key="LNY_Tribute_Heirloom_02_DisplayName" rel_version="Event_Lunar_NewYear_Temp">Retrieve Jade Green Tea</string>
-	<string key="LNY_Tribute_Heirloom_03_DisplayName" rel_version="Event_Lunar_NewYear_Temp">Retrieve Ancient Scroll</string>
+	<string key="99G_MSQ_SM_FreePrisoner_Door" rel_version="Quest_MSQ3_Shattered">Open the Prison Door</string>
+	<string key="99G_MSQ_SM_FreePrisoner_Tracks_01" rel_version="Quest_MSQ3_Shattered">Follow Muddy Tracks</string>
+	<string key="99G_MSQ_SM_FreePrisoner_Tracks_02" rel_version="Quest_MSQ3_Shattered">Follow Muddy Tracks</string>
+	<string key="99G_MSQ_SM_FreePrisoner_Tracks_03" rel_version="Quest_MSQ3_Shattered">Follow Muddy Tracks</string>
+	<string key="99G_MSQ_SM_FreePrisoner_Journal" rel_version="Quest_MSQ3_Shattered">Read Father Russo's Journal</string>
+	<string key="99G_MSQ_SM_GatherRelics_Brooch" rel_version="Quest_MSQ3_Shattered">Collect Isabella's Brooch</string>
+	<string key="99G_MSQ_SM_GatherRelics_Cup" rel_version="Quest_MSQ3_Shattered">Collect Isabella's Chalice</string>
+	<string key="99G_MSQ_SM_GatherRelics_CaptainsLog" rel_version="Quest_MSQ3_Shattered">Collect Isabella's Logbook</string>
+	<string key="99G_MSQ_SM_AttackMentally_Meditate" rel_version="Quest_MSQ3_Shattered">Focus Your Mind</string>
+	<string key="99G_MSQ_SM_AttackMentally_BroochAltar" rel_version="Quest_MSQ3_Shattered">Touch the Brooch</string>
+	<string key="99G_MSQ_SM_AttackMentally_CupAltar" rel_version="Quest_MSQ3_Shattered">Touch the Chalice</string>
+	<string key="99G_MSQ_SM_AttackMentally_LogAltar" rel_version="Quest_MSQ3_Shattered">Touch the Logbook</string>
+	<string key="99G_MSQ_SM_HealAlly_Lichen" rel_version="Quest_MSQ3_Shattered">Collect Amber Lichen</string>
+	<string key="99G_MSQ_SM_HealAlly_Teleport" rel_version="Quest_MSQ3_Shattered">Use the Portal</string>
+	<string key="99G_MSQ_SM_HealAlly_Moss" rel_version="Quest_MSQ3_Shattered">Collect Cloud Moss</string>
+	<string key="99G_MSQ_SM_HealAlly_Pheromones" rel_version="Quest_MSQ3_Shattered">Plant Peacemaker Pheromones</string>
+	<string key="99G_MSQ_SM_ReconnectHive_Fungus" rel_version="Quest_MSQ3_Shattered">Collect Blighted Fungus</string>
+	<string key="99G_MSQ_SM_ReconnectHive_Spores" rel_version="Quest_MSQ3_Shattered">Plant Spore Sac</string>
+	<string key="99G_MSQ_SM_ActivateCrystals_Crystals" rel_version="Quest_MSQ3_Shattered">Place Augmentation Crystals</string>
+	<string key="99G_MSQ_SM_PlantBombs_Pus" rel_version="Quest_MSQ3_Shattered">Plant Smoke Bomb</string>
+	<string key="99G_MSQ_SM_PlantBombs_Bombs" rel_version="Quest_MSQ3_Shattered">Plant Smoke Bomb</string>
+	<string key="99G_MSQ_SM_ExcavateArtifacts_Pillar" rel_version="Quest_MSQ3_Shattered">Deactivate Ancient Pillar</string>
+	<string key="99G_MSQ_SM_ExcavateArtifacts_Artifact" rel_version="Quest_MSQ3_Shattered">Collect Ancient Artifact</string>
+	<string key="99G_MSQ_SM_ExcavateArtifacts_Lever" rel_version="Quest_MSQ3_Shattered">Use Ancient Lever</string>
+	<string key="99G_MSQ_SM_ExcavateArtifacts_EnterBarrier" rel_version="Quest_MSQ3_Shattered">Enter the Barrier</string>
+	<string key="99G_MSQ_SM_AssaultStronghold_Banner" rel_version="Quest_MSQ3_Shattered">Rally at the Soulwarden Banner</string>
+	<string key="99G_MSQ_SM_DestroyEnemy_Kneel" rel_version="Quest_MSQ3_Shattered">Interrupt Isabella</string>
 	<string key="LNY_Banquet_Food_01_HotPot_DisplayName" rel_version="Event_Lunar_NewYear2024_Perm">Prepare the Hot Pot</string>
 	<string key="LNY_Banquet_Food_02_Meat_DisplayName" rel_version="Event_Lunar_NewYear2024_Perm">Take Grilled Meat</string>
 	<string key="LNY_Banquet_Food_03_Rice_DisplayName" rel_version="Event_Lunar_NewYear2024_Perm">Take Fried Rice</string>
@@ -1406,5 +1458,12 @@
 	<string key="LNY_Corrupted_Core_DisplayName" rel_version="Event_Lunar_NewYear2024_Perm">Destroy the Corrupted Core</string>
 	<string key="LNY_Banquet_Food_05_Fruit_DisplayName" rel_version="Event_Lunar_NewYear2024_Perm">Take Fruit Plate</string>
 	<string key="LNY_Giftsack_Pile_Displayname" rel_version="Event_Lunar_NewYear2024_Perm">Take Fortune's Gift Sack</string>
+	<string key="99G_MSQ_MyrkgardBanner_DisplayName" rel_version="Quest_MSQ3_Shattered_V2">Raise Soulwarden Banner</string>
+	<string key="Season_05_Trial_Entrance_Dancefloor_DisplayName" rel_version="Season_4_Perm">Dance Here</string>
+	<string key="Season_05_Trial_Entrance_Banner_Raise_DisplayName" rel_version="Season_5_Perm">Raise The Soulwarden Banner</string>
+	<string key="MSQ_Isabella_Entrance_Bubble_DisplayName" rel_version="Quest_MSQ3_Shattered_V2">Weaken Corruption</string>
+	<string key="RE_Spyglass_Vista_DisplayName" rel_version="Season_5_Perm">Look in Spyglass</string>
+	<string key="ui_poi_RE_Spyglass_Vista" rel_version="Season_5_Perm">Spyglass of Aeternum</string>
+	<string key="ui_poi_RE_Spyglass_Vista_description" rel_version="Season_5_Perm">Peek through the looking glass and spot another grand sight of Aeternum!</string>
 </resources>
 

@@ -100,7 +100,7 @@
 	<string key="ui_musical_performance_failmessage_throttled" rel_version="Feature_MusicalPerformances">Your invite was throttled.</string>
 	<string key="ui_musical_performance_invite_sent" rel_version="Feature_MusicalPerformances">Performance invite sent.</string>
 	<string key="ui_musical_performance_invite_notification_title">Performance Invite</string>
-	<string key="ui_musical_performance_invite_notification_text">&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{playerName}&lt;/font&gt; invites you to a performance.\nWould you like to accept?</string>
+	<string key="ui_musical_performance_invite_notification_text">&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{playerName}&lt;/font&gt; invites you to a performance.\nWould you like to accept?</string>
 	<string key="ui_musical_performance_failmessage_generic">You cannot perform right now.</string>
 	<string key="ui_musical_performance_failmessage_dead">You're dead.</string>
 	<string key="ui_musical_performance_failmessage_pendinginvite">You already have a pending performance invite.</string>
@@ -164,6 +164,7 @@
 	<string key="ui_cannot_travel_in_musical_performance" rel_verstion="Feature_MusicalPerformances">Cannot fast travel while in a performance.</string>
 	<string key="ui_cannot_enter_store_in_musical_performance" rel_version="Feature_MusicalPerformances">Cannot access the store while in a performance.</string>
 	<string key="ui_musical_performance_combat_message">You cannot start a performance while in combat.</string>
+	<string key="ui_musical_performance_inwater_message">You cannot start a performance while in water.</string>
 	<string key="songtitle_Maudlinbug_Waltz" rel_version="Feature_MusicalPerformances">Maudlinbug Haze</string>
 	<string key="songtitle_Traveling_Aeternum" rel_version="Feature_MusicalPerformances">Path Less Traveled</string>
 	<string key="songtitle_Windsward_Inn" rel_version="Feature_MusicalPerformances">Windsward Inn</string>

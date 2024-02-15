@@ -26,6 +26,11 @@
 	<string key="9913_MSQ_Russo" comment="male">The Heretic</string>
 	<string key="9919_MSQ_WardenScout" comment="male">Warden Scout Titus</string>
 	<string key="9920_MSQ_WardenYseult" comment="female">Warden Yseult</string>
+	<string key="9921_MSQ_WardenWalker" comment="male" rel_version="Quest_Supplement_Ebonscale">Walker</string>
+	<string key="9922_MSQ_WardenWayne" comment="male" rel_version="Quest_Supplement_Ebonscale">Wayne Ballou</string>
+	<string key="9923_MSQ_WardenConstance" comment="female" rel_version="Quest_Supplement_Ebonscale">Constance Zarigueya</string>
+	<string key="9924_MSQ_WardenEliza" comment="female" rel_version="Quest_Supplement_Ebonscale">Eliza Turnbuckle</string>
+	<string key="9925_MSQ_WardenSamir" comment="male" rel_version="Quest_Supplement_Ebonscale">Samir Katari</string>
 	<string key="9901_MSQ_Yonas_title" comment="male">Hermit Fisherman</string>
 	<string key="NPC_9902_msq_Yonas_title" comment="male">Soulwarden Commander</string>
 	<string key="9902_MSQ_Adiana_title" comment="female">Mistress of the Wild</string>

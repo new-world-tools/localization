@@ -44,5 +44,15 @@
 	<string key="0727_BookOfIsabella_Interact" rel_version="Expedition_ShatterMtn_00">Read</string>
 	<string key="0728_Kesava" comment="female">Kesava Saraswati</string>
 	<string key="0728_Kesava_Title">Mystic</string>
+	<string key="99G_Laverna" comment="female" rel_version="Quest_MSQ3_Shattered">Laverna Orsini</string>
+	<string key="99G_Laverna_Title" rel_version="Quest_MSQ3_Shattered">Leatherworker</string>
+	<string key="99G_Petar" comment="male" rel_version="Quest_MSQ3_Shattered">Petar Zoric</string>
+	<string key="99G_Petar_Title" rel_version="Quest_MSQ3_Shattered">Opportunist</string>
+	<string key="99G_Qasim" comment="male" rel_version="Quest_MSQ3_Shattered">Qasim Khan</string>
+	<string key="99G_Qasim_Title" rel_version="Quest_MSQ3_Shattered">Bowyer</string>
+	<string key="99G_Matthias" comment="male" rel_version="Quest_MSQ3_Shattered">Matthias Drescher</string>
+	<string key="99G_Matthias_Title" rel_version="Quest_MSQ3_Shattered">Fletcher</string>
+	<string key="99G_Mathilda" comment="female" rel_version="Quest_MSQ3_Shattered">Mathilda Soderberg</string>
+	<string key="99G_Mathilda_Title" rel_version="Quest_MSQ3_Shattered">Clockmaker</string>
 </resources>
 

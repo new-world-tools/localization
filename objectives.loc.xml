@@ -1,7 +1,7 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<string key="ui_locationHudHeader" speaker="UI" comment="header above event/location objectives on HUD while esc menu is open">Location</string>
-	<string key="ui_pinnedHudHeader" speaker="UI" comment="header above manually pinned objectives on HUD while esc menu is open">Pinned</string>
-	<string key="ui_nearbyHudHeader" speaker="UI" comment="header above auto-added nearby objectives on HUD while esc menu is open">Nearby</string>
+	<string key="ui_locationHudHeader" comment="header above event/location objectives on HUD while esc menu is open" speaker="UI">Location</string>
+	<string key="ui_pinnedHudHeader" comment="header above manually pinned objectives on HUD while esc menu is open" speaker="UI">Pinned</string>
+	<string key="ui_nearbyHudHeader" comment="header above auto-added nearby objectives on HUD while esc menu is open" speaker="UI">Nearby</string>
 	<string key="journal_chapter_count" speaker="UI">Chapters Discovered:</string>
 	<string key="journal_chapter_title" speaker="UI">CHAPTER</string>
 	<string key="journal_chapters_completed" speaker="UI">Chapters Completed</string>
@@ -96,6 +96,7 @@
 	<string key="objective_mountquest_desc" speaker="UI">Mount objectives</string>
 	<string key="objective_epicequipment" speaker="UI">Epic Equipment</string>
 	<string key="objective_epicequipment_desc" speaker="UI">Epic equipment quests</string>
+	<string key="objective_quest" speaker="UI">Quest</string>
 	<string key="objective_kill" speaker="UI">Kill {enemy}</string>
 	<string key="objective_kill_p" speaker="UI">Kill {amountCount} {enemy}s</string>
 	<string key="objective_location" speaker="UI">Location</string>
@@ -117,7 +118,7 @@
 	<string key="objective_mission_task_desc_return_to_giver_cm" speaker="UI">Complete at {destinationName}'s Town Project Board</string>
 	<string key="objective_mission_task_desc_return_to_giver" speaker="UI">Complete at {destinationName}'s Faction Representative</string>
 	<string key="objective_mission_task_desc_return_to_any_giver" speaker="UI">Complete at any Faction Representative</string>
-	<string key="objective_mission_task_desc_unknown_location" speaker="UI">Exit instance to complete task</string>
+	<string key="objective_mission_task_desc_unknown_location" speaker="UI">Return to mission provider to complete</string>
 	<string key="objective_mission_task_explore_POITag" speaker="UI">Explore {POITags}</string>
 	<string key="objective_mission_task_explore_the_POITag" speaker="UI">Explore the {POITags}</string>
 	<string key="objective_mission_task_goto_Map_Location" speaker="UI">Investigate the Shipwreck marked on your map</string>
@@ -158,10 +159,10 @@
 	<string key="objective_get_msq_message" speaker="UI">You currently have no active Main Story quests.\nSearch for this icon on the map to determine whether the next Main Story Quest is available.</string>
 	<string key="M_procurer_craft_workorder_items" speaker="UI">Crafting Mission</string>
 	<string key="objective_challenge" speaker="UI">Challenge</string>
-	<string key="objective_name_template" speaker="UI" comment="Obsolete - Used to show above rewards on the conversation screen. {title} is the quest title.">Quest: "{title}"</string>
-	<string key="objective_name_and_rewards_template" speaker="UI" comment="Shows above rewards on the conversation screen. {title} is the quest title">"{title}" - Rewards</string>
-	<string key="objective_rewards_completion" speaker="UI" comment="Rewards label when completing a quest">Rewards for Completion</string>
-	<string key="objective_rewards_proposal" speaker="UI" comment="Rewards label when accepting a quest">Complete Quest to Receive</string>
+	<string key="objective_name_template" comment="Obsolete - Used to show above rewards on the conversation screen. {title} is the quest title." speaker="UI">Quest: "{title}"</string>
+	<string key="objective_name_and_rewards_template" comment="Shows above rewards on the conversation screen. {title} is the quest title" speaker="UI">"{title}" - Rewards</string>
+	<string key="objective_rewards_completion" comment="Rewards label when completing a quest" speaker="UI">Rewards for Completion</string>
+	<string key="objective_rewards_proposal" comment="Rewards label when accepting a quest" speaker="UI">Complete Quest to Receive</string>
 	<string key="objective_objective" speaker="UI">Objective</string>
 	<string key="objective_objectives" speaker="UI">Objectives</string>
 	<string key="objectives_sort" speaker="UI">Sort by:</string>
@@ -201,7 +202,7 @@
 	<string key="objective_recipepinned" speaker="UI">Recipe Pinned</string>
 	<string key="objective_recipes" speaker="UI">Recipes</string>
 	<string key="objective_recipes_desc" speaker="UI">Add from any crafting station</string>
-	<string key="objective_recipetemplate" speaker="UI" comment="How recipe names show in the HUD. Use {title} for the item name">Recipe for {title}</string>
+	<string key="objective_recipetemplate" comment="How recipe names show in the HUD. Use {title} for the item name" speaker="UI">Recipe for {title}</string>
 	<string key="objective_recipe_abandontitle">Abandon Recipe</string>
 	<string key="objective_recipe_abandonbody">Are you sure you want to abandon your current recipe?</string>
 	<string key="objective_artifacts" speaker="UI" rel_version="Feature_Artifacts">Artifacts</string>
@@ -259,9 +260,9 @@
 	<string key="objective_mission_task_patrol_timer" speaker="UI">Hold {POITags} for {timeRemaining}</string>
 	<string key="objective_mission_task_control_point" speaker="UI">Capture a Faction Control Point in {TerritoryID} for the Marauders</string>
 	<string key="task_choose_faction" speaker="UI">Choose a faction with {destinationName}</string>
-	<string key="complete_available_prompt_DEFAULT" speaker="UI - Button" comment="male">Complete the Quest</string>
+	<string key="complete_available_prompt_DEFAULT" comment="male" speaker="UI - Button">Complete the Quest</string>
 	<string key="prompt_DEFAULT" speaker="UI - Button">Accept the Quest</string>
-	<string key="desc_getoffbeach" speaker="UI - Journal - Quest  Description" comment="male">Investigate what looks to be a watchtower.</string>
+	<string key="desc_getoffbeach" comment="male" speaker="UI - Journal - Quest  Description">Investigate what looks to be a watchtower.</string>
 	<string key="title_getoffbeach" speaker="UI - Journal - Quest  Title">Sole Survivor</string>
 	<string key="task_getoffbeach_openmap">Open the Map</string>
 	<string key="have_berries">Have Berries</string>
@@ -284,6 +285,7 @@
 	<string key="objective_mission_kill_generic_at_POI_C">Expunge {targetName} at {POITags}</string>
 	<string key="objective_mission_loot_chests_generic_at_POI_C">Search chests for {itemName} at {POITags}</string>
 	<string key="objective_mission_poach_bushes_at_POI">Gather {itemName} from bushes at {POITags}</string>
+	<string key="objective_capture_fort">Capture Enemy Forts</string>
 	<string key="dynamic_poi_mission_collect">Search for geographical documents in chests</string>
 	<string key="dynamic_poi_mission_kill_category" speaker="UI">Cull {targetName} enemies</string>
 	<string key="dynamic_poi_mission_kill_named" speaker="UI">Find and Cull {targetName}</string>
@@ -385,6 +387,8 @@
 	<string key="Objective_Artifact_Set1_Amulet2" rel_version="Feature_Expansion_1">Artifact: Ankh</string>
 	<string key="Objective_Kill_Dungeon_DepthBoss" rel_version="Feature_Expansion_1">Defeat {targetName} at Depths Expedition</string>
 	<string key="Objective_Kill_in_FL" rel_version="Feature_Expansion_1">Defeat {targetName} enemies in Elysian Wilds</string>
+	<string key="Objective_Kill_in_Edengrove" rel_version="Feature_Expansion_1">Defeat {targetName} enemies in Edengrove</string>
+	<string key="Objective_Kill_in_Reekwater" rel_version="Feature_Expansion_1">Defeat {targetName} enemies in Reekwater</string>
 	<string key="Objective_Kill_Corvid" rel_version="Feature_Expansion_1">Defeat Corvid enemies in Elysian Wilds</string>
 	<string key="Objective_Kill_Depths" rel_version="Feature_Expansion_1">Defeat {targetName} in The Depths</string>
 	<string key="Objective_Kill_Genesis" rel_version="Feature_Expansion_1">Defeat {targetName} in Garden of Genesis</string>
@@ -394,53 +398,41 @@
 	<string key="Objective_Kill_Lazarus" rel_version="Feature_Expansion_1">Defeat {targetName} in The Lazarus Instrumentality</string>
 	<string key="Objective_Kill_Ennead" rel_version="Feature_Expansion_1">Defeat {targetName} in The Ennead</string>
 	<string key="Objective_Kill_Starstone" rel_version="Feature_Expansion_1">Defeat {targetName} in The Starstone Barrows</string>
-	<string key="Objective_Kill_Empyean" rel_version="Feature_Expansion_1">Defeat {targetName} enemies in Empyrean Forge</string>
+	<string key="Objective_Kill_Empyean" rel_version="Feature_Expansion_1">Defeat {targetName} enemies in the Empyrean Forge</string>
+	<string key="Objective_Kill_Named_Empyean" rel_version="Feature_Expansion_1">Defeat {targetName} in the Empyrean Forge</string>
 	<string key="Objective_Kill_GlacialTarn" rel_version="Feature_Artifacts_Set2">Defeat {targetName} enemies in Glacial Tarn</string>
+	<string key="Objective_Kill_SavageDivide" rel_version="Feature_Artifacts_Set2">Defeat {targetName} enemies in Savage Divide</string>
+	<string key="Objective_Kill_Sandworm" rel_version="Feature_Artifacts_Set2">Defeat Shah Neshen in the Trial of the Devourer.</string>
 	<string key="Objective_Kill_OPR" rel_version="Feature_Expansion_1">Defeat {targetName} enemies in Outpost Rush</string>
 	<string key="Objective_Kill_Arena" rel_version="Feature_Expansion_1">Defeat {targetName} enemies in Arena</string>
 	<string key="Objective_Kill_OpenWorld" rel_version="Feature_Expansion_1">Defeat {targetName} enemies</string>
+	<string key="Objective_Kill_Hatchery" rel_version="Feature_Expansion_1">Defeat Hadish Azar, Keeper of Flame in the Hatchery</string>
+	<string key="Objective_Kill_Runeforge" rel_version="Feature_Expansion_1">Defeat the Ancient Ice Guardian in the Winter Rune Forge</string>
+	<string key="Objective_Kill_in_POI" rel_version="Feature_Expansion_1">Kill enemies at {POITags}</string>
+	<string key="Objective_Kill_Forged" rel_version="Feature_Expansion_1">Defeat Forged Varangians</string>
 	<string key="Objective_CraftArtifact" rel_version="Feature_Expansion_1">Upgrade this item at the Gypsum Kiln</string>
-	<string key="LNY_tribute_table" rel_version="Event_Lunar_NewYear_Temp">Tribute to the Dragon</string>
-	<string key="LNY_tribute_table_description" rel_version="Event_Lunar_NewYear_Temp">Retrieve Heirlooms from the corrupted and cook a traditional tribute dish to call for the Dragon's Blessing. This event rotates between locations in Ebonscale Reach.</string>
-	<string key="Objective_lny_tribute_wave_00_title" rel_version="Event_Lunar_NewYear_Temp">Collect Heirlooms</string>
-	<string key="Objective_lny_tribute_wave_00_desc" rel_version="Event_Lunar_NewYear_Temp">Retrieve items from the corrupted</string>
-	<string key="Objective_lny_tribute_heirloom_01_title" rel_version="Event_Lunar_NewYear_Temp">Commune with the Dragon</string>
-	<string key="Objective_lny_tribute_heirloom_01_desc" rel_version="Event_Lunar_NewYear_Temp">Retrieve Century Wine and place it on the side table</string>
-	<string key="Objective_lny_tribute_heirloom_02_title" rel_version="Event_Lunar_NewYear_Temp">Commune with the Dragon</string>
-	<string key="Objective_lny_tribute_heirloom_02_desc" rel_version="Event_Lunar_NewYear_Temp">Retrieve Jade Green Tea and place it on the side table</string>
-	<string key="Objective_lny_tribute_heirloom_03_title" rel_version="Event_Lunar_NewYear_Temp">Commune with the Dragon</string>
-	<string key="Objective_lny_tribute_heirloom_03_desc" rel_version="Event_Lunar_NewYear_Temp">Retrieve Ancient Scroll and place it on the side table</string>
-	<string key="Objective_lny_tribute_wave_03_title" rel_version="Event_Lunar_NewYear_Temp">Commune with the Dragon</string>
-	<string key="Objective_lny_tribute_wave_03_desc" rel_version="Event_Lunar_NewYear_Temp">Prepare Blooming Fish and place it on the altar</string>
-	<string key="Objective_lny_tribute_wave_04_title" rel_version="Event_Lunar_NewYear_Temp">Complete The Ritual</string>
-	<string key="Objective_lny_tribute_wave_04_desc" rel_version="Event_Lunar_NewYear_Temp">Approach the energy eruption</string>
-	<string key="Objective_lny_tribute_wave_04B_desc" rel_version="Event_Lunar_NewYear_Temp">Attune to the Dragon's blessing</string>
-	<string key="Objective_lny_tribute_wave_05_title" rel_version="Event_Lunar_NewYear_Temp">The Unworthy Ones</string>
-	<string key="Objective_lny_tribute_wave_05_desc" rel_version="Event_Lunar_NewYear_Temp">Defeat the dynasty's robbers</string>
-	<string key="Objective_lny_tribute_wave_06A_title" rel_version="Event_Lunar_NewYear_Temp">The Unworthy Ones</string>
-	<string key="Objective_lny_tribute_wave_06A_desc" rel_version="Event_Lunar_NewYear_Temp">Defeat Dynasty Heavy</string>
-	<string key="Objective_lny_tribute_wave_06B_title" rel_version="Event_Lunar_NewYear_Temp">The Unworthy Ones</string>
-	<string key="Objective_lny_tribute_wave_06B_desc" rel_version="Event_Lunar_NewYear_Temp">Defeat Dynasty Musketeers</string>
-	<string key="Objective_lny_tribute_wave_07A_title" rel_version="Event_Lunar_NewYear_Temp">The Unworthy Ones</string>
-	<string key="Objective_lny_tribute_wave_07A_desc" rel_version="Event_Lunar_NewYear_Temp">Defeat dynasty maiden Ying</string>
-	<string key="Objective_lny_tribute_wave_07B_title" rel_version="Event_Lunar_NewYear_Temp">The Unworthy Ones</string>
-	<string key="Objective_lny_tribute_wave_07B_desc" rel_version="Event_Lunar_NewYear_Temp">Defeat the Corrupted Tigers</string>
-	<string key="Objective_lny_tribute_get" rel_version="Event_Lunar_NewYear_Temp">Retrieve Dynasty Heirlooms</string>
-	<string key="Objective_lny_tribute_get_heirloom_01" rel_version="Event_Lunar_NewYear_Temp">Find and retrieve Century Wine</string>
-	<string key="Objective_lny_tribute_get_heirloom_02" rel_version="Event_Lunar_NewYear_Temp">Find and retrieve Jade Green Tea</string>
-	<string key="Objective_lny_tribute_get_heirloom_03" rel_version="Event_Lunar_NewYear_Temp">Find and retrieve Ancient Scroll</string>
-	<string key="Objective_lny_tribute_fish" rel_version="Event_Lunar_NewYear_Temp">Prepare the tribute</string>
-	<string key="Objective_lny_tribute_get_fish" rel_version="Event_Lunar_NewYear_Temp">Cook Blooming Fish in the wok on the food cart nearby</string>
-	<string key="Objective_lny_tribute_place" rel_version="Event_Lunar_NewYear_Temp">Begin The Ritual</string>
-	<string key="Objective_lny_tribute_place_heirloom_01" rel_version="Event_Lunar_NewYear_Temp">Place Century Wine on the altar</string>
-	<string key="Objective_lny_tribute_place_heirloom_02" rel_version="Event_Lunar_NewYear_Temp">Place Jade Green Tea on the altar</string>
-	<string key="Objective_lny_tribute_place_heirloom_03" rel_version="Event_Lunar_NewYear_Temp">Place Ancient Scroll on the altar</string>
-	<string key="Objective_lny_tribute_place_fish" rel_version="Event_Lunar_NewYear_Temp">Place Blooming Fish and commune with the Dragon</string>
-	<string key="Objective_lny_tribute_wave_3_1_desc" rel_version="Event_Lunar_NewYear_Temp">Defeat the Corrupted Dynasty forces</string>
-	<string key="Objective_lny_tribute_wave_3_2_desc" rel_version="Event_Lunar_NewYear_Temp">Survive the corruption's siege</string>
-	<string key="Objective_lny_tribute_wave_3_3_desc" rel_version="Event_Lunar_NewYear_Temp">Defeat Dynasty Heavy and Musketeers</string>
-	<string key="Objective_lny_tribute_wave_3_4_desc" rel_version="Event_Lunar_NewYear_Temp">Defeat Ying and her pets</string>
-	<string key="Objective_lny_tribute_reward" rel_version="Event_Lunar_NewYear_Temp">Finish the Ritual</string>
-	<string key="Objective_lny_tribute_reward_break_core" rel_version="Event_Lunar_NewYear_Temp">Break the corrupted core and reveal the Dragon's Blessing</string>
+	<string key="Objective_Artifact_Set2_HeavyHands" rel_version="Feature_Artifacts_S5">Artifact: Gilli's Gravity Gauntlets</string>
+	<string key="Objective_Artifact_Set2_HeavyLegs" rel_version="Feature_Artifacts_S5">Artifact: Ironheart</string>
+	<string key="Objective_Artifact_Set2_MediumChest" rel_version="Feature_Artifacts_S5">Artifact: Nature's Wrath</string>
+	<string key="Objective_Artifact_Set2_LightFeet" rel_version="Feature_Artifacts_S5">Artifact: Creed Boots</string>
+	<string key="Objective_Artifact_Set2_1hThrowingAxe" rel_version="Feature_Artifacts_S5">Artifact: Sin</string>
+	<string key="Objective_Artifact_Set2_2hGreatAxe" rel_version="Feature_Artifacts_S5">Artifact: Tempest Fury</string>
+	<string key="Objective_Artifact_Set2_2hSpear" rel_version="Feature_Artifacts_S5">Artifact: Venom</string>
+	<string key="Objective_Artifact_Set2_Amulet1" rel_version="Feature_Artifacts_S5">Artifact: Phoenix</string>
+	<string key="99F_Enc_Liang_Objective_Title_description" rel_version="Quest_MSQ3_Ebonscale">The Prince of Ebonscale Reach is sealed within the confines of the Wood Temple, for the protection of the people and Liang himself.</string>
+	<string key="99F_Enc_Liang_Objective_Title_Phase0" rel_version="Quest_MSQ3_Ebonscale">Save the Tormented Prince</string>
+	<string key="99F_Enc_Liang_Objective_Phase0" rel_version="Quest_MSQ3_Ebonscale">Approach Liang</string>
+	<string key="99F_Enc_Liang_Objective_Title_Phase1" rel_version="Quest_MSQ3_Ebonscale">Save the Tormented Prince</string>
+	<string key="99F_Enc_Liang_Objective_Phase1" rel_version="Quest_MSQ3_Ebonscale">Use skills or heavy attacks to attach talismans to Liang</string>
+	<string key="99F_Enc_Liang_Objective_Title_Phase2" rel_version="Quest_MSQ3_Ebonscale">Save the Tormented Prince</string>
+	<string key="99F_Enc_Liang_Objective_Phase2" rel_version="Quest_MSQ3_Ebonscale">Apply 6 more talismans to immobilize Liang</string>
+	<string key="99F_Enc_Liang_Objective_Title_Phase3" rel_version="Quest_MSQ3_Ebonscale">Save the Tormented Prince</string>
+	<string key="99F_Enc_Liang_Objective_Phase3" rel_version="Quest_MSQ3_Ebonscale">Apply 8 more talismans to immobilize Liang</string>
+	<string key="99F_Enc_Liang_Objective_Title_Phase4" rel_version="Quest_MSQ3_Ebonscale">Save the Tormented Prince</string>
+	<string key="99F_Enc_Liang_Objective_Phase4" rel_version="Quest_MSQ3_Ebonscale">Use your Azoth Staff to free Liang's soul and return to the outside</string>
+	<string key="objective_weekly_description" speaker="UI">Weekly Quest</string>
+	<string key="objective_daily_description" speaker="UI">Daily Quest</string>
+	<string key="objective_hourly_description" speaker="UI">Hourly Quest</string>
+	<string key="objective_minutely_description" speaker="UI">Once-Per-Minute Quest</string>
 </resources>
 

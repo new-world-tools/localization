@@ -317,9 +317,9 @@
 	<string key="ui_metachievement_pve_bossKill_dungeon_crystalclaw_title" rel_version="Expedition_FirstLight_01">Stampede</string>
 	<string key="ui_metachievement_pve_bossKill_dungeon_crystalclaw_title_SHE" rel_version="Expedition_FirstLight_01">Stampede</string>
 	<string key="ui_metachievement_pve_bossKill_dungeon_crystalclaw_title_THEY" rel_version="Expedition_FirstLight_01">Stampede</string>
-	<string key="ui_metachievement_pve_bossKill_dungeon_tarn_title" rel_version="Expedition_greatcleave_00">IceBreaker</string>
-	<string key="ui_metachievement_pve_bossKill_dungeon_tarn_title_SHE" rel_version="Expedition_greatcleave_00">IceBreaker</string>
-	<string key="ui_metachievement_pve_bossKill_dungeon_tarn_title_THEY" rel_version="Expedition_greatcleave_00">IceBreaker</string>
+	<string key="ui_metachievement_pve_bossKill_dungeon_tarn_title" rel_version="Expedition_GreatCleave_00">Ice Breaker</string>
+	<string key="ui_metachievement_pve_bossKill_dungeon_tarn_title_SHE" rel_version="Expedition_GreatCleave_00">Ice Breaker</string>
+	<string key="ui_metachievement_pve_bossKill_dungeon_tarn_title_THEY" rel_version="Expedition_GreatCleave_00">Ice Breaker</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_amrine_title1" rel_version="Feature_Dungeon_Mutators">Excavation Excitement</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_amrine_title1_SHE" rel_version="Feature_Dungeon_Mutators">Excavation Excitement</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_amrine_title1_THEY" rel_version="Feature_Dungeon_Mutators">Excavation Excitement</string>
@@ -609,6 +609,15 @@
 	<string key="ui_metachievement_questarc_ebonscalereach_title3">Supporting the Arts</string>
 	<string key="ui_metachievement_questarc_ebonscalereach_title3_SHE">Supporting the Arts</string>
 	<string key="ui_metachievement_questarc_ebonscalereach_title3_THEY">Supporting the Arts</string>
+	<string key="ui_metachievement_quest_ebonscale_prince">Soul Survivor</string>
+	<string key="ui_metachievement_quest_ebonscale_prince_SHE">Soul Survivor</string>
+	<string key="ui_metachievement_quest_ebonscale_prince_THEY">Soul Survivor</string>
+	<string key="ui_metachievement_quest_ebonscale_empress">Tyranny Dethroned</string>
+	<string key="ui_metachievement_quest_ebonscale_empress_SHE">Tyranny Dethroned</string>
+	<string key="ui_metachievement_quest_ebonscale_empress_THEY">Tyranny Dethroned</string>
+	<string key="ui_metachievement_quest_ebonscale_artist">Misunderstood Artist</string>
+	<string key="ui_metachievement_quest_ebonscale_artist_SHE">Misunderstood Artist</string>
+	<string key="ui_metachievement_quest_ebonscale_artist_THEY">Misunderstood Artist</string>
 	<string key="ui_metachievement_questarc_edengrove_title1">Much Ado About Blight</string>
 	<string key="ui_metachievement_questarc_edengrove_title1_SHE">Much Ado About Blight</string>
 	<string key="ui_metachievement_questarc_edengrove_title1_THEY">Much Ado About Blight</string>
@@ -720,6 +729,15 @@
 	<string key="ui_metachievement_questarc_shatteredmtn_title3">Hellfire Rising</string>
 	<string key="ui_metachievement_questarc_shatteredmtn_title3_SHE">Hellfire Rising</string>
 	<string key="ui_metachievement_questarc_shatteredmtn_title3_THEY">Hellfire Rising</string>
+	<string key="ui_metachievement_quest_shattered_friend">Friends In Corrupted Places</string>
+	<string key="ui_metachievement_quest_shattered_friend_SHE">Friends In Corrupted Places</string>
+	<string key="ui_metachievement_quest_shattered_friend_THEY">Friends In Corrupted Places</string>
+	<string key="ui_metachievement_quest_shattered_banner">Raising Your Standards</string>
+	<string key="ui_metachievement_quest_shattered_banner_SHE">Raising Your Standards</string>
+	<string key="ui_metachievement_quest_shattered_banner_THEY">Raising Your Standards</string>
+	<string key="ui_metachievement_quest_shattered_mind">Practicing Mindfulness</string>
+	<string key="ui_metachievement_quest_shattered_mind_SHE">Practicing Mindfulness</string>
+	<string key="ui_metachievement_quest_shattered_mind_THEY">Practicing Mindfulness</string>
 	<string key="ui_metachievement_questarc_weaversfen_title1">Overseer's Woe</string>
 	<string key="ui_metachievement_questarc_weaversfen_title1_SHE">Overseer's Woe</string>
 	<string key="ui_metachievement_questarc_weaversfen_title1_THEY">Overseer's Woe</string>
@@ -1790,6 +1808,9 @@
 	<string key="ui_metachievement_progression_characterlevel_title6">That It? What Else You Got?!</string>
 	<string key="ui_metachievement_progression_characterlevel_title6_SHE">That It? What Else You Got?!</string>
 	<string key="ui_metachievement_progression_characterlevel_title6_THEY">That It? What Else You Got?!</string>
+	<string key="ui_metachievement_progression_characterlevel_title7">I Run This Island</string>
+	<string key="ui_metachievement_progression_characterlevel_title7_SHE">I Run This Island</string>
+	<string key="ui_metachievement_progression_characterlevel_title7_THEY">I Run This Island</string>
 	<string key="ui_metachievement_totaltimeplayed_title1">Just Scratched The Surface</string>
 	<string key="ui_metachievement_totaltimeplayed_title1_SHE">Just Scratched The Surface</string>
 	<string key="ui_metachievement_totaltimeplayed_title1_THEY">Just Scratched The Surface</string>
@@ -3298,6 +3319,9 @@
 	<string key="ui_metachievement_questarc_ebonscalereach_desc1">Complete the Ebonscale Reach arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Ebonscale Alligators&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_ebonscalereach_desc2">Complete the Ebonscale Reach arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Study In Green&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_ebonscalereach_desc3">Complete the Ebonscale Reach arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;The Show Must Go On&lt;/font&gt;.</string>
+	<string key="ui_metachievement_quest_ebonscale_prince_desc">Rescued Prince Liang from his monstrous condition and his lonely prison.</string>
+	<string key="ui_metachievement_quest_ebonscale_empress_desc">Prevented Empress Zhou from escaping Aeternum and spreading Corruption worldwide.</string>
+	<string key="ui_metachievement_quest_ebonscale_artist_desc">Helped Artificer Long with all of her odd tasks despite her questionable allegiances.</string>
 	<string key="ui_metachievement_questarc_edengrove_desc1">Complete the Edengrove arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Gates Of Edengrove&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_edengrove_desc2">Complete the Edengrove arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Gum in the Works&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_edengrove_desc3">Complete the Edengrove arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Fading Lights&lt;/font&gt;.</string>
@@ -3335,6 +3359,9 @@
 	<string key="ui_metachievement_questarc_shatteredmtn_desc1">Complete the Shattered Mountain arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Pushing Back&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_shatteredmtn_desc2">Complete the Shattered Mountain arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Knowledge is Power&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_shatteredmtn_desc3">Complete the Shattered Mountain arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Illurmin Rift&lt;/font&gt;.</string>
+	<string key="ui_metachievement_quest_shattered_friend_desc">You were the last one to know, and the last one to show, but in the end you rescued Father Russo.</string>
+	<string key="ui_metachievement_quest_shattered_banner_desc">Created a path for allies to follow by raising Soulwarden Banners to prepare for the assault on Myrkgard.</string>
+	<string key="ui_metachievement_quest_shattered_mind_desc">Showed Isabella there's no place you can't defeat her, even her own mind.</string>
 	<string key="ui_metachievement_questarc_weaversfen_desc1">Complete the Weavers's Fen arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Fishy Illness&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_weaversfen_desc2">Complete the Weavers's Fen arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Traitorous Wraith&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_weaversfen_desc3">Complete the Weavers's Fen arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Swamp Sorceress&lt;/font&gt;.</string>
@@ -3625,6 +3652,9 @@
 	<string key="ui_metachievement_hidden_progression_characterlevel6">Lots of pain, lots of gain.</string>
 	<string key="ui_metachievement_hidden_progression_characterlevel6_SHE">Lots of pain, lots of gain.</string>
 	<string key="ui_metachievement_hidden_progression_characterlevel6_THEY">Lots of pain, lots of gain.</string>
+	<string key="ui_metachievement_hidden_progression_characterlevel7">Going, going... nope still going.</string>
+	<string key="ui_metachievement_hidden_progression_characterlevel7_SHE">Going, going... nope still going.</string>
+	<string key="ui_metachievement_hidden_progression_characterlevel7_THEY">Going, going... nope still going.</string>
 	<string key="ui_metachievement_hidden_emotes_wavereturns1">Right back at ya, neighbor!</string>
 	<string key="ui_metachievement_hidden_emotes_wavereturns1_SHE">Right back at ya, neighbor!</string>
 	<string key="ui_metachievement_hidden_emotes_wavereturns1_THEY">Right back at ya, neighbor!</string>
@@ -3715,21 +3745,21 @@
 	<string key="ui_meta_achievements_completed">Completed</string>
 	<string key="ui_meta_achievements_reward">{type} {title}</string>
 	<string key="ui_meta_achievements_reward_mult">{num} {type}</string>
-	<string key="ui_meta_achievements_reward_list">&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_semibold.font"&gt;Rewards&lt;/font&gt;{list}</string>
+	<string key="ui_meta_achievements_reward_list">&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_semibold.font"&gt;Rewards&lt;/font&gt;{list}</string>
 	<string key="ui_meta_achievements_unlocked">Achievement Unlocked</string>
 	<string key="ui_meta_achievements_view_detail">View</string>
 	<string key="ui_meta_achievements_threshold_reached_text">Achievement {percentage}% Complete! {description}</string>
 	<string key="ui_meta_achievements_claim_reward">View</string>
 	<string key="ui_meta_achievements_claim_rewards">View</string>
-	<string key="ui_meta_achievements_claim_reward_desc_one">Open Achievement menu to claim &lt;font color={color}&gt;1 Reward!&lt;/font&gt;</string>
-	<string key="ui_meta_achievements_claim_reward_desc_mult">Open Achievement menu to claim &lt;font color={color}&gt;{number} Rewards!&lt;/font&gt;</string>
+	<string key="ui_meta_achievements_claim_reward_desc_one">Open Achievements to claim 1 reward!</string>
+	<string key="ui_meta_achievements_claim_reward_desc_mult">Open Achievements to claim {number} rewards!</string>
 	<string key="ui_meta_achievements_rewards_available">Rewards Available</string>
-	<string key="ui_meta_achievements_rewards_available_desc_mult">You have &lt;font color={color}&gt;{number} Achievement Rewards&lt;/font&gt; to claim!</string>
-	<string key="ui_meta_achievements_rewards_available_desc_one">You have &lt;font color={color}&gt;1 Achievement Reward&lt;/font&gt; to claim!</string>
+	<string key="ui_meta_achievements_rewards_available_desc_mult">You can claim {number} Achievement Rewards!</string>
+	<string key="ui_meta_achievements_rewards_available_desc_one">You can claim 1 Achievement Reward!</string>
 	<string key="ui_meta_achievements_claim_all">Claim All</string>
-	<string key="ui_meta_achievements_rewards_claimed">Achievements Rewards Claimed</string>
-	<string key="ui_meta_achievements_rewards_claimed_desc_mult">You have claimed {number} Achievements Rewards</string>
-	<string key="ui_meta_achievements_rewards_claimed_desc_one">You have claimed 1 Achievements Reward</string>
+	<string key="ui_meta_achievements_rewards_claimed">Rewards Claimed</string>
+	<string key="ui_meta_achievements_rewards_claimed_desc_mult">You claimed {number} Achievement Rewards</string>
+	<string key="ui_meta_achievements_rewards_claimed_desc_one">You claimed 1 Achievement Reward</string>
 	<string key="ui_meta_achievements_reward_type_title">Title</string>
 	<string key="ui_meta_achievements_reward_type_title_plural">Titles</string>
 	<string key="ui_meta_achievements_coming_soon">: COMING SOON</string>
@@ -3810,6 +3840,8 @@
 	<string key="ui_metachievement_hidden_everfall">Keep playing in Everfall to complete this hidden achievement.</string>
 	<string key="ui_metachievement_hidden_weaversfen">Keep playing in Weaver's Fen to complete this hidden achievement.</string>
 	<string key="ui_metachievement_hidden_greatcleave">Keep playing in Great Cleave to complete this hidden achievement.</string>
+	<string key="ui_metachievement_hidden_ebonscale">Keep playing in Ebonscale Reach to complete this hidden achievement.</string>
+	<string key="ui_metachievement_hidden_shattered">Keep playing in Shattered Mountain to complete this hidden achievement.</string>
 	<string key="ui_metaachievement_Music_Summer_GuitarHero_title" rel_version="Event_Summer2023_Perm">Guitar Hero</string>
 	<string key="ui_metaachievement_Music_Summer_GuitarHero_desc" rel_version="Event_Summer2023_Perm">Complete the Expert version of YAAAHHHH! with a perfect score.</string>
 	<string key="ui_metachievement_skilllevelRiding_title1" rel_version="Feature_Mounts">Yearling</string>

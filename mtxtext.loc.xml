@@ -40,6 +40,7 @@
 	<string key="ui_dye_number" rel_version="Feature_MTX">Dye #{rewardId}</string>
 	<string key="ui_unlock_bundle" rel_version="Feature_MTX">Unlock Bundle</string>
 	<string key="ui_purchase" rel_version="Feature_MTX">Purchase</string>
+	<string key="ui_purchase_bundle" rel_version="Feature_MTX">Purchase Bundle</string>
 	<string key="ui_confirm_purchase" rel_version="Feature_MTX">Confirm Unlock</string>
 	<string key="ui_credit_balance" rel_version="Feature_MTX">Credit Balance {balance}</string>
 	<string key="ui_get_credits" rel_version="Feature_MTX">Get Marks of Fortune</string>
@@ -69,10 +70,12 @@
 	<string key="entitlement_included" rel_version="Feature_MTX">Included</string>
 	<string key="ui_account_bound" rel_version="Feature_MTX">All items are account bound (non-tradeable) and non-refundable</string>
 	<string key="ui_account_bound_tooltip" rel_version="Feature_MTX">All items are account bound (can be used on all of your characters) and cannot be discarded, traded, or sold at the trading post. All items are also non-refundable.\n\n&lt;font face="lyshineui/fonts/Nimbus_Bold.font" &gt;Consumable items: &lt;/font&gt; These items have limited usage and using one on a specific character depletes the count across the account. For example, if you have five dyes and use one on a character, you will now have four dyes if you log onto a different character under the same account.</string>
-	<string key="ui_unlock_for" rel_version="Feature_MTX">Unlock for &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{amount}&lt;/font&gt;&lt;img src="lyshineui/images/mtx/icon_mtx_currency" scale="2.5" yOffset="10"&gt;&lt;/img&gt;</string>
+	<string key="store_confirm_purchase_item_cost" rel_version="Feature_MTX">Unlock &lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{itemName}&lt;/font&gt; for &lt;img src="lyshineui/images/mtx/icon_mtx_currency" xPadding="2" scale="1.8" yOffset="5"&gt;&lt;/img&gt;&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{cost}&lt;/font&gt;?</string>
+	<string key="store_confirm_purchase_balance" rel_version="Feature_MTX">New Balance: &lt;img src="lyshineui/images/mtx/icon_mtx_currency" xPadding="2" scale="1.8" yOffset="5"&gt;&lt;/img&gt;&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{amount}&lt;/font&gt;</string>
+	<string key="ui_unlock_for" rel_version="Feature_MTX">Unlock for &lt;img src="lyshineui/images/mtx/icon_mtx_currency" scale="2.5" yOffset="10"&gt;&lt;/img&gt;&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{amount}&lt;/font&gt;</string>
 	<string key="ui_unlock_with_icon" rel_version="Feature_MTX">&lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_purchase" scale="1.75" yOffset="3.5"&gt;&lt;/img&gt; Unlock</string>
 	<string key="ui_bundle_with_icon" rel_version="Feature_MTX">&lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_bundle" scale="1.75" yOffset="3.5"&gt;&lt;/img&gt; DLC Bundle</string>
-	<string key="ui_currency_price_big" rel_version="Feature_MTX">{number} &lt;img src="lyshineui/images/mtx/icon_mtx_currency" scale="1.8" yOffset="7"&gt;&lt;/img&gt;</string>
+	<string key="ui_currency_price_big" rel_version="Feature_MTX">&lt;img src="lyshineui/images/mtx/icon_mtx_currency" scale="1.8" yOffset="7"&gt;&lt;/img&gt; {number}</string>
 	<string key="ui_do_not_own" rel_version="Feature_MTX">You don't own this item.</string>
 	<string key="ui_housing_tooltip_noitem">You don't own this item.</string>
 	<string key="ui_housing_tooltip_not_entitled">You don't own this item.</string>
@@ -156,7 +159,7 @@
 	<string key="ui_skin_applied">Skin applied to item</string>
 	<string key="ui_skins_applied">Skins applied to items</string>
 	<string key="ui_purchase_skin">Browse Skins</string>
-	<string key="ui_shop_tier">TIER &lt;font face="lyshineui/fonts/Pica_Italic.font"&gt;&lt;font color="#ffffff"&gt;{number}&lt;/font&gt;&lt;/font&gt;</string>
+	<string key="ui_shop_tier">TIER &lt;font face="lyshineui/fonts/Pica_Italic.font"&gt;&lt;font color="#ebe3d6"&gt;{number}&lt;/font&gt;&lt;/font&gt;</string>
 	<string key="ui_mtx_coming_soon">Coming Soon!</string>
 	<string key="ui_button_disabled_dead">You cannot perform this action when you are dead.</string>
 	<string key="url_refundpolicy_US" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.amazongames.com/en-us/support/new-world/articles/amazon-games-refund-policy</string>
@@ -180,6 +183,8 @@
 	<string key="ui_notification_unlock_desc">Items have been added to your account.</string>
 	<string key="ui_notification_unlock_title">Unlocked!</string>
 	<string key="ui_view_item">View Items</string>
+	<string key="store_no_search_results">No results found</string>
+	<string key="store_show_history">Recent</string>
 	<string key="ui_claim_fail_achievementmissing" comment="DO NOT TRANSLATE">Entitlement isn't tied to an Achievement! Failed to claim item.</string>
 	<string key="ui_claim_fail_alreadyunlocked">You have already claimed this entitlement.</string>
 	<string key="ui_claim_fail_inventoryfull">Cannot claim entitlement while your inventory is full. Please free up some space and try again.</string>
@@ -188,6 +193,9 @@
 	<string key="ui_claim_fail_entitlementnotunlocked">Cannot claim an entitlement you do not own. Please wait and try again.</string>
 	<string key="store_requires_expansion_single">Requires {expansionName}</string>
 	<string key="store_requires_expansion_multiple">{quantity} items in this bundle require {expansionName}</string>
+	<string key="store_requires_expansion_single_icon">&lt;img src="lyshineui/images/icons/misc/icon_exclamation" xPadding="0" scale="2" yOffset="5"&gt;&lt;/img&gt; Requires {expansionName}</string>
+	<string key="store_requires_expansion_single_bundle_icon">&lt;img src="lyshineui/images/icons/misc/icon_exclamation" xPadding="0" scale="2" yOffset="5"&gt;&lt;/img&gt; 1 item in this bundle requires {expansionName}</string>
+	<string key="store_requires_expansion_multiple_icon">&lt;img src="lyshineui/images/icons/misc/icon_exclamation" xPadding="0" scale="2" yOffset="5"&gt;&lt;/img&gt; {quantity} items in this bundle require {expansionName}</string>
 	<string key="store_requires_expansion_warning">You will not be able to use {quantity} of the items in this bundle until you purchase {expansionName}.</string>
 	<string key="store_requires_expansion_confirm">Buy Anyway</string>
 	<string key="smolderingscarlet_dye_name" rel_version="Dye_SmolderingScarlet">Smoldering Scarlet</string>
@@ -221,6 +229,7 @@
 	<string key="Icon_Crest_Pack_Smugglers_description" rel_version="New_World_Launch">"Darkness shrouds our most lucrative ventures."</string>
 	<string key="butterflywing_dye_description" rel_version="Entitlements_February_2022">Consumable Dye Pack</string>
 	<string key="ui_store_unavailable">We're sorry, the store is down for a bit of maintenance right now. Please try again later.</string>
+	<string key="ui_store_unavailable_at_deaths_door">The store is unavailable while at death's door.</string>
 	<string key="fenrirsfury_name" rel_version="New_World_Launch">Fenrir's Fury</string>
 	<string key="fenrirsfury_description" rel_version="New_World_Launch">"A fitting tribute to the beast of slaughter."</string>
 	<string key="ageless_bronze_dye_name" rel_version="Entitlements_January_2022">Ageless Bronze</string>
@@ -352,7 +361,7 @@
 	<string key="Bundle_Armor_Good_Evil_description" rel_version="Bundle_Apparel_AngelsDemons">"On Aeternum, good and evil, the holy and the unholy, wrap around each other like twisted vines."</string>
 	<string key="Bundle_Decor_Pirate_description" rel_version="New_World_Launch">"Treacherous waters can yield great treasure."</string>
 	<string key="Bundle_Emote_Launch_description" rel_version="Bundle_LaunchSet_Emote">"Vital gestures understood in all languages."</string>
-	<string key="ui_no_featured_deal">There is no featured deal at this time.\n\n&lt;font face="lyshineui/fonts/Pica_Regular.font"&gt;&lt;font color="#ffffff"&gt;B R O W S E  S T O R E&lt;/font&gt;&lt;/font&gt;</string>
+	<string key="ui_no_featured_deal">There is no featured deal at this time.\n\n&lt;font face="lyshineui/fonts/Pica_Regular.font"&gt;&lt;font color="#ebe3d6"&gt;B R O W S E  S T O R E&lt;/font&gt;&lt;/font&gt;</string>
 	<string key="ui_no_featured_deal_store">There is no featured deal at this time.\nBrowse the store using the tabs on the left!</string>
 	<string key="Marks_Of_Fortune_5000_name" rel_version="New_World_Launch">Pouch of Marks</string>
 	<string key="Marks_Of_Fortune_11000_name" rel_version="New_World_Launch">Stack of Marks</string>
@@ -1187,8 +1196,8 @@
 	<string key="Bundle_PR_BF_Gladekeeper_name" rel_version="Entitlements_Gothknight">Gladekeeper Bundle</string>
 	<string key="Bundle_PR_BF_Gladekeeper_description" rel_version="Entitlements_Gothknight">The glade remains peaceful and serene only due to your steadfast protection.</string>
 	<string key="Bundle_PR_BF_KnightofHonor_name" rel_version="Entitlements_Gothknight">Knight of Honor Bundle</string>
-	<string key="Bundle_PR_BF_KnightofHonor_description" rel_version="Entitlements_Gothknight">Chivalry isn't dead. Not as long as your alive.</string>
-	<string key="Bundle_PR_BF_MaulersBrawlers_name" rel_version="Entitlements_Gothknight">Maulers and Brawler's Bundle</string>
+	<string key="Bundle_PR_BF_KnightofHonor_description" rel_version="Entitlements_Gothknight">Chivalry isn't dead. Not as long as you're alive.</string>
+	<string key="Bundle_PR_BF_MaulersBrawlers_name" rel_version="Entitlements_Gothknight">Maulers and Brawlers Bundle</string>
 	<string key="Bundle_PR_BF_MaulersBrawlers_description" rel_version="Entitlements_Gothknight">Reach out and touch someone extremely forcefully with a deadly implement.</string>
 	<string key="Bundle_PR_BF_AzothArcana_name" rel_version="Entitlements_Gothknight">Azoth Arcana Bundle</string>
 	<string key="Bundle_PR_BF_AzothArcana_description" rel_version="Entitlements_Gothknight">For those who feel the threads of magic interwoven with their very being.</string>
@@ -1203,5 +1212,13 @@
 	<string key="Apparel_Seance_TheEffigy_name" rel_version="Entitlements_Seance">The Effigy</string>
 	<string key="SeasonPass_Premium_Season_4_name" rel_version="Season_4_Perm">Premium Pass - Season 4</string>
 	<string key="SeasonPass_HeadStart_Season_4_name" rel_version="Season_4_Perm">Premium Pass Head Start - Season 4</string>
+	<string key="StoreItem_Bundle_PR_Reaper_Bundle1_name" rel_version="Entitlements_Reaper">Voidmaw Phantom Bundle</string>
+	<string key="StoreItem_Bundle_PR_Reaper_Bundle1_description" rel_version="Entitlements_Reaper">If you stare into the void long enough, eventually its maw will open and consume you.</string>
+	<string key="StoreItem_Bundle_PR_Reaper_Bundle2_name" rel_version="Entitlements_Reaper">Spectral Sovereign's Visage Bundle</string>
+	<string key="StoreItem_Bundle_PR_Reaper_Bundle2_description" rel_version="Entitlements_Reaper">The Lord of Nothing will someday be Lord of All.</string>
+	<string key="StoreItem_Bundle_PR_Reaper_Bundle3_name" rel_version="Entitlements_Reaper">Reaper's Embrace Mount Attachment Bundle</string>
+	<string key="StoreItem_Bundle_PR_Reaper_Bundle3_description" rel_version="Entitlements_Reaper">Your steed is as much of the Void as you are.</string>
+	<string key="StoreItem_Bundle_PR_Battlemage_Bundle_name" rel_version="Entitlements_Battlemage">Steelclad Warlock Bundle</string>
+	<string key="StoreItem_Bundle_PR_Battlemage_Bundle_description" rel_version="Entitlements_Battlemage">An Arcanist with an attitude. And a deadly repertoire of spells.</string>
 </resources>
 

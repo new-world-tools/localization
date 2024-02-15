@@ -1,13 +1,13 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<string key="ui_mounts" rel_version="Feature_Mounts">Mounts</string>
 	<string key="ui_mount_attachments" rel_version="Feature_Mounts">Mount Attachments</string>
-	<string key="ui_mount_attachment1_tooltip" rel_version="Feature_Mounts">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Left Attachment Slot&lt;/font&gt;\n\n&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;A mount attachment item can be placed in this slot.&lt;/font&gt;</string>
+	<string key="ui_mount_attachment1_tooltip" rel_version="Feature_Mounts">&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Left Attachment Slot&lt;/font&gt;\n\n&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;A mount attachment item can be placed in this slot.&lt;/font&gt;</string>
 	<string key="ui_mount_attachment1_slot_tooltip_unlocked" rel_version="Feature_Mounts">Mount Attachment items placed here will display on the back left of the mount</string>
-	<string key="ui_mount_attachment2_tooltip" rel_version="Feature_Mounts">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Right Attachment Slot&lt;/font&gt;\n\n&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;A mount attachment item can be placed in this slot.&lt;/font&gt;</string>
+	<string key="ui_mount_attachment2_tooltip" rel_version="Feature_Mounts">&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Right Attachment Slot&lt;/font&gt;\n\n&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;A mount attachment item can be placed in this slot.&lt;/font&gt;</string>
 	<string key="ui_mount_attachment2_slot_tooltip_unlocked" rel_version="Feature_Mounts">Mount Attachment items placed here will display on the back right of the mount</string>
-	<string key="ui_mount_buff1_tooltip" rel_version="Feature_Mounts">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Shoe Slot&lt;/font&gt;\n\n&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Stamina-related Mount Buff Items can be placed in this slot.&lt;/font&gt;</string>
+	<string key="ui_mount_buff1_tooltip" rel_version="Feature_Mounts">&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Shoe Slot&lt;/font&gt;\n\n&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Stamina-related Mount Buff Items can be placed in this slot.&lt;/font&gt;</string>
 	<string key="ui_mount_buff1_slot_tooltip_unlocked" rel_version="Feature_Mounts">Mount Buff items give your mount a unique advantage depending on the item</string>
-	<string key="ui_mount_buff2_tooltip" rel_version="Feature_Mounts">&lt;font color="#FFFFFF" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Strap Slot&lt;/font&gt;\n\n&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Status Effect-related Mount Buff Items, amongst others, can be placed in this slot.&lt;/font&gt;</string>
+	<string key="ui_mount_buff2_tooltip" rel_version="Feature_Mounts">&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Strap Slot&lt;/font&gt;\n\n&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Status Effect-related Mount Buff Items, amongst others, can be placed in this slot.&lt;/font&gt;</string>
 	<string key="ui_mount_trail_vfx" rel_version="Feature_Mounts">Mount Trail VFX</string>
 	<string key="ui_mount_summon_vfx" rel_version="Feature_Mounts">Mount Summon VFX</string>
 	<string key="ui_mount_summon_started" rel_version="Feature_Mounts">Summoning...</string>
@@ -133,6 +133,7 @@
 	<string key="ui_mounts_lion_description_4" rel_version="Feature_Mounts">It is said that the white lion is the messenger of a higher power.</string>
 	<string key="ui_mounts_lion_description_5" rel_version="Feature_Mounts">Black lions herald the ending of one age, and the start of the next.</string>
 	<string key="ui_mounts_lion_description_6" rel_version="Feature_Mounts">A rare breed, this majestic beast comes to the aid of those whose hearts remain wild.</string>
+	<string key="ui_mounts_bear_description" rel_version="Feature_Mounts">Humphrey is a big, grumpy powerhouse of an animal; utterly protective to those he loves./</string>
 	<string key="ui_mounts_unlock_horse_message" rel_version="Feature_Mounts">Horse Shop</string>
 	<string key="ui_mounts_unlock_wolf_message" rel_version="Feature_Mounts">Dire Wolf Shop</string>
 	<string key="ui_mounts_unlock_lion_message" rel_version="Feature_Mounts">Lion Shop</string>
@@ -179,9 +180,15 @@
 	<string key="ui_mounts_MTX_7_horse_name" rel_version="Season_4_Perm">Felix</string>
 	<string key="ui_mounts_MTX_7_wolf_name" rel_version="Season_4_Perm">Smokey</string>
 	<string key="ui_mounts_MTX_7_lion_name" rel_version="Season_4_Perm">Alacer</string>
+	<string key="ui_mounts_MTX_8_horse_name" rel_version="Season_5_Perm">Daemonicus</string>
+	<string key="ui_mounts_MTX_8_wolf_name" rel_version="Season_5_Perm">Malum</string>
+	<string key="ui_mounts_MTX_8_lion_name" rel_version="Season_5_Perm">Sicarius</string>
 	<string key="ui_mounts_horse_description_7" rel_version="Season_4_Perm">Felix wears his horned helm proudly. It boasts his might and majesty.</string>
 	<string key="ui_mounts_wolf_description_7" rel_version="Season_4_Perm">Smokey's stealth poise earnt him much acclaim. Enemies do not see him coming.</string>
 	<string key="ui_mounts_lion_description_7" rel_version="Season_4_Perm">Alacer's boundless energy defies laws of nature. Sleep is for the weak.</string>
+	<string key="ui_mounts_horse_description_8" rel_version="Season_5_Perm">Rumor states Daemonicus was born of dark ritual. True or not, their vigor is not in question.</string>
+	<string key="ui_mounts_wolf_description_8" rel_version="Season_5_Perm">Riding Malum evokes fear in the heart of your foe and allies alike.</string>
+	<string key="ui_mounts_lion_description_8" rel_version="Season_5_Perm">While Sicarius is unusually cold to the touch, in their belly the fires burn.</string>
 	<string key="ui_mounts_horse_name_1" rel_version="Feature_Mounts">Mighty Gregorious</string>
 	<string key="ui_mounts_horse_name_1a" rel_version="Feature_Mounts">Mighty Gregorious (FREE)</string>
 	<string key="ui_mount_horse_name_2" rel_version="Feature_Mounts">Moonshadow</string>
@@ -199,13 +206,14 @@
 	<string key="ui_mounts_keybind_summon" rel_version="Feature_Mounts">Summon Mount</string>
 	<string key="ui_mounts_keybind_dash" rel_version="Feature_Mounts">Dash</string>
 	<string key="ui_mounts_keybind_jump" rel_version="Feature_Mounts">Jump</string>
+	<string key="ui_mounts_keybind_stop_reverse" rel_version="Feature_Controller">Alternate Stop/Reverse</string>
 	<string key="ui_section_mounts" rel_version="Feature_Mounts">Mounts</string>
 	<string key="ui_mount_auto_road_follow" rel_version="Feature_Mounts">Mount Road Following</string>
-	<string key="ui_mount_auto_road_follow_desc" rel_version="Feature_Mounts">Set whether mounts will automatically follow roads while auto-running</string>
-	<string key="ui_mount_dash_toggle" rel_version="Feature_Mounts">Toggle Mount Dash</string>
-	<string key="ui_mount_dash_toggle_desc" rel_version="Feature_Mounts">Set whether to enable dashing on and off with a button press</string>
+	<string key="ui_mount_auto_road_follow_desc" rel_version="Feature_Mounts">Set whether to automatically follow roads while mounted and auto-running</string>
+	<string key="ui_mount_dash_toggle" rel_version="Feature_Mounts">Tap to Mount Dash</string>
+	<string key="ui_mount_dash_toggle_desc" rel_version="Feature_Mounts">Set whether to enable dashing by tapping its input</string>
 	<string key="ui_mount_walk_speed" rel_version="Feature_Mounts">Reduce Mount Walk Speed</string>
-	<string key="ui_mount_walk_speed_desc" rel_version="Feature_Mounts">Set whether mount speed is reduced further while walking</string>
+	<string key="ui_mount_walk_speed_desc" rel_version="Feature_Mounts">Set whether to further reduce mount speed while walking</string>
 	<string key="ui_mount_level_requirement_long" rel_version="Feature_Mounts">Riding Rank Required</string>
 	<string key="ui_mount_customize_keybinds_description" rel_version="Feature_Mounts">Allows Mount navigation keybinds to be independent of your character</string>
 	<string key="ui_mount_paperdoll_button_unlock" rel_version="Feature_Mounts">Requires {expansion_name} to access mounts. \n\nSelect to purchase.</string>
