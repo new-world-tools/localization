@@ -465,7 +465,7 @@
 	<string key="quest_liang_task_destroy_boss" rel_version="Quest_MSQ3_Ebonscale">Use skills or heavy attacks to immobilize Liang with talismans</string>
 	<string key="quest_liang_task_destroy_boss_banner_title" rel_version="Quest_MSQ3_Ebonscale">Immobilize Liang</string>
 	<string key="quest_liang_task_destroy_boss_banner_description" rel_version="Quest_MSQ3_Ebonscale">Apply talismans through skills or heavy attacks</string>
-	<string key="quest_liang_task_leave" rel_version="Quest_MSQ3_Ebonscale">Return to the Surface to find Liang</string>
+	<string key="quest_liang_task_leave" rel_version="Quest_MSQ3_Ebonscale">Approach Prince Liang and save him</string>
 	<string key="quest_liang_task_leave_banner_title" rel_version="Quest_MSQ3_Ebonscale">The Soul of Liang freed</string>
 	<string key="quest_liang_task_leave_banner_description" rel_version="Quest_MSQ3_Ebonscale">Return to the Surface to find Liang</string>
 	<string key="quest_empress_zhou_title" rel_version="Quest_MSQ3_Ebonscale">A Mother's Dream</string>

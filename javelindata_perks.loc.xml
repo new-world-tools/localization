@@ -1220,7 +1220,7 @@
 	<string key="PerkID_Ability_Sword_ReverseStab_Name">Contagious Reverse Stab</string>
 	<string key="PerkID_Ability_Sword_ReverseStab_Description">Hitting a target transfers {[2.000000]} active debuffs from yourself to the target. Reverse Stab deals +{[0.050000 * 100 * {perkMultiplier}]}% damage.</string>
 	<string key="PerkID_Ability_Sword_WhirlingBlade_Name">Empowering Whirling Blade</string>
-	<string key="PerkID_Ability_Sword_WhirlingBlade_Description">When 3 or more enemies are within its radius while performing a Whirling Blade attack, gain {[0.100000 * 100] * {perkMultiplier}]}% base damage.</string>
+	<string key="PerkID_Ability_Sword_WhirlingBlade_Description">If {[2.000000]} or more enemies are within its radius while performing a Whirling Blade attack, gain {[0.045000 * 100] * {perkMultiplier}]}% base damage for each nearby target (Max {[5.000000]} Targets).</string>
 	<string key="PerkID_Ability_Sword_LeapingStrike_Name">Empowering Leaping Strike</string>
 	<string key="PerkID_Ability_Sword_LeapingStrike_Description">Sword attacks deal +{[0.030000 * 100 * {perkMultiplier}]}% damage to targets Slowed by Leaping Strike's Cowardly Punishment upgrade.</string>
 	<string key="PerkID_Ability_Shield_ShieldBash_Name">Diminishing Shield Bash</string>
@@ -2687,8 +2687,8 @@
 	<string key="PerkID_Artifact_Set2_GreataxePerk_Name" rel_version="Feature_Artifacts_S5">Endless Spin</string>
 	<string key="PerkID_Artifact_Set2_GreataxePerk_Desc" rel_version="Feature_Artifacts_S5">Whirlwind no longer needs to hit targets to continue spins, and can spin up to 12 times</string>
 	<string key="PerkID_Artifact_Set2_Spear_Name" rel_version="Feature_Artifacts_S5">Poison Tipped</string>
-	<string key="PerkID_Artifact_Set2_Spear_Desc" rel_version="Feature_Artifacts_S5">Heavy attacks with either weapon cause poison dealing {[-0.200000 * -100]}% weapon damage for {[5.000000]}s.</string>
-	<string key="PerkID_Artifact_Set2_Amulet1_Name" rel_version="Feature_Artifacts_S5">Phoenix Revival</string>
-	<string key="PerkID_Artifact_Set2_Amulet1_Desc" rel_version="Feature_Artifacts_S5">When you receive lethal damage, avoid death and become invulnerable for {[1.000000]}s ({[180.000000]}s cooldown)</string>
+	<string key="PerkID_Artifact_Set2_Spear_Desc" rel_version="Feature_Artifacts_S5">Heavy melee attacks with either weapon cause poison dealing {[-0.200000 * -100]}% weapon damage for {[5.000000]}s.</string>
+	<string key="PerkID_Artifact_Set2_Amulet1_Name" rel_version="Feature_Artifacts_S5">Phoenix Vengeance</string>
+	<string key="PerkID_Artifact_Set2_Amulet1_Desc" rel_version="Feature_Artifacts_S5">When you receive lethal damage, avoid death and become invulnerable for {[4.000000]}s, after which you die. ({[180.000000]}s cooldown).</string>
 </resources>
 

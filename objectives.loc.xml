@@ -429,7 +429,7 @@
 	<string key="99F_Enc_Liang_Objective_Title_Phase3" rel_version="Quest_MSQ3_Ebonscale">Save the Tormented Prince</string>
 	<string key="99F_Enc_Liang_Objective_Phase3" rel_version="Quest_MSQ3_Ebonscale">Apply 8 more talismans to immobilize Liang</string>
 	<string key="99F_Enc_Liang_Objective_Title_Phase4" rel_version="Quest_MSQ3_Ebonscale">Save the Tormented Prince</string>
-	<string key="99F_Enc_Liang_Objective_Phase4" rel_version="Quest_MSQ3_Ebonscale">Use your Azoth Staff to free Liang's soul and return to the outside</string>
+	<string key="99F_Enc_Liang_Objective_Phase4" rel_version="Quest_MSQ3_Ebonscale">Use your Azoth Staff to free Liang's soul</string>
 	<string key="objective_weekly_description" speaker="UI">Weekly Quest</string>
 	<string key="objective_daily_description" speaker="UI">Daily Quest</string>
 	<string key="objective_hourly_description" speaker="UI">Hourly Quest</string>
