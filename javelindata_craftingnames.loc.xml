@@ -2028,5 +2028,13 @@
 	<string key="CraftArtifact_Set1_Earring2_Name" rel_version="Feature_Artifacts_Set2">Ocean's Peace Upgrade at the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set1_Ring2_Name" rel_version="Feature_Artifacts_Set2">Mastermind Upgrade at the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set1_Amulet2_Name">Ankh Upgrade at the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set2_HeavyHands_Name" rel_version="Feature_Artifacts_S5">Gilli's Gravity Gauntlets Upgrade At the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set2_HeavyLegs_Name" rel_version="Feature_Artifacts_S5">Ironheart Upgrade At the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set2_MediumChest_Name" rel_version="Feature_Artifacts_S5">Nature's Wrath Upgrade At the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set2_LightFeet_Name" rel_version="Feature_Artifacts_S5">Creed Boots Upgrade At the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set2_1hThrowingAxe_Name" rel_version="Feature_Artifacts_S5">Sin Upgrade At the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set2_2hGreatAxe_Name" rel_version="Feature_Artifacts_S5">Tempest Fury Upgrade At the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set2_2hSpear_Name" rel_version="Feature_Artifacts_S5">Venom Upgrade At the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set2_Amulet1_Name" rel_version="Feature_Artifacts_S5">Phoenix Upgrade At the Gypsum Kiln</string>
 </resources>
 

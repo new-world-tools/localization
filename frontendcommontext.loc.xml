@@ -42,12 +42,12 @@
 	<string key="mm_loginservices_InvalidCapability">Login invalid:\nRequested invalid capabilities.</string>
 	<string key="mm_loginservices_ForbiddenError">Access Denied</string>
 	<string key="mm_loginservices_AccessDenied">Access Denied</string>
-	<string key="mm_loginservices_BanCodeOfConduct">Code of Conduct:\n&lt;font color="#0000ff"&gt;&lt;a data="coc"&gt;View Code of Conduct&lt;/a&gt;&lt;/font&gt;</string>
-	<string key="mm_loginservices_BanAppeal">If you believe you have received this penalty in error, you may appeal it by visiting:\n&lt;font color="#0000ff"&gt;&lt;a data="appealban"&gt;Appeal Decision&lt;/a&gt;&lt;/font&gt;</string>
+	<string key="mm_loginservices_BanCodeOfConduct">Code of Conduct:\n&lt;font color="#506AD0"&gt;&lt;a data="coc"&gt;View Code of Conduct&lt;/a&gt;&lt;/font&gt;</string>
+	<string key="mm_loginservices_BanAppeal">If you believe you have received this penalty in error, you may appeal it by visiting:\n&lt;font color="#506AD0"&gt;&lt;a data="appealban"&gt;Appeal Decision&lt;/a&gt;&lt;/font&gt;</string>
 	<string key="mm_loginservices_BannedUntil">until</string>
 	<string key="mm_loginservices_Banned">Access denied: You have been banned.</string>
 	<string key="mm_loginservices_Ban">Access denied: You have been banned.</string>
-	<string key="mm_loginservices_Banned_temporary">Your account has been temporarily banned for &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;{duration}&lt;/font&gt;. Your ban will be lifted on &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;{dateandtime}&lt;/font&gt;.</string>
+	<string key="mm_loginservices_Banned_temporary">Your account has been temporarily banned for &lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;{duration}&lt;/font&gt;. Your ban will be lifted on &lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;{dateandtime}&lt;/font&gt;.</string>
 	<string key="mm_loginservices_Banned_permanent">Your account has been permanently banned.</string>
 	<string key="mm_loginservices_BannedHacking">Access denied: You have been banned for hacking.</string>
 	<string key="mm_loginservices_BannedCheating">Access denied: You have been banned for cheating.</string>
@@ -91,7 +91,7 @@
 	<string key="mm_loginservices_warning_Leaking">You have been flagged for leaking protected content.</string>
 	<string key="mm_loginservices_warning_Disruptive">You have been flagged for disruptive behavior.</string>
 	<string key="mm_loginservices_CreateCharacterFailed">Character could not be created.</string>
-	<string key="mm_loginservices_CreateCharacterRateLimit">You have created too many characters recently. Please try again after &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;{duration}&lt;/font&gt; (&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;{dateandtime}&lt;/font&gt;).</string>
+	<string key="mm_loginservices_CreateCharacterRateLimit">You have created too many characters recently. Please try again after &lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;{duration}&lt;/font&gt; (&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;{dateandtime}&lt;/font&gt;).</string>
 	<string key="mm_loginservices_UnknownCharacter">Login denied: Character does not exist.</string>
 	<string key="mm_loginservices_InactiveCharacter">Login denied: Character is deleted.</string>
 	<string key="mm_loginservices_MustRenameCharacter">Login denied: Character must be renamed.</string>
@@ -208,7 +208,7 @@
 	<string key="mm_rejected_Client_Kicked_BannedCommerce">Payment Issue</string>
 	<string key="mm_rejected_Client_Kicked_Embargoed_Country">We are unable to provide you with access from your current location.</string>
 	<string key="mm_rejected_Client_Kicked_Unknown">You have been kicked from the game.</string>
-	<string key="mm_rejected_Client_Expansion2023_Ownership">Your character is currently locked. &lt;font color="#0000ff"&gt;&lt;a action="OpenRegionalUrl" data="@url_expansion2023_purchase"&gt;Purchase Expansion.&lt;/a&gt;&lt;/font&gt;</string>
+	<string key="mm_rejected_Client_Expansion2023_Ownership">Your character is currently locked. &lt;font color="#506AD0"&gt;&lt;a action="OpenRegionalUrl" data="@url_expansion2023_purchase"&gt;Purchase Expansion.&lt;/a&gt;&lt;/font&gt;</string>
 	<string key="mm_authresult_Authorized">Success</string>
 	<string key="mm_characterCreateDisabled">Character creation is temporarily disabled because this world is full. Please try a different world.</string>
 	<string key="mm_characterTransferDisabled">Character transfers are temporarily disabled because this world is full. Please try a different world.</string>
@@ -229,7 +229,7 @@
 	<string key="mm_authresult_Denied_EasyAntiCheatFailure">EAC Configuration Error. Please see the New World community site for more information, https://forums.newworld.com</string>
 	<string key="mm_authresult_Error_InvalidSetup">Invalid authentication setup.</string>
 	<string key="mm_authresult_Error_Jwt_Persona">Invalid response from login services in obtaining credentials.</string>
-	<string key="mm_authresult_Error_Persona">Failed to authenticate with Persona.</string>
+	<string key="mm_authresult_Error_Persona">Failed to authenticate.</string>
 	<string key="mm_authresult_Error_Persona_Assume_Role">Failed to retrieve credentials.\nPlease try again or contact New World community for more information, https://forums.newworld.com</string>
 	<string key="mm_authresult_Error_Steam">Failed to authenticate with Steam.</string>
 	<string key="mm_authresult_Denied_DatasheetVersionCheckFailed">Datasheet version mismatch.</string>
@@ -240,8 +240,8 @@
 	<string key="mm_queuewithestimate">Estimated Time: {time}\nPosition in Queue: {rank}\n{status}</string>
 	<string key="mm_queuewithcappedestimate">Estimated Time: &gt; {time}\nPosition in Queue: {rank}\n{status}</string>
 	<string key="mm_queueestimateunknown">Estimated Time: Unknown\nPosition in Queue: Unknown\n{status}</string>
-	<string key="mm_queuepopuptitle">Waiting to login…</string>
-	<string key="mm_queuejoinfailed">Cannot login due to too many players in queue. Please try again later.</string>
+	<string key="mm_queuepopuptitle">Logging in...</string>
+	<string key="mm_queuejoinfailed">Cannot log in due to too many players in queue. Please try again later.</string>
 	<string key="mm_queuerefresherror">Error communicating with login queue. Retrying...</string>
 	<string key="mm_server_message_title">Server Message</string>
 	<string key="mm_waitingforaoi_title">Waiting to join…</string>
@@ -255,17 +255,17 @@
 	<string key="lt_1_title">Claiming</string>
 	<string key="lt_1_text">Claim a protection ward to control land for your Company.\nYou can only build structures on claimed land.</string>
 	<string key="lt_2_title">Company</string>
-	<string key="lt_2_text">There's always power in numbers.\nPress &lt;font color="#fff1ce"&gt;&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt; G &lt;/font&gt;&lt;/font&gt; to open the Company menu where you can accept or send Company invites.\n\nYou cannot damage other players in your Company.</string>
+	<string key="lt_2_text">There's always power in numbers.\nPress &lt;font color="#edc63e"&gt;&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt; G &lt;/font&gt;&lt;/font&gt; to open the Company menu where you can accept or send Company invites.\n\nYou cannot damage other players in your Company.</string>
 	<string key="lt_3_title">Chat</string>
-	<string key="lt_3_text">Press &lt;font color="#fff1ce"&gt;&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt; Enter &lt;/font&gt;&lt;/font&gt; to type in chat.\n\nHold &lt;font color="#fff1ce"&gt;&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt; V &lt;/font&gt;&lt;/font&gt; for Voice Chat.</string>
+	<string key="lt_3_text">Press &lt;font color="#edc63e"&gt;&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt; Enter &lt;/font&gt;&lt;/font&gt; to type in chat.\n\nHold &lt;font color="#edc63e"&gt;&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt; V &lt;/font&gt;&lt;/font&gt; for Voice Chat.</string>
 	<string key="lt_4_title">Quickbar</string>
 	<string key="lt_4_text">Equip weapons and tools on your Quickbar.\nYou can equip food and potions on your Quickbar.</string>
 	<string key="lt_5_title">Advanced Combat</string>
-	<string key="lt_5_text1">Swords and Axes have a special attack when you press &lt;font color="#fff1ce"&gt;&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt; Q &lt;/font&gt;&lt;/font&gt;.</string>
-	<string key="lt_5_text2">Hold the &lt;font color="#fff1ce"&gt;&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt; Right Mouse Button &lt;/font&gt;&lt;/font&gt; to block.</string>
+	<string key="lt_5_text1">Swords and Axes have a special attack when you press &lt;font color="#edc63e"&gt;&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt; Q &lt;/font&gt;&lt;/font&gt;.</string>
+	<string key="lt_5_text2">Hold the &lt;font color="#edc63e"&gt;&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt; Right Mouse Button &lt;/font&gt;&lt;/font&gt; to block.</string>
 	<string key="lt_6_title">Advanced Combat II</string>
-	<string key="lt_6_text1">Press &lt;font color="#fff1ce"&gt;&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt; Middle Mouse Button &lt;/font&gt;&lt;/font&gt; to Lock On to targets.</string>
-	<string key="lt_6_text2">If you want to break an opponent’s guard, press &lt;font color="#fff1ce"&gt;&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt; F &lt;/font&gt;&lt;/font&gt; for a break attack.</string>
+	<string key="lt_6_text1">Press &lt;font color="#edc63e"&gt;&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt; Middle Mouse Button &lt;/font&gt;&lt;/font&gt; to Lock On to targets.</string>
+	<string key="lt_6_text2">If you want to break an opponent’s guard, press &lt;font color="#edc63e"&gt;&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt; F &lt;/font&gt;&lt;/font&gt; for a break attack.</string>
 	<string key="lt_7_title">Building Structures</string>
 	<string key="lt_7_text">You can place a structure plan on Claims.\nTo complete a structure plan, add resources as you find them.</string>
 	<string key="ui_chat_placeholder">Enter chat message. @mention a recent chatter</string>
@@ -339,20 +339,47 @@
 	<string key="ui_pvp_track_tut_desc2" rel_version="PvP_Rewards_Track">Progress your track by defeating other players and engaging in PvP Missions, War, Outpost Rush, Capturing Forts, and 3v3 Arenas.</string>
 	<string key="ui_pvp_track_tut_desc3" rel_version="PvP_Rewards_Track">Azoth Salt is the currency that gets you rewards from the PvP Track. You can gain Azoth Salt by engaging in War, Outpost Rush, 3v3 Arenas, PvP Missions, PvP open world kills, and earning XP while flagged.</string>
 	<string key="ui_pvp_track_tut_desc4" rel_version="PvP_Rewards_Track">Choose between unique rewards such as prestige armor and weapons, emotes, currencies, and consumables.</string>
-	<string key="ui_pvp_track_leveltext" rel_version="PvP_Rewards_Track">Tracks Completed: &lt;font color="#FFFFFF" &gt;{level}&lt;/font&gt;</string>
-	<string key="ui_pvp_track_leveltext_header" rel_version="PvP_Rewards_Track">Tracks Completed: &lt;font face="lyshineui/fonts/CaslonAnt.font" color="#FFFFFF"&gt;{level}&lt;/font&gt;</string>
+	<string key="ui_pvp_track_leveltext" rel_version="PvP_Rewards_Track">Tracks Completed: &lt;font color="#ebe3d6" &gt;{level}&lt;/font&gt;</string>
+	<string key="ui_pvp_track_leveltext_header" rel_version="PvP_Rewards_Track">Tracks Completed: &lt;font face="lyshineui/fonts/CaslonAnt.font" color="#ebe3d6"&gt;{level}&lt;/font&gt;</string>
 	<string key="ui_pvp_track_current_balance" rel_version="PvP_Rewards_Track">Current Balance</string>
 	<string key="ui_pvp_track_addtopool" rel_version="PvP_Rewards_Track">+ Reward Pool</string>
 	<string key="ui_pvp_track_rankup_confirmation" rel_version="PvP_Rewards_Track">Receive a bonus for each Checkpoint that has an unclaimed reward, and carry your Azoth Salt over to a new track with new rewards.</string>
-	<string key="ui_pvp_track_rankup_stagesummary" rel_version="PvP_Rewards_Track">\n&lt;font color={colorBonus}&gt;Checkpoint Bonus: &lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#ffffff"&gt;{amount}&lt;/font&gt;&lt;img src="lyshineui/images/icons/misc/icon_azoth_salt" scale="1.5" yOffset="3"&gt;&lt;/img&gt;</string>
-	<string key="ui_pvp_track_rankup_bonussalt" rel_version="PvP_Rewards_Track">&lt;font color={colorBonus}&gt; Track Completion Bonus: &lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_Bold.font" color="#ffffff"&gt;{amount}&lt;/font&gt;&lt;img src="lyshineui/images/icons/misc/icon_azoth_salt" scale="1.5" yOffset="3"&gt;&lt;/img&gt;</string>
+	<string key="ui_pvp_track_rankup_stagesummary" rel_version="PvP_Rewards_Track">\n&lt;font color={colorBonus}&gt;Checkpoint Bonus: &lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#ebe3d6"&gt;{amount}&lt;/font&gt;&lt;img src="lyshineui/images/icons/misc/icon_azoth_salt" scale="1.5" yOffset="3"&gt;&lt;/img&gt;</string>
+	<string key="ui_pvp_track_rankup_bonussalt" rel_version="PvP_Rewards_Track">&lt;font color={colorBonus}&gt; Track Completion Bonus: &lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_Bold.font" color="#ebe3d6"&gt;{amount}&lt;/font&gt;&lt;img src="lyshineui/images/icons/misc/icon_azoth_salt" scale="1.5" yOffset="3"&gt;&lt;/img&gt;</string>
 	<string key="ui_pvp_track_bannertext" rel_version="PvP_Rewards_Track">PvP Track Completed</string>
-	<string key="ui_pvp_track_bannerrewards_1" rel_version="PvPRewardsTrack_Update">Reward Pool: \n+Named Equipment</string>
-	<string key="ui_pvp_track_bannerrewards_2" rel_version="PvPRewardsTrack_Update">Reward Pool: \n+Prestige Equipment</string>
-	<string key="ui_pvp_track_bannerrewards_3" rel_version="PvPRewardsTrack_Update">Reward Pool: \n+Grand Armor\n+Predator Weapons</string>
-	<string key="ui_pvp_track_bannerrewards_4" rel_version="PvPRewardsTrack_Update">Reward Pool: \n+More Dark Matter\n+More Coin\n+More Tokens\n+More Potions</string>
-	<string key="ui_pvp_track_bannerrewards_5" rel_version="PvPRewardsTrack_Update">Reward Pool: \n+More Dark Matter</string>
-	<string key="ui_pvp_track_bannerrewards_6" rel_version="PvPRewardsTrack_Update">Reward Pool: \n+More Everything</string>
+	<string key="ui_pvp_track_bannerrewards_0" rel_version="PvPRewardsTrack_Update">Reward Pool includes: 
+	\nMinimum 650 Gear Score
+	\n+Basic Equipment
+	\n+Prestige Equipment
+	\n+Dark Matter
+	\n+Exclusive Emotes
+	\n+Recruitment Potion Packs</string>
+	<string key="ui_pvp_track_bannerrewards_1" rel_version="PvPRewardsTrack_Update">Reward Pool includes: 
+	\nMinimum 660 Gear Score
+	\n+Named Equipment
+	\n+Upgraded Prestige Equipment
+	\n+Prestige Trinkets
+	\n+Craft Mods
+	\n+Faction Dyes</string>
+	<string key="ui_pvp_track_bannerrewards_2" rel_version="PvPRewardsTrack_Update">Reward Pool includes: 
+	\nMinimum 670 Gear Score
+	\n+Artifacts
+	\n+Named Trinkets
+	\n+Predator Weapons
+	\n+Grand Armor
+	\n+PvP Craft Mods</string>
+	<string key="ui_pvp_track_bannerrewards_3" rel_version="PvPRewardsTrack_Update">Reward Pool includes: 
+	\nMinimum 675 Gear Score</string>
+	<string key="ui_pvp_track_bannerrewards_4" rel_version="PvPRewardsTrack_Update">Reward Pool includes: 
+	\nMinimum 680 Gear Score
+	\n+Upgraded Devastator's Trinkets
+	\n+Champion Housing Items</string>
+	<string key="ui_pvp_track_bannerrewards_5" rel_version="PvPRewardsTrack_Update">Reward Pool includes: 
+	\nMinimum 685 Gear Score</string>
+	<string key="ui_pvp_track_bannerrewards_6" rel_version="PvPRewardsTrack_Update">Reward Pool includes: 
+	\nMinimum 690 Gear Score
+	\n+Predator Trinkets
+	\n+Mount Attachments</string>
 	<string key="ui_pvp_track_next_milestone" rel_version="PvP_Rewards_Track">{milestone} Track Milestone At:</string>
 	<string key="ui_pvp_track_milestone" rel_version="PvP_Rewards_Track">{milestone} Track Milestone</string>
 	<string key="ui_pvp_track_reward" rel_version="PvP_Rewards_Track">Reward</string>
@@ -471,7 +498,7 @@
 	<string key="ui_performances_start" rel_version="Feature_MusicalPerformances">Play</string>
 	<string key="ui_performances_equip" rel_version="Feature_MusicalPerformances">Song Selection</string>
 	<string key="ui_performances_invite" rel_version="Feature_MusicalPerformances">Invite</string>
-	<string key="ui_performances_notes" rel_version="Feature_MusicalPerformances">Music Track Notes</string>
+	<string key="ui_performances_notes" rel_version="Feature_MusicalPerformances">Music Performance</string>
 	<string key="ui_performances_note_up" rel_version="Feature_MusicalPerformances">Note Up</string>
 	<string key="ui_performances_note_down" rel_version="Feature_MusicalPerformances">Note Down</string>
 	<string key="ui_performances_note_left" rel_version="Feature_MusicalPerformances">Note Left</string>
@@ -479,6 +506,22 @@
 	<string key="ui_performances_note_bottom" rel_version="Feature_MusicalPerformances">Note Bottom</string>
 	<string key="ui_performances_chord_1" rel_version="Feature_MusicalPerformances">1st Chord Note</string>
 	<string key="ui_performances_chord_2" rel_version="Feature_MusicalPerformances">2nd Chord Note</string>
+	<string key="ui_wheel_menus" rel_version="Feature_Controller">Wheel Menus</string>
+	<string key="ui_radial_wheel" rel_version="Feature_Controller">Activity Wheel</string>
+	<string key="ui_consumable_wheel" rel_version="Feature_Controller">Consumables</string>
+	<string key="ui_gear_set_wheel" rel_version="Feature_Controller">Gear Sets</string>
+	<string key="ui_wheel_cancel" rel_version="Feature_Controller">Cancel</string>
+	<string key="ui_radial_fish" rel_version="Feature_Controller">Fish</string>
+	<string key="ui_radial_camp" rel_version="Feature_Controller">Camp</string>
+	<string key="ui_radial_emote" rel_version="Feature_Controller">Emotes</string>
+	<string key="ui_radial_chat" rel_version="Feature_Controller">Chat</string>
+	<string key="ui_radial_social" rel_version="Feature_Controller">Social</string>
+	<string key="ui_radial_company" rel_version="Feature_Controller">Company</string>
+	<string key="ui_radial_augments" rel_version="Feature_Controller">Augments</string>
+	<string key="ui_radial_music" rel_version="Feature_Controller">Music</string>
+	<string key="ui_radial_store" rel_version="Feature_Controller">Store</string>
+	<string key="ui_radial_pvp" rel_version="Feature_Controller">Toggle PvP</string>
+	<string key="ui_shift_modifier" rel_version="Feature_Controller">Shift Modifier</string>
 	<string key="ui_camping">Camping</string>
 	<string key="ui_tracking">Coming Soon</string>
 	<string key="ui_exploring">Coming Soon</string>
@@ -486,7 +529,7 @@
 	<string key="ui_repairing">Repairing</string>
 	<string key="ui_gathering">Gathering</string>
 	<string key="ui_refining">Refining</string>
-	<string key="ui_taxes">Taxes</string>
+	<string key="ui_taxes">Fees</string>
 	<string key="ui_survival">Personal Skills</string>
 	<string key="ui_weaponsmithing">Weaponsmithing</string>
 	<string key="ui_armoring">Armoring</string>
@@ -526,6 +569,10 @@
 	<string key="ui_riding_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_Mounts">Riding Post Cap</string>
 	<string key="ui_seasonpass" rel_version="Feature_Seasons_Rewards">Season Pass</string>
 	<string key="ui_decline">Decline</string>
+	<string key="ui_decline_invitation">Decline Invitation</string>
+	<string key="ui_joining_from_invite" comment="">Select a character to join {playerName} </string>
+	<string key="ui_joining_from_invite_notification_title" comment="">Joining {playerName}'s Game </string>
+	<string key="ui_joining_from_invite_notification_text" comment="">Joining session with {characterName} </string>
 	<string key="ui_name_your_avatar">Character Name</string>
 	<string key="ui_portrait_title">My Portrait</string>
 	<string key="mm_connection_error_title">Connection Error</string>
@@ -577,7 +624,7 @@
 	<string key="ui_rename">Rename</string>
 	<string key="ui_rename_character_title">Character Name</string>
 	<string key="ui_rename_report_description">Your Character's name was flagged as inappropriate. When logging back in, you will be asked to rename it.</string>
-	<string key="ui_rename_required">You are required to rename &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;{name}&lt;/font&gt;.</string>
+	<string key="ui_rename_required">You are required to rename &lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;{name}&lt;/font&gt;.</string>
 	<string key="ui_rename_required_ban">Once your ban is lifted, you will be required to rename your character.</string>
 	<string key="mm_newworldlinktext">Go to newworld.com</string>
 	<string key="url_newworldsite" comment="once pre-orders are open, we'll need to switch to http://newworld.com/game-selection/index.html">https://newworld.com/</string>
@@ -602,9 +649,9 @@
 	<string key="backtrace_optIn">%s has encountered a fatal error.  We're sorry for the inconvenience.\n\nA crash debugging file has been created at:\n%s\n\nIf you are willing to submit this file to Amazon it will help us improve the New World experience.  We will treat this report as confidential.\n\nWould you like to send the error report?</string>
 	<string key="backtrace_optIn_NeverShowAgainA">Continue to ask for future crashes?\n\nIf NO, we will never send future crashes by default (nor continue to ask).</string>
 	<string key="backtrace_optIn_NeverShowAgainB">Continue to ask for future crashes?\n\nIf NO, we will continue to send future crashes without asking.</string>
-	<string key="ui_region_character_count">&lt;font color="#ffffff"&gt;{numCharacter}&lt;/font&gt; / {maxCharacter}</string>
+	<string key="ui_region_character_count">&lt;font color="#ebe3d6"&gt;{numCharacter}&lt;/font&gt; / {maxCharacter}</string>
 	<string key="ui_milliseconds_markup">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{time}&lt;/font&gt; ms</string>
-	<string key="ui_region_character_tooltip">&lt;font color="#aeab9d"&gt;&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;Character Limit per Region&lt;/font&gt;&lt;/font&gt;\n\nYou have &lt;font color="#ffffff"&gt;{numCharacter}&lt;/font&gt; characters in this region. The maximum is {maxCharacter}.</string>
+	<string key="ui_region_character_tooltip">&lt;font color="#aeab9d"&gt;&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;Character Limit per Region&lt;/font&gt;&lt;/font&gt;\n\nYou have &lt;font color="#ebe3d6"&gt;{numCharacter}&lt;/font&gt; characters in this region. The maximum is {maxCharacter}.</string>
 	<string key="mm_us_west" comment="US means United States">US West</string>
 	<string key="mm_us_east" comment="US means United States">US East</string>
 	<string key="mm_eu_central" comment="EU means European Union">EU Central</string>

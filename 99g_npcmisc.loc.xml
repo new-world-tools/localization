@@ -1,2 +1,39 @@
-<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="99G_Sun" rel_version="Quest_MSQ3_Shattered">Sun Fuchun</string>
+	<string key="99G_Sun_title" rel_version="Quest_MSQ3_Shattered">Imperial Court Alchemist</string>
+	<string key="99G_Yash" rel_version="Quest_MSQ3_Shattered">Yash Zafar</string>
+	<string key="99G_Yash_title" rel_version="Quest_MSQ3_Shattered">Soulwarden Vanguard</string>
+	<string key="99G_Grace" rel_version="Quest_MSQ3_Shattered">Grace O'Malley</string>
+	<string key="99G_Grace_title" rel_version="Quest_MSQ3_Shattered">Pirate</string>
+	<string key="99G_Walker" rel_version="Quest_MSQ3_Shattered">Walker</string>
+	<string key="99G_Walker_title" rel_version="Quest_MSQ3_Shattered">Soulwarden</string>
+	<string key="99G_Wayne" rel_version="Quest_MSQ3_Shattered">Wayne Ballou</string>
+	<string key="99G_Wayne_title" rel_version="Quest_MSQ3_Shattered">Soulwarden</string>
+	<string key="99G_Constance" rel_version="Quest_MSQ3_Shattered">Constance Zarigueya</string>
+	<string key="99G_Constance_title" rel_version="Quest_MSQ3_Shattered">Soulwarden</string>
+	<string key="99G_Eliza" rel_version="Quest_MSQ3_Shattered">Eliza Turnbuckle</string>
+	<string key="99G_Eliza_title" rel_version="Quest_MSQ3_Shattered">Soulwarden</string>
+	<string key="99G_Samir" rel_version="Quest_MSQ3_Shattered">Samira Katari</string>
+	<string key="99G_Samir_title" rel_version="Quest_MSQ3_Shattered">Soulwarden</string>
+	<string key="99G_Morgaine" rel_version="Quest_MSQ3_Shattered">Morgaine</string>
+	<string key="99G_Morgaine_title" rel_version="Quest_MSQ3_Shattered">Sorceress</string>
+	<string key="99G_Russo" rel_version="Quest_MSQ3_Shattered">Father Russo</string>
+	<string key="99G_Russo_title" rel_version="Quest_MSQ3_Shattered">Priest</string>
+	<string key="99G_Phaeris" rel_version="Quest_MSQ3_Shattered">Phaeris</string>
+	<string key="99G_Phaeris_title" rel_version="Quest_MSQ3_Shattered">Angry Earth Peacemaker</string>
+	<string key="99G_Adiana" rel_version="Quest_MSQ3_Shattered">Adiana Theron</string>
+	<string key="99G_Adiana_title" rel_version="Quest_MSQ3_Shattered">Huntress</string>
+	<string key="99G_Greenstalk" rel_version="Quest_MSQ3_Shattered">Greenstalk</string>
+	<string key="99G_Greenstalk_title" rel_version="Quest_MSQ3_Shattered">Blighted Angry Earth Cohort</string>
+	<string key="99G_Blueshell" rel_version="Quest_MSQ3_Shattered">Blueshell</string>
+	<string key="99G_Blueshell_title" rel_version="Quest_MSQ3_Shattered">Blighted Angry Earth Cohort</string>
+	<string key="99G_Bonesplitter" rel_version="Quest_MSQ3_Shattered">Bonesplitter</string>
+	<string key="99G_Bonesplitter_title" rel_version="Quest_MSQ3_Shattered">Ensorcelled Ancient Guardian</string>
+	<string key="99G_Faceless" rel_version="Quest_MSQ3_Shattered">The Faceless Man</string>
+	<string key="99G_Faceless_title" rel_version="Quest_MSQ3_Shattered">Ensorcelled Ancient Guardian</string>
+	<string key="99G_Wu" rel_version="Quest_MSQ3_Shattered">Han Wu</string>
+	<string key="99G_Wu_title" rel_version="Quest_MSQ3_Shattered">Ebonscale Imperial Guard</string>
+	<string key="99G_Mei" rel_version="Quest_MSQ3_Shattered">Cao Mei</string>
+	<string key="99G_Mei_title" rel_version="Quest_MSQ3_Shattered">Ebonscale Imperial Guard</string>
+</resources>
 

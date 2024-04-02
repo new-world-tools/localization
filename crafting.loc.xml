@@ -40,19 +40,19 @@
 	<string key="cr_rarity">Rarity</string>
 	<string key="cr_requires">Requires</string>
 	<string key="cr_tier">Tier</string>
-	<string key="cr_tier_tooltip">Tier &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;&lt;font color="#ffffff"&gt;{number}&lt;/font&gt;&lt;/font&gt;</string>
+	<string key="cr_tier_tooltip">Tier &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;&lt;font color="#ebe3d6"&gt;{number}&lt;/font&gt;&lt;/font&gt;</string>
 	<string key="cr_skill">Skill</string>
 	<string key="cr_base_amount">Base Amount</string>
 	<string key="cr_bonus_amount">Bonus</string>
-	<string key="cr_message_blacksmith">&lt;img src="lyshineui/images/icons/misc/icon_exclamation" xPadding="0" scale="1.2" yOffset="1.5"&gt;&lt;/img&gt; You need to be at a &lt;font color="#b3b3b3"&gt;&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;Forge&lt;/font&gt;&lt;/font&gt; to craft these recipes.</string>
-	<string key="cr_message_outfitting">&lt;img src="lyshineui/images/icons/misc/icon_exclamation" xPadding="0" scale="1.2" yOffset="1.5"&gt;&lt;/img&gt; You need to be at an &lt;font color="#b3b3b3"&gt;&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;Outfitting Station&lt;/font&gt;&lt;/font&gt; to craft these recipes.</string>
-	<string key="cr_message_engineering">&lt;img src="lyshineui/images/icons/misc/icon_exclamation" xPadding="0" scale="1.2" yOffset="1.5"&gt;&lt;/img&gt; You need to be at a &lt;font color="#b3b3b3"&gt;&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;Workshop&lt;/font&gt;&lt;/font&gt; to craft these recipes.</string>
-	<string key="cr_message_camp">&lt;img src="lyshineui/images/icons/misc/icon_exclamation" xPadding="0" scale="1.2" yOffset="1.5"&gt;&lt;/img&gt; You need to be at a &lt;font color="#b3b3b3"&gt;&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;Camp&lt;/font&gt;&lt;/font&gt; to craft these recipes.</string>
-	<string key="cr_message_cooking">&lt;img src="lyshineui/images/icons/misc/icon_exclamation" xPadding="0" scale="1.2" yOffset="1.5"&gt;&lt;/img&gt; You need to be at a &lt;font color="#b3b3b3"&gt;&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;Kitchen&lt;/font&gt;&lt;/font&gt; to craft these recipes.</string>
-	<string key="cr_message_alchemy">&lt;img src="lyshineui/images/icons/misc/icon_exclamation" xPadding="0" scale="1.2" yOffset="1.5"&gt;&lt;/img&gt; You need to be at an &lt;font color="#b3b3b3"&gt;&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;Arcane Repository&lt;/font&gt;&lt;/font&gt; to craft these recipes.</string>
-	<string key="cr_add_inventory">Added to &lt;font color="#c0c0c0"&gt;Inventory&lt;/font&gt;</string>
-	<string key="cr_add_quickslot">Added to &lt;font color="#c0c0c0"&gt;Quick Slot&lt;/font&gt;</string>
-	<string key="cr_add_equipment">Added to &lt;font color="#c0c0c0"&gt;Equipment&lt;/font&gt;</string>
+	<string key="cr_message_blacksmith">&lt;img src="lyshineui/images/icons/misc/icon_exclamation" xPadding="0" scale="1.2" yOffset="1.5"&gt;&lt;/img&gt; You need to be at a &lt;font color="#b2aea1"&gt;&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;Forge&lt;/font&gt;&lt;/font&gt; to craft these recipes.</string>
+	<string key="cr_message_outfitting">&lt;img src="lyshineui/images/icons/misc/icon_exclamation" xPadding="0" scale="1.2" yOffset="1.5"&gt;&lt;/img&gt; You need to be at an &lt;font color="#b2aea1"&gt;&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;Outfitting Station&lt;/font&gt;&lt;/font&gt; to craft these recipes.</string>
+	<string key="cr_message_engineering">&lt;img src="lyshineui/images/icons/misc/icon_exclamation" xPadding="0" scale="1.2" yOffset="1.5"&gt;&lt;/img&gt; You need to be at a &lt;font color="#b2aea1"&gt;&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;Workshop&lt;/font&gt;&lt;/font&gt; to craft these recipes.</string>
+	<string key="cr_message_camp">&lt;img src="lyshineui/images/icons/misc/icon_exclamation" xPadding="0" scale="1.2" yOffset="1.5"&gt;&lt;/img&gt; You need to be at a &lt;font color="#b2aea1"&gt;&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;Camp&lt;/font&gt;&lt;/font&gt; to craft these recipes.</string>
+	<string key="cr_message_cooking">&lt;img src="lyshineui/images/icons/misc/icon_exclamation" xPadding="0" scale="1.2" yOffset="1.5"&gt;&lt;/img&gt; You need to be at a &lt;font color="#b2aea1"&gt;&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;Kitchen&lt;/font&gt;&lt;/font&gt; to craft these recipes.</string>
+	<string key="cr_message_alchemy">&lt;img src="lyshineui/images/icons/misc/icon_exclamation" xPadding="0" scale="1.2" yOffset="1.5"&gt;&lt;/img&gt; You need to be at an &lt;font color="#b2aea1"&gt;&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;Arcane Repository&lt;/font&gt;&lt;/font&gt; to craft these recipes.</string>
+	<string key="cr_add_inventory">Added to &lt;font color="#b2aea1"&gt;Inventory&lt;/font&gt;</string>
+	<string key="cr_add_quickslot">Added to &lt;font color="#b2aea1"&gt;Quick Slot&lt;/font&gt;</string>
+	<string key="cr_add_equipment">Added to &lt;font color="#b2aea1"&gt;Equipment&lt;/font&gt;</string>
 	<string key="cr_cantcraft">Craft</string>
 	<string key="cr_itemdisabled">Item Temporarily Disabled</string>
 	<string key="cr_alreadycrafted" rel_version="Feature_Camp_Skins">Already crafted</string>
@@ -87,17 +87,17 @@
 	<string key="cr_tooltip_secondary_non_gear">You can use any item in the list to achieve the same result.</string>
 	<string key="cr_tooltip_cooldown_one">If you craft 1 item, you will have to wait for {time} to craft this item again.</string>
 	<string key="cr_tooltip_cooldown_many">If you craft {amount} items, you will have to wait for {time} to craft this item again.</string>
-	<string key="crafting_tab_blacksmith">&lt;font color="#f10000"&gt;&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Not at station.&lt;/font&gt;&lt;/font&gt;\n\nFind &lt;font color="#ffffff"&gt;a Forge&lt;/font&gt; to craft these recipes.</string>
-	<string key="crafting_tab_outfitting">&lt;font color="#f10000"&gt;&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Not at station.&lt;/font&gt;&lt;/font&gt;\n\nFind &lt;font color="#ffffff"&gt;an Outfitting Station&lt;/font&gt; to craft these recipes.</string>
-	<string key="crafting_tab_engineering">&lt;font color="#f10000"&gt;&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Not at station.&lt;/font&gt;&lt;/font&gt;\n\nFind &lt;font color="#ffffff"&gt;a Workshop&lt;/font&gt; to craft these recipes.</string>
-	<string key="crafting_tab_alchemy">&lt;font color="#f10000"&gt;&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Not at station.&lt;/font&gt;&lt;/font&gt;\n\nFind &lt;font color="#ffffff"&gt;an Arcane Repository&lt;/font&gt; to craft these recipes.</string>
-	<string key="crafting_tab_camping">&lt;font color="#f10000"&gt;&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Not at station.&lt;/font&gt;&lt;/font&gt;\n\nMake &lt;font color="#ffffff"&gt;a Camp&lt;/font&gt; to craft these recipes.</string>
-	<string key="crafting_tab_cooking">&lt;font color="#f10000"&gt;&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Not at station.&lt;/font&gt;&lt;/font&gt;\n\nFind &lt;font color="#ffffff"&gt;a Kitchen&lt;/font&gt; to craft these recipes.</string>
-	<string key="crafting_tab_carpentry">&lt;font color="#f10000"&gt;&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Not at station.&lt;/font&gt;&lt;/font&gt;\n\nFind &lt;font color="#ffffff"&gt;a Woodshop&lt;/font&gt; to craft these recipes.</string>
-	<string key="crafting_tab_masonary">&lt;font color="#f10000"&gt;&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Not at station.&lt;/font&gt;&lt;/font&gt;\n\nFind &lt;font color="#ffffff"&gt;a Stonecutting Table&lt;/font&gt; to craft these recipes.</string>
-	<string key="crafting_tab_smelting">&lt;font color="#f10000"&gt;&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Not at station.&lt;/font&gt;&lt;/font&gt;\n\nFind &lt;font color="#ffffff"&gt;a Smelter&lt;/font&gt; to craft these recipes.</string>
-	<string key="crafting_tab_tanning">&lt;font color="#f10000"&gt;&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Not at station.&lt;/font&gt;&lt;/font&gt;\n\nFind &lt;font color="#ffffff"&gt;a Tannery&lt;/font&gt; to craft these recipes.</string>
-	<string key="crafting_tab_weaving">&lt;font color="#f10000"&gt;&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Not at station.&lt;/font&gt;&lt;/font&gt;\n\nFind &lt;font color="#ffffff"&gt;a Loom&lt;/font&gt; to craft these recipes.</string>
+	<string key="crafting_tab_blacksmith">&lt;font color="#ff7171"&gt;&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Not at station.&lt;/font&gt;&lt;/font&gt;\n\nFind &lt;font color="#ebe3d6"&gt;a Forge&lt;/font&gt; to craft these recipes.</string>
+	<string key="crafting_tab_outfitting">&lt;font color="#ff7171"&gt;&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Not at station.&lt;/font&gt;&lt;/font&gt;\n\nFind &lt;font color="#ebe3d6"&gt;an Outfitting Station&lt;/font&gt; to craft these recipes.</string>
+	<string key="crafting_tab_engineering">&lt;font color="#ff7171"&gt;&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Not at station.&lt;/font&gt;&lt;/font&gt;\n\nFind &lt;font color="#ebe3d6"&gt;a Workshop&lt;/font&gt; to craft these recipes.</string>
+	<string key="crafting_tab_alchemy">&lt;font color="#ff7171"&gt;&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Not at station.&lt;/font&gt;&lt;/font&gt;\n\nFind &lt;font color="#ebe3d6"&gt;an Arcane Repository&lt;/font&gt; to craft these recipes.</string>
+	<string key="crafting_tab_camping">&lt;font color="#ff7171"&gt;&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Not at station.&lt;/font&gt;&lt;/font&gt;\n\nMake &lt;font color="#ebe3d6"&gt;a Camp&lt;/font&gt; to craft these recipes.</string>
+	<string key="crafting_tab_cooking">&lt;font color="#ff7171"&gt;&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Not at station.&lt;/font&gt;&lt;/font&gt;\n\nFind &lt;font color="#ebe3d6"&gt;a Kitchen&lt;/font&gt; to craft these recipes.</string>
+	<string key="crafting_tab_carpentry">&lt;font color="#ff7171"&gt;&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Not at station.&lt;/font&gt;&lt;/font&gt;\n\nFind &lt;font color="#ebe3d6"&gt;a Woodshop&lt;/font&gt; to craft these recipes.</string>
+	<string key="crafting_tab_masonary">&lt;font color="#ff7171"&gt;&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Not at station.&lt;/font&gt;&lt;/font&gt;\n\nFind &lt;font color="#ebe3d6"&gt;a Stonecutting Table&lt;/font&gt; to craft these recipes.</string>
+	<string key="crafting_tab_smelting">&lt;font color="#ff7171"&gt;&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Not at station.&lt;/font&gt;&lt;/font&gt;\n\nFind &lt;font color="#ebe3d6"&gt;a Smelter&lt;/font&gt; to craft these recipes.</string>
+	<string key="crafting_tab_tanning">&lt;font color="#ff7171"&gt;&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Not at station.&lt;/font&gt;&lt;/font&gt;\n\nFind &lt;font color="#ebe3d6"&gt;a Tannery&lt;/font&gt; to craft these recipes.</string>
+	<string key="crafting_tab_weaving">&lt;font color="#ff7171"&gt;&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Not at station.&lt;/font&gt;&lt;/font&gt;\n\nFind &lt;font color="#ebe3d6"&gt;a Loom&lt;/font&gt; to craft these recipes.</string>
 	<string key="crafting_current_refining">Current refining station.</string>
 	<string key="crafting_current_crafting">Current crafting station.</string>
 	<string key="crafting_hide_summary">Hide Summary</string>
@@ -141,18 +141,19 @@
 	<string key="crafting_always_available">Always Available</string>
 	<string key="crafting_dye_family">Dyes.</string>
 	<string key="crafting_open_dye_crafting">Dye Crafting</string>
-	<string key="crafting_fee">Fee: &lt;font color="#e8e8e8" face="lyshineui/fonts/CaslonAnt.font"&gt;{fee}&lt;/font&gt;&lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
-	<string key="crafting_fee_low">Insufficient Funds : &lt;font color="#e8e8e8" face="lyshineui/fonts/CaslonAnt.font"&gt;{fee} &lt;/font&gt;&lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
+	<string key="crafting_fee">Fee: &lt;font color="#b2aea1" face="lyshineui/fonts/CaslonAnt.font"&gt;{fee}&lt;/font&gt;&lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
+	<string key="crafting_fee_low">Insufficient Funds : &lt;font color="#b2aea1" face="lyshineui/fonts/CaslonAnt.font"&gt;{fee} &lt;/font&gt;&lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
 	<string key="crafting_fee_low_no_fee">Insufficient Funds</string>
 	<string key="crafting_craftagain">CRAFT AGAIN</string>
 	<string key="crafting_craftagain_fee">CRAFT AGAIN {fee}&lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
-	<string key="crafting_gemhint">Add &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{itemName}&lt;/font&gt; to increase &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Gem Socket&lt;/font&gt; chance</string>
-	<string key="crafting_perkhint">Add &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{itemName}&lt;/font&gt; to increase &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Perk&lt;/font&gt; chance</string>
+	<string key="crafting_gemhint">Add &lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{itemName}&lt;/font&gt; to increase &lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Gem Socket&lt;/font&gt; chance</string>
+	<string key="crafting_perkhint">Add &lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{itemName}&lt;/font&gt; to increase &lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Perk&lt;/font&gt; chance</string>
 	<string key="crafting_gemtitle">Add Primary Material</string>
 	<string key="crafting_gemdesc">Increases Gem Socket Chance</string>
 	<string key="crafting_perktitle">Add Azoth</string>
 	<string key="crafting_perkdesc">Increases chance to get additional bonus</string>
 	<string key="crafting_specialtitle">Add Craft Mod</string>
+	<string key="crafting_specialattributetitle">Add Attribute Craft Mod</string>
 	<string key="crafting_specialdesc">Determines Perk</string>
 	<string key="crafting_specialadded">Craft Mod</string>
 	<string key="crafting_azothadded">Azoth</string>
@@ -183,7 +184,7 @@
 	<string key="crafting_azothbonus_perk5">Perk 5</string>
 	<string key="crafting_azothbonus_gemslot">Gem Slot</string>
 	<string key="crafting_guaranteed_perk">&lt;img src="{perkImage}" xPadding="2" scale="2" yOffset="8"&gt;&lt;/img&gt; {perkName}</string>
-	<string key="crafting_lowchance">&lt;font color="#f25d5d"&gt;Low&lt;/font&gt; Chance</string>
+	<string key="crafting_lowchance">&lt;font color="#ff7171"&gt;Low&lt;/font&gt; Chance</string>
 	<string key="crafting_medchance">&lt;font color="#f67817"&gt;Medium&lt;/font&gt; Chance</string>
 	<string key="crafting_highchance">&lt;font color="#17aa7b"&gt;High&lt;/font&gt; Chance</string>
 	<string key="crafting_veryhighchance">&lt;font color="#17aa7b"&gt;Very High&lt;/font&gt; Chance</string>
@@ -193,21 +194,21 @@
 	<string key="crafting_perklabel">Perk</string>
 	<string key="crafting_failed">Crafting attempt failed.</string>
 	<string key="crafting_randomperk">Randomly selected Perk</string>
-	<string key="crafting_gem_lowchance">&lt;font color="#ffaa00" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Low&lt;/font&gt; chance for a &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Gem Socket&lt;/font&gt;</string>
-	<string key="crafting_gem_medchance">&lt;font color="#ffaa00" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Slightly Increased&lt;/font&gt; chance for a &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Gem Socket&lt;/font&gt;</string>
-	<string key="crafting_gem_highchance">&lt;font color="#ffaa00" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Increased&lt;/font&gt; chance for a &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Gem Socket&lt;/font&gt;</string>
-	<string key="crafting_gem_veryhighchance">&lt;font color="#ffaa00" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Highly Increased&lt;/font&gt; chance for a &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Gem Socket&lt;/font&gt;</string>
-	<string key="crafting_perk_lowchance">&lt;font color="#ffaa00" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Low&lt;/font&gt; chance of getting a &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Perk&lt;/font&gt;</string>
-	<string key="crafting_perk_medchance">&lt;font color="#ffaa00" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Slightly Increased&lt;/font&gt; chance of getting a &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Perk&lt;/font&gt;</string>
-	<string key="crafting_perk_highchance">&lt;font color="#ffaa00" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Increased&lt;/font&gt; chance of getting a &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Perk&lt;/font&gt;</string>
-	<string key="crafting_perk_veryhighchance">&lt;font color="#ffaa00" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Highly Increased&lt;/font&gt; chance of getting a &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Perk&lt;/font&gt;</string>
-	<string key="crafting_perkmultiple_lowchance">&lt;font color="#ffaa00" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Low&lt;/font&gt; chance of maximum &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Perks&lt;/font&gt;</string>
-	<string key="crafting_perkmultiple_medchance">&lt;font color="#ffaa00" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Slightly Increased&lt;/font&gt; chance of maximum &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Perks&lt;/font&gt;</string>
-	<string key="crafting_perkmultiple_highchance">&lt;font color="#ffaa00" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Increased&lt;/font&gt; chance of maximum &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Perks&lt;/font&gt;</string>
-	<string key="crafting_perkmultiple_veryhighchance">&lt;font color="#ffaa00" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Highly Increased&lt;/font&gt; chance of maximum &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Perks&lt;/font&gt;</string>
-	<string key="crafting_specificperk_chance">&lt;font color="#ffaa00" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Increased&lt;/font&gt; chance of getting the &lt;font color="#ffaa00" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;&lt;a action="ShowPerkInfo" data="{perkId}"&gt;{perkName}&lt;/a&gt;&lt;/font&gt; perk</string>
-	<string key="crafting_perkrange">&lt;font color="#ffaa00"&gt;{lowAmount}-{highAmount}&lt;/font&gt; &lt;font color="#ffffff"&gt; Perks&lt;/font&gt;</string>
-	<string key="crafting_min_max">{min}-&lt;font color="#e9c172"&gt;{max}&lt;/font&gt;</string>
+	<string key="crafting_gem_lowchance">&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Low&lt;/font&gt; chance for a &lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Gem Socket&lt;/font&gt;</string>
+	<string key="crafting_gem_medchance">&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Slightly Increased&lt;/font&gt; chance for a &lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Gem Socket&lt;/font&gt;</string>
+	<string key="crafting_gem_highchance">&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Increased&lt;/font&gt; chance for a &lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Gem Socket&lt;/font&gt;</string>
+	<string key="crafting_gem_veryhighchance">&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Highly Increased&lt;/font&gt; chance for a &lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Gem Socket&lt;/font&gt;</string>
+	<string key="crafting_perk_lowchance">&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Low&lt;/font&gt; chance of getting a &lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Perk&lt;/font&gt;</string>
+	<string key="crafting_perk_medchance">&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Slightly Increased&lt;/font&gt; chance of getting a &lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Perk&lt;/font&gt;</string>
+	<string key="crafting_perk_highchance">&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Increased&lt;/font&gt; chance of getting a &lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Perk&lt;/font&gt;</string>
+	<string key="crafting_perk_veryhighchance">&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Highly Increased&lt;/font&gt; chance of getting a &lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Perk&lt;/font&gt;</string>
+	<string key="crafting_perkmultiple_lowchance">&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Low&lt;/font&gt; chance of maximum &lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Perks&lt;/font&gt;</string>
+	<string key="crafting_perkmultiple_medchance">&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Slightly Increased&lt;/font&gt; chance of maximum &lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Perks&lt;/font&gt;</string>
+	<string key="crafting_perkmultiple_highchance">&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Increased&lt;/font&gt; chance of maximum &lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Perks&lt;/font&gt;</string>
+	<string key="crafting_perkmultiple_veryhighchance">&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Highly Increased&lt;/font&gt; chance of maximum &lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Perks&lt;/font&gt;</string>
+	<string key="crafting_specificperk_chance">&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Increased&lt;/font&gt; chance of getting the &lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;&lt;a action="ShowPerkInfo" data="{perkId}"&gt;{perkName}&lt;/a&gt;&lt;/font&gt; perk</string>
+	<string key="crafting_perkrange">&lt;font color="#edc63e"&gt;{lowAmount}-{highAmount}&lt;/font&gt; &lt;font color="#ebe3d6"&gt; Perks&lt;/font&gt;</string>
+	<string key="crafting_min_max">{min}-&lt;font color="#edc63e"&gt;{max}&lt;/font&gt;</string>
 	<string key="ui_dyes">Dyes.</string>
 	<string key="ui_armordyes">Armor Dyes</string>
 	<string key="ui_craftprogress">Crafting {amount} of {maximum}</string>
@@ -225,6 +226,9 @@
 	<string key="crafting_filter_clear">CLEAR FILTERS</string>
 	<string key="crafting_filter_clear_all">Clear All</string>
 	<string key="crafting_filter_placeholder">Search</string>
+	<string key="crafting_view_filters">Filters</string>
+	<string key="crafting_expand_all">Expand All</string>
+	<string key="crafting_collapse_all">Collapse All</string>
 	<string key="crafting_category_select_title">SELECT MATERIAL</string>
 	<string key="crafting_discount_base">Base Fee</string>
 	<string key="ui_crafting_resource_origin_message">Crafting materials are used from your inventory before your storage.</string>

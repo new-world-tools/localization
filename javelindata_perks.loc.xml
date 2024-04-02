@@ -1152,7 +1152,7 @@
 	<string key="PerkID_Ability_Musket_ShootersStance_Name">Empowering Shooter's Stance</string>
 	<string key="PerkID_Ability_Musket_ShootersStance_Description">Hitting a target while in Shooter's Stance grants a stack of Empower, increasing damage by {[Type_StatusEffectData.Status_Perk_Musket_ShootersStance_Empower.DMGStandard * 100 * {perkMultiplier}]}% for {[Type_StatusEffectData.Status_Perk_Musket_ShootersStance_Empower.BaseDuration]}s. Effect is removed when stance is exited (Max {[Type_StatusEffectData.Status_Perk_Musket_ShootersStance_Empower.StackMax]} stacks).</string>
 	<string key="PerkID_Ability_Musket_StoppingPower_Name">Refreshing Stopping Power</string>
-	<string key="PerkID_Ability_Musket_StoppingPower_Description">Stopping Power on hit reduces all other trapper skills by {[PerksAbilityTable.GlobalPerk_Ability_Musket_StoppingPower.CooldownTimer * -100 * {perkMultiplier}]}%.</string>
+	<string key="PerkID_Ability_Musket_StoppingPower_Description">Stopping Power hits reduces all other trapper skill cooldowns by {[PerksAbilityTable.GlobalPerk_Ability_Musket_StoppingPower.CooldownTimer * -100 * {perkMultiplier}]}%.</string>
 	<string key="PerkID_Ability_Musket_Traps_Name">Accelerating Traps</string>
 	<string key="PerkID_Ability_Musket_Traps_Description">+{[Type_StatusEffectData.Status_Perk_Musket_Traps_Haste.MoveSpeedMod * 100 * {perkMultiplier}]}% movement speed for {[Type_StatusEffectData.Status_Perk_Musket_Traps_Haste.BaseDuration]}s after deploying a trap (Does not stack). Traps now apply Bleed for {[Type_StatusEffectData.Status_Perk_Musket_Traps_Bleed.HealthModifierDamageBased * -100 * {perkMultiplier}]}% of weapon damage for {[Type_StatusEffectData.Status_Perk_Musket_Traps_Bleed.BaseDuration]}s.</string>
 	<string key="PerkID_Ability_Musket_StickyBomb_Name">Mending Sticky Bombs</string>
@@ -1164,7 +1164,7 @@
 	<string key="PerkID_Ability_Spear_Cyclone_Name">Leeching Cyclone</string>
 	<string key="PerkID_Ability_Spear_Cyclone_Description">Cyclone hits heal you for {[PerksAbilityTable.GlobalPerk_Ability_Spear_Cyclone.DmgPctToHealth * 100 * {perkMultiplier}]}% of weapon damage (Max {[PerksAbilityTable.GlobalPerk_Ability_Spear_Cyclone.NumberOfTrackedHits]} targets).</string>
 	<string key="PerkID_Ability_Spear_Perforate_Name">Fortifying Perforate</string>
-	<string key="PerkID_Ability_Spear_Perforate_Description">Perforate hits gain a stack of Fortify, increasing your armor by {[Type_StatusEffectData.Status_Perk_Spear_Perforate_Fortify.PhysicalArmor * 100 * {perkMultiplier}]}% for {[Type_StatusEffectData.Status_Perk_Spear_Perforate_Fortify.BaseDuration]}s.</string>
+	<string key="PerkID_Ability_Spear_Perforate_Description">Perforate hits gain a stack of Fortify, increasing your armor by {[Type_StatusEffectData.Status_Perk_Spear_Perforate_Fortify.PhysicalArmor * 100 * {perkMultiplier}]}% for {[Type_StatusEffectData.Status_Perk_Spear_Perforate_Fortify.BaseDuration]}s (Max {[Type_StatusEffectData.Status_Perk_Spear_Perforate_Fortify.StackMax]} Stacks).</string>
 	<string key="PerkID_Ability_Spear_Skewer_Name">Enfeebling Skewer</string>
 	<string key="PerkID_Ability_Spear_Skewer_Description">Skewer hits apply Weaken, reducing the target's damage by {[Type_StatusEffectData.Status_Perk_Spear_Skewer_Weaken.DMGStandard * -100 * {perkMultiplier}]}% for {[Type_StatusEffectData.Status_Perk_Spear_Skewer_Weaken.BaseDuration]}s.</string>
 	<string key="PerkID_Ability_Spear_VaultKick_Name">Keen Vault Kick</string>
@@ -1220,7 +1220,7 @@
 	<string key="PerkID_Ability_Sword_ReverseStab_Name">Contagious Reverse Stab</string>
 	<string key="PerkID_Ability_Sword_ReverseStab_Description">Hitting a target transfers {[PerksAbilityTable.GlobalPerk_Ability_Sword_ReverseStab.NumStatusEffectsToTransfer]} active debuffs from yourself to the target. Reverse Stab deals +{[PerksAbilityTable.GlobalPerk_Ability_Sword_ReverseStab_Dmg.BaseDamage * 100 * {perkMultiplier}]}% damage.</string>
 	<string key="PerkID_Ability_Sword_WhirlingBlade_Name">Empowering Whirling Blade</string>
-	<string key="PerkID_Ability_Sword_WhirlingBlade_Description">When 3 or more enemies are within its radius while performing a Whirling Blade attack, gain {[PerksAbilityTable.GlobalPerk_Ability_Sword_WhirlingBlade.BaseDamage * 100] * {perkMultiplier}]}% base damage.</string>
+	<string key="PerkID_Ability_Sword_WhirlingBlade_Description">If {[PerksAbilityTable.GlobalPerk_Ability_Sword_WhirlingBlade.NumAroundMe]} or more enemies are within its radius while performing a Whirling Blade attack, gain {[PerksAbilityTable.GlobalPerk_Ability_Sword_WhirlingBlade.BaseDamage * 100] * {perkMultiplier}]}% base damage for each nearby target (Max {[PerksAbilityTable.GlobalPerk_Ability_Sword_WhirlingBlade.MaxNumAroundMe]} Targets).</string>
 	<string key="PerkID_Ability_Sword_LeapingStrike_Name">Empowering Leaping Strike</string>
 	<string key="PerkID_Ability_Sword_LeapingStrike_Description">Sword attacks deal +{[PerksAbilityTable.GlobalPerk_Ability_Sword_LeapingStrike.BaseDamage * 100 * {perkMultiplier}]}% damage to targets Slowed by Leaping Strike's Cowardly Punishment upgrade.</string>
 	<string key="PerkID_Ability_Shield_ShieldBash_Name">Diminishing Shield Bash</string>
@@ -1497,7 +1497,7 @@
 	<string key="PerkID_Earring_GainOnPotion_Name">Duplicating Toast</string>
 	<string key="PerkID_Earring_GainOnPotion_Description">When you drink a potion, {[PerksAbilityTable.Global_Earring_GainOnPotion.RefundConsumablePercentChance * 100 * {perkMultiplier}]}% chance it doesn't consume.</string>
 	<string key="PerkID_Earring_PotionCDR_Name">Refreshing Toast</string>
-	<string key="PerkID_Earring_PotionCDR_Description">Potions cooldown {[PerksAbilityTable.Global_Earring_PotionCDR.CooldownTimer * -100 * {perkMultiplier}]}% faster.</string>
+	<string key="PerkID_Earring_PotionCDR_Description">Consumable cooldown {[PerksAbilityTable.Global_Earring_PotionCDR.CooldownTimer * -100 * {perkMultiplier}]}% faster.</string>
 	<string key="PerkID_Earring_Arcanist_Name">Arcanist Mastery</string>
 	<string key="PerkID_Earring_Arcanist_Description">+{[Type_StatusEffectData.Status_Perk_Earring_Arcanist.MGSArcana * {perkMultiplier}]} to Arcanist Crafted Item Quality.</string>
 	<string key="PerkID_Earring_Armorer_Name">Armorer Mastery</string>
@@ -1745,7 +1745,7 @@
 	<string key="PerkID_PvP_Weapon_CleanseBuff_Crits_Name" rel_version="PvP_Rewards_Track">Purifying Crits</string>
 	<string key="PerkID_PvP_Weapon_CleanseBuff_Crits_Description" rel_version="PvP_Rewards_Track">PvP Only: Critical hits against players remove {[PerksAbilityTable.Global_PvP_Weapon_CleanseBuff_Crits.NumTargetStatusEffectsToRemove]} buff from the target ({[PerksAbilityTable.Global_PvP_Weapon_CleanseBuff_Crits.ActivationCooldown]}s cooldown).</string>
 	<string key="PerkID_PvP_Weapon_ExhaustedTarget_Slow_Name" rel_version="PvP_Rewards_Track">Exhausted Exploitation</string>
-	<string key="PerkID_PvP_Weapon_ExhaustedTarget_Slow_Description" rel_version="PvP_Rewards_Track">PvP Only: Hits against Exhausted players inflict Slow, reducing movement speed by {[Type_StatusEffectData.Status_PvP_Perk_Weapon_SlowExhausted.MoveSpeedMod * -100]}% for {[Type_StatusEffectData.Status_PvP_Perk_Weapon_SlowExhausted.BaseDuration]}s. If you hit traget in the back cause Exaust reducing stamina regen by {[Type_StatusEffectData.Status_Perk_PvP_Weapon_ExhaustedTarget_Exhaust.StaminaRate * 100]}% for {[Type_StatusEffectData.Status_Perk_PvP_Weapon_ExhaustedTarget_Exhaust.BaseDuration]}s. </string>
+	<string key="PerkID_PvP_Weapon_ExhaustedTarget_Slow_Description" rel_version="PvP_Rewards_Track">PvP Only: Hits against Exhausted players inflict Slow, reducing movement speed by {[Type_StatusEffectData.Status_PvP_Perk_Weapon_SlowExhausted.MoveSpeedMod * -100]}% for {[Type_StatusEffectData.Status_PvP_Perk_Weapon_SlowExhausted.BaseDuration]}s. If you hit target in the back, inflict Exhaust, reducing stamina regen by {[Type_StatusEffectData.Status_Perk_PvP_Weapon_ExhaustedTarget_Exhaust.StaminaRate * 100]}% for {[Type_StatusEffectData.Status_Perk_PvP_Weapon_ExhaustedTarget_Exhaust.BaseDuration]}s. </string>
 	<string key="PerkID_PvP_WeaponMagic_DmgToHaste_Name" rel_version="PvP_Rewards_Track">Alacritous Punishment</string>
 	<string key="PerkID_PvP_WeaponMagic_DmgToHaste_Description" rel_version="PvP_Rewards_Track">PvP Only: +{[PerksAbilityTable.Global_PvP_WeaponMagic_DmgToHaste.BaseDamage * 100 * {perkMultiplier}]}% damage to players with Haste.</string>
 	<string key="PerkID_PvP_Shield_FortifyStackOnBlock_Name" rel_version="PvP_Rewards_Track">Sturdy Fortification</string>
@@ -1820,9 +1820,9 @@
 	<string key="PerkID_HeartgemRune_BileBomb_Greater_Name" rel_version="Feature_Heartgems_BileBomb">Exhausting Bile</string>
 	<string key="PerkID_HeartgemRune_BileBomb_Greater_Description" rel_version="Feature_Heartgems_BileBomb">Inflicts Exhaust on hit, reducing the target's Stamina regeneration by {[Type_StatusEffectData.Rune_BileBomb_Greater.StaminaRate* -100]}%.</string>
 	<string key="PerkID_HeartgemRune_BileBomb_Survivor_Name" rel_version="Feature_Heartgems_BileBomb">Mending Bile</string>
-	<string key="PerkID_HeartgemRune_BileBomb_Survivor_Description" rel_version="Feature_Heartgems_BileBomb">Players who hit the afflicted targets are healed for {[Type_StatusEffectData.Rune_BileBomb_Survivor_Heal.HealthModifierDamageBased * 100]}% of the damage they deal. Reduce healing reduction by {[Type_StatusEffectData.Rune_BileBomb_Survivor.HealMod * -100]}% and DoT is removed.</string>
+	<string key="PerkID_HeartgemRune_BileBomb_Survivor_Description" rel_version="Feature_Heartgems_BileBomb">Players who hit the afflicted targets are healed for {[Type_StatusEffectData.Rune_BileBomb_Survivor_Heal.HealthModifierDamageBased * 100]}% of the damage they deal. Reduce incoming healing reduction to {[Type_StatusEffectData.Rune_BileBomb_Survivor.HealMod * -100]}% and outgoing to {[Type_StatusEffectData.Rune_BileBomb_Survivor.HealScalingValueMultiplier * -100]}%. Ability no longer applies a DoT.</string>
 	<string key="PerkID_HeartgemRune_BileBomb_Dominator_Name" rel_version="Feature_Heartgems_BileBomb">Concentrated Bile</string>
-	<string key="PerkID_HeartgemRune_BileBomb_Dominator_Description" rel_version="Feature_Heartgems_BileBomb">Increase healing reduction by {[Type_StatusEffectData.Rune_BileBomb_Dominator.HealMod * -100]}% and damage by {[Type_StatusEffectData.Rune_BileBomb_Dominator.HealthModifierDamageBased * -100]}% per second. Projectile no longer creates a cloud on impact.</string>
+	<string key="PerkID_HeartgemRune_BileBomb_Dominator_Description" rel_version="Feature_Heartgems_BileBomb">Increase incoming healing reduction to {[Type_StatusEffectData.Rune_BileBomb_Dominator.HealMod * -100]}%, outgoing healing reduction to {[Type_StatusEffectData.Rune_BileBomb_Dominator.HealScalingValueMultiplier * -100]}%, and damage to {[Type_StatusEffectData.Rune_BileBomb_Dominator.HealthModifierDamageBased * -100]}% per second. Projectile no longer creates a cloud on impact.</string>
 	<string key="PerkID_HeartgemRune_FireStorm_Major_Name" rel_version="Feature_Heartgems_FireStorm">Enfeebling Storm</string>
 	<string key="PerkID_HeartgemRune_FireStorm_Major_Description" rel_version="Feature_Heartgems_FireStorm">Inflict Weaken on hit, reducing the target's damage by {[Type_StatusEffectData.Status_Rune_FireStorm_Major.DMGStandard * -100]}% for {[Type_StatusEffectData.Status_Rune_FireStorm_Major.BaseDuration]}s.</string>
 	<string key="PerkID_HeartgemRune_FireStorm_Greater_Name" rel_version="Feature_Heartgems_FireStorm">Accelerating Storm</string>
@@ -1886,7 +1886,7 @@
 	<string key="PerkID_RuneglassGem_ThreatSub_Void_Name" rel_version="Territory_Brimstone_Sands">Abyssal Calm</string>
 	<string key="PerkID_RuneglassGem_ThreatSub_Void_Description" rel_version="Territory_Brimstone_Sands">Generate {[PerksAbilityTable.Runeglass_Just_ThreatSub.ThreatDamage * -100 * {perkMultiplier}]}% less threat and deal {[PerksAbilityTable.Runeglass_Just_ThreatSub_Offense.BaseDamage * 100]}% more damage to taunted foes. Your Void attacks deal +{[AffixStatDataTable.Affix_Runeglass_VoidDamage.DMGCorruption * 100]}% damage.</string>
 	<string key="PerkID_RuneglassGem_ThreatAdd_Melee_Name" rel_version="Territory_Brimstone_Sands">Punishing Taunt</string>
-	<string key="PerkID_RuneglassGem_ThreatAdd_Melee_Description" rel_version="Territory_Brimstone_Sands">Generate {[PerksAbilityTable.Runeglass_ThreatAdd_Melee.ThreatDamage * 100 * {perkMultiplier}]}% more threat. Your melee attacks deal +{[PerksAbilityTable.Runeglass_ThreatAdd_Melee.BaseDamage * 100]}% damage.</string>
+	<string key="PerkID_RuneglassGem_ThreatAdd_Melee_Description" rel_version="Territory_Brimstone_Sands">Generate {[PerksAbilityTable.Runeglass_ThreatAdd_Melee.ThreatDamage * 100 * {perkMultiplier}]}% more threat. Your melee attacks deal +{[PerksAbilityTable.Runeglass_ThreatAdd_MeleeDmg.BaseDamage * 100]}% damage.</string>
 	<string key="PerkID_RuneglassGem_ThreatSub_Melee_Name" rel_version="Territory_Brimstone_Sands">Punishing Calm</string>
 	<string key="PerkID_RuneglassGem_ThreatSub_Melee_Description" rel_version="Territory_Brimstone_Sands">Generate {[PerksAbilityTable.Runeglass_ThreatSub_Melee.ThreatDamage * -100 * {perkMultiplier}]}% less threat and deal {[PerksAbilityTable.Runeglass_Just_ThreatSub_Offense.BaseDamage * 100]}% more damage to taunted foes. Your melee attacks deal +{[PerksAbilityTable.Runeglass_ThreatSub_Melee.BaseDamage * 100]}% damage.</string>
 	<string key="PerkID_RuneglassGem_ThreatAdd_Ranged_Name" rel_version="Territory_Brimstone_Sands">Sighted Taunt</string>
@@ -2548,7 +2548,7 @@
 	<string key="PerkID_Armor_DmgArcane_Name">Arcane Harnessing</string>
 	<string key="PerkID_Armor_DmgArcane_Desc">+{[AffixStatDataTable.Affix_Armor_DmgArcane.DMGArcane * 100 * {perkMultiplier}]}% arcane damage.</string>
 	<string key="PerkID_Shield_Kite_OnBlockHeal_Name">Healing Defense</string>
-	<string key="PerkID_Shield_Kite_OnBlockHeal_Desc">On Block: Heal for {[Type_StatusEffectData.Status_Perk_Shield_Kite_OnBlockHeal.HealthModifierBasePercent * 100 * {perkMultiplier}]}% base max health ({[PerksAbilityTable.Global_Shield_Kite_OnBlockHeal.ActivationCooldown]}s cooldown).</string>
+	<string key="PerkID_Shield_Kite_OnBlockHeal_Desc">On Block: Heal for {[Type_StatusEffectData.Status_Perk_Shield_Kite_OnBlockHeal.HealthModifierBasePercent * 100 * {perkMultiplier}]}% base health ({[PerksAbilityTable.Global_Shield_Kite_OnBlockHeal.ActivationCooldown]}s cooldown).</string>
 	<string key="PerkID_Shield_Kite_OnBlockDmg_Name">Counter Attack</string>
 	<string key="PerkID_Shield_Kite_OnBlockDmg_Desc">On Block: Gain a {[Type_StatusEffectData.Status_Perk_Shield_Kite_OnBlockDmg.DMGStandard * 100]}% Empower for {[Type_StatusEffectData.Status_Perk_Shield_Kite_OnBlockDmg.BaseDuration]}s.</string>
 	<string key="PerkID_Bags_BonusTown_Name">Town Loyality</string>
@@ -2556,6 +2556,9 @@
 	<string key="ui_stat_magnify_tooltip">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;+{amount1} Magnify&lt;/font&gt; (highest attribute: {attribute1})</string>
 	<string key="ui_stat_amplify_tooltip">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;+{amount1} Amplify&lt;/font&gt; (highest attributes: {attribute1}, {attribute2})</string>
 	<string key="ui_stat_magnify_split_tooltip">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;+{total} Magnify&lt;/font&gt; (split between highest attributes)</string>
+	<string key="ui_stat_magnify_selected_tooltip">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;+{amount1} Magnify&lt;/font&gt; (selected attribute: {attribute1})</string>
+	<string key="ui_stat_magnify_help_title">Magnify</string>
+	<string key="ui_stat_magnify_help_tooltip">Equipped items with the &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;Magnify&lt;/font&gt; perk increase the attribute selected below.\n\nHighest increases the attribute with the most points not including item buffs. If attributes are tied, Magnify points are distributed as evenly as possible among them.</string>
 	<string key="PerkID_Artifact_Set1_Sword_Name">Hemorrhage</string>
 	<string key="PerkID_Artifact_Set1_Sword_Desc">Bleeds lasts {[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_Sword.TargetStatusEffectDurationMult * 100]}% longer (Works on both weapons).</string>
 	<string key="PerkID_Artifact_Set1_SwordPerk_Name">Jagged Whirls</string>
@@ -2565,7 +2568,7 @@
 	<string key="PerkID_Artifact_Set1_Warhammer_Name">Mjölnir Blessing</string>
 	<string key="PerkID_Artifact_Set1_Warhammer_Desc">{[AffixStatDataTable.Affix_Artifact_Set1_Warhammer.DamagePercentage * 100]}% of hammer damage is converted to lightning, and you deal {[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_Warhammer.BaseDamage *100]}% more lightning damage with both weapons.</string>
 	<string key="PerkID_Artifact_Set1_WarhammerPerk_Name">Spark</string>
-	<string key="PerkID_Artifact_Set1_WarhammerPerk_Desc">Mighty Gravel causes a lightning strike that inflicts a {[Type_StatusEffectData.Status_Perk_Artifact_Set1_HammerWeaken.DMGStandard * -100]}% weaken for {[Type_StatusEffectData.Status_Perk_Artifact_Set1_HammerWeaken.BaseDuration]}s.</string>
+	<string key="PerkID_Artifact_Set1_WarhammerPerk_Desc">Mighty Gavel causes a lightning strike that inflicts a {[Type_StatusEffectData.Status_Perk_Artifact_Set1_HammerWeaken.DMGStandard * -100]}% weaken for {[Type_StatusEffectData.Status_Perk_Artifact_Set1_HammerWeaken.BaseDuration]}s.</string>
 	<string key="PerkID_Artifact_Set1_GreatAxe_Name">Darken Blade</string>
 	<string key="PerkID_Artifact_Set1_GreatAxe_Desc">{[AffixStatDataTable.Affix_Artifact_Set1_Greataxe.DamagePercentage * 100]}% of damage is converted to void, and if INT is higher, replace base weapon scaling with Intelligence.</string>
 	<string key="PerkID_Artifact_Set1_GreatAxePerk_Name">Abyss</string>
@@ -2581,7 +2584,7 @@
 	<string key="PerkID_Artifact_Set1_KiteShield_Name">Refreshing Cleanse</string>
 	<string key="PerkID_Artifact_Set1_KiteShield_Desc">Cooldowns reduced by {[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_KiteShield.CooldownTimer * -100]}%.\nOn block: Lose one debuff.</string>
 	<string key="PerkID_Artifact_Set1_TowerShield_Name">Shield Wall</string>
-	<string key="PerkID_Artifact_Set1_TowerShield_Desc">Gain {[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_TowerShield.BaseDamageReduction * 100]}% base damage reduction\nYou cannot dodge, but have {[AffixStatDataTable.Affix_Artifact_Set1_TowerShield.MaxStaminaMod * 100]}% more stamina.</string>
+	<string key="PerkID_Artifact_Set1_TowerShield_Desc">Gain {[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_TowerShield.BaseDamageReduction * 100]}% base damage reduction\nYou cannot dodge, but have {[AffixStatDataTable.Affix_Artifact_Set1_TowerShield.MaxStaminaMod * 100]}% more stamina. (While active or sheathed)</string>
 	<string key="PerkID_Artifact_Set1_TowerShieldPerk_Name">Chromatic Ward</string>
 	<string key="PerkID_Artifact_Set1_TowerShieldPerk_Desc">You take {[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_TowerShieldPerk.BaseDamageReduction * 100]}% less damage from all elemental sources.</string>
 	<string key="PerkID_Artifact_Set1_Firestaff_Name">Inner Power</string>
@@ -2597,7 +2600,7 @@
 	<string key="PerkID_Artifact_Set1_IceGauntlet_Name" rel_version="Feature_Artifacts_Set2">Chilling End</string>
 	<string key="PerkID_Artifact_Set1_IceGauntlet_Desc" rel_version="Feature_Artifacts_Set2">Frozen, rooted or chilled enemies take {[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_IceGauntlet.BaseDamage * 100]}% additional damage (on both weapons).</string>
 	<string key="PerkID_Artifact_Set1_IcePerk_Name">Icey Pain</string>
-	<string key="PerkID_Artifact_Set1_IcePerk_Desc">+{[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_IcePerk.BaseDamage * 100]}% damage against rooted or frozen targets</string>
+	<string key="PerkID_Artifact_Set1_IcePerk_Desc">+{[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_IceGauntlet.BaseDamage * 100]}% damage against rooted or frozen targets</string>
 	<string key="PerkID_Artifact_Set1_VoidGauntlet_Name">Negative Energy</string>
 	<string key="PerkID_Artifact_Set1_VoidGauntlet_Desc">Your ranged attacks inflict Disintegrate for {[Type_StatusEffectData.VoidGauntlet_Disintegrate.BaseDuration]}s on both weapons ({[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_VoidGauntlet.ActivationCooldown]} cooldown). And if your dexterity attribute is higher, replace your base weapon scaling with dexterity.</string>
 	<string key="PerkID_Artifact_Set1_Blunderbuss_Name">Blighted Enchantment</string>
@@ -2607,7 +2610,7 @@
 	<string key="PerkID_Artifact_Set1_Greatsword_Name">Balanced Blade</string>
 	<string key="PerkID_Artifact_Set1_Greatsword_Desc">Offense Stance: +{[Type_StatusEffectData.Status_Perk_Artifact_Set1_Greatsword_Empower.DMGStandard * 100]}% empower per attack for {[Type_StatusEffectData.Status_Perk_Artifact_Set1_Greatsword_Empower.BaseDuration]}s (max {[Type_StatusEffectData.Status_Perk_Artifact_Set1_Greatsword_Empower.StackMax]} stacks)\nDefense Stance: +{[Type_StatusEffectData.Status_Perk_Artifact_Set1_Greatsword_Fort.PhysicalArmor * 100]}% fortify when hit for {[Type_StatusEffectData.Status_Perk_Artifact_Set1_Greatsword_Fort.BaseDuration]}s (max {[Type_StatusEffectData.Status_Perk_Artifact_Set1_Greatsword_Fort.StackMax]} stacks).</string>
 	<string key="PerkID_Artifact_Set1_Amulet1_Name">Stunny Gaze</string>
-	<string key="PerkID_Artifact_Set1_Amulet1_Desc">Activate Taunt Gems and generate {[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_Amulet1.ThreatDamage * 100]}% more threat. Stuns last {[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_Amulet1B.TargetStatusEffectDurationMod]}s longer, but base damage is decreased by {[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_Amulet1B.BaseDamage * -100]}%.</string>
+	<string key="PerkID_Artifact_Set1_Amulet1_Desc">Taunts are active. Generate {[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_Amulet1.ThreatDamage * 100]}% more threat. Stuns last {[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_Amulet1B.TargetStatusEffectDurationMod]}s longer, but base damage is decreased by {[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_Amulet1B.BaseDamage * -100]}%.</string>
 	<string key="PerkID_Artifact_Set1_Amulet2_Name">Center of Attention</string>
 	<string key="PerkID_Artifact_Set1_Amulet2_Desc">Consumables, lifesteal, and outgoing heals are {[ArtifactsAbilityTable.GlobalPerk_Artifact_Set1_Amulet2.HealScalingValueMultiplier * -100]}% weaker, but all other healing is {[Type_StatusEffectData.Status_Perk_Artifact_Set1_Amulet2.NonConsumableHealMod * 100]}% stronger.</string>
 	<string key="PerkID_Artifact_Set1_Ring1_Name">Ghoul's Harmony</string>
@@ -2667,5 +2670,25 @@
 	<string key="PerkID_Armor_MiningYield_Description">+{[Type_StatusEffectData.Status_Perk_Armor_MiningYield.MULTMining * 100 * {perkMultiplier}]}% resources while Mining.</string>
 	<string key="PerkID_Armor_SkinningYield_Name">Skinning Yield</string>
 	<string key="PerkID_Armor_SkinningYield_Description">+{[Type_StatusEffectData.Status_Perk_Armor_SkinningYield.MULTSkinning * 100 * {perkMultiplier}]}% resources while Skinning.</string>
+	<string key="PerkID_Artifact_Set2_HeavyHands_Name" rel_version="Feature_Artifacts_S5">Charged</string>
+	<string key="PerkID_Artifact_Set2_HeavyHands_Desc" rel_version="Feature_Artifacts_S5">Whenever you take damage gain an Empower charge that increases the damage of your next attack by 3% (max 10 charges.)</string>
+	<string key="PerkID_Artifact_Set2_HeavyLegs_Name" rel_version="Feature_Artifacts_S5">Steady Foundation</string>
+	<string key="PerkID_Artifact_Set2_HeavyLegs_Desc" rel_version="Feature_Artifacts_S5">When not in heavy loadout gain {[ArtifactsAbilityTable.GlobalPerk_Artifact_Set2_HeavyLegs.MaxHealth * 100]}% more max health.</string>
+	<string key="PerkID_Artifact_Set2_MediumChest_Name" rel_version="Feature_Artifacts_S5">Nature's Blessing</string>
+	<string key="PerkID_Artifact_Set2_MediumChest_Desc" rel_version="Feature_Artifacts_S5">Empower expires {[ArtifactsAbilityTable.GlobalPerk_Artifact_Set2_MediumChestA.StatusEffectDurationReduction * -100]}% faster but you deal {[ArtifactsAbilityTable.GlobalPerk_Artifact_Set2_MediumChestB.BaseDamage * 100]}% more damage.</string>
+	<string key="PerkID_Artifact_Set2_LightFeet_Name" rel_version="Feature_Artifacts_S5">Ambush</string>
+	<string key="PerkID_Artifact_Set2_LightFeet_Desc" rel_version="Feature_Artifacts_S5">deal 15% more damage and 25% critical chance as long as you haven't hit the target within 20s</string>
+	<string key="PerkID_Artifact_Set2_Hatchet_Name" rel_version="Feature_Artifacts_S5">Corruption</string>
+	<string key="PerkID_Artifact_Set2_Hatchet_Desc" rel_version="Feature_Artifacts_S5">Debuffs last {[ArtifactsAbilityTable.GlobalPerk_Artifact_Set2_Hatchet.TargetStatusEffectDurationMult * 100]}% longer. (Works on both weapons)</string>
+	<string key="PerkID_Artifact_Set2_HatchetPerk_Name" rel_version="Feature_Artifacts_S5">Defile</string>
+	<string key="PerkID_Artifact_Set2_HatchetPerk_Desc" rel_version="Feature_Artifacts_S5">Deals {[ArtifactsAbilityTable.GlobalPerk_Artifact_Set2_HatchetPerk.BaseDamage * 100]}% more damage per debuff on a target. ({[ArtifactsAbilityTable.GlobalPerk_Artifact_Set2_HatchetPerk.PerStatusEffectOnTargetMax]} stacks max) </string>
+	<string key="PerkID_Artifact_Set2_Greataxe_Name" rel_version="Feature_Artifacts_S5">Momentum</string>
+	<string key="PerkID_Artifact_Set2_Greataxe_Desc" rel_version="Feature_Artifacts_S5">Successful attacks gain 3% movement speed for 3s. (Works on both weapons and stacks 10 times.) </string>
+	<string key="PerkID_Artifact_Set2_GreataxePerk_Name" rel_version="Feature_Artifacts_S5">Endless Spin</string>
+	<string key="PerkID_Artifact_Set2_GreataxePerk_Desc" rel_version="Feature_Artifacts_S5">Whirlwind no longer needs to hit targets to continue spins, and can spin up to 12 times</string>
+	<string key="PerkID_Artifact_Set2_Spear_Name" rel_version="Feature_Artifacts_S5">Poison Tipped</string>
+	<string key="PerkID_Artifact_Set2_Spear_Desc" rel_version="Feature_Artifacts_S5">Heavy melee attacks with either weapon cause poison dealing {[Type_StatusEffectData.Status_Perk_Artifact_Set2_SpearPoison.HealthModifierDamageBased * -100]}% weapon damage for {[Type_StatusEffectData.Status_Perk_Artifact_Set2_SpearPoison.BaseDuration]}s.</string>
+	<string key="PerkID_Artifact_Set2_Amulet1_Name" rel_version="Feature_Artifacts_S5">Phoenix Vengeance</string>
+	<string key="PerkID_Artifact_Set2_Amulet1_Desc" rel_version="Feature_Artifacts_S5">When you receive lethal damage, avoid death and regain {[Type_StatusEffectData.Status_Perk_Artifact_Set2_AmuletInvurln.HealthModifierPercent * 100]}% of your max health. Then become inflicted with Vengeance, reducing healing by {[Type_StatusEffectData.Status_Perk_Artifact_Set2_AmuletDeath.HealMod * -100]}% and taking damage equal to {[Type_StatusEffectData.Status_Perk_Artifact_Set2_AmuletDeath.HealthModifierPercent * -200]}% of your max health every second until you die or get a kill. ({[Type_StatusEffectData.Status_Perk_Artifact_Set2_AmuletTimer.BaseDuration]}s cooldown).</string>
 </resources>
 

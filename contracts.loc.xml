@@ -66,24 +66,24 @@
 	<string key="ui_perk_filter_popup_single_attribute_only">Single Attribute Only</string>
 	<string key="ui_perk_filter_popup_single_attribute_only_tooltip">If you check this option, it will only show items with 1 attribute.</string>
 	<string key="ui_perk_filter_popup_single_attribute_only_selector">Only show items with 1 attribute</string>
-	<string key="ui_sellers">BUY &lt;font color="#b5b094"&gt;&lt;font face="lyshineui/fonts/Nimbus_medium.font"&gt;from sell orders&lt;/font&gt;&lt;/font&gt;</string>
-	<string key="ui_buyers">SELL &lt;font color="#b5b094"&gt;&lt;font face="lyshineui/fonts/Nimbus_medium.font"&gt;to buy orders&lt;/font&gt;&lt;/font&gt;</string>
+	<string key="ui_sellers">BUY &lt;font color="#b2aea1"&gt;&lt;font face="lyshineui/fonts/Nimbus_medium.font"&gt;from sell orders&lt;/font&gt;&lt;/font&gt;</string>
+	<string key="ui_buyers">SELL &lt;font color="#b2aea1"&gt;&lt;font face="lyshineui/fonts/Nimbus_medium.font"&gt;to buy orders&lt;/font&gt;&lt;/font&gt;</string>
 	<string key="ui_buyOrders">&lt;img src="lyshineui/images/icons/contracts/contracts_iconBuy" xPadding="0" scale="1.5" yOffset="5.2"&gt;&lt;/img&gt; Buy Orders</string>
 	<string key="ui_sellOrders">&lt;img src="lyshineui/images/icons/contracts/contracts_iconSell" xPadding="0" scale="1.5" yOffset="5.2"&gt;&lt;/img&gt; Sell Orders</string>
 	<string key="ui_buy_order_expired_title">Buy Order Expired</string>
 	<string key="ui_sell_order_expired_title">Sell Order Expired</string>
-	<string key="ui_buy_order_expired_desc">Your buy order for &lt;font color="#f2e8ae"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{quantity} {itemName}&lt;/font&gt;&lt;/font&gt; is expired at {location}. Remaining &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{gold}&lt;/font&gt;&lt;/font&gt;&lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; is refunded to your wallet.</string>
-	<string key="ui_sell_order_expired_desc">Your sell order for &lt;font color="#f2e8ae"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{quantity} {itemName}&lt;/font&gt;&lt;/font&gt; is expired. The remaining items will be deposited to &lt;font color="#ffffff"&gt;storage&lt;/font&gt; in &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{location}&lt;/font&gt;&lt;/font&gt;.</string>
+	<string key="ui_buy_order_expired_desc">Your buy order for &lt;font color="#edc63e"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{quantity} {itemName}&lt;/font&gt;&lt;/font&gt; is expired at {location}. Remaining &lt;font color="#ebe3d6"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{gold}&lt;/font&gt;&lt;/font&gt;&lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; is refunded to your wallet.</string>
+	<string key="ui_sell_order_expired_desc">Your sell order for &lt;font color="#edc63e"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{quantity} {itemName}&lt;/font&gt;&lt;/font&gt; is expired. The remaining items will be deposited to &lt;font color="#ebe3d6"&gt;storage&lt;/font&gt; in &lt;font color="#ebe3d6"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{location}&lt;/font&gt;&lt;/font&gt;.</string>
 	<string key="ui_buy_order_fulfilled_title">Buy Order Completed</string>
 	<string key="ui_sell_order_fulfilled_title">Sell Order Completed</string>
-	<string key="ui_buy_order_fulfilled_desc">You successfully purchased &lt;font color="#f2e8ae"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{itemName} x {quantity}&lt;/font&gt;&lt;/font&gt;! The item is now available at &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{location}&lt;/font&gt;&lt;/font&gt;</string>
-	<string key="ui_sell_order_fulfillled_desc">Your item &lt;font color="#f2e8ae"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{itemName} x {quantity}&lt;/font&gt;&lt;/font&gt; is all sold at &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{location}&lt;/font&gt;&lt;/font&gt;! You earned : &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{gold}&lt;/font&gt;&lt;/font&gt;&lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
+	<string key="ui_buy_order_fulfilled_desc">You successfully purchased &lt;font color="#edc63e"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{itemName} x {quantity}&lt;/font&gt;&lt;/font&gt;! The item is now available at &lt;font color="#ebe3d6"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{location}&lt;/font&gt;&lt;/font&gt;</string>
+	<string key="ui_sell_order_fulfillled_desc">Your item &lt;font color="#edc63e"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{itemName} x {quantity}&lt;/font&gt;&lt;/font&gt; is all sold at &lt;font color="#ebe3d6"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{location}&lt;/font&gt;&lt;/font&gt;! You earned : &lt;font color="#ebe3d6"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{gold}&lt;/font&gt;&lt;/font&gt;&lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
 	<string key="ui_buy_order_updated">Item Purchased</string>
-	<string key="ui_buy_order_updated_desc">&lt;font color="#f2e8ae"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{itemName} x {quantity}&lt;/font&gt;&lt;/font&gt; is now available at &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{location}&lt;/font&gt;&lt;/font&gt;</string>
-	<string key="ui_sell_order_updated_desc">You earned &lt;font color="#f2e8ae"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{gold}&lt;/font&gt;&lt;/font&gt;&lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; from &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{itemName} x {quantity}&lt;/font&gt;&lt;/font&gt;</string>
-	<string key="ui_showing_result_range">{resultStartIndex}-{resultEndIndex} of {totalResults} Results - &lt;font color="#f2e8ae"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Page {start}&lt;/font&gt;&lt;/font&gt; / {end}</string>
-	<string key="ui_showing_result">&lt;font color="#f2e8ae"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Page {start}&lt;/font&gt;&lt;/font&gt; of {end}</string>
-	<string key="ui_page">&lt;font color="#f2e8ae"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Page {start}&lt;/font&gt;&lt;/font&gt; / {end}</string>
+	<string key="ui_buy_order_updated_desc">&lt;font color="#edc63e"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{itemName} x {quantity}&lt;/font&gt;&lt;/font&gt; is now available at &lt;font color="#ebe3d6"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{location}&lt;/font&gt;&lt;/font&gt;</string>
+	<string key="ui_sell_order_updated_desc">You earned &lt;font color="#edc63e"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{gold}&lt;/font&gt;&lt;/font&gt;&lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; from &lt;font color="#ebe3d6"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{itemName} x {quantity}&lt;/font&gt;&lt;/font&gt;</string>
+	<string key="ui_showing_result_range">{resultStartIndex}-{resultEndIndex} of {totalResults} Results - &lt;font color="#edc63e"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Page {start}&lt;/font&gt;&lt;/font&gt; / {end}</string>
+	<string key="ui_showing_result">&lt;font color="#edc63e"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Page {start}&lt;/font&gt;&lt;/font&gt; of {end}</string>
+	<string key="ui_page">&lt;font color="#edc63e"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Page {start}&lt;/font&gt;&lt;/font&gt; / {end}</string>
 	<string key="ui_buynow">Buy Now</string>
 	<string key="ui_no_inventory">No Inventory Items</string>
 	<string key="ui_howManyBuying">QUANTITY</string>
@@ -93,13 +93,13 @@
 	<string key="ui_inventoryandoutpoststorage">My Items</string>
 	<string key="ui_selltab_searchItem">Search Items in Inventory &amp; Outpost Storage</string>
 	<string key="ui_selltab_cantSellDamagedItems">You can only sell items that are not bound to you and have maximum durability.</string>
-	<string key="ui_selltab_hiddenDamagedItemSingular">&lt;font color="#f2e8ae"&gt;&lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;1 item&lt;/font&gt;&lt;/font&gt; is being hidden.</string>
-	<string key="ui_selltab_hiddenDamagedItems">&lt;font color="#f2e8ae"&gt;&lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;{number} items&lt;/font&gt;&lt;/font&gt; are being hidden.</string>
+	<string key="ui_selltab_hiddenDamagedItemSingular">&lt;font color="#edc63e"&gt;&lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;1 item&lt;/font&gt;&lt;/font&gt; is being hidden.</string>
+	<string key="ui_selltab_hiddenDamagedItems">&lt;font color="#edc63e"&gt;&lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;{number} items&lt;/font&gt;&lt;/font&gt; are being hidden.</string>
 	<string key="ui_selltab_dyed_item_warning_title">Trade Dyed Item</string>
 	<string key="ui_selltab_dyed_item_warning_text">This item has been dyed and has colors which will be lost if listed on the trading post. Are you sure you want to sell this item?</string>
 	<string key="ui_sellnow">Sell Now</string>
 	<string key="ui_allItems">All Items</string>
-	<string key="ui_item_name_with_tier">&lt;font face="lyshineui/fonts/Pica_Italic.font" color="#f2e8ae"&gt;{tierString} &lt;/font&gt;  {itemName}</string>
+	<string key="ui_item_name_with_tier">&lt;font face="lyshineui/fonts/Pica_Italic.font" color="#edc63e"&gt;{tierString} &lt;/font&gt;  {itemName}</string>
 	<string key="ui_currentoutpost">CURRENT TRADING POST:</string>
 	<string key="ui_confirmedKills">In order to sell confirmed kills, the items must be in your inventory.</string>
 	<string key="ui_outpostshowing">Orders from</string>
@@ -108,7 +108,7 @@
 	<string key="ui_selectallouposts">All Settlements</string>
 	<string key="ui_currentsellers">Current Sell orders</string>
 	<string key="ui_currentbuyers">Current Buy orders</string>
-	<string key="ui_store_item_cooldown_desc">&lt;font color="#ffdb7a"&gt;Once this item is purchased, you have to wait {cooldownDuraction} to purchase it again.&lt;/font&gt;</string>
+	<string key="ui_store_item_cooldown_desc">&lt;font color="#edc63e"&gt;Once this item is purchased, you have to wait {cooldownDuraction} to purchase it again.&lt;/font&gt;</string>
 	<string key="ui_postordererror_outpostfull">You can't place a buy order because your outpost storage is full.</string>
 	<string key="ui_postordererror_outpostfull_button">OUTPOST STORAGE FULL</string>
 	<string key="ui_postordererror_buy_notenoughmoney">You don't have enough coin to place a buy order.</string>
@@ -176,26 +176,26 @@
 	<string key="ui_infiniteBigger">&lt;img src="lyshineui/images/icons/misc/infinity_tan" xPadding="0" scale="2.2" yOffset="5.5"&gt;&lt;/img&gt;</string>
 	<string key="ui_new_balance">New Balance</string>
 	<string key="ui_store_unlock">Unlock</string>
-	<string key="ui_view_details">View Details</string>
+	<string key="ui_view_details">View</string>
 	<string key="ui_cancelorder_confirmation">Are you sure you want to cancel this order?</string>
-	<string key="ui_returnorder_buyconfirmation">The remaining &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{priceTotal}&lt;/font&gt;&lt;/font&gt; &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; will be returned to your wallet.</string>
-	<string key="ui_returnorder_inventory_sellconfirmation">The remaining &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{count} item(s)&lt;/font&gt;&lt;/font&gt; will be deposited to your &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;inventory&lt;/font&gt;&lt;/font&gt;.</string>
-	<string key="ui_returnorder_outpost_sellconfirmation">The remaining &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{count} item(s)&lt;/font&gt;&lt;/font&gt; will be deposited to &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{outpostName}&lt;/font&gt;&lt;/font&gt;.</string>
+	<string key="ui_returnorder_buyconfirmation">The remaining &lt;font color="#ebe3d6"&gt;&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{priceTotal}&lt;/font&gt;&lt;/font&gt; &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; will be returned to your wallet.</string>
+	<string key="ui_returnorder_inventory_sellconfirmation">The remaining &lt;font color="#ebe3d6"&gt;&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{count} item(s)&lt;/font&gt;&lt;/font&gt; will be deposited to your &lt;font color="#ebe3d6"&gt;&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;inventory&lt;/font&gt;&lt;/font&gt;.</string>
+	<string key="ui_returnorder_outpost_sellconfirmation">The remaining &lt;font color="#ebe3d6"&gt;&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{count} item(s)&lt;/font&gt;&lt;/font&gt; will be deposited to &lt;font color="#ebe3d6"&gt;&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{outpostName}&lt;/font&gt;&lt;/font&gt;.</string>
 	<string key="ui_returnorder_sell_title">Order Cancelled</string>
-	<string key="ui_returnorder_inventory_sell_desc">You successfully cancelled &lt;font color="#f2e8ae"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{itemName} x {quantity}&lt;/font&gt;&lt;/font&gt;! The item is now available in your &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;inventory&lt;/font&gt;&lt;/font&gt;</string>
-	<string key="ui_returnorder_outpost_sell_desc">You successfully cancelled &lt;font color="#f2e8ae"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{itemName} x {quantity}&lt;/font&gt;&lt;/font&gt;! The item is now available at &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{location}&lt;/font&gt;&lt;/font&gt;</string>
+	<string key="ui_returnorder_inventory_sell_desc">You successfully cancelled &lt;font color="#edc63e"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{itemName} x {quantity}&lt;/font&gt;&lt;/font&gt;! The item is now available in your &lt;font color="#ebe3d6"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;inventory&lt;/font&gt;&lt;/font&gt;</string>
+	<string key="ui_returnorder_outpost_sell_desc">You successfully cancelled &lt;font color="#edc63e"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{itemName} x {quantity}&lt;/font&gt;&lt;/font&gt;! The item is now available at &lt;font color="#ebe3d6"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{location}&lt;/font&gt;&lt;/font&gt;</string>
 	<string key="ui_returnorder_failed">The order couldn't be cancelled.</string>
 	<string key="ui_contract_no_longer_available">The order is no longer available.</string>
-	<string key="ui_numbuyandsellorders">&lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{numBuyOrders}&lt;/font&gt;&lt;/font&gt; Buy Orders, &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{numSellOrders}&lt;/font&gt;&lt;/font&gt; Sell Orders</string>
+	<string key="ui_numbuyandsellorders">&lt;font color="#ebe3d6"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{numBuyOrders}&lt;/font&gt;&lt;/font&gt; Buy Orders, &lt;font color="#ebe3d6"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{numSellOrders}&lt;/font&gt;&lt;/font&gt; Sell Orders</string>
 	<string key="ui_contract_status_available">Available</string>
 	<string key="ui_contract_status_unavailable">Unavailable</string>
 	<string key="ui_contract_status_accepted">Accepted</string>
 	<string key="ui_contract_status_completed">Completed</string>
 	<string key="ui_contract_status_resolved">Resolved</string>
-	<string key="ui_contract_reason_succeeded">&lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Completed&lt;/font&gt;&lt;/font&gt;</string>
-	<string key="ui_contract_reason_failed">&lt;font color="#b45353"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Failed&lt;/font&gt;&lt;/font&gt;</string>
-	<string key="ui_contract_reason_cancelled">&lt;font color="#b45353"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Cancelled&lt;/font&gt;&lt;/font&gt;</string>
-	<string key="ui_contract_reason_expired">&lt;font color="#b45353"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Expired&lt;/font&gt;&lt;/font&gt;</string>
+	<string key="ui_contract_reason_succeeded">&lt;font color="#ebe3d6"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Completed&lt;/font&gt;&lt;/font&gt;</string>
+	<string key="ui_contract_reason_failed">&lt;font color="#ff7171"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Failed&lt;/font&gt;&lt;/font&gt;</string>
+	<string key="ui_contract_reason_cancelled">&lt;font color="#ff7171"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Cancelled&lt;/font&gt;&lt;/font&gt;</string>
+	<string key="ui_contract_reason_expired">&lt;font color="#ff7171"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Expired&lt;/font&gt;&lt;/font&gt;</string>
 	<string key="ui_no_existing_ended_contracts">No completed orders.</string>
 	<string key="ui_no_existing_active_contracts">No active orders.</string>
 	<string key="ui_quant">Qty</string>
@@ -207,11 +207,11 @@
 	<string key="ui_contract_count_less_100">50 - 100</string>
 	<string key="ui_contract_count_less_500">100 - 500</string>
 	<string key="ui_contract_count_less_1000">500 - 1000</string>
-	<string key="ui_contract_count_many">&lt;font color="#8ace53"&gt;1000+&lt;/font&gt;</string>
+	<string key="ui_contract_count_many">&lt;font color="#00ffb4"&gt;1000+&lt;/font&gt;</string>
 	<string key="ui_crftmanship">Craftsman-\nship</string>
 	<string key="ui_refresh">&lt;img src="lyshineui/images/icons/misc/icon_refresh" xPadding="0" scale="1.5" yOffset="4.5"&gt;&lt;/img&gt; Refresh</string>
 	<string key="ui_view_my_outpost_storage">View my Outpost Storage</string>
-	<string key="ui_totalnumbuyandsellorders">&lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{numOrders}&lt;/font&gt;&lt;/font&gt; Buy and Sell Orders Available</string>
+	<string key="ui_totalnumbuyandsellorders">&lt;font color="#ebe3d6"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{numOrders}&lt;/font&gt;&lt;/font&gt; Buy and Sell Orders Available</string>
 	<string key="ui_alloutposts">All outposts</string>
 	<string key="ui_buyFromOrder">Buy from this order</string>
 	<string key="ui_sellToOrder">Sell to this order</string>
@@ -227,9 +227,9 @@
 	<string key="ui_NPCItemInstruction">Use 'sell all confirmed kills' button\nto sell this item.</string>
 	<string key="ui_buy_icon">&lt;img src="lyshineui/images/icons/contracts/contracts_iconBuy" xPadding="0" scale="1.5" yOffset="5.6"&gt;&lt;/img&gt; BUY</string>
 	<string key="ui_sell_icon">&lt;img src="lyshineui/images/icons/contracts/contracts_iconSell" xPadding="0" scale="1.5" yOffset="5.6"&gt;&lt;/img&gt; SELL</string>
-	<string key="ui_invalid_outpost_markup">&lt;font color="#b45353"&gt;{outpostName}&lt;/font&gt;</string>
+	<string key="ui_invalid_outpost_markup">&lt;font color="#ff7171"&gt;{outpostName}&lt;/font&gt;</string>
 	<string key="ui_current_outpost_label">{outpostName} (Here)</string>
-	<string key="ui_invalid_price_markup">&lt;font color="#b45353"&gt;{price}&lt;/font&gt;</string>
+	<string key="ui_invalid_price_markup">&lt;font color="#ff7171"&gt;{price}&lt;/font&gt;</string>
 	<string key="ui_trading_post_in_progress">Trading Post is a work in progress.</string>
 	<string key="ui_listingunitprice">Unit Price</string>
 	<string key="ui_transactionCharge">Transaction charge</string>
@@ -264,7 +264,7 @@
 	<string key="ui_exclusive_perk_popup_message_no_replace">{newPerkName} and {selectedPerkName} are exclusive and cannot be selected at the same time.</string>
 	<string key="ui_cannot_change_perk_logic_popup_title">Cannot Apply</string>
 	<string key="ui_cannot_change_perk_logic_message">You cannot change the filter logic to 'All selected perks' because the following perks cannot be selected at the same time.\n</string>
-	<string key="ui_cannot_change_perk_logic_incompatible_perks">\n&lt;font color="#b45353"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{perkNameA}&lt;/font&gt;&lt;/font&gt; - &lt;font color="#b45353"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{perkNameB}&lt;/font&gt;&lt;/font&gt;</string>
+	<string key="ui_cannot_change_perk_logic_incompatible_perks">\n&lt;font color="#ff7171"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{perkNameA}&lt;/font&gt;&lt;/font&gt; - &lt;font color="#ff7171"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{perkNameB}&lt;/font&gt;&lt;/font&gt;</string>
 	<string key="ui_max_perk_popup_title">Max Perks Selected</string>
 	<string key="ui_max_perk_popup_message">You have reached the maximum number of perks allowed on this item. Remove a perk to add a new one.</string>
 	<string key="ui_max_gem_popup_title">Max Gems Selected</string>

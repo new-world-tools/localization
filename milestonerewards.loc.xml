@@ -1,5 +1,5 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<string key="ui_milestone_rewards">Leveling Rewards</string>
+	<string key="ui_milestone_rewards">Level Rewards</string>
 	<string key="ui_milestone_currently">Current Level</string>
 	<string key="ui_milestone_current_level">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{level}&lt;/font&gt;</string>
 	<string key="WeaponSlot2_Name">Weapon Slot</string>

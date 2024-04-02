@@ -54,11 +54,11 @@
 	<string key="ui_duel_group_popup_yes_button">Group</string>
 	<string key="ui_duel_group_popup_no_button">Player</string>
 	<string key="ui_duel_invite_notification_title">Duel Invite</string>
-	<string key="ui_duel_invite_notification_text">&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{playerName}&lt;/font&gt; challenges you to a Duel.\nWould you like to accept?</string>
+	<string key="ui_duel_invite_notification_text">&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{playerName}&lt;/font&gt; challenges you to a Duel.\nWould you like to accept?</string>
 	<string key="ui_duel_notification_invite_sent">Duel invite sent</string>
 	<string key="ui_duel_invite_group_notification_title">Group Duel Invite</string>
-	<string key="ui_duel_invite_own_group_notification_text">&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{playerName}&lt;/font&gt; has initiated a Group Duel.\nWould you like to accept?</string>
-	<string key="ui_duel_invite_other_group_notification_text">&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{playerName}&lt;/font&gt; challenges you to a Group Duel.\nWould you like to accept?</string>
+	<string key="ui_duel_invite_own_group_notification_text">&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{playerName}&lt;/font&gt; has initiated a Group Duel.\nWould you like to accept?</string>
+	<string key="ui_duel_invite_other_group_notification_text">&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{playerName}&lt;/font&gt; challenges you to a Group Duel.\nWould you like to accept?</string>
 	<string key="ui_not_in_duel_notification_title">ENEMY NOT IN DUEL</string>
 	<string key="ui_not_in_duel_notification_message">You cannot attack enemies outside of the Duel.</string>
 	<string key="ui_duel_forfeit_title">Forfeit Duel</string>
@@ -92,10 +92,10 @@
 	<string key="ui_outpost_rush_title">Outpost Rush</string>
 	<string key="ui_outpost_rush_invite_status">Accept to join the battle!</string>
 	<string key="ui_outpost_rush_signup_title">OUTPOST RUSH</string>
-	<string key="ui_outpost_rush_signup_desc">&lt;font color="#ffe940"&gt;Outpost Rush&lt;/font&gt; is a 20v20 match that takes place on a large island with three Outposts that teams compete to capture and hold.</string>
-	<string key="ui_outpost_rush_signup_desc_gearscore">&lt;font color="#ffe940"&gt;Gear Score Scaling&lt;/font&gt; increases the gear score of all equipment below 675 to 675.</string>
-	<string key="ui_outpost_rush_signup_desc_cross_world">Outpost Rush is a 20x20 &lt;font color="#ffe940"&gt;Cross World game mode.&lt;/font&gt;</string>
-	<string key="ui_outpost_rush_signup_desc_cross_world_tooltip">&lt;font color="#ffe940"&gt;Cross World&lt;/font&gt; means that you will be playing together with players from all worlds within your region. This can help shorten wait times to find a match.\n\nThings to note:\n\n-When you see a player with &lt;img src="lyshineui/images/icons/crossworld/icon_crossworld_identifier" xPadding="-1" scale="1.8" yOffset="2"&gt;&lt;/img&gt; next to their name, this means they are from another world.\n\n-While in the Cross World match, several social functions will be disabled, including trading, invites, and more.\n\n-The OPR Wins Leaderboard is now a Regional Leaderboard.</string>
+	<string key="ui_outpost_rush_signup_desc">&lt;font color="#edc63e"&gt;Outpost Rush&lt;/font&gt; is a 20v20 match that takes place on a large island with three Outposts that teams compete to capture and hold.</string>
+	<string key="ui_outpost_rush_signup_desc_gearscore">&lt;font color="#edc63e"&gt;Gear Score Scaling&lt;/font&gt; increases the gear score of all equipment below 675 to 675.</string>
+	<string key="ui_outpost_rush_signup_desc_cross_world">Outpost Rush is a 20x20 &lt;font color="#edc63e"&gt;Cross World game mode.&lt;/font&gt;</string>
+	<string key="ui_outpost_rush_signup_desc_cross_world_tooltip">&lt;font color="#edc63e"&gt;Cross World&lt;/font&gt; means that you will be playing together with players from all worlds within your region. This can help shorten wait times to find a match.\n\nThings to note:\n\n-When you see a player with &lt;img src="lyshineui/images/icons/crossworld/icon_crossworld_identifier" xPadding="-1" scale="1.8" yOffset="2"&gt;&lt;/img&gt; next to their name, this means they are from another world.\n\n-While in the Cross World match, several social functions will be disabled, including trading, invites, and more.\n\n-The OPR Wins Leaderboard is now a Regional Leaderboard.</string>
 	<string key="ui_outpost_rush_signup_goal1">Capture and hold Outposts to score</string>
 	<string key="ui_outpost_rush_signup_goal2">The first team to score 1,000 points wins</string>
 	<string key="ui_outpost_rush_signup_goal3">Utilize special resources to attack &amp; defend</string>
@@ -103,12 +103,12 @@
 	<string key="ui_outpost_rush_signup_points_text">POINTS</string>
 	<string key="ui_outpost_rush_signup_joinsolo">Play</string>
 	<string key="ui_outpost_rush_signup_joingroup">Play With Group</string>
-	<string key="ui_outpost_rush_signup_joinmid">I would like to join matches in progress &lt;font color="#ffe940"&gt;(Shorter wait time)&lt;/font&gt;</string>
+	<string key="ui_outpost_rush_signup_joinmid">I would like to join matches in progress &lt;font color="#edc63e"&gt;(Shorter wait time)&lt;/font&gt;</string>
 	<string key="ui_outpost_rush_signup_playercount">{playerCount} Players</string>
 	<string key="ui_outpost_rush_signup_failsolo">You are currently in a group and cannot join as a solo player.</string>
 	<string key="ui_outpost_rush_signup_failgroup">You are not currently in a group.</string>
 	<string key="ui_outpost_rush_signup_failgroupinvite">You currently have a pending invite.</string>
-	<string key="ui_outpost_rush_signup_faillevel">Player level {levelRequirement} &lt;font color="#f10000"&gt;is required&lt;/font&gt;</string>
+	<string key="ui_outpost_rush_signup_faillevel">Player level {levelRequirement} &lt;font color="#ff7171"&gt;is required&lt;/font&gt;</string>
 	<string key="ui_outpost_rush_signup_failwar">You cannot sign up because you are already signed up for an upcoming war that starts within the next hour.</string>
 	<string key="ui_outpost_rush_signup_failqueue">You cannot sign up because you are currently signed up for {matchname}</string>
 	<string key="ui_outpost_rush_signup_faildungeon">You cannot sign up because you are currently in queue for an Expedition or Elite Trial.</string>
@@ -141,8 +141,8 @@
 	<string key="ui_outpost_rush_battle_tokens_with_value">Battle Tokens {value}</string>
 	<string key="ui_outpost_rush_outpost_under_attack">{value} is under attack</string>
 	<string key="ui_outpost_rush_boss_killed">SCORE FROZEN</string>
-	<string key="ui_outpost_rush_ally_buff">The enemy team's score is frozen for &lt;font color="#ffea00"&gt;2 minutes and 30 seconds&lt;/font&gt;!</string>
-	<string key="ui_outpost_rush_enemy_buff">Your team's score is frozen for &lt;font color="#ffea00"&gt;2 minutes and 30 seconds&lt;/font&gt;!</string>
+	<string key="ui_outpost_rush_ally_buff">The enemy team's score is frozen for &lt;font color="#edc63e"&gt;2 minutes and 30 seconds&lt;/font&gt;!</string>
+	<string key="ui_outpost_rush_enemy_buff">Your team's score is frozen for &lt;font color="#edc63e"&gt;2 minutes and 30 seconds&lt;/font&gt;!</string>
 	<string key="ui_outpost_rush_armory_built">Armory in {value} has been built</string>
 	<string key="ui_outpost_rush_command_post_built">Command Post in {value} has been built</string>
 	<string key="ui_outpost_rush_command_post_upgrade">Command Post in {value} has been upgraded to Tier {tier}</string>
@@ -181,7 +181,7 @@
 	<string key="ui_outpost_rush_tutorial_desc2">Gather infused wood, ore, and hides to upgrade your outposts by building gates and siege weapons. Build a command post to gain powerful offensive and defensive boosts for your team.</string>
 	<string key="ui_outpost_rush_tutorial_desc3">Use summoning stones to summon powerful allies at summoning circles. Summon a bear by defeating the powerful Alpha Wolf or gain an ultra-powerful brute ally by defeating and closing the corrupted portal.</string>
 	<string key="ui_outpost_rush_tutorial_desc4">Baroness Hain is the ghost of a long dead noble that haunts the island. Slay her to gain a powerful buff that increases the defense of your team and freezes the enemy score!</string>
-	<string key="ui_outpost_rush_tutorial_level_requirement">&lt;font color="#ffe294"&gt;Player level {level}&lt;/font&gt; is required to participate in Outpost Rush.</string>
+	<string key="ui_outpost_rush_tutorial_level_requirement">&lt;font color="#edc63e"&gt;Player level {level}&lt;/font&gt; is required to participate in Outpost Rush.</string>
 	<string key="ui_outpost_rush_locked">Locked</string>
 	<string key="ui_outpost_rush_select_summoning_stone">Select Summoning Stone</string>
 	<string key="ui_outpost_rush_barrier">Fort Barrier</string>
@@ -219,7 +219,7 @@
 	<string key="or_tutorial_rules_score_title">YOUR TEAM IS LOSING</string>
 	<string key="or_tutorial_rules_score_body">Capture and hold Outposts &amp; defeat enemy players to increase your team’s score.</string>
 	<string key="or_tutorial_rules_portal_title">Defeat and close the Corrupted Portal</string>
-	<string key="or_tutorial_rules_portal_body">Defeat and close the Corrupted Portal to recieve a brute summoning stone.</string>
+	<string key="or_tutorial_rules_portal_body">Defeat and close the Corrupted Portal to receive a brute summoning stone.</string>
 	<string key="or_tutorial_boss_spawn_title">BARONESS HAIN HAS APPEARED</string>
 	<string key="or_tutorial_boss_spawn_body">Kill her for a powerful defense buff, and freeze the enemy team's score for 3 minutes.</string>
 	<string key="or_tutorial_boss_near_title">BARONESS HAIN IS NEAR</string>
@@ -306,7 +306,7 @@
 	<string key="ui_pvp_balance_ability_damage_bonuses" rel_version="Feature_PvP_PvE_Split">Ability Damage Bonus Modifier:</string>
 	<string key="ui_pvp_balance_healing_category" rel_version="Feature_PvP_PvE_Split">Healing Modifiers:</string>
 	<string key="ui_pvp_balance_status_effect_potencies" rel_version="Feature_PvP_PvE_Split">Status Effect Potency:</string>
-	<string key="ui_gamemodeinvitedeclinesentmessage">Invite for &lt;font color="#ffffff"&gt;{gameModeName}&lt;/font&gt; declined.</string>
-	<string key="ui_gamemodeinvitedeclinesentmessage_withsource">Invite for &lt;font color="#ffffff"&gt;{gameModeName}&lt;/font&gt; declined by &lt;font color="#ffffff"&gt;{sourcePlayerName}&lt;/font&gt;.</string>
+	<string key="ui_gamemodeinvitedeclinesentmessage">Invite for &lt;font color="#ebe3d6"&gt;{gameModeName}&lt;/font&gt; declined.</string>
+	<string key="ui_gamemodeinvitedeclinesentmessage_withsource">Invite for &lt;font color="#ebe3d6"&gt;{gameModeName}&lt;/font&gt; declined by &lt;font color="#ebe3d6"&gt;{sourcePlayerName}&lt;/font&gt;.</string>
 </resources>
 

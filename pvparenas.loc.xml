@@ -15,8 +15,8 @@
 	<string key="ui_pvparenas_roundswon" rel_version="Feature_PVP_Arenas">Rounds Won</string>
 	<string key="ui_pvparenas_title_join" rel_version="Feature_PVP_Arenas">Join 3v3 Arenas</string>
 	<string key="ui_pvparenas_title" rel_version="Feature_PVP_Arenas">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3v3&lt;/font&gt; Arenas</string>
-	<string key="ui_pvparenas_description" rel_version="Feature_PVP_Arenas">In &lt;font color="#ffe940"&gt;3v3 Arenas&lt;/font&gt; two teams battle to eliminate each other. Be the last team standing to have a chance at unique rewards.</string>
-	<string key="ui_pvparenas_description_gearscore" rel_version="Feature_PVP_Arenas">In &lt;font color="#ffe940"&gt;3v3 Arenas&lt;/font&gt; two teams battle to eliminate each other. Be the last team standing to have a chance at unique rewards.\nFor level 60 players, this mode has &lt;font color="#ffe940"&gt;Gear Score Scaling&lt;/font&gt;, increasing the gear score of all equipment below 675 to 675.</string>
+	<string key="ui_pvparenas_description" rel_version="Feature_PVP_Arenas">In &lt;font color="#edc63e"&gt;3v3 Arenas&lt;/font&gt; two teams battle to eliminate each other. Be the last team standing to have a chance at unique rewards.</string>
+	<string key="ui_pvparenas_description_gearscore" rel_version="Feature_PVP_Arenas">In &lt;font color="#edc63e"&gt;3v3 Arenas&lt;/font&gt; two teams battle to eliminate each other. Be the last team standing to have a chance at unique rewards.\nFor level 60 players, this mode has &lt;font color="#edc63e"&gt;Gear Score Scaling&lt;/font&gt;, increasing the gear score of all equipment below 675 to 675.</string>
 	<string key="ui_pvparenas_signup_goal1" rel_version="Feature_PVP_Arenas">Win 3 rounds to win the match</string>
 	<string key="ui_pvparenas_signup_goal2" rel_version="Feature_PVP_Arenas">When time is up, fire will engulf the Arena</string>
 	<string key="ui_pvparenas_signup_goal3" rel_version="Feature_PVP_Arenas">As the round progresses, healing is reduced</string>
@@ -24,7 +24,7 @@
 	<string key="ui_pvparenas_leave_queue_desc" rel_version="Feature_PVP_Arenas">Are you sure you want to leave the 3v3 Arena queue?</string>
 	<string key="ui_pvparenas_requeue" rel_version="Feature_PVP_Arenas">Queue Again</string>
 	<string key="ui_pvparenas_exit_match" rel_version="Feature_PVP_Arenas">Exit Match</string>
-	<string key="ui_pvparenas_eliminated_enemy" rel_version="Feature_PVP_Arenas">Killed &lt;font color="#ff2e2e"&gt;{enemy}&lt;/font&gt;</string>
+	<string key="ui_pvparenas_eliminated_enemy" rel_version="Feature_PVP_Arenas">Killed &lt;font color="#ff7171"&gt;{enemy}&lt;/font&gt;</string>
 	<string key="ui_pvparenas_ally_killed_enemy" rel_version="Feature_PVP_Arenas">&lt;font color={allyColor}&gt;{ally}&lt;/font&gt; Killed &lt;font color={enemyColor}&gt;{enemy}&lt;/font&gt;</string>
 	<string key="ui_pvparenas_enemy_killed_ally" rel_version="Feature_PVP_Arenas">&lt;font color={enemyColor}&gt;{enemy}&lt;/font&gt; Killed &lt;font color={allyColor}&gt;{ally}&lt;/font&gt;</string>
 	<string key="ui_pvparenas_ringoffire_killed_player" rel_version="Feature_PVP_Arenas">Ring Of Fire Killed &lt;font color={playerColor}&gt;{playerName}&lt;/font&gt;</string>
@@ -40,7 +40,7 @@
 	<string key="ui_pvparenas_cannotleavegroup_in_arena" rel_version="Feature_PVP_Arenas">You cannot leave your group while in a 3v3 Arena.</string>
 	<string key="ui_pvp_arena_leave" rel_version="Feature_PVP_Arenas">Leave Activity</string>
 	<string key="ui_pvp_arena_leave_desc" rel_version="Feature_PVP_Arenas">Are you sure you want to leave 3v3 Arena?</string>
-	<string key="ui_pvp_arena_leave_desc_time" rel_version="Feature_PVP_Arenas">Are you sure you want to leave 3v3 Arena?\nYou will be unable to queue for 3v3 Arena again for &lt;font color="#ffdb7a"&gt;[{time}]&lt;/font&gt;.</string>
+	<string key="ui_pvp_arena_leave_desc_time" rel_version="Feature_PVP_Arenas">Are you sure you want to leave 3v3 Arena?\nYou will be unable to queue for 3v3 Arena again for &lt;font color="#edc63e"&gt;[{time}]&lt;/font&gt;.</string>
 	<string key="ui_pvp_arena_leave_title" rel_version="Feature_PVP_Arenas">Leave Activity</string>
 	<string key="ui_cannot_travel_pvp_arena" rel_version="Feature_PVP_Arenas">You cannot fast travel while in 3v3 Arena.</string>
 	<string key="ui_pvparenas_cannot_use_item" rel_version="Feature_PVP_Arenas">Cannot use this item in 3v3 Arenas</string>

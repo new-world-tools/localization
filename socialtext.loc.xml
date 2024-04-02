@@ -43,8 +43,8 @@
 	<string key="ui_chat_filter_global">Show Global Chat</string>
 	<string key="ui_chat_voiceChat">Voice Chat</string>
 	<string key="ui_chat_GameMasterTag">GM</string>
-	<string key="ui_badge_gamemaster">&lt;font color="#ff9900" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Game Master&lt;/font&gt;\nA member of Amazon's community team that can assist with issues</string>
-	<string key="ui_badge_criminal">&lt;font color="#f67272" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Criminal&lt;/font&gt;\nThis player recently committed a crime against another player</string>
+	<string key="ui_badge_gamemaster">&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Game Master&lt;/font&gt;\nA member of Amazon's community team that can assist with issues</string>
+	<string key="ui_badge_criminal">&lt;font color="#ff7171" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Criminal&lt;/font&gt;\nThis player recently committed a crime against another player</string>
 	<string key="ui_cycle_channels">Press tab to cycle channels</string>
 	<string key="ui_enter_recipient">Enter Player Name</string>
 	<string key="ui_error_whisper_block">Unblock / unmute recipient to send whisper</string>
@@ -132,7 +132,7 @@
 	<string key="ui_p2ptrading_initiate_trade">Trade</string>
 	<string key="ui_p2ptrading_trade_notification_sent">Trade Invite Sent</string>
 	<string key="ui_p2ptrading_invite_notification_title">Trade Request</string>
-	<string key="ui_p2ptrading_invite_notification_text">&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{playerName}&lt;/font&gt; invited you to trade.\nWould you like to accept?</string>
+	<string key="ui_p2ptrading_invite_notification_text">&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{playerName}&lt;/font&gt; invited you to trade.\nWould you like to accept?</string>
 	<string key="ui_p2ptrading_failmessage_invalidname">{playerName} is not a valid player name.</string>
 	<string key="ui_p2ptrading_failmessage_system_error">Trade invitation failed.</string>
 	<string key="ui_p2ptrading_failmessage_eligibility_failed">You are no longer eligible to accept this Trade invite.</string>
@@ -292,12 +292,12 @@
 	<string key="ui_twitch_socialpane_spotlight_hide">Hide Other Streamers</string>
 	<string key="ui_spotlight_viewer">1 viewer</string>
 	<string key="ui_spotlight_viewers">{viewers} viewers</string>
-	<string key="ui_spotlight_failed">&lt;font color="#835acd"&gt;Status:&lt;/font&gt; &lt;font color="#f25d5d"&gt; Failed&lt;/font&gt;</string>
-	<string key="ui_spotlight_notconnected">&lt;font color="#835acd"&gt;Status:&lt;/font&gt; &lt;font color="#f25d5d"&gt; Off&lt;/font&gt;</string>
-	<string key="ui_spotlight_connecting">&lt;font color="#835acd"&gt;Status:&lt;/font&gt; &lt;font color="#ffffff"&gt; Starting&lt;/font&gt;</string>
+	<string key="ui_spotlight_failed">Status: &lt;font color="#ff7171"&gt;Failed&lt;/font&gt;</string>
+	<string key="ui_spotlight_notconnected">Status: &lt;font color="#ff7171"&gt;Off&lt;/font&gt;</string>
+	<string key="ui_spotlight_connecting">Status: &lt;font color="#ebe3d6"&gt;Starting&lt;/font&gt;</string>
 	<string key="ui_spotlight_failed_notification_title">Connection Failed</string>
 	<string key="ui_spotlight_failed_notification_message">Unable to start Twitch Streamer Spotlight. Make sure your stream is live and try again.</string>
-	<string key="ui_spotlight_error">&lt;font color="#835acd"&gt;Status:&lt;/font&gt; &lt;font color="#f25d5d"&gt; Error&lt;/font&gt;</string>
+	<string key="ui_spotlight_error">Status: &lt;font color="#ff7171"&gt;Error&lt;/font&gt;</string>
 	<string key="ui_subarmy_title">Twitch Subscriber Army</string>
 	<string key="ui_subarmy_join_desc">Join other streamers' subscriber army session.</string>
 	<string key="ui_subarmy_tooltip">&lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Enable&lt;/font&gt; it in &lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Settings&lt;/font&gt; to create or join Twitch Subscriber Army.</string>
@@ -358,7 +358,7 @@
 	<string key="ui_notification_pvp_disabled">PvP flag disabled.</string>
 	<string key="ui_notification_pvp_countdown">PvP protection timer started.</string>
 	<string key="ui_notification_pvp_flagging_title">Flagging for PvP.</string>
-	<string key="ui_notification_pvp_flagging_message">While flagged for PvP, you can attack other PvP flagged players, but other flagged players can do the same to you. You receive a &lt;font color="#ff9900"&gt;10% XP bonus&lt;/font&gt; while flagged. \n\nWhen you leave the Sanctuary, you will have a &lt;font color="#ff9900"&gt;30 second protection&lt;/font&gt; timer.</string>
+	<string key="ui_notification_pvp_flagging_message">While flagged for PvP, you can attack other PvP flagged players, but other flagged players can do the same to you. You receive a &lt;font color="#edc63e"&gt;10% XP bonus&lt;/font&gt; while flagged. \n\nWhen you leave the Sanctuary, you will have a &lt;font color="#edc63e"&gt;30 second protection&lt;/font&gt; timer.</string>
 	<string key="ui_notification_pvp_track_flagging_message">While flagged for PvP, you can attack and be attacked by other PvP flagged players. &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;Successful kills can get you Azoth Salt and PvP XP.&lt;/font&gt; \nYou also receive the following bonuses: &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;+10% XP, +3% Gathering Luck, +1% Global Luck&lt;/font&gt; for large/elite chests. \n\nWhen you leave the Sanctuary, you will have a &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;30 second protection&lt;/font&gt; timer.</string>
 	<string key="ui_notification_pvp_checkpoint_unlocked">Checkpoint Unlocked</string>
 	<string key="ui_notification_pvp_reward_options">View Reward Options</string>
@@ -388,7 +388,7 @@
 	<string key="ui_no_permission_alert">You don't have permission to send an alert.</string>
 	<string key="ui_title_alpha">Founder</string>
 	<string key="ui_title_preorder">Expedition One</string>
-	<string key="ui_player_levelup_chat">{playerName} has reached &lt;font color="#ff9900"&gt;Level {param0}&lt;/font&gt;.</string>
+	<string key="ui_player_levelup_chat">{playerName} has reached &lt;font color="#edc63e"&gt;Level {param0}&lt;/font&gt;.</string>
 	<string key="ui_transcribed_audio_message">(STT) {transcribedMessage}</string>
 	<string key="ui_company_upkeep_due">Company and Faction bonuses are disabled since the governing company of {territoryName} didn't pay the upkeep.</string>
 	<string key="ui_territory_bonus_active_buffs">Active Buffs</string>
@@ -613,12 +613,12 @@
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_queue_hud_group_full">Group full</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_queue_hud_open_expedition">Open Expedition</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_queue_hud_min_players">A minimum of {amount} members are required to start this expedition.</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_creator">Creator: &lt;font face="lyshineui/fonts/Nimbus_Semibold.font" color="#ffffff"&gt;{name}&lt;/font&gt;</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_creator">Creator: &lt;font face="lyshineui/fonts/Nimbus_Semibold.font" color="#ebe3d6"&gt;{name}&lt;/font&gt;</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_gear_score_requirement">Gear Score Requirement: &lt;font face="lyshineui/fonts/Nimbus_Semibold.font" color={scoreColor}&gt;{score}&lt;/font&gt;</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_level_requirement">Level Requirement: &lt;font face="lyshineui/fonts/Nimbus_Semibold.font" color={scoreColor}&gt;{score}&lt;/font&gt;</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_num_members">Players: &lt;font face="lyshineui/fonts/Nimbus_Semibold.font" color="#ffffff"&gt;{numMembers}&lt;/font&gt; / 5</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_member_stat_attribute">{name}  &lt;font face="lyshineui/fonts/Nimbus_Semibold.font" color="#ffffff"&gt;{value}&lt;/font&gt;</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_member_stat_mastery">&lt;font face="lyshineui/fonts/Nimbus_Semibold.font" color="#ffffff"&gt;{value}&lt;/font&gt;  {name}</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_num_members">Players: &lt;font face="lyshineui/fonts/Nimbus_Semibold.font" color="#ebe3d6"&gt;{numMembers}&lt;/font&gt; / 5</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_member_stat_attribute">{name}  &lt;font face="lyshineui/fonts/Nimbus_Semibold.font" color="#ebe3d6"&gt;{value}&lt;/font&gt;</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_member_stat_mastery">&lt;font face="lyshineui/fonts/Nimbus_Semibold.font" color="#ebe3d6"&gt;{value}&lt;/font&gt;  {name}</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_none_equipped">No weapons equipped</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_member_list_creator">Creator</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_voice">Voice</string>
@@ -648,8 +648,8 @@
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_tooltip_leave_and_unlist_group_desc">Are you sure you want to delete the Lobby?\n\nAll members will be kicked.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invite_reject">Only the Lobby Creator can invite or reject member applications.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_pending_group_invites_header">Lobby Invites</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_pending_group_description">&lt;font color="#ffea00" &gt;{creator}&lt;/font&gt; invited you as &lt;font color={roleColor} &gt;{role}&lt;/font&gt;</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_pending_group_description_directinvitation">&lt;font color="#ffea00" &gt;{creator}&lt;/font&gt; invited you</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_pending_group_description">&lt;font color="#edc63e" &gt;{creator}&lt;/font&gt; invited you as &lt;font color={roleColor} &gt;{role}&lt;/font&gt;</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_pending_group_description_directinvitation">&lt;font color="#edc63e" &gt;{creator}&lt;/font&gt; invited you</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_convert_to_group">Ready for Expedition</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_start_expedition">Start</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_tooltip_not_enough_members">Not enough members in Lobby</string>
@@ -673,8 +673,8 @@
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_chat_lobby_left">{playerName} left the Lobby.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_error_group_finder_group_chat" comment="An error when you try to talk in group finder group chat">You are not in a Lobby.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_create_limit_title">Can't Create Lobby</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_create_limit_desc_regular">The following group member(s) have reached their daily Regular Expedition limit and cannot join this Lobby.\n\n&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{characters}&lt;/font&gt;\n&lt;font color={dateColor}&gt;(Can join {date})&lt;/font&gt;</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_create_limit_desc_mutated">The following group member(s) have reached their weekly Mutated Expedition limit and cannot join this Lobby.\n\n&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{characters}&lt;/font&gt;\n&lt;font color={dateColor}&gt;(Can join {date})&lt;/font&gt;</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_create_limit_desc_regular">The following group member(s) have reached their daily Regular Expedition limit and cannot join this Lobby.\n\n&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{characters}&lt;/font&gt;\n&lt;font color={dateColor}&gt;(Can join {date})&lt;/font&gt;</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_create_limit_desc_mutated">The following group member(s) have reached their weekly Mutated Expedition limit and cannot join this Lobby.\n\n&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{characters}&lt;/font&gt;\n&lt;font color={dateColor}&gt;(Can join {date})&lt;/font&gt;</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_limit_refresh">(Resets {date})</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_pending_invites_single">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;1&lt;/font&gt; Pending Invite</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_pending_invites">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{amount}&lt;/font&gt; Pending Invites</string>
@@ -686,8 +686,6 @@
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_activity_expeditions_desc" comment="">Explore long-forgotten locales (with up to 4 teammates) to unlock and find unique rewards so that you can grow in strength to crush your enemies.</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_activity_mutations_name">Mutated Expeditions</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_activity_mutations_desc" comment="">With 3 new difficulty levels, revisit past Expeditions with new, dangerous challenges. You'll need to work together closely, but if you can survive you will earn the most valuable rewards.</string>
-	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_activity_season_trials_name">Season Trials</string>
-	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_activity_season_trials_desc" comment="">Face a new and fearsome challenge each with each new season.\n\nMinimum Of 6 Players\nLocal Groups Only</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_activity_elite_trials_name">Elite Trials</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_activity_elite_trials_desc" comment="">Battle the colossal "Shah Neshen the Devourer" with up to 20 players in this Elite Trial.\n\nMinimum Of 12 Players\nLocal Groups Only</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_activity_opr_desc" comment="">Be the first to 1000 points in this fast paced, 20v20 PvP experience. Capture control points while gathering resources to build your defenses and unlock tactical benefits for your team.</string>
@@ -740,11 +738,11 @@
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_searching_for_outpost_rush">Outpost Rush</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_searching_for_3v3arenas">3v3 Arenas</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_role_selection_in_progress_label">Role selection in progress</string>
-	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_role_bonus_reached">Role Bonus Limit: {count}/{dailyLimit}</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_role_bonus_reached">>Role Bonus Limit: {count}/{dailyLimit}</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_role_selection_in_progress">Role selection in progress - {playersLockedInText}</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_role_selection_players_locked_in">&lt;font color={numberColor}&gt; &lt;img src="LyShineUI/Images/icons/chat/channelgroup" scale="1.5" yOffset="5.5"&gt;&lt;/img&gt; {numLockedIn}&lt;/font&gt; / {numInGroup}</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_deserter_penalty_label">Under Deserter's Penalty</string>
-	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_deserter_tooltip">You have the &lt;font color={penaltyColor}&gt;Deserter Penalty&lt;/font&gt;.\n\nThis was applied because you left a Cross World group within the first 10 minutes. While under penalty, you can not queue for this mode.\n\nHowever, you can still create premade groups to enjoy content by using the &lt;font face="lyshineui/fonts/nimbus_bold.font" &gt;Enter With Group&lt;/font&gt; button in the Dungeon Entrance.\n\nIf you wish to avoid this penalty in the future, try to complete the content with your group before leaving, or use the new &lt;font face="lyshineui/fonts/nimbus_bold.font" &gt;Vote To Abandon&lt;/font&gt; feature in the Group Settings.</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_deserter_tooltip">You have the &lt;font color={penaltyColor}&gt;Deserter Penalty&lt;/font&gt;.\n\nThis was applied because you left a Cross World Activity shortly after it started. While under penalty, you can not queue for this mode.\n\nHowever, you can still create premade groups to enjoy content by using the &lt;font face="lyshineui/fonts/nimbus_bold.font" &gt;Enter With Group&lt;/font&gt; button in the Dungeon Entrance.\n\nIf you wish to avoid this penalty in the future, try to complete the content before leaving, or use the new &lt;font face="lyshineui/fonts/nimbus_bold.font" &gt;Abandon Activity&lt;/font&gt; feature in the Map or Group Settings.</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_in_queue_tooltip">You cannot request to join a matchmaking queue because you are currently signed up for {matchname}.</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_in_role_select_tooltip">You cannot request to join a matchmaking queue because you are currently signed up for {matchname}. Group members are selecting roles.</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_war_tooltip">You cannot request to join a matchmaking queue because you are already signed up for an upcoming war that starts within the next hour.</string>
@@ -790,17 +788,17 @@
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_selecting_roles">Selecting Roles: &lt;font color={numberColor}&gt;{numLockedIn}&lt;/font&gt; / {numInGroup}</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_role_disabled">You have already locked in a role. Click Change Role to change it.</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_role_requirement_damage">&lt;font color={color}&gt;Any Weapon&lt;/font&gt;</string>
-	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_role_requirement_tank">&lt;font color={weaponColor}&gt;Any Weapon&lt;/font&gt; &lt;font color={color}&gt; with a &lt;/font&gt; &lt;font color={gemColor}&gt;Carnelian Gem&lt;/font&gt;</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_role_requirement_tank">&lt;font color={color}&gt;Requires &lt;/font&gt; &lt;font color={gemColor}&gt;Carnelian Gem&lt;/font&gt; &lt;font color={color}&gt; OR &lt;/font&gt; &lt;font color={gemColor}&gt;Taunt Ability&lt;/font&gt;</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_role_requirement_healer">&lt;font color={weaponColor}&gt;Lv. {masteryLevel} Life Staff&lt;/font&gt; &lt;font color={color}&gt; and &lt;/font&gt; &lt;font color={focusColor}&gt;{focusLevel} {focusText}&lt;/font&gt;</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_role_description_damage">- Deal as much damage as possible\n- Kill foes before they can overwhelm you</string>
-	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_role_recommended_damage">- Blunderbuss, Bow, Fire Staff, Greataxe, Hatchet, Ice Gauntlet, Musket, Rapier, Spear, Void Gauntlet\n- Invest in skills and attributes that focus on high damage\n- Area of Effect attacks</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_role_recommended_damage">- Blunderbuss, Bow, Fire Staff, Greataxe, Greatsword, Hatchet, Ice Gauntlet, Musket, Rapier, Spear, Void Gauntlet\n- Invest in skills and attributes that focus on high damage\n- Area of Effect attacks</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_role_description_healer">- Keep the party alive with healing and mitigation\n- Remove harmful debuffs from allies</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_role_recommended_healer">- Life Staff, Void Gauntlet, Flail\n- Invest in the Focus stat</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_role_description_tank">- Absorb damage\n- Taunt enemies</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_role_recommended_tank">- Sword and Shield, Greataxe, Warhammer\n- Heavy Armor\n- Carnelian Gems\n- Crowd Control (stun, root, flatten)</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_ready_check_decline_popup_title">Confirm Decline</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_ready_check_decline_popup_message">Are you sure you want to decline the Ready Check? You or your group will be removed from the queue and will need to re-queue.</string>
-	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_exit_dungeon_desc">Are you sure you want to leave? You will be teleported outside of the Expedition and will not be able to rejoin.\n\n&lt;font color={penaltyColor}&gt;Using Leave applies a Deserter Penalty (20 minutes) if used within the first 10 minutes of the expedition.&lt;/font&gt;\n\nTo guarantee you won't receive the Deserter Penalty, use the Vote To Abandon option in the Group Settings.</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_exit_dungeon_desc">Are you sure you want to leave? You will be teleported outside of the Expedition and will not be able to rejoin.\n\n&lt;font color={penaltyColor}&gt;Using Leave applies a Deserter Penalty (20 minutes) if used within the first 10 minutes of the expedition.&lt;/font&gt;\n\nTo guarantee you won't receive the Deserter Penalty, use the Abandon Activity option from the Map or in Group Settings.</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_exit_dungeon_desc_no_penalty">Are you sure you want to leave? You will be teleported outside of the Expedition and will not be able to rejoin.</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_expedition_activity_disabled">Expedition matchmaking is currently disabled. Please try again later.</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_mutation_activity_disabled">Mutated Expedition matchmaking is currently disabled. Please try again later.</string>

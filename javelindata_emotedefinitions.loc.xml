@@ -60,7 +60,7 @@
 	<string key="ui_emote">Emote</string>
 	<string key="ui_emotes">Emotes</string>
 	<string key="ui_emote_unavailable_reason">This emote is only available for {entitlementRequirements}</string>
-	<string key="ui_emote_unavailable">&lt;font color="#f25d5d"&gt;This emote is not available.&lt;/font&gt;</string>
+	<string key="ui_emote_unavailable">&lt;font color="#ff7171"&gt;This emote is not available.&lt;/font&gt;</string>
 	<string key="ui_emote_BlowKiss">Blow Kiss</string>
 	<string key="ui_emote_PiratePose">Pirate Stance</string>
 	<string key="ui_emote_FingerWag">Finger Wag</string>
@@ -530,9 +530,9 @@
 	<string key="ui_Emote_YouMeNow_description" rel_version="Season_3_Perm">We are going to handle this right now!</string>
 	<string key="Emote_YouMeNow" rel_version="Season_3_Perm">{playerName} beckons to come handle business!</string>
 	<string key="ui_Emote_YouMeNow">You, Me, NOW!</string>
-	<string key="ui_Emote_CraneKick_description" rel_version="Emotes_Gothknight">Kick it with your buddies. Or just kick your buddies. Either works.</string>
-	<string key="Emote_CraneKick" rel_version="Emotes_Gothknight">{playerName} performs a flawless crane kick!</string>
-	<string key="ui_Emote_CraneKick" rel_version="Emotes_Gothknight">Crane Kick</string>
+	<string key="ui_Emote_CraneKick_description">Kick it with your buddies. Or just kick your buddies. Either works.</string>
+	<string key="Emote_CraneKick">{playerName} performs a flawless crane kick!</string>
+	<string key="ui_Emote_CraneKick">Crane Kick</string>
 	<string key="ui_Emote_PopTheBottle_name" rel_version="Event_WinterConvergence2023_Perm">Pop The Bottle</string>
 	<string key="ui_Emote_PopTheBottle_description" rel_version="Event_WinterConvergence2023_Perm">Celebrate your big victories! Or even your little ones.</string>
 	<string key="Emote_PopTheBottle" rel_version="Event_WinterConvergence2023_Perm">{playerName} pops a bottle in celebration.</string>
@@ -564,5 +564,20 @@
 	<string key="ui_Emote_PlayDead_name">Play Dead</string>
 	<string key="ui_Emote_PlayDead_description">Clearly they are faking it... Right?!?!?</string>
 	<string key="Emote_PlayDead">{playerName} has died... Probably.</string>
+	<string key="ui_Emote_LolNo_name" rel_version="Entitlements_Reaper">LOL! No.</string>
+	<string key="ui_Emote_LolNo_description" rel_version="Entitlements_Reaper">When something's so wrong you can't help but laugh.</string>
+	<string key="Emote_LolNo" rel_version="Entitlements_Reaper">{playerName} bursts out laughing, then deadpans a clear "no".</string>
+	<string key="ui_Emote_Shadowbox_description" rel_version="Season_5_Perm">Someone said knock you out!</string>
+	<string key="ui_Emote_Shadowbox_name" rel_version="Season_5_Perm">Shadowbox</string>
+	<string key="Emote_Shadowbox" rel_version="Season_5_Perm">{playerName} punches at an invisible target.</string>
+	<string key="ui_Emote_Walk_Wave_description" rel_version="Season_5_Perm">Today you are the center of attention.</string>
+	<string key="ui_Emote_Walk_Wave_name" rel_version="Season_5_Perm">Celebration Wave</string>
+	<string key="Emote_Walk_Wave" rel_version="Season_5_Perm">{playerName} waves to the crowds of people around them.</string>
+	<string key="ui_Emote_Walk_Torch_name">Torchlit Walk</string>
+	<string key="ui_Emote_Walk_Torch_description">Need to loom menacingly around town? We've got just the thing. </string>
+	<string key="Emote_Walk_Torch">{playerName} stalks about menacingly, holding their torch high. </string>
+	<string key="ui_Emote_GauntletThrow_name">Throw the Gauntlet</string>
+	<string key="ui_Emote_GauntletThrow_description">Issue your challenge in style, with a well-aimed gauntlet toss. </string>
+	<string key="Emote_GauntletThrow">{playerName} throws down the gauntlet. </string>
 </resources>
 

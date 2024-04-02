@@ -18,7 +18,7 @@
 	<string key="ui_under_attack_50">is at 50% health</string>
 	<string key="ui_under_attack_25">is at 25% health</string>
 	<string key="ui_has_been_destroyed">has been destroyed</string>
-	<string key="ui_territory_claimed">&lt;font color="#ffe940"&gt;{guildName}&lt;/font&gt; has claimed {territoryName}</string>
+	<string key="ui_territory_claimed">&lt;font color="#edc63e"&gt;{guildName}&lt;/font&gt; has claimed {territoryName}</string>
 	<string key="ui_territory_claimed_title">Territory Claimed</string>
 	<string key="ui_territory_current">Current Territory:</string>
 	<string key="ui_territory_controlling_faction">Controlling Faction:</string>
@@ -41,9 +41,9 @@
 	<string key="ui_war_conquest">Siege {time}</string>
 	<string key="ui_war_resolution">War resolves in {time}</string>
 	<string key="ui_war_prewar">War Declared</string>
-	<string key="ui_war_declared_details">War will occur at &lt;font color="#ffe940"&gt;{territoryNamee}&lt;/font&gt;</string>
+	<string key="ui_war_declared_details">War will occur at &lt;font color="#edc63e"&gt;{territoryNamee}&lt;/font&gt;</string>
 	<string key="ui_invasion_declared">Corrupted Invasion</string>
-	<string key="ui_invasion_declared_details">Invasion will occur at &lt;font color="#ffe940"&gt;{territoryNamee}&lt;/font&gt;</string>
+	<string key="ui_invasion_declared_details">Invasion will occur at &lt;font color="#edc63e"&gt;{territoryNamee}&lt;/font&gt;</string>
 	<string key="ui_war_started">Battle Started</string>
 	<string key="ui_war_conquest_started">Siege Started</string>
 	<string key="ui_war_resolution_started">War Resolution</string>
@@ -65,11 +65,11 @@
 	<string key="ui_warDeclared_message_defend">You are going to be attacked.\nBe sure to save enough coin to &lt;font color="#cfc2a2"&gt;counter attack!&lt;/font&gt;</string>
 	<string key="ui_battle_message">You can attack the war target\nwithout becoming a criminal.</string>
 	<string key="ui_resolution_message_attack">Now you can claim\na destroyed claim marker!</string>
-	<string key="ui_resolution_message_defend">Now you can reclaim a claim marker\nor &lt;font color="#dfd4b8"&gt;Counter attack&lt;/font&gt; the enemy!</string>
-	<string key="ui_war_declared">&lt;font color="#dfd4b8"&gt;{attackingGuildName}&lt;/font&gt; declared a war against &lt;font color="#dfd4b8"&gt;{defendingGuildName}&lt;/font&gt;!</string>
+	<string key="ui_resolution_message_defend">Now you can reclaim a claim marker\nor &lt;font color="#b2aea1"&gt;Counter attack&lt;/font&gt; the enemy!</string>
+	<string key="ui_war_declared">&lt;font color="#b2aea1"&gt;{attackingGuildName}&lt;/font&gt; declared a war against &lt;font color="#b2aea1"&gt;{defendingGuildName}&lt;/font&gt;!</string>
 	<string key="ui_warEnd_message">The war has ended.</string>
-	<string key="ui_claimDestroyed_message">The claim is now locked!\nClaim the territory in &lt;font color="#dfd4b8"&gt;Resolution phase.&lt;/font&gt;</string>
-	<string key="ui_claimMarkerDestroyed">&lt;font color="#dfd4b8"&gt;{defendingGuildName}&lt;/font&gt;'s claim marker is destroyed!</string>
+	<string key="ui_claimDestroyed_message">The claim is now locked!\nClaim the territory in &lt;font color="#b2aea1"&gt;Resolution phase.&lt;/font&gt;</string>
+	<string key="ui_claimMarkerDestroyed">&lt;font color="#b2aea1"&gt;{defendingGuildName}&lt;/font&gt;'s claim marker is destroyed!</string>
 	<string key="ui_siege_attack">CAPTURE THE FORT</string>
 	<string key="ui_siege_defend">DEFEND YOUR CLAIM</string>
 	<string key="ui_siege_win">VICTORY</string>

@@ -26,7 +26,7 @@
 	<string key="tip_overworld_camping_resting01-title">Camping</string>
 	<string key="tip_overworld_camping_resting01-content">Rest at your Camp to recover Health before going into unknown areas.</string>
 	<string key="tip_overworld_camping_upgrades01-title">Camp Upgrades</string>
-	<string key="tip_overworld_camping_upgrades01-content">You can unlock upgrades to your Camp by completing Special Quests at Levels 15, 25, 40, and 55. These Quests are located in Monarch's Bluffs, Cutlass Keys, Restless Shore, and Edengrove.</string>
+	<string key="tip_overworld_camping_upgrades01-content">You can unlock upgrades to your Camp at Levels 15, 25, 40, and 55.</string>
 	<string key="tip_overworld_camping_respawn01-title">Camping</string>
 	<string key="tip_overworld_camping_respawn01-content">Place a Camp near important places. You can then Respawn there in case of an unfortunate death.</string>
 	<string key="tip_overworld_camping_respawn02-title">Camping</string>
@@ -48,7 +48,7 @@
 	<string key="tip_overworld_combat_damageTypes03-title">Gems in Weapons</string>
 	<string key="tip_overworld_combat_damageTypes03-content">Gems which convert damage to elemental damage cannot be placed into weapons that deal that damage by default. For example, a Ruby cannot be added to a Fire Staff.</string>
 	<string key="tip_overworld_combat_attributes01-title">Attributes</string>
-	<string key="tip_overworld_combat_attributes01-content">Attribute Respecs are free until you are Level 20. Take advantage of this time to figure out where you want your Points to go, and avoid costly Respecs in the future!</string>
+	<string key="tip_overworld_combat_attributes01-content">Attribute Respecs are free until you are Level 60. Take advantage of this time to figure out where you want your Points to go, and avoid costly Respecs in the future!</string>
 	<string key="tip_overworld_combat_duels01-title">Duels</string>
 	<string key="tip_overworld_combat_duels01-content">There's no penalty for losing a Duel so don't be afraid to take on all challengers!</string>
 	<string key="tip_overworld_combat_duels02-title">Duels</string>
@@ -83,8 +83,6 @@
 	<string key="tip_overworld_combat_fireStaff01-content">The Fire Staff can be utilized for large Crowd Control, or stacking Burn Statuses to a devastating effect.</string>
 	<string key="tip_overworld_combat_lifeStaff01-title">The Life Staff</string>
 	<string key="tip_overworld_combat_lifeStaff01-content">If there are no allies around, you can always use Orb of Protection at your feet to Buff yourself.</string>
-	<string key="tip_overworld_combat_lifeStaff02-title">The Life Staff</string>
-	<string key="tip_overworld_combat_lifeStaff02-content">If you want to use a Life Staff ability on yourself, press [{hint1}] + the ability key.</string>
 	<string key="tip_overworld_combat_iceGaunlet01-title">The Ice Gauntlet</string>
 	<string key="tip_overworld_combat_iceGaunlet01-content">The Ice Gauntlet is excellent at hindering enemy progression. Use its Slowing Effects to gain better positioning or give teammates an opening to do more damage.</string>
 	<string key="tip_overworld_combat_voidGaunlet01-title">The Void Gauntlet</string>
@@ -121,8 +119,6 @@
 	<string key="tip_overworld_crafting_gypsum01-content">Craft a Topaz Gypsum Attunement Potion at any Arcana Station or Tier 5 Camp. When attuned, you can earn Topaz Gypsum as a random drop from level 55+ enemies.</string>
 	<string key="tip_overworld_darkness_events01-title">Darkness</string>
 	<string key="tip_overworld_darkness_events01-content">[Placeholder]</string>
-	<string key="tip_overworld_death_respawning01-title">Teamwork Makes the Dream Work</string>
-	<string key="tip_overworld_death_respawning01-content">Chat can be accessed at the Respawn screen by pressing [{hint1}]. Check in with your team and see where you are needed most.</string>
 	<string key="tip_overworld_death_durability01-title">A Dull Blade is More Dangerous</string>
 	<string key="tip_overworld_death_durability01-content">Items take damage any time you die. Remember to Repair them before returning to the fight. Nothing is worse than a sword that breaks mid-swing.</string>
 	<string key="tip_elitestrongholds_general01-title">Elite Strongholds</string>
@@ -151,10 +147,8 @@
 	<string key="tip_overworld_equipment_storage01-content">Crafting in a Settlement can pull resources from Inventory or Storage, no need to haul all those ingredients around.</string>
 	<string key="tip_overworld_equipment_damage01-title">Equipment Damage</string>
 	<string key="tip_overworld_equipment_damage01-content">Equipped items take damage on use and on death.</string>
-	<string key="tip_overworld_equipment_repairing01-title">Quick Repair and Salvage</string>
-	<string key="tip_overworld_equipment_repairing01-content">Press the Hotkey Shortcut to Repair or Salvage an item in one click. [{hint1}] + Left-Click for quick Repair and [{hint2}] + Left-Click for quick Salvage.</string>
 	<string key="tip_overworld_equipment_lockingItems01-title">Locking Items</string>
-	<string key="tip_overworld_equipment_lockingItems01-content">Prevent items from being salvaged by selecting the item in your Inventory and choosing "Lock" [{hint1}]. A lock icon will appear on the item when it is locked.</string>
+	<string key="tip_overworld_equipment_lockingItems01-content">Prevent items from being salvaged by selecting the item in your Inventory and choosing "Lock."</string>
 	<string key="tip_overworld_factions_types01-title">Syndicate</string>
 	<string key="tip_overworld_factions_types01-content">Clever disciples who fight with cunning for the sake of truth and progress.</string>
 	<string key="tip_overworld_factions_types02-title">Marauders</string>
@@ -215,8 +209,6 @@
 	<string key="tip_overworld_fishing_mechanics03-content">Larger or rarer fish are more likely to put up a fight.</string>
 	<string key="tip_overworld_fishing_mechanics04-title">Fishing</string>
 	<string key="tip_overworld_fishing_mechanics04-content">Any Bait will decrease the time taken to get bites.</string>
-	<string key="tip_overworld_fishing_mechanics05-title">Fishing</string>
-	<string key="tip_overworld_fishing_mechanics05-content">Press [{hint1}] to enter Fishing Mode.</string>
 	<string key="tip_overworld_fishing_poles01-title">Fishing</string>
 	<string key="tip_overworld_fishing_poles01-content">Better fishing poles can cast further, have higher durability, faster line tension recovery, and increased chance of catching rarer fish.</string>
 	<string key="tip_overworld_fishing_poles02-title">Fishing</string>
@@ -271,8 +263,6 @@
 	<string key="tip_overworld_housing_ownership04-content">Not all houses are the same. Some are more spacious than others which increases their tier. These houses require a higher standing in that Territory and will cost more gold.</string>
 	<string key="tip_overworld_housing_ownership05-title">Housing</string>
 	<string key="tip_overworld_housing_ownership05-content">Owning a house has perks, but only if you pay your upkeep. If upkeep is due, you will no longer be able to enjoy Fast Travel or trophy buffs until they are paid.</string>
-	<string key="tip_overworld_housing_ownership06-title">Housing</string>
-	<string key="tip_overworld_housing_ownership06-content">Want to Fast Travel to your House, but you haven't paid your upkeep? Pay them from the Map [{hint1}] to re-enable your Housing Perks instantly.</string>
 	<string key="tip_overworld_housing_buffs01-title">Housing</string>
 	<string key="tip_overworld_housing_buffs01-content">You can only place 5 different types of Trophies in each House you own. 15 total if you own 3 Houses.</string>
 	<string key="tip_overworld_housing_buffs02-title">Housing</string>
@@ -286,13 +276,13 @@
 	<string key="tip_overworld_misc_general01-title">Take A Break</string>
 	<string key="tip_overworld_misc_general01-content">Remember to take a break when you've been playing New World continuously for a long period of time.</string>
 	<string key="tip_overworld_misc_general02-title">Screenshots</string>
-	<string key="tip_overworld_misc_general02-content">Take screenshots with [F7]. You can also hide your UI by pressing [{hint1}+{hint2}] to get the most out of the scenery.</string>
+	<string key="tip_overworld_misc_general02-content">Take screenshots and hide your UI to get the most out of the scenery.</string>
 	<string key="tip_overworld_misc_general03-title">Between a Rock and a Hard Place</string>
 	<string key="tip_overworld_misc_general03-content">If you're exploring and become stuck, you can free yourself by either typing "/stuck" or selecting "Unstuck" from the Game Menu.</string>
 	<string key="tip_overworld_misc_general04-title">Emotes</string>
-	<string key="tip_overworld_misc_general04-content">Nothing to say? Press [{hint1}] to bring up Emotes.</string>
+	<string key="tip_overworld_misc_general04-content">Nothing to say? Use Emotes to express yourself.</string>
 	<string key="tip_overworld_movement_crouchAndProne01-title">Lying Low</string>
-	<string key="tip_overworld_movement_crouchAndProne01-content">Lying prone [{hint1}] or crouching [{hint2}] in vegetation will make it significantly harder for enemy players to see your nameplate.</string>
+	<string key="tip_overworld_movement_crouchAndProne01-content">Lying prone or crouching in vegetation will make it significantly harder for enemy players to see your nameplate.</string>
 	<string key="tip_overworld_movement_fastTravel01-title">Fast Travel</string>
 	<string key="tip_overworld_movement_fastTravel01-content">Visit Settlements and Spirit Shrines to expand the network of locations to which you can Fast Travel.</string>
 	<string key="tip_overworld_movement_shrines01-title">Shrines</string>
@@ -300,17 +290,17 @@
 	<string key="tip_overworld_movement_compass01-title">Tracking Resources</string>
 	<string key="tip_overworld_movement_compass01-content">Increasing certain Trade Skills will unlock higher levels of Resource Tracking on your Compass.</string>
 	<string key="tip_overworld_movement_map01-title">Waypoints</string>
-	<string key="tip_overworld_movement_map01-content">If you're headed somewhere specific, open the map [{hint1}] to place a waypoint at your destination. This will appear on the compass to help guide you.</string>
+	<string key="tip_overworld_movement_map01-content">If you're headed somewhere specific, open the map to place a waypoint at your destination. This will appear on the compass to help guide you.</string>
 	<string key="tip_overworld_movement_lore01-title">Lore Pages</string>
 	<string key="tip_overworld_movement_lore01-content">Feed your head! Reading Lore Pages on Aeternum awards XP!</string>
 	<string key="tip_overworld_pings_contextualPings01-title">Contextual Pings</string>
-	<string key="tip_overworld_pings_contextualPings01-content">Quick pings [{hint1}] are contextual. Placing one in the environment, PvP enemies, or loot, will ping "Moving Here", "Danger Here", and "Loot Here".</string>
+	<string key="tip_overworld_pings_contextualPings01-content">Quick pings are contextual. Placing one in the environment, PvP enemies, or loot, will ping "Moving Here", "Danger Here", and "Loot Here".</string>
 	<string key="tip_overworld_pings_pingWheel01-title">Ping Wheel</string>
-	<string key="tip_overworld_pings_pingWheel01-content">Hold [{hint1}] to open the Ping Wheel for more ping types.</string>
+	<string key="tip_overworld_pings_pingWheel01-content">Open the Ping Wheel for more ping types.</string>
 	<string key="tip_overworld_pings_targetMarking01-title">Target Marking</string>
-	<string key="tip_overworld_pings_targetMarking01-content">You can mark NPC targets by pressing [{hint1}] while they are under your reticle.</string>
+	<string key="tip_overworld_pings_targetMarking01-content">You can mark NPC targets by pinging while they are under your reticle.</string>
 	<string key="tip_overworld_pings_pingOnMapPings01-title">Pings</string>
-	<string key="tip_overworld_pings_pingOnMapPings01-content">Did you know you can ping directly on your map? Try setting a ping [{hint1}] on your map. You can even use the ping wheel by holding [{hint2}].</string>
+	<string key="tip_overworld_pings_pingOnMapPings01-content">Did you know you can ping directly on your map? Try setting a ping by opening the Ping Wheel.</string>
 	<string key="tip_overworld_pvpRewardsTrack_general01-title" rel_version="PvP_Rewards_Track">PvP Rewards Track</string>
 	<string key="tip_overworld_pvpRewardsTrack_general01-content" rel_version="PvP_Rewards_Track">The player who commits the killing blow will be awarded PvP XP and Azoth Salt.</string>
 	<string key="tip_overworld_pvpRewardsTrack_general02-title" rel_version="PvP_Rewards_Track">PvP Rewards Track</string>
@@ -333,14 +323,10 @@
 	<string key="tip_overworld_quests_quests06-content">Every day you will receive Bonus Rewards for the first 3 Faction Missions you complete!</string>
 	<string key="tip_overworld_quests_quests07-title">Faction Renown</string>
 	<string key="tip_overworld_quests_quests07-content">Each Faction has 6 Ranks to climb. Earn Renown from Faction Missions and complete the trial assigned to you to earn glory for your Faction!</string>
-	<string key="tip_overworld_quests_quests08-title">Camp Levels</string>
-	<string key="tip_overworld_quests_quests08-content">Camp Levels can be increased by completing specific Quests. These can be found in the Leveling Rewards page.</string>
+	<string key="tip_overworld_quests_quests08-title">Camp Tier</string>
+	<string key="tip_overworld_quests_quests08-content">Camp Tier is increased at Levels 15, 25, 40, and 55.</string>
 	<string key="tip_overworld_social_p2pTrading01-title">Trading</string>
 	<string key="tip_overworld_social_p2pTrading01-content">Trade items with other players by selecting "Trade" in their social menu.</string>
-	<string key="tip_overworld_social_titles01-title">Titles</string>
-	<string key="tip_overworld_social_titles01-content">You can change the titles you've earned through the Bio [{hint1}] screen.</string>
-	<string key="tip_overworld_social_hMenu01-title">Social Menu</string>
-	<string key="tip_overworld_social_hMenu01-content">You can open a player's Social Menu by looking directly at them and pressing [{hint1}].</string>
 	<string key="tip_overworld_social_doNotDisturb01-title">Do Not Disturb</string>
 	<string key="tip_overworld_social_doNotDisturb01-content">Prevent social interactions by turning on "Do Not Disturb" in the settings menu or using the shortcut "/dnd".</string>
 	<string key="tip_overworld_territories_townOwnership01-title">Town Ownership</string>
@@ -353,7 +339,7 @@
 	<string key="tip_overworld_territories_townPerks01-content">[Placeholder]</string>
 	<string key="tip_overworld_territories_townUpkeep01-title">Town Upkeep</string>
 	<string key="tip_overworld_territories_townUpkeep01-content">[Placeholder]</string>
-	<string key="tip_overworld_territories_townTaxes01-title">Town Taxes</string>
+	<string key="tip_overworld_territories_townTaxes01-title">Town Fees</string>
 	<string key="tip_overworld_territories_townTaxes01-content">[Placeholder]</string>
 	<string key="tip_overworld_tradeSkills_gathering01-title">Gathering</string>
 	<string key="tip_overworld_tradeSkills_gathering01-content">[Placeholder]</string>
@@ -518,7 +504,7 @@
 	<string key="tip_pvpArena_general06-title" rel_version="Feature_PVP_Arenas">Riches and Glory</string>
 	<string key="tip_pvpArena_general06-content" rel_version="Feature_PVP_Arenas">Arena wins are a great way to earn PvP Reward Track experience.</string>
 	<string key="tip_warInvasionGeneral_general01-title">Shout Pings</string>
-	<string key="tip_warInvasionGeneral_general01-content">War leaders can hold [{hint1}] while placing a ping to make the ping visible to the entire Army.</string>
+	<string key="tip_warInvasionGeneral_general01-content">War leaders can make a ping visible to the entire Army.</string>
 	<string key="tip_war_specific01-title">War</string>
 	<string key="tip_war_specific01-content">Armories are accessible from bases and control points.</string>
 	<string key="tip_war_specific02-title">War</string>
@@ -530,7 +516,7 @@
 	<string key="tip_war_specific05-title">War</string>
 	<string key="tip_war_specific05-content">Players earn Battle Tokens by damaging their enemies. With Battle Tokens, players can purchase various items from Armory.</string>
 	<string key="tip_war_specific06-title">War</string>
-	<string key="tip_war_specific06-content">War leaders can hold [{hint1}] while placing a ping to make the ping visible to the entire Army.</string>
+	<string key="tip_war_specific06-content">War leaders can make a ping visible to the entire Army.</string>
 	<string key="tip_invasion_specific01-title">Invasion</string>
 	<string key="tip_invasion_specific01-content">The Corrupted Army will attack the fort in waves, with each successive wave becoming stronger.</string>
 	<string key="tip_invasion_specific02-title">Invasion</string>

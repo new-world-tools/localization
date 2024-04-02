@@ -60,7 +60,7 @@
 	<string key="ui_war_eom_sort_button_wood_deposited">WOOD</string>
 	<string key="ui_war_eom_sort_button_hide_deposited">HIDE</string>
 	<string key="ui_war_eom_sort_button_azoth_deposited">AZOTH</string>
-	<string key="ui_war_eom_sort_button_total_resources_deposited">RESOURCES CONTRIBUTED</string>
+	<string key="ui_war_eom_sort_button_total_resources_deposited">RESOURCES</string>
 	<string key="ui_war_eom_performance_weapon_damage">Weapon Damage</string>
 	<string key="ui_war_eom_performance_weapon_takedown">Weapon Kills</string>
 	<string key="ui_war_eom_performance_siege_damage">Siege Damage</string>

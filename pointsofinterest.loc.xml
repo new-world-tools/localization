@@ -100,9 +100,10 @@
 	<string key="ui_poi_banner_16BS07_Necropolis09" rel_version="Territory_Brimstone_Sands">Eighth Gate Of The Usurper</string>
 	<string key="ui_poi_banner_16BS07_Necropolis10" rel_version="Territory_Brimstone_Sands">Ninth Gate Of The Chained Betrayer</string>
 	<string key="ui_poi_banner_EG_QuestMotherwell_GuardianVictory" rel_version="Quest_MSQ2_Edengrove">The Ritual has been interrupted</string>
+	<string key="ui_poi_banner_ER_QuestLiang_WoodShrine" rel_version="Quest_MSQ3_Ebonscale">Wood Shrine</string>
 	<string key="ui_poi_bear_den_40225">Pebblepot Cave</string>
 	<string key="ui_poi_bear_den_ramshead_60404">Ramshead Cave</string>
-	<string key="ui_poi_blightcave_50417">Rotfellow Hovel</string>
+	<string key="ui_poi_blightcave_50417">Blister Fistula</string>
 	<string key="ui_poi_crater_blightedbridge_50352">Greenfever Crossing</string>
 	<string key="ui_poi_crater_blightedvillage_50383">Velheim</string>
 	<string key="ui_poi_crater_brutalruins_50372">Agaricus</string>
@@ -167,9 +168,9 @@
 	<string key="ui_poi_ancient_ruins_30119">Khalladan</string>
 	<string key="ui_poi_outpost_alchemy">Alchemy Outpost</string>
 	<string key="ui_poi_alpha_wolf_den">Alpha Wolf Den</string>
-	<string key="ui_poi_lowermine_40419">Ambusti Inferior</string>
-	<string key="ui_poi_lowermine_40438">Ambusti Inferior</string>
-	<string key="ui_poi_uppermine_40420">Ambusti Superior</string>
+	<string key="ui_poi_lowermine_40419">Tenebris Aeterna</string>
+	<string key="ui_poi_lowermine_40438">Tenebris Aeterna</string>
+	<string key="ui_poi_uppermine_40420">Nox Aeterna</string>
 	<string key="ui_poi_ancient_temple_lg">Amrine Temple</string>
 	<string key="ui_poi_ancient_temple_lg_40105">Amrine Temple</string>
 	<string key="ui_poi_ancient_bridge">Ancient Bridge</string>
@@ -226,7 +227,7 @@
 	<string key="ui_poi_crater_blightedvillage_50382">Haustor Frith</string>
 	<string key="ui_poi_outpost_blacksmith">Blacksmithing Outpost</string>
 	<string key="ui_poi_crater_mysticfen_50317">Lough Du Lac</string>
-	<string key="ui_poi_blightcave_50413">Blight Blister</string>
+	<string key="ui_poi_blightcave_50413">Bulwark Brake</string>
 	<string key="ui_poi_crater_blightedbridge">Blighted Bridge</string>
 	<string key="ui_poi_blighted_cave">Blighted Cave</string>
 	<string key="ui_poi_crater_blightedcave">Blighted Cave</string>
@@ -272,7 +273,7 @@
 	<string key="ui_poi_undeadbastion_3_40124">Buccaneer Falls</string>
 	<string key="ui_poi_undeadbastion_3_40124_MSQ2">Mother's Tears</string>
 	<string key="ui_poi_undeadbastion_3_40124_MSQ2_description">Those who came with dreams of fortune were the ones who fell fastest to deathless despair.</string>
-	<string key="ui_poi_damnedfortress_40408">Caminus</string>
+	<string key="ui_poi_damnedfortress_40408">Infernal Host</string>
 	<string key="ui_poi_abandoned_village_40001">Campbell's Rest</string>
 	<string key="ui_poi_abandoned_village_40001_fl_revamp">Campbell's Rest</string>
 	<string key="ui_poi_mine_40203">Canary Mine</string>
@@ -363,7 +364,7 @@
 	<string key="ui_poi_crater_brutaloffering_50406">DELETE_50406</string>
 	<string key="ui_poi_ancient_lookout_40106">Delphinus</string>
 	<string key="ui_poi_ancient_ruins_crossroads">Derelect Ruins</string>
-	<string key="ui_poi_village_40418">Desolate Cliffs</string>
+	<string key="ui_poi_village_40418">Acherusia</string>
 	<string key="ui_poi_ancient_lookout_40109">Draco</string>
 	<string key="ui_poi_alpha_wolf_den_40117">Dreadsaw Den</string>
 	<string key="ui_poi_haunted_village_40261">Deggendorf</string>
@@ -376,7 +377,7 @@
 	<string key="ui_poi_witheredfarm_mb_1">Duster Ranch</string>
 	<string key="ui_poi_wolf_den_50303">Dusty Paw Burrow</string>
 	<string key="ui_poi_shipwreck_eastbayshipwreck_60302">Cutthroat's Creed</string>
-	<string key="ui_poi_rifteast_40413">East Illurmin</string>
+	<string key="ui_poi_rifteast_40413">Apostate Nave</string>
 	<string key="ui_poi_lookouteast_60220">Oceanview Post</string>
 	<string key="ui_poi_shipwreck_eastbayshipwreck">Eastbay Shipwreck</string>
 	<string key="ui_poi_outpost_43_2_40325">Warden's Rise</string>
@@ -438,7 +439,7 @@
 	<string key="ui_poi_wolf_cave_40333">Grizzled Fissure</string>
 	<string key="ui_poi_wolf_cave_40331">Frostbite's End</string>
 	<string key="ui_poi_wolf_den_40023">Fullmoon Den</string>
-	<string key="ui_poi_blightgrove_50416">Fungalitch</string>
+	<string key="ui_poi_blightgrove_50416">Malehaut Delve</string>
 	<string key="ui_poi_crater_blightedcave_50320">Speirochor Mire</string>
 	<string key="ui_poi_ancient_bridge_30013">Gefyra Bridge</string>
 	<string key="ui_poi_ancient_ruins_40330">Gnostic Crux</string>
@@ -448,10 +449,10 @@
 	<string key="ui_poi_crater_brutalsummit_50309">Beinn Creag</string>
 	<string key="ui_poi_Graveyard">Graveyard</string>
 	<string key="ui_poi_wolf_den_40011">Graymane Burrow</string>
-	<string key="ui_poi_myrkgardwest_40407_description">&lt;font color="#D05050"&gt;Elite Stronghold&lt;/font&gt;\n\nBeyond this vestibule of anguish, no hope may tarry.</string>
-	<string key="ui_poi_myrkgardwest_40407">Greater Tribulation</string>
+	<string key="ui_poi_myrkgardwest_40407_description">&lt;font color="#ff7171"&gt;Elite Stronghold&lt;/font&gt;\n\nBeyond this vestibule of anguish, no hope may tarry.</string>
+	<string key="ui_poi_myrkgardwest_40407">Lower Harrows</string>
 	<string key="ui_poi_myrkgardwest_40437_description">The people of Old Myrkgard knew only sorrow at first, yet nothing of the dreadful fate they would soon come to suffer.</string>
-	<string key="ui_poi_myrkgardwest_40437">Black Passage</string>
+	<string key="ui_poi_myrkgardwest_40437">Lower Harrows</string>
 	<string key="ui_poi_bear_den_50391">Gren's Place</string>
 	<string key="ui_poi_grenvilles_excavation">Grenville's Excavation</string>
 	<string key="ui_poi_grenvilles_home">Grenville's Home</string>
@@ -482,7 +483,7 @@
 	<string key="ui_poi_drownedshipwreck_ef_1">Henninger's Harpy</string>
 	<string key="ui_poi_ancient_tower_40216">Hercules</string>
 	<string key="ui_poi_cave_30008">Rothoard Hollow</string>
-	<string key="ui_poi_blightcave_50412">Hidden Strain</string>
+	<string key="ui_poi_blightcave_50412">Baleful Lair</string>
 	<string key="ui_poi_alpha_wolf_den_30109">Highbloom Hovel</string>
 	<string key="ui_poi_ancient_watchtower_highbluff">Highbluff Watchtower</string>
 	<string key="ui_poi_ancient_lookout_highcliff">Highcliff Lookout</string>
@@ -507,7 +508,7 @@
 	<string key="ui_poi_crater_feralhaven_50312">Buggane Hedge</string>
 	<string key="ui_poi_ancient_lookout_40108">Hydrus</string>
 	<string key="ui_poi_alpha_wolf_den_40119">Inkwell Cave</string>
-	<string key="ui_poi_corrupted_fort_weaving_01_40401">Iratus</string>
+	<string key="ui_poi_corrupted_fort_weaving_01_40401">Weeping-and-Gnashing</string>
 	<string key="ui_poi_brightwoodsisle_40221">Brightwood Isle</string>
 	<string key="ui_poi_jetsamisle_60224">Jetsam Isle</string>
 	<string key="ui_poi_jetsamisle_60224_description">It is amazing what washes up here, after a good storm.</string>
@@ -522,7 +523,7 @@
 	<string key="ui_poi_ancient_lookout_40112">Lacerta</string>
 	<string key="ui_poi_witheredfarm_3_30113">Preiddeu Farms</string>
 	<string key="ui_poi_abandoned_village_lakeside">Lakeside Village</string>
-	<string key="ui_poi_corrupted_fort_provisioning_01_40404">Lapsus</string>
+	<string key="ui_poi_corrupted_fort_provisioning_01_40404">Hewn-from-Hell</string>
 	<string key="ui_poi_weaversfen_temple_50338">Aqua Acadia</string>
 	<string key="ui_poi_crater_corruptedsettlement_50410">Last Stand</string>
 	<string key="ui_poi_ancient_tower_40217">Leo</string>
@@ -533,7 +534,7 @@
 	<string key="ui_poi_crater_feralcolony_50324">Finnabair's Allure</string>
 	<string key="ui_poi_bear_den_30107">Lodestone Lair</string>
 	<string key="ui_poi_lumbermill">Logging Camp</string>
-	<string key="ui_poi_undeadbastion_40207">Longshadow Enclave</string>
+	<string key="ui_poi_undeadbastion_40207">Broken Hull Hold</string>
 	<string key="ui_poi_crater_corruptedminewest_50332">Annwn Deep</string>
 	<string key="ui_poi_ancient_tower_40219">Lupus</string>
 	<string key="ui_poi_dryad_cavern_40248">Lush Hideaway</string>
@@ -558,10 +559,10 @@
 	<string key="ui_poi_outpost_monarchbay_a">Monarch Station</string>
 	<string key="ui_poi_watchtower_mb_01_30117">Monarch's Bluffs Watchtower</string>
 	<string key="ui_poi_ancient_lookout_40113">Monoceros</string>
-	<string key="ui_poi_outpost_44_1_40406">Mountainhome</string>
-	<string key="ui_poi_outpost_shatteredmountain_b">Mountainhome</string>
+	<string key="ui_poi_outpost_44_1_40406">Alazar's Recall</string>
+	<string key="ui_poi_outpost_shatteredmountain_b">Alazar's Recall</string>
 	<string key="ui_poi_outpost_shatteredmountain_a">Mountainpass</string>
-	<string key="ui_poi_outpost_54_1_50401">Mountainrise</string>
+	<string key="ui_poi_outpost_54_1_50401">Clarion</string>
 	<string key="ui_poi_ancient_ruins_mourningbridge_60342">Mourning Bridge</string>
 	<string key="ui_poi_ancient_ruins_mourningbridge_60342_description">It is said the river that flows under the bridge is filled with Ancient anguish.</string>
 	<string key="ui_poi_crater_corruptedminecamp_50341">Ráith Impail Mill</string>
@@ -586,10 +587,10 @@
 	<string key="ui_poi_corrupted_fort_weaving_00_40319">Ostrog Maul</string>
 	<string key="ui_poi_pirate_town_40016">Nyhart's Anchorage</string>
 	<string key="ui_poi_ancient_lookout_40107">Octans</string>
-	<string key="ui_poi_corrupted_fort_tannery_01_40402">Odium</string>
+	<string key="ui_poi_corrupted_fort_tannery_01_40402">Nomine Damnis</string>
 	<string key="ui_poi_tree_offering">Offering Tree</string>
 	<string key="ui_poi_witheredfarm_3_40149">Olcott Family Farm</string>
-	<string key="ui_poi_myrkgardeast_40410">Opulence</string>
+	<string key="ui_poi_myrkgardeast_40410">Blood Cenacle</string>
 	<string key="ui_poi_ancient_lookout_40110">Orion</string>
 	<string key="ui_poi_outpost_outfitting">Outfitting Outpost</string>
 	<string key="ui_poi_abandoned_farm_mill_50202">Hope's Valley</string>
@@ -663,7 +664,7 @@
 	<string key="ui_poi_ancient_buttress_40120_description">The sea levels seem to have fallen since this structure was originally made.</string>
 	<string key="ui_poi_ancient_buttress_description">Landmark</string>
 	<string key="ui_poi_ancient_lighthouse_40008_description">Ever-burning with the blue fires of the island itself, this tower draws survivors in with a deceptive light promising sanctuary.</string>
-	<string key="ui_poi_ancient_lighthouse_60206_description">&lt;font color="#D05050"&gt;Elite Stronghold&lt;/font&gt;\n\nHigh atop the Verdant Ascent, nature's quiet reclamation continues unabated.</string>
+	<string key="ui_poi_ancient_lighthouse_60206_description">&lt;font color="#ff7171"&gt;Elite Stronghold&lt;/font&gt;\n\nHigh atop the Verdant Ascent, nature's quiet reclamation continues unabated.</string>
 	<string key="ui_poi_ancient_lighthouse_60207_description">Landmark</string>
 	<string key="ui_poi_ancient_lighthouse_description">Landmark</string>
 	<string key="ui_poi_ancient_lookout_40009_description">The journey to Elafry Pyrgo requires a visit to this Ancient ruin.</string>
@@ -847,7 +848,7 @@
 	<string key="ui_poi_boar_infestation_1_40150_description">Landmark</string>
 	<string key="ui_poi_boar_infestation_1_description">Landmark</string>
 	<string key="ui_poi_bombasticwreckage_60215_description">A fairer ship was never to be glimpsed, though it has seen better days.</string>
-	<string key="ui_poi_brightwoodsisle_40221_description">&lt;font color="#D05050"&gt;Elite Stronghold&lt;/font&gt;\n\nOnce upon a time, there was an Alchemist who lived on an island. Work consumed his days and nights, and ultimately consumed his soul.</string>
+	<string key="ui_poi_brightwoodsisle_40221_description">&lt;font color="#ff7171"&gt;Elite Stronghold&lt;/font&gt;\n\nOnce upon a time, there was an Alchemist who lived on an island. Work consumed his days and nights, and ultimately consumed his soul.</string>
 	<string key="ui_poi_brightwoodsisle_description">Landmark</string>
 	<string key="ui_poi_brute_island_30024_description">Unbound by any rule of law, only the worst pirates made this their home.</string>
 	<string key="ui_poi_bunnyisland_60205_description">There once was a rabbit who lived on an island...</string>
@@ -1043,7 +1044,7 @@
 	<string key="ui_poi_cutthroatcavern_60203_description">The loyalty of a pirate crew dries quick, when marching too far from salt and sea.</string>
 	<string key="ui_poi_damnedcapital_40407_description">Landmark</string>
 	<string key="ui_poi_damnedcapital_description">Landmark</string>
-	<string key="ui_poi_damnedfortress_40408_description">&lt;font color="#D05050"&gt;Elite Stronghold&lt;/font&gt;\n\n Those who surrendered to the Corruption now work tirelessly to keep its furnaces and forges burning brightly.</string>
+	<string key="ui_poi_damnedfortress_40408_description">&lt;font color="#ff7171"&gt;Elite Stronghold&lt;/font&gt;\n\n Those who surrendered to the Corruption now work tirelessly to keep its furnaces and forges burning brightly.</string>
 	<string key="ui_poi_damnedfortress_description">Landmark</string>
 	<string key="ui_poi_decayedcamp_60213_description">Little did Seele know exactly what was at stake, when building a camp here.</string>
 	<string key="ui_poi_den_bear_elemental_description">Landmark</string>
@@ -1137,12 +1138,12 @@
 	<string key="ui_poi_homestead_waterrun_description">Landmark</string>
 	<string key="ui_poi_lookouteast_60220_description">There are those who watch the sea, not for escape, but for new victims.</string>
 	<string key="ui_poi_lookoutwest_60219_description">They knew the true threat came from the land, so they made sure to never miss a watch.</string>
-	<string key="ui_poi_lowermine_40419_description">&lt;font color="#D05050"&gt;Elite Stronghold&lt;/font&gt;\n\nDroning, drilling, mining, and milling do the Corrupted souls toil through eternity.</string>
+	<string key="ui_poi_lowermine_40419_description">&lt;font color="#ff7171"&gt;Elite Stronghold&lt;/font&gt;\n\nDroning, drilling, mining, and milling do the Corrupted souls toil through eternity.</string>
 	<string key="ui_poi_lowermine_40438_description">Droning, drilling, mining, and milling do the Corrupted souls toil through eternity.</string>
 	<string key="ui_poi_lumbermill_40202_description">An ongoing effort to make Brightwood merely bright.</string>
 	<string key="ui_poi_lumbermill_50107_description">Landmark</string>
 	<string key="ui_poi_lumbermill_description">Landmark</string>
-	<string key="ui_poi_military_camp_40405_description">&lt;font color="#D05050"&gt;Elite Stronghold&lt;/font&gt;\n\nAn ancient battlefield where the hordes of Corruption overwhelmed General Svikin and his valiant Defenders.</string>
+	<string key="ui_poi_military_camp_40405_description">&lt;font color="#ff7171"&gt;Elite Stronghold&lt;/font&gt;\n\nAn ancient battlefield where the hordes of Corruption overwhelmed General Svikin and his valiant Defenders.</string>
 	<string key="ui_poi_military_camp_description">Landmark</string>
 	<string key="ui_poi_mine_40203_description">A canary was never found useful in the mines of Aeternum, because a canary just won't stay dead.</string>
 	<string key="ui_poi_mine_40305_description">A mine as dark and foreboding as a witch's cauldron.</string>
@@ -1150,10 +1151,10 @@
 	<string key="ui_poi_mine_description">Landmark</string>
 	<string key="ui_poi_mine_haunted_whispering_60301_description">Brothers three, did prospect'd to-day,\nBig Stephen claim'd Gold,\nClev'r Jason think'd, "Nay."\nLi'l Alec did bargain'd fer a split,\nWhen Stephen'n Jason tell'd Alec to sit,\nAlec sat with a great sigh'n'frown,\nAnd was that but th' moment\nWhen yon cave ceiling fell'd down.</string>
 	<string key="ui_poi_mine_haunted_whispering_description">Landmark</string>
-	<string key="ui_poi_myrkgardchurch_40412_description">&lt;font color="#D05050"&gt;Elite Stronghold&lt;/font&gt;\n\nThe loathsome crown jewel of Myrkgard, once heralded pure, now sullied by Corruption's embrace.</string>
-	<string key="ui_poi_myrkgardeast_40410_description">&lt;font color="#D05050"&gt;Elite Stronghold&lt;/font&gt;\n\nThe towering manifestation of the Corrupted Clergy's quest for dominion by unconvenanted powers.</string>
-	<string key="ui_poi_myrkgardnorth_40411_description">&lt;font color="#D05050"&gt;Elite Stronghold&lt;/font&gt;\n\nBuried in the heart of the city, the highest echelons of Corruption prosper.</string>
-	<string key="ui_poi_myrkgardsouth_40409_description">&lt;font color="#D05050"&gt;Elite Stronghold&lt;/font&gt;\n\nThe market stalls decay, and the spillway is choked with ash. The gate is open. And all manner of dark things stare back from the abyss.</string>
+	<string key="ui_poi_myrkgardchurch_40412_description">&lt;font color="#506AD0"&gt;Soul Trial&lt;/font&gt;\n\nThe loathsome crown jewel of Myrkgard, once heralded pure, now sullied by Corruption's embrace.</string>
+	<string key="ui_poi_myrkgardeast_40410_description">&lt;font color="#ff7171"&gt;Elite Stronghold&lt;/font&gt;\n\nThe towering manifestation of the Corrupted Clergy's quest for dominion by unconvenanted powers.</string>
+	<string key="ui_poi_myrkgardnorth_40411_description">&lt;font color="#ff7171"&gt;Elite Stronghold&lt;/font&gt;\n\nBuried in the heart of the city, the highest echelons of Corruption prosper.</string>
+	<string key="ui_poi_myrkgardsouth_40409_description">&lt;font color="#ff7171"&gt;Elite Stronghold&lt;/font&gt;\n\nThe market stalls decay, and the spillway is choked with ash. The gate is open. And all manner of dark things stare back from the abyss.</string>
 	<string key="ui_poi_nature_cave_smugglerscove_60320_description">It still stores goods that have never been claimed, at least not by the living.</string>
 	<string key="ui_poi_nature_cave_smugglerscove_description">Landmark</string>
 	<string key="ui_poi_nature_den_wolf_description">Landmark</string>
@@ -1189,7 +1190,7 @@
 	<string key="ui_poi_outpost_windsward_b_description">Landmark</string>
 	<string key="ui_poi_outpost_windsward_c_description">Landmark</string>
 	<string key="ui_poi_overlook_40152_description">The location wasn't chosen so much for the view, as to keep an eye on the pirates.</string>
-	<string key="ui_poi_pirate_fort_30016_description">&lt;font color="#D05050"&gt;Elite Stronghold&lt;/font&gt;\n\nBy the Thalassocratic Order of the Skullworms, this region is hereby under direct authority of Goldstein the Equalizer.</string>
+	<string key="ui_poi_pirate_fort_30016_description">&lt;font color="#ff7171"&gt;Elite Stronghold&lt;/font&gt;\n\nBy the Thalassocratic Order of the Skullworms, this region is hereby under direct authority of Goldstein the Equalizer.</string>
 	<string key="ui_poi_pirate_fort_30017_description">It's not just the pond that is filled with the scum of society.</string>
 	<string key="ui_poi_pirate_fort_40017_description">From the high walls did hope plummet, following faith down to the sea.</string>
 	<string key="ui_poi_pirate_town_40016_description">The bay is well protected from storms, but not from what roams Aeternum.</string>
@@ -1252,7 +1253,7 @@
 	<string key="ui_poi_undeadbastion_40227_description">The creak of the boards will give your position away to the whole crew if you do not tread lightly.</string>
 	<string key="ui_poi_undeadbastion_50232_description">Landlocked pirates can be feral when cornered.</string>
 	<string key="ui_poi_undeadbastion_description">For that which traitors' hold, they do not so easily give up.</string>
-	<string key="ui_poi_uppermine_40420_description">&lt;font color="#D05050"&gt;Elite Stronghold&lt;/font&gt;\n\nWhat darkness has Corruption wrought? What evils are yet to be unearthed?</string>
+	<string key="ui_poi_uppermine_40420_description">&lt;font color="#ff7171"&gt;Elite Stronghold&lt;/font&gt;\n\nWhat darkness has Corruption wrought? What evils are yet to be unearthed?</string>
 	<string key="ui_poi_village_40418_description">A miserable hamlet on the outskirts of a doomed land.</string>
 	<string key="ui_poi_watchtower_32_30220_description">Many residents of Everfall made landing here, never to stray far from their newfound home.</string>
 	<string key="ui_poi_watchtower_mb_01_30117_description">They watched the approach of the high king and wondered what he would bring.</string>
@@ -1314,7 +1315,7 @@
 	<string key="ui_poi_ancient_lookout_portside">Portside Lookout</string>
 	<string key="ui_poi_shipwreck_mb_02">Posidon's Plight</string>
 	<string key="ui_poi_dryad_ruins_40214">Postrekhin</string>
-	<string key="ui_poi_blightcave_50420">Pox Cyst</string>
+	<string key="ui_poi_blightcave_50420">Scrofulous Grot</string>
 	<string key="ui_poi_crater_blightedcave_50359">Blighted Passage</string>
 	<string key="ui_poi_dryadgate_50419">Fierna Pass</string>
 	<string key="ui_poi_undeadbastion_1">Pride of Pucket</string>
@@ -1323,7 +1324,7 @@
 	<string key="ui_poi_undeadbastion_1_40137_MSQ2_description">They say pride goeth before the fall, or in this case, the crash.</string>
 	<string key="ui_poi_crater_brutallair_50402">Inflorescent Den</string>
 	<string key="ui_poi_pirate_village_30022">Pullpatch Cover</string>
-	<string key="ui_poi_corruptedfort_40417">Pullus</string>
+	<string key="ui_poi_corruptedfort_40417">Mantled-in-Nettles</string>
 	<string key="ui_poi_ancient_lookout_40009">Pyrgos Nao</string>
 	<string key="ui_poi_bunnyisland_60205">Rabbit Island</string>
 	<string key="ui_poi_crater_feralledge_50313">Sylphid Gleam</string>
@@ -1351,7 +1352,7 @@
 	<string key="ui_poi_shipwreck_40004">Sal's Schooner</string>
 	<string key="ui_poi_cave_50213">The Congregation</string>
 	<string key="ui_poi_cave_50214">Stoneparish</string>
-	<string key="ui_poi_fishing_village_30021">Salty Snail Fishery</string>
+	<string key="ui_poi_fishing_village_30021">Storm Coast</string>
 	<string key="ui_poi_lumbermill_50107">Samson's Mill</string>
 	<string key="ui_poi_crater_brutalrest_50308">Welkin Fringe</string>
 	<string key="ui_poi_ancient_port_60336">New Balefire</string>
@@ -1387,13 +1388,13 @@
 	<string key="ui_poi_solitudecemetery_60216">Solitude Cemetery</string>
 	<string key="ui_poi_ancient_bridge_50212">South Vega Bridge</string>
 	<string key="ui_poi_greatcleavesouthwall">Southern Wall</string>
-	<string key="ui_poi_ancientcave_40415">Spilaio Cavern</string>
+	<string key="ui_poi_ancientcave_40415">Limbus Cavatus</string>
 	<string key="ui_poi_crater_spite">Spite</string>
 	<string key="ui_poi_ancient_ruins_30011">Spiti Ruins</string>
-	<string key="ui_poi_blightcave_50415">Split Bark</string>
+	<string key="ui_poi_blightcave_50415">Subtil Bodkin</string>
 	<string key="ui_poi_bear_den_30108">Hiraeth Peak</string>
 	<string key="ui_poi_crater_spriggan">Zygoramet's Grove</string>
-	<string key="ui_poi_dryadlookout_50418">Spryla Tower</string>
+	<string key="ui_poi_dryadlookout_50418">Fell Belfry</string>
 	<string key="ui_poi_shipwreck_40003">Standing Shallows</string>
 	<string key="ui_poi_haunted_graveyard_40264">Staudt Manor</string>
 	<string key="ui_poi_ancient_ruins_streamside">Streamside Ruins</string>
@@ -1427,7 +1428,7 @@
 	<string key="ui_poi_drownedshipwreck_4">The Satisfaction</string>
 	<string key="ui_poi_drownedshipwreck_4_40141">The Satisfaction</string>
 	<string key="ui_poi_drownedshipwreck_4_40141_MSQ2">The Satisfaction</string>
-	<string key="ui_poi_myrkgardsouth_40409">The Tangle</string>
+	<string key="ui_poi_myrkgardsouth_40409">Cerberus Rampant</string>
 	<string key="ui_poi_drownedshipwreck_ef_3_30217">The Temperance</string>
 	<string key="ui_poi_wound">The Wound</string>
 	<string key="ui_poi_crater_feyruins_50354">Wrasted Wortes</string>
@@ -1436,7 +1437,7 @@
 	<string key="ui_poi_timber_wolf_den_40145">Timber Wolf Den</string>
 	<string key="ui_poi_crater_feyretreat_50315">Amadain Beacon</string>
 	<string key="ui_poi_drownedcavern_40146">Old Tidal Cave</string>
-	<string key="ui_poi_blightcave_50414">Tox</string>
+	<string key="ui_poi_blightcave_50414">Whilom Warison</string>
 	<string key="ui_poi_undeadbastion">Traitor's Hold</string>
 	<string key="ui_poi_wolf_cave_40332">Wulfstan Cleft</string>
 	<string key="ui_poi_cavern_mb_01_30122">Hideaway Caverns</string>
@@ -1446,19 +1447,19 @@
 	<string key="ui_poi_crater_spite_50326">Tor Scath</string>
 	<string key="ui_poi_brute_island_30024">Unbound Island</string>
 	<string key="ui_poi_drownedcavern_30219">Old Sea Cave</string>
-	<string key="ui_poi_myrkgardnorth_40411">Upper Harrow</string>
+	<string key="ui_poi_myrkgardnorth_40411">Upper Harrows</string>
 	<string key="ui_poi_crater_corruptedmineeast_50333">Annwn Quarry</string>
 	<string key="ui_poi_ancient_lookout_40114">Ursa</string>
-	<string key="ui_poi_bearden_40416">Ursus Cave</string>
+	<string key="ui_poi_bearden_40416">Agnus Inferi</string>
 	<string key="ui_poi_ancient_ruins_40153">Mirador Shrine</string>
-	<string key="ui_poi_corrupted_fort_alchemy_01_40403">Vehemence</string>
+	<string key="ui_poi_corrupted_fort_alchemy_01_40403">Corpus Angoris</string>
 	<string key="ui_poi_ancient_watchtower_highbluff_60318">Vela</string>
 	<string key="ui_poi_dryad_cavern_40229">Verdant Cavern</string>
 	<string key="ui_poi_homestead_waterrun">Water Run Homestead</string>
 	<string key="ui_poi_outpost_weaversfen_a">Weaver Post</string>
 	<string key="ui_poi_outpost_weaversfen_b">Weaver Station</string>
 	<string key="ui_poi_outpost_weaversfen_c">Weaver's Peak</string>
-	<string key="ui_poi_riftwest_40414">West Illurmin</string>
+	<string key="ui_poi_riftwest_40414">Lamentations</string>
 	<string key="ui_poi_lookoutwest_60219">Channelview Post</string>
 	<string key="ui_poi_crater_corruptedminewest">Western Corrupted Starmetal Mine</string>
 	<string key="ui_poi_wickbury">Wickbury</string>
@@ -1484,7 +1485,7 @@
 	<string key="ui_poi_devilspit_30134">Hiraeth Lookout</string>
 	<string key="ui_poi_devilspit_30134_description">A view of the mines, the taste of sweet honey. A fine vantage point, if ever there was one.</string>
 	<string key="ui_poi_ancient_lighthouse_60343">Scorpius</string>
-	<string key="ui_poi_ancient_lighthouse_60343_description">&lt;font color="#D05050"&gt;Elite Stronghold&lt;/font&gt;\n\nA beacon of despair, a monument to plagues, and sickness, and madness.</string>
+	<string key="ui_poi_ancient_lighthouse_60343_description">&lt;font color="#ff7171"&gt;Elite Stronghold&lt;/font&gt;\n\nA beacon of despair, a monument to plagues, and sickness, and madness.</string>
 	<string key="ui_poi_ancient_ruins_40154">Chason Steep</string>
 	<string key="ui_poi_ancient_ruins_40155">Alioth</string>
 	<string key="ui_poi_ancient_ruins_40154_description">What is left of these Ancient steps rise up to impressive heights, a journey told through stone.</string>
@@ -1557,7 +1558,7 @@
 	<string key="ui_poi_Lion_Den_50135">Echoing Roar</string>
 	<string key="ui_poi_Lion_Den_50117_description">Humidity is not a friend to a lion's mane.</string>
 	<string key="ui_poi_Hilltop_Ruins_50118_description">High atop the windswept stone, the Ancients raised a rocky home. Horizon to horizon view, unlucky mortals turned askew.</string>
-	<string key="ui_poi_AE_Elite_50119_description">&lt;font color="#D05050"&gt;Elite Stronghold&lt;/font&gt;\n\nNature hides its most precious gifts, and when commanded, defends them to the death.</string>
+	<string key="ui_poi_AE_Elite_50119_description">&lt;font color="#ff7171"&gt;Elite Stronghold&lt;/font&gt;\n\nNature hides its most precious gifts, and when commanded, defends them to the death.</string>
 	<string key="ui_poi_AE_Cave_50120_description">Tunnels dark and tunnels deep, nature's fingers twist and creep.</string>
 	<string key="ui_poi_Lost_Cave_50121_description">Digging into the bones of the island, unearthing new and old treasures.</string>
 	<string key="ui_poi_Ghost_Town_50122_description">Ships shouldn't fly. But when they do, it is majestic.</string>
@@ -1568,8 +1569,8 @@
 	<string key="ui_poi_Flooded_Ruins_50127_description">Skyward steps mid one-way path.</string>
 	<string key="ui_poi_Lighthouse_Ruins_50128_description">Unbroken, unhindered earthen wrath.</string>
 	<string key="ui_poi_Lighthouse_Base_50129_description">Apex apace by Bygones' bloodbath.</string>
-	<string key="ui_poi_Lost_Elite_City_50130_description">&lt;font color="#D05050"&gt;Elite Stronghold&lt;/font&gt;\n\nThe Siren Queen instructed her thralls to build a grand settlement on the marshlands of Reekwater. And so they did.</string>
-	<string key="ui_poi_Lost_Elite_Fort_50131_description">&lt;font color="#D05050"&gt;Elite Stronghold&lt;/font&gt;\n\nHere, at the venerated home of the Siren Queen, lies the seat of her empire, and the source of her army.</string>
+	<string key="ui_poi_Lost_Elite_City_50130_description">&lt;font color="#ff7171"&gt;Elite Stronghold&lt;/font&gt;\n\nThe Siren Queen instructed her thralls to build a grand settlement on the marshlands of Reekwater. And so they did.</string>
+	<string key="ui_poi_Lost_Elite_Fort_50131_description">&lt;font color="#ff7171"&gt;Elite Stronghold&lt;/font&gt;\n\nHere, at the venerated home of the Siren Queen, lies the seat of her empire, and the source of her army.</string>
 	<string key="ui_poi_Glowing_Swamp_50132_description">Though lit by the inner fire of hundreds of sparkling plants, this swamp holds its darkest secrets close.</string>
 	<string key="ui_poi_Overgrown_Village_50133_description">There is glory in silence and patience, for both are needed to catch the big one.</string>
 	<string key="ui_poi_Lion_Den_50134_description">Wildcat wounds are reluctant to heal, and the pain is a walk through perdition.</string>
@@ -1610,15 +1611,15 @@
 	<string key="ui_poi_dryad_ruins_30233_description">A place where the scent of nectar mixes with rotten wood, and the ground bubbles alive.</string>
 	<string key="ui_poi_dynasty_watershrine_30234">Water Shrine</string>
 	<string key="ui_poi_dynasty_watershrine_30234_description">By shell and rain, and rivers untamed.</string>
-	<string key="ui_poi_dynasty_mountaintemple_30235">Mountain Temple</string>
+	<string key="ui_poi_dynasty_mountaintemple_30235">Heavenly Rise</string>
 	<string key="ui_poi_dynasty_mountaintemple_30235_description">To the mountain we all go.</string>
-	<string key="ui_poi_tiger_cave_30236">Thunderking Grotto</string>
+	<string key="ui_poi_tiger_cave_30236">Laohu Hollow</string>
 	<string key="ui_poi_tiger_cave_30236_description">Mighty beasts make mighty foes, but the lions of the mountain are mightier indeed.</string>
 	<string key="ui_poi_dynasty_camp_30237">Imperial Army Campsite</string>
 	<string key="ui_poi_dynasty_camp_30237_description">Patrols often sweep the land of Ebonscale Reach to keep the Empress's peace, and to implement her will.</string>
 	<string key="ui_poi_pirate_stronghold_30238">Stormcourt Stronghold</string>
 	<string key="ui_poi_pirate_stronghold_30238_description">Crashing upon the Ebonscale shores, the library aboard was all but washed away.</string>
-	<string key="ui_poi_pirate_harbor_30239">Thunder Harbor</string>
+	<string key="ui_poi_pirate_harbor_30239">Baozang Bay</string>
 	<string key="ui_poi_pirate_harbor_30239_description">The thunder rolls above the ramshackle harbor like the drums of war.</string>
 	<string key="ui_poi_dynasty_monastery_30240">Serenity Monastery</string>
 	<string key="ui_poi_dynasty_monastery_30240_description">Pilgrims from all across Aeternum have made the journey to the Monastery.</string>
@@ -1628,9 +1629,9 @@
 	<string key="ui_poi_dynasty_wall_30242_description">To the south, the Dynasty's reach is maintained.</string>
 	<string key="ui_poi_dynasty_wall_30243">North Dynasty Wall</string>
 	<string key="ui_poi_dynasty_wall_30243_description">Here, the Dynasty northern border was once marked by tall and elegant columns.\n\nBut what lies beyond the wall?</string>
-	<string key="ui_poi_dynasty_shrine_30302">Air Shrine</string>
-	<string key="ui_poi_dynasty_shrine_30302_description">By cloud and lightning's sting, and bird's feathered wing.</string>
-	<string key="ui_poi_alligator_habitat_40275">Alligator Habitat</string>
+	<string key="ui_poi_dynasty_shrine_30302">Metal Shrine</string>
+	<string key="ui_poi_dynasty_shrine_30302_description">By ore glinting, the lightning's sting.</string>
+	<string key="ui_poi_alligator_habitat_40275">Eyu Bog</string>
 	<string key="ui_poi_alligator_habitat_40275_description">All manner of beast have a chance for sanctuary in Aeternum.</string>
 	<string key="ui_poi_hauntedcrypt_40338">Skysong Crypt</string>
 	<string key="ui_poi_hauntedcrypt_40338_description">The last thing they saw was a swelling wave, their watery grave.</string>
@@ -1639,19 +1640,21 @@
 	<string key="ui_poi_corrupted_camp_40340">Corrupted Camp</string>
 	<string key="ui_poi_corrupted_camp_40340_description">Are they missionaries? Or crusaders?</string>
 	<string key="ui_poi_empressfortress_20201">Imperial Palace</string>
-	<string key="ui_poi_empressfortress_20201_description">&lt;font color="#D05050"&gt;Elite Stronghold&lt;/font&gt;\n\nIn the absence of the Empress, the Palace is guarded by her most trusted and loyal attendants.</string>
+	<string key="ui_poi_empressfortress_20201_description">&lt;font color="#ff7171"&gt;Elite Stronghold&lt;/font&gt;\n\nIn the absence of the Empress, the Palace is guarded by her most trusted and loyal attendants.</string>
 	<string key="ui_poi_dynasty_bridge_20202">Forbidden Ritual</string>
 	<string key="ui_poi_dynasty_bridge_20202_description">What foul energies swirl here in the shadow of the Palace?</string>
 	<string key="ui_poi_dynasty_shrine_20203">North Palace Shrine</string>
-	<string key="ui_poi_dynasty_shrine_20203_description">&lt;font color="#D05050"&gt;Elite Stronghold&lt;/font&gt;\n\nFar north of the Palace, the tendrils of Corruption thrive. And in the midst, the Empress's favorite pet.</string>
+	<string key="ui_poi_dynasty_shrine_20203_description">&lt;font color="#ff7171"&gt;Elite Stronghold&lt;/font&gt;\n\nFar north of the Palace, the tendrils of Corruption thrive. And in the midst, the Empress's favorite pet.</string>
 	<string key="ui_poi_dungeon_entrance_20204">Dynasty Shipyard</string>
 	<string key="ui_poi_dungeon_entrance_20204_description">Expedition\n\nTake the secret beach path to the shipyard. There, a boat will be waiting for you.</string>
+	<string key="ui_poi_causeways_20222" rel_version="Quest_MSQ3_Ebonscale">Palace Causeways</string>
+	<string key="ui_poi_causeways_20222_description" rel_version="Quest_MSQ3_Ebonscale">A place of rest and relaxation for the Empress's loyal subjects.</string>
 	<string key="ui_poi_ancient_citadel_30303" rel_version="Territory_Brimstone_Sands">The Acropolis</string>
 	<string key="ui_poi_ancient_citadel_30303_description" rel_version="Territory_Brimstone_Sands">An old ruin, older than memory, and overrun by unnatural things.</string>
 	<string key="ui_poi_bazaar_30304" rel_version="Territory_Brimstone_Sands">The Great Bazaar</string>
 	<string key="ui_poi_bazaar_30304_description" rel_version="Territory_Brimstone_Sands">Once a hub of trade; now the Dune Phantoms have putrefied its waters.</string>
 	<string key="ui_poi_scorpionnest_30305" rel_version="Territory_Brimstone_Sands">Beds of Ta-Bitjet</string>
-	<string key="ui_poi_scorpionnest_30305_description" rel_version="Territory_Brimstone_Sands">&lt;font color="#D05050"&gt;Elite Stronghold&lt;/font&gt;\n\nChittering, chittering, chittering, all through the dark caves.</string>
+	<string key="ui_poi_scorpionnest_30305_description" rel_version="Territory_Brimstone_Sands">&lt;font color="#ff7171"&gt;Elite Stronghold&lt;/font&gt;\n\nChittering, chittering, chittering, all through the dark caves.</string>
 	<string key="ui_poi_crassusrise_30306" rel_version="Territory_Brimstone_Sands">Crassus's Rise</string>
 	<string key="ui_poi_crassusrise_30306_description" rel_version="Territory_Brimstone_Sands">The leader of the 19th Legion made his mark on the land.</string>
 	<string key="ui_poi_lostvillage_30307" rel_version="Territory_Brimstone_Sands">Carthago</string>
@@ -1663,7 +1666,7 @@
 	<string key="ui_poi_phantomtree_30310" rel_version="Territory_Brimstone_Sands">Jupiter's Grove</string>
 	<string key="ui_poi_phantomtree_30310_description" rel_version="Territory_Brimstone_Sands">Down in the roots are old stones, angry spirits, and lost heroes.</string>
 	<string key="ui_poi_phantomtree_30325" rel_version="Territory_Brimstone_Sands">Diana's Nemorensis</string>
-	<string key="ui_poi_phantomtree_30325_description" rel_version="Territory_Brimstone_Sands">&lt;font color="#EDDE9D"&gt;Monument&lt;/font&gt;\n\nA sacred tree, long-lived, and the most willful dissident to the desert sun.</string>
+	<string key="ui_poi_phantomtree_30325_description" rel_version="Territory_Brimstone_Sands">&lt;font color="#b2aea1"&gt;Monument&lt;/font&gt;\n\nA sacred tree, long-lived, and the most willful dissident to the desert sun.</string>
 	<string key="ui_poi_necropolis_20425" rel_version="Territory_Brimstone_Sands">Necropolis of Sutekh</string>
 	<string key="ui_poi_necropolis_20425_description" rel_version="Territory_Brimstone_Sands">&lt;font color="#506AD0"&gt;Soul Trial&lt;/font&gt;\n\nA tomb is a memorial to the dead. On Aeternum, it is a prison where death merely slumbers.</string>
 	<string key="ui_poi_caerdun_40354" rel_version="Quest_MSQ2_Brightwood">The Curse of Caer Dun</string>
@@ -1683,7 +1686,7 @@
 	<string key="ui_poi_legion_siege_camp_20302" rel_version="Territory_Brimstone_Sands">Castrum Pontem</string>
 	<string key="ui_poi_legion_siege_camp_20302_description" rel_version="Territory_Brimstone_Sands">A place for dark experiments and foul rituals.</string>
 	<string key="ui_poi_legion_hq_20303" rel_version="Territory_Brimstone_Sands">Castrum Principium</string>
-	<string key="ui_poi_legion_hq_20303_description" rel_version="Territory_Brimstone_Sands">&lt;font color="#D05050"&gt;Elite Stronghold&lt;/font&gt;\n\nCrassus's trusted commanders rule the Legion from this stronghold.</string>
+	<string key="ui_poi_legion_hq_20303_description" rel_version="Territory_Brimstone_Sands">&lt;font color="#ff7171"&gt;Elite Stronghold&lt;/font&gt;\n\nCrassus's trusted commanders rule the Legion from this stronghold.</string>
 	<string key="ui_poi_legion_barracks_20304" rel_version="Territory_Brimstone_Sands">Castrum Kerberos</string>
 	<string key="ui_poi_legion_barracks_20304_description" rel_version="Territory_Brimstone_Sands">Legion warhounds are subject to arduous training, as are the Corrupted soldiers who keep them.</string>
 	<string key="ui_poi_legion_supply_train_20305" rel_version="Territory_Brimstone_Sands">Castrum Victualis</string>
@@ -1691,7 +1694,7 @@
 	<string key="ui_poi_ancient_highway_20401" rel_version="Territory_Brimstone_Sands">Atum's Way</string>
 	<string key="ui_poi_ancient_highway_20401_description" rel_version="Territory_Brimstone_Sands">Did the gods themselves once walk upon these stones?</string>
 	<string key="ui_poi_ancient_hero_temple_20402" rel_version="Territory_Brimstone_Sands">Heliopolis</string>
-	<string key="ui_poi_ancient_hero_temple_20402_description" rel_version="Territory_Brimstone_Sands">&lt;font color="#D05050"&gt;Elite Stronghold&lt;/font&gt;\n\nFearsome idols guard the secrets of the temple with spell and claw.</string>
+	<string key="ui_poi_ancient_hero_temple_20402_description" rel_version="Territory_Brimstone_Sands">&lt;font color="#ff7171"&gt;Elite Stronghold&lt;/font&gt;\n\nFearsome idols guard the secrets of the temple with spell and claw.</string>
 	<string key="ui_poi_ancient_plaza_20403" rel_version="Territory_Brimstone_Sands">Heru Plaza</string>
 	<string key="ui_poi_ancient_plaza_20403_description" rel_version="Territory_Brimstone_Sands">The guardians of the past protect an idol yet to awaken.</string>
 	<string key="ui_poi_ancient_walls_20404" rel_version="Territory_Brimstone_Sands">Temple of Isis</string>
@@ -1720,8 +1723,8 @@
 	<string key="ui_poi_questgiver_20306_description" rel_version="Territory_Brimstone_Sands">From here, New Corsica's finest secretly monitor the Legion.</string>
 	<string key="ui_poi_ancient_archives_20410" rel_version="Territory_Brimstone_Sands">Forge of Ptah</string>
 	<string key="ui_poi_ancient_archives_20410_description" rel_version="Territory_Brimstone_Sands">Could the artifacts of the Ancients be made whole once again?</string>
-	<string key="ui_poi_bearden_40422">Fetidfang Cave</string>
-	<string key="ui_poi_bearden_40422_description">"The Plain, wherein a black bituminous gurge Boiles out from under ground, the mouth of Hell;"</string>
+	<string key="ui_poi_bearden_40422">Bituminous Gurge</string>
+	<string key="ui_poi_bearden_40422_description">"The Plain, wherein a black bituminous gurge Boiles out from under ground, the mouth of Hell."</string>
 	<string key="ui_poi_corrupted_fort_30033">Cave of Tithing</string>
 	<string key="ui_poi_corrupted_fort_30033_description">The true cost is always discovered too late.</string>
 	<string key="ui_poi_proving_grounds_30034">The Cutlass Keys Proving Ground</string>
@@ -1800,7 +1803,7 @@
 	<string key="ui_poi_beast_den_30406" rel_version="Territory_Brimstone_Sands">Ruined Seret</string>
 	<string key="ui_poi_beast_den_30406_description" rel_version="Territory_Brimstone_Sands">The wildcats of Aeternum can always find warmth on the sunbaked tiles at Seret.</string>
 	<string key="ui_poi_corsica_statue_30407" rel_version="Territory_Brimstone_Sands">Glory of the Republic</string>
-	<string key="ui_poi_corsica_statue_30407_description" rel_version="Territory_Brimstone_Sands">&lt;font color="#EDDE9D"&gt;Monument&lt;/font&gt;\n\nBehold the might and glory of the Republic!</string>
+	<string key="ui_poi_corsica_statue_30407_description" rel_version="Territory_Brimstone_Sands">&lt;font color="#b2aea1"&gt;Monument&lt;/font&gt;\n\nBehold the might and glory of the Republic!</string>
 	<string key="ui_poi_ancient_ruins_sm_30408" rel_version="Territory_Brimstone_Sands">Arit-en-Geb</string>
 	<string key="ui_poi_ancient_ruins_sm_30408_description" rel_version="Territory_Brimstone_Sands">"... and reinforce the futures of our souls."</string>
 	<string key="ui_poi_ancient_ruins_sm_30409" rel_version="Territory_Brimstone_Sands">Satet</string>
@@ -1818,7 +1821,7 @@
 	<string key="ui_poi_beast_den_30415" rel_version="Territory_Brimstone_Sands">Scorpion Den</string>
 	<string key="ui_poi_beast_den_30415_description" rel_version="Territory_Brimstone_Sands">Landmark\n\n</string>
 	<string key="ui_poi_beast_den_30416" rel_version="Territory_Brimstone_Sands">Ordeal of the Scorpion</string>
-	<string key="ui_poi_beast_den_30416_description" rel_version="Territory_Brimstone_Sands">&lt;font color="#D05050"&gt;Elite Overlord&lt;/font&gt;\n\nWhat hides during the inferno of day, must hunt ravenously through the frigid cellar of night.</string>
+	<string key="ui_poi_beast_den_30416_description" rel_version="Territory_Brimstone_Sands">&lt;font color="#ff7171"&gt;Elite Overlord&lt;/font&gt;\n\nWhat hides during the inferno of day, must hunt ravenously through the frigid cellar of night.</string>
 	<string key="ui_poi_beast_den_30417" rel_version="Territory_Brimstone_Sands">Cat Den</string>
 	<string key="ui_poi_beast_den_30417_description" rel_version="Territory_Brimstone_Sands">Landmark\n\n</string>
 	<string key="ui_poi_girdle_of_geb_30418" rel_version="Territory_Brimstone_Sands">Girdle of Geb</string>
@@ -1874,7 +1877,7 @@
 	<string key="ui_poi_legion_warcamp_20316" rel_version="Territory_Brimstone_Sands">Castellum Auxilia</string>
 	<string key="ui_poi_legion_warcamp_20316_description" rel_version="Territory_Brimstone_Sands">Drusilla's enclave guards the gate to the 19th Legion's headquarters.</string>
 	<string key="ui_poi_sandworm_arena_20317" rel_version="Trial_Brimstone_Sandworm">Trial of the Devourer</string>
-	<string key="ui_poi_sandworm_arena_20317_description" rel_version="Trial_Brimstone_Sandworm">&lt;font color="#D05050"&gt;Elite Trial&lt;/font&gt;\n\nEnter the Ambuscade, where the drum calls forth Shah Neshen. The chains of Apophis are severed, and so the great ordeal, World-Encircler, can answer. The leviathan has awakened.</string>
+	<string key="ui_poi_sandworm_arena_20317_description" rel_version="Trial_Brimstone_Sandworm">&lt;font color="#ff7171"&gt;Elite Trial&lt;/font&gt;\n\nEnter the Ambuscade, where the drum calls forth Shah Neshen. The chains of Apophis are severed, and so the great ordeal, World-Encircler, can answer. The leviathan has awakened.</string>
 	<string key="ui_poi_spiritshrine_30419" rel_version="Territory_Brimstone_Sands">Great Shrine of Thoth</string>
 	<string key="ui_poi_spiritshrine_30322" rel_version="Territory_Brimstone_Sands">Cavalier's Shrine</string>
 	<string key="ui_poi_spiritshrine_30331" rel_version="Territory_Brimstone_Sands">Deadwater Way</string>
@@ -1888,15 +1891,16 @@
 	<string key="ui_poi_spiritshrine_20312" rel_version="Territory_Brimstone_Sands">Wurmsign Obelisk</string>
 	<string key="ui_poi_spiritshrine_30432" rel_version="Territory_Brimstone_Sands">Great Wall of Nebet-Het</string>
 	<string key="ui_poi_spiritshrine_30433" rel_version="Territory_Brimstone_Sands">The Undercross</string>
-	<string key="ui_poi_spiritshrine_40430" rel_version="Territory_Brimstone_Sands">Crossroads Shrine</string>
+	<string key="ui_poi_spiritshrine_40430" rel_version="Territory_Brimstone_Sands">Nexal Rood Shrine</string>
+	<string key="ui_poi_spiritshrine_40442" rel_version="Quest_MSQ3_Shattered">War Camp Shrine</string>
 	<string key="ui_poi_ancient_observatory_20423" rel_version="Territory_Brimstone_Sands">Solarium Khepri</string>
-	<string key="ui_poi_ancient_observatory_20423_description" rel_version="Territory_Brimstone_Sands">&lt;font color="#D05050"&gt;Elite Overlord&lt;/font&gt;\n\nAeternian nights grow long and long, yet Khepri still brings the Dawn.</string>
+	<string key="ui_poi_ancient_observatory_20423_description" rel_version="Territory_Brimstone_Sands">&lt;font color="#ff7171"&gt;Elite Overlord&lt;/font&gt;\n\nAeternian nights grow long and long, yet Khepri still brings the Dawn.</string>
 	<string key="ui_poi_ancientpyramid_20421" rel_version="Territory_Brimstone_Sands">Great Pyramid of Akhet</string>
-	<string key="ui_poi_ancientpyramid_20421_description" rel_version="Territory_Brimstone_Sands">&lt;font color="#EDDE9D"&gt;Monument&lt;/font&gt;\n\nAll must attest to the terrifying and overwhelming power of the Ancients.</string>
+	<string key="ui_poi_ancientpyramid_20421_description" rel_version="Territory_Brimstone_Sands">&lt;font color="#b2aea1"&gt;Monument&lt;/font&gt;\n\nAll must attest to the terrifying and overwhelming power of the Ancients.</string>
 	<string key="ui_poi_ancientwall_30426" rel_version="Territory_Brimstone_Sands">Great Wall of Nebet-Het</string>
-	<string key="ui_poi_ancientwall_30426_description" rel_version="Territory_Brimstone_Sands">&lt;font color="#EDDE9D"&gt;Monument&lt;/font&gt;\n\nA mighty, stalwart hedge against the encroaching Corruption.</string>
+	<string key="ui_poi_ancientwall_30426_description" rel_version="Territory_Brimstone_Sands">&lt;font color="#b2aea1"&gt;Monument&lt;/font&gt;\n\nA mighty, stalwart hedge against the encroaching Corruption.</string>
 	<string key="ui_poi_ancientwall_elite_30430" rel_version="Territory_Brimstone_Sands">Westwall Nebet-Het</string>
-	<string key="ui_poi_ancientwall_elite_30430_description" rel_version="Territory_Brimstone_Sands">&lt;font color="#D05050"&gt;Elite Stronghold&lt;/font&gt;\n\nThe Great Wall is not impermeable; judgement incurs consequence not within a vaccuum.</string>
+	<string key="ui_poi_ancientwall_elite_30430_description" rel_version="Territory_Brimstone_Sands">&lt;font color="#ff7171"&gt;Elite Stronghold&lt;/font&gt;\n\nThe Great Wall is not impermeable; judgement incurs consequence not within a vaccuum.</string>
 	<string key="ui_poi_ancientwall_solo_30431" rel_version="Territory_Brimstone_Sands">Eastwall Nebet-Het</string>
 	<string key="ui_poi_ancientwall_solo_30431_description" rel_version="Territory_Brimstone_Sands">There is magic in these walls.</string>
 	<string key="ui_poi_romanruins_sm_30428" rel_version="Territory_Brimstone_Sands">Phaethon's Fall</string>
@@ -1927,7 +1931,7 @@
 	<string key="ui_poi_yeti_40347_description">The cold here penetrates all the way to your marrow.</string>
 	<string key="ui_poi_yeti_40426">Mugwort Howl</string>
 	<string key="ui_poi_yeti_40426_description">Is that howling merely the wind blowing through the cave mouth, or perhaps something with more teeth?</string>
-	<string key="ui_poi_yeti_40427">Spellunker's Demise</string>
+	<string key="ui_poi_yeti_40427">Crack of Doom</string>
 	<string key="ui_poi_yeti_40427_description">The base of the mountain, where a cataclysm stretches out over eons.</string>
 	<string key="ui_poi_yeti_50399">Avaled Sinkage</string>
 	<string key="ui_poi_yeti_50399_description">Even though the ancient rituals have long since ceased, their insidious presence yet lingers here.</string>
@@ -1961,6 +1965,16 @@
 	<string key="ui_poi_springvillage_50256_description">"Another blessed Springtide has arrived! Join the rest of the Children of Bloom in celebrating this most glorious occasion!" - Bloom Herald</string>
 	<string key="ui_poi_dungeon_shattermtn_40428">Tempest's Heart</string>
 	<string key="ui_poi_dungeon_shattermtn_40428_description">Expedition\n\nPursue Isabella into a corrupted dimension of reality.</string>
+	<string key="ui_poi_strangers_campsite_40439" rel_version="Quest_MSQ3_Shattered">Stranger's Campsite</string>
+	<string key="ui_poi_strangers_campsite_40439_description" rel_version="Quest_MSQ3_Shattered">A meager meal and a warm fire are oft-overlooked and underappreciated.</string>
+	<string key="ui_poi_mountainhome_cliff_40440" rel_version="Quest_MSQ3_Shattered">Dawnbreak Vista</string>
+	<string key="ui_poi_mountainhome_cliff_40440_description" rel_version="Quest_MSQ3_Shattered">With such a view, one might wonder the distant past of this wretched place, and if any life could ever hope to survive here.</string>
+	<string key="ui_poi_soulwarden_camp_40441" rel_version="Quest_MSQ3_Shattered">Soulwarden War Camp</string>
+	<string key="ui_poi_soulwarden_camp_40441_description" rel_version="Quest_MSQ3_Shattered">"For Yonas."</string>
+	<string key="ui_poi_blightcrown_50431" rel_version="Quest_MSQ3_Shattered">Blightcrown</string>
+	<string key="ui_poi_blightcrown_50431_description" rel_version="Quest_MSQ3_Shattered">Long live the Angry Earth.</string>
+	<string key="ui_poi_ruinedstraights_50432" rel_version="Quest_MSQ3_Shattered">Ruined Straits</string>
+	<string key="ui_poi_ruinedstraights_50432_description" rel_version="Quest_MSQ3_Shattered">A thousand steps for a thousand threats.</string>
 	<string key="ui_poi_camp_40174">Sorcerer's Delve</string>
 	<string key="ui_poi_camp_40174_description">Unraveling the secrets of the Ancients is a task most perilous, even for the wisest of wizards…</string>
 	<string key="ui_poi_cave_40042">Knight's Hideaway</string>
@@ -1980,7 +1994,7 @@
 	<string key="ui_poi_spiritshrine_06_40180">Noblereach Shrine</string>
 	<string key="ui_poi_spiritshrine_04_50425">Genesis Shrine</string>
 	<string key="ui_poi_spiritshrine_02_60240">Shiresad Shrine</string>
-	<string key="ui_poi_spiritshrine_02_40429">New Myrkgard Shrine</string>
+	<string key="ui_poi_spiritshrine_02_40429">Invictus Shrine</string>
 	<string key="ui_poi_banner_ginghamsfarm">Gingham's Farm</string>
 	<string key="ui_poi_banner_grampasrefuge">Grampa's Refuge</string>
 	<string key="ui_poi_banner_grampasforge">Grampa's Forge</string>
@@ -2048,7 +2062,7 @@
 	<string key="Reekwater_Settlement_01" rel_version="Season_1_Perm">Farharbor</string>
 	<string key="Reekwater_Settlement_01_Inn" rel_version="Season_1_Perm">The Muddy Boot</string>
 	<string key="EbonscaleReach_Settlement_01" rel_version="Season_1_Perm">Fortune's Crossing</string>
-	<string key="EbonscaleReach_Settlement_01_Inn" rel_version="Season_1_Perm">Three Stars</string>
+	<string key="EbonscaleReach_Settlement_01_Inn" rel_version="Season_1_Perm">Three Perfections Inn</string>
 	<string key="RestlessShores_Settlement_01" rel_version="Season_1_Perm">Moonbay</string>
 	<string key="RestlessShores_Settlement_01_Inn" rel_version="Season_1_Perm">Sunken Compass</string>
 	<string key="Mourningdale_Settlement_01" rel_version="Season_1_Perm">Grayvale</string>
@@ -2178,7 +2192,7 @@
 	<string key="ui_poi_CrowsNest_50426" rel_version="Season_1_Perm">Crow's Nest</string>
 	<string key="ui_poi_CrowsNest_50426_description" rel_version="Season_1_Perm">Home of the Silver Crows</string>
 	<string key="ui_poi_varangian_elite_30335" rel_version="AI_Evil_Knights_P3">Attalus's Foundry</string>
-	<string key="ui_poi_varangian_elite_30335_description" rel_version="AI_Evil_Knights_P3">&lt;font color="#D05050"&gt;Elite Stronghold&lt;/font&gt;\n\nThe forges work tirelessly through the night, black smoke in perpetuity, for the Varangian Lord Commander.</string>
+	<string key="ui_poi_varangian_elite_30335_description" rel_version="AI_Evil_Knights_P3">&lt;font color="#ff7171"&gt;Elite Stronghold&lt;/font&gt;\n\nThe forges work tirelessly through the night, black smoke in perpetuity, for the Varangian Lord Commander.</string>
 	<string key="ui_poi_Varangian_Keep_53002" rel_version="AI_Evil_Knights_P3">Acadia Keep</string>
 	<string key="ui_poi_Varangian_Keep_53002_description" rel_version="AI_Evil_Knights_P3">A stronghold erected by the Varikulaki, the brutal vassals of the Varangian warlord determined to conquer Aeternum.</string>
 	<string key="ui_poi_Crystal_Cave_53003" rel_version="AI_Evil_Knights_P3">Brocéliande Cave</string>
@@ -2203,9 +2217,9 @@
 	<string key="ui_poi_banner_Season_02_TempleofSands" rel_version="Season_2_Perm">Temple of Sands</string>
 	<string key="ui_poi_banner_Season_02_DevourerSanctum" rel_version="Season_2_Perm">Devourer Sanctum</string>
 	<string key="ui_poi_beastlands_40064" rel_version="Territory_FirstLight">Tribunal Highmound</string>
-	<string key="ui_poi_beastlands_40064_description" rel_version="Territory_FirstLight">&lt;font color="#D05050"&gt;Elite Stronghold&lt;/font&gt;\n\nEmissaries gather at the Highmound to represent the Tribunal: Mahantaram, Kurok, and Shirzad. The rise of the Beast is nigh.</string>
+	<string key="ui_poi_beastlands_40064_description" rel_version="Territory_FirstLight">&lt;font color="#ff7171"&gt;Elite Stronghold&lt;/font&gt;\n\nEmissaries gather at the Highmound to represent the Tribunal: Mahantaram, Kurok, and Shirzad. The rise of the Beast is nigh.</string>
 	<string key="ui_poi_elite_island_40065" rel_version="Territory_FirstLight">Isle of Zurvān</string>
-	<string key="ui_poi_elite_island_40065_description" rel_version="Territory_FirstLight">&lt;font color="#D05050"&gt;Elite Stronghold&lt;/font&gt;\n\nSome say it floated into the channel, or materialized out of thin air. Some say it rose from the ocean like a tidal wave. Some even say the Isle is really the exposed shell of a chelonian Beast Lord not seen since beginning-less Time.</string>
+	<string key="ui_poi_elite_island_40065_description" rel_version="Territory_FirstLight">&lt;font color="#ff7171"&gt;Elite Stronghold&lt;/font&gt;\n\nSome say it floated into the channel, or materialized out of thin air. Some say it rose from the ocean like a tidal wave. Some even say the Isle is really the exposed shell of a chelonian Beast Lord not seen since beginning-less Time.</string>
 	<string key="ui_poi_templeofsands_20334" rel_version="Season_2_Perm">Temple of Sands</string>
 	<string key="ui_poi_templeofsands_20334_description" rel_version="Season_2_Perm">An ancient temple built by the Blood of the Sands. While it was once the living center of their order, it has been abandoned for hundreds of years.</string>
 	<string key="ui_poi_malekscamp_30337" rel_version="Season_2_Perm">East Sands Camp</string>
@@ -2227,13 +2241,13 @@
 	<string key="ui_poi_Hatchery_Trial_30339" rel_version="Season_2_Perm">The Hatchery</string>
 	<string key="ui_poi_Hatchery_Trial_30339_description" rel_version="Season_2_Perm">&lt;font color="#506AD0"&gt;Seasonal Trial&lt;/font&gt;\n\nGather your allies and stop Hadish Azar and the plan to hatch the eggs of the Devourers.</string>
 	<string key="ui_poi_abandoned_village_40043" rel_version="Territory_FirstLight">Kurok's Rest</string>
-	<string key="ui_poi_abandoned_village_40043_description" rel_version="Territory_FirstLight">Sister village to &lt;font color="#EDDE9D"&gt;Kurok's Anchorage&lt;/font&gt;. While both enjoy access to water, there is a noted preference for the river.</string>
+	<string key="ui_poi_abandoned_village_40043_description" rel_version="Territory_FirstLight">Sister village to &lt;font color="#b2aea1"&gt;Kurok's Anchorage&lt;/font&gt;. While both enjoy access to water, there is a noted preference for the river.</string>
 	<string key="ui_poi_abandoned_village_40044" rel_version="Territory_FirstLight">The Dayspring Tree</string>
-	<string key="ui_poi_abandoned_village_40044_description" rel_version="Territory_FirstLight">&lt;font color="#EDDE9D"&gt;Monument&lt;/font&gt;\n\nA new Nemorensis by any name.</string>
+	<string key="ui_poi_abandoned_village_40044_description" rel_version="Territory_FirstLight">&lt;font color="#b2aea1"&gt;Monument&lt;/font&gt;\n\nA new Nemorensis by any name.</string>
 	<string key="ui_poi_shipwreck_40045" rel_version="Territory_FirstLight">Tempestas Custodia</string>
 	<string key="ui_poi_shipwreck_40045_description" rel_version="Territory_FirstLight">The power of Elafry Pyrgo has thrust this proto-Anubian fortress aground once more. Ancient relics of all kinds have been unearthed, and none of them pleasant.</string>
 	<string key="ui_poi_ancient_lighthouse_40046" rel_version="Territory_FirstLight">Elafry Pyrgo</string>
-	<string key="ui_poi_ancient_lighthouse_40046_description" rel_version="Territory_FirstLight">&lt;font color="#EDDE9D"&gt;Monument&lt;/font&gt;\n\nThe bowstring is drawn, and eternal life hangs in the crosshair of Artemis's judgement.</string>
+	<string key="ui_poi_ancient_lighthouse_40046_description" rel_version="Territory_FirstLight">&lt;font color="#b2aea1"&gt;Monument&lt;/font&gt;\n\nThe bowstring is drawn, and eternal life hangs in the crosshair of Artemis's judgement.</string>
 	<string key="ui_poi_haunted_village_40047" rel_version="Territory_FirstLight">Scalefang Enclave</string>
 	<string key="ui_poi_haunted_village_40047_description" rel_version="Territory_FirstLight">When Artemis changed the land, her terraforming power collided with the Lost souls trapped at Sleepy Tallow, and gave birth to this strange new fungalopolis.</string>
 	<string key="ui_poi_corrupted_camp_40048" rel_version="Territory_FirstLight">Hortus Gorgon</string>
@@ -2249,7 +2263,7 @@
 	<string key="ui_poi_ancient_bridge_40053" rel_version="Territory_FirstLight">Saircor Bridge</string>
 	<string key="ui_poi_ancient_bridge_40053_description" rel_version="Territory_FirstLight">This amalgamation of Ancient architecture and twisted brambles provides a swift but deadly shortcut from the mainland to Saircor.</string>
 	<string key="ui_poi_ancient_ruins_40054" rel_version="Territory_FirstLight">Saircor Orrery</string>
-	<string key="ui_poi_ancient_ruins_40054_description" rel_version="Territory_FirstLight">&lt;font color="#EDDE9D"&gt;Monument&lt;/font&gt;\n\nThe cosmos and Ancients are deeply intertwined. This orrery measured leylines of Aeternum, charting the island, and beginning construction of structures like the Shattered Obelisk.</string>
+	<string key="ui_poi_ancient_ruins_40054_description" rel_version="Territory_FirstLight">&lt;font color="#b2aea1"&gt;Monument&lt;/font&gt;\n\nThe cosmos and Ancients are deeply intertwined. This orrery measured leylines of Aeternum, charting the island, and beginning construction of structures like the Shattered Obelisk.</string>
 	<string key="ui_poi_drowned_cave_40055" rel_version="Territory_FirstLight">Portico Tideswallow</string>
 	<string key="ui_poi_drowned_cave_40055_description" rel_version="Territory_FirstLight">Shifting shorelines reveal Ancient eyes flashing like lightning in the salty mist.</string>
 	<string key="ui_poi_wolf_den_40056" rel_version="Territory_FirstLight">Cave of the Full Moon</string>
@@ -2278,7 +2292,7 @@
 	<string key="ui_poi_spiritshrine_30340" rel_version="Season_2_Perm">Arrival of Hapi</string>
 	<string key="ui_poi_spiritshrine_30436" rel_version="Season_2_Perm">Shrine of Bast</string>
 	<string key="fotb_rafflebones_portal">Rafflebones Portal</string>
-	<string key="fotb_rafflebones_portal_description">A golden portal with smells of treasure and gunpowder. Some say it connects to a dimension of endless treasures..\n\n&lt;font color="#ffe940"&gt;Collect daily rewards 3 times a day.&lt;/font&gt; Rewards reset at 5 AM.</string>
+	<string key="fotb_rafflebones_portal_description">A golden portal with smells of treasure and gunpowder. Some say it connects to a dimension of endless treasures..\n\n&lt;font color="#edc63e"&gt;Collect daily rewards 3 times a day.&lt;/font&gt; Rewards reset at 5 AM.</string>
 	<string key="ui_poi_myrddin_53011" rel_version="Quest_MSQ2_Edengrove">Gaol Volant</string>
 	<string key="ui_poi_myrddin_53011_description" rel_version="Quest_MSQ2_Edengrove">What arcane powers sustain this floating island, and what secrets are locked within?</string>
 	<string key="ui_poi_npchub_53012" rel_version="Quest_MSQ2_Edengrove">Inishglory Camp</string>
@@ -2289,7 +2303,7 @@
 	<string key="ui_poi_ancientruins_53014_description" rel_version="Quest_MSQ2_Edengrove">A mound of stones is all that remains of an ancient faith.</string>
 	<string key="ui_poi_spiritshrine_53015" rel_version="Quest_MSQ2_Edengrove">Inishglory Shrine</string>
 	<string key="ui_poi_malevarena_53016" rel_version="Quest_MSQ2_Edengrove">Tor To-Riven</string>
-	<string key="ui_poi_malevarena_53016_description" rel_version="Quest_MSQ2_Edengrove">&lt;font color="#D05050"&gt;Elite Overlord&lt;/font&gt;\n\nLooking for treasure? Seek a monster.</string>
+	<string key="ui_poi_malevarena_53016_description" rel_version="Quest_MSQ2_Edengrove">&lt;font color="#ff7171"&gt;Elite Overlord&lt;/font&gt;\n\nLooking for treasure? Seek a monster.</string>
 	<string key="ui_poi_npchub_50428" rel_version="Quest_MSQ2_Edengrove">Mebh's Largesse</string>
 	<string key="ui_poi_npchub_50428_description" rel_version="Quest_MSQ2_Edengrove">One being's poison is another being's pleasure.</string>
 	<string key="ui_poi_spiritshrine_50429" rel_version="Quest_MSQ2_Edengrove">Mebh's Shrine</string>
@@ -2305,13 +2319,13 @@
 	<string key="ui_poi_daichi_valley" rel_version="Season_4_Perm">Whisper Vale</string>
 	<string key="ui_poi_daichi_valley_description" rel_version="Season_4_Perm">A forgotten valley surrounded by four hills.</string>
 	<string key="ui_poi_fire_plant_40073" rel_version="Territory_FirstLight">Dance of the Fireflies</string>
-	<string key="ui_poi_fire_plant_40073_description" rel_version="Territory_FirstLight">&lt;font color="#D05050"&gt;Elite Overlord&lt;/font&gt;\n\nWith the glory of fire in hand, let the Sun-blessed soiree commence.</string>
+	<string key="ui_poi_fire_plant_40073_description" rel_version="Territory_FirstLight">&lt;font color="#ff7171"&gt;Elite Overlord&lt;/font&gt;\n\nWith the glory of fire in hand, let the Sun-blessed soiree commence.</string>
 	<string key="ui_poi_ice_plant_40074" rel_version="Territory_FirstLight">Moonflower Floe</string>
-	<string key="ui_poi_ice_plant_40074_description" rel_version="Territory_FirstLight">&lt;font color="#D05050"&gt;Elite Overlord&lt;/font&gt;\n\nOnce lost this past-faded Day, might midnight moonflowers come out and play.</string>
+	<string key="ui_poi_ice_plant_40074_description" rel_version="Territory_FirstLight">&lt;font color="#ff7171"&gt;Elite Overlord&lt;/font&gt;\n\nOnce lost this past-faded Day, might midnight moonflowers come out and play.</string>
 	<string key="ui_poi_spiritshrine_06_40075">Elafry's Shadow</string>
 	<string key="ui_poi_spiritshrine_07_40076">Trampled Thoroughfare</string>
 	<string key="ui_poi_spiritshrine_02_30160">Wild's Gateway</string>
-	<string key="ui_poi_spiritshrine_30345">Thunder Cradle Shrine</string>
+	<string key="ui_poi_spiritshrine_30345">Tiaowen Shan Shrine</string>
 	<string key="ui_poi_factionarea_20221">Dragon Tail Cove</string>
 	<string key="ui_poi_factionarea_20221_description">Contested Area</string>
 	<string key="ui_poi_factionarea_30035">Salty Marshes South</string>
@@ -2410,8 +2424,23 @@
 	<string key="ui_poi_factionarea_40424_description">Contested Area</string>
 	<string key="ui_poi_dungeon_tarn_40360" rel_version="Expedition_GreatCleave_00">Glacial Tarn</string>
 	<string key="ui_poi_dungeon_tarn_40360_description" rel_version="Expedition_GreatCleave_00">Expedition\n\nDiscovered centuries ago by an ill-fated expedition, these frozen caverns harbor a long-lost passage into the Empyrean Forge.</string>
+	<string key="ui_poi_runeforge_trial_53019" rel_version="Season_5_Perm">The Winter Rune Forge</string>
+	<string key="ui_poi_runeforge_trial_53019_description" rel_version="Season_5_Perm">&lt;font color="#506AD0"&gt;Seasonal Trial&lt;/font&gt;\n\nEnter the Winter Rune Forge and face its awakened guardians.</string>
 	<string key="ui_poi_spiritshrine_30346" rel_version="Season_4_Perm">Ice Castle Shrine</string>
-	<string key="ui_poi_spiritshrine_40362" rel_version="Season_4_Perm">Mokash Springs Shrine</string>
+	<string key="ui_poi_corruptedcamp_30347" rel_version="Quest_MSQ3_Ebonscale">Proselyte's Circle</string>
+	<string key="ui_poi_corruptedcamp_30347_description" rel_version="Quest_MSQ3_Ebonscale">Corruption's pox will never respect free will or territorial borderlines.</string>
+	<string key="ui_poi_dynasty_wall_30258" rel_version="Quest_MSQ3_Ebonscale">East Dynasty Wall</string>
+	<string key="ui_poi_dynasty_wall_30258_description" rel_version="Quest_MSQ3_Ebonscale">You are now entering the sprawling lands of Empress Zhou Taiying, ruler of Ebonscale Reach. Long may she reign.</string>
+	<string key="ui_poi_empress_retreat_30259" rel_version="Quest_MSQ3_Ebonscale">Empress's Retreat</string>
+	<string key="ui_poi_empress_retreat_30259_description" rel_version="Quest_MSQ3_Ebonscale">Even supreme rulers need a vacation.</string>
+	<string key="ui_poi_soulwarden_refuge_40361" rel_version="Quest_MSQ3_Ebonscale">Soulwarden's Refuge</string>
+	<string key="ui_poi_soulwarden_refuge_40361_description" rel_version="Quest_MSQ3_Ebonscale">A place to regroup, repair, and take a breath.</string>
+	<string key="ui_poi_spiritshrine_40362" rel_version="Season_4_Perm">Mokosh Springs Shrine</string>
 	<string key="ui_poi_spiritshrine_30260" rel_version="Season_4_Perm">Serenity Shrine</string>
+	<string key="ui_poi_spiritshrine_30261" rel_version="Quest_MSQ3_Ebonscale">Kewang Shrine</string>
+	<string key="ui_poi_spiritshrine_30262" rel_version="Quest_MSQ3_Ebonscale">Misty Shrine</string>
+	<string key="ui_poi_spiritshrine_30263" rel_version="Quest_MSQ3_Ebonscale">Moss Mire Shrine</string>
+	<string key="ui_poi_empresstrial_20223" rel_version="Quest_MSQ3_Ebonscale">The Royal Pier</string>
+	<string key="ui_poi_empresstrial_20223_description" rel_version="Quest_MSQ3_Ebonscale">Imperial barges once graced this beautiful dock; a symbol of unity from which delegates and emissaries were sent to all corners of Aeternum.</string>
 </resources>
 

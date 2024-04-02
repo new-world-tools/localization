@@ -140,8 +140,8 @@
 	<string key="TUT_Drink3">Consuming food and drink restores health.</string>
 	<string key="TUT_Drink4">Drinking increases your stamina recovery.\nThirst makes you exhausted and vulnerable in combat.</string>
 	<string key="TUT_Drink5">You can equip armor, weapons, and consumables.</string>
-	<string key="TUT_Equipping">Drag to equip the shield.</string>
-	<string key="TUT_Quickslots">Drag the Light Rations to equip to your Quickslots.</string>
+	<string key="TUT_Equipping">Equip the shield from Inventory</string>
+	<string key="TUT_Quickslots">Equip the Light Rations from Inventory</string>
 	<string key="TUT_Looting">Open the container</string>
 	<string key="TUT_TakeAll">Take all of the items</string>
 	<string key="TUT_Compass1">You have reached Aeternum.\n\nAzoth lanterns introduce concepts which will help you survive.\n\nFollow the path.</string>
@@ -167,7 +167,7 @@
 	<string key="TUT_BasicCombat4">Block</string>
 	<string key="TUT_BasicCombat5">DRAW YOUR WEAPON!</string>
 	<string key="TUT_BasicCombat6">Lock on to enemies by clicking the mouse wheel when in range. Use left mouse button to attack, right mouse button to block.</string>
-	<string key="TUT_IntCombatMsg1">&lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;Special Attacks and Dodges.&lt;/font&gt;&lt;/font&gt;\n\nPress F (by default) to use block breaking attacks to punch through defenses of a blocking enemy. Use Space + W A S D (by default) to dodge in any direction.\n\nBlocking, special attacks and dodges all use stamina, so stay hydrated to keep ready for a fight.</string>
+	<string key="TUT_IntCombatMsg1">&lt;font color="#ebe3d6"&gt;&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;Special Attacks and Dodges.&lt;/font&gt;&lt;/font&gt;\n\nPress F (by default) to use block breaking attacks to punch through defenses of a blocking enemy. Use Space + W A S D (by default) to dodge in any direction.\n\nBlocking, special attacks and dodges all use stamina, so stay hydrated to keep ready for a fight.</string>
 	<string key="TUT_IntCombatMsg2">Blocking, special attacks and dodges all use stamina, so stay hydrated to keep ready for a fight.</string>
 	<string key="TUT_AdvCombatMsg1">Disrupt enemy blocks with Heavy Attacks.\nHolding longer increases the attack's damage.</string>
 	<string key="TUT_AdvCombatMsg2">Press Q in combat to unleash a high damage special attack, but be careful, if you miss with a special attack you will be vulnerable for a short period after attacking.</string>
@@ -232,7 +232,7 @@
 	<string key="TUT_Mastery_Confirm">Click confirm to unlock the ability.</string>
 	<string key="TUT_Mastery_EquipRemind">Active abilities will be automatically equipped if there are open slots.</string>
 	<string key="TUT_Mastery_Close">Close the Mastery screen.</string>
-	<string key="TUT_Mastery_Points">You have &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{count}&lt;/font&gt;&lt;/font&gt; unspent Mastery Point.</string>
+	<string key="TUT_Mastery_Points">You have &lt;font color="#ebe3d6"&gt;&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{count}&lt;/font&gt;&lt;/font&gt; unspent Mastery Point.</string>
 	<string key="ui_mudflats_location">MUDFLATS</string>
 	<string key="TUT_Hold">(HOLD)</string>
 	<string key="TUT_Short_Hold">(SHORT HOLD)</string>

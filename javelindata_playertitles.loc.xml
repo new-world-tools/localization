@@ -774,9 +774,9 @@
 	<string key="ui_title_section_current_title_tag">Displayed</string>
 	<string key="ui_title_section_apply">Confirm</string>
 	<string key="ui_playertitle_notification_title">Title Unlocked</string>
-	<string key="ui_playertitle_notification_desc">You have unlocked &lt;font color={color}&gt;{title} &lt;/font&gt;</string>
-	<string key="ui_playertitle_notification_expired_title">Your Title Expired!</string>
-	<string key="ui_playertitle_notification_expired_desc">Your title &lt;font color={color}&gt;{title}&lt;/font&gt; has expired. Select View Detail to choose a new title.</string>
+	<string key="ui_playertitle_notification_desc">&lt;font color={color}&gt;{title} &lt;/font&gt;</string>
+	<string key="ui_playertitle_notification_expired_title">Title Expired</string>
+	<string key="ui_playertitle_notification_expired_desc">&lt;font color={color}&gt;{title}&lt;/font&gt;</string>
 	<string key="ui_playertitle_meta_achievement_description">You earned achievement {title} ({description})</string>
 	<string key="ui_playertitle_meta_helper_help_description" rel_version="Feature_Titles">Found at the bottom of a supply crate.</string>
 	<string key="ui_playertitle_meta_helper_factions_description" rel_version="Feature_Titles">Unlocked when you joined your faction.</string>
@@ -785,8 +785,8 @@
 	<string key="ui_playertitle_skills_description">Earned by increasing your skills.</string>
 	<string key="ui_playertitle_generic_description">Earned while playing the game.</string>
 	<string key="ui_playertitle_no_title_description">Select this option to not display any title.</string>
-	<string key="ui_playertitle_addendum_accounttype">\n\n&lt;font face="lyshineui/fonts/Nimbus_Regular.font" color = "#ffffff"&gt;This title is usable by any character in your account.&lt;/font&gt;</string>
-	<string key="ui_playertitle_addendum_charactertype">\n\n&lt;font face="lyshineui/fonts/Nimbus_Regular.font" color = "#ffffff"&gt;This title cannot be used for other characters in your account.&lt;/font&gt;</string>
+	<string key="ui_playertitle_addendum_accounttype">\n\n&lt;font face="lyshineui/fonts/Nimbus_Regular.font" color = "#ebe3d6"&gt;This title is usable by any character in your account.&lt;/font&gt;</string>
+	<string key="ui_playertitle_addendum_charactertype">\n\n&lt;font face="lyshineui/fonts/Nimbus_Regular.font" color = "#ebe3d6"&gt;This title cannot be used for other characters in your account.&lt;/font&gt;</string>
 	<string key="ui_playertitle_special_stoic" rel_version="Feature_Titles">The Stoic</string>
 	<string key="ui_playertitle_special_stoic_SHE" rel_version="Feature_Titles">The Stoic</string>
 	<string key="ui_playertitle_special_stoic_THEY" rel_version="Feature_Titles">The Stoic</string>
@@ -1398,5 +1398,53 @@
 	<string key="ui_playertitle_leaderboard_glacialtarn_time_rank1_description" rel_version="Expedition_GreatCleave_00">Title earned by placing in the top reward rank in the Glacial Tarn Clear Time weekly leaderboard.</string>
 	<string key="ui_playertitle_leaderboard_glacialtarn_time_rank2" rel_version="Expedition_GreatCleave_00">Glacial Speed Medalist</string>
 	<string key="ui_playertitle_leaderboard_glacialtarn_time_rank2_description" rel_version="Expedition_GreatCleave_00">Title earned by placing in the secondary reward rank in the Glacial Tarn Clear Time weekly leaderboard.</string>
+	<string key="ui_playertitle_season5_journeychallenge1" rel_version="Season_5_Perm">Rune Forgemaster</string>
+	<string key="ui_playertitle_season5_journeychallenge1_SHE" rel_version="Season_5_Perm">Rune Forgemaster</string>
+	<string key="ui_playertitle_season5_journeychallenge1_THEY" rel_version="Season_5_Perm">Rune Forgemaster</string>
+	<string key="ui_playertitle_season5_journeychallenge1_description" rel_version="Season_5_Perm">Earned by completing the Season 5 Challenge: Rune Forgemaster</string>
+	<string key="ui_playertitle_season5_journeychallenge2" rel_version="Season_5_Perm">Flame Extinguisher</string>
+	<string key="ui_playertitle_season5_journeychallenge2_SHE" rel_version="Season_5_Perm">Flame Extinguisher</string>
+	<string key="ui_playertitle_season5_journeychallenge2_THEY" rel_version="Season_5_Perm">Flame Extinguisher</string>
+	<string key="ui_playertitle_season5_journeychallenge2_description" rel_version="Season_5_Perm">Earned by completing the Season 5 Challenge: Flame Extinguisher</string>
+	<string key="ui_playertitle_season5_journeychallenge3" rel_version="Season_5_Perm">Hecate Completionist</string>
+	<string key="ui_playertitle_season5_journeychallenge3_SHE" rel_version="Season_5_Perm">Hecate Completionist</string>
+	<string key="ui_playertitle_season5_journeychallenge3_THEY" rel_version="Season_5_Perm">Hecate Completionist</string>
+	<string key="ui_playertitle_season5_journeychallenge3_description" rel_version="Season_5_Perm">Earned by completing the Season 5 Challenge: Hecate Completionist</string>
+	<string key="ui_playertitle_season5_journeychallenge4" rel_version="Season_5_Perm">Consummate Crafter</string>
+	<string key="ui_playertitle_season5_journeychallenge4_SHE" rel_version="Season_5_Perm">Consummate Crafter</string>
+	<string key="ui_playertitle_season5_journeychallenge4_THEY" rel_version="Season_5_Perm">Consummate Crafter</string>
+	<string key="ui_playertitle_season5_journeychallenge4_description" rel_version="Season_5_Perm">Earned by completing the Season 5 Challenge: Consummate Crafter</string>
+	<string key="ui_playertitle_season5_journeychallenge5" rel_version="Season_5_Perm">Prismatic Artisan</string>
+	<string key="ui_playertitle_season5_journeychallenge5_SHE" rel_version="Season_5_Perm">Prismatic Artisan</string>
+	<string key="ui_playertitle_season5_journeychallenge5_THEY" rel_version="Season_5_Perm">Prismatic Artisan</string>
+	<string key="ui_playertitle_season5_journeychallenge5_description" rel_version="Season_5_Perm">Earned by completing the Season 5 Challenge: Prismatic Artisan</string>
+	<string key="ui_playertitle_season5_journeychallenge6" rel_version="Season_5_Perm">Ice Cleaver</string>
+	<string key="ui_playertitle_season5_journeychallenge6_SHE" rel_version="Season_5_Perm">Ice Cleaver</string>
+	<string key="ui_playertitle_season5_journeychallenge6_THEY" rel_version="Season_5_Perm">Ice Cleaver</string>
+	<string key="ui_playertitle_season5_journeychallenge6_description" rel_version="Season_5_Perm">Earned by completing the Season 5 Challenge: Ice Cleaver</string>
+	<string key="ui_playertitle_season5_journeychallenge7" rel_version="Season_5_Perm">Tower Terror</string>
+	<string key="ui_playertitle_season5_journeychallenge7_SHE" rel_version="Season_5_Perm">Tower Terror</string>
+	<string key="ui_playertitle_season5_journeychallenge7_THEY" rel_version="Season_5_Perm">Tower Terror</string>
+	<string key="ui_playertitle_season5_journeychallenge7_description" rel_version="Season_5_Perm">Earned by completing the Season 5 Challenge: Tower Terror</string>
+	<string key="ui_playertitle_season5_journeychallenge8" rel_version="Season_5_Perm">Accomplished Slayer</string>
+	<string key="ui_playertitle_season5_journeychallenge8_SHE" rel_version="Season_5_Perm">Accomplished Slayer</string>
+	<string key="ui_playertitle_season5_journeychallenge8_THEY" rel_version="Season_5_Perm">Accomplished Slayer</string>
+	<string key="ui_playertitle_season5_journeychallenge8_description" rel_version="Season_5_Perm">Earned by completing the Season 5 Challenge: Accomplished Slayer</string>
+	<string key="ui_playertitle_season5_journeychallenge9" rel_version="Season_5_Perm">Trialwarden</string>
+	<string key="ui_playertitle_season5_journeychallenge9_SHE" rel_version="Season_5_Perm">Trialwarden</string>
+	<string key="ui_playertitle_season5_journeychallenge9_THEY" rel_version="Season_5_Perm">Trialwarden</string>
+	<string key="ui_playertitle_season5_journeychallenge9_description" rel_version="Season_5_Perm">Earned by completing the Season 5 Challenge: Soulwarden Trials</string>
+	<string key="ui_playertitle_season5_journeychallenge10" rel_version="Season_5_Perm">Devourer's Demise</string>
+	<string key="ui_playertitle_season5_journeychallenge10_SHE" rel_version="Season_5_Perm">Devourer's Demise</string>
+	<string key="ui_playertitle_season5_journeychallenge10_THEY" rel_version="Season_5_Perm">Devourer's Demise</string>
+	<string key="ui_playertitle_season5_journeychallenge10_description" rel_version="Season_5_Perm">Earned by completing the Season 5 Challenge: Devourer's Demise</string>
+	<string key="ui_playertitle_season5journey" rel_version="Season_5_Perm">Great Guardian</string>
+	<string key="ui_playertitle_season5journey_SHE" rel_version="Season_5_Perm">Great Guardian</string>
+	<string key="ui_playertitle_season5journey_THEY" rel_version="Season_5_Perm">Great Guardian</string>
+	<string key="ui_playertitle_season5journey_description" rel_version="Season_5_Perm">Earned for completing Chapter 4 of the Season 5 Season Journey.</string>
+	<string key="ui_playertitle_season5_battlepass" rel_version="Season_5_Perm">Guardian Hero</string>
+	<string key="ui_playertitle_season5_battlepass_SHE" rel_version="Season_5_Perm">Guardian Hero</string>
+	<string key="ui_playertitle_season5_battlepass_THEY" rel_version="Season_5_Perm">Guardian Hero</string>
+	<string key="ui_playertitle_season5_battlepass_description" rel_version="Season_5_Perm">Earned in the free track for the Season 5 Season Pass.</string>
 </resources>
 

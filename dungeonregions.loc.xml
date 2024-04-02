@@ -176,6 +176,18 @@
 	<string key="ui_icon_brimstone_description_crassus" rel_version="Expedition_BrimstoneSands_00">Leader of the 19th Legion</string>
 	<string key="ui_icon_brimstone_title_goliaths" rel_version="Expedition_BrimstoneSands_00">Anpu and Heru</string>
 	<string key="ui_icon_brimstone_description_goliaths" rel_version="Expedition_BrimstoneSands_00">Ancient Idols</string>
+	<string key="ui_area_greatcleave00_Entrance" rel_version="Expedition_GreatCleave_00">Forgotten Excavation</string>
+	<string key="ui_area_greatcleave00_Caverns" rel_version="Expedition_GreatCleave_00">Glacial Caverns</string>
+	<string key="ui_area_greatcleave00_Spring" rel_version="Expedition_GreatCleave_00">The Cleansing Spring</string>
+	<string key="ui_area_greatcleave00_Falls" rel_version="Expedition_GreatCleave_00">Sanctorium of the Falls</string>
+	<string key="ui_area_greatcleave00_Promenade" rel_version="Expedition_GreatCleave_00">Promenade of Spring</string>
+	<string key="ui_area_greatcleave00_Exterior" rel_version="Expedition_GreatCleave_00">Forge Exterior</string>
+	<string key="ui_area_greatcleave00_Access" rel_version="Expedition_GreatCleave_00">Forge Gateworks</string>
+	<string key="ui_area_greatcleave00_Forge" rel_version="Expedition_GreatCleave_00">Flooded Forge</string>
+	<string key="ui_area_greatcleave00_Path" rel_version="Expedition_GreatCleave_00">Path of Elements</string>
+	<string key="ui_area_greatcleave00_Ascent" rel_version="Expedition_GreatCleave_00">Ascent of Seasons</string>
+	<string key="ui_area_greatcleave00_Nexus" rel_version="Expedition_GreatCleave_00">Empyrean Nexus</string>
+	<string key="ui_area_greatcleave00_furnace" rel_version="Expedition_GreatCleave_00">Empyrean Furnace</string>
 	<string key="ui_area_greatcleave01_LostEntrance" rel_version="Expedition_GreatCleave_01">Lost Entrance</string>
 	<string key="ui_area_greatcleave01_Vestibule" rel_version="Expedition_GreatCleave_01">Vestibule</string>
 	<string key="ui_area_greatcleave01_ForgeGate" rel_version="Expedition_GreatCleave_01">Forge Gate</string>
@@ -197,7 +209,6 @@
 	<string key="ui_area_greatcleave01_FireSeal" rel_version="Expedition_GreatCleave_01">Fire Seal</string>
 	<string key="ui_area_greatcleave01_Desecrated" rel_version="Expedition_GreatCleave_01">Desecrated Ancient Mechanism</string>
 	<string key="ui_area_greatcleave01_Heel" rel_version="Expedition_GreatCleave_01">The Heel</string>
-	<string key="ui_area_greatcleave00_furnace" rel_version="Expedition_GreatCleave_00">Empyrean Furnace</string>
 	<string key="ui_area_firstlight01_entrance" rel_version="Territory_FirstLight">Forbidden Entry</string>
 	<string key="ui_area_firstlight01_FinalBoss" rel_version="Territory_FirstLight">Den of Mahantaram</string>
 	<string key="ui_area_firstlight01_FirstBoss" rel_version="Territory_FirstLight">Den of Kurok</string>
@@ -222,5 +233,9 @@
 	<string key="ui_icon_trial_season_04_q06_boss_description" rel_version="Season_4_Temp">KNIGHT</string>
 	<string key="ui_area_trial_season_04_Q02_arena" rel_version="Season_4_Perm">DAICHI'S DOJO</string>
 	<string key="ui_area_trial_season_04_Q06_arena" rel_version="Season_4_Temp">ANCIENT RUINS</string>
+	<string key="ui_icon_quest_empresszhou_boss_title" rel_version="Quest_MSQ3_Ebonscale">Empress Zhou Taiying</string>
+	<string key="ui_icon_quest_empresszhou_boss_description" rel_version="Quest_MSQ3_Ebonscale">CORRUPTED EMPRESS OF EBONSCALE REACH</string>
+	<string key="ui_icon_quest_isabella_boss_title" rel_version="Quest_MSQ3_Shattered_V2">ISABELLA</string>
+	<string key="ui_icon_quest_isabella_boss_description" rel_version="Quest_MSQ3_Shattered_V2">LEADER OF AETERNUM'S CORRUPTED FORCES</string>
 </resources>
 

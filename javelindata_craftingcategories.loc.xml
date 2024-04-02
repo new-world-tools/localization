@@ -1007,6 +1007,7 @@
 	<string key="Swordfish_GroupName">Swordfish</string>
 	<string key="Trout_GroupName">Trout</string>
 	<string key="Perch_GroupName">Perch</string>
+	<string key="FishingTreasure_GroupName">Treasure Chest</string>
 	<string key="flint_GroupName">Flints</string>
 	<string key="Flowers_GroupName">Flowers</string>
 	<string key="Flux_GroupName">Flux</string>

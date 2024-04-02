@@ -507,33 +507,33 @@
 	<string key="Mut_Ice_DeathFreeze_Root_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Freezing Root</string>
 	<string key="Mut_Ice_DeathFreeze_Root_Tooltip" rel_version="Feature_Dungeon_Mutators_pt3">Frozen in place and unable to move.</string>
 	<string key="Mut_Fir_Curse1_Minor_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators">Unstable Fire</string>
-	<string key="Mut_Fir_Curse1_Minor_Damage_DisplayName" rel_version="Feature_Dungeon_Mutators">Unstable Singe</string>
-	<string key="Mut_Fir_Curse1_Minor_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators">Taking {[Type_StatusEffectData.Mut_Fir_Curse1_Minor_Damage.HealthModifierPercent * -100]}% Fire damage every {[Type_StatusEffectData.Mut_Fir_Curse1_Minore_Damage.TickRate]} seconds.</string>
+	<string key="Mut_Fir_Curse1_Minor_Damage_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Unstable Singe</string>
+	<string key="Mut_Fir_Curse1_Minor_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators_pt3">Taking {[Type_StatusEffectData.Mut_Curse1_Fir_Minor_Chain_Damage.HealthModifierPercent * -100]}% Fire damage every {[Type_StatusEffectData.Mut_Curse1_Fir_Minor_Chain_Damage.TickRate]} seconds.</string>
 	<string key="Mut_Voi_Curse1_Minor_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators">Unstable Void</string>
 	<string key="Mut_Voi_Curse1_Minor_Damage_DisplayName" rel_version="Feature_Dungeon_Mutators">Unstable Flux</string>
-	<string key="Mut_Voi_Curse1_Minor_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators">Taking {[Type_StatusEffectData.Mut_Voi_Curse1_Minor_Damage.HealthModifierPercent * -100]}% Void damage every {[Type_StatusEffectData.Mut_Voi_Curse1_Minor_Damage.TickRate]} seconds.</string>
+	<string key="Mut_Voi_Curse1_Minor_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators">Taking {[Type_StatusEffectData.Mut_Curse1_Voi_Minor_Chain_Damage.HealthModifierPercent * -100]}% Void damage every {[Type_StatusEffectData.Mut_Curse1_Voi_Minor_Chain_Damage.TickRate]} seconds.</string>
 	<string key="Mut_Nat_Curse1_Minor_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt2">Unstable Nature</string>
-	<string key="Mut_Nat_Curse1_Minor_Damage_DisplayName" rel_version="Feature_Dungeon_Mutators_pt2">Unstable Sap</string>
-	<string key="Mut_Nat_Curse1_Minor_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators_pt2">Taking {[Type_StatusEffectData.Mut_Nat_Curse1_Minor_Damage.HealthModifierPercent * -100]}% Nature damage every {[Type_StatusEffectData.Mut_Nat_Curse1_Minor_Damage.TickRate]} seconds.</string>
+	<string key="Mut_Nat_Curse1_Minor_Damage_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Unstable Sap</string>
+	<string key="Mut_Nat_Curse1_Minor_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators_pt3">Taking {[Type_StatusEffectData.Mut_Curse1_Nat_Minor_Chain_Damage.HealthModifierPercent * -100]}% Nature damage every {[Type_StatusEffectData.Mut_Curse1_Nat_Minor_Chain_Damage.TickRate]} seconds.</string>
 	<string key="Mut_Ice_Curse1_Minor_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Unstable Ice</string>
 	<string key="Mut_Ice_Curse1_Minor_Damage_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Unstable Chill</string>
-	<string key="Mut_Ice_Curse1_Minor_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators_pt3">Taking {[Type_StatusEffectData.Mut_Ice_Curse1_Minor_Damage.HealthModifierPercent * -100]}% Ice damage every {[Type_StatusEffectData.Mut_Ice_Curse1_Minor_Damage.TickRate]} seconds.</string>
+	<string key="Mut_Ice_Curse1_Minor_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators_pt3">Taking {[Type_StatusEffectData.Mut_Curse1_Ice_Minor_Chain_Damage.HealthModifierPercent * -100]}% Ice damage every {[Type_StatusEffectData.Mut_Curse1_Ice_Minor_Chain_Damage.TickRate]} seconds.</string>
 	<string key="Mut_Fir_Curse1_Major_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt2">Overcharged Fire</string>
-	<string key="Mut_Fir_Curse1_Major_Buff_ToolTip" rel_version="Feature_Dungeon_Mutators_pt2">Pulsing {[Type_StatusEffectData.Mut_Fir_Curse1_Major_Damage.HealthModifierDamageBased * -100]}% Fire damage every {[Type_StatusEffectData.Mut_Fir_Curse1_Major_Damage.TickRate]} seconds to nearby allies. Gain {[Type_StatusEffectData.Mut_Fir_Curse1_Major_Buff.ABSFire * 100]}% Fire absorption.</string>
+	<string key="Mut_Fir_Curse1_Major_Buff_ToolTip" rel_version="Feature_Dungeon_Mutators_pt2">Pulsing {[Type_StatusEffectData.Mut_Curse1_Fir_Major_Damage_DoT.HealthModifierDamageBased * -100]}% Fire damage every {[Type_StatusEffectData.Mut_Curse1_Fir_Major_Damage_DoT.TickRate]} seconds to nearby allies. Gain {[Type_StatusEffectData.Mut_Curse1_Fir_Major_Buff.ABSFire * 100]}% Fire absorption.</string>
 	<string key="Mut_Fir_Curse1_Major_Damage_DisplayName" rel_version="Feature_Dungeon_Mutators_pt2">Overcharged Singe</string>
-	<string key="Mut_Fir_Curse1_Major_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators_pt2">Taking {[Type_StatusEffectData.Mut_Fir_Curse1_Major_Damage.HealthModifierDamageBased * -100]}% Fire damage every {[Type_StatusEffectData.Mut_Fir_Curse1_Major_Damage.TickRate]} seconds.</string>
-	<string key="Mut_Voi_Curse1_Major_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt2">Overcharged Void</string>
-	<string key="Mut_Voi_Curse1_Major_Buff_ToolTip" rel_version="Feature_Dungeon_Mutators_pt2">Pulsing {[Type_StatusEffectData.Mut_Voi_Curse1_Major_Damage.HealthModifierDamageBased * -100]}% Void damage every {[Type_StatusEffectData.Mut_Voi_Curse1_Major_Damage.TickRate]} seconds to nearby allies. Gain {[Type_StatusEffectData.Mut_Voi_Curse1_Major_Buff.ABSCorruption * 100]}% Void absorption.</string>
-	<string key="Mut_Voi_Curse1_Major_Damage_DisplayName" rel_version="Feature_Dungeon_Mutators_pt2">Overcharged Abyss</string>
-	<string key="Mut_Voi_Curse1_Major_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators_pt2">Taking {[Type_StatusEffectData.Mut_Voi_Curse1_Major_Damage.HealthModifierDamageBased * -100]}% Void damage every {[Type_StatusEffectData.Mut_Voi_Curse1_Major_Damage.TickRate]} seconds.</string>
+	<string key="Mut_Fir_Curse1_Major_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators_pt2">Taking {[Type_StatusEffectData.Mut_Curse1_Fir_Major_Damage_DoT.HealthModifierDamageBased * -100]}% Fire damage every {[Type_StatusEffectData.Mut_Curse1_Fir_Major_Damage_DoT.TickRate]} seconds.</string>
+	<string key="Mut_Voi_Curse1_Major_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Overcharged Void</string>
+	<string key="Mut_Voi_Curse1_Major_Buff_ToolTip" rel_version="Feature_Dungeon_Mutators_pt3">Pulsing {[Type_StatusEffectData.Mut_Curse1_Voi_Major_Damage_DoT.HealthModifierDamageBased * -100]}% Void damage every {[Type_StatusEffectData.Mut_Curse1_Voi_Major_Damage_DoT.TickRate]} seconds to nearby allies. Gain {[Type_StatusEffectData.Mut_Curse1_Voi_Major_Buff.ABSCorruption * 100]}% Void absorption.</string>
+	<string key="Mut_Voi_Curse1_Major_Damage_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Overcharged Abyss</string>
+	<string key="Mut_Voi_Curse1_Major_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators_pt3">Taking {[Type_StatusEffectData.Mut_Curse1_Voi_Major_Damage_DoT.HealthModifierDamageBased * -100]}% Void damage every {[Type_StatusEffectData.Mut_Curse1_Voi_Major_Damage_DoT.TickRate]} seconds.</string>
 	<string key="Mut_Nat_Curse1_Major_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt2">Overcharged Nature</string>
-	<string key="Mut_Nat_Curse1_Major_Buff_ToolTip" rel_version="Feature_Dungeon_Mutators_pt2">Pulsing {[Type_StatusEffectData.Mut_Nat_Curse1_Major_Damage.HealthModifierDamageBased * -100]}% Nature damage every {[Type_StatusEffectData.Mut_Nat_Curse1_Major_Damage.TickRate]} seconds to nearby allies. Gain {[Type_StatusEffectData.Mut_Nat_Curse1_Major_Buff.ABSNature * 100]}% Nature absorption.</string>
+	<string key="Mut_Nat_Curse1_Major_Buff_ToolTip" rel_version="Feature_Dungeon_Mutators_pt2">Pulsing {[Type_StatusEffectData.Mut_Curse1_Nat_Major_Damage_DoT.HealthModifierDamageBased * -100]}% Nature damage every {[Type_StatusEffectData.Mut_Curse1_Nat_Major_Damage_DoT.TickRate]} seconds to nearby allies. Gain {[Type_StatusEffectData.Mut_Curse1_Nat_Major_Buff.ABSNature * 100]}% Nature absorption.</string>
 	<string key="Mut_Nat_Curse1_Major_Damage_DisplayName" rel_version="Feature_Dungeon_Mutators_pt2">Overcharged Sap</string>
-	<string key="Mut_Nat_Curse1_Major_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators_pt2">Taking {[Type_StatusEffectData.Mut_Nat_Curse1_Major_Damage.HealthModifierDamageBased * -100]}% Nature damage every {[Type_StatusEffectData.Mut_Nat_Curse1_Major_Damage.TickRate]} seconds.</string>
+	<string key="Mut_Nat_Curse1_Major_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators_pt2">Taking {[Type_StatusEffectData.Mut_Curse1_Nat_Major_Damage_DoT.HealthModifierDamageBased * -100]}% Nature damage every {[Type_StatusEffectData.Mut_Curse1_Nat_Major_Damage_DoT.TickRate]} seconds.</string>
 	<string key="Mut_Ice_Curse1_Major_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt2">Overcharged Ice</string>
-	<string key="Mut_Ice_Curse1_Major_Buff_ToolTip" rel_version="Feature_Dungeon_Mutators_pt2">Pulsing {[Type_StatusEffectData.Mut_Ice_Curse1_Major_Damage.HealthModifierDamageBased * -100]}% Ice damage every {[Type_StatusEffectData.Mut_Ice_Curse1_Major_Damage.TickRate]} seconds to nearby allies. Gain {[Type_StatusEffectData.Mut_Ice_Curse1_Major_Buff.ABSIce * 100]}% Ice absorption.</string>
+	<string key="Mut_Ice_Curse1_Major_Buff_ToolTip" rel_version="Feature_Dungeon_Mutators_pt2">Pulsing {[Type_StatusEffectData.Mut_Curse1_Ice_Major_Damage_DoT.HealthModifierDamageBased * -100]}% Ice damage every {[Type_StatusEffectData.Mut_Curse1_Ice_Major_Damage_DoT.TickRate]} seconds to nearby allies. Gain {[Type_StatusEffectData.Mut_Curse1_Ice_Major_Buff.ABSIce * 100]}% Ice absorption.</string>
 	<string key="Mut_Ice_Curse1_Major_Damage_DisplayName" rel_version="Feature_Dungeon_Mutators_pt2">Overcharged Chill</string>
-	<string key="Mut_Ice_Curse1_Major_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators_pt2">Taking {[Type_StatusEffectData.Mut_Ice_Curse1_Major_Damage.HealthModifierDamageBased * -100]}% Ice damage every {[Type_StatusEffectData.Mut_Ice_Curse1_Major_Damage.TickRate]} seconds.</string>
+	<string key="Mut_Ice_Curse1_Major_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators_pt2">Taking {[Type_StatusEffectData.Mut_Curse1_Ice_Major_Damage_DoT.HealthModifierDamageBased * -100]}% Ice damage every {[Type_StatusEffectData.Mut_Curse1_Ice_Major_Damage_DoT.TickRate]} seconds.</string>
 	<string key="Mut_Curse2_Minor_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt2">Weary</string>
 	<string key="Mut_Curse2_Minor_SlowRend_DisplayName" rel_version="Feature_Dungeon_Mutators_pt2">Weary</string>
 	<string key="Mut_Curse2_Fir_Major_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt2">Blood Offering</string>
@@ -575,12 +575,6 @@
 	<string key="Mut_Curse1_Fir_Major_Cast_Tooltip" rel_version="Feature_Dungeon_Mutators_pt3">When the Unstable timer expires, Overcharged will trigger around player.</string>
 	<string key="Mut_Curse1_Fir_Major_Damage_DoT_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Overcharged</string>
 	<string key="Mut_Curse1_Fir_Major_Damage_DoT_Tooltip" rel_version="Feature_Dungeon_Mutators_pt3">Taking {[Type_StatusEffectData.Mut_Curse1_Fir_Major_Damage_DoT.HealthModifierPercent * -100]}% of your max HP worth of damage every second while in damaging zone.</string>
-	<string key="Mut_Curse1_Lig_Minor_Damage_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Unstable</string>
-	<string key="Mut_Curse1_Lig_Minor_Damage_Tooltip" rel_version="Feature_Dungeon_Mutators_pt3">Taking {[Type_StatusEffectData.Mut_Curse1_Lig_Minor_Damage.HealthModifierPercent * -100]}% of your max HP worth of damage every second for {[Type_StatusEffectData.Mut_Curse1_Lig_Minor_Damage.BaseDuration]}s.</string>
-	<string key="Mut_Curse1_Lig_Major_Cast_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Overcharge Countdown</string>
-	<string key="Mut_Curse1_Lig_Major_Cast_Tooltip" rel_version="Feature_Dungeon_Mutators_pt3">When the Unstable timer expires, Overcharged will trigger around player.</string>
-	<string key="Mut_Curse1_Lig_Major_Damage_DoT_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Overcharged</string>
-	<string key="Mut_Curse1_Lig_Major_Damage_DoT_Tooltip" rel_version="Feature_Dungeon_Mutators_pt3">Taking {[Type_StatusEffectData.Mut_Curse1_Lig_Major_Damage_DoT.HealthModifierPercent * -100]}% of your max HP worth of damage every second while in damaging zone.</string>
 	<string key="Mut_Curse1_Voi_Minor_Damage_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Unstable</string>
 	<string key="Mut_Curse1_Voi_Minor_Damage_Tooltip" rel_version="Feature_Dungeon_Mutators_pt3">Taking {[Type_StatusEffectData.Mut_Curse1_Voi_Minor_Damage.HealthModifierPercent * -100]}% of your max HP worth of damage every second for {[Type_StatusEffectData.Mut_Curse1_Voi_Minor_Damage.BaseDuration]}s.</string>
 	<string key="Mut_Curse1_Voi_Major_Cast_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Overcharge Countdown</string>
@@ -670,12 +664,8 @@
 	<string key="AI_Slime_Slow_Tooltip">Movement speed reduced by {[Type_StatusEffectData.AI_Slime_Slow.MoveSpeedMod * -100]}%.</string>
 	<string key="AI_PillarGoat_Buff_DisplayName" rel_version="Territory_Brimstone_Sands">Pushy</string>
 	<string key="AI_Fleeting_Buff_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Fleeting</string>
-	<string key="AI_HalloweenBoss_PutridAura_DisplayName">Baalphazu's Curse</string>
-	<string key="AI_HalloweenBoss_PutridAura_Tooltip">Take {[Type_StatusEffectData.HalloweenBoss_Putrid_Aura_DoT_Damage.HealthModifierDamageBased * -100]}% base health Nature damage every {[Type_StatusEffectData.HalloweenBoss_Putrid_Aura_DoT_Damage.TickRate * 6]} seconds.</string>
 	<string key="AI_HercyneRat_Disease_DisplayName" rel_version="Territory_FirstLight">Disease</string>
-	<string key="AI_HercyneRat_Disease_Tooltip" rel_version="Territory_FirstLight">Reduces healing taken by {[Type_StatusEffectData.AI_PlagueRat_Disease.HealMod * -100]}%, stacking {[Type_StatusEffectData.AI_HercyneRat_Disease.StackMax]} times.</string>
-	<string key="AI_SpiderBite_Tooltip">Poisoned for {[Type_StatusEffectData.AI_SpiderBite.HealthModifierDamageBased * -100]}% base Nature damage every {[Type_StatusEffectData.AI_SpiderBite.TickRate]} seconds for {[Type_StatusEffectData.AI_SpiderBite.BaseDuration]} seconds.</string>
-	<string key="AI_SpiderVenom_Tooltip">Armor is {[Type_StatusEffectData.AI_SpiderVenom.ABSStandard * -100]}% less effective.</string>
+	<string key="AI_HercyneRat_Disease_Tooltip" rel_version="Territory_FirstLight">Reduces healing taken by {[Type_StatusEffectData.AI_HercyneRat_Disease.HealMod * -100]}%, stacking {[Type_StatusEffectData.AI_HercyneRat_Disease.StackMax]} times.</string>
 	<string key="AI_PoisonOnHit_Buff_DisplayName">Venomous</string>
 	<string key="AI_PoisonOnHit_Damage_DisplayName">Poison</string>
 	<string key="AI_PoisonOnHit_Damage_Tooltip">Poisoned for {[Type_StatusEffectData.AI_PoisonOnHit_Damage.HealthModifierDamageBased * -100]}% base Nature damage every {[Type_StatusEffectData.AI_PoisonOnHit_Damage.TickRate]} seconds for {[Type_StatusEffectData.AI_PoisonOnHit_Damage.BaseDuration]} seconds.</string>
@@ -724,10 +714,12 @@
 	<string key="AI_Yonas_Stun_4sec_Tooltip" rel_version="Quest_MSQ2_Edengrove">Stunned</string>
 	<string key="AI_Bleed_9_DisplayName">Bleeding</string>
 	<string key="AI_Bleed_9_Tooltip">Bleeding for {[Type_StatusEffectData.AI_Bleed_9.HealthModifierDamageBased * -100]}% base + {[Type_StatusEffectData.AI_Bleed_9.HealthModifierPercent * -100]}% base health Physical damage every {[Type_StatusEffectData.AI_Bleed_9.TickRate]} seconds for {[Type_StatusEffectData.AI_Bleed_9.BaseDuration]} seconds.</string>
+	<string key="AI_IceDragon_Bleed_9_DisplayName" rel_version="Season_4_Temp">Frigid Bleeding</string>
+	<string key="AI_IceDragon_Bleed_9_Tooltip" rel_version="Season_4_Temp">Bleeding for {[Type_StatusEffectData.AI_Bleed_9.HealthModifierDamageBased * -100]}% base + {[Type_StatusEffectData.AI_Bleed_9.HealthModifierPercent * -100]}% base health Physical damage every {[Type_StatusEffectData.AI_Bleed_9.TickRate]} seconds for {[Type_StatusEffectData.AI_Bleed_9.BaseDuration]} seconds.</string>
 	<string key="AI_Burn_9_DisplayName">Burning</string>
 	<string key="AI_Burn_9_Tooltip">Burning for {[Type_StatusEffectData.AI_Burn_9.HealthModifierDamageBased * -100]}% base Fire damage every {[Type_StatusEffectData.AI_Burn_9.TickRate]} seconds for {[Type_StatusEffectData.AI_Burn_9.BaseDuration]} seconds.</string>
 	<string key="AI_Thorpe_Burn_DisplayName">Umbrous Burn</string>
-	<string key="AI_Thorpe_Burn_Tooltip">Burning for {[Type_StatusEffectData.AI_Thorpe_Burn.HealthModifierDamageBased * -100]}% base + {[Type_StatusEffectData.AI_Thorpe_Burn.HealthModifierPercent * -100]}% base health Fire damage every {[Type_StatusEffectData.AI_Thorpe_Burn.TickRate]} seconds for {[Type_StatusEffectData.AI_Thorpe_Burn.BaseDuration]} seconds.</string>
+	<string key="AI_Thorpe_Burn_Tooltip">Burning for {[Type_StatusEffectData.AI_Thorpe_Burn.HealthModifierDamageBased * -100]}% base health Fire damage every {[Type_StatusEffectData.AI_Thorpe_Burn.TickRate]} seconds for {[Type_StatusEffectData.AI_Thorpe_Burn.BaseDuration]} seconds.</string>
 	<string key="AI_Thorpe_FTUE_Burn_DisplayName">Burn</string>
 	<string key="AI_Thorpe_FTUE_Burn_Tooltip">Burning for {[Type_StatusEffectData.AI_Thorpe_Burn.HealthModifierDamageBased * -100]}% base + {[Type_StatusEffectData.AI_Thorpe_Burn.HealthModifierPercent * -100]}% base health Fire damage every {[Type_StatusEffectData.AI_Thorpe_Burn.TickRate]} seconds for {[Type_StatusEffectData.AI_Thorpe_Burn.BaseDuration]} seconds.</string>
 	<string key="AI_Evil_Knight_Fire_Champion_HeatingUp" rel_version="Expedition_GreatCleave_01">Heating Up</string>
@@ -741,7 +733,7 @@
 	<string key="AI_Evil_Knight_Mine_Burn_DisplayName">Burning</string>
 	<string key="AI_Evil_Knight_Mine_Burn_Tooltip">Burning for {[Type_StatusEffectData.AI_Evil_Knight_Mine_Burn.HealthModifierPercent * -100]}% base Fire damage per stack every {[Type_StatusEffectData.AI_Evil_Knight_Mine_Burn.TickRate]} seconds for {[Type_StatusEffectData.AI_Evil_Knight_Mine_Burn.BaseDuration]} seconds.</string>
 	<string key="AI_Season_04_IceGuardian_AncientChill_DisplayName" rel_version="Season_4_Trial">Ancient Chill</string>
-	<string key="AI_Season_04_IceGuardian_AncientChill_Tooltip" rel_version="Season_4_Trial">Chilled to the bone by being the primary threat of the boss.  Stamina regeneration reduced by {[Type_StatusEffectData.AI_Season_04_IceGuardian_AncientChill.StaminaRate * -100]}% and incoming damage increased by {[Type_StatusEffectData.AI_Season_04_IceGuardian_AncientChill.WKNStandard * 100]}% per stack for {[Type_StatusEffectData.AI_Season_04_IceGuardian_AncientChill.BaseDuration]} seconds.</string>
+	<string key="AI_Season_04_IceGuardian_AncientChill_Tooltip" rel_version="Season_4_Trial">Chilled to the bone by being the primary threat of the boss.  Stamina regeneration reduced by {[Type_StatusEffectData.AI_Season_04_IceGuardian_AncientChill.StaminaRate * -100]}%, incoming damage increased by {[Type_StatusEffectData.AI_Season_04_IceGuardian_AncientChill.WKNStandard * 100]}%, and outgoing damage reduced by {[Type_StatusEffectData.AI_Season_04_IceGuardian_AncientChill.DMGStandard * 100]}%  per stack for {[Type_StatusEffectData.AI_Season_04_IceGuardian_AncientChill.BaseDuration]} seconds.</string>
 	<string key="AI_Season_04_IceGuardian_DeepFreeze_DisplayName" rel_version="Season_4_Trial">Deep Freeze</string>
 	<string key="AI_Season_04_IceGuardian_DeepFreeze_Tooltip" rel_version="Season_4_Trial">Lingering frost from the feezing wave.  Mana regeneration reduced by {[Type_StatusEffectData.AI_Season_04_IceGuardian_DeepFreeze.ManaRate * -100]}% for {[Type_StatusEffectData.AI_Season_04_IceGuardian_AncientChill.BaseDuration]} seconds.</string>
 	<string key="AI_Season_04_IceGuardian_Entomb_Root_DisplayName" rel_version="Season_4_Trial">Icy Tomb</string>
@@ -811,7 +803,7 @@
 	<string key="AI_DryadSiren_Erosion_Debuff_DisplayName" rel_version="Expedition_CutlassKeys_00">Erosion</string>
 	<string key="AI_DryadSiren_Erosion_Debuff_Tooltip" rel_version="Expedition_CutlassKeys_00">You suffer {[Type_StatusEffectData.AI_DryadSiren_Erosion_Debuff.ABSStandard * -100]}% increased damage from all sources for {[Type_StatusEffectData.AI_DryadSiren_Erosion_Debuff.BaseDuration]} seconds.</string>
 	<string key="AI_Disease_GraveDigger_DisplayName">Soul Siphon</string>
-	<string key="AI_Disease_GraveDigger_Tooltip">Deals {[StatusEffect.AI_Disease_GraveDigger.HealthModifierPercent * -100]}% base health damage and heals the Gravedigger for {[Type_StatusEffectData.Undead_GraveDigger_Siphon.HealthModifierPercent * 100]}% base health every {[Type_StatusEffectData.AI_Disease_GraveDigger.TickRate]} seconds.</string>
+	<string key="AI_Disease_GraveDigger_Tooltip">Deals {[Type_StatusEffectData.AI_Disease_GraveDigger.HealthModifierPercent * -100]}% base health damage and heals the Gravedigger for {[Type_StatusEffectData.Undead_GraveDigger_Siphon.HealthModifierPercent * 100]}% base health every {[Type_StatusEffectData.AI_Disease_GraveDigger.TickRate]} seconds.</string>
 	<string key="AI_Naga_AncientGuardian_Vuln_DisplayName">Arcane Rend</string>
 	<string key="AI_Naga_AncientGuardian_Vuln_Tooltip">You suffer {[Type_StatusEffectData.AI_Naga_AncientGuardian_Vuln.ABSArcane * -100]}% increased Arcane damage per stack for {[Type_StatusEffectData.AI_Naga_AncientGuardian_Vuln.BaseDuration]} seconds.</string>
 	<string key="AI_Naga_AncientGuardian_Bomb_StatusEffect_DisplayName">Arcane Explosion</string>
@@ -827,6 +819,8 @@
 	<string key="AI_Oro_Rend_Tooltip">You suffer {[Type_StatusEffectData.AI_Oro_Rend.ABSStandard * 100]}% increased damage from all physical sources for {[Type_StatusEffectData.AI_Oro_Rend.BaseDuration]} seconds.</string>
 	<string key="AI_Joven_Rend_DisplayName">Joven Rend</string>
 	<string key="AI_Joven_Rend_Tooltip">You suffer {[Type_StatusEffectData.AI_Joven_Rend.WKNCorruption * 100]}% increased void damage for {[Type_StatusEffectData.AI_Joven_Rend.BaseDuration]} seconds.</string>
+	<string key="AI_Isabella_Solo_Consume_Buff_DisplayName" rel_version="Quest_MSQ3_Shattered_V2">Empowered</string>
+	<string key="AI_Isabella_Solo_Root_DisplayName" rel_version="Quest_MSQ3_Shattered_V2">Rooted</string>
 	<string key="AI_Isabella_Phase2_TouchOfCorruption_DisplayName">Touch of Corruption</string>
 	<string key="AI_Isabella_Phase2_TouchOfCorruption_Tooltip">Movement speed reduced by {[Type_StatusEffectData.AI_Isabella_Phase2_TouchOfCorruption.MoveSpeedMod * -100]}% and you suffer Corruption Affliction every {[Type_StatusEffectData.AI_Isabella_Phase2_TouchOfCorruption.TickRate]} second for {[Type_StatusEffectData.AI_Isabella_Phase2_TouchOfCorruption.BaseDuration]} seconds.</string>
 	<string key="AI_Mage_Miniboss_Orbs_StatusEffect_DisplayName">Arcane Essence</string>
@@ -851,6 +845,8 @@
 	<string key="AI_DPTank_Empower_Unlimited_Tooltip" rel_version="Territory_Brimstone_Sands">Increased damage from specific types for {[Type_StatusEffectData.AI_DPTank_Empower_Unlimited.BaseDuration * 100]} seconds.</string>
 	<string key="AI_Empower_DisplayName" rel_version="Territory_Brimstone_Sands">Empower</string>
 	<string key="AI_Empower_Tooltip" rel_version="Territory_Brimstone_Sands">Increased damage from specific types for {[Type_StatusEffectData.AI_Empower.BaseDuration * 100]} seconds.</string>
+	<string key="DEBUG_DMGBuff_10_DisplayName">Debug Damage Buff</string>
+	<string key="DEBUG_DMGBuff_10_Description">Increases outgoing and decreases incoming damage by 10% per stack.</string>
 	<string key="AI_Fulgoris_Gas_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Blighted Gas</string>
 	<string key="AI_Fulgoris_Gas_Tooltip" rel_version="Quest_MSQ2_WeaversFen">Taking Damage and Blighted Effect</string>
 	<string key="AI_SandElementalHeavy_AoESlow_T2_DisplayName" rel_version="Territory_Brimstone_Sands">Snared</string>
@@ -880,7 +876,7 @@
 	<string key="AI_IceGolem_Slow_FrostBreath_DisplayName" rel_version="Expedition_GreatCleave_00">Slow</string>
 	<string key="AI_IceGolem_Slow_FrostBreath_Tooltip" rel_version="Expedition_GreatCleave_00">Movement speed reduced by {[Type_StatusEffectData.AI_IceGolem_Slow_FrostBreath.MoveSpeedMod * -100]}% for {[Type_StatusEffectData.AI_IceGolem_Slow_FrostBreath.BaseDuration]} seconds, stacking {[Type_StatusEffectData.AI_IceGolem_Slow_FrostBreath.StackMax]} times.</string>
 	<string key="AI_IceGolem_Hypothermia_DisplayName" rel_version="Expedition_GreatCleave_00">Hypothermia</string>
-	<string key="AI_IceGolem_Hypothermia_Tooltip" rel_version="Expedition_GreatCleave_00">Damaging {[Type_StatusEffectData.AI_IceGolem_Hypothermia.HealthModifierPercent * -100]}% base health Ice damage every {[Type_StatusEffectData.AI_IceGolem_Hypothermia.TickRate]} seconds for {[Type_StatusEffectData.AI_IceGolem_Hypothermia.BaseDuration]} seconds, stacking {[Type_StatusEffectData.AI_IceGolem_Hypothermia.StackMax]} times.</string>
+	<string key="AI_IceGolem_Hypothermia_Tooltip" rel_version="Expedition_GreatCleave_00">Damaging {[Type_StatusEffectData.AI_IceGolem_Hypothermia.HealthModifierPercent * -100]}% base health Ice damage every {[Type_StatusEffectData.AI_IceGolem_Hypothermia.TickRate]} seconds, stacking {[Type_StatusEffectData.AI_IceGolem_Hypothermia.StackMax]} times.</string>
 	<string key="AI_AncientGuardian_Bowman_Frosty_Rapid_Shot_DisplayName" rel_version="Season_4_Perm">Ice cloud</string>
 	<string key="AI_AncientGuardian_Bowman_Frosty_Rapid_Shot_Tooltip" rel_version="Season_4_Perm">Movement speed reduced by {[Type_StatusEffectData.AI_AncientGuardian_Bowman_Frosty_Rapid_Shot.MoveSpeedMod * -100]}%.</string>
 	<string key="AI_MotherwellElk_SE_Slow_DisplayName" rel_version="Quest_MSQ2_Edengrove">Slow</string>
@@ -910,7 +906,7 @@
 	<string key="Sandworm_Acid_Spew_DisplayName" rel_version="Trial_Brimstone_Sandworm">Acid Spew</string>
 	<string key="Sandworm_Acid_Spew_Tooltip" rel_version="Trial_Brimstone_Sandworm">Taking {[Type_StatusEffectData.Sandworm_Acid_Spew.HealthModifierPercent * -100]}% max health in Acid damage and suffer Acid Affliction every {[Type_StatusEffectData.Sandworm_Acid_Spew.TickRate]} seconds.</string>
 	<string key="AI_ArmoredDragon_Bleed_DisplayName" rel_version="Territory_FirstLight">Metal Breath Shards</string>
-	<string key="AI_ArmoredDragon_Bleed_Tooltip" rel_version="Territory_FirstLight">Bleeding for {[Type_StatusEffectData.AI_ArmoredDragon_Bleed.HealthModifierDamageBased * -100]}% base + {[Type_StatusEffectData.AI_ArmoredDragon_Bleed.HealthModifierPercent * -100]}% base health Physical damage every {[Type_StatusEffectData.AI_ArmoredDragon_Bleed.TickRate]} seconds for {[Type_StatusEffectData.AI_ArmoredDragon_Bleed.BaseDuration]} seconds.</string>
+	<string key="AI_ArmoredDragon_Bleed_Tooltip" rel_version="Territory_FirstLight">Bleeding for {[Type_StatusEffectData.AI_ArmoredDragon_Bleed.HealthModifierPercent * -100]}% base health Physical damage every {[Type_StatusEffectData.AI_ArmoredDragon_Bleed.TickRate]} seconds for {[Type_StatusEffectData.AI_ArmoredDragon_Bleed.BaseDuration]} seconds.</string>
 	<string key="Mammoth_Lightning_Shock_DisplayName" rel_version="Territory_FirstLight">Shock Blast</string>
 	<string key="Mammoth_Lightning_Shock_Tooltip" rel_version="Territory_FirstLight">Drains {[Type_StatusEffectData.Mammoth_Lightning_Shock.Stamina * -1]} stamina every {[Type_StatusEffectData.Mammoth_Lightning_Shock.TickRate]} seconds and reduces stamina regeneration by {[Type_StatusEffectData.Mammoth_Lightning_Shock.StaminaRate * -100]}% for {[Type_StatusEffectData.Mammoth_Lightning_Shock.BaseDuration]} seconds. Stacks {[Type_StatusEffectData.Mammoth_Lightning_Shock.StackMax]} times.</string>
 	<string key="AI_Gorilla_Boss_Attune_Fire_DisplayName" rel_version="Territory_FirstLight">Fire Node Attunement</string>
@@ -1347,46 +1343,45 @@
 	<string key="WeaponCoatingEffect_DisplayName">Weapon Coating</string>
 	<string key="WeaponCoatingEffect_Description">Weapon coating status on your active weapon.</string>
 	<string key="WeaponCoatingEffect_T2_Beasts_DisplayName">Common Beast Weapon Coating</string>
-	<string key="WeaponCoatingEffect_T2_Beasts_Description">While this weapon is active deal more {[ConsumableItemDefinitions.CoatingBeastT2.DMGVitalsCategory * 100]}% damage to Beasts.</string>
+	<string key="WeaponCoatingEffect_T2_Beasts_Description">While this weapon is active, deal {[ConsumableItemDefinitions.CoatingBeastT2.DMGVitalsCategory * 100]}% more damage to Beasts.</string>
 	<string key="WeaponCoatingEffect_T2_Ancient_DisplayName">Common Ancient Weapon Coating</string>
-	<string key="WeaponCoatingEffect_T2_Ancient_Description">While this weapon is active deal more {[ConsumableItemDefinitions.CoatingAncientT2.DMGVitalsCategory * 100]}% damage to Ancients.</string>
+	<string key="WeaponCoatingEffect_T2_Ancient_Description">While this weapon is active, deal {[ConsumableItemDefinitions.CoatingAncientT2.DMGVitalsCategory * 100]}% more damage to Ancients.</string>
 	<string key="WeaponCoatingEffect_T2_Lost_DisplayName">Common Lost Weapon Coating</string>
-	<string key="WeaponCoatingEffect_T2_Lost_Description">While this weapon is active deal more {[ConsumableItemDefinitions.CoatingLostT2.DMGVitalsCategory * 100]}% damage to Lost.</string>
+	<string key="WeaponCoatingEffect_T2_Lost_Description">While this weapon is active, deal {[ConsumableItemDefinitions.CoatingLostT2.DMGVitalsCategory * 100]}% more damage to Lost.</string>
 	<string key="WeaponCoatingEffect_T2_Corrupted_DisplayName">Common Corrupted Weapon Coating</string>
-	<string key="WeaponCoatingEffect_T2_Corrupted_Description">While this weapon is active deal more {[ConsumableItemDefinitions.CoatingCorruptedT2.DMGVitalsCategory * 100]}% damage to Corrupted.</string>
+	<string key="WeaponCoatingEffect_T2_Corrupted_Description">While this weapon is active, deal {[ConsumableItemDefinitions.CoatingCorruptedT2.DMGVitalsCategory * 100]}% more damage to Corrupted.</string>
 	<string key="WeaponCoatingEffect_T2_AngryEarth_DisplayName">Common Angry Earth Weapon Coating</string>
-	<string key="WeaponCoatingEffect_T2_AngryEarth_Description">While this weapon is active deal more {[ConsumableItemDefinitions.CoatingAngryEarthT2.DMGVitalsCategory * 100]}% damage to Angry Earth.</string>
+	<string key="WeaponCoatingEffect_T2_AngryEarth_Description">While this weapon is active, deal {[ConsumableItemDefinitions.CoatingAngryEarthT2.DMGVitalsCategory * 100]}% more damage to Angry Earth.</string>
 	<string key="WeaponCoatingEffect_T3_Beasts_DisplayName">Strong Beast Weapon Coating</string>
-	<string key="WeaponCoatingEffect_T3_Beasts_Description">While this weapon is active deal more {[ConsumableItemDefinitions.CoatingBeastT3.DMGVitalsCategory * 100]}% damage to Beasts.</string>
+	<string key="WeaponCoatingEffect_T3_Beasts_Description">While this weapon is active, deal {[ConsumableItemDefinitions.CoatingBeastT3.DMGVitalsCategory * 100]}% more damage to Beasts.</string>
 	<string key="WeaponCoatingEffect_T3_Ancient_DisplayName">Strong Ancient Weapon Coating</string>
-	<string key="WeaponCoatingEffect_T3_Ancient_Description">While this weapon is active deal more {[ConsumableItemDefinitions.CoatingAncientT3.DMGVitalsCategory * 100]}% damage to Ancients.</string>
+	<string key="WeaponCoatingEffect_T3_Ancient_Description">While this weapon is active, deal {[ConsumableItemDefinitions.CoatingAncientT3.DMGVitalsCategory * 100]}% more damage to Ancients.</string>
 	<string key="WeaponCoatingEffect_T3_Lost_DisplayName">Strong Lost Weapon Coating</string>
-	<string key="WeaponCoatingEffect_T3_Lost_Description">While this weapon is active deal more {[ConsumableItemDefinitions.CoatingLostT3.DMGVitalsCategory * 100]}% damage to Lost.</string>
+	<string key="WeaponCoatingEffect_T3_Lost_Description">While this weapon is active, deal {[ConsumableItemDefinitions.CoatingLostT3.DMGVitalsCategory * 100]}% more damage to Lost.</string>
 	<string key="WeaponCoatingEffect_T3_Corrupted_DisplayName">Strong Corrupted Weapon Coating</string>
-	<string key="WeaponCoatingEffect_T3_Corrupted_Description">While this weapon is active deal more {[ConsumableItemDefinitions.CoatingCorruptedT3.DMGVitalsCategory * 100]}% damage to Corrupted.</string>
+	<string key="WeaponCoatingEffect_T3_Corrupted_Description">While this weapon is active, deal {[ConsumableItemDefinitions.CoatingCorruptedT3.DMGVitalsCategory * 100]}% more damage to Corrupted.</string>
 	<string key="WeaponCoatingEffect_T3_AngryEarth_DisplayName">Strong Angry Earth Weapon Coating</string>
-	<string key="WeaponCoatingEffect_T3_AngryEarth_Description">While this weapon is active deal more {[ConsumableItemDefinitions.CoatingAngryEarthT3.DMGVitalsCategory * 100]}% damage to Angry Earth.</string>
+	<string key="WeaponCoatingEffect_T3_AngryEarth_Description">While this weapon is active, deal {[ConsumableItemDefinitions.CoatingAngryEarthT3.DMGVitalsCategory * 100]}% more damage to Angry Earth.</string>
 	<string key="WeaponCoatingEffect_T4_Beasts_DisplayName">Powerful Beast Weapon Coating</string>
-	<string key="WeaponCoatingEffect_T4_Beasts_Description">While this weapon is active deal more {[ConsumableItemDefinitions.CoatingBeastT4.DMGVitalsCategory * 100]}% damage to Beasts.</string>
+	<string key="WeaponCoatingEffect_T4_Beasts_Description">While this weapon is active, deal {[ConsumableItemDefinitions.CoatingBeastT4.DMGVitalsCategory * 100]}% more damage to Beasts.</string>
 	<string key="WeaponCoatingEffect_T4_Ancient_DisplayName">Powerful Ancient Weapon Coating</string>
-	<string key="WeaponCoatingEffect_T4_Ancient_Description">While this weapon is active deal more {[ConsumableItemDefinitions.CoatingAncientT4.DMGVitalsCategory * 100]}% damage to Ancients.</string>
+	<string key="WeaponCoatingEffect_T4_Ancient_Description">While this weapon is active, deal {[ConsumableItemDefinitions.CoatingAncientT4.DMGVitalsCategory * 100]}% more damage to Ancients.</string>
 	<string key="WeaponCoatingEffect_T4_Lost_DisplayName">Powerful Lost Weapon Coating</string>
-	<string key="WeaponCoatingEffect_T4_Lost_Description">While this weapon is active deal more {[ConsumableItemDefinitions.CoatingLostT4.DMGVitalsCategory * 100]}% damage to Lost.</string>
+	<string key="WeaponCoatingEffect_T4_Lost_Description">While this weapon is active, deal {[ConsumableItemDefinitions.CoatingLostT4.DMGVitalsCategory * 100]}% more damage to Lost.</string>
 	<string key="WeaponCoatingEffect_T4_Corrupted_DisplayName">Powerful Corrupted Weapon Coating</string>
-	<string key="WeaponCoatingEffect_T4_Corrupted_Description">While this weapon is active deal more {[ConsumableItemDefinitions.CoatingCorruptedT4.DMGVitalsCategory * 100]}% damage to Corrupted.</string>
+	<string key="WeaponCoatingEffect_T4_Corrupted_Description">While this weapon is active, deal {[ConsumableItemDefinitions.CoatingCorruptedT4.DMGVitalsCategory * 100]}% more damage to Corrupted.</string>
 	<string key="WeaponCoatingEffect_T4_AngryEarth_DisplayName">Powerful Angry Earth Weapon Coating</string>
-	<string key="WeaponCoatingEffect_T4_AngryEarth_Description">While this weapon is active deal more {[ConsumableItemDefinitions.CoatingAngryEarthT4.DMGVitalsCategory * 100]}% damage to Angry Earth.</string>
+	<string key="WeaponCoatingEffect_T4_AngryEarth_Description">While this weapon is active, deal {[ConsumableItemDefinitions.CoatingAngryEarthT4.DMGVitalsCategory * 100]}% more damage to Angry Earth.</string>
 	<string key="WeaponCoatingEffect_T5_Beasts_DisplayName">Infused Beast Weapon Coating</string>
-	<string key="WeaponCoatingEffect_T5_Beasts_Description">While this weapon is active deal more {[ConsumableItemDefinitions.CoatingBeastT5.DMGVitalsCategory * 100]}% damage to Beasts.</string>
+	<string key="WeaponCoatingEffect_T5_Beasts_Description">While this weapon is active, deal {[ConsumableItemDefinitions.CoatingBeastT5.DMGVitalsCategory * 100]}% more damage to Beasts.</string>
 	<string key="WeaponCoatingEffect_T5_Ancient_DisplayName">Infused Ancient Weapon Coating</string>
-	<string key="WeaponCoatingEffect_T5_Ancient_Description">While this weapon is active deal more {[ConsumableItemDefinitions.CoatingAncientT5.DMGVitalsCategory * 100]}% damage to Ancients.</string>
+	<string key="WeaponCoatingEffect_T5_Ancient_Description">While this weapon is active, deal {[ConsumableItemDefinitions.CoatingAncientT5.DMGVitalsCategory * 100]}% more damage to Ancients.</string>
 	<string key="WeaponCoatingEffect_T5_Lost_DisplayName">Infused Lost Weapon Coating</string>
-	<string key="WeaponCoatingEffect_T5_Lost_Description">While this weapon is active deal more {[ConsumableItemDefinitions.CoatingLostT5.DMGVitalsCategory * 100]}% damage to Lost.</string>
+	<string key="WeaponCoatingEffect_T5_Lost_Description">While this weapon is active, deal {[ConsumableItemDefinitions.CoatingLostT5.DMGVitalsCategory * 100]}% more damage to Lost.</string>
 	<string key="WeaponCoatingEffect_T5_Corrupted_DisplayName">Infused Corrupted Weapon Coating</string>
-	<string key="WeaponCoatingEffect_T5_Corrupted_Description">While this weapon is active deal more {[ConsumableItemDefinitions.CoatingCorruptedT5.DMGVitalsCategory * 100]}% damage to Corrupted.</string>
+	<string key="WeaponCoatingEffect_T5_Corrupted_Description">While this weapon is active, deal {[ConsumableItemDefinitions.CoatingCorruptedT5.DMGVitalsCategory * 100]}% more damage to Corrupted.</string>
 	<string key="WeaponCoatingEffect_T5_AngryEarth_DisplayName">Infused Angry Earth Weapon Coating</string>
-	<string key="WeaponCoatingEffect_T5_AngryEarth_Description">While this weapon is active deal more {[ConsumableItemDefinitions.CoatingAngryEarthT5.DMGVitalsCategory * 100]}% damage to Angry Earth.</string>
-	<string key="Season_01_Event_DamageBoostEffect_Description">The flame flows through you, increasing your damage against Brambleweaver Spriggan Enemies by {[Type_StatusEffectData.Season_01_Event_DamageBoostEffect.DMGVitalsCategory * 100]}%.</string>
+	<string key="WeaponCoatingEffect_T5_AngryEarth_Description">While this weapon is active, deal {[ConsumableItemDefinitions.CoatingAngryEarthT5.DMGVitalsCategory * 100]}% more damage to Angry Earth.</string>
 	<string key="Status_Spear_Skewer_Bleed_DisplayName">Skewer</string>
 	<string key="Status_Spear_Skewer_Bleed_Description">{[Type_StatusEffectData.Spear_Skewer_Bleed.HealthModifierDamageBased * -100]}% Bleed every {[Type_StatusEffectData.Spear_Skewer_Bleed.TickRate]} second for {[Type_StatusEffectData.Spear_Skewer_Bleed.BaseDuration]} seconds.</string>
 	<string key="Status_Spear_Skewer_Bleed_Upgrade_Description">{[Type_StatusEffectData.Spear_Skewer_Bleed_Upgrade.HealthModifierDamageBased * -100]}% Bleed every {[Type_StatusEffectData.Spear_Skewer_Bleed_Upgrade.TickRate]} second for {[Type_StatusEffectData.Spear_Skewer_Bleed_Upgrade.BaseDuration]} seconds.</string>
@@ -1598,6 +1593,8 @@
 	<string key="ATB_CritOnDodge_Description">When this timer ends you can use the guaranteed crit after dodge (Dexterity 300) attribute bonus again.</string>
 	<string key="ATB_DRAtFullHP_DisplayName">Damage Reduction at Full HP Timer</string>
 	<string key="ATB_DRAtFullHP_Description">When this timer ends you can use the damage reduction while at full HP (Constitution 250) attribute bonus again.</string>
+	<string key="ATB_DEX_300_1_Cooldown">DEX 300 - CC Cleanse</string>
+	<string key="ATB_DEX_300_1_Cooldown_Description">When this timer ends you can use the Dexterity 300 attribute bonus (Cleanse stun/roots on weapon swap) again.</string>
 	<string key="SickeningSlash_Disease_DisplayName">Disease</string>
 	<string key="SickeningSlash_Disease_Description">Healing efficiency is reduced by {[Type_StatusEffectData.Greatsword_DefenseBreak_Disease.HealMod * -100]}%.</string>
 	<string key="Status_Greatsword_Counter_DisplayName">Calamity Counter</string>
@@ -1761,12 +1758,11 @@
 	<string key="RoadTravel_SprintBoost_Description">Sprint Speed is increased by {[Type_StatusEffectData.Traversal_RoadSprintBoost_Haste.SprintSpeedMod * 100]}% while sprinting on roads</string>
 	<string key="OutOfCombat_PassiveRegen_Name">Peaceful Regen</string>
 	<string key="OutOfCombat_PassiveRegen_Description">Passive regeneration that grants healing over time, increased mana regen rate, and increases the effects of passive food healing while out of combat.</string>
-	<string key="Status_Weapon_DiseaseOnCrit_Description" rel_version="MorePerksV1">Incoming healing efficiency is reduced by {[Type_StatusEffectData.Status_Perk_Weapon_DiseaseOnCrit.HealMod * -100]}% and outgoing healing by {[Type_StatusEffectData.Status_Perk_Weapon_DiseaseOnCrit.HealScalingValueMultiplier * -100 * {perkMultiplier}]}%.</string>
-	<string key="Status_Weapon_DiseaseOnHeavy_Description" rel_version="MorePerksV1">Incoming healing efficiency is reduced by {[Type_StatusEffectData.Status_Perk_Weapon_DiseaseOnHeavy.HealMod * -100]}% and outgoing healing by {[Type_StatusEffectData.Status_Perk_Weapon_DiseaseOnHeavy.HealScalingValueMultiplier * -100 * {perkMultiplier}]}%.</string>
-	<string key="Status_Weapon_ChargedHeavyRend_Description" rel_version="MorePerksV1">Your armor is reduced by {[Type_StatusEffectData.Status_Perk_Weapon_ChargedHeavy_Rend.PhysicalArmor * -100]}%.</string>
+	<string key="Status_Weapon_DiseaseOnCrit_Description" rel_version="MorePerksV1">Incoming healing efficiency and outgoing healing are reduces while this is active.</string>
+	<string key="Status_Weapon_DiseaseOnHeavy_Description" rel_version="MorePerksV1">Incoming healing efficiency and outgoing healing are reduces while this is active.</string>
+	<string key="Status_Weapon_ChargedHeavyRend_Description" rel_version="MorePerksV1">Your armor is reduced while this is active.</string>
 	<string key="Status_Timer_ChargedHeavyRend_Description" rel_version="MorePerksV1">When this ends, you can trigger the Trenchant Rend perk again.</string>
 	<string key="Wispy_Wasp_Swarm_Tick_DisplayName">Bleeding</string>
-	<string key="Wispy_Wasp_Swarm_Tick_Tooltip">Bleeding for {[Type_StatusEffectData.Wispy_Wasp_Swarm_Tick.HealthModifierPercent * -100]}% base health Physical damage every {[Type_StatusEffectData.Wispy_Wasp_Swarm_Tick.TickRate]} seconds for {[Type_StatusEffectData.Wispy_Wasp_Swarm_Tick.BaseDuration]} seconds.</string>
 	<string key="Blunderbuss_ChargeCooldown_Name" rel_version="Weapon_Blunderbuss">Double Down</string>
 	<string key="Blunderbuss_ChargeCooldown_Desc" rel_version="Weapon_Blunderbuss">Your next blunderbuss skill has a shorter cooldown.</string>
 	<string key="Blunderbuss_ChargeCooldownOnCooldown_Desc" rel_version="Weapon_Blunderbuss">When this expires you can use your Double Down passive again.</string>
@@ -1866,7 +1862,7 @@
 	<string key="MusicBuff_GatheringXP_Amazing_DisplayName" rel_version="Feature_MusicalPerformances">Never Stop Learning IV</string>
 	<string key="MusicBuff_GatheringXP_Amazing_Description" rel_version="Feature_MusicalPerformances">Mining, Logging, Skinning and Harvesting XP Gain increased by {[Type_StatusEffectData.MusicBuff_GatheringXP_T4_Amazing.XPIncreasesTooltip * 100]}% for {[Type_StatusEffectData.MusicBuff_GatheringXP_T4_Amazing.BaseDuration / 60]} minutes.</string>
 	<string key="MusicBuff_GatheringXP_Great_DisplayName" rel_version="Feature_MusicalPerformances">Never Stop Learning III</string>
-	<string key="MusicBuff_GatheringXP_Great_Description" rel_version="Feature_MusicalPerformances">Mining, Logging, Skinning and Harvesting XP Gain increased by {[Type_StatusEffectData.MusicBuff_GatheringXP_T3_Good.XPIncreasesTooltip * 100]}% for {[Type_StatusEffectData.MusicBuff_GatheringXP_T3_Good.BaseDuration / 60]} minutes.</string>
+	<string key="MusicBuff_GatheringXP_Great_Description" rel_version="Feature_MusicalPerformances">Mining, Logging, Skinning and Harvesting XP Gain increased by {[Type_StatusEffectData.MusicBuff_GatheringXP_T3_Great.XPIncreasesTooltip * 100]}% for {[Type_StatusEffectData.MusicBuff_GatheringXP_T3_Great.BaseDuration / 60]} minutes.</string>
 	<string key="MusicBuff_GatheringXP_Okay_DisplayName" rel_version="Feature_MusicalPerformances">Never Stop Learning II</string>
 	<string key="MusicBuff_GatheringXP_Okay_Description" rel_version="Feature_MusicalPerformances">Mining, Logging, Skinning and Harvesting XP Gain increased by {[Type_StatusEffectData.MusicBuff_GatheringXP_T2_Okay.XPIncreasesTooltip * 100]}% for {[Type_StatusEffectData.MusicBuff_GatheringXP_T2_Okay.BaseDuration / 60]} minutes.</string>
 	<string key="MusicBuff_GatheringXP_Bad_DisplayName" rel_version="Feature_MusicalPerformances">Never Stop Learning I</string>
@@ -2052,6 +2048,13 @@
 	<string key="AI_CorruptedLeviathan_IchorCoating_Tooltip" rel_version="Quest_MSQ2_GreatCleave">Take {[Type_StatusEffectData.AI_CorruptedLeviathan_IchorCoating.WKNCorruption * 100]}% more corruption damage for {[Type_StatusEffectData.AI_CorruptedLeviathan_IchorCoating.BaseDuration]} seconds.</string>
 	<string key="PotionTurkeyLuckT5Status_MasterName" rel_version="Event_TurkeyTerror2023_Perm">Turkey Luck</string>
 	<string key="PotionTurkeyLuckT5Status_Description" rel_version="Event_TurkeyTerror2023_Perm">The blessing of the Turkey is upon you. You have better odds for rewards when slaying Turkulon.</string>
+	<string key="AI_AbominableLiang_ProtectiveTalisman_DisplayName" rel_version="Quest_MSQ3_Ebonscale">Protective Talismans</string>
+	<string key="AI_AbominableLiang_ProtectiveTalisman_Tooltip" rel_version="Quest_MSQ3_Ebonscale">Take 33% less damage from Prince Zhou Liang's Nightmare Howl per stack. Use heavy attacks to transfer Talismans to Liang and immobilize him.</string>
+	<string key="AI_AbominableLiang_TalismanBarrier_DisplayName" rel_version="Quest_MSQ3_Ebonscale">Talisman Barrier</string>
+	<string key="AI_AbominableLiang_TalismanBarrier_Tooltip" rel_version="Quest_MSQ3_Ebonscale">Enough applications of these powerful protective talismans will prevent Prince Zhou Liang from lashing out.</string>
+	<string key="AI_AbominableLiang_Cowering_DisplayName" rel_version="Quest_MSQ3_Ebonscale">Cowering</string>
+	<string key="AI_AbominableLiang_Angered_DisplayName" rel_version="Quest_MSQ3_Ebonscale">Angered</string>
+	<string key="AI_AbominableLiang_Cornered_DisplayName" rel_version="Quest_MSQ3_Ebonscale">Cornered</string>
 	<string key="Mammoth_Chain_Lightning_DisplayName" rel_version="Territory_FirstLight">Electrocuted</string>
 	<string key="Mammoth_Chain_Lightning_Tooltip" rel_version="Territory_FirstLight">Shocks 1 ally within range every second for {[Type_StatusEffectData.Mammoth_Lightning_Empowered_Debuff_Tick.BaseDuration]} seconds.</string>
 	<string key="SE_MeshChange_Adiana_Description" rel_version="Event_Halloween2023_Perm">Visit Treat Baskets while wearing this costume for candy.</string>
@@ -2063,10 +2066,17 @@
 	<string key="SE_MeshChange_Lost_Monarch_Description" rel_version="Event_Halloween2023_Perm">Visit Treat Baskets while wearing this costume for candy.</string>
 	<string key="SE_MeshChange_Lost_Monarch_MasterName" rel_version="Event_Halloween2023_Perm">Lost Monarch Costume</string>
 	<string key="Dungeon_CrossWorldPugGroup_DisplayName" rel_version="Feature_PUG_Finder">New Found Friends</string>
-	<string key="Dungeon_CrossWorldPugGroup_Description" rel_version="Feature_PUG_Finder">PvE groups created by Cross World matchmaking gain\n\n+15% Health\n+15% Damage\n+15% Healing</string>
+	<string key="Dungeon_CrossWorldPugGroup_Description" rel_version="Feature_PUG_Finder">PvE groups created by Cross World matchmaking gain:\n\n+{[Type_StatusEffectData.Dungeon_CrossWorldPugGroup.MaxHealthMod *100]}% Health\n+{[Type_StatusEffectData.Dungeon_CrossWorldPugGroup.DMGStandard *100]}% Damage\n+{[Type_StatusEffectData.Dungeon_CrossWorldPugGroup.HealScalingValueMultiplier *100]}% Outgoing Healing</string>
 	<string key="Mammoth_Boss_IceStorm_Slow_Tooltip" rel_version="Territory_FirstLight">Movement speed reduced by {[Type_StatusEffectData.Mammoth_Boss_IceStorm_Slow.SprintSpeedMod * -100]}% per stack.</string>
 	<string key="Mammoth_Boss_IceStorm_Slow_DisplayName" rel_version="Territory_FirstLight">Slowed</string>
 	<string key="Chameleon_Sticky_Slow_6sec_DisplayName" rel_version="Territory_FirstLight">Sticky</string>
 	<string key="Chameleon_Sticky_Slow_6sec_Tooltip" rel_version="Territory_FirstLight">Movement speed reduced by {[Type_StatusEffectData.Chameleon_Sticky_Slow_6sec.MoveSpeedMod * -100]}% for {[Type_StatusEffectData.Chameleon_Sticky_Slow_6sec.BaseDuration]} seconds.</string>
+	<string key="Status_Artifact_Set2_AmuletTimer_Desc">When this expires Phoenix can trigger again.</string>
+	<string key="Status_Immunity_Name">Immunity</string>
+	<string key="Status_Immunity_Desc">You can not be killed while this status effect is active.</string>
+	<string key="Status_Phoenix_Name">Phoenix Invulnerability</string>
+	<string key="Status_Phoenix_Desc">You can not be killed while this status effect is active.</string>
+	<string key="Status_Phoenix_Burn_Name">Phoenix Vengeance</string>
+	<string key="Status_Phoenix_Burn_Desc">Phoenix Vegeance will claim your life if you do not get a kill.</string>
 </resources>
 

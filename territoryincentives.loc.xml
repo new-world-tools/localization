@@ -12,7 +12,7 @@
 	<string key="ui_eow_others_faction_benefits">Faction Member Bonuses</string>
 	<string key="ui_eow_company_fast_travel_title">Discount for Fast Travel</string>
 	<string key="ui_eow_company_fast_travel_subtitle">to {territoryName}</string>
-	<string key="ui_eow_company_tax_title">Discount for Taxes</string>
+	<string key="ui_eow_company_tax_title">Discount for Fees</string>
 	<string key="ui_eow_company_tax_subtitle">in {territoryName}</string>
 	<string key="ui_eow_company_house_title">Discount on Houses</string>
 	<string key="ui_eow_company_house_subtitle">in {territoryName}</string>
