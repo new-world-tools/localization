@@ -101,6 +101,7 @@
 	<string key="ui_groupinvitetimedouterrormessage" comment="">{playerName}&apos;s group invite timed out.</string>
 	<string key="ui_groupinvitetimedoutraid" comment="">Group invite timed out.</string>
 	<string key="ui_invitetogroup" comment="">Invite to Group</string>
+	<string key="ui_invitenolongervalid" comment="">Invite no longer valid</string>
 	<string key="ui_votekick" comment="">Vote to Kick</string>
 	<string key="ui_votekick_tooltip" comment="">Start a vote to kick this player from your group.\nYou can only start a vote once every {cooldown}.</string>
 	<string key="ui_votekick_disabled_inevent" comment="">You cannot vote to kick during this event.</string>
