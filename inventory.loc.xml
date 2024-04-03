@@ -68,28 +68,28 @@
 	<string key="inv_equipLoadSlow">Heavy</string>
 	<string key="inv_equipLoadOverburdened">Over-Equipped</string>
 	<string key="inv_equipLoadTooltip">The combined weight of your equipped armor and shield determines your equip load. Each equip load offers a unique dodge and other effects.</string>
-	<string key="inv_equipLoadFastTooltip">• Base Damage: +{[Type_EncumbranceData.Player.EquipLoadDamageMultFast * 100]}%
+	<string key="inv_equipLoadFastTooltip">• Base Damage: +{[0.150000 * 100]}%
 	\n• Outgoing Healing: +30%
 	\n• Block Stability: -15%
 	\n• Incoming Crowd Control Duration: +10%
 	\n• Your dodge is a quick roll. 
-	\n• Dodge Stamina Cost: {[StaminaCosts_Player.Dodge_Roll_Fast.StaminaCost]}
-	\n• For {[StatusEffects_Common.Sprint_Delay_Combat_Timer_Light.BaseDuration]}s after taking a melee hit, dodge distance is reduced by 20% and you cannot run.
-	\n• [PvP] Crit Damage Taken: -{[GlobalAbilityTable.EquipLoad_CritDmgReduction_Light.CritDamageReduction * 100]}%	
+	\n• Dodge Stamina Cost: {[50.000000]}
+	\n• For {[1.000000]}s after taking a melee hit, dodge distance is reduced by 20% and you cannot run.
+	\n• [PvP] Crit Damage Taken: -{[0.150000 * 100]}%	
 	</string>
 	<string key="inv_equipLoadNormalTooltip">• Your dodge is a quick hop.
-	\n• Dodge Stamina Cost: {[StaminaCosts_Player.Dodge_Roll.StaminaCost]}
-	\n• For {[StatusEffects_Common.Sprint_Delay_Combat_Timer_Medium.BaseDuration]}s after taking a melee hit, dodge distance is reduced by 20% and you cannot run.
-	\n• [PvP] Crit Damage Taken: -{[GlobalAbilityTable.EquipLoad_CritDmgReduction_Medium.CritDamageReduction * 100]}%
+	\n• Dodge Stamina Cost: {[50.000000]}
+	\n• For {[0.750000]}s after taking a melee hit, dodge distance is reduced by 20% and you cannot run.
+	\n• [PvP] Crit Damage Taken: -{[0.200000 * 100]}%
 	</string>
-	<string key="inv_equipLoadSlowTooltip">• Base Damage: -{[Type_EncumbranceData.Player.EquipLoadDamageMultSlow * -100]}% 
+	<string key="inv_equipLoadSlowTooltip">• Base Damage: -{[-0.150000 * -100]}% 
 	\n• Outgoing Healing: -30%
 	\n• Block Stability: +15%
 	\n• Incoming Crowd Control Duration: -20%
 	\n• Your dodge is a directional step. 
-	\n• Dodge Stamina Cost: {[StaminaCosts_Player.Dodge_Roll_Slow.StaminaCost]}
-	\n• For {[StatusEffects_Common.Sprint_Delay_Combat_Timer_Heavy.BaseDuration]}s after taking a melee hit, you cannot run.
-	\n• [PvP] Crit Damage Taken: -{[GlobalAbilityTable.EquipLoad_CritDmgReduction_Heavy.CritDamageReduction * 100]}%
+	\n• Dodge Stamina Cost: {[55.000000]}
+	\n• For {[0.500000]}s after taking a melee hit, you cannot run.
+	\n• [PvP] Crit Damage Taken: -{[0.250000 * 100]}%
 	</string>
 	<string key="inv_equipLoadOverburdenedTooltip">When you exceed your maximum Equip Load, you cannot dodge, run, or use abilities. You should unequip some items.</string>
 	<string key="inv_equipLoadEncumberedTooltip">If the inventory weight limit is exceeded, you are encumbered, which restricts your movement and actions. You also lose more stamina while blocking.</string>

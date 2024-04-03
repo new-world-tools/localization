@@ -143,12 +143,12 @@
 	<string key="ui_affliction_bleeding_tooltip">If you run out of wound resistance, you will become wounded and regain stamina at a much lower rate.</string>
 	<string key="ui_affliction_burn">burn resistance</string>
 	<string key="ui_affliction_curse">corruption resistance</string>
-	<string key="ui_affliction_curse_tooltip">If you run out of corruption resistance, you will become corrupted and take damage equal to {[Type_StatusEffectData.Curse.HealthModifierPercent * -100]}% base health instantly.</string>
+	<string key="ui_affliction_curse_tooltip">If you run out of corruption resistance, you will become corrupted and take damage equal to {[-0.150000 * -100]}% base health instantly.</string>
 	<string key="ui_affliction_disease">disease resistance</string>
 	<string key="ui_affliction_disease_tooltip">Test1</string>
 	<string key="ui_affliction_drunk">drunk resistance</string>
 	<string key="ui_affliction_frostbite">frostbite resistance</string>
-	<string key="ui_affliction_frostbite_tooltip">If you run out of frostbite resistance, you will become frostbitten and be unable to run or dodge for {[Afflictions.AfflictionFrostBite.AfflictedDrainTime]} seconds.</string>
+	<string key="ui_affliction_frostbite_tooltip">If you run out of frostbite resistance, you will become frostbitten and be unable to run or dodge for {[10.000000]} seconds.</string>
 	<string key="ui_affliction_injury">injury resistance</string>
 	<string key="ui_affliction_insane">insanity resistance</string>
 	<string key="ui_affliction_inspired">inspire</string>
@@ -162,7 +162,7 @@
 	<string key="ui_affliction_spores_tooltip">If you run out of spores resistance, you will become spore drenched and take 25% increased damage from all sources.</string>
 	<string key="ui_affliction_spores">spores resistance</string>
 	<string key="ui_affliction_blight">blight resistance</string>
-	<string key="ui_affliction_blight_tooltip">If you run out of blight resistance, you will become blighted and deal {[Type_StatusEffectData.Blight.DMGStandard * 100]}% reduced damage, take {[Type_StatusEffectData.Blight.HealMod * 100]}% reduced healing, and lose {[Type_StatusEffectData.Blight.HealthModifierPercent * -100]}% of your base health every {[Type_StatusEffectData.Blight.TickRate]} seconds for {[Afflictions.AfflictionBlight.AfflictedDrainTime]} seconds.</string>
+	<string key="ui_affliction_blight_tooltip">If you run out of blight resistance, you will become blighted and deal {[-0.500000 * 100]}% reduced damage, take {[-0.750000 * 100]}% reduced healing, and lose {[-0.013900 * -100]}% of your base health every {[2.500000]} seconds for {[180.000000]} seconds.</string>
 	<string key="ui_affliction_mutcurse3" rel_version="Feature_Dungeon_Mutators">combustible resistance</string>
 	<string key="ui_affliction_mutcurse3_tooltip" rel_version="Feature_Dungeon_Mutators">At the end of this timer, the player with the lowest health is afflicted with Combustible.</string>
 	<string key="ui_affliction_mutcurse4" rel_version="Feature_Dungeon_Mutators">blowback resistance</string>
@@ -173,7 +173,7 @@
 	<string key="ui_afflicted_bleeding_tooltip">While wounded, you regain stamina at a much lower rate.</string>
 	<string key="ui_afflicted_burn">burning</string>
 	<string key="ui_afflicted_curse">corrupted</string>
-	<string key="ui_afflicted_curse_tooltip">While corrupted, you lose {[Type_StatusEffectData.Curse.HealthModifierPercent * 100]}% base health instantly.</string>
+	<string key="ui_afflicted_curse_tooltip">While corrupted, you lose {[-0.150000 * 100]}% base health instantly.</string>
 	<string key="ui_afflicted_disease">diseased</string>
 	<string key="ui_afflicted_disease_tooltip">Test2</string>
 	<string key="ui_afflicted_drunk">drunk</string>
@@ -192,7 +192,7 @@
 	<string key="ui_afflicted_spores">spore drenched</string>
 	<string key="ui_afflicted_spores_tooltip">While spore drenched, you take 25% increased damage from all sources.</string>
 	<string key="ui_afflicted_blight">blighted</string>
-	<string key="ui_afflicted_blight_tooltip">While blighted, you deal {[Type_StatusEffectData.Blight.DMGStandard * 100]}% reduced damage, take {[Type_StatusEffectData.Blight.HealMod * 100]}% reduced healing, and lose {[Type_StatusEffectData.Blight.HealthModifierPercent * 100]}% of your base health every {[Type_StatusEffectData.Blight.TickRate]} seconds.</string>
+	<string key="ui_afflicted_blight_tooltip">While blighted, you deal {[-0.500000 * 100]}% reduced damage, take {[-0.750000 * 100]}% reduced healing, and lose {[-0.013900 * 100]}% of your base health every {[2.500000]} seconds.</string>
 	<string key="ui_afflicted_mutcurse3" rel_version="Feature_Dungeon_Mutators">combustion</string>
 	<string key="ui_afflicted_mutcurse3_tooltip" rel_version="Feature_Dungeon_Mutators">When this timer expires, the player with the lowest percent health becomes Combustible.</string>
 	<string key="ui_afflicted_mutcurse4" rel_version="Feature_Dungeon_Mutators">cursed</string>
