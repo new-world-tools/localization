@@ -567,6 +567,9 @@
 	<string key="ui_Emote_LolNo_name" rel_version="Entitlements_Reaper">LOL! No.</string>
 	<string key="ui_Emote_LolNo_description" rel_version="Entitlements_Reaper">When something's so wrong you can't help but laugh.</string>
 	<string key="Emote_LolNo" rel_version="Entitlements_Reaper">{playerName} bursts out laughing, then deadpans a clear "no".</string>
+	<string key="ui_Emote_BopDance_description" rel_version="Event_SpringtideBloomPerm2024">Dance like you mean it!</string>
+	<string key="ui_Emote_BopDance_name" rel_version="Event_SpringtideBloomPerm2024">Bop Dance</string>
+	<string key="Emote_BopDance" rel_version="Event_SpringtideBloomPerm2024">{playerName} dances like there's no tomorrow.</string>
 	<string key="ui_Emote_Shadowbox_description" rel_version="Season_5_Perm">Someone said knock you out!</string>
 	<string key="ui_Emote_Shadowbox_name" rel_version="Season_5_Perm">Shadowbox</string>
 	<string key="Emote_Shadowbox" rel_version="Season_5_Perm">{playerName} punches at an invisible target.</string>
