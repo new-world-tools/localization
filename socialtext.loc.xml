@@ -448,6 +448,46 @@
 	<string key="group_member_cannot_join_expedition">{playerName} is not eligible to enter this Expedition</string>
 	<string key="self_cannot_join_expedition">Cannot Join Expedition</string>
 	<string key="required_level_warning">Requires Level {level}</string>
+	<string rel_version="Feature_Shards" key="social_phasing_group_invite_change_shards_title">Join Shard?</string>
+	<string rel_version="Feature_Shards" key="social_phasing_group_invite_change_shards_message">Do you want to join your groupmate {playerName}'s shard?</string>
+	<string rel_version="Feature_Shards" key="ui_shards">Shards</string>
+	<string rel_version="Feature_Shards" key="social_phasing_invite_player_to_shard_pfh">Invite To Shard</string>
+	<string rel_version="Feature_Shards" key="social_phasing_join_shard_pfh">Join Shard</string>
+	<string rel_version="Feature_Shards" key="social_phasing_join_shard_popup">Would you like to leave your current shard and join {playerName}'s shard?</string>
+	<string rel_version="Feature_Shards" key="social_phasing_player_invited_to_shard">{playerName} has been invited to your shard.</string>
+	<string rel_version="Feature_Shards" key="social_phasing_receive_invite_to_shard">{playerName} has invited you to join their shard.</string>
+	<string rel_version="Feature_Shards" key="social_phasing_receive_invite_to_shard_title">Shard invite</string>
+	<string rel_version="Feature_Shards" key="social_phasing_invite_failed">Invite to shard failed. Please try again.</string>
+	<string rel_version="Feature_Shards" key="social_phasing_invite_eligibility_failed">You can't change shards at the moment.</string>
+	<string rel_version="Feature_Shards" key="social_phasing_invite_unknown_error">An unknown error has occured.</string>
+	<string rel_version="Feature_Shards" key="social_phasing_invite_canceled">Invite to shard cancelled.</string>
+	<string rel_version="Feature_Shards" key="social_phasing_invite_player_blocked">Player is blocked, invite to shard failed.</string>
+	<string rel_version="Feature_Shards" key="social_phasing_invite_player_declined">Invite to shard declined.</string>
+	<string rel_version="Feature_Shards" key="social_phasing_invite_fast_travel_failed">Invite to shard failed due to fast travel in progress.</string>
+	<string rel_version="Feature_Shards" key="social_phasing_invite_message_throttled">Invite to shard message throttled. Please try again.</string>
+	<string rel_version="Feature_Shards" key="social_phasing_invite_recipient_pvp_flagged">Player is flagged for PvP and cannot change shards.</string>
+	<string rel_version="Feature_Shards" key="social_phasing_not_currently_in_a_shard">You are currently not in a sharded area.</string>
+	<string rel_version="Feature_Shards" key="social_phasing_remote_player_not_in_shard">This character is not in a shard you can join.</string>
+	<string rel_version="Feature_Shards" key="social_phasing_in_same_shard">You are already in the same shard as this character.</string>
+	<string rel_version="Feature_Shards" key="social_phasing_is_pvp_flagged">You cannot change shards while PvP flagged or in combat.</string>
+	<string rel_version="Feature_Shards" key="social_phasing_invite_character_success">Invite to shard accepted.</string>
+	<string rel_version="Feature_Shards" key="social_phasing_join_character_phase_success">You have successfully join new shard.</string>
+	<string rel_version="Feature_Shards" key="social_phasing_join_character_phase_full">You cannot join this shard because it is full.</string>
+	<string rel_version="Feature_Shards" key="social_phasing_join_character_phase_failed">Unable to join shard at this time. Please try again later.</string>
+	<string rel_version="Feature_Shards" key="social_phasing_sector_inaccessible">You cannot access this area at this time. Please try again later.</string>
+	<string rel_version="Feature_Shards" key="social_phasing_sector_inaccessible_pvp">This area may be full for PvP flagged players. Try disabling your PvP flag.</string>
+	<string rel_version="Feature_Shards" key="social_phasing_unable_duel_tooltip">You cannot duel a player in a different shard than you.</string>
+	<string rel_version="Feature_Shards" key="social_phasing_unable_join_phase_in_duel">You cannot join another player's shard while in a duel.</string>
+	<string rel_version="Feature_Shards" key="social_phasing_unable_join_phase_in_performance">You cannot join another player's shard while in a musical performance.</string>
+	<string rel_version="Feature_Shards" key="social_phasing_unable_join_phase_condemned">The shard is not available to join because it is shutting down.</string>
+	<string rel_version="Feature_Shards" key="social_phasing_unable_trade_tooltip">You cannot start a trade with a player in a different shard than you.</string>
+	<string rel_version="Feature_Shards" key="social_phasing_unable_music_tooltip">You cannot start a musical performance with a player in a different shard than you.</string>
+	<string rel_version="Feature_Shards" key="social_phasing_area_chat_limited">Area and Voice chat are limited to those in the same shard as you.</string>
+	<string rel_version="Feature_Shards" key="social_phasing_phase_condemned_message">Your current shard will be shut down in {timeUntilDestruct} minutes.</string>
+	<string rel_version="Feature_Shards" key="social_phasing_failed_to_pvp_flag">Pvp enabled shard is full, please try again later.</string>
+	<string rel_version="Feature_Shards" key="social_phasing_pvp_flag_warning_title">Not in PvP enabled shard</string>
+	<string rel_version="Feature_Shards" key="social_phasing_pvp_flag_warning_message">You are not in a PvP enabled shard. Would you like to flag for PvP and move to a PvP enabled shard?</string>
+	<string rel_version="Feature_Shards" key="social_phasing_on_join_character_cooldown">On cooldown. You can join another character's shard in {cooldownTime} seconds.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_findtabtitle">View Lobbies</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_managetabtitle">My Lobby</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_creategroup">Create Lobby</string>

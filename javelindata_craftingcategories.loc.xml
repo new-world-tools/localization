@@ -1414,7 +1414,7 @@
 	<string key="MoonstoneCut_GroupName">Cut Moonstone</string>
 	<string key="Mounts_GroupName" rel_version="Feature_Mounts">Mounts</string>
 	<string key="MusketA_GroupDesc">A ranged weapon that fires high-damage cartridges. Ideal for keeping targets at a distance with a high payoff for precision.\n\n•Standard Attack: Deals {[1.000000 * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage.</string>
-	<string key="Blunderbuss_GroupDesc" rel_version="Weapon_Blunderbuss">A close quarters ranged weapon that fires 6 pellets in a single blast. Ideal for keeping pressure on melee targets and getting up close and personal with ranged targets.\n\n•Standard Attack: Deals {[0.210000 * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage per pellet. ({[1.260000 * 100]}% total of all 6 pellets)</string>
+	<string key="Blunderbuss_GroupDesc" rel_version="Weapon_Blunderbuss">A close quarters ranged weapon that fires 6 pellets in a single blast. Ideal for keeping pressure on melee targets and getting up close and personal with ranged targets.\n\n•Standard Attack: Deals {[0.190000 * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage per pellet. ({[1.140000 * 100]}% total of all 6 pellets)</string>
 	<string key="MusketA_GroupName">Musket</string>
 	<string key="Muskets_GroupName">Muskets</string>
 	<string key="nut_GroupName">Nut</string>

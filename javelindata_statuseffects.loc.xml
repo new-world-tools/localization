@@ -1517,7 +1517,7 @@
 	<string key="Status_Passive_Bow_Skirmish_HasteOnSwap_Timer_description">When this ends you can gain Archer's Speed again.</string>
 	<string key="Status_Bow_Poison_description">{[-0.200000 * -100]}% weapon damage each second.</string>
 	<string key="Status_Bow_Poison_Upgrade_description">{[-0.240000 * 100]}% weapon damage each second.</string>
-	<string key="Status_Passive_RainofArrows_Bleed_description">Deals {[-0.150000 * -100]}% of attacker's weapon damage each second.</string>
+	<string key="Status_Passive_RainofArrows_Bleed_description">Deals {[-0.090000 * -100]}% of attacker's weapon damage each second.</string>
 	<string key="Status_Ultimate_Greataxe_Mauler">Mauler's Fury</string>
 	<string key="Status_Ultimate_Greataxe_Mauler_description">Your damage is increased by {[0.030000 * 100]}%.</string>
 	<string key="Status_Ultimate_Greataxe_Reaper">Blood Lust</string>
@@ -1642,7 +1642,7 @@
 	<string key="Status_Upgrade_Sword_Rush_Slow_description">Your movement speed reduced by {[-0.300000 * 100]}%.</string>
 	<string key="Status_Ability_Sword_FinalStand_description">Incoming damage is reduced by {[0.300000 * 100]}%.</string>
 	<string key="Status_Ability_Sword_FinalStand_Armor_description">Incoming damage is reduced by {[0.300000 * 100]}%.</string>
-	<string key="Status_Ability_Sword_FinalStand_Heal_description">Incoming damage is reduced by {[0.300000 * 100]}%. When this ends heal for {[0.150000 * 100]}% of max health.</string>
+	<string key="Status_Ability_Sword_FinalStand_Heal_description">Incoming damage is reduced by {[0.300000 * 100]}%. When this ends heal for {[0.000000 * 100]}% of max health.</string>
 	<string key="Status_Ultimate_Sword_Defender_description">Incoming damage is reduced by {[0.300000 * 100]}%</string>
 	<string key="Status_Ultimate_Sword_Defender_Timer_description">When this ends you can use Defensive Formation again.</string>
 	<string key="Status_Ability_Lifestaff_OrbofProtection_description">Your armor is increased by {[0.200000 * 100]}%.</string>

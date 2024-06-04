@@ -567,6 +567,11 @@
 	<string key="ui_Emote_LolNo_name" rel_version="Entitlements_Reaper">LOL! No.</string>
 	<string key="ui_Emote_LolNo_description" rel_version="Entitlements_Reaper">When something's so wrong you can't help but laugh.</string>
 	<string key="Emote_LolNo" rel_version="Entitlements_Reaper">{playerName} bursts out laughing, then deadpans a clear "no".</string>
+	<string key="ui_Emote_RabbitPet_description" rel_version="Event_RabbitSeasonPerm2024">Corrupted Stanley is upset. And when Corrupted Stanley is upset, people die!</string>
+	<string key="ui_Emote_RabbitPet_name" rel_version="Event_RabbitSeasonPerm2024">Pet Rabbit</string>
+	<string key="Emote_RabbitPet" rel_version="Event_RabbitSeasonPerm2024">{playerName} menacingly pets their rabbit.</string>
+	<string key="Emote_RabbitPet_SHE" rel_version="Event_RabbitSeasonPerm2024">{playerName} menacingly pets their rabbit.</string>
+	<string key="Emote_RabbitPet_THEY" rel_version="Event_RabbitSeasonPerm2024">{playerName} menacingly pets their rabbit.</string>
 	<string key="ui_Emote_BopDance_description" rel_version="Event_SpringtideBloomPerm2024">Dance like you mean it!</string>
 	<string key="ui_Emote_BopDance_name" rel_version="Event_SpringtideBloomPerm2024">Bop Dance</string>
 	<string key="Emote_BopDance" rel_version="Event_SpringtideBloomPerm2024">{playerName} dances like there's no tomorrow.</string>

@@ -1124,7 +1124,7 @@
 	<string key="PerkID_Ability_Hatchet_FeralRush_Name">Crippling Feral Rush</string>
 	<string key="PerkID_Ability_Hatchet_FeralRush_Description">When Feral Rush hits, cause a {[-0.100000 * -100 * {perkMultiplier}]}% slow for {[3.000000]}s and does +{[0.050000 * 100 * {perkMultiplier}]}% more damage.</string>
 	<string key="PerkID_Ability_Hatchet_Berserk_Name">Keen Berserk</string>
-	<string key="PerkID_Ability_Hatchet_Berserk_Description">+{[0.100000 * 100 * {perkMultiplier}]}% critical chance and +{[0.050000 * 100 * {perkMultiplier}]}% more damage while below {[50.000000]}% Health and while berserk is active.</string>
+	<string key="PerkID_Ability_Hatchet_Berserk_Description">Gain {[0.050000 * 100 * {perkMultiplier}]}% critical chance and +{[0.050000 * 100 * {perkMultiplier}]}% more crit damage while berserk is active.</string>
 	<string key="PerkID_Ability_Hatchet_RagingTorrent_Name">Refreshing Torrent</string>
 	<string key="PerkID_Ability_Hatchet_RagingTorrent_Description">Each attack of Raging Torrent reduces all Hatchet cooldowns by {[-0.010000 * -100 * {perkMultiplier}]}% ({[0.200000]}s cooldown).</string>
 	<string key="PerkID_Ability_Hatchet_Rending_Throw_Name">Empowering Rending Throw</string>
@@ -1184,7 +1184,7 @@
 	<string key="PerkID_Ability_Rapier_Tondo_Name">Keen Tondo</string>
 	<string key="PerkID_Ability_Rapier_Tondo_Description">+{[0.020000 * 100 * {perkMultiplier}]}% critical chance against targets affected by Tondo's Bleed. If this perk is on a weapon, Tondo also inflicts {[-0.100000 * -100]}% weaken for {[10.000000]}s. </string>
 	<string key="PerkID_Ability_Rapier_FlourishAndFinish_Name">Deadly Flourish</string>
-	<string key="PerkID_Ability_Rapier_FlourishAndFinish_Description">Flourish deals +{[0.100000 * 100 * {perkMultiplier}]}% damage against targets below 50% Health.</string>
+	<string key="PerkID_Ability_Rapier_FlourishAndFinish_Description">Flourish deals +{[0.100000 * 100 * {perkMultiplier}]}% base damage.</string>
 	<string key="PerkID_Ability_Rapier_Flurry_Name">Leeching Flurry</string>
 	<string key="PerkID_Ability_Rapier_Flurry_Description">Heal for {[0.100000 * 100 * {perkMultiplier}]}% of the damage dealt by Flurry. Gain {[0.500000]}s of Invulnerability when you use Flurry. </string>
 	<string key="PerkID_Ability_Rapier_Riposte_Name">Sundering Riposte</string>
@@ -1685,7 +1685,7 @@
 	<string key="PerkID_Ability_Greatsword_Burst_Name" rel_version="Weapon_GreatSword">Slowing Rupture</string>
 	<string key="PerkID_Ability_Greatsword_Burst_Description" rel_version="Weapon_GreatSword">Slow enemies struck with Roaring Rupture by {[-0.120000 * -100 * {perkMultiplier}]}% for {[5.000000]}s.</string>
 	<string key="PerkID_Ability_Blunderbuss_NetShot_Name" rel_version="Weapon_Blunderbuss">Exhaustive Net Shot</string>
-	<string key="PerkID_Ability_Blunderbuss_NetShot_Description" rel_version="Weapon_Blunderbuss">Net Shot inflicts Exhaust, reducing the target's Stamina regeneration by {[-0.100000 * -100 * {perkMultiplier}]}% for {[4.000000]}s.</string>
+	<string key="PerkID_Ability_Blunderbuss_NetShot_Description" rel_version="Weapon_Blunderbuss">Net Shot inflicts Exhaust, reducing the target's Stamina regeneration by {[-0.060000 * -100 * {perkMultiplier}]}% for {[4.000000]}s.</string>
 	<string key="PerkID_Ability_Blunderbuss_AzothShrapnelBlast_Name" rel_version="Weapon_Blunderbuss">Leeching Shrapnel Blast</string>
 	<string key="PerkID_Ability_Blunderbuss_AzothShrapnelBlast_Description" rel_version="Weapon_Blunderbuss">Heal for {[0.050000 * 100 * {perkMultiplier}]}% of the damage dealt by Azoth Shrapnel Blast.</string>
 	<string key="PerkID_Ability_Blunderbuss_ClawShot_Name" rel_version="Weapon_Blunderbuss">Venturing Claw Shot</string>
@@ -1759,7 +1759,7 @@
 	<string key="PerkID_PvP_Ring_DmgPerTargetBuff_Name" rel_version="PvP_Rewards_Track">Invigorated Punishment</string>
 	<string key="PerkID_PvP_Ring_DmgPerTargetBuff_Description" rel_version="PvP_Rewards_Track">PvP Only: Abilities deal {[0.010000 * 100]}% bonus damage per buff on a player (Max {[10.000000]} buffs).</string>
 	<string key="PerkID_PvP_Amulet_DodgeSuccess_DMG_Name" rel_version="PvP_Rewards_Track">Shirking Empower</string>
-	<string key="PerkID_PvP_Amulet_DodgeSuccess_DMG_Description" rel_version="PvP_Rewards_Track">PvP Only: After dodging an attack, gain Empower, increasing damage dealt by {[0.040000 * 100]}% for {[10.000000]}s (Duration refreshes when a new stack is applied. Max {[4.000000]} stacks).</string>
+	<string key="PerkID_PvP_Amulet_DodgeSuccess_DMG_Description" rel_version="PvP_Rewards_Track">PvP Only: After dodging an attack, gain Empower, increasing damage dealt by {[0.000000 * 100]}% for {[10.000000]}s (Duration refreshes when a new stack is applied. Max {[3.000000]} stacks).</string>
 	<string key="perk_weapon_bonus_info">\nThis perk is stronger on a weapon.</string>
 	<string key="PerkID_Tools_MoteFire_Name">Fire Alignment</string>
 	<string key="PerkID_Tools_MoteEarth_Name">Earth Alignment</string>
@@ -2630,7 +2630,7 @@
 	<string key="PerkID_Artifact_Set1_HeavyChest_Name">Dark Reinforced</string>
 	<string key="PerkID_Artifact_Set1_HeavyChest_Desc">Your armor is increased by {[0.200000 * 100]}%.</string>
 	<string key="PerkID_Artifact_Set1_HeavyHands_Name">Magnetic</string>
-	<string key="PerkID_Artifact_Set1_HeavyHands_Desc">Crit chance increased by {[0.500000 * 100]}%, but crit damage reduced by up to {[-0.500000 * -100]}%.</string>
+	<string key="PerkID_Artifact_Set1_HeavyHands_Desc">Crit chance increased by {[0.500000 * 100]}%, but crit damage reduced by up to {[-0.300000 * -100]}%.</string>
 	<string key="PerkID_Artifact_Set1_HeavyLegs_Name">Unending Freedom</string>
 	<string key="PerkID_Artifact_Set1_HeavyLegs_Desc">Stun, Slow, and Root effects base duration is reduced by {[-0.200000 * -100]}%.</string>
 	<string key="PerkID_Artifact_Set1_HeavyFeet_Name" rel_version="Feature_Artifacts_Set2">Unmovable</string>
@@ -2645,7 +2645,7 @@
 	<string key="PerkID_Artifact_Set1_MediumLegs_SecondaryName">Well Rounded</string>
 	<string key="PerkID_Artifact_Set1_MediumLegs_Desc">+10 to all attributes.</string>
 	<string key="PerkID_Artifact_Set1_MediumFeet_Name" rel_version="Feature_Artifacts_Set2">Speedy</string>
-	<string key="PerkID_Artifact_Set1_MediumFeet_Desc" rel_version="Feature_Artifacts_Set2">Base duration of hastes on you is increased by {[0.500000 * 100]}%.</string>
+	<string key="PerkID_Artifact_Set1_MediumFeet_Desc" rel_version="Feature_Artifacts_Set2">Base duration of hastes on you is increased by {[0.500000 * 100]}%, and deal {[0.100000 * 100]}% more base damage while hasted.</string>
 	<string key="PerkID_Artifact_Set1_LightHead_Name">Brilliance</string>
 	<string key="PerkID_Artifact_Set1_LightHead_Desc">+{[1.000000 * 100]}% max mana.</string>
 	<string key="PerkID_Artifact_Set1_LightChest_Name">Weightless</string>
@@ -2690,5 +2690,7 @@
 	<string key="PerkID_Artifact_Set2_Spear_Desc" rel_version="Feature_Artifacts_S5">Heavy melee attacks with either weapon cause poison dealing {[-0.200000 * -100]}% weapon damage for {[5.000000]}s.</string>
 	<string key="PerkID_Artifact_Set2_Amulet1_Name" rel_version="Feature_Artifacts_S5">Phoenix Vengeance</string>
 	<string key="PerkID_Artifact_Set2_Amulet1_Desc" rel_version="Feature_Artifacts_S5">When you receive lethal damage, avoid death and regain {[1.000000 * 100]}% of your max health. Then become inflicted with Vengeance, reducing healing by {[-2.000000 * -100]}% and taking damage equal to {[-0.100000 * -200]}% of your max health every second until you die or get a kill. ({[180.000000]}s cooldown).</string>
+	<string key="PerkID_Flail_RabbitFlail_Name" rel_version="Event_RabbitSeasonPerm2024">Rabbits Revenge</string>
+	<string key="PerkID_Flail_RabbitFlail_Description" rel_version="Event_RabbitSeasonPerm2024">Not even Stanley can withstand the corruptive power of this weapon.</string>
 </resources>
 
