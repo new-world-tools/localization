@@ -2518,7 +2518,7 @@
 	<string key="PerkID_Earring_OnHeartHeal_Name">Healing Heart</string>
 	<string key="PerkID_Earring_OnHeartHeal_Desc">On Heartrune: Heal for {[0.100000 * 100 * {perkMultiplier}]}% your max health.</string>
 	<string key="PerkID_Ring_OnHealHot_Name">Healing Breeze</string>
-	<string key="PerkID_Ring_OnHealHot_Desc">On Heal: For {[6.000000]}s heal target for {[0.070000 * 100 * {perkMultiplier}]}% weapon damage each second ({[10.000000]}s cooldown).</string>
+	<string key="PerkID_Ring_OnHealHot_Desc">On Heal with Ability: For {[6.000000]}s heal target for {[0.070000 * 100 * {perkMultiplier}]}% weapon damage each second ({[10.000000]}s cooldown).</string>
 	<string key="PerkID_Ring_OnRemoveHeal_Name">Purifying</string>
 	<string key="PerkID_Ring_OnRemoveHeal_Desc">When you remove a debuff from an ally heal for {[0.100000 * 100 * {perkMultiplier}]}% weapon damage.</string>
 	<string key="PerkID_Ring_OnHeartRemoveBuffs_Name">Purifying Heart</string>
