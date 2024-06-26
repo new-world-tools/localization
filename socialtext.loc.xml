@@ -484,6 +484,7 @@
 	<string rel_version="Feature_Shards" key="social_phasing_unable_music_tooltip">You cannot start a musical performance with a player in a different shard than you.</string>
 	<string rel_version="Feature_Shards" key="social_phasing_area_chat_limited">Area and Voice chat are limited to those in the same shard as you.</string>
 	<string rel_version="Feature_Shards" key="social_phasing_phase_condemned_message">Your current shard will be shut down in {timeUntilDestruct} minutes.</string>
+	<string rel_version="Feature_Shards" key="social_phasing_phase_condemned_teleport_message">Changing shards, you will be teleported in {timeUntilTeleport} seconds.</string>
 	<string rel_version="Feature_Shards" key="social_phasing_failed_to_pvp_flag">Pvp enabled shard is full, please try again later.</string>
 	<string rel_version="Feature_Shards" key="social_phasing_pvp_flag_warning_title">Not in PvP enabled shard</string>
 	<string rel_version="Feature_Shards" key="social_phasing_pvp_flag_warning_message">You are not in a PvP enabled shard. Would you like to flag for PvP and move to a PvP enabled shard?</string>
