@@ -19,38 +19,9 @@
 	<string key="ui_pvp_rewards_panel1_bullet2_text" rel_version="PvP_Rewards_Track">Azoth Salt is a currency that allows you to acquire rewards from the PvP Track. You can gain Azoth Salt by engaging in War, Outpost Rush, 3v3 Arenas, PvP Missions, killing players in the open world, and earning XP while flagged.</string>
 	<string key="ui_pvp_rewards_panel1_bullet3_title" rel_version="PvP_Rewards_Track">REWARDS</string>
 	<string key="ui_pvp_rewards_panel1_bullet3_text" rel_version="PvP_Rewards_Track">Choose between unique rewards such as prestige armor and weapons, emotes, currencies, and consumables.</string>
-	<string key="ui_event_summer_rank_0" rel_version="Event_Summer_Temp">Minstrel</string>
-	<string key="ui_event_summer_rank_1" rel_version="Event_Summer_Temp">Troubadour</string>
-	<string key="ui_event_summer_rank_2" rel_version="Event_Summer_Temp">Bard</string>
-	<string key="ui_event_summer_rank_3" rel_version="Event_Summer_Temp">Virtuoso</string>
-	<string key="ui_event_summer_rank_4" rel_version="Event_Summer_Temp">Maestro</string>
-	<string key="ui_event_summer_shop_header" rel_version="Event_Summer_Temp">Summer Medleyfaire Shop</string>
 	<string key="ui_event_summer_progress_name" rel_version="Event_Summer_Perm">Event Reputation</string>
-	<string key="ui_event_summer_panel1_title" rel_version="Event_Summer_Temp">SUMMER MEDLEYFAIRE IS HERE</string>
-	<string key="ui_event_summer_panel1_subtitle" rel_version="Event_Summer_Temp">Event starts on {startDate}</string>
-	<string key="ui_event_summer_panel1_bullet1_title" rel_version="Event_Summer_Temp">LIMITED TIME ACTIVITIES</string>
-	<string key="ui_event_summer_panel1_bullet1_text" rel_version="Event_Summer_Temp">Hit the dance floor, perform music, catch Maudlinbug bait and fish up the exceptionally delectable Aeternum Sturgeons to feed the festival; the Medleyfaire abounds with activities for all!\n\nBe certain to visit the Mount-A-Catch station to craft mementos of your proudest catches!</string>
-	<string key="ui_event_summer_panel1_bullet2_title" rel_version="Event_Summer_Temp">MEDLEYFAIRE REWARDS</string>
-	<string key="ui_event_summer_panel1_bullet2_text" rel_version="Event_Summer_Temp">Summer breezes and the Medleyfaire Maestro bring with them new armors, skins, emotes, and a bounty of décor items themed off the colorfully energetic Summer Medleyfaire!\n\n“Dance and shop 'til you drop!” - Medleyfaire Maestro</string>
-	<string key="ui_event_summer_panel1_bullet3_title" rel_version="Event_Summer_Temp">MEDLEYFAIRE VENUES</string>
-	<string key="ui_event_summer_panel1_bullet3_text" rel_version="Event_Summer_Temp">The Medleyfaire Maestro has set up four venues to accommodate the bubbling energy of Summer Medleyfaire! Visit these locations to meet the host, staff, and guests. Carry out their holiday quests and spread joy across Aeternum!\n(Questline unlocks at level 20)</string>
-	<string key="ui_event_summer_panel2_title" rel_version="Event_Summer_Temp">MEDLEYFAIRE STAGE-HANDS</string>
-	<string key="ui_event_summer_panel2_subtitle" rel_version="Event_Summer_Temp">Celebrate Summer Medleyfaire in Aeternum by spreading festival vibes across the settlements! Complete Medleyfaire Town Projects to upgrade each settlement's Medleyfaire Stage centerpiece to enhance its beauty and unlock increasingly valuable daily rewards!</string>
-	<string key="ui_event_summer_panel3_title" rel_version="Event_Summer_Temp">HEAVY METAL THEMED STORE ITEMS</string>
-	<string key="ui_event_summer_panel3_subtitle" rel_version="Event_Summer_Temp">Check the store for exclusive heavy metal themed cosmetics and décor items!</string>
-	<string key="ui_event_summer_lastday_panel1_title" rel_version="Event_Summer_Temp">SUMMER MEDLEYFAIRE FINAL DAY</string>
-	<string key="ui_event_summer_lastday_panel1_subtitle" rel_version="Event_Summer_Temp">This year's Medleyfaire is drawing to a close. Final chance to earn as many Medleyfaire Rewards as possible!\n\n(Medleyfaire Tokens and other event-limited items will be removed upon the events conclusion)</string>
-	<string key="ui_event_summer_lastday_ending_button" rel_version="Event_Summer_Temp">OK!</string>
-	<string key="ui_event_summer_calendar_event_button_about" rel_version="Event_Summer_Temp">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; About Summer Medleyfaire</string>
+	<string key="ui_event_halloween_progress_name" rel_version="Event_Halloween_Perm">Event Reputation</string>
 	<string key="ui_event_spring_progress_name" rel_version="Event_SpringtideBloom_Perm">Event Reputation</string>
-	<string key="ui_event_2xfishing_panel1_title" rel_version="Event_Summer_Temp">FISHING AND MUSIC DOUBLE XP WEEKEND!</string>
-	<string key="ui_event_2xfishing_panel1_subtitle" rel_version="Event_Summer_Temp">Enjoy Double XP for Fishing and Musical Instruments trade skills each weekend throughout the Summer Medleyfaire event!</string>
-	<string key="ui_event_2xfishing_ending_button" rel_version="Event_Summer_Temp">Sweet!</string>
-	<string key="ui_event_2xfishing_calendar_event_button_about" rel_version="Event_Summer_Temp">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; About Fishing and Music for Double XP</string>
-	<string key="ui_event_barnacles_panel1_title" rel_version="Event_Summer_Temp">BARNACLES &amp; BLACK POWDER</string>
-	<string key="ui_event_barnacles_panel1_subtitle" rel_version="Event_Summer_Temp">Rumors of a legendary treasure called the Ocean Heart hidden just off the coast have circulated in Cutlass Keys. This treasure has been rumored to carry powers of dominion and control and could threaten the settlement of Cutlass Keys and beyond.</string>
-	<string key="ui_event_barnacles_ending_button" rel_version="Event_Summer_Temp">Yarrr!</string>
-	<string key="ui_event_barnacles_calendar_event_button_about" rel_version="Event_Summer_Temp">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; About Barnacles &amp; Black Powder</string>
 	<string key="ui_event_weapon_xp_tabname">XP Event</string>
 	<string key="ui_event_weapon_xp_title">WEAPON XP BONUS EVENT</string>
 	<string key="ui_event_weapon_xp_desc">Active bonuses:</string>
@@ -153,6 +124,7 @@
 	<string key="ui_event_dec_mtx_title" rel_version="Entitlements_WinterConvergence_MTX">Winter Convergence</string>
 	<string key="ui_event_dec_mtx_description" rel_version="Entitlements_WinterConvergence_MTX">Protect yourself from the ravages of Forever Winter with new cosmetics available in the store! You'll want to kit yourself out with the latest winter weapons and apparel when the days grow shorter and long nights of terror await. Check the store regularly for free gifts in December and take advantage of our winter sales! Special unvaulted content goes on sale 12/13 and last year's Winter Convergence gear arrives on 12/20!</string>
 	<string key="ui_event_dec_mtx_button_about" rel_version="Entitlements_WinterConvergence_MTX">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Winter Convergence</string>
+	<string key="ui_news_about">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About The News</string>
 	<string key="ui_news_store_tabname">Store</string>
 	<string key="ui_news_expedition_tabname">Expedition</string>
 	<string key="ui_news_expeditions_tabname">Expeditions</string>
@@ -171,8 +143,12 @@
 	<string key="ui_news_mount_tabname" rel_version="Feature_Mounts">Mount</string>
 	<string key="ui_news_mounts_tabname" rel_version="Feature_Mounts">Mounts</string>
 	<string key="ui_news_twitch_tabname" rel_version="Season_3_Perm">Twitch</string>
+	<string key="ui_news_raid_tabname">Raid</string>
+	<string key="ui_news_raids_tabname">Raids</string>
 	<string key="ui_news_bullet_armor_skins">Armor Skins</string>
 	<string key="ui_news_bullet_weapon_skins">Weapon Skins</string>
+	<string key="ui_news_bullet_camp_skin">Camp Skin</string>
+	<string key="ui_news_bullet_camp_skins">Camp Skins</string>
 	<string key="ui_news_bullet_weapons">Weapons</string>
 	<string key="ui_news_bullet_weapon">Weapon</string>
 	<string key="ui_news_bullet_armor">Armor</string>
@@ -188,6 +164,8 @@
 	<string key="ui_news_bullet_artifact" rel_version="Feature_Artifacts">Artifact</string>
 	<string key="ui_news_bullet_artifacts" rel_version="Feature_Artifacts">Artifacts</string>
 	<string key="ui_news_bullet_transmog_tokens" rel_version="Season_2_Perm">Transmog Tokens</string>
+	<string key="ui_news_bullet_instrument_skins">Instrument Skins</string>
+	<string key="ui_news_bullet_housing_trophy">Housing Trophy</string>
 	<string key="ui_event_jan_mtx_title" rel_version="Entitlements_WinterDragon">Winter Dragon</string>
 	<string key="ui_event_jan_mtx_description" rel_version="Entitlements_WinterDragon">Is the shape of winter the shadow of a dragon? Visit the store for new cosmetics kissed by the frosty breath of the serpent! Don't get caught unprepared when less lethal combat breaks out! Pick up the Slap Fight emote or opt for the Tiptoe Walk in order to sneak past any violent squabbles instead!</string>
 	<string key="ui_event_jan_mtx_button_about" rel_version="Entitlements_WinterDragon">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Winter Dragon</string>
@@ -255,7 +233,7 @@
 	<string key="ui_event_first_light_fallen_descriptionbullet5" rel_version="Territory_FirstLightRetraction">&lt;b&gt;Governing Company:&lt;/b&gt; A one-time deposit has been paid into your treasury for the loss of the territory.</string>
 	<string key="ui_event_first_light_fallen_about" rel_version="Territory_FirstLightRetraction">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About First Light Has Fallen</string>
 	<string key="ui_event_summer_medleyfaire_2023_title" rel_version="Event_Summer2023_Perm">Reel fun awaits at the Medleyfaire!</string>
-	<string key="ui_event_summer_medleyfaire_2023_description" rel_version="Event_Summer2023_Perm">Aeternum's summer festival returns! Unlock a new jam by completing Event Activities; then strum away to collect Medleyfaire tokens and a new title. Celebrate at the festival grounds in Monarch's Bluff, Everfall, Brightwood, and Weavers Fen.</string>
+	<string key="ui_event_summer_medleyfaire_2023_description" rel_version="Event_Summer2023_Perm">Aeternum's summer festival returns! Unlock a new jam by completing Event Activities; then strum away to collect Medleyfaire tokens and a new title. Celebrate at the festival grounds in Monarch's Bluff, Everfall, Brightwood, and Weaver's Fen.</string>
 	<string key="ui_event_summer_medleyfaire_2023_bullet1" rel_version="Event_Summer2023_Perm">Maestro Hat</string>
 	<string key="ui_event_summer_medleyfaire_2023_bullet2" rel_version="Event_Summer2023_Perm">Weapon Skins</string>
 	<string key="ui_event_summer_medleyfaire_2023_bullet3" rel_version="Event_Summer2023_Perm">Emotes</string>
@@ -285,11 +263,6 @@
 	<string key="ui_event_aug_mtx_title" rel_version="Entitlements_Balance">Balance</string>
 	<string key="ui_event_aug_mtx_description" rel_version="Entitlements_Balance">There is a constant swirl in the balance between light and shadow, the real and the void. Do you take sides in this eternal conflict? Or do you remain committed to neutrality? Take a stand and look for new apparel skins, weapon skins, and emote bundles in the store throughout the month!</string>
 	<string key="ui_event_aug_mtx_about" rel_version="Entitlements_Balance">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Balance</string>
-	<string key="ui_event_siege_of_sulfur_title" rel_version="Season_2_Perm">Siege of Sulfur</string>
-	<string key="ui_event_siege_of_sulfur_description" rel_version="Season_2_Perm">Sharif's Blood of the Sands mages are under attack! While transporting valuable Sandwurm Eggs to secure locations around Aeternum, these mages have been assaulted by the forces of Adiana. Enraged Sulfur Elementals are attempting to destroy the eggs and eradicate the wurms from Aeternum. Defend the eggs and earn valuable rewards including powerful gear, the Sandwurm Egg housing item, and the Mini Devourer Sandwurm Hat.</string>
-	<string key="ui_event_siege_of_sulfur_bullet1" rel_version="Season_2_Perm">Sandwurm Hat</string>
-	<string key="ui_event_siege_of_sulfur_bullet2" rel_version="Season_2_Perm">Egg</string>
-	<string key="ui_event_siege_of_sulfur_about" rel_version="Season_2_Perm">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Siege of Sulfur</string>
 	<string key="ui_event_call_of_the_wilds_title" rel_version="Season_3_Perm">Call of the Wilds</string>
 	<string key="ui_event_call_of_the_wilds_description" rel_version="Season_3_Perm">Ride mounts through the lush greenery of Elysian Wilds or follow your favorite streamers in the Call of the Wilds event on Twitch. Watch as they experience new Influence Races, encounter primordial Beast Lords, and explore powerful new combat options until 10/09/2023.\n\nAnswer the Call!</string>
 	<string key="ui_event_call_of_the_wilds_about" rel_version="Season_3_Perm">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Call of the Wilds</string>
@@ -329,18 +302,9 @@
 	<string key="ui_event_influence_2_title" rel_version="Feature_Influence_V2">Influence</string>
 	<string key="ui_event_influence_2_description" rel_version="Feature_Influence_V2">Join forces with friends to conquer Watch Towers and spread your faction’s influence across the lands of Aeternum! Battle for the right to lay siege to enemy territories by taking part in daily influence races — or hold your own against invading forces to prove your mettle to those who would try to usurp your lands.</string>
 	<string key="ui_event_influence_2_about" rel_version="Feature_Influence_V2">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Influence</string>
-	<string key="ui_event_nightveil_hallow_title" rel_version="Event_Halloween2023_Perm">Nightveil Hallow</string>
-	<string key="ui_event_nightveil_hallow_description" rel_version="Event_Halloween2023_Perm">Nightveil Hallow returns as Baalphazu, Marquis of Terror rises once again! Banish the shadowy demon back to the darkness, then celebrate your victory by donning unique costumes and trick-or-treating for brand new candy rewards in houses across Aeternum!</string>
-	<string key="ui_event_nightveil_hallow_about" rel_version="Event_Halloween2023_Perm">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; Nightveil Hallow</string>
 	<string key="ui_event_oct_mtx_title" rel_version="Entitlements_DeepSea">Umbral Rites</string>
 	<string key="ui_event_oct_mtx_description" rel_version="Entitlements_DeepSea">The barrier between the spirit world and the physical world is thin on Aeternum. Be careful what spirits you summon! They just may stay longer than you planned. Visit the Shop today for nightmarish new visions!</string>
 	<string key="ui_event_oct_mtx_about" rel_version="Entitlements_DeepSea">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Umbral Rites</string>
-	<string key="ui_event_turkulon_title" rel_version="Event_Halloween2023_Perm">Turkulon Returns!</string>
-	<string key="ui_event_turkulon_description" rel_version="Event_Halloween2023_Perm">The feathered fiend is back to terrorize the lands of Aeternum! And this time he’s amassed an army of his own. Evade explosive eggs and beak beams in monstrous combat!\n\nFace off against the gargantuan gobbler to collect rewards old and new.\n“Turkulon’s Claw” is now unbreakable, with skinning effects persisting after the event. Swing a Turkey Leg on a giant fork with the new Warhammer skin!</string>
-	<string key="ui_event_turkulon_about" rel_version="Event_Halloween2023_Perm">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Turkulon Returns</string>
-	<string key="ui_event_turkulon_bullet1" rel_version="Event_Halloween2023_Perm">Warhammer Skin</string>
-	<string key="ui_event_turkulon_bullet2" rel_version="Event_Halloween2023_Perm">Boots Skin</string>
-	<string key="ui_event_turkulon_bullet3" rel_version="Event_Halloween2023_Perm">Skinning Knife</string>
 	<string key="ui_event_nov_mtx_title" rel_version="Entitlements_Gothknight">Knightsbane Legion</string>
 	<string key="ui_event_nov_mtx_description" rel_version="Entitlements_Gothknight">Beware the threat on the horizon! The Dark Legion invades the store this month! Special item skins for those who have abandoned the code of chivalry are now available. Arm yourself for battle and smile as your opponents' blood runs cold at the sight of you!</string>
 	<string key="ui_event_nov_mtx_about" rel_version="Entitlements_Gothknight">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Knightsbane Legion</string>
@@ -401,5 +365,40 @@
 	<string key="ui_event_apr_2024_mtx_title" comment="DO NOT TRANSLATE" rel_version="Entitlements_BattleMage">Battle Mage Placeholder</string>
 	<string key="ui_event_apr_2024_mtx_description" comment="DO NOT TRANSLATE" rel_version="Entitlements_BattleMage">Why get your hands dirty swinging a sword or hammer when you can stand back and launch balls of fire into the battle? Even better, why not look good while doing it? New cosmetics have teleported into the Store, perfect for the discerning Battle Mage!</string>
 	<string key="ui_event_apr_2024_mtx_about" comment="DO NOT TRANSLATE" rel_version="Entitlements_BattleMage">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Battle Mage Placeholder</string>
+	<string key="ui_event_legacy_of_crassus_title">Legacy of Crassus</string>
+	<string key="ui_event_legacy_of_crassus_description">Crassus returns with his monstrous legion in tow! Rally your forces and battle the brutish captains Decimus and Lucanus in Brightwood, Mourningdale, Weaver’s Fen, Edengrove, and Ebonscale Reach. Fight back the Roman onslaught and defeat the dark grasp of Corruption for honor, glory, and limited-time rewards!</string>
+	<string key="ui_event_legacy_of_crassus_bullet1">Legion Pickaxe</string>
+	<string key="ui_event_legacy_of_crassus_bullet2">Decimus Statue</string>
+	<string key="ui_event_legacy_of_crassus_bullet3">Lucanus Statue</string>
+	<string key="ui_event_legacy_of_crassus_about">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Legacy of Crassus</string>
+	<string key="ui_event_rabbits_revenge_title">Rabbit's Revenge!</string>
+	<string key="ui_event_rabbits_revenge_description">Corrupted Rabbits have taken over Aeternum! Cull the corruption and earn ferocious rewards.</string>
+	<string key="ui_event_rabbits_revenge_about">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Rabbit's Revenge</string>
+	<string key="ui_event_summer_medleyfaire_title">Reel fun awaits at the Medleyfaire!</string>
+	<string key="ui_event_summer_medleyfaire_description">Aeternum's summer festival returns! Unlock a new jam by completing Event Activities; then strum away to collect Medleyfaire tokens and a new title. Celebrate at the festival grounds in Monarch's Bluff, Everfall, Brightwood, and Weaver's Fen.</string>
+	<string key="ui_event_summer_medleyfaire_bullet1">Maestro Hat</string>
+	<string key="ui_event_summer_medleyfaire_about">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Summer Medleyfaire</string>
+	<string key="ui_event_fury_of_the_spriggan_title">Fury of the Spriggan</string>
+	<string key="ui_event_fury_of_the_spriggan_description">With the Ennead awakened, the Angry Earth are rising up around Aeternum! Put a stop to their rituals as they attempt to awaken furious Spriggans. Earn unique daily rewards for your efforts as you quell these rituals in Brightwood, Weaver's Fen, Mourningdale, and Ebonscale Reach.</string>
+	<string key="ui_event_fury_of_the_spriggan_bullet1">Daily Armor Pieces</string>
+	<string key="ui_event_fury_of_the_spriggan_bullet2">Daily Weapons</string>
+	<string key="ui_event_fury_of_the_spriggan_about">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Fury of the Spriggan</string>
+	<string key="ui_event_siege_of_sulfur_title">Siege of Sulfur</string>
+	<string key="ui_event_siege_of_sulfur_description">Sharif's Blood of the Sands mages are under attack! While transporting valuable Sandwurm Eggs to secure locations around Aeternum, these mages have been assaulted by the forces of Adiana. Enraged Sulfur Elementals are attempting to destroy the eggs and eradicate the wurms from Aeternum. Defend the eggs and earn valuable rewards including powerful gear, the Sandwurm Egg housing item, and the Mini Devourer Sandwurm Hat.</string>
+	<string key="ui_event_siege_of_sulfur_bullet1">Sandwurm Hat</string>
+	<string key="ui_event_siege_of_sulfur_bullet2">Egg</string>
+	<string key="ui_event_siege_of_sulfur_about">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Siege of Sulfur</string>
+	<string key="ui_event_nightveil_hallow_title">Nightveil Hallow</string>
+	<string key="ui_event_nightveil_hallow_description">Nightveil Hallow returns as Baalphazu, Marquis of Terror rises once again! Banish the shadowy demon back to the darkness, then celebrate your victory by donning unique costumes and trick-or-treating for brand new candy rewards in houses across Aeternum!</string>
+	<string key="ui_event_nightveil_hallow_about">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; Nightveil Hallow</string>
+	<string key="ui_event_turkulon_title">Turkulon Returns!</string>
+	<string key="ui_event_turkulon_description">The feathered fiend is back to terrorize the lands of Aeternum! And this time he’s amassed an army of his own. Evade explosive eggs and beak beams in monstrous combat!\n\nFace off against the gargantuan gobbler to collect rewards old and new.\n“Turkulon’s Claw” is now unbreakable, with skinning effects persisting after the event. Swing a Turkey Leg on a giant fork with the new War Hammer skin!</string>
+	<string key="ui_event_turkulon_about">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Turkulon Returns</string>
+	<string key="ui_event_turkulon_bullet1">War Hammer Skin</string>
+	<string key="ui_event_turkulon_bullet2">Boots Skin</string>
+	<string key="ui_event_turkulon_bullet3">Skinning Knife</string>
+	<string key="ui_event_winter_convergence_title">Winter Convergence</string>
+	<string key="ui_event_winter_convergence_description">The Winter Warrior and his glacial minions have descended upon Aeternum once again, bringing with them the icy threat of the forever Winter! Gather your friends and spread the warmth and cheer of the Convergence to fight back the bitter chill, then seek out the jolly Winter Wanderer in Winter Villages across Aeternum to earn a bounty of limited-time rewards!</string>
+	<string key="ui_event_winter_convergence_about">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Winter Convergence</string>
 </resources>
 

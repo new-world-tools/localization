@@ -797,17 +797,6 @@
 	<string key="AnubianBrute_Base_DisplayName" rel_version="Territory_Brimstone_Sands">Anubian Automaton</string>
 	<string key="AnubianPanther_Base_DisplayName" rel_version="Territory_Brimstone_Sands">Sphinx Automaton</string>
 	<string key="16BS_LootContainer_Elite_LegionStoneTomb_DisplayName" rel_version="Territory_Brimstone_Sands">Elite Grave Offerings</string>
-	<string key="SummerMedley_Settlement_Stage_Master_DisplayName" rel_version="Event_Summer_Temp">Medleyfaire Stage Centerpiece</string>
-	<string key="SummerMedley_Settlement_Stage_T1_DisplayName" rel_version="Event_Summer_Temp">Dismal Bestowment</string>
-	<string key="SummerMedley_Settlement_Stage_T2_DisplayName" rel_version="Event_Summer_Temp">Grand Bestowment</string>
-	<string key="SummerMedley_Settlement_Stage_T3_DisplayName" rel_version="Event_Summer_Temp">Opulent Bestowment</string>
-	<string key="SummerMedley_Settlement_Stage_Description" rel_version="Event_Summer_Temp">Compete Medleyfaire Town Projects to upgrade the glory and rewards bestowed by the stage!</string>
-	<string key="SummerMedley_Village_BonfireBlast_DisplayName" rel_version="Event_Summer_Temp">Medleyfaire Pyre</string>
-	<string key="SummerMedley_Village_BonfireBlast_Description" rel_version="Event_Summer_Temp">Toss an Aeternum Sturgeon Magic Fishbone into the fires to receive a tremendous reward!</string>
-	<string key="SummerMedley_Maudlindust_DisplayName" rel_version="Event_Summer_Temp">Maudlindust</string>
-	<string key="SummerMedley_Maudlindust_Particle_DisplayName" rel_version="Event_Summer_Temp">Maudlindust Particle</string>
-	<string key="SummerMedley_Village_Dancefloor_DisplayName" rel_version="Event_Summer_Temp">Medleyfaire Dance Floor</string>
-	<string key="SummerMedley_Village_Dancefloor_Description" rel_version="Event_Summer_Temp">Polish up and show off your best moves on the Medleyfaire Dance Floor to earn Event Reputation!</string>
 	<string key="Season_04_IceGuardian_Icicle_DisplayName" rel_version="Season_4_Trial">Throwable Icicle</string>
 	<string key="Season_04_IceGuardian_BrokenRune_DisplayName" rel_version="Season_4_Trial">Gain Ancient Flame Empowerment</string>
 	<string key="FM_PVP_War_Camp_Loot_Box_DisplayName">War Camp Chest</string>

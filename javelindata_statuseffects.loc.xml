@@ -1382,6 +1382,8 @@
 	<string key="WeaponCoatingEffect_T5_Corrupted_Description">While this weapon is active, deal {[Corrupted=.15 * 100]}% more damage to Corrupted.</string>
 	<string key="WeaponCoatingEffect_T5_AngryEarth_DisplayName">Infused Angry Earth Weapon Coating</string>
 	<string key="WeaponCoatingEffect_T5_AngryEarth_Description">While this weapon is active, deal {[AngryEarth=.15 * 100]}% more damage to Angry Earth.</string>
+	<string key="Season_01_Event_DamageBoostEffect_DisplayName" rel_version="Season_1_Event">Blessing of Flame</string>
+	<string key="Season_01_Event_DamageBoostEffect_Description" rel_version="Season_1_Event">The flame flows through you, increasing your damage against Brambleweaver Spriggan Enemies by {[Season_01_Event=10.0 * 100]}%.</string>
 	<string key="Status_Spear_Skewer_Bleed_DisplayName">Skewer</string>
 	<string key="Status_Spear_Skewer_Bleed_Description">{[-0.200000 * -100]}% Bleed every {[1.000000]} second for {[10.000000]} seconds.</string>
 	<string key="Status_Spear_Skewer_Bleed_Upgrade_Description">{[-0.200000 * -100]}% Bleed every {[1.000000]} second for {[15.000000]} seconds.</string>
