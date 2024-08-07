@@ -177,16 +177,6 @@
 	<string key="objective_worldboss_task_legacyofcrassus_wave1_desc" rel_version="Event_Legacy_Of_Crassus2024">Defeat the invaders: {remainingCount} remaining.</string>
 	<string key="objective_worldboss_task_legacyofcrassus_wave2_title" rel_version="Event_Legacy_Of_Crassus2024">Legacy of Crassus: Stage 2/2</string>
 	<string key="objective_worldboss_task_legacyofcrassus_wave2_desc" rel_version="Event_Legacy_Of_Crassus2024">Defeat the invaders: {remainingCount} remaining.</string>
-	<string key="ui_worldboss_season_01_event" rel_version="Season_1_Event">Fury of the Spriggan</string>
-	<string key="ui_worldboss_season_01_event_description" rel_version="Season_1_Event">The earth rises up against us, subdue the Dryads and the weapon they seek to summon.\n\nContains &lt;font color="#edc63e"&gt;3&lt;/font&gt; Daily Rewards. Resets at {time}</string>
-	<string key="objective_worldboss_task_season_01_event_wave0_title" rel_version="Season_1_Event">Construct the Flame Braziers to empower your weapons and defeat the Dryads.</string>
-	<string key="objective_worldboss_task_season_01_event_wave0_desc" rel_version="Season_1_Event">Flame Braziers Remaining: {remainingCount}</string>
-	<string key="objective_worldboss_task_season_01_event_wave1_title" rel_version="Season_1_Event">Empower your weapons at the Braziers and hold out against the Dryads</string>
-	<string key="objective_worldboss_task_season_01_event_wave1_desc" rel_version="Season_1_Event">Time Remaining:</string>
-	<string key="objective_worldboss_task_season_01_event_wave2_title" rel_version="Season_1_Event">Stop the ritual.</string>
-	<string key="objective_worldboss_task_season_01_event_wave2_desc" rel_version="Season_1_Event">Shamans remaining: {remainingCount}</string>
-	<string key="objective_worldboss_task_season_01_event_wave3_title" rel_version="Season_1_Event">The ritual was completed! Defend yourself from the Spriggan!</string>
-	<string key="objective_worldboss_task_season_01_event_wave3_desc" rel_version="Season_1_Event">Defeat the Spriggan.</string>
 	<string key="objective_Season_02_PoolsOfOrcus_title_wave1" rel_version="Quest_MSQ_Update_4">Pools of Orcus</string>
 	<string key="objective_Season_02_PoolsOfOrcus_encounter1" rel_version="Quest_MSQ_Update_4">Stop the Geysers: {remainingCount}/3</string>
 	<string key="objective_Season_02_DancingPillars_title_wave1" rel_version="Quest_MSQ_Update_4">Dancing Pillars: Stage 1/5</string>

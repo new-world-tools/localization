@@ -4731,10 +4731,6 @@
 	<string key="Sand_Elemental_Heavy_Sandworm_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Trial_Brimstone_Sandworm">Wurmsign Nephilim</string>
 	<string key="Sand_Elemental_Shaman_Sandworm_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Trial_Brimstone_Sandworm">Wurmsign Jinn</string>
 	<string key="Sand_Elemental_Soldier_Sandworm_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Trial_Brimstone_Sandworm">Wurmsign Myrmidon</string>
-	<string key="Season_01_Event_Dryad_Archer_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Season_1_Event">Brambleweaver Archer</string>
-	<string key="Season_01_Event_Dryad_Soldier_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Season_1_Event">Brambleweaver Soldier</string>
-	<string key="Season_01_Event_Dryad_Shaman_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Season_1_Event">Brambleweaver Shaman</string>
-	<string key="Season_01_Event_Dryad_Prowler_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Season_1_Event">Brambleweaver Prowler</string>
 	<string key="Season_04_Mordred_AI_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Season_4_Temp">Mordred</string>
 	<string key="Sulfur_Elemental_Heavy_Named_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Season_2_Perm">Sulfur Elemental Heavy</string>
 	<string key="Sulfur_Elemental_Heavy_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Season_2_Perm">Sulfur Elemental Heavy</string>
@@ -5117,7 +5113,6 @@
 	<string key="Spriggan_Corrupted_DG_ShatterMtn_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_ShatterMtn_00">Myrkgard Spriggan</string>
 	<string key="Spriggan_Corrupted_VitalsName" comment="BASE" speaker="Vitals Sheet">Corrupted Spriggan</string>
 	<string key="Spriggan_Forest_VitalsName" comment="BASE" speaker="Vitals Sheet">Zygoramet</string>
-	<string key="Spriggan_Season_1_Event_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Season_1_Event">Furious Brambleweaver Spriggan</string>
 	<string key="Spriggan_Heal_Shield_VitalsName" comment="BASE" speaker="Vitals Sheet">Forest Spriggan Shield</string>
 	<string key="Starved_Bandit_1H_Club_60_VitalsName" comment="BASE" speaker="Vitals Sheet">Starved Bandit</string>
 	<string key="Starved_Bandit_1H_Club_61_VitalsName" comment="BASE" speaker="Vitals Sheet">Starved Bandit</string>
@@ -14112,10 +14107,6 @@
 	<string key="MegaFlora_RazorLotus_Leaves_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_FirstLight">Razor Lotus Leaves</string>
 	<string key="VC_FL_MegaFlora_RazorLotus_Leaves" comment="BASE" speaker="Vitals Category" rel_version="Territory_FirstLight">Razor Lotus Leaves</string>
 	<string key="VC_MegaFlora_RazorLotus_Leaves" comment="BASE" speaker="Vitals Category" rel_version="Territory_FirstLight">Razor Lotus Leaves</string>
-	<string key="VC_Furious" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="Season_1_Event">Furious</string>
-	<string key="VC_Swamp_Dryad_Tendril_95_S01" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="Season_1_Event">Furious Tendril</string>
-	<string key="VC_Blight_Fiend_95_S01" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="Season_1_Event">Furious Fiend</string>
-	<string key="VC_Dryad_Soldier_95_S01" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="Season_1_Event">Furious Soldier</string>
 	<string key="FL_Mammoth_Boss_DG_FirstLight_01_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_FirstLight">Mahantaram</string>
 	<string key="VC_FL_Mammoth_Boss_DG_FirstLight_01" comment="BASE" speaker="VitalsCategory Sheet" rel_version="Territory_FirstLight">Mahantaram</string>
 	<string key="FL_Mammoth_Boss_Earth_Root_Arcane_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_FirstLight">Arcane Conduit</string>
