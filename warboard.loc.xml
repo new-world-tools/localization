@@ -85,5 +85,6 @@
 	<string key="ui_war_all">All</string>
 	<string key="ui_your_team">Your Team</string>
 	<string key="ui_enemy_team">Enemy Team</string>
+	<string key="ui_your_stats">Your Stats</string>
 </resources>
 

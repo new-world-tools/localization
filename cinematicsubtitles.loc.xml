@@ -13,7 +13,7 @@
 	<string key="TempestReckoning12" start="64" end="72" speaker="Father Russo" dialogue-next="TempestReckoning13">And the void exposed when the surge in Corruption abates will become a threat of itself...</string>
 	<string key="TempestReckoning13" start="74" end="79" speaker="Father Russo" dialogue-next="TempestReckoning14">As the soulless remnants of this conflict rise from the battlefield...</string>
 	<string key="TempestReckoning14" start="80" end="85" speaker="Father Russo" dialogue-next="TempestReckoning15">to find purpose and power in a source as yet unrealized.</string>
-	<string key="TempestReckoning15" start="86" end="97" speaker="Father Russo" dialogue-next="TempestReckoning16">Yes, the hapless inhabitants of Aeternum will soon learn that this chapter maye have come to a close...</string>
+	<string key="TempestReckoning15" start="86" end="97" speaker="Father Russo" dialogue-next="TempestReckoning16">Yes, the hapless inhabitants of Aeternum will soon learn that this chapter may have come to a close...</string>
 	<string key="TempestReckoning16" start="97" end="105" speaker="Father Russo">But the real horrors have just begun.</string>
 	<string key="AncientsLegacy01" start="1" end="5" speaker="Imhotep" dialogue-next="AncientsLegacy02">The gods summoned us from the Old World.</string>
 	<string key="AncientsLegacy02" start="5" end="11" speaker="Imhotep" dialogue-next="AncientsLegacy03">Calling us to paradise, the undying land, they promised life eternal.</string>
@@ -54,24 +54,24 @@
 	<string key="TempestRising05" start="43" end="53" speaker="Mysterious Voice" dialogue-next="TempestRising06">I knew then, I must correct this ancient injustice, and restore the power which is rightfully ours.</string>
 	<string key="TempestRising06" start="55" end="61" speaker="Mysterious Voice" dialogue-next="TempestRising07">The heart of the mountain now beats strong with this purpose.</string>
 	<string key="TempestRising07" start="61" end="67" speaker="Mysterious Voice" dialogue-next="TempestRising08">After a century of preparation, our campaign has begun.</string>
-	<string key="TempestRising08" start="67" end="73" speaker="Mysterious Voice" dialogue-next="TempestRising09">The islands townships already fall before the might of our armies.</string>
+	<string key="TempestRising08" start="67" end="73" speaker="Mysterious Voice" dialogue-next="TempestRising09">The island's townships already fall before the might of our armies.</string>
 	<string key="TempestRising09" start="73" end="77" speaker="Mysterious Voice" dialogue-next="TempestRising10">The only thing I had not foreseen is you.</string>
 	<string key="TempestRising10" start="79" end="87" speaker="Mysterious Voice" dialogue-next="TempestRising11">You who have stolen the gift meant for me. And now your soul will pay the price.</string>
 	<string key="TempestRising11" start="87" end="100" speaker="Mysterious Voice">For I will not stop until I have seized back the destiny stolen from us. And brought true freedom to the world both old and new.</string>
-	<string key="WildHuntress01" start="2" end="11" speaker="Artemis" dialogue-next="WildHuntress02">Apophis is returned to the sands and Sutekh remains at rest. But the hunt has only just begun.</string>
-	<string key="WildHuntress02" start="13" end="22" speaker="Artemis" dialogue-next="WildHuntress03">This hunt will be my greatest yet, the wretched mass of humanity my ultimate prey.</string>
-	<string key="WildHuntress03" start="22" end="29" speaker="Artemis" dialogue-next="WildHuntress04">When we first appeared before them, humans were eager to learn, hungry for guidance.</string>
-	<string key="WildHuntress04" start="29" end="35" speaker="Artemis" dialogue-next="WildHuntress05">We approached them in forms that were familiar and showered them with blessings.</string>
-	<string key="WildHuntress05" start="35" end="40" speaker="Artemis" dialogue-next="WildHuntress06">But they lacked the purity shared by other creatures of these lands.</string>
-	<string key="WildHuntress06" start="40" end="50" speaker="Artemis" dialogue-next="WildHuntress07">I warned my brethren, these beings were not worthy of eternal life. But the gift was bestowed nonetheless.</string>
-	<string key="WildHuntress07" start="50" end="56" speaker="Artemis" dialogue-next="WildHuntress08">And what thanks did we receive? The fools turned against us.</string>
-	<string key="WildHuntress08" start="56" end="72" speaker="Artemis" dialogue-next="WildHuntress09">I knew then, annihilation of the species was our only option.</string>
-	<string key="WildHuntress09" start="64" end="69" speaker="Artemis" dialogue-next="WildHuntress10">But greater threats emerged, requiring our attention.</string>
-	<string key="WildHuntress10" start="69" end="76" speaker="Artemis" dialogue-next="WildHuntress11">Years passed, we tried to live here in peace and harmony. </string>
-	<string key="WildHuntress11" start="76" end="83" speaker="Artemis" dialogue-next="WildHuntress12">But the twisted ambitions of humanity have reinvited disaster time and again.</string>
-	<string key="WildHuntress12" start="85" end="94" speaker="Artemis" dialogue-next="WildHuntress13">Now, however, the power of the Ennead flows through the veins of Aeternum, fuel for my grim task.</string>
-	<string key="WildHuntress13" start="94" end="100" speaker="Artemis" dialogue-next="WildHuntress14">I will undo the mistake my brethren made so long ago.</string>
-	<string key="WildHuntress14" start="100" end="108" speaker="Artemis">I will revoke the gift, and restore your mortal birthright to a final and inevitable death.</string>
+	<string key="WildHuntress01" start="2.8" end="11.5" speaker="Artemis" dialogue-next="WildHuntress02">Apophis is returned to the sands and Sutekh remains at rest. But the hunt has only just begun.</string>
+	<string key="WildHuntress02" start="13.3" end="21.3" speaker="Artemis" dialogue-next="WildHuntress03">This hunt will be my greatest yet, the wretched mass of humanity my ultimate prey.</string>
+	<string key="WildHuntress03" start="22.7" end="29" speaker="Artemis" dialogue-next="WildHuntress04">When we first appeared before them, humans were eager to learn, hungry for guidance.</string>
+	<string key="WildHuntress04" start="29.8" end="35" speaker="Artemis" dialogue-next="WildHuntress05">We approached them in forms that were familiar and showered them with blessings.</string>
+	<string key="WildHuntress05" start="36.1" end="40.2" speaker="Artemis" dialogue-next="WildHuntress06">But they lacked the purity shared by other creatures of these lands.</string>
+	<string key="WildHuntress06" start="41.2" end="50.3" speaker="Artemis" dialogue-next="WildHuntress07">I warned my brethren, these beings were not worthy of eternal life. But the gift was bestowed nonetheless.</string>
+	<string key="WildHuntress07" start="51" end="56.2" speaker="Artemis" dialogue-next="WildHuntress08">And what thanks did we receive? The fools turned against us.</string>
+	<string key="WildHuntress08" start="57.2" end="63" speaker="Artemis" dialogue-next="WildHuntress09">I knew then, annihilation of the species was our only option.</string>
+	<string key="WildHuntress09" start="65.5" end="70" speaker="Artemis" dialogue-next="WildHuntress10">But greater threats emerged, requiring our attention.</string>
+	<string key="WildHuntress10" start="71" end="76" speaker="Artemis" dialogue-next="WildHuntress11">Years passed, we tried to live here in peace and harmony. </string>
+	<string key="WildHuntress11" start="77" end="83.6" speaker="Artemis" dialogue-next="WildHuntress12">But the twisted ambitions of humanity have reinvited disaster time and again.</string>
+	<string key="WildHuntress12" start="85.5" end="94" speaker="Artemis" dialogue-next="WildHuntress13">Now, however, the power of the Ennead flows through the veins of Aeternum, fuel for my grim task.</string>
+	<string key="WildHuntress13" start="95" end="99" speaker="Artemis" dialogue-next="WildHuntress14">I will undo the mistake my brethren made so long ago.</string>
+	<string key="WildHuntress14" start="100" end="108.3" speaker="Artemis">I will revoke the gift, and restore your mortal birthright to a final and inevitable death.</string>
 	<string key="CorpseCrone01" start="2" end="14" speaker="Tunstall Pennyfather" dialogue-next="CorpseCrone02">Long ago, a witch crept into the eastern fens. This was the Corpse Crone, and she cast a wicked spell.</string>
 	<string key="CorpseCrone02" start="18" end="22" speaker="Tunstall Pennyfather" dialogue-next="CorpseCrone03">The deadly hex spread like a sickening plague.</string>
 	<string key="CorpseCrone03" start="22" end="31" speaker="Tunstall Pennyfather" dialogue-next="CorpseCrone04">The island's immortality was twisted, made obscene. The Curse of the Lost would haunt our lands.</string>
@@ -149,7 +149,7 @@
 	<string key="BonesEarth01" start="1" end="6" speaker="Sun Fuchun" dialogue-next="BonesEarth02">The glyphs tell a tale of a civil war between the Ancient Immortals.</string>
 	<string key="BonesEarth02" start="6" end="13" speaker="Sun Fuchun" dialogue-next="BonesEarth03">Those who sought to harness the power of Corruption battling against those who refused.</string>
 	<string key="BonesEarth03" start="13" end="18" speaker="Sun Fuchun" dialogue-next="BonesEarth04">As the Corrupted neared victory, there was a final, desperate act of sacrifice...</string>
-	<string key="BonesEarth04" start="18" end="26" speaker="Sun Fuchun" dialogue-next="BonesEarth05">These noble Ancients surrendering themselves, their azoth, to cleanse the scourge.</string>
+	<string key="BonesEarth04" start="18" end="26" speaker="Sun Fuchun" dialogue-next="BonesEarth05">These noble Ancients surrendering themselves, their Azoth, to cleanse the scourge.</string>
 	<string key="BonesEarth05" start="26" end="31" speaker="Sun Fuchun" dialogue-next="BonesEarth06">From their discarded earthly shells, new life arose.</string>
 	<string key="BonesEarth06" start="31" end="36" speaker="Sun Fuchun" dialogue-next="BonesEarth07">Nature twisted in power and thirsting for vengeance.</string>
 	<string key="BonesEarth07" start="36" end="42" speaker="Sun Fuchun" dialogue-next="BonesEarth08">Years passed, the boon of the Ancients' sacrifice blessing these lands.</string>
@@ -192,14 +192,14 @@
 	<string key="NewEden03" start="14" end="20" speaker="Morgaine" dialogue-next="NewEden04">Daring to investigate, they witnessed a hideous transformation...</string>
 	<string key="NewEden04" start="20" end="26" speaker="Morgaine" dialogue-next="NewEden05">Artemis created an ally, one whose gaze turned flesh to stone.</string>
 	<string key="NewEden05" start="27" end="33" speaker="Morgaine" dialogue-next="NewEden06">As the Ancient's terror spread, the people of the settlement staged a final stand...</string>
-	<string key="NewEden06" start="33" end="37" speaker="Morgaine" dialogue-next="NewEden07">But the flora of First Light twisted... and turned against them.</string>
-	<string key="NewEden07" start="38" end="43" speaker="Morgaine" dialogue-next="NewEden08">The defeated were told they had a greater purpose to serve...</string>
-	<string key="NewEden08" start="43" end="50" speaker="Morgaine" dialogue-next="NewEden09">Their fates and spirits would be bound... to the birthing of a new world.</string>
-	<string key="NewEden09" start="50" end="55" speaker="Morgaine" dialogue-next="NewEden10">It appears Artemis then called forth a beastly horde.</string>
-	<string key="NewEden10" start="55" end="61" speaker="Morgaine" dialogue-next="NewEden11">Primal creatures summoned from some abyssal realm.</string>
-	<string key="NewEden11" start="61" end="68" speaker="Morgaine" dialogue-next="NewEden12">What followed is madness... obscene acts to make amalgamations of people, beasts, and plants...</string>
-	<string key="NewEden12" start="69" end="76" speaker="Morgaine" dialogue-next="NewEden13">Our witness, in soulstruck horror, took flight in body... and in mind.</string>
-	<string key="NewEden13" start="76" end="83" speaker="Morgaine" dialogue-next="NewEden14">Her sanity is now shattered by this mad Ancient's vision for the future.</string>
+	<string key="NewEden06" start="33" end="38" speaker="Morgaine" dialogue-next="NewEden07">But the flora of First Light twisted... and turned against them.</string>
+	<string key="NewEden07" start="38.5" end="44" speaker="Morgaine" dialogue-next="NewEden08">The defeated were told they had a greater purpose to serve...</string>
+	<string key="NewEden08" start="44" end="51" speaker="Morgaine" dialogue-next="NewEden09">Their fates and spirits would be bound... to the birthing of a new world.</string>
+	<string key="NewEden09" start="51" end="56" speaker="Morgaine" dialogue-next="NewEden10">It appears Artemis then called forth a beastly horde.</string>
+	<string key="NewEden10" start="56" end="61" speaker="Morgaine" dialogue-next="NewEden11">Primal creatures summoned from some abyssal realm.</string>
+	<string key="NewEden11" start="61" end="69" speaker="Morgaine" dialogue-next="NewEden12">What followed is madness... obscene acts to make amalgamations of people, beasts, and plants...</string>
+	<string key="NewEden12" start="71" end="77" speaker="Morgaine" dialogue-next="NewEden13">Our witness, in soulstruck horror, took flight in body... and in mind.</string>
+	<string key="NewEden13" start="77" end="83" speaker="Morgaine" dialogue-next="NewEden14">Her sanity is now shattered by this mad Ancient's vision for the future.</string>
 	<string key="NewEden14" start="83" end="89" speaker="Morgaine">A savage Eden where humanity has no place.</string>
 	<string key="ShadowAwakens01" start="1" end="7" speaker="Artemis" dialogue-next="ShadowAwakens02">Since the beginning, I have sacrificed to protect the Earth.</string>
 	<string key="ShadowAwakens02" start="7" end="16" speaker="Artemis" dialogue-next="ShadowAwakens03">Watching my brothers and sisters yield their very essence to stem the first tide of evil.</string>
@@ -241,49 +241,175 @@
 	<string key="MordredsRegret13" start="77" end="80" speaker="Ser Mordred" dialogue-next="MordredsRegret14">It was meant for me.</string>
 	<string key="MordredsRegret14" start="80" end="86" speaker="Ser Mordred" dialogue-next="MordredsRegret15">Be glad, for I will rule as you could not.</string>
 	<string key="MordredsRegret15" start="86" end="95" speaker="Ser Mordred">By Ring and Frosted Crown, Avalon, and all this cold world shall come crashing down.</string>
-	<string key="WisemansCounsel01" start="2" end="7" speaker="Qi Shen" dialogue-next="WisemansCounsel02">Your battle against the physical forces of evil has honor.</string>
-	<string key="WisemansCounsel02" start="10" end="14" speaker="Qi Shen" dialogue-next="WisemansCounsel03">But the real struggle is the battle of the mind.</string>
-	<string key="WisemansCounsel03" start="17" end="21" speaker="Qi Shen" dialogue-next="WisemansCounsel04">Consider the burdens weighing on your companions.</string>
-	<string key="WisemansCounsel04" start="22" end="26" speaker="Qi Shen" dialogue-next="WisemansCounsel05">The internal assault this island wages against them.</string>
-	<string key="WisemansCounsel05" start="28" end="33" speaker="Qi Shen" dialogue-next="WisemansCounsel06">Aeternum is not just a place, you see. It is a state of being.</string>
-	<string key="WisemansCounsel06" start="35" end="40" speaker="Qi Shen" dialogue-next="WisemansCounsel07">And it will scar your soul, unless you choose to change.</string>
+	<string key="WisemansCounsel01" start="2" end="8" speaker="Qi Shen" dialogue-next="WisemansCounsel02">Your battle against the physical forces of evil has honor.</string>
+	<string key="WisemansCounsel02" start="9" end="14" speaker="Qi Shen" dialogue-next="WisemansCounsel03">But the real struggle is the battle of the mind.</string>
+	<string key="WisemansCounsel03" start="16" end="21" speaker="Qi Shen" dialogue-next="WisemansCounsel04">Consider the burdens weighing on your companions.</string>
+	<string key="WisemansCounsel04" start="22" end="27" speaker="Qi Shen" dialogue-next="WisemansCounsel05">The internal assault this island wages against them.</string>
+	<string key="WisemansCounsel05" start="27.5" end="33.5" speaker="Qi Shen" dialogue-next="WisemansCounsel06">Aeternum is not just a place, you see. It is a state of being.</string>
+	<string key="WisemansCounsel06" start="34.5" end="41" speaker="Qi Shen" dialogue-next="WisemansCounsel07">And it will scar your soul, unless you choose to change.</string>
 	<string key="WisemansCounsel07" start="42" end="46" speaker="Qi Shen" dialogue-next="WisemansCounsel08">Attachments to the past become a prison.</string>
-	<string key="WisemansCounsel08" start="47" end="52" speaker="Qi Shen" dialogue-next="WisemansCounsel09">Only balance can transform that prison into a refuge.</string>
+	<string key="WisemansCounsel08" start="46.5" end="52" speaker="Qi Shen" dialogue-next="WisemansCounsel09">Only balance can transform that prison into a refuge.</string>
 	<string key="WisemansCounsel09" start="53" end="57" speaker="Qi Shen" dialogue-next="WisemansCounsel10">As Warden to the souls caught in your sphere...</string>
-	<string key="WisemansCounsel10" start="58" end="61" speaker="Qi Shen" dialogue-next="WisemansCounsel11">You must defend against the shadows darkening their hearts.</string>
-	<string key="WisemansCounsel11" start="64" end="67" speaker="Qi Shen" dialogue-next="WisemansCounsel12">Create the island of calm within their storm...</string>
-	<string key="WisemansCounsel12" start="69" end="75" speaker="Qi Shen" dialogue-next="WisemansCounsel13">Because on this island, where time stretches thin to no horizon...</string>
+	<string key="WisemansCounsel10" start="57.5" end="62" speaker="Qi Shen" dialogue-next="WisemansCounsel11">You must defend against the shadows darkening their hearts.</string>
+	<string key="WisemansCounsel11" start="64" end="68" speaker="Qi Shen" dialogue-next="WisemansCounsel12">Create the island of calm within their storm...</string>
+	<string key="WisemansCounsel12" start="68.5" end="75" speaker="Qi Shen" dialogue-next="WisemansCounsel13">Because on this island, where time stretches thin to no horizon...</string>
 	<string key="WisemansCounsel13" start="77" end="83" speaker="Qi Shen" dialogue-next="WisemansCounsel14">Your soul too will be stretched thin: a shadow in the dark.</string>
-	<string key="WisemansCounsel14" start="84" end="87" speaker="Qi Shen" dialogue-next="WisemansCounsel15">Become the light you have inside.</string>
-	<string key="WisemansCounsel15" start="90" end="95" speaker="Qi Shen">For you are not just in Aeternum; Aeternum is in you.</string>
-	<string key="MothersHope01" start="2" end="8" speaker="Empress Zhou" dialogue-next="MothersHope02">My throne stolen, I sailed from my homeland an exile, dreaming of a new home for my people, and...</string>
+	<string key="WisemansCounsel14" start="84" end="88" speaker="Qi Shen" dialogue-next="WisemansCounsel15">Become the light you have inside.</string>
+	<string key="WisemansCounsel15" start="89" end="95" speaker="Qi Shen">For you are not just in Aeternum; Aeternum is in you.</string>
+	<string key="MothersHope01" start="1" end="8.5" speaker="Empress Zhou" dialogue-next="MothersHope02">My throne stolen, I sailed from my homeland an exile, dreaming of a new home for my people, and...</string>
 	<string key="MothersHope02" start="9" end="11" speaker="Empress Zhou" dialogue-next="MothersHope03">... my unborn child.</string>
 	<string key="MothersHope03" start="12" end="18" speaker="Empress Zhou" dialogue-next="MothersHope04">While so many have trouble adjusting to this island, my people took to Ebonscale Reach.</string>
-	<string key="MothersHope04" start="19" end="25" speaker="Empress Zhou" dialogue-next="MothersHope05">It was a rebirth of a lost dream, and we flourished. And my son thrived.</string>
-	<string key="MothersHope05" start="27" end="31" speaker="Empress Zhou" dialogue-next="MothersHope06">On the eve of his adulthood, a strange sickness overcame him...</string>
-	<string key="MothersHope06" start="31" end="34" speaker="Empress Zhou" dialogue-next="MothersHope07">And I could only watch.</string>
-	<string key="MothersHope07" start="36" end="41" speaker="Empress Zhou" dialogue-next="MothersHope08">Prayers! Curatives! Rituals! Wise counsel! There is nothing I did not try!</string>
+	<string key="MothersHope04" start="18.5" end="25" speaker="Empress Zhou" dialogue-next="MothersHope05">It was a rebirth of a lost dream, and we flourished. And my son thrived.</string>
+	<string key="MothersHope05" start="26" end="31.5" speaker="Empress Zhou" dialogue-next="MothersHope06">On the eve of his adulthood, a strange sickness overcame him...</string>
+	<string key="MothersHope06" start="32" end="35" speaker="Empress Zhou" dialogue-next="MothersHope07">And I could only watch.</string>
+	<string key="MothersHope07" start="35.5" end="41" speaker="Empress Zhou" dialogue-next="MothersHope08">Prayers! Curatives! Rituals! Wise counsel! There is nothing I did not try!</string>
 	<string key="MothersHope08" start="42" end="45" speaker="Empress Zhou" dialogue-next="MothersHope09">That's when the whispers began...</string>
-	<string key="MothersHope09" start="47" end="51" speaker="Empress Zhou" dialogue-next="MothersHope10">I vowed to find a way to breach the Stormwall, my intuition said that would save him.</string>
+	<string key="MothersHope09" start="46" end="51.5" speaker="Empress Zhou" dialogue-next="MothersHope10">I vowed to find a way to breach the Stormwall, my intuition said that would save him.</string>
 	<string key="MothersHope10" start="52" end="59" speaker="Empress Zhou" dialogue-next="MothersHope11">Every attempt failed, and with each failure, my people's suffering increased.</string>
-	<string key="MothersHope11" start="62" end="69" speaker="Empress Zhou" dialogue-next="MothersHope12">Long have I known of the young upstart. But only now have I accepted her invitation to... listen.</string>
+	<string key="MothersHope11" start="61" end="69" speaker="Empress Zhou" dialogue-next="MothersHope12">Long have I known of the young upstart. But only now have I accepted her invitation to... listen.</string>
 	<string key="MothersHope12" start="71" end="79" speaker="Empress Zhou" dialogue-next="MothersHope13">My mother raised no fool. And yet, I admit to you, Isabella's bargain is not unreasonable.</string>
-	<string key="MothersHope13" start="81" end="83" speaker="Empress Zhou" dialogue-next="MothersHope14">The fleet is now ready to set sail...</string>
-	<string key="MothersHope14" start="84" end="91" speaker="Empress Zhou">Yet my balance falters upon the edge of a step I know I should not take.</string>
-	<string key="FallenAngel01" start="2" end="7" speaker="Father Russo" dialogue-next="FallenAngel02">I still recall the day I discovered an Angel visiting my church....</string>
-	<string key="FallenAngel02" start="8" end="16" speaker="Father Russo" dialogue-next="FallenAngel03">Isabella De Leon, a young woman of unsurpassed devotion, seeking redemption for generations of family shame.</string>
-	<string key="FallenAngel03" start="19" end="23" speaker="Father Russo" dialogue-next="FallenAngel04">It was I who first brought her to hear the mad ravings of the Heretic...</string>
+	<string key="MothersHope13" start="80" end="83" speaker="Empress Zhou" dialogue-next="MothersHope14">The fleet is now ready to set sail...</string>
+	<string key="MothersHope14" start="83.5" end="91" speaker="Empress Zhou">Yet my balance falters upon the edge of a step I know I should not take.</string>
+	<string key="FallenAngel01" start="1" end="7" speaker="Father Russo" dialogue-next="FallenAngel02">I still recall the day I discovered an Angel visiting my church...</string>
+	<string key="FallenAngel02" start="7.5" end="17" speaker="Father Russo" dialogue-next="FallenAngel03">Isabella de Leon, a young woman of unsurpassed devotion, seeking redemption for generations of family shame.</string>
+	<string key="FallenAngel03" start="19" end="23.5" speaker="Father Russo" dialogue-next="FallenAngel04">It was I who first brought her to hear the mad ravings of the Heretic...</string>
 	<string key="FallenAngel04" start="24" end="29" speaker="Father Russo" dialogue-next="FallenAngel05">And strangely found myself joining their ill-fated expedition.</string>
-	<string key="FallenAngel05" start="31" end="36" speaker="Father Russo" dialogue-next="FallenAngel06">On Aeternum, Isabella's aspiration became obsession...</string>
-	<string key="FallenAngel06" start="37" end="45" speaker="Father Russo" dialogue-next="FallenAngel07">And when she drank from the Fountain, her thirst for divine inspiration transformed into madness.</string>
-	<string key="FallenAngel07" start="47" end="54" speaker="Father Russo" dialogue-next="FallenAngel08">As the crimson thickened in her eyes, so did the hold of the demonic parasite in her soul.</string>
-	<string key="FallenAngel08" start="56" end="62" speaker="Father Russo" dialogue-next="FallenAngel09">She met the crew's questions with blood, leaving them as mindless husks.</string>
-	<string key="FallenAngel09" start="63" end="71" speaker="Father Russo" dialogue-next="FallenAngel10">My heart shattered, my faith lost... I struck down the Heretic for leading us to this damnation...</string>
-	<string key="FallenAngel10" start="72" end="79" speaker="Father Russo" dialogue-next="FallenAngel11">And I fled in shame to the Old World, determined to return and make this right.</string>
-	<string key="FallenAngel11" start="81" end="85" speaker="Father Russo" dialogue-next="FallenAngel12">In Rome, I gained access to the darkest archives of my order...</string>
-	<string key="FallenAngel12" start="86" end="92" speaker="Father Russo" dialogue-next="FallenAngel13">And there found answers that promised salvation when I returned to these shores.</string>
-	<string key="FallenAngel13" start="93" end="98" speaker="Father Russo" dialogue-next="FallenAngel14">I hired a Captain to bring me back, but after shipwrecking on the island,</string>
-	<string key="FallenAngel14" start="99" end="107" speaker="Father Russo">I saw what happened... the blessing I intended for her was bestowed on YOU instead.</string>
+	<string key="FallenAngel05" start="32.5" end="37" speaker="Father Russo" dialogue-next="FallenAngel06">On Aeternum, Isabella's aspiration became obsession...</string>
+	<string key="FallenAngel06" start="39" end="47" speaker="Father Russo" dialogue-next="FallenAngel07">And when she drank from the Fountain, her thirst for divine inspiration transformed into madness.</string>
+	<string key="FallenAngel07" start="48.2" end="55.8" speaker="Father Russo" dialogue-next="FallenAngel08">As the crimson thickened in her eyes, so did the hold of the demonic parasite within her soul.</string>
+	<string key="FallenAngel08" start="56" end="61.3" speaker="Father Russo" dialogue-next="FallenAngel09">She met the crew's questions with blood, leaving them as mindless husks.</string>
+	<string key="FallenAngel09" start="62" end="70.2" speaker="Father Russo" dialogue-next="FallenAngel10">My heart shattered, my faith lost... I struck down the Heretic for leading us to this damnation...</string>
+	<string key="FallenAngel10" start="71" end="78.5" speaker="Father Russo" dialogue-next="FallenAngel11">And I fled in shame to the Old World, determined to return and make this right.</string>
+	<string key="FallenAngel11" start="80" end="84" speaker="Father Russo" dialogue-next="FallenAngel12">In Rome, I gained access to the darkest archives of my order...</string>
+	<string key="FallenAngel12" start="84.5" end="91" speaker="Father Russo" dialogue-next="FallenAngel13">And there found answers that promised salvation when I returned to these shores.</string>
+	<string key="FallenAngel13" start="93" end="97.8" speaker="Father Russo" dialogue-next="FallenAngel14">I hired a Captain to bring me back, but after shipwrecking on the island,</string>
+	<string key="FallenAngel14" start="98.8" end="106.5" speaker="Father Russo">I saw what happened... the blessing I intended for her was bestowed upon YOU instead.</string>
+	<string key="ElysianIntro01" start="7" end="13" speaker="Taurus" dialogue-next="ElysianIntro02">Time has no claim on the Eternal Isle.</string>
+	<string key="ElysianIntro02" start="31" end="37" speaker="Taurus" dialogue-next="ElysianIntro03">And yet... change will come.</string>
+	<string key="ElysianIntro03" start="44" end="52" speaker="Taurus" dialogue-next="ElysianIntro04">Eternity... wasted on human ambition.</string>
+	<string key="ElysianIntro04" start="55" end="59" speaker="Taurus" dialogue-next="ElysianIntro05">Nature must rise and reign.</string>
+	<string key="ElysianIntro05" start="66" end="73" speaker="Artemis" dialogue-next="ElysianIntro06">Mighty Lords, let us cleanse these lands.</string>
+	<string key="ElysianIntro06" start="74" end="81" speaker="Taurus" dialogue-next="ElysianIntro07">But the future is fixed for neither man nor beast...</string>
+	<string key="ElysianIntro07" start="94" end="96" speaker="Artemis" dialogue-next="ElysianIntro08">End them.</string>
+	<string key="ElysianIntro08" start="103" end="108" speaker="Taurus">Change is coming for us all.</string>
+	<string key="EmptyThrone01" start="1" end="9" speaker="Sage Moira" dialogue-next="EmptyThrone02">King Artorius arrived on Aeternum 700 years ago to discover a people scattered and divided.</string>
+	<string key="EmptyThrone02" start="10.6" end="17" speaker="Sage Moira" dialogue-next="EmptyThrone03">Promising order, he united Southern Aeternum for the first time since the era of the Ancients.</string>
+	<string key="EmptyThrone03" start="20.2" end="25.2" speaker="Sage Moira" dialogue-next="EmptyThrone04">The king's rule was built upon the armor-clad shoulders of his sworn knights:</string>
+	<string key="EmptyThrone04" start="26" end="32" speaker="Sage Moira" dialogue-next="EmptyThrone05">Courageous Ser Gawain, fierce Ser Lancelot, and the loyal Ser Galahad.</string>
+	<string key="EmptyThrone05" start="34.2" end="38.2" speaker="Sage Moira" dialogue-next="EmptyThrone06">Their valor was tested when hordes of Corrupted attacked from the north...</string>
+	<string key="EmptyThrone06" start="39" end="46" speaker="Sage Moira" dialogue-next="EmptyThrone07">Guided by none other than the king's fallen advisor, the wizard Myrddin.</string>
+	<string key="EmptyThrone07" start="50.2" end="56.8" speaker="Sage Moira" dialogue-next="EmptyThrone08">In the wake of the conflict, King Artorius was gone, fate unknown as the kingdom crumbled.</string>
+	<string key="EmptyThrone08" start="57.5" end="63" speaker="Sage Moira" dialogue-next="EmptyThrone09">Lancelot left seeking vengeance and Galahad to create a new life...</string>
+	<string key="EmptyThrone09" start="64" end="71" speaker="Sage Moira" dialogue-next="EmptyThrone10">But Ser Gawain was heir to the throne - he departed seeking only divine blessing for his rule.</string>
+	<string key="EmptyThrone10" start="73.2" end="77.5" speaker="Sage Moira" dialogue-next="EmptyThrone11">Prydwen was in a dire state, ravaged by war, its people demoralized.</string>
+	<string key="EmptyThrone11" start="79.5" end="85" speaker="Sage Moira" dialogue-next="EmptyThrone12">It was Minister Lochnir who held the town together, safeguarding the throne for Gawain's return.</string>
+	<string key="EmptyThrone12" start="88.2" end="93" speaker="Sage Moira" dialogue-next="EmptyThrone13">But Ser Jin Jae of Ebonscale Reach captured the hearts of the people.</string>
+	<string key="EmptyThrone13" start="94.2" end="101.2" speaker="Sage Moira" dialogue-next="EmptyThrone14">After so many dark years, she emerged as a beacon of hope, and was appointed Knight-Regent.</string>
+	<string key="EmptyThrone14" start="103" end="106.6" speaker="Sage Moira" dialogue-next="EmptyThrone15">Now the Minister informs us he's spotted Ser Gawain's sails on the horizon...</string>
+	<string key="EmptyThrone15" start="109.8" end="115.6" speaker="Sage Moira">And we prepare for the true heir to finally come home and claim his throne.</string>
+	<string key="AncientAeternum01" start="0.5" end="7" speaker="Sage Moira" dialogue-next="AncientAeternum02">Aeternum's ruins tell the tale of a magnificent civilization that once dominated the island.</string>
+	<string key="AncientAeternum02" start="8" end="15" speaker="Sage Moira" dialogue-next="AncientAeternum03">Its architects, the Ancients, discovered - or possibly created - the energy we call Azoth.</string>
+	<string key="AncientAeternum03" start="16" end="26" speaker="Sage Moira" dialogue-next="AncientAeternum04">In the millennia that followed, humanity came from countless prehistoric cultures - Sumeria, China, Egypt, and more.</string>
+	<string key="AncientAeternum04" start="27" end="32" speaker="Sage Moira" dialogue-next="AncientAeternum05">They were called to explore the sea... summoned by the Ancients to this island.</string>
+	<string key="AncientAeternum05" start="34" end="37" speaker="Sage Moira" dialogue-next="AncientAeternum06">These early arrivals worshiped the Ancients as gods.</string>
+	<string key="AncientAeternum06" start="37.5" end="43" speaker="Sage Moira" dialogue-next="AncientAeternum07">They toiled under the Ancients' guidance, building hundreds of monuments and towers.</string>
+	<string key="AncientAeternum07" start="44" end="50.5" speaker="Sage Moira" dialogue-next="AncientAeternum08">But humanity's savage nature could not be tamed. Wars broke out...</string>
+	<string key="AncientAeternum08" start="51" end="56" speaker="Sage Moira" dialogue-next="AncientAeternum09">And amid the chaos, Corruption first appeared.</string>
+	<string key="AncientAeternum09" start="58" end="64" speaker="Sage Moira" dialogue-next="AncientAeternum10">To combat this new menace, the Ancients imbued a chosen few with gifts.</string>
+	<string key="AncientAeternum10" start="65" end="70" speaker="Sage Moira" dialogue-next="AncientAeternum11">These heroes were granted monumental powers... and life eternal.</string>
+	<string key="AncientAeternum11" start="71" end="76.5" speaker="Sage Moira" dialogue-next="AncientAeternum12">The wars raged on for centuries, and the Ancients' blessed entire armies...</string>
+	<string key="AncientAeternum12" start="77" end="83" speaker="Sage Moira" dialogue-next="AncientAeternum13">But most of the human vessels degraded into mindless skeletal warriors.</string>
+	<string key="AncientAeternum13" start="85" end="89.5" speaker="Sage Moira" dialogue-next="AncientAeternum14">Those wars ended millennia ago, and the Ancients disappeared.</string>
+	<string key="AncientAeternum14" start="90" end="98" speaker="Sage Moira">But their haunted Guardians still protect the ruins, oblivious to the fact their cause has long since lost its meaning.</string>
+	<string key="FallSoulwardens01" start="1" end="5" speaker="Yonas Alazar" dialogue-next="FallSoulwardens02">We were not the first to stand against the Corrupted.</string>
+	<string key="FallSoulwardens02" start="5.5" end="12.5" speaker="Yonas Alazar" dialogue-next="FallSoulwardens03">Heroes of a lost age once harnessed the magic of the Ancients to defend Aeternum.</string>
+	<string key="FallSoulwardens03" start="13" end="21" speaker="Yonas Alazar" dialogue-next="FallSoulwardens04">Delving into a tomb of legend, we found the ancient rites those heroes employed...</string>
+	<string key="FallSoulwardens04" start="21.5" end="26" speaker="Yonas Alazar" dialogue-next="FallSoulwardens05">And the Soulwarden Order was born.</string>
+	<string key="FallSoulwardens05" start="28" end="36.5" speaker="Yonas Alazar" dialogue-next="FallSoulwardens06">Harnessing the Ancients' magics, Romano blessed us with a bulwark against Corruption's influence.</string>
+	<string key="FallSoulwardens06" start="37" end="45" speaker="Yonas Alazar" dialogue-next="FallSoulwardens07">But this gift came at great sacrifice. We would never be the same again.</string>
+	<string key="FallSoulwardens07" start="46" end="51" speaker="Yonas Alazar" dialogue-next="FallSoulwardens08">Our newfound powers carried us to many victories...</string>
+	<string key="FallSoulwardens08" start="51.5" end="57" speaker="Yonas Alazar" dialogue-next="FallSoulwardens09">I began to believe we could actually vanquish the Corrupted.</string>
+	<string key="FallSoulwardens09" start="58" end="66.5" speaker="Yonas Alazar" dialogue-next="FallSoulwardens10">But the Crimson Sorcerer was a wily foe. He learned our secrets and exploited them.</string>
+	<string key="FallSoulwardens10" start="67" end="74" speaker="Yonas Alazar" dialogue-next="FallSoulwardens11">One by one, my fellow Wardens became Corrupted.</string>
+	<string key="FallSoulwardens11" start="75" end="86" speaker="Yonas Alazar" dialogue-next="FallSoulwardens12">The tower of Arcturus is where we made our stand. In a final act of desperation, Constanza and I would leap from the heights.</string>
+	<string key="FallSoulwardens12" start="87" end="92" speaker="Yonas Alazar" dialogue-next="FallSoulwardens13">But in the end, I was alone.</string>
+	<string key="FallSoulwardens13" start="95" end="105" speaker="Yonas Alazar" dialogue-next="FallSoulwardens14">I have tried to honor the memory of my fallen friends, but the memories are too much.</string>
+	<string key="FallSoulwardens14" start="106" end="114" speaker="Yonas Alazar">I am no longer a Soulwarden. There are no Soulwardens anymore.</string>
+	<string key="MedeasTribute01" start="1" end="9" speaker="Nessa Harrower" dialogue-next="MedeasTribute02">Two-thousand years ago, cataclysmic wars between Aeternum's earliest civilizations ravaged these southern plains.</string>
+	<string key="MedeasTribute02" start="10" end="16.5" speaker="Nessa Harrower" dialogue-next="MedeasTribute03">The sorceress Medea came to Windsward in the wars' aftermath, determined to restore this land.</string>
+	<string key="MedeasTribute03" start="18" end="23.5" speaker="Nessa Harrower" dialogue-next="MedeasTribute04">Though the Ancients were gone, Medea had learned many of their secrets.</string>
+	<string key="MedeasTribute04" start="24" end="31.5" speaker="Nessa Harrower" dialogue-next="MedeasTribute05">She channeled Azoth to create the Verdant Gemstones. These would shield and heal her new domain.</string>
+	<string key="MedeasTribute05" start="33" end="38.5" speaker="Nessa Harrower" dialogue-next="MedeasTribute06">The Elder Druids arrived centuries later to discover what had become a bountiful land.</string>
+	<string key="MedeasTribute06" start="39" end="47" speaker="Nessa Harrower" dialogue-next="MedeasTribute07">With Medea's blessing, they tended to the plants and animals, and Windsward flourished to new heights.</string>
+	<string key="MedeasTribute07" start="49" end="56.5" speaker="Nessa Harrower" dialogue-next="MedeasTribute08">But as centuries passed, the Sorceress developed new ambitions, seeking to claim realms previously beyond her reach.</string>
+	<string key="MedeasTribute08" start="57" end="65" speaker="Nessa Harrower" dialogue-next="MedeasTribute09">The Verdant Gemstones were left in the druids' care; this would now be their garden, their responsibility.</string>
+	<string key="MedeasTribute09" start="66" end="73.5" speaker="Nessa Harrower" dialogue-next="MedeasTribute10">But the wrath of the Angry Earth struck soon thereafter, and the druids were hopelessly outmatched.</string>
+	<string key="MedeasTribute10" start="74.5" end="81.5" speaker="Nessa Harrower" dialogue-next="MedeasTribute11">Medea returned with a fury, purging every last baleful sprig, rescuing Windsward once more.</string>
+	<string key="MedeasTribute11" start="83" end="89.5" speaker="Nessa Harrower" dialogue-next="MedeasTribute12">For their failure, the druids' exclusive claim was rescinded, and settlers came to Corinth.</string>
+	<string key="MedeasTribute12" start="90" end="97.5" speaker="Nessa Harrower" dialogue-next="MedeasTribute13">Medea demanded a tribute for her continued protection, hiring the Iron Rose Mercenaries to deliver it.</string>
+	<string key="MedeasTribute13" start="100" end="110.5" speaker="Nessa Harrower" dialogue-next="MedeasTribute14">Now it seems... something has gone awry yet again. I return home to find our land suffering, and my fellow druids with it.</string>
+	<string key="MedeasTribute14" start="111" end="121" speaker="Nessa Harrower">Druidic blessings turned to curses. Bounty turned to famine. And life withering away, no hope in sight.</string>
+	<string key="TroubleOxboro01" start="2" end="4" speaker="Grace O'Malley" dialogue-next="TroubleOxboro02">This town is much older than it looks.</string>
+	<string key="TroubleOxboro02" start="5" end="11" speaker="Grace O'Malley" dialogue-next="TroubleOxboro03">Believe it or not, it was the bleeding Roman Legions that first made it into a proper village.</string>
+	<string key="TroubleOxboro03" start="12" end="19" speaker="Grace O'Malley" dialogue-next="TroubleOxboro04">But it soon became a trading hub for all sorts... the crossroads of Aeternum, and so it was.</string>
+	<string key="TroubleOxboro04" start="20" end="26" speaker="Grace O'Malley" dialogue-next="TroubleOxboro05">People coming from all over to buy and sell, and the gold in the town's coffers piled up.</string>
+	<string key="TroubleOxboro05" start="27" end="33" speaker="Grace O'Malley" dialogue-next="TroubleOxboro06">The trade barons ran the place for profit; no kings, no queens, and no messing.</string>
+	<string key="TroubleOxboro06" start="34" end="38" speaker="Grace O'Malley" dialogue-next="TroubleOxboro07">Each of the town's factions had its own enforcers, and for a while that seemed to work.</string>
+	<string key="TroubleOxboro07" start="41" end="45" speaker="Grace O'Malley" dialogue-next="TroubleOxboro08">But it was just a matter of time until vice and greed turned to violence.</string>
+	<string key="TroubleOxboro08" start="46" end="50" speaker="Grace O'Malley" dialogue-next="TroubleOxboro09">Fighting broke out in the streets, and the whole town burned down.</string>
+	<string key="TroubleOxboro09" start="52" end="59" speaker="Grace O'Malley" dialogue-next="TroubleOxboro10">But coin has a way of fixing things fast - out of the ashes, the town of Oxboro came to life.</string>
+	<string key="TroubleOxboro10" start="61" end="65" speaker="Grace O'Malley" dialogue-next="TroubleOxboro11">The trade barons built it back: bigger, stronger, and more profitable than ever.</string>
+	<string key="TroubleOxboro11" start="66" end="69" speaker="Grace O'Malley" dialogue-next="TroubleOxboro12">And word is it's been smooth sailing ever since.</string>
+	<string key="TroubleOxboro12" start="71" end="76" speaker="Grace O'Malley" dialogue-next="TroubleOxboro13">Even when the Corruption spread across the land centuries ago, Oxboro was still sitting pretty.</string>
+	<string key="TroubleOxboro13" start="78" end="84" speaker="Grace O'Malley" dialogue-next="TroubleOxboro14">These days, coin's flowing like never before, but the trade barons hoard their wealth from the shadows...</string>
+	<string key="TroubleOxboro14" start="86" end="94" speaker="Grace O'Malley">It may be tricky, but there's a fortune to be made here, and Grace O'Malley won't be leaving until she gets her share.</string>
+	<string key="LaEsperanza01" start="1" end="3.7" speaker="Grimm" dialogue-next="LaEsperanza02">Fortune favors the bold.</string>
+	<string key="LaEsperanza02" start="6" end="11.4" speaker="Grimm" dialogue-next="LaEsperanza03">And nary was there a captain and crew as brave - or feared - as ours.</string>
+	<string key="LaEsperanza03" start="13.5" end="15.4" speaker="Grimm" dialogue-next="LaEsperanza04">We were unstoppable.</string>
+	<string key="LaEsperanza04" start="17" end="21.7" speaker="Grimm" dialogue-next="LaEsperanza05">Until the phantom galleon "Esperanza" appeared on the horizon.</string>
+	<string key="LaEsperanza05" start="25" end="31" speaker="Grimm" dialogue-next="LaEsperanza06">Aye... we knew the ship well. Story went she plundered a legendary island.</string>
+	<string key="LaEsperanza06" start="31.8" end="33.4" speaker="Grimm" dialogue-next="LaEsperanza07">And was never seen again.</string>
+	<string key="LaEsperanza07" start="37" end="47" speaker="Grimm" dialogue-next="LaEsperanza08">On board, the wind was still - the Esperanza's crew entombed within, all slaughtered by an unknown hand...</string>
+	<string key="LaEsperanza08" start="47.8" end="55.4" speaker="Grimm" dialogue-next="LaEsperanza09">Our courage rewarded - the most legendary treasure in the southern seas was ours to claim.</string>
+	<string key="LaEsperanza09" start="57.5" end="65.2" speaker="Grimm" dialogue-next="LaEsperanza10">That evening, as we celebrated our newfound wealth, treacherous thoughts took hold...</string>
+	<string key="LaEsperanza10" start="67" end="72.5" speaker="Grimm" dialogue-next="LaEsperanza11">I was awakened in the night to sounds of pistol fire, a mutiny under way.</string>
+	<string key="LaEsperanza11" start="74" end="77.4" speaker="Grimm" dialogue-next="LaEsperanza12">I rushed through smoke and flame to the Captain's quarters.</string>
+	<string key="LaEsperanza12" start="78" end="82" speaker="Grimm" dialogue-next="LaEsperanza13">But I was too late... the Captain was already slain.</string>
+	<string key="LaEsperanza13" start="84" end="90.7" speaker="Grimm" dialogue-next="LaEsperanza14">When I reached the deck, all was lost. We’d sailed into the heart of a hellish storm...</string>
+	<string key="LaEsperanza14" start="92" end="97" speaker="Grimm" dialogue-next="LaEsperanza15">Our ill fortune ran us aground on the ragged coast of Aeternum.</string>
+	<string key="LaEsperanza15" start="100.8" end="106.7" speaker="Grimm" dialogue-next="LaEsperanza16">I was the only survivor... and the treasure, scattered along the shore.</string>
+	<string key="LaEsperanza16" start="107.7" end="116.2" speaker="Grimm">Fortune favors the bold... but those cursed doubloons will bring naught but a wealth of horror.</string>
+	<string key="Intro_A_01" start="26" end="31.2" speaker="Sailor" dialogue-next="Intro_A_02">I don’t like it. Sailin' to an uncharted island with strange folk aboard--</string>
+	<string key="Intro_A_02" start="32.1" end="35.1" speaker="Deckhand" dialogue-next="Intro_A_03">Keep yer voice down! Lest ye want the cap’n ta hear ye.</string>
+	<string key="Intro_A_03" start="36.1" end="44" speaker="Sailor" dialogue-next="Intro_A_04">It ain’t the Captain I’m worried about, it’s that priest... If he’s a man of the cloth I’m the Virgin Mary.</string>
+	<string key="Intro_A_04" start="55.1" end="58" speaker="Father Russo" dialogue-next="Intro_A_05">All you seek will soon be yours, Captain.</string>
+	<string key="Intro_A_05" start="58.2" end="61.3" speaker="Father Russo" dialogue-next="Intro_A_06">It is indeed the island of legend.</string>
+	<string key="Intro_A_06" start="63" end="64.2" speaker="Captain Thorpe" dialogue-next="Intro_A_07">So you say...</string>
+	<string key="Intro_A_07" start="65.2" end="78.1" speaker="Captain Thorpe" dialogue-next="Intro_A_08">If you’re wrong, the price of the voyage will be paid in blood. Yours and those vagabonds you’ve brought along.</string>
+	<string key="Intro_A_08" start="78.2" end="80.2" speaker="Father Russo" dialogue-next="Intro_A_09">They merely seek adventure, Captain.</string>
+	<string key="Intro_A_09" start="81.3" end="86.1" speaker="Father Russo">The island calls to those who choose to forge their own destiny.</string>
+	<string key="Intro_B_01" start="6.2" end="8.1" speaker="Captain Thorpe" dialogue-next="Intro_B_02">You lied to me, priest!</string>
+	<string key="Intro_B_02" start="8.4" end="11.2" speaker="Father Russo" dialogue-next="Intro_B_03">I warned you the journey would be difficult.</string>
+	<string key="Intro_B_03" start="12.3" end="16.9" speaker="Captain Thorpe" dialogue-next="Intro_B_04">You said nothing about sailing through the very gates of Hell!</string>
+	<string key="Intro_B_04" start="18.6" end="25" speaker="Father Russo" dialogue-next="Intro_B_05">Hell is all but inevitable for one such as you, Aldous Thorpe.</string>
+	<string key="Intro_B_05" start="26" end="30" speaker="Father Russo" dialogue-next="Intro_B_06">The island offers something much greater than gold...</string>
+	<string key="Intro_B_06" start="31.5" end="33.1" speaker="Father Russo" dialogue-next="Intro_B_07">Redemption...</string>
+	<string key="Intro_B_07" start="33.6" end="38.6" speaker="Father Russo" dialogue-next="Intro_B_08">For me and perhaps... even for you.</string>
+	<string key="Intro_B_08" start="39.8" end="41.8" speaker="Father Russo" dialogue-next="Intro_B_09">Do not fear the storm, Captain.</string>
+	<string key="Intro_B_09" start="42.7" end="44.1" speaker="Father Russo" dialogue-next="Intro_B_10">Faith...</string>
+	<string key="Intro_B_10" start="44.7" end="46.5" speaker="Father Russo" dialogue-next="Intro_B_11">...will see us through.</string>
+	<string key="Intro_B_11" start="99.7" end="102" speaker="Mysterious Voice" dialogue-next="Intro_B_12">Captain...</string>
+	<string key="Intro_B_12" start="104.6" end="107" speaker="Mysterious Voice" dialogue-next="Intro_B_13">Captain...</string>
+	<string key="Intro_B_13" start="112" end="115.5" speaker="Mysterious Voice" dialogue-next="Intro_B_14">You will obey.</string>
+	<string key="Intro_B_14" start="123.5" end="124.5" speaker="Father Russo">HNGGHHHHH...!</string>
+	<string key="Intro_C_01" start="0" end="1" speaker=""/>
+	<string key="Resurrection_01" start="8.3" end="12.4" speaker="Mysterious Voice" dialogue-next="Resurrection_02">You have stolen what is mine...</string>
+	<string key="Resurrection_02" start="17.6" end="19" speaker="" dialogue-next="Resurrection_03">And now...</string>
+	<string key="Resurrection_03" start="21" end="23" speaker="" dialogue-next="Resurrection_04">...you will join me.</string>
+	<string key="Resurrection_04" start="41.3" end="47" speaker="">No matter. You will be mine soon enough.</string>
+	<string key="Ritual_01" start="3.3" end="4.9" speaker="Yonas Alazar" dialogue-next="Ritual_02">Be still.</string>
+	<string key="Ritual_02" start="23.8" end="27" speaker="Yonas Alazar" dialogue-next="Ritual_03">The ritual is complete.</string>
+	<string key="Ritual_03" start="27.1" end="34.2" speaker="Yonas Alazar">For better or worse, you are now a true Soulwarden.</string>
 	<string key="FinalCinePlaceholderSub01" start="1" end="15">Placeholder video for the final version.</string>
 </resources>
 

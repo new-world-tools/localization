@@ -2,15 +2,15 @@
 	<string key="tip_overworld_achievements_general01-title">Achievements</string>
 	<string key="tip_overworld_achievements_general01-content">[Placeholder]</string>
 	<string key="tip_overworld_aeternumFactions_theLost01-title">The Lost</string>
-	<string key="tip_overworld_aeternumFactions_theLost01-content">The Lost are proof that eternal existence is not the same as fairy-tale immortality; for some, it comes at a terrible price. People become Lost through endless cycles of death and rebirth that wither their souls until there's nothing left.</string>
+	<string key="tip_overworld_aeternumFactions_theLost01-content">The Lost are proof that eternal existence is not the same as fairy-tale immortality. For some, it comes at a terrible price. People become Lost through endless cycles of death and rebirth that wither their souls until there's nothing left.</string>
 	<string key="tip_overworld_aeternumFactions_theLost02-title">The Lost</string>
 	<string key="tip_overworld_aeternumFactions_theLost02-content">Lost are weak to Strike, Ice, and Nature damage.</string>
 	<string key="tip_overworld_aeternumFactions_theAncients01-title">The Ancients</string>
-	<string key="tip_overworld_aeternumFactions_theAncients01-content">The origin of the Ancients, and any knowledge of their civilization, has been lost to dusty memory. All that remains are relics: crumbled monuments, ruins of cities, and legions of skeletal warriors.</string>
+	<string key="tip_overworld_aeternumFactions_theAncients01-content">The origin of the Ancients and any knowledge of their civilization has been lost to dusty memory. All that remains are relics: crumbled monuments, ruins of cities, and legions of skeletal warriors.</string>
 	<string key="tip_overworld_aeternumFactions_theAncients02-title">The Ancients</string>
 	<string key="tip_overworld_aeternumFactions_theAncients02-content">Ancient Guardians are weak to Strike, Lightning, and Void damage.</string>
 	<string key="tip_overworld_aeternumFactions_theAngryEarth01-title">The Angry Earth</string>
-	<string key="tip_overworld_aeternumFactions_theAngryEarth01-content">The intermingling of Azoth and nature is most evident in the Angry Earth, a variety of plant-like creatures so named for their fierce guardianship of the wilderness of Aeternum.</string>
+	<string key="tip_overworld_aeternumFactions_theAngryEarth01-content">The intermingling of Azoth and nature is most evident in the Angry Earth - a variety of plant-like creatures so named for their fierce guardianship of the wilderness of Aeternum.</string>
 	<string key="tip_overworld_aeternumFactions_theAngryEarth02-title">The Angry Earth</string>
 	<string key="tip_overworld_aeternumFactions_theAngryEarth02-content">Angry Earth are weak to Slash and Fire damage.</string>
 	<string key="tip_overworld_aeternumFactions_theCorrupted01-title">The Corrupted</string>
@@ -23,8 +23,6 @@
 	<string key="tip_overworld_azoth_acquireFrom01-content">The most reliable sources for acquiring Azoth are completing Quests and closing Corruption Breaches.</string>
 	<string key="tip_overworld_azoth_acquireFrom02-title">Fast Travel</string>
 	<string key="tip_overworld_azoth_acquireFrom02-content">You'll rarely collect Azoth from defeating enemies, but the likelihood can be increased with certain item perks.</string>
-	<string key="tip_overworld_camping_resting01-title">Camping</string>
-	<string key="tip_overworld_camping_resting01-content">Rest at your Camp to recover Health before going into unknown areas.</string>
 	<string key="tip_overworld_camping_upgrades01-title">Camp Upgrades</string>
 	<string key="tip_overworld_camping_upgrades01-content">You can unlock upgrades to your Camp at Levels 15, 25, 40, and 55.</string>
 	<string key="tip_overworld_camping_respawn01-title">Camping</string>
@@ -52,23 +50,23 @@
 	<string key="tip_overworld_combat_duels01-title">Duels</string>
 	<string key="tip_overworld_combat_duels01-content">There's no penalty for losing a Duel so don't be afraid to take on all challengers!</string>
 	<string key="tip_overworld_combat_duels02-title">Duels</string>
-	<string key="tip_overworld_combat_duels02-content">Ammo is not consumed during Duels.</string>
+	<string key="tip_overworld_combat_duels02-content">Duels cannot be started inside a settlement.</string>
 	<string key="tip_overworld_combat_pvpFlagging01-title">PvP Flagging</string>
 	<string key="tip_overworld_combat_pvpFlagging01-content">You can turn your PvP flag on and off at Sanctuaries including Settlements, Outposts, Watchtowers, and at Spirit Shrines.</string>
 	<string key="tip_overworld_combat_pvpFlagging02-title">PvP Flagging</string>
 	<string key="tip_overworld_combat_pvpFlagging02-content">Before leaving a Territory, be sure to double-check if you're Flagged for PVP!</string>
 	<string key="tip_overworld_combat_npcNameplates01-title">Enemy Nameplates</string>
-	<string key="tip_overworld_combat_npcNameplates01-content">If the enemy has a Skull &lt;img src="lyshineui/images/loadingscreen/icons/nameplateskull" xPadding="0" scale="2.0" yOffset="6.0"&gt;&lt;/img&gt; over their health bar, don't engage! This indicates a level, and difficulty, much higher than yours. Aeternum does not show mercy.</string>
+	<string key="tip_overworld_combat_npcNameplates01-content">If the enemy has a Skull &lt;img src="lyshineui/images/loadingscreen/icons/nameplateskull" xPadding="0" scale="2.0" yOffset="6.0"&gt;&lt;/img&gt; over their health bar, don't engage! This indicates a level and difficulty much higher than yours. Aeternum does not show mercy.</string>
 	<string key="tip_overworld_combat_weaponCoatings01-title">Weapon Coatings</string>
-	<string key="tip_overworld_combat_weaponCoatings01-content">Weapon Coatings are powerful, short-term buffs that you apply to a weapon to give yourself an advantage against a certain family of enemies, such as the Corrupted or the Ancients. Coatings work on ranged and magical weapons, too!</string>
+	<string key="tip_overworld_combat_weaponCoatings01-content">Weapon Coatings are powerful, short-term buffs that you apply to a weapon to give yourself an advantage against a certain family of enemies, such as the Corrupted or the Ancients. Coatings work on ranged and magical weapons too!</string>
 	<string key="tip_overworld_combat_grit01-title">Grit</string>
-	<string key="tip_overworld_combat_grit01-content">If a character glows White during an attack, they can't be interrupted, except by Crowd Control Status Effects (Slow, Root, and Stun).</string>
+	<string key="tip_overworld_combat_grit01-content">If an attacking character glows White, only Crowd Control Status Effects (Slow, Root, and Stun) can interrupt them.</string>
 	<string key="tip_overworld_combat_swordAndShield01-title">The Offhand Shield</string>
 	<string key="tip_overworld_combat_swordAndShield01-content">Shield perks are only active if the shield is unsheathed.</string>
 	<string key="tip_overworld_combat_rapier01-title">The Rapier</string>
-	<string key="tip_overworld_combat_rapier01-content">The Rapier's speedy cuts pair well with other Intelligence-based weapons such as Staves and Gauntlets.</string>
+	<string key="tip_overworld_combat_rapier01-content">The Rapier's speedy cuts pair well with other Intelligence-based weapons, such as Staves and Gauntlets.</string>
 	<string key="tip_overworld_combat_hatchet01-title">The Hatchet</string>
-	<string key="tip_overworld_combat_hatchet01-content">For the best defense, combine Uninterruptible Berserk and Defy Death to force your way through enemies, then recover with Berserking Refresh!</string>
+	<string key="tip_overworld_combat_hatchet01-content">For the best defense, combine Uninterruptible Berserk and Defy Death to force your way through enemies, and then recover with Berserking Refresh!</string>
 	<string key="tip_overworld_combat_spear01-title">The Spear</string>
 	<string key="tip_overworld_combat_spear01-content">The Spear's Zoning Abilities and Dexterity-based scaling make it a great pairing for Ranged Weapons.</string>
 	<string key="tip_overworld_combat_greatAxe01-title">The Great Axe</string>
@@ -76,11 +74,11 @@
 	<string key="tip_overworld_combat_warHammer01-title">The War Hammer</string>
 	<string key="tip_overworld_combat_warHammer01-content">The War Hammer deals Strike damage, which is effective against Ancients and Lost.</string>
 	<string key="tip_overworld_combat_bow01-title">The Bow</string>
-	<string key="tip_overworld_combat_bow01-content">While in Aim Mode with the bow you can Charge Up your shot by holding the attack button.</string>
+	<string key="tip_overworld_combat_bow01-content">While in Aim Mode with the bow, you can Charge Up your shot by holding the attack button.</string>
 	<string key="tip_overworld_combat_musket01-title">The Musket</string>
-	<string key="tip_overworld_combat_musket01-content">Remember to lay some ground traps nearby if you find a good place to snipe from.</string>
+	<string key="tip_overworld_combat_musket01-content">Musket shots will penetrate multiple enemies in the line of fire.</string>
 	<string key="tip_overworld_combat_fireStaff01-title">Stoke the Flames</string>
-	<string key="tip_overworld_combat_fireStaff01-content">The Fire Staff can be utilized for large Crowd Control, or stacking Burn Statuses to a devastating effect.</string>
+	<string key="tip_overworld_combat_fireStaff01-content">The Fire Staff can be utilized for large Crowd Control or stacking Burn Statuses to a devastating effect.</string>
 	<string key="tip_overworld_combat_lifeStaff01-title">The Life Staff</string>
 	<string key="tip_overworld_combat_lifeStaff01-content">If there are no allies around, you can always use Orb of Protection at your feet to Buff yourself.</string>
 	<string key="tip_overworld_combat_iceGaunlet01-title">The Ice Gauntlet</string>
@@ -88,17 +86,15 @@
 	<string key="tip_overworld_combat_voidGaunlet01-title">The Void Gauntlet</string>
 	<string key="tip_overworld_combat_voidGaunlet01-content">The Void Gauntlet's numerous Buffs and Debuffs make it very effective in group combat.</string>
 	<string key="tip_overworld_combat_ai01-title">Retreating Enemies</string>
-	<string key="tip_overworld_combat_ai01-content">Enemies in the world will retreat and become temporarily invulnerable if they are led too far from home, or cannot reach you.</string>
+	<string key="tip_overworld_combat_ai01-content">Enemies in the world will retreat and become temporarily invulnerable if they are led too far from home or cannot reach you.</string>
 	<string key="tip_overworld_company_benefits01-title">Companies</string>
 	<string key="tip_overworld_company_benefits01-content">Join a Company and fight alongside your friends against the Corrupted and siege opposing Faction Territories.</string>
 	<string key="tip_overworld_company_benefits02-title">Companies</string>
 	<string key="tip_overworld_company_benefits02-content">Only Companies can declare war and siege Territories to take them over. As Governor of a Territory, your Company earns coin through upkeep, gets huge discounts on Fast Travel, and contributes to the success of your whole Faction.</string>
 	<string key="tip_overworld_company_benefits03-title">Companies</string>
 	<string key="tip_overworld_company_benefits03-content">Communicate and Group up easily with company members. See when members were last online and get access to a shared amount of Coin in the Company Treasury.</string>
-	<string key="tip_overworld_crafting_resources01-title">Resource Locations</string>
-	<string key="tip_overworld_crafting_resources01-content">Check the Resource Locations section of the Map to find out what biome the Resources you need are typically found in.</string>
 	<string key="tip_overworld_crafting_consumables01-title">Crafting</string>
-	<string key="tip_overworld_crafting_consumables01-content">Food isn’t just for recovering after a fight! There are foods that increase your chances of getting rare crafting materials and foods that improve your crafting skill, as well.</string>
+	<string key="tip_overworld_crafting_consumables01-content">Food isn’t just for recovering after a fight! There are foods that increase your chances of getting rare crafting materials and foods that improve your crafting skill as well.</string>
 	<string key="tip_overworld_crafting_materials01-title">Crafting</string>
 	<string key="tip_overworld_crafting_materials01-content">When crafting equipment, you can use higher-tier secondary materials to improve the item’s gear score. The higher the tier of the secondary resource, the more its gear score is improved!</string>
 	<string key="tip_overworld_crafting_materials02-title">Crafting</string>
@@ -116,11 +112,9 @@
 	<string key="tip_overworld_crafting_azoth01-title">Crafting</string>
 	<string key="tip_overworld_crafting_azoth01-content">The top-end of the potential Gear Score range for a crafted item increases as your Trade Skill increases. This allows you to add more Azoth to improve your crafting.</string>
 	<string key="tip_overworld_crafting_gypsum01-title">Crafting</string>
-	<string key="tip_overworld_crafting_gypsum01-content">Craft a Topaz Gypsum Attunement Potion at any Arcana Station or Tier 5 Camp. When attuned, you can earn Topaz Gypsum as a random drop from level 55+ enemies.</string>
+	<string key="tip_overworld_crafting_gypsum01-content">Craft a Topaz Gypsum Attunement Potion at any Arcana Station or Tier 5 Camp. When attuned, you can earn Topaz Gypsum as a random drop from Level 55+ enemies.</string>
 	<string key="tip_overworld_darkness_events01-title">Darkness</string>
 	<string key="tip_overworld_darkness_events01-content">[Placeholder]</string>
-	<string key="tip_overworld_death_durability01-title">A Dull Blade is More Dangerous</string>
-	<string key="tip_overworld_death_durability01-content">Items take damage any time you die. Remember to Repair them before returning to the fight. Nothing is worse than a sword that breaks mid-swing.</string>
 	<string key="tip_elitestrongholds_general01-title">Elite Strongholds</string>
 	<string key="tip_elitestrongholds_general01-content">Prepare yourself before entering an Elite Stronghold. And definitely bring friends!</string>
 	<string key="tip_elitestrongholds_general02-title">Elite Strongholds</string>
@@ -134,17 +128,15 @@
 	<string key="tip_overworld_equipment_equipmentLoad01-title">Equipment</string>
 	<string key="tip_overworld_equipment_equipmentLoad01-content">Your Equipment Load determines how you will Dodge. A LIGHT Equipment Load will allow you to roll out of danger when Dodging.</string>
 	<string key="tip_overworld_equipment_skins01-title">Item Skins</string>
-	<string key="tip_overworld_equipment_skins01-content">To equip a skin, select a weapon or piece of armor in your Inventory and select the "Change Skin" option to equip any skin you own for that item.</string>
+	<string key="tip_overworld_equipment_skins01-content">To equip a skin, select a weapon or piece of armor in your Inventory and choose the "Change Skin" option.</string>
 	<string key="tip_overworld_equipment_dyes01-title">Dyes</string>
 	<string key="tip_overworld_equipment_dyes01-content">Dye can be applied to different parts of each item. Make sure you try out different combinations before committing to a color scheme.</string>
 	<string key="tip_overworld_equipment_rarity01-title">Utility Determines Value</string>
-	<string key="tip_overworld_equipment_rarity01-content">Items with higher rarity generally have special effects or gem sockets. Make sure to weigh all the benefits, not just gear score.</string>
+	<string key="tip_overworld_equipment_rarity01-content">Items with higher rarity generally have special effects or gem sockets. Make sure to weigh all the benefits and not just gear score.</string>
 	<string key="tip_overworld_equipment_gems01-title">Gems</string>
 	<string key="tip_overworld_equipment_gems01-content">Want to tank? Socket a Carnelian Gem into a weapon to unlock Taunts on some abilities.</string>
-	<string key="tip_overworld_equipment_salvage01-title">Hard Times, Easy Choices</string>
-	<string key="tip_overworld_equipment_salvage01-content">Salvaging items gives you Repair Parts and can sometimes reduce overall Weight. Remember to Salvage weapons and armor you aren't using.</string>
 	<string key="tip_overworld_equipment_storage01-title">Fully Stocked</string>
-	<string key="tip_overworld_equipment_storage01-content">Crafting in a Settlement can pull resources from Inventory or Storage, no need to haul all those ingredients around.</string>
+	<string key="tip_overworld_equipment_storage01-content">Crafting in a Settlement can pull resources from Inventory or Storage.</string>
 	<string key="tip_overworld_equipment_damage01-title">Equipment Damage</string>
 	<string key="tip_overworld_equipment_damage01-content">Equipped items take damage on use and on death.</string>
 	<string key="tip_overworld_equipment_lockingItems01-title">Locking Items</string>
@@ -188,15 +180,15 @@
 	<string key="tip_overworld_fishing_hotspots05-title">Fishing</string>
 	<string key="tip_overworld_fishing_hotspots05-content">As your Fishing Level rises, more Hotspots become available for discovery.</string>
 	<string key="tip_overworld_fishing_hotspots06-title">Fishing</string>
-	<string key="tip_overworld_fishing_hotspots06-content">To discover a hotspot, you must be of high enough fishing level, then walk within its proximity.</string>
+	<string key="tip_overworld_fishing_hotspots06-content">You must have a high enough Fishing Level to discover hotspots.</string>
 	<string key="tip_overworld_fishing_hotspots07-title">Fishing</string>
 	<string key="tip_overworld_fishing_hotspots07-content">Fishing in active hotspots will get you bites almost immediately.</string>
 	<string key="tip_overworld_fishing_hotspots08-title">Fishing</string>
 	<string key="tip_overworld_fishing_hotspots08-content">Different hotspots offer different fish to catch depending on the Territory and water type.</string>
 	<string key="tip_overworld_fishing_progression01-title">Fishing</string>
-	<string key="tip_overworld_fishing_progression01-content">As your fishing level rises, you will be able to cast further.</string>
+	<string key="tip_overworld_fishing_progression01-content">As your Fishing Level rises, you will be able to cast further.</string>
 	<string key="tip_overworld_fishing_progression02-title">Fishing</string>
-	<string key="tip_overworld_fishing_progression02-content">Find Fishing Master Shields to start the Fishing Quests.</string>
+	<string key="tip_overworld_fishing_progression02-content">Find Perronelle le Noir to start the Fishing Quests.</string>
 	<string key="tip_overworld_fishing_progression03-title">Fishing</string>
 	<string key="tip_overworld_fishing_progression03-content">Win Fishing Armor by completing the Fishing Quests.</string>
 	<string key="tip_overworld_fishing_progression04-title">Fishing</string>
@@ -210,7 +202,7 @@
 	<string key="tip_overworld_fishing_mechanics04-title">Fishing</string>
 	<string key="tip_overworld_fishing_mechanics04-content">Any Bait will decrease the time taken to get bites.</string>
 	<string key="tip_overworld_fishing_poles01-title">Fishing</string>
-	<string key="tip_overworld_fishing_poles01-content">Better fishing poles can cast further, have higher durability, faster line tension recovery, and increased chance of catching rarer fish.</string>
+	<string key="tip_overworld_fishing_poles01-content">Better fishing poles have faster line tension recovery and increased chance of catching rarer fish.</string>
 	<string key="tip_overworld_fishing_poles02-title">Fishing</string>
 	<string key="tip_overworld_fishing_poles02-content">Equip the Fishing Pole into the Inventory Tool Slot to use it.</string>
 	<string key="tip_overworld_fishing_fishItems01-title">Fishing</string>
@@ -234,7 +226,7 @@
 	<string key="tip_ftue_keybindings-title">[Placeholder]</string>
 	<string key="tip_ftue_keybindings-content">[Placeholder]</string>
 	<string key="tip_overworld_gameModes_arenaKeys01-title">Trials</string>
-	<string key="tip_overworld_gameModes_arenaKeys01-content">Have you found one yet? A Trial is a rare event where you and your friends fight a deadly, legendary creature.</string>
+	<string key="tip_overworld_gameModes_arenaKeys01-content">Have you found one yet? A Trial is an event where you and your friends fight a deadly, legendary creature.</string>
 	<string key="tip_overworld_gameModes_outpostRush01-title">Outpost Rush</string>
 	<string key="tip_overworld_gameModes_outpostRush01-content">You can queue for Outpost Rush at your Faction Representative or in the Modes menu.</string>
 	<string key="tip_overworld_gameModes_war01-title">War</string>
@@ -256,7 +248,7 @@
 	<string key="tip_overworld_housing_ownership01-title">Housing</string>
 	<string key="tip_overworld_housing_ownership01-content">You can only own 1 House in a Territory at a time.</string>
 	<string key="tip_overworld_housing_ownership02-title">Housing</string>
-	<string key="tip_overworld_housing_ownership02-content">You can own up to 3 houses in the world if you meet the level, Territory, and monetary requirements.</string>
+	<string key="tip_overworld_housing_ownership02-content">You can own up to 3 houses in the world if you meet the Level, Territory, and Coin requirements.</string>
 	<string key="tip_overworld_housing_ownership03-title">Housing</string>
 	<string key="tip_overworld_housing_ownership03-content">You can get a discount on your first house.</string>
 	<string key="tip_overworld_housing_ownership04-title">Housing</string>
@@ -274,7 +266,7 @@
 	<string key="tip_overworld_housing_score02-title">Housing</string>
 	<string key="tip_overworld_housing_score02-content">Want to up the curb appeal of your House? Place more items in it, then complete Missions and defeat monsters in the Territory your House is in. Rarer Furnishings cause your curb appeal to increase faster.</string>
 	<string key="tip_overworld_misc_general01-title">Take A Break</string>
-	<string key="tip_overworld_misc_general01-content">Remember to take a break when you've been playing New World continuously for a long period of time.</string>
+	<string key="tip_overworld_misc_general01-content">Remember to take a break when you've been playing New World: Aeternum continuously for a long period of time.</string>
 	<string key="tip_overworld_misc_general02-title">Screenshots</string>
 	<string key="tip_overworld_misc_general02-content">Take screenshots and hide your UI to get the most out of the scenery.</string>
 	<string key="tip_overworld_misc_general03-title">Between a Rock and a Hard Place</string>
@@ -294,7 +286,7 @@
 	<string key="tip_overworld_movement_lore01-title">Lore Pages</string>
 	<string key="tip_overworld_movement_lore01-content">Feed your head! Reading Lore Pages on Aeternum awards XP!</string>
 	<string key="tip_overworld_pings_contextualPings01-title">Contextual Pings</string>
-	<string key="tip_overworld_pings_contextualPings01-content">Quick pings are contextual. Placing one in the environment, PvP enemies, or loot, will ping "Moving Here", "Danger Here", and "Loot Here".</string>
+	<string key="tip_overworld_pings_contextualPings01-content">Quick pings are contextual. Pinging the environment, PvP enemies, or loot will ping "Moving Here", "Danger Here", and "Loot Here".</string>
 	<string key="tip_overworld_pings_pingWheel01-title">Ping Wheel</string>
 	<string key="tip_overworld_pings_pingWheel01-content">Open the Ping Wheel for more ping types.</string>
 	<string key="tip_overworld_pings_targetMarking01-title">Target Marking</string>
@@ -306,7 +298,7 @@
 	<string key="tip_overworld_pvpRewardsTrack_general02-title" rel_version="PvP_Rewards_Track">PvP Rewards Track</string>
 	<string key="tip_overworld_pvpRewardsTrack_general02-content" rel_version="PvP_Rewards_Track">A PvP victim must have been flagged for at least 10 minutes to be worth anything to kill. This scales up the longer they are flagged.</string>
 	<string key="tip_overworld_pvpRewardsTrack_general03-title" rel_version="PvP_Rewards_Track">PvP Rewards Track</string>
-	<string key="tip_overworld_pvpRewardsTrack_general03-content" rel_version="PvP_Rewards_Track">PvP XP and Azoth Salt are awarded for overall performance in Outpost Rush or War; not per kill.</string>
+	<string key="tip_overworld_pvpRewardsTrack_general03-content" rel_version="PvP_Rewards_Track">PvP XP and Azoth Salt are awarded for overall performance in Outpost Rush or War.</string>
 	<string key="tip_overworld_pvpRewardsTrack_general04-title" rel_version="PvP_Rewards_Track">PvP Rewards Track</string>
 	<string key="tip_overworld_pvpRewardsTrack_general04-content" rel_version="PvP_Rewards_Track">Earning XP while flagged will reward Azoth Salt at set intervals.</string>
 	<string key="tip_overworld_quests_quests01-title">New Quests</string>
@@ -314,7 +306,7 @@
 	<string key="tip_overworld_quests_quests02-title">Quests and Travel</string>
 	<string key="tip_overworld_quests_quests02-content">Always check before heading out to a distant location to see if any Spirit Shrines can hasten your journey.</string>
 	<string key="tip_overworld_quests_quests03-title">Main Story Quests</string>
-	<string key="tip_overworld_quests_quests03-content">Main Story Quests will always appear at the top of your Journal, but that doesn't always mean they should be your highest priority.</string>
+	<string key="tip_overworld_quests_quests03-content">Main Story Quests will always appear at the top of your Journal.</string>
 	<string key="tip_overworld_quests_quests04-title">Quest Rewards</string>
 	<string key="tip_overworld_quests_quests04-content">The best Rewards are generally earned by completing the Final Quests in a chain in each Territory.</string>
 	<string key="tip_overworld_quests_quests05-title">Main Story Quests</string>
@@ -346,17 +338,17 @@
 	<string key="tip_overworld_tradeSkills_hemp01-title">Hemp</string>
 	<string key="tip_overworld_tradeSkills_hemp01-content">[Placeholder]</string>
 	<string key="tip_overworld_tradingPost_orders01-title">Trading Post</string>
-	<string key="tip_overworld_tradingPost_orders01-content">Trading Post Listing Fees are much lower for shorter duration sales, and higher for longer sales.</string>
+	<string key="tip_overworld_tradingPost_orders01-content">Trading Post Listing Fees are much lower for shorter duration sales and higher for longer sales.</string>
 	<string key="tip_overworld_tradingPost_orders02-title">Trading Post</string>
-	<string key="tip_overworld_tradingPost_orders02-content">You can select specific perks for buy orders in the Trading Post, and rarity of sought items too!</string>
+	<string key="tip_overworld_tradingPost_orders02-content">You can select specific perks for buy orders in the Trading Post.</string>
 	<string key="tip_overworld_tradingPost_orders03-title">Trading Post</string>
-	<string key="tip_overworld_tradingPost_orders03-content">To place a Buy Order in the Trading Post, search for the item you want, then create a Custom Order.</string>
+	<string key="tip_overworld_tradingPost_orders03-content">To place a Buy Order in the Trading Post, search for the item you want and create a Custom Order.</string>
 	<string key="tip_overworld_tradingPost_orders04-title">Trading Post</string>
 	<string key="tip_overworld_tradingPost_orders04-content">Sharpen your Trading Post discoveries by drilling into the item's listings and using item searches.</string>
 	<string key="tip_overworld_tradingPost_orders05-title">Trading Post</string>
 	<string key="tip_overworld_tradingPost_orders05-content">You can view listings from all Trading Posts by changing your view to "All Settlements".</string>
 	<string key="tip_overworld_zone_firstLight_lore01-title">The Ghost Ship</string>
-	<string key="tip_overworld_zone_firstLight_lore01-content">The spectral crew of the Vendetta haunt the coastal waters of Aeternum as punishment for attempting to escape the island.</string>
+	<string key="tip_overworld_zone_firstLight_lore01-content">The spectral crew of La Esperanza haunt the coastal waters of Aeternum as punishment for attempting to escape the island.</string>
 	<string key="tip_overworld_zone_firstLight_lore02-title">Lady Fathom</string>
 	<string key="tip_overworld_zone_firstLight_lore02-content">Locals believe a powerful, benevolent entity dwells in the deep and protects the fishermen who offer her gifts.</string>
 	<string key="tip_overworld_zone_firstLight_eliteStronghold01-title">First Light</string>
@@ -396,7 +388,7 @@
 	<string key="tip_overworld_zone_brimstone_lore01-title" rel_version="Territory_Brimstone_Sands">Brimstone Sands</string>
 	<string key="tip_overworld_zone_brimstone_lore01-content" rel_version="Territory_Brimstone_Sands">The harsh, bitter sun of Brimstone Sands requires proper protection to survive.</string>
 	<string key="tip_overworld_zone_brimstone_lore02-title" rel_version="Territory_Brimstone_Sands">Brimstone Sands</string>
-	<string key="tip_overworld_zone_brimstone_lore02-content" rel_version="Territory_Brimstone_Sands">The Ancients’ language was lost to the sands of time. Until now…</string>
+	<string key="tip_overworld_zone_brimstone_lore02-content" rel_version="Territory_Brimstone_Sands">The Ancients’ language was lost to the sands of time. Until now...</string>
 	<string key="tip_overworld_zone_brimstone_lore03-title" rel_version="Territory_Brimstone_Sands">Brimstone Sands</string>
 	<string key="tip_overworld_zone_brimstone_lore03-content" rel_version="Territory_Brimstone_Sands">A monstrous behemoth has awakened in the desert. Local legends refer to it as “The Devourer.”</string>
 	<string key="tip_overworld_zone_brimstone_lore04-title" rel_version="Territory_Brimstone_Sands">Brimstone Sands</string>
@@ -416,7 +408,7 @@
 	<string key="tip_overworld_zone_brimstone_lore11-title" rel_version="Territory_Brimstone_Sands">Brimstone Sands</string>
 	<string key="tip_overworld_zone_brimstone_lore11-content" rel_version="Territory_Brimstone_Sands">A great tree has somehow flourished in the middle of Brimstone Sands. Some even say that the tree still blooms high in its branches.</string>
 	<string key="tip_overworld_zone_brimstone_lore12-title" rel_version="Territory_Brimstone_Sands">Brimstone Sands</string>
-	<string key="tip_overworld_zone_brimstone_lore12-content" rel_version="Territory_Brimstone_Sands">Some believe that a deadly manticore stalks the sands of Brimstone, so travel with care…</string>
+	<string key="tip_overworld_zone_brimstone_lore12-content" rel_version="Territory_Brimstone_Sands">Some believe that a deadly manticore stalks the sands of Brimstone so travel with care…</string>
 	<string key="tip_overworld_zone_brimstone_lore13-title" rel_version="Territory_Brimstone_Sands">Brimstone Sands</string>
 	<string key="tip_overworld_zone_brimstone_lore13-content" rel_version="Territory_Brimstone_Sands">Legends say that an Ancient lies sleeping somewhere in Brimstone Sands.</string>
 	<string key="tip_overworld_zone_brimstone_lore14-title" rel_version="Territory_Brimstone_Sands">Brimstone Sands</string>
@@ -430,7 +422,7 @@
 	<string key="tip_overworld_zone_brimstone_lore18-title" rel_version="Territory_Brimstone_Sands">Brimstone Sands</string>
 	<string key="tip_overworld_zone_brimstone_lore18-content" rel_version="Territory_Brimstone_Sands">New Corsica’s gilded facade conceals a viper’s nest of politics, intrigue, and paranoia.</string>
 	<string key="tip_overworld_zone_brimstone_lore19-title" rel_version="Territory_Brimstone_Sands">Brimstone Sands</string>
-	<string key="tip_overworld_zone_brimstone_lore19-content" rel_version="Territory_Brimstone_Sands">The Legionnaires of Brimstone Sands have lost none of their legendary discipline and fighting skill, despite becoming Corrupted.</string>
+	<string key="tip_overworld_zone_brimstone_lore19-content" rel_version="Territory_Brimstone_Sands">The Legionnaires of Brimstone Sands have lost none of their legendary discipline and fighting skill despite becoming Corrupted.</string>
 	<string key="tip_overworld_zone_brimstone_lore20-title" rel_version="Territory_Brimstone_Sands">Brimstone Sands</string>
 	<string key="tip_overworld_zone_brimstone_lore20-content" rel_version="Territory_Brimstone_Sands">Marc Antony founded the 19th “Seaborne” Legion, though they could not save him from ruin at the Battle of Actium.</string>
 	<string key="tip_overworld_zone_brimstone_lore21-title" rel_version="Territory_Brimstone_Sands">Brimstone Sands</string>
@@ -440,11 +432,11 @@
 	<string key="tip_overworld_zone_brimstone_lore23-title" rel_version="Territory_Brimstone_Sands">Brimstone Sands</string>
 	<string key="tip_overworld_zone_brimstone_lore23-content" rel_version="Territory_Brimstone_Sands">There are legends of mysterious, shape-changing spirits known as ifrit that haunt the wastes of the desert. Some can be bargained with.</string>
 	<string key="tip_overworld_zone_brimstone_lore24-title" rel_version="Territory_Brimstone_Sands">Brimstone Sands</string>
-	<string key="tip_overworld_zone_brimstone_lore24-content" rel_version="Territory_Brimstone_Sands">If you hear a familiar voice calling from the darkness of the wastelands, do not approach.</string>
+	<string key="tip_overworld_zone_brimstone_lore24-content" rel_version="Territory_Brimstone_Sands">If you hear a familiar voice calling from the darkness of the wastelands do not approach.</string>
 	<string key="tip_overworld_zone_brimstone_lore25-title" rel_version="Territory_Brimstone_Sands">Brimstone Sands</string>
-	<string key="tip_overworld_zone_brimstone_lore25-content" rel_version="Territory_Brimstone_Sands">Twisted abominations have begun appearing in Brimstone Sands, the products of some Ancient sorcery.</string>
+	<string key="tip_overworld_zone_brimstone_lore25-content" rel_version="Territory_Brimstone_Sands">Twisted abominations have begun appearing in Brimstone Sands. The products of some Ancient sorcery.</string>
 	<string key="tip_overworld_zone_brimstone_lore26-title" rel_version="Territory_Brimstone_Sands">Brimstone Sands</string>
-	<string key="tip_overworld_zone_brimstone_lore26-content" rel_version="Territory_Brimstone_Sands">Brimstone Sands has had two great civilizations shape the land over the millennia, the Egyptians and the Romans.</string>
+	<string key="tip_overworld_zone_brimstone_lore26-content" rel_version="Territory_Brimstone_Sands">Brimstone Sands has had two great civilizations shape the land over the millennia: the Egyptians and the Romans.</string>
 	<string key="tip_overworld_zone_brimstone_lore27-title" rel_version="Territory_Brimstone_Sands">Brimstone Sands</string>
 	<string key="tip_overworld_zone_brimstone_lore27-content" rel_version="Territory_Brimstone_Sands">The Anubian Ancients are far more robust than the dusty skeletons that guard other Ancient ruins. Approach with caution.</string>
 	<string key="tip_overworld_zone_brimstone_lore28-title" rel_version="Territory_Brimstone_Sands">Brimstone Sands</string>
@@ -452,19 +444,19 @@
 	<string key="tip_overworld_zone_brimstone_lore29-title" rel_version="Territory_Brimstone_Sands">Brimstone Sands</string>
 	<string key="tip_overworld_zone_brimstone_lore29-content" rel_version="Territory_Brimstone_Sands">Vast streams of azoth flow through the Great Pyramid of Akhet. Hopefully, such power will never be turned to nefarious purposes...</string>
 	<string key="tip_overworld_zone_brimstone_lore30-title" rel_version="Territory_Brimstone_Sands">Brimstone Sands</string>
-	<string key="tip_overworld_zone_brimstone_lore30-content" rel_version="Territory_Brimstone_Sands">The Angry Earth of Brimstone Sands have no fear of fire, and often employ burning sulfur to destroy their foes.</string>
+	<string key="tip_overworld_zone_brimstone_lore30-content" rel_version="Territory_Brimstone_Sands">The Angry Earth of Brimstone Sands have no fear of fire and often employ burning sulfur to destroy their foes.</string>
 	<string key="tip_overworld_zone_greatCleave_lore01-title">Great Cleave</string>
 	<string key="tip_overworld_zone_greatCleave_lore01-content">[Placeholder]</string>
-	<string key="tip_overworld_zone_greatCleave_eliteStronghold01-title">Stranglepitch Road</string>
+	<string key="tip_overworld_zone_greatCleave_eliteStronghold01-title">Gorikbouri Road</string>
 	<string key="tip_overworld_zone_greatCleave_eliteStronghold01-content">This road is the first of many tests of strength on the path up the Mangled Heights.</string>
-	<string key="tip_overworld_zone_greatCleave_eliteStronghold02-title">Myrkgard Forest</string>
-	<string key="tip_overworld_zone_greatCleave_eliteStronghold02-content">Myrkgard Forest once spanned from the Cleave to the city of Myrkgard, but has now diminished in the presence of Corruption.</string>
-	<string key="tip_overworld_zone_greatCleave_eliteStronghold03-title">Mangled Pox Gate</string>
+	<string key="tip_overworld_zone_greatCleave_eliteStronghold02-title">Old Myrkgard Forest</string>
+	<string key="tip_overworld_zone_greatCleave_eliteStronghold02-content">Old Myrkgard Forest once spanned from the Cleave to the city of Myrkgard, but has now diminished in the presence of Corruption.</string>
+	<string key="tip_overworld_zone_greatCleave_eliteStronghold03-title">Pilgrims Passage</string>
 	<string key="tip_overworld_zone_greatCleave_eliteStronghold03-content">Foul rituals are conducted here, including the anointing of Corruption's priesthood.</string>
 	<string key="tip_overworld_zone_greatCleave_eliteStronghold04-title">Balebane Maw</string>
 	<string key="tip_overworld_zone_greatCleave_eliteStronghold04-content">The Balebane Maw is a protective membrane created by High Priest Oseguera many years ago.</string>
-	<string key="tip_overworld_zone_greatCleave_eliteStronghold05-title">Nihilo Visage</string>
-	<string key="tip_overworld_zone_greatCleave_eliteStronghold05-content">High Priest Oseguera conducts the foulest of rituals at the Temple of Nihilo Visage, located at the peak of Mangled Heights.</string>
+	<string key="tip_overworld_zone_greatCleave_eliteStronghold05-title">Severed Visage</string>
+	<string key="tip_overworld_zone_greatCleave_eliteStronghold05-content">High Priest Oseguera conducts the foulest of rituals at the Temple of Severed Visage, which is located at the peak of Mangled Heights.</string>
 	<string key="tip_overworld_zone_edengrove_lore01-title">Edengrove</string>
 	<string key="tip_overworld_zone_edengrove_lore01-content">[Placeholder]</string>
 	<string key="tip_overworld_zone_edengrove_eliteStronghold01-title">Edengrove</string>
@@ -478,7 +470,7 @@
 	<string key="tip_overworld_zone_reekwater_eliteStronghold01-title">Reekwater</string>
 	<string key="tip_overworld_zone_reekwater_eliteStronghold01-content">[Placeholder]</string>
 	<string key="tip_overworld_zone_ebonscale_lore01-title">The Floods</string>
-	<string key="tip_overworld_zone_ebonscale_lore01-content">Soon after the Taiying Empress began settling the area there was a series of floods.</string>
+	<string key="tip_overworld_zone_ebonscale_lore01-content">Soon after the Taiying Empress began settling the area, there was a series of floods.</string>
 	<string key="tip_overworld_zone_ebonscale_lore02-title">The Empress</string>
 	<string key="tip_overworld_zone_ebonscale_lore02-content">Empress Zhou Taiying fled from her brother Shang Wu's usurping of her throne in China and washed up in Aeternum.</string>
 	<string key="tip_overworld_zone_ebonscale_eliteStronghold01-title">North Palace Shrine</string>
@@ -510,7 +502,7 @@
 	<string key="tip_war_specific02-title">War</string>
 	<string key="tip_war_specific02-content">Attackers must take all 3 control points before the gates can be damaged. Once they are taken, they become Respawn points and access to Armory.</string>
 	<string key="tip_war_specific03-title">War</string>
-	<string key="tip_war_specific03-content">Once all 3 control points are taken, attackers can try to knock down gates and take the control point in the fort. If attackers succeed they will win the war, if attackers fail to claim it, defenders will win the war.</string>
+	<string key="tip_war_specific03-content">Once all 3 control points are taken, attackers can try to knock down gates and take the control point in the fort. If attackers succeed, they will win the war. If attackers fail to claim it, defenders will win the war.</string>
 	<string key="tip_war_specific04-title">War</string>
 	<string key="tip_war_specific04-content">As the war goes on, there will be longer and longer Respawn waves. When soldiers are killed, they will Respawn in the next Respawn wave.</string>
 	<string key="tip_war_specific05-title">War</string>
@@ -527,8 +519,6 @@
 	<string key="tip_invasion_specific04-content">Players earn Battle Tokens by damaging their enemies. With Battle Tokens, players can purchase various items from Armory.</string>
 	<string key="tip_dungeon_general_respawn01-title">Need a Pick-Me-Up?</string>
 	<string key="tip_dungeon_general_respawn01-content">You can only be revived so many times in Expeditions before having to respawn. Be careful!</string>
-	<string key="tip_dungeon_general_repair01-title">Repair Kits</string>
-	<string key="tip_dungeon_general_repair01-content">Repair Kits are an efficient way to fully Repair an item from any damaged state. Repair Kits are consumed on use, so be sure to wait until the item's durability is low or completely broken prior to using the kit to maximize the efficiency of the Repair Kit.</string>
 	<string key="tip_dungeon_amrineExcavation_mechanics01-title">Amrine Excavation</string>
 	<string key="tip_dungeon_amrineExcavation_mechanics01-content">[Placeholder]</string>
 	<string key="tip_dungeon_amrineExcavation_bossTip01-title">You're Stuck in Here With ME!</string>

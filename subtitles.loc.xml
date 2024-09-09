@@ -63,7 +63,7 @@
 	<string key="CaptainThorpe_CombatTaunt_17" comment="Corrupted_Captain_Thorpe_RestlessShoresBoss.slice" speaker="@9929_MSQ_RecliningThorpe">She sent me… to destroy you!</string>
 	<string key="CaptainThorpe_CombatTaunt_18" comment="Corrupted_Captain_Thorpe_RestlessShoresBoss.slice" speaker="@9929_MSQ_RecliningThorpe">Don't you see? It was her soul all along!</string>
 	<string key="CaptainThorpe_Combat_beforesurge" comment="Corrupted_Captain_Thorpe_RestlessShoresBoss.slice" speaker="@9929_MSQ_RecliningThorpe">Yes, my mistress... I will return what was taken...</string>
-	<string key="CaptainThorpe_Combat_aftersurge" comment="Corrupted_Captain_Thorpe_RestlessShoresBoss.slice" speaker="@9929_MSQ_RecliningThorpe">I feel your blessings surge within me... everlasting glory will be ours...</string>
+	<string key="CaptainThorpe_Combat_aftersurge" comment="Corrupted_Captain_Thorpe_RestlessShoresBoss.slice" speaker="@9911_MSQ_Thorpe">I feel your blessings surge within me... everlasting glory will be ours...</string>
 	<string key="CaptainThorpe_Combat_finale" comment="Corrupted_Captain_Thorpe_RestlessShoresBoss.slice" speaker="@9929_MSQ_RecliningThorpe">Victory is ours, my mistress... their soul is yours to claim...</string>
 	<string key="Isabella_CombatTaunt_1" comment="Isabella_Base.slice" speaker="Isabella">You should have known better than to come here.</string>
 	<string key="Isabella_CombatTaunt_2" comment="Isabella_Base.slice" speaker="Isabella">Fortunately, I have minions to deal with whatever flotsam washes in.</string>
@@ -156,10 +156,10 @@
 	<string key="Heartforge_Guardian_CombatBark_03" comment="AI_Heartforge_Guardian.slice" speaker="@AncientGuardian_Mage_MSQ_Named_02_Encounter_Boss_VitalsName" rel_version="Quest_MSQ2_Revamp">We see your strength. Approach the Forge and embrace your destiny.</string>
 	<string key="Overseer_Zane_CombatBark_01" comment="AI_Overseer_Zane.slice" speaker="@Damned_1H_Swordsman_M_Named_07_VitalsName" rel_version="Quest_MSQ2_Revamp">PH TEXT: Your power shall be mine!</string>
 	<string key="Overseer_Zane_CombatBark_02" comment="AI_Overseer_Zane.slice" speaker="@Damned_1H_Swordsman_M_Named_07_VitalsName" rel_version="Quest_MSQ2_Revamp">PH TEXT: Power...overwhelming....</string>
-	<string key="99A_MSQ_07_Enc_Bark_OverSeerZan_Spawn" comment="AI_Overseer_Zane.slice" speaker="@Damned_1H_Swordsman_M_Named_07_VitalsName" rel_version="Quest_MSQ2_Revamp">Your arrogance will be your end.</string>
-	<string key="99A_MSQ_07_Enc_Bark_OverSeerZan_EngageTendrils" comment="AI_Overseer_Zane.slice" speaker="@Damned_1H_Swordsman_M_Named_07_VitalsName" rel_version="Quest_MSQ2_Revamp">You will join us or be drained of life!</string>
-	<string key="99A_MSQ_07_Enc_Bark_OverSeerZan_EngageZane" comment="AI_Overseer_Zane.slice" speaker="@Damned_1H_Swordsman_M_Named_07_VitalsName" rel_version="Quest_MSQ2_Revamp">Your resistance is...amusing.</string>
-	<string key="99A_MSQ_07_Enc_Bark_OverSeerZan_Defeat" comment="AI_Overseer_Zane.slice" speaker="@Damned_1H_Swordsman_M_Named_07_VitalsName" rel_version="Quest_MSQ2_Revamp">You can not defeat us all...</string>
+	<string key="bark_99A_MSQ_07_Enc_Bark_OverSeerZan_Spawn" comment="AI_Overseer_Zane.slice" speaker="@Damned_1H_Swordsman_M_Named_07_VitalsName" rel_version="Quest_MSQ2_Revamp">Your arrogance will be your end.</string>
+	<string key="bark_99A_MSQ_07_Enc_Bark_OverSeerZan_EngageTendrils" comment="AI_Overseer_Zane.slice" speaker="@Damned_1H_Swordsman_M_Named_07_VitalsName" rel_version="Quest_MSQ2_Revamp">You will join us or be drained of life!</string>
+	<string key="bark_99A_MSQ_07_Enc_Bark_OverSeerZan_EngageZane" comment="AI_Overseer_Zane.slice" speaker="@Damned_1H_Swordsman_M_Named_07_VitalsName" rel_version="Quest_MSQ2_Revamp">Your resistance is… amusing.</string>
+	<string key="bark_99A_MSQ_07_Enc_Bark_OverSeerZan_Defeat" comment="AI_Overseer_Zane.slice" speaker="@Damned_1H_Swordsman_M_Named_07_VitalsName" rel_version="Quest_MSQ2_Revamp">You can not defeat us all...</string>
 	<string key="Helvan_CombatBark_01" comment="AI_Helvan_the_Navigator.slice" speaker="@Undead_Navigator_Named_12MB01d_VitalsName" rel_version="Quest_MSQ2_Revamp">PH TEXT: Ahoy there!</string>
 	<string key="Helvan_CombatBark_02" comment="AI_Helvan_the_Navigator.slice" speaker="@Undead_Navigator_Named_12MB01d_VitalsName" rel_version="Quest_MSQ2_Revamp">PH TEXT: Fire at them! Starboard!</string>
 	<string key="Helvan_CombatBark_03" comment="AI_Helvan_the_Navigator.slice" speaker="@Undead_Navigator_Named_12MB01d_VitalsName" rel_version="Quest_MSQ2_Revamp">PH TEXT: Fire at them! Port!</string>
@@ -245,6 +245,12 @@
 	<string key="BrotherUmberto_Death_Human" comment="brother_umberto_human.slice" speaker="@UmbertoHuman_SubName" rel_version="Quest_MSQ2_Brightwood">The righteous will always return!</string>
 	<string key="BrotherUmberto_Intro_Dark_Alt" comment="brother_umberto.slice" speaker="@UmbertoSpirit_SubName" rel_version="Quest_MSQ2_Brightwood">My soul will not be so easily vanquished…</string>
 	<string key="BrotherUmberto_Death_Dark" comment="io_caerdun_99b_msq_10_finalseal.slice" speaker="@UmbertoSpirit_SubName" rel_version="Quest_MSQ2_Brightwood">I am released….</string>
+	<string key="Season_02_EventBoss_CombatTaunt_A" comment="Season_02_Event_Boss.slice" speaker="Remnant of the Unmaker">The eggs must be destroyed!</string>
+	<string key="Season_02_EventBoss_CombatTaunt_B" comment="Season_02_Event_Boss.slice" speaker="Remnant of the Unmaker">Meddlesome filth, to the dirt with you.</string>
+	<string key="Season_02_EventBoss_CombatTaunt_C" comment="Season_02_Event_Boss.slice" speaker="Remnant of the Unmaker">The brood of Artemis will prevail.</string>
+	<string key="Season_02_EventBoss_CombatTaunt_D" comment="Season_02_Event_Boss.slice" speaker="Remnant of the Unmaker">Return to the earth!</string>
+	<string key="Season_02_EventBoss_Intro" comment="Season_02_Event_Boss.slice" speaker="Remnant of the Unmaker">Insignificant Worms!</string>
+	<string key="Season_02_EventBoss_Death" comment="Season_02_Event_Boss.slice" speaker="Remnant of the Unmaker">I shall.... return.</string>
 	<string key="Season_02_Assassin_Ambush_1" comment="Enc_Season_02_EggAmbush_02.slice" speaker="Delirvesh the Sand Drinker" rel_version="Season_2_Perm">This Egg must not be removed! I have defended it against greater foes than you!</string>
 	<string key="Season_02_Assassin_Ambush_2" comment="Enc_Season_02_EggAmbush_02.slice" speaker="Blood of the Sands Assassin" rel_version="Season_2_Perm">Now is our chance to take the Egg!</string>
 	<string key="Season_02_Assassin_Ambush_2a" comment="Enc_Season_02_EggAmbush_02.slice" speaker="Blood of the Sands Assassin" rel_version="Season_2_Perm">Give that Egg to me!</string>
@@ -265,8 +271,8 @@
 	<string key="Isabella_YonasTaunt_3" comment="yonascave_99e_msq_isabella_noai.slice" speaker="Isabella" rel_version="Quest_MSQ2_Edengrove">You thought you were getting the edge, but you never had a chance.</string>
 	<string key="Isabella_YonasTaunt_4" comment="yonascave_99e_msq_isabella_noai.slice" speaker="Isabella" rel_version="Quest_MSQ2_Edengrove">What little you accomplished, I have taken.</string>
 	<string key="Isabella_YonasTaunt_5" comment="yonascave_99e_msq_isabella_noai.slice" speaker="Isabella" rel_version="Quest_MSQ2_Edengrove">Here is your mentor, your friend... or what's left of him…</string>
-	<string key="VOX_Combat_1" comment="ai_fl_medusa.slice" speaker="Medusa" rel_version="Territory_FirstLight">Your defenses wont save you.</string>
-	<string key="VOX_Combat_2" comment="ai_fl_medusa.slice" speaker="Medusa" rel_version="Territory_FirstLight">Immortalize its beauty.</string>
+	<string key="VOX_Combat_1" comment="ai_fl_medusa.slice" speaker="Medusa" rel_version="Territory_FirstLight">Your wards will not save you.</string>
+	<string key="VOX_Combat_2" comment="ai_fl_medusa.slice" speaker="Medusa" rel_version="Territory_FirstLight">I will immortalize your beauty.</string>
 	<string key="VOX_Combat_3" comment="ai_fl_medusa.slice" speaker="Medusa" rel_version="Territory_FirstLight">The ancient gods will rise again.</string>
 	<string key="AncientIceGuardian_Intro" comment="Ancient_Ice_Guardian_Trial_Boss.slice" speaker="Ancient Ice Guardian" rel_version="Season_4_Perm">You are forbidden here, mortal!</string>
 	<string key="AncientIceGuardian_Death" comment="Ancient_Ice_Guardian_Trial_Boss.slice" speaker="Ancient Ice Guardian" rel_version="Season_4_Perm">No, I have failed the great ones! May the Curse of the Forge... be upon you...</string>
@@ -358,5 +364,39 @@
 	<string key="TransitionPhase4_Isabella_Bark01" comment="Isabella_MSQ2.slice" speaker="Isabella" rel_version="Quest_MSQ3_Shattered_V2">No… I was to be the savior…</string>
 	<string key="TransitionPhase4_Isabella_Bark02" comment="Isabella_MSQ2.slice" speaker="Isabella" rel_version="Quest_MSQ3_Shattered_V2">Why have you forsaken me…</string>
 	<string key="TransitionPhase4_Isabella_Bark03" comment="Isabella_MSQ2.slice" speaker="Isabella" rel_version="Quest_MSQ3_Shattered_V2">After all this time… am I still… truly… alone…?</string>
+	<string key="Echidna_Intro" comment="Hercyne_Echidna.slice" speaker="Echidna" rel_version="Raid_CutlassKeys_00">What is this…. new body? Such power...! Mmm. I can smell you, human. I will consecrate the soil with your blood.</string>
+	<string key="Echidna_Death" comment="Hercyne_Echidna.slice" speaker="Echidna" rel_version="Raid_CutlassKeys_00">Typhon!... Avenge me my love!</string>
+	<string key="Echidna_Bark_1" comment="Hercyne_Echidna.slice" speaker="Echidna" rel_version="Raid_CutlassKeys_00">I can feel you through the earth, little vermin….</string>
+	<string key="Echidna_Bark_2" comment="Hercyne_Echidna.slice" speaker="Echidna" rel_version="Raid_CutlassKeys_00">(Primal snarling)</string>
+	<string key="Echidna_Bark_3" comment="Hercyne_Echidna.slice" speaker="Echidna" rel_version="Raid_CutlassKeys_00">All Aeternum belongs to the Hercyne.</string>
+	<string key="Echidna_Bark_4" comment="Hercyne_Echidna.slice" speaker="Echidna" rel_version="Raid_CutlassKeys_00">Are you running? Running isn't a plan.</string>
+	<string key="Echidna_Bark_5" comment="Hercyne_Echidna.slice" speaker="Echidna" rel_version="Raid_CutlassKeys_00">(Gutteral laughter)</string>
+	<string key="Echidna_Bark_6" comment="Hercyne_Echidna.slice" speaker="Echidna" rel_version="Raid_CutlassKeys_00">Can you fly, little vermin?</string>
+	<string key="Echidna_Bark_7" comment="Hercyne_Echidna.slice" speaker="Echidna" rel_version="Raid_CutlassKeys_00">Who's really the blind one here?</string>
+	<string key="Typhon_Intro" comment="Hercyne_Typhon.slice" speaker="Typhon" rel_version="Raid_CutlassKeys_00">Flesh? Sweet Flesh..... plump piggy flesh..... Feast! Teeth will tear. Pigs will bleed.... FEEAASST!!</string>
+	<string key="Typhon_Bark_1" comment="Hercyne_Typhon.slice" speaker="Typhon" rel_version="Raid_CutlassKeys_00">(Primal snarling)</string>
+	<string key="Typhon_Bark_2" comment="Hercyne_Typhon.slice" speaker="Typhon" rel_version="Raid_CutlassKeys_00">Blood…. Delicious blood.</string>
+	<string key="Typhon_Bark_3" comment="Hercyne_Typhon.slice" speaker="Typhon" rel_version="Raid_CutlassKeys_00">Rip…. sunder…. Devour</string>
+	<string key="Typhon_Bark_4" comment="Hercyne_Typhon.slice" speaker="Typhon" rel_version="Raid_CutlassKeys_00">(Furious roaring)</string>
+	<string key="Typhon_Bark_5" comment="Hercyne_Typhon.slice" speaker="Typhon" rel_version="Raid_CutlassKeys_00">FEAST!</string>
+	<string key="Broodmother_Intro" comment="Hercyne_Broodmother.slice" speaker="Broodmother" rel_version="Raid_CutlassKeys_00">The heroes charge in yet again. All will bow to the mother!</string>
+	<string key="Broodmother_Death" comment="Hercyne_Broodmother.slice" speaker="Broodmother" rel_version="Raid_CutlassKeys_00">You fools. You scorch the earth and defile nature's destiny. My children may not fly today... but we will return.</string>
+	<string key="Broodmother_Victory" comment="Hercyne_Broodmother.slice" speaker="Broodmother" rel_version="Raid_CutlassKeys_00">The heroes lay crumpled, pathetic and twitching.</string>
+	<string key="Broodmother_Bark_1" comment="Hercyne_Broodmother.slice" speaker="Broodmother" rel_version="Raid_CutlassKeys_00">Feel the venom's bite!</string>
+	<string key="Broodmother_Bark_2" comment="Hercyne_Broodmother.slice" speaker="Broodmother" rel_version="Raid_CutlassKeys_00">Taste my vile wrath!</string>
+	<string key="Broodmother_Bark_3" comment="Hercyne_Broodmother.slice" speaker="Broodmother" rel_version="Raid_CutlassKeys_00">My spores shall suffocate your every move!</string>
+	<string key="Broodmother_Bark_4" comment="Hercyne_Broodmother_Flower.slice" speaker="Broodmother" rel_version="Raid_CutlassKeys_00">Entangled in my grasp.</string>
+	<string key="CorruptedSailorJanszoon_Intro" comment="Corrupted_Sailor_StarterBeach_Named_00.slice" speaker="First Mate Janszoon" rel_version="Quest_Console_Release">Forget Captain O'Malley... and the Satisfaction! I'll take what I wish, and the likes of you won't stop me!</string>
+	<string key="CorruptedSailorJanszoon_SplinteredDefense" comment="Corrupted_Sailor_StarterBeach_Named_00.slice" speaker="First Mate Janszoon" rel_version="Quest_Console_Release">Steady now, or I'll leave you a wreck upon these shores!</string>
+	<string key="Intro1_cutscene_line0" rel_version="Quest_Console_Release">October - 1609, Port of Amsterdam, Dutch Republic</string>
+	<string key="Intro1_cutscene_line1" rel_version="Quest_Console_Release">Sailor: I don’t like it. Sailin' to an uncharted island with strange folk aboard--</string>
+	<string key="Intro1_cutscene_line2" rel_version="Quest_Console_Release">Deckhand: Keep yer voice down! Lest ye want the cap’n ta hear ye.</string>
+	<string key="Intro1_cutscene_line3" rel_version="Quest_Console_Release">Sailor: It ain’t the Captain I’m worried about, it’s that priest… If he’s a man of the cloth, I’m the Virgin Mary.</string>
+	<string key="Intro1_cutscene_line4" rel_version="Quest_Console_Release">Father Russo: All you seek will soon be yours, Captain.</string>
+	<string key="Intro1_cutscene_line5" rel_version="Quest_Console_Release">Father Russo: It is indeed the island of legend.</string>
+	<string key="Intro1_cutscene_line6" rel_version="Quest_Console_Release">Captain Thorpe: So you say…</string>
+	<string key="Intro1_cutscene_line7" rel_version="Quest_Console_Release">Captain Thorpe: If you’re wrong, the price of the voyage will be paid in blood. Yours and those vagabonds you’ve brought along.</string>
+	<string key="Intro1_cutscene_line8" rel_version="Quest_Console_Release">Father Russo: They merely seek adventure, Captain.</string>
+	<string key="Intro1_cutscene_line9" rel_version="Quest_Console_Release">Father Russo: The island calls to those who forge their own destiny.</string>
 </resources>
 

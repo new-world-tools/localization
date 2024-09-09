@@ -119,7 +119,7 @@
 	<string key="ui_leaderboard_tip_darkness_score" rel_version="Feature_Leaderboards">You earn one point for each point of XP that a Corruption Breach is worth.</string>
 	<string key="ui_leaderboard_tip_pvparena_score" rel_version="Feature_Leaderboards">Your 3v3 Arena Score is cumulative. Earn more by completing more matches.</string>
 	<string key="ui_leaderboard_tip_inv_war_wins" rel_version="Feature_Leaderboards">You must score at least 500 points to earn progress towards Wins.</string>
-	<string key="ui_leaderboard_expedition_title" rel_version="Feature_Leaderboards">{expedition}, &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{difficulty}&lt;/font&gt;</string>
+	<string key="ui_leaderboard_expedition_title" rel_version="Feature_Leaderboards">{expedition}, &lt;font face="lyshineui/fonts/Pica_Regular.font"&gt;{difficulty}&lt;/font&gt;</string>
 	<string key="ui_leaderboard_expedition_difficulty" rel_version="Feature_Leaderboards">Difficulty</string>
 	<string key="ui_leaderboard_expedition_difficulty_1" rel_version="Feature_Leaderboards">Intermediate</string>
 	<string key="ui_leaderboard_expedition_difficulty_2" rel_version="Feature_Leaderboards">Hard</string>
@@ -158,7 +158,7 @@
 	<string key="ui_leaderboard_tip_outpostrush_score" rel_version="Feature_Leaderboards">&lt;img src="lyshineui/images/icons/crossworld/icon_crossworld_identifier_tan" scale="2.0" xPadding="2" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ebe3d6"&gt;&lt;font face="lyshineui/fonts/Nimbus_Regular.font"&gt;Regional Leaderboard&lt;/font&gt;&lt;/font&gt;\n\nYour Outpost Rush Score is the top score you've received in a match.</string>
 	<string key="ui_leaderboard_display_regional">Regional</string>
 	<string key="ui_leaderboard_display_world_archived">World (Archived)</string>
-	<string key="ui_leaderboard_tip_regional_only">&lt;img src="lyshineui/images/icons/crossworld/icon_crossworld_identifier_tan" scale="2.0" xPadding="2" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ebe3d6"&gt;&lt;font face="lyshineui/fonts/Nimbus_Regular.font"&gt;Regional Leaderboard&lt;/font&gt;&lt;/font&gt;</string>
+	<string key="ui_leaderboard_tip_regional_only">&lt;img src="lyshineui/images/icons/crossworld/icon_crossworld_identifier_tan" scale="2.0" xPadding="2" yOffset="5"&gt;&lt;/img&gt; Regional Leaderboards\n\nView stats and compete against players across your region.\n\nConsole worlds will only share regional leaderboards with other console-specific worlds.</string>
 	<string key="ui_leaderboard_display_influence_race_wins" rel_version="Feature_Influence_V2">Influence Race Wins</string>
 	<string key="ui_leaderboard_display_influence_race_wins_all" rel_version="Feature_Influence_V2">All</string>
 	<string key="ui_leaderboard_display_influence_race_wins_attackers" rel_version="Feature_Influence_V2">Attackers</string>

@@ -130,10 +130,10 @@
 	<string key="ui_treasury_tooltip_withdrawal_nopermissons">You do not have permissions to withdraw.</string>
 	<string key="ui_treasury_tooltip_withdrawal_overlimit">You have reached your daily limit.</string>
 	<string key="ui_treasury_tooltip_changedailywithdrawallimit_nopermissons">You do not have permissions to change the daily withdrawal limit.</string>
-	<string key="ui_treasury_notification_depositsuccess">&lt;font color={colorHex} face="lyshineui/fonts/CaslonAnt.font"&gt;{amount}&lt;/font&gt; {coinImage} was deposited to the company treasury.</string>
+	<string key="ui_treasury_notification_depositsuccess">&lt;font color={colorHex} face="lyshineui/fonts/Pica_Regular.font"&gt;{amount}&lt;/font&gt; {coinImage} was deposited to the company treasury.</string>
 	<string key="ui_treasury_notification_depositcappedtreasurymax">Treasury deposit failed (above Treasury maximum).</string>
 	<string key="ui_treasury_notification_depositcappedplayerfunds">Treasury deposit failed (not enough personal funds).</string>
-	<string key="ui_treasury_notification_withdrawalsuccess">&lt;font color={colorHex} face="lyshineui/fonts/CaslonAnt.font"&gt;{amount}&lt;/font&gt; {coinImage} was withdrawn from the company treasury.</string>
+	<string key="ui_treasury_notification_withdrawalsuccess">&lt;font color={colorHex} face="lyshineui/fonts/Pica_Regular.font"&gt;{amount}&lt;/font&gt; {coinImage} was withdrawn from the company treasury.</string>
 	<string key="ui_treasury_notification_withdrawalcappedfunds"> Treasury withdrawal failed (not enough Treasury funds).</string>
 	<string key="ui_treasury_notification_withdrawalcappeddailylimit">Treasury withdrawal failed (above daily limit).</string>
 	<string key="ui_treasury_notification_setdailylimitsuccess">Daily withdrawal limit is set to &lt;font color={colorHex}&gt;{amount}&lt;/font&gt; {coinImage}.</string>
@@ -232,6 +232,7 @@
 	<string key="ui_governorexpire_deleted_THEY">Your Company's Governor has left or deleted their character. A member with 'Consul' rank may become Governor.</string>
 	<string key="ui_governorseat_vacant">Governor seat is vacant</string>
 	<string key="ui_governorseat_overthrowable">Governor seat is overthrowable by Consuls</string>
+	<string key="ui_no_governor">No Governor</string>
 	<string key="ui_becomegovernor">Become Governor</string>
 	<string key="ui_becomegovernor_SHE">Become Governor</string>
 	<string key="ui_becomegovernor_THEY">Become Governor</string>
@@ -268,6 +269,7 @@
 	<string key="ui_permission_war_raid_manage">{allowed} manage army groups and signups</string>
 	<string key="ui_permission_build_defensive_structures">{allowed} build and replace in a Company Fort</string>
 	<string key="ui_playeralreadyinguildmessage">{playerName} is already a member of your Company.</string>
+	<string key="ui_companyinviteeblockedmessage">You cannot send invites to blocked players.</string>
 	<string key="ui_playerguild">{LocalPlayerName}'s Company</string>
 	<string key="ui_promote">Promote</string>
 	<string key="ui_promote_transfer_owner">Transfer Ownership</string>
@@ -329,11 +331,11 @@
 	<string key="ui_wardeclarationpopup_title">Declaration of War</string>
 	<string key="ui_wardeclarationpopup_target">vs {guildName}</string>
 	<string key="ui_wardeclarationpopup_message">During a war, the attacking company tries to claim the defending company's territory by capturing its fort within the Siege window.</string>
-	<string key="ui_wardeclarationpopup_declarebutton">Declare War!  {cost} {coinImage}</string>
+	<string key="ui_wardeclarationpopup_declarebutton">Declare War! {coinImage} {cost}</string>
 	<string key="ui_wardeclarationpopup_mywallet" comment="When presented to the user, the name for currency is always Coin">Coin</string>
 	<string key="ui_wardeclarationpopup_extendtitle">Counter attack</string>
 	<string key="ui_wardeclarationpopup_extendmessage" comment="This will have a time below it for how long the war will last after the extension">Are you sure you want to counter attack {guildName}?\nBoth Companies will be able to attack each other without being flagged as a criminal for:</string>
-	<string key="ui_wardeclarationpopup_extendbutton">Counter attack!  {cost} {coinImage}</string>
+	<string key="ui_wardeclarationpopup_extendbutton">Counter attack! {coinImage} {cost}</string>
 	<string key="ui_wardeclarationpopup_nopermission">\nYour rank ({rank}) does not have permission to declare war or counter attack.</string>
 	<string key="ui_wardeclarationpopup_permission">\nYour Company permissions allow you to declare war and counter attack.</string>
 	<string key="ui_wardeclarationpopup_noterritorytext">This Company has no territory to war over.</string>
@@ -369,7 +371,7 @@
 	<string key="ui_wardeclaration_unsuccessful_notification_text">Another company's War Declaration was selected. Your coin has been refunded to the Company Wallet.</string>
 	<string key="ui_wardeclaration_successful_notification_title">War Declaration Accepted</string>
 	<string key="ui_wardeclaration_successful_notification_text">Your upcoming War is scheduled. Head to the Territory's War Board to sign up and manage your army.</string>
-	<string key="ui_territory_upkeep_due">Company Territory Fees are due for {name}!</string>
+	<string key="ui_territory_upkeep_due">Upkeep Due for {name}</string>
 	<string key="ui_warframe_range_prewar">Pre-War</string>
 	<string key="ui_warframe_range_currentwar">Current War</string>
 	<string key="ui_warframe_range_war">War</string>
@@ -457,6 +459,7 @@
 	<string key="ui_trade_failure_no_withdrawal">You do not have permissions to withdraw from this structure</string>
 	<string key="ui_trade_failure_no_deposit">You do not have permissions to deposit into this structure</string>
 	<string key="ui_trade_failure_not_enough_space">Item cannot be transferred because of maximum unique item or weight restrictions.</string>
+	<string key="ui_trade_failure_not_in_ffa_state">Item cannot be transferred because the player is not in the Free-for-all state.</string>
 	<string key="ui_trade_failure_global_storage_not_enough_currency">You do not have enough funds to cover the withdrawal fee for remotely stored items.</string>
 	<string key="ui_trade_failure_global_storage_wrong_faction">Withdrawing requires both territories to be in your faction and be current on their upkeep.</string>
 	<string key="ui_trade_failure_global_storage_invalid_deposit">You can only deposit items to the storage shed at your current location.</string>
@@ -640,7 +643,7 @@
 	<string key="ui_signup_warinprogress_tooltip">You cannot sign up for a war or invasion that is already in progress.</string>
 	<string key="ui_signup_not_available">Sign up not available</string>
 	<string key="ui_signup_level_requirement">&lt;font color="#ff7171"&gt;Player level {level}&lt;/font&gt; is required to sign up.</string>
-	<string key="ui_signup_count">&lt;font color="#ebe3d6"&gt;&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{number}&lt;/font&gt;&lt;/font&gt; Players signed up</string>
+	<string key="ui_signup_count">&lt;font color="#ebe3d6"&gt;&lt;font face="lyshineui/fonts/Pica_Regular.font"&gt;{number}&lt;/font&gt;&lt;/font&gt; Players signed up</string>
 	<string key="ui_signup_instruction_title_1">Wait</string>
 	<string key="ui_signup_instruction_title_2">Be online</string>
 	<string key="ui_signup_instruction_title_3">Standby</string>
@@ -677,7 +680,7 @@
 	<string key="ui_war_schedule_adjustment_message">{warType} in {territoryName} was {scheduleAdjustmentType}.</string>
 	<string key="ui_war_schedule_adjustment_cancelled">cancelled</string>
 	<string key="ui_war_schedule_adjustment_rescheduled">rescheduled</string>
-	<string key="ui_war_camp_tier">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{value}&lt;/font&gt;</string>
+	<string key="ui_war_camp_tier">Tier &lt;font face="lyshineui/fonts/Pica_Regular.font"&gt;{value}&lt;/font&gt;</string>
 	<string key="ui_war_camp_weapons_tier">Siege Weapon Tier</string>
 </resources>
 

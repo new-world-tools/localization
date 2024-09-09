@@ -13,10 +13,13 @@
 	<string key="ui_dungeon_enter_info_solo">&lt;font color={color}&gt;Soul Trial is ready&lt;/font&gt;. Teleport in now?</string>
 	<string key="ui_dungeon_enter_info_raidtrial">&lt;font color={color}&gt;At least 1 person&lt;/font&gt; must enter to keep the Elite Trial open. Teleport in now?</string>
 	<string key="ui_dungeon_enter_info_seasontrial" rel_version="Season_2_Trial">&lt;font color={color}&gt;At least 1 person&lt;/font&gt; must enter to keep the Seasonal Trial open. Teleport in now?</string>
+	<string key="ui_dungeon_enter_info_dailysolotrial" rel_version="DailySoloTrials">&lt;font color={color}&gt;Daily Soul Trial is ready&lt;/font&gt;. Teleport in now?</string>
 	<string key="ui_dungeon_enter_info_entered">The Expedition is now open!\n&lt;font color={color}&gt;Teleport in now?&lt;/font&gt;</string>
 	<string key="ui_dungeon_enter_info_entered_solo">&lt;font color={color}&gt;Soul Trial is ready&lt;/font&gt;. Teleport in now?</string>
+	<string key="ui_dungeon_enter_info_entered_dailysolotrial" rel_version="DailySoloTrials">&lt;font color={color}&gt;Daily Soul Trial is ready&lt;/font&gt;. Teleport in now?</string>
 	<string key="ui_dungeon_enter_info_entered_raidtrial">The Elite Trial is now open!\n&lt;font color={color}&gt;Teleport in now?&lt;/font&gt;</string>
 	<string key="ui_dungeon_enter_info_entered_seasontrial" rel_version="Season_2_Trial">The Seasonal Trial is now open!\n&lt;font color={color}&gt;Teleport in now?&lt;/font&gt;</string>
+	<string key="ui_dungeon_ffa_restriction" rel_version="Territory_CutlassKeys_Rework">Queued content is unavailable while in the Free-For-All PVP zone.\nPlease leave the zone to continue.</string>
 	<string key="ui_duel_player">Duel Player</string>
 	<string key="ui_duel_failmessage_invalidname">{playerName} is not a valid player name.</string>
 	<string key="ui_duel_failmessage_outofrange">You cannot Duel a player further than {distance} meters.</string>
@@ -54,11 +57,11 @@
 	<string key="ui_duel_group_popup_yes_button">Group</string>
 	<string key="ui_duel_group_popup_no_button">Player</string>
 	<string key="ui_duel_invite_notification_title">Duel Invite</string>
-	<string key="ui_duel_invite_notification_text">&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{playerName}&lt;/font&gt; challenges you to a Duel.\nWould you like to accept?</string>
+	<string key="ui_duel_invite_notification_text">&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{playerName}&lt;/font&gt; challenges you to a Duel.</string>
 	<string key="ui_duel_notification_invite_sent">Duel invite sent</string>
 	<string key="ui_duel_invite_group_notification_title">Group Duel Invite</string>
-	<string key="ui_duel_invite_own_group_notification_text">&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{playerName}&lt;/font&gt; has initiated a Group Duel.\nWould you like to accept?</string>
-	<string key="ui_duel_invite_other_group_notification_text">&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{playerName}&lt;/font&gt; challenges you to a Group Duel.\nWould you like to accept?</string>
+	<string key="ui_duel_invite_own_group_notification_text">&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{playerName}&lt;/font&gt; has initiated a Group Duel.</string>
+	<string key="ui_duel_invite_other_group_notification_text">&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{playerName}&lt;/font&gt; challenges you to a Group Duel.</string>
 	<string key="ui_not_in_duel_notification_title">ENEMY NOT IN DUEL</string>
 	<string key="ui_not_in_duel_notification_message">You cannot attack enemies outside of the Duel.</string>
 	<string key="ui_duel_forfeit_title">Forfeit Duel</string>
@@ -84,6 +87,7 @@
 	<string key="ui_duel_victory_message">You won the duel.</string>
 	<string key="ui_duel_defeat">Defeat!</string>
 	<string key="ui_duel_defeat_message">You lost the duel.</string>
+	<string key="ui_duel_left_message">You left the duel.</string>
 	<string key="ui_duel_ended">Duel Ended</string>
 	<string key="ui_duel_resolution_draw">Draw</string>
 	<string key="ui_duel_resolution_draw_message">Your duel ended in a draw.</string>
@@ -93,7 +97,7 @@
 	<string key="ui_outpost_rush_invite_status">Accept to join the battle!</string>
 	<string key="ui_outpost_rush_signup_title">OUTPOST RUSH</string>
 	<string key="ui_outpost_rush_signup_desc">&lt;font color="#edc63e"&gt;Outpost Rush&lt;/font&gt; is a 20v20 match that takes place on a large island with three Outposts that teams compete to capture and hold.</string>
-	<string key="ui_outpost_rush_signup_desc_gearscore">&lt;font color="#edc63e"&gt;Gear Score Scaling&lt;/font&gt; increases the gear score of all equipment below 675 to 675.</string>
+	<string key="ui_outpost_rush_signup_desc_gearscore">&lt;font color="#edc63e"&gt;Gear Score Scaling&lt;/font&gt; increases the gear score of all equipment below 700 to 700.</string>
 	<string key="ui_outpost_rush_signup_desc_cross_world">Outpost Rush is a 20x20 &lt;font color="#edc63e"&gt;Cross World game mode.&lt;/font&gt;</string>
 	<string key="ui_outpost_rush_signup_desc_cross_world_tooltip">&lt;font color="#edc63e"&gt;Cross World&lt;/font&gt; means that you will be playing together with players from all worlds within your region. This can help shorten wait times to find a match.\n\nThings to note:\n\n-When you see a player with &lt;img src="lyshineui/images/icons/crossworld/icon_crossworld_identifier" xPadding="-1" scale="1.8" yOffset="2"&gt;&lt;/img&gt; next to their name, this means they are from another world.\n\n-While in the Cross World match, several social functions will be disabled, including trading, invites, and more.\n\n-The OPR Wins Leaderboard is now a Regional Leaderboard.</string>
 	<string key="ui_outpost_rush_signup_goal1">Capture and hold Outposts to score</string>
@@ -110,6 +114,7 @@
 	<string key="ui_outpost_rush_signup_failgroupinvite">You currently have a pending invite.</string>
 	<string key="ui_outpost_rush_signup_faillevel">Player level {levelRequirement} &lt;font color="#ff7171"&gt;is required&lt;/font&gt;</string>
 	<string key="ui_outpost_rush_signup_failwar">You cannot sign up because you are already signed up for an upcoming war that starts within the next hour.</string>
+	<string key="ui_outpost_rush_signup_failffa" rel_version="Territory_CutlassKeys_Rework">You cannot sign up while in Free-For-All PVP.</string>
 	<string key="ui_outpost_rush_signup_failqueue">You cannot sign up because you are currently signed up for {matchname}</string>
 	<string key="ui_outpost_rush_signup_faildungeon">You cannot sign up because you are currently in queue for an Expedition or Elite Trial.</string>
 	<string key="ui_outpost_rush_signup_failevent">You cannot sign up because you are currently in an event.</string>
@@ -202,12 +207,13 @@
 	<string key="ui_outpost_rush_summoning_circle">Summoning Circle</string>
 	<string key="ui_outpost_rush_summoning_circle_desc">Use a Summoning Stone at this obelisk to add a monstrous ally to your team for a limited time.</string>
 	<string key="ui_outpost_rush_portal">PORTAL</string>
-	<string key="ui_outpost_rush_portal_score">{current}/{total} &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="-3" scale="1.4" yOffset="1"&gt;&lt;/img&gt;</string>
+	<string key="ui_outpost_rush_portal_score">&lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="-3" scale="1.4" yOffset="1"&gt;&lt;/img&gt; {current}/{total}</string>
 	<string key="ui_pinning_disabled_while_in_or">Pinning/Unpinning objectives disabled while in Outpost Rush.</string>
 	<string key="ui_pinning_disabled_expeditions">Pinning/Unpinning disabled for Expeditions objectives</string>
 	<string key="ui_pinning_disabled_expeditions_solo">Pinning/Unpinning disabled for Soul Trial objectives</string>
 	<string key="ui_pinning_disabled_expeditions_raidtrial">Pinning/Unpinning disabled for Elite Trial objectives</string>
 	<string key="ui_pinning_disabled_expeditions_seasontrial" rel_version="Season_2_Trial">Pinning/Unpinning disabled for Seasonal Trial objectives</string>
+	<string key="ui_pinning_disabled_expeditions_dailysolotrial" rel_version="DailySoloTrials">Pinning/Unpinning disabled for Soul Trial objectives</string>
 	<string key="ui_or_commandpost_buff_on">Structure is granting team buffs</string>
 	<string key="ui_or_commandpost_buff_off">Build to get team buffs</string>
 	<string key="or_azoth_portal">Azoth Portal</string>
@@ -259,6 +265,7 @@
 	<string key="ui_item_durability_dungeon_solo">Your equipment was not damaged upon death.</string>
 	<string key="ui_item_durability_dungeon_raidtrial">Your equipment was not damaged upon death.</string>
 	<string key="ui_item_durability_dungeon_seasontrial" rel_version="Season_2_Trial">Your equipment was not damaged upon death.</string>
+	<string key="ui_item_durability_dungeon_dailysolotrial" rel_version="DailySoloTrials">Your equipment was not damaged upon death.</string>
 	<string key="ui_item_durability_arena" rel_version="Feature_PVP_Arenas">Your equipment was not damaged upon death.</string>
 	<string key="ui_item_durability_loss_pvp">You were killed by another player, and your equipment took reduced damage.</string>
 	<string key="ui_in_spectators_box">In Spectator's Box</string>
@@ -300,12 +307,13 @@
 	<string key="ui_pvp_balance_global_disabled_weapon" rel_version="Feature_PvP_PvE_Split">PvP balancing is currently disabled for this weapon.</string>
 	<string key="ui_pvp_balance_global_disabled_mode" rel_version="Feature_PvP_PvE_Split">PvP balancing is currently disabled for this game mode.</string>
 	<string key="ui_pvp_balance_open_world_disabled" rel_version="Feature_PvP_PvE_Split">PvP balancing is currently disabled for Open World.</string>
-	<string key="ui_pvp_balance_damage_header" rel_version="Feature_PvP_PvE_Split">PvP Base Damage Modifiers:\n  • (Magic/Ranged values increased globally, but are tuned for balance in PvP)</string>
+	<string key="ui_pvp_balance_damage_header" rel_version="Feature_PvP_PvE_Split">PvP Base Damage Modifiers:\n• Magic/Ranged values increased globally, but are tuned for balance in PvP.</string>
 	<string key="ui_pvp_balance_global_base_damage" rel_version="Feature_PvP_PvE_Split">Global:</string>
 	<string key="ui_pvp_balance_affix_stats" rel_version="Feature_PvP_PvE_Split">Affix Stat Damage Modifier:</string>
 	<string key="ui_pvp_balance_ability_damage_bonuses" rel_version="Feature_PvP_PvE_Split">Ability Damage Bonus Modifier:</string>
 	<string key="ui_pvp_balance_healing_category" rel_version="Feature_PvP_PvE_Split">Healing Modifiers:</string>
 	<string key="ui_pvp_balance_status_effect_potencies" rel_version="Feature_PvP_PvE_Split">Status Effect Potency:</string>
+	<string key="ui_pvp_balance_status_effect_durations" rel_version="Feature_PvP_PvE_Split">Status Effect Duration:</string>
 	<string key="ui_gamemodeinvitedeclinesentmessage">Invite for &lt;font color="#ebe3d6"&gt;{gameModeName}&lt;/font&gt; declined.</string>
 	<string key="ui_gamemodeinvitedeclinesentmessage_withsource">Invite for &lt;font color="#ebe3d6"&gt;{gameModeName}&lt;/font&gt; declined by &lt;font color="#ebe3d6"&gt;{sourcePlayerName}&lt;/font&gt;.</string>
 </resources>

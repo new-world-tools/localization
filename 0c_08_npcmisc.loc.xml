@@ -1,0 +1,159 @@
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="0802_Magistrate" comment="female">Constance Redridge</string>
+	<string key="0803_Survivalist" comment="male">Bartram Hopkins</string>
+	<string key="0804_Overseer" comment="male">Elder Danya</string>
+	<string key="0805_Artificer" comment="female">Long Da</string>
+	<string key="0807_Commander" comment="female">Lyonell Hartford</string>
+	<string key="0808_Alchemist" comment="male">Ambrose Lane</string>
+	<string key="0809_Adjudicator" comment="male">Wen Zhu</string>
+	<string key="0810_Barkeep" comment="male">Huang Bao</string>
+	<string key="0811_Stranger" comment="female">Zeng Lingyun</string>
+	<string key="0824_Innkeep" comment="female">Fazila Tamar</string>
+	<string key="0899_Liberator" comment="male">Guo the Liberator</string>
+	<string key="0823_Fisher_t">Master Fisher of Ebonscale Reach</string>
+	<string key="0802_Magistrate_t">Magistrate of Ebonscale Reach</string>
+	<string key="0803_Survivalist_t">Survivalist of Ebonscale Reach</string>
+	<string key="0804_Overseer_t">Elder of Ebonscale Reach</string>
+	<string key="0805_Artificer_t">Artificer of Ebonscale Reach</string>
+	<string key="0807_Commander_t">Commander of Ebonscale Reach</string>
+	<string key="0808_Alchemist_t">Alchemist of Ebonscale Reach</string>
+	<string key="0809_Adjudicator_t">Adjudicator of Ebonscale Reach</string>
+	<string key="0810_Barkeep_t">Barkeep of Ebonscale Reach</string>
+	<string key="0811_Stranger_t">Handmaiden To The Empress</string>
+	<string key="0811_Stranger_t1">Handmaiden To The Prince</string>
+	<string key="0824_Innkeep_t">Innkeeper of the Three Perfections</string>
+	<string key="0899_Liberator_t">Liberator of Masses</string>
+	<string key="0826_MaWeizhe" rel_version="Quest_Supplement_Ebonscale">Ma Xinyi</string>
+	<string key="0826_MaWeizhe_t" rel_version="Quest_Supplement_Ebonscale">Tiger Sympathizer</string>
+	<string key="0827_Bardroy" rel_version="Quest_Supplement_Ebonscale">Bardroy Byrne</string>
+	<string key="0827_Bardroy_t" rel_version="Quest_Supplement_Ebonscale">Wayward Father</string>
+	<string key="0828_YueLai" rel_version="Quest_Supplement_Ebonscale">Lai Yue</string>
+	<string key="0828_YueLai_t" rel_version="Quest_Supplement_Ebonscale">Curious Scholar</string>
+	<string key="0829_Enlai" rel_version="Quest_Supplement_Ebonscale">Xiang Enlai</string>
+	<string key="0829_Enlai_t" rel_version="Quest_Supplement_Ebonscale">Groom-To-Be</string>
+	<string key="0830_Posting" rel_version="Quest_Supplement_Ebonscale">Posting</string>
+	<string key="0830_Posting_t" rel_version="Quest_Supplement_Ebonscale">Wanted Posting</string>
+	<string key="0830_Override">Read</string>
+	<string key="08_Yongtai" rel_version="Quest_Supplement_Ebonscale">Wu Yongtai</string>
+	<string key="08_Yongtai_t" rel_version="Quest_Supplement_Ebonscale">Silkweed Farmer</string>
+	<string key="08_Jiahao" rel_version="Quest_Supplement_Ebonscale">Wu Jiahao</string>
+	<string key="08_Jiahao_t" rel_version="Quest_Supplement_Ebonscale">Trader</string>
+	<string key="08_Zuma" rel_version="Quest_Supplement_Ebonscale">Tariq Zuma</string>
+	<string key="08_Zuma_t" rel_version="Quest_Supplement_Ebonscale">Tile Maker</string>
+	<string key="08_Gwendolyn" rel_version="Quest_Supplement_Ebonscale">Gwendolyn Balfour</string>
+	<string key="08_Gwendolyn_t" rel_version="Quest_Supplement_Ebonscale">Textile Merchant</string>
+	<string key="08_Beacher" rel_version="Quest_Supplement_Ebonscale">Beacher Ingram</string>
+	<string key="08_Beacher_t" rel_version="Quest_Supplement_Ebonscale">Acupuncture Enthusiast</string>
+	<string key="08_Muthalaly" rel_version="Quest_Supplement_Ebonscale">Santoshi Muthalaly</string>
+	<string key="08_Muthalaly_t" rel_version="Quest_Supplement_Ebonscale">The Royal Perfumer</string>
+	<string key="08_Tai" rel_version="Quest_Supplement_Ebonscale">Han Tai</string>
+	<string key="08_Tai_t" rel_version="Quest_Supplement_Ebonscale">Imperial Guard</string>
+	<string key="08_Guanyu" rel_version="Quest_Supplement_Ebonscale">Han Guanyu</string>
+	<string key="08_Guanyu_t" rel_version="Quest_Supplement_Ebonscale">Imperial Guard</string>
+	<string key="08_Rong" rel_version="Quest_Supplement_Ebonscale">Li Rong</string>
+	<string key="08_Rong_t" rel_version="Quest_Supplement_Ebonscale">Imperial Guard</string>
+	<string key="08_Na" rel_version="Quest_Supplement_Ebonscale">Wenzhi Na</string>
+	<string key="08_Na_t" rel_version="Quest_Supplement_Ebonscale">Imperial Guard</string>
+	<string key="MB_Ambient_Candlemaker_00" rel_version="Quest_Console_Release">a</string>
+	<string key="MB_Ambient_FarmerBaron2_00" rel_version="Quest_Console_Release">a</string>
+	<string key="MB_Ambient_FarmerBaron_00" rel_version="Quest_Console_Release">a</string>
+	<string key="MB_Ambient_FarmerNoRake_00" rel_version="Quest_Console_Release">a</string>
+	<string key="MB_Ambient_Huntress_00" rel_version="Quest_Console_Release">a</string>
+	<string key="MB_Ambient_LesserGuard_00" rel_version="Quest_Console_Release">a</string>
+	<string key="MB_Ambient_LesserGuard_01" rel_version="Quest_Console_Release">a</string>
+	<string key="MB_Ambient_Lumberjack_00" rel_version="Quest_Console_Release">a</string>
+	<string key="MB_Ambient_Pioneer_00" rel_version="Quest_Console_Release">a</string>
+	<string key="MB_Ambient_Sweeper_00" rel_version="Quest_Console_Release">a</string>
+	<string key="MB_Ambient_Trapper_00" rel_version="Quest_Console_Release">a</string>
+	<string key="WW_Ambient_Adventurer_00" rel_version="Quest_Console_Release">a</string>
+	<string key="WW_Ambient_FarmerBaron_00" rel_version="Quest_Console_Release">a</string>
+	<string key="WW_Ambient_Historian_00" rel_version="Quest_Console_Release">a</string>
+	<string key="WW_Ambient_Historian_01" rel_version="Quest_Console_Release">a</string>
+	<string key="WW_Ambient_Merchant_00" rel_version="Quest_Console_Release">a</string>
+	<string key="WW_Ambient_Miner_00" rel_version="Quest_Console_Release">a</string>
+	<string key="WW_Ambient_Seamstress_00" rel_version="Quest_Console_Release">a</string>
+	<string key="WW_Ambient_Seamstress_01" rel_version="Quest_Console_Release">a</string>
+	<string key="WW_Ambient_Swashbuckler_00" rel_version="Quest_Console_Release">a</string>
+	<string key="WW_Ambient_Woodsman_00" rel_version="Quest_Console_Release">a</string>
+	<string key="EF_Ambient_Baker_00" rel_version="Quest_Console_Release">a</string>
+	<string key="EF_Ambient_Cavediver_00" rel_version="Quest_Console_Release">a</string>
+	<string key="EF_Ambient_FarmerNoRake_00" rel_version="Quest_Console_Release">a</string>
+	<string key="EF_Ambient_ForeignDignitary_00" rel_version="Quest_Console_Release">a</string>
+	<string key="EF_Ambient_Graverobber_00" rel_version="Quest_Console_Release">a</string>
+	<string key="EF_Ambient_Historian_00" rel_version="Quest_Console_Release">a</string>
+	<string key="EF_Ambient_Historian_01" rel_version="Quest_Console_Release">a</string>
+	<string key="EF_Ambient_LeatherWorker_00" rel_version="Quest_Console_Release">a</string>
+	<string key="EF_Ambient_Merchant_00" rel_version="Quest_Console_Release">a</string>
+	<string key="EF_Ambient_Pioneer_00" rel_version="Quest_Console_Release">a</string>
+	<string key="EF_Ambient_TavernPatron_00" rel_version="Quest_Console_Release">a</string>
+	<string key="BW_Ambient_Adventurer_00" rel_version="Quest_Console_Release">a</string>
+	<string key="BW_Ambient_Graverobber_00" rel_version="Quest_Console_Release">a</string>
+	<string key="BW_Ambient_Historian_00" rel_version="Quest_Console_Release">a</string>
+	<string key="BW_Ambient_Merchant_00" rel_version="Quest_Console_Release">a</string>
+	<string key="BW_Ambient_Merchant_01" rel_version="Quest_Console_Release">a</string>
+	<string key="BW_Ambient_Musketeer_00" rel_version="Quest_Console_Release">a</string>
+	<string key="BW_Ambient_Seamstress_00" rel_version="Quest_Console_Release">a</string>
+	<string key="BW_Ambient_Shoemaker_00" rel_version="Quest_Console_Release">a</string>
+	<string key="BW_Ambient_Swashbuckler_00" rel_version="Quest_Console_Release">a</string>
+	<string key="BW_Ambient_TavernPatron_00" rel_version="Quest_Console_Release">a</string>
+	<string key="WF_Ambient_Adventurer_00" rel_version="Quest_Console_Release">a</string>
+	<string key="WF_Ambient_Farmer_00" rel_version="Quest_Console_Release">a</string>
+	<string key="WF_Ambient_Historian_00" rel_version="Quest_Console_Release">a</string>
+	<string key="WF_Ambient_Historian_01" rel_version="Quest_Console_Release">a</string>
+	<string key="WF_Ambient_Hunter_00" rel_version="Quest_Console_Release">a</string>
+	<string key="WF_Ambient_Merchant_00" rel_version="Quest_Console_Release">a</string>
+	<string key="WF_Ambient_Seamstress_00" rel_version="Quest_Console_Release">a</string>
+	<string key="WF_Ambient_Settler_00" rel_version="Quest_Console_Release">a</string>
+	<string key="WF_Ambient_SurveyorWithSpyglass_00" rel_version="Quest_Console_Release">a</string>
+	<string key="WF_Ambient_TavernPatron_00" rel_version="Quest_Console_Release">a</string>
+	<string key="EG_Ambient_Merchant_00" rel_version="Quest_Console_Release">a</string>
+	<string key="EG_Ambient_ParchmentMaker_00" rel_version="Quest_Console_Release">a</string>
+	<string key="EG_Ambient_Pirate_00" rel_version="Quest_Console_Release">a</string>
+	<string key="EG_Ambient_Seamstress_00" rel_version="Quest_Console_Release">a</string>
+	<string key="GC_Ambient_Cavediver_00" rel_version="Quest_Console_Release">a</string>
+	<string key="GC_Ambient_Farmer_00" rel_version="Quest_Console_Release">a</string>
+	<string key="GC_Ambient_Merchant_00" rel_version="Quest_Console_Release">a</string>
+	<string key="GC_Ambient_Miner_00" rel_version="Quest_Console_Release">a</string>
+	<string key="GC_Ambient_Swashbuckler_00" rel_version="Quest_Console_Release">a</string>
+	<string key="GC_Ambient_Watcher_00" rel_version="Quest_Console_Release">a</string>
+	<string key="SM_Ambient_Alchemist_00" rel_version="Quest_Console_Release">a</string>
+	<string key="SM_Ambient_FarmerBaron_00" rel_version="Quest_Console_Release">a</string>
+	<string key="SM_Ambient_Lumberjack_00" rel_version="Quest_Console_Release">a</string>
+	<string key="SM_Ambient_Merchant_00" rel_version="Quest_Console_Release">a</string>
+	<string key="SM_Ambient_Miner_00" rel_version="Quest_Console_Release">a</string>
+	<string key="SM_Ambient_Seamstress_00" rel_version="Quest_Console_Release">a</string>
+	<string key="SM_Ambient_TavernPatron_00" rel_version="Quest_Console_Release">a</string>
+	<string key="RS_Ambient_Candlemaker_00" rel_version="Quest_Console_Release">a</string>
+	<string key="RS_Ambient_Deckhand_00" rel_version="Quest_Console_Release">a</string>
+	<string key="RS_Ambient_Deckhand_01" rel_version="Quest_Console_Release">a</string>
+	<string key="RS_Ambient_Historian_00" rel_version="Quest_Console_Release">a</string>
+	<string key="RS_Ambient_Merchant_00" rel_version="Quest_Console_Release">a</string>
+	<string key="RS_Ambient_Pirate_00" rel_version="Quest_Console_Release">a</string>
+	<string key="RS_Ambient_Pirate_01" rel_version="Quest_Console_Release">a</string>
+	<string key="RS_Ambient_Seamstress_00" rel_version="Quest_Console_Release">a</string>
+	<string key="RS_Ambient_Surveyor_00" rel_version="Quest_Console_Release">a</string>
+	<string key="RS_Ambient_Surveyor_01" rel_version="Quest_Console_Release">a</string>
+	<string key="RS_Ambient_Swashbuckler_00" rel_version="Quest_Console_Release">a</string>
+	<string key="RS_Ambient_TavernPatron_00" rel_version="Quest_Console_Release">a</string>
+	<string key="MD_Ambient_Bard_00" rel_version="Quest_Console_Release">a</string>
+	<string key="MD_Ambient_Fisherman_00" rel_version="Quest_Console_Release">a</string>
+	<string key="MD_Ambient_Historian_00" rel_version="Quest_Console_Release">a</string>
+	<string key="MD_Ambient_Merchant_00" rel_version="Quest_Console_Release">a</string>
+	<string key="MD_Ambient_Surveyor_00" rel_version="Quest_Console_Release">a</string>
+	<string key="MD_Ambient_Seamstress_00" rel_version="Quest_Console_Release">a</string>
+	<string key="MD_Ambient_Merchant_01" rel_version="Quest_Console_Release">a</string>
+	<string key="MD_Ambient_Historian_01" rel_version="Quest_Console_Release">a</string>
+	<string key="MD_Ambient_TavernPatron_00" rel_version="Quest_Console_Release">a</string>
+	<string key="ER_Ambient_ImperialGuard_00" rel_version="Quest_Console_Release">a</string>
+	<string key="ER_Ambient_ImperialGuard_01" rel_version="Quest_Console_Release">a</string>
+	<string key="ER_Ambient_ImperialGuard_02" rel_version="Quest_Console_Release">a</string>
+	<string key="ER_Ambient_Merchant_00" rel_version="Quest_Console_Release">a</string>
+	<string key="ER_Ambient_Painter_00" rel_version="Quest_Console_Release">a</string>
+	<string key="RW_Ambient_AdventurerM_00" rel_version="Quest_Console_Release">a</string>
+	<string key="RW_Ambient_Candlemaker_00" rel_version="Quest_Console_Release">a</string>
+	<string key="RW_Ambient_Hunter_00" rel_version="Quest_Console_Release">a</string>
+	<string key="RW_Ambient_Pirate_00" rel_version="Quest_Console_Release">a</string>
+	<string key="RW_Ambient_Woodsman_00" rel_version="Quest_Console_Release">a</string>
+	<string key="08_InnName">Three Stars Inn</string>
+</resources>
+

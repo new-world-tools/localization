@@ -1,0 +1,79 @@
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="0402a_Magistrate" rel_version="Quest_MSQ2_Revamp">Balian Clark</string>
+	<string key="0402a_Magistrate_title" rel_version="Quest_MSQ2_Revamp">Magistrate of Oxboro</string>
+	<string key="0403a_HuntsmanLee_title" rel_version="Quest_MSQ2_Revamp">Noble Huntsman</string>
+	<string key="0403a_HuntsmanLee" rel_version="Quest_MSQ2_Revamp">Odnell Lee</string>
+	<string key="0404a_Constable" rel_version="Quest_MSQ2_Revamp">Avita Maecia</string>
+	<string key="0404a_Constable_Title" rel_version="Quest_MSQ2_Revamp">Constable of Oxboro</string>
+	<string key="0405a_ArtificerPetrowski_title" rel_version="Quest_MSQ2_Revamp">Oxboro Artificer</string>
+	<string key="0405a_ArtificerPetrowski" rel_version="Quest_MSQ2_Revamp">Tekla Petrowski</string>
+	<string key="0407_Commander_title" rel_version="Quest_MSQ2_Revamp">Marauder Commander</string>
+	<string key="0407_Commander" rel_version="Quest_MSQ2_Revamp">Hoang Lin</string>
+	<string key="0408_Alchemist_title" rel_version="Quest_MSQ2_Revamp">Syndicate Alchemist</string>
+	<string key="0408_Alchemist" rel_version="Quest_MSQ2_Revamp">Amrique Olivera</string>
+	<string key="0409_Adjudicator_title" rel_version="Quest_MSQ2_Revamp">Covenant Adjudicator</string>
+	<string key="0409_Adjudicator" rel_version="Quest_MSQ2_Revamp">Amano Ushi</string>
+	<string key="0410a_BarkeepPolly_title" rel_version="Quest_MSQ2_Revamp">Struggling Barkeep</string>
+	<string key="0410a_BarkeepPolly" rel_version="Quest_MSQ2_Revamp">Cecilia Polly</string>
+	<string key="0411a_WilliamHeron_title" rel_version="Quest_MSQ2_Revamp">Master Scholar</string>
+	<string key="0411a_WilliamHeron" rel_version="Quest_MSQ2_Revamp">William Heron</string>
+	<string key="0422_Innkeep_title" rel_version="Quest_MSQ2_Revamp">Innkeeper of the Autumn Rest</string>
+	<string key="0422_Innkeep" rel_version="Quest_MSQ2_Revamp">Oseye Kamau</string>
+	<string key="0423_Fisher_title" rel_version="Quest_MSQ2_Revamp">Master Fisher</string>
+	<string key="0423_Fisher" rel_version="Quest_MSQ2_Revamp">Dena Ruby</string>
+	<string key="0424_Yeti_WW_NPC_title" rel_version="Event_WinterConvergence_Perm">Yeti Aspect</string>
+	<string key="0424_Yeti_WW_NPC" rel_version="Event_WinterConvergence_Perm">The Winter Wanderer</string>
+	<string key="0428_Jones_title" rel_version="Quest_MSQ2_Revamp">Trader</string>
+	<string key="0428_Jones" rel_version="Quest_MSQ2_Revamp">Gregory Jones</string>
+	<string key="0430_PVPArena_title" rel_version="Quest_MSQ2_Revamp">Arena Recruiter</string>
+	<string key="0430_PVPArena" rel_version="Quest_MSQ2_Revamp">Maximus Marcellus</string>
+	<string key="0435_Announcer_title" rel_version="Quest_MSQ2_Revamp">Arena Announcer</string>
+	<string key="0435_Announcer" rel_version="Quest_MSQ2_Revamp">Rufus Gaius</string>
+	<string key="0436a_TamraAyad_title" rel_version="Quest_MSQ2_Revamp">Disgraced Noble</string>
+	<string key="0436a_TamraAyad" rel_version="Quest_MSQ2_Revamp">Tamra Ayad</string>
+	<string key="0437a_FelixLivius_title" rel_version="Quest_MSQ2_Revamp">Thrillseeker</string>
+	<string key="0437a_FelixLivius" rel_version="Quest_MSQ2_Revamp">Felix Livius</string>
+	<string key="0438a_JacobEvans_title" rel_version="Quest_MSQ2_Revamp">Disheartened Porter</string>
+	<string key="0438a_JacobEvans" rel_version="Quest_MSQ2_Revamp">Jacob Evans</string>
+	<string key="0439a_AnwirHughes_title" rel_version="Quest_MSQ2_Revamp">Curative Salesman</string>
+	<string key="0439a_AnwirHughes" rel_version="Quest_MSQ2_Revamp">Anwir Hughes</string>
+	<string key="0440a_AtticusDelphi_title" rel_version="Quest_MSQ2_Revamp">Aspiring Musician</string>
+	<string key="0440a_AtticusDelphi" rel_version="Quest_MSQ2_Revamp">Atticus Delphi</string>
+	<string key="0440a_AtticusDelphi_title_musician" rel_version="Quest_MSQ2_Revamp">Ou Family Musician</string>
+	<string key="0441a_SairaYangandul_title" rel_version="Quest_MSQ2_Revamp">Ou Family Maid</string>
+	<string key="0441a_SairaYangandul" rel_version="Quest_MSQ2_Revamp">Saira Yangandul</string>
+	<string key="0442a_ConcettaSacco_title" rel_version="Quest_MSQ2_Revamp">Sacco Matriarch</string>
+	<string key="0442a_ConcettaSacco" rel_version="Quest_MSQ2_Revamp">Concetta Sacco</string>
+	<string key="0443a_OuShen_title" rel_version="Quest_MSQ2_Revamp">Ou Patriarch</string>
+	<string key="0443a_OuShen" rel_version="Quest_MSQ2_Revamp">Ou Shen</string>
+	<string key="0444a_LostAlchemy" rel_version="Quest_MSQ2_Revamp">Faded Formula</string>
+	<string key="0444a_LostAlchemy_InteractOverride" rel_version="Quest_MSQ2_Revamp">Read</string>
+	<string key="0445a_RequisitionNote" rel_version="Quest_MSQ2_Revamp">Odnell's Requisition</string>
+	<string key="0445a_RequisitionNote_InteractOverride" rel_version="Quest_MSQ2_Revamp">Read</string>
+	<string key="0446a_AncientScroll" rel_version="Quest_MSQ2_Revamp">Preserved Scroll</string>
+	<string key="0446a_AncientScroll_InteractOverride" rel_version="Quest_MSQ2_Revamp">Examine</string>
+	<string key="0447a_Locket" rel_version="Quest_MSQ2_Revamp">Dusty Locket</string>
+	<string key="0447a_Locket_InteractOverride" rel_version="Quest_MSQ2_Revamp">Examine</string>
+	<string key="0448a_SyndicateAlchemist" rel_version="Quest_MSQ2_Revamp">Zarra Torner</string>
+	<string key="0448a_SyndicateAlchemist_title" rel_version="Quest_MSQ2_Revamp">Syndicate Alchemist</string>
+	<string key="0449a_HeronNote" rel_version="Quest_MSQ2_Revamp">Scrawled Notes</string>
+	<string key="0449a_HeronNote_InteractOverride" rel_version="Quest_MSQ2_Revamp">Read</string>
+	<string key="0450a_TownGuard" rel_version="Quest_MSQ2_Revamp">Hannos Lembe</string>
+	<string key="0450a_TownGuard_title" rel_version="Quest_MSQ2_Revamp">Settlement Guard</string>
+	<string key="0451a_MineCart" rel_version="Quest_MSQ2_Revamp">Abandoned Mine Cart</string>
+	<string key="0451a_MineCart_InteractOverride" rel_version="Quest_MSQ2_Revamp">Inspect</string>
+	<string key="BabyYeti" rel_version="Event_WinterConvergence_Perm">Baby Yeti</string>
+	<string key="9926_VK_AbigailRose_title" comment="female">Homesteader</string>
+	<string key="9926_VK_AbigailRoseEp2_title" comment="female">Scout Leader</string>
+	<string key="9926_VK_AbigailRose" comment="female">Abigail Rose</string>
+	<string key="9927_VK_ScoutsNote_title" comment="female">Desdemona's Report</string>
+	<string key="9927_VK_ScoutsNote" comment="female">Bloodstained Note</string>
+	<string key="9930_VK_RomacBarbo" comment="male">Romac Barbo</string>
+	<string key="9930_VK_RomacBarbo_title" comment="male">Scout, Scarecrow</string>
+	<string key="9931_VK_Caoimhe" comment="female">Caoimhe Alsandair</string>
+	<string key="9931_VK_Caoimhe_title" comment="female">Researcher of Magic</string>
+	<string key="9932_VK_RomacNote" comment="male">Help!</string>
+	<string key="9932_VK_RomacNote_title" comment="male">Request for Assistance</string>
+	<string key="04_InnName" rel_version="Quest_Console_Release">Autumn Rest Inn</string>
+</resources>
+

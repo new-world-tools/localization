@@ -26,9 +26,9 @@
 	<string key="emote_fistshake_THEY" rel_version="Emote_Fistshake">{playerName} shakes their fist</string>
 	<string key="emote_flex1">{playerName} flexes</string>
 	<string key="emote_flex2">{playerName} flexes</string>
-	<string key="emote_flex3" rel_version="New_World_Launch">{playerName} wants you to look at his arms.  Aren't they great?</string>
-	<string key="emote_flex3_SHE" rel_version="New_World_Launch">{playerName} wants you to look at her arms.  Aren't they great?</string>
-	<string key="emote_flex3_THEY" rel_version="New_World_Launch">{playerName} wants you to look at their arms.  Aren't they great?</string>
+	<string key="emote_flex3" rel_version="New_World_Launch">{playerName} wants you to look at his arms. Aren't they great?</string>
+	<string key="emote_flex3_SHE" rel_version="New_World_Launch">{playerName} wants you to look at her arms. Aren't they great?</string>
+	<string key="emote_flex3_THEY" rel_version="New_World_Launch">{playerName} wants you to look at their arms. Aren't they great?</string>
 	<string key="emote_forearmjerk">{playerName} is dissatisfied</string>
 	<string key="emote_golfclap" rel_version="MTX_October_Skins">{playerName} applauds courteously</string>
 	<string key="emote_impatient" rel_version="Emote_Impatient">{playerName} grows impatient</string>
@@ -217,9 +217,9 @@
 	<string key="ui_emote_HotFan_description" rel_version="Emote_HotFanning">"Cool off!"</string>
 	<string key="ui_emote_RightBackAtYa_description" rel_version="Emote_BackAtYa">"Right back at ya!"</string>
 	<string key="emote_RoastMarshmallow" rel_version="Emote_ToastingMarshmallows">{playerName} toasts some yummy marshmallows.</string>
-	<string key="emote_HotFan" rel_version="Emote_HotFanning">{playerName} begins to fan himself to beat the heat.</string>
+	<string key="emote_HotFan" rel_version="Emote_HotFanning">{playerName} begins to fan himself to beat the heat.</string>
 	<string key="emote_HotFan_SHE" rel_version="Emote_HotFanning">{playerName} begins to fan herself to beat the heat.</string>
-	<string key="emote_HotFan_THEY" rel_version="Emote_HotFanning">{playerName} begins to fan themself to beat the heat.</string>
+	<string key="emote_HotFan_THEY" rel_version="Emote_HotFanning">{playerName} begins to fan themself to beat the heat.</string>
 	<string key="emote_RightBackAtYa" rel_version="Emote_BackAtYa">{playerName} points his fingers to mimic two guns shooting.</string>
 	<string key="emote_RightBackAtYa_SHE" rel_version="Emote_BackAtYa">{playerName} points her fingers to mimic two guns shooting.</string>
 	<string key="emote_RightBackAtYa_THEY" rel_version="Emote_BackAtYa">{playerName} points their fingers to mimic two guns shooting.</string>
@@ -268,7 +268,7 @@
 	<string key="ui_emote_Headbang_description" rel_version="Emote_HeadBanging">"For when the spirit of the music consumes one completely."</string>
 	<string key="ui_emote_SparklerDance_description" rel_version="Emote_SparklerDance">"Fire dance with me."</string>
 	<string key="ui_emote_TugOfWar_description" rel_version="Emote_TugOfWar">"Pull for all you're worth! Pull like you're back at sea, hauling the mainsail aloft."</string>
-	<string key="emote_PinCount" rel_version="Emote_PinCount">{playerName} counts and… rules it a pin!</string>
+	<string key="emote_PinCount" rel_version="Emote_PinCount">{playerName} counts and rules it a pin!</string>
 	<string key="emote_Plotting" rel_version="Emote_Plotting">{playerName} plots something sinister.</string>
 	<string key="emote_RobotDance" rel_version="Emote_RobotDance">{playerName} does a mechanical dance.</string>
 	<string key="emote_Headbang" rel_version="Emote_HeadBanging">{playerName} bangs his head up and down.</string>
@@ -582,10 +582,22 @@
 	<string key="ui_Emote_Walk_Wave_name" rel_version="Season_5_Perm">Celebration Wave</string>
 	<string key="Emote_Walk_Wave" rel_version="Season_5_Perm">{playerName} waves to the crowds of people around them.</string>
 	<string key="ui_Emote_Walk_Torch_name">Torchlit Walk</string>
-	<string key="ui_Emote_Walk_Torch_description">Need to loom menacingly around town? We've got just the thing. </string>
-	<string key="Emote_Walk_Torch">{playerName} stalks about menacingly, holding their torch high. </string>
+	<string key="ui_Emote_Walk_Torch_description">Need to loom menacingly around town? We've got just the thing.</string>
+	<string key="Emote_Walk_Torch">{playerName} stalks about menacingly, holding their torch high.</string>
 	<string key="ui_Emote_GauntletThrow_name">Throw the Gauntlet</string>
-	<string key="ui_Emote_GauntletThrow_description">Issue your challenge in style, with a well-aimed gauntlet toss. </string>
-	<string key="Emote_GauntletThrow">{playerName} throws down the gauntlet. </string>
+	<string key="ui_Emote_GauntletThrow_description">Issue your challenge in style, with a well-aimed gauntlet toss.</string>
+	<string key="Emote_GauntletThrow">{playerName} throws down the gauntlet.</string>
+	<string key="ui_Emote_Walk_FingerGuns_name" rel_version="Season_6_Perm">Guns Out Greeting</string>
+	<string key="ui_Emote_Walk_FingerGuns_description" rel_version="Season_6_Perm">Everyone is watching your style. Your mom says you are the coolest.</string>
+	<string key="Emote_Walk_FingerGuns" rel_version="Season_6_Perm">{playerName} is showing their guns and style.</string>
+	<string key="ui_Emote_BiteMedal_name">Bite Medal</string>
+	<string key="ui_Emote_BiteMedal_description">What place doesnt matter. Grab the Champagne and celebrate!</string>
+	<string key="Emote_BiteMedal">{playerName} wants you to know that they are winning!!!</string>
+	<string key="ui_Emote_NailFile_name">PLACEHOLDER</string>
+	<string key="ui_Emote_NailFile_description">PLACEHOLDER</string>
+	<string key="Emote_NailFile">{playerName} PLACEHOLDER</string>
+	<string key="ui_Emote_LizardRun_name">PLACEHOLDER</string>
+	<string key="ui_Emote_LizardRun_description">PLACEHOLDER</string>
+	<string key="Emote_LizardRun">{playerName} PLACEHOLDER</string>
 </resources>
 

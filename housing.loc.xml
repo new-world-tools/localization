@@ -9,9 +9,9 @@
 	<string key="ui_house_abandon_this_popup_desc" comment="Abandon House">{percent}% of the original purchase cost will be refunded. All trophies and furniture in this house will be moved to the storage shed.\n\nTo continue, type {territoryName} below.</string>
 	<string key="ui_house_abandon_this_popup_title" comment="Abandon House">Abandon House</string>
 	<string key="ui_house_abandon_no_storage_warning" comment="Abandon House">You must have at least one free slot of Settlement storage before you can remove all items from your house.</string>
-	<string key="ui_cannot_reset_travel_currency" comment="Fast Travel">Pay {coin} &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; to reset cooldown.</string>
-	<string key="ui_cannot_travel_currency" comment="Fast Travel">{coin} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; is required to fast travel</string>
-	<string key="ui_cannot_travel_currency_azoth" comment="Fast Travel">{coin} &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.2" yOffset="0"&gt;&lt;/img&gt; is required to fast travel</string>
+	<string key="ui_cannot_reset_travel_currency" comment="Fast Travel">Pay &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; {coin} to reset cooldown.</string>
+	<string key="ui_cannot_travel_currency" comment="Fast Travel">&lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; {coin} is required to fast travel</string>
+	<string key="ui_cannot_travel_currency_azoth" comment="Fast Travel">&lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.2" yOffset="0"&gt;&lt;/img&gt; {coin} is required to fast travel</string>
 	<string key="ui_cannot_travel_dead" comment="Fast Travel">You cannot recall or fast travel when you are dead.</string>
 	<string key="ui_cannot_travel_encounter" comment="Fast Travel">You cannot fast travel while in an encounter</string>
 	<string key="ui_cannot_travel_encumbered" comment="Fast Travel">You cannot fast travel while encumbered</string>
@@ -30,9 +30,9 @@
 	<string key="ui_fast_travel_error_description_inCooldown_with_time" comment="Fast Travel">This action is on cooldown.\nCan recall in {time}.</string>
 	<string key="ui_fast_travel_error_encumbered" comment="Fast Travel">You can't fast travel or recall when you are encumbered.</string>
 	<string key="ui_fast_travel_error_inCooldown" comment="Fast Travel">{time}</string>
-	<string key="ui_fast_travel_error_noDestination" comment="Fast Travel">Visit this location first in order to fast travel here.</string>
-	<string key="ui_fast_travel_error_noDestination_outpost" comment="Fast Travel">Visit this location first in order to fast travel here.</string>
-	<string key="ui_fast_travel_error_noDestination_shrine" comment="Fast Travel">Visit this location first in order to fast travel here.</string>
+	<string key="ui_fast_travel_error_noDestination" comment="Fast Travel">You have not discovered this location.</string>
+	<string key="ui_fast_travel_error_noDestination_outpost" comment="Fast Travel">You have not discovered this location.</string>
+	<string key="ui_fast_travel_error_noDestination_shrine" comment="Fast Travel">You have not discovered this location.</string>
 	<string key="ui_fast_travel_failed" comment="Fast Travel">Fast Travel Failed</string>
 	<string key="ui_fast_travel_mission_abandon_confirm" comment="Fast Travel">WARNING: Fast traveling will reset the active timed race and abandon all PvP faction missions.\n{timedRaceCount} timed race will be reset and {missionCount} mission will be abandoned.\n\nContinue?</string>
 	<string key="ui_fast_travel_popup_confirm" comment="Fast Travel">Would you like to fast travel to this location?</string>
@@ -41,21 +41,22 @@
 	<string key="ui_fast_travel_shrine_activated_body" comment="Fast Travel">New Fast Travel Point Activated!</string>
 	<string key="ui_fast_travel_shrine_activated_header" comment="Fast Travel">Fast Travel Shrine</string>
 	<string key="ui_fast_travel_to" comment="Fast Travel">Fast Travel to</string>
-	<string key="ui_fast_travel_uncharted_point" comment="Fast Travel">Uncharted Fast Travel Point</string>
+	<string key="ui_fast_travel_uncharted_point" comment="Fast Travel">Undiscovered Fast Travel Point</string>
 	<string key="ui_house_recall_popup_confirm" comment="Fast Travel">Would you like to recall to your house?</string>
+	<string key="ui_house_recall_popup_confirm_ffa" rel_version="Territory_CutlassKeys_Rework">Would you like to recall to your house?\n\n&lt;font color={color}&gt;Some Cursed Items will be dropped.&lt;/font&gt;</string>
 	<string key="ui_house_travel_cooldown_remaining" comment="Fast Travel">Can Fast Travel again in {time}</string>
 	<string key="ui_housing_fast_travel" comment="Fast Travel">Fast Travel</string>
 	<string key="ui_housing_fast_travel_desc" comment="Fast Travel">From anywhere to here</string>
-	<string key="ui_need_reset_travel_currency" comment="Fast Travel">You need {coin} &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; to reset cooldown.</string>
+	<string key="ui_need_reset_travel_currency" comment="Fast Travel">You need &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; {coin} to reset cooldown.</string>
 	<string key="ui_recall_not_available_server_error" comment="Fast Travel">Recall is not available due to server error.</string>
 	<string key="ui_recall_to" comment="Fast Travel">Recall to</string>
 	<string key="ui_recall_to_house" comment="Fast Travel">Recall to House</string>
 	<string key="ui_recall_to_house_disabled" comment="Fast Travel">Recall to House (Disabled)</string>
-	<string key="ui_reset_travel" comment="Fast Travel">{coin} &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.2" yOffset="0"&gt;&lt;/img&gt; Reset Cooldown</string>
+	<string key="ui_reset_travel" comment="Fast Travel">&lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.2" yOffset="0"&gt;&lt;/img&gt; {coin} Reset Cooldown</string>
 	<string key="ui_settlement_fast_travel" comment="Fast Travel">Fast Travel</string>
-	<string key="ui_settlement_fast_travel_desc" comment="Fast Travel">Fast Travel To This Settlement for {cost} &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.2" yOffset="0"&gt;&lt;/img&gt;</string>
+	<string key="ui_settlement_fast_travel_desc" comment="Fast Travel">Fast Travel To This Settlement for &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.2" yOffset="0"&gt;&lt;/img&gt; {cost}</string>
 	<string key="ui_spirit_shrine" comment="Fast Travel">Spirit Shrine</string>
-	<string key="ui_spirit_shrine_desc" comment="Fast Travel">Fast Travel to any previously visited Settlement, Outpost, or Spirit Shrine.</string>
+	<string key="ui_spirit_shrine_desc" comment="Fast Travel">Travel instantly to any discovered Settlement, Outpost, or Spirit Shrine.</string>
 	<string key="ui_travel" comment="Fast Travel">Travel</string>
 	<string key="ui_watchtower_fast_travel" comment="Fast Travel">Recall to Watchtower</string>
 	<string key="ui_watchtower_recall_from_esc_popup_confirm" comment="Fast Travel">Would you like to recall to the watchtower located in {territoryName}?</string>
@@ -94,7 +95,7 @@
 	<string key="ui_residence" comment="House Plots">{playerName}'s Residence</string>
 	<string key="ui_resident_homes_already_showing_current" comment="House Plots">Empty</string>
 	<string key="ui_resident_homes_no_data" comment="House Plots">No other players own a house here.</string>
-	<string key="ui_top_houses" comment="House Plots">Top &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;20&lt;/font&gt;</string>
+	<string key="ui_top_houses" comment="House Plots">Top 20</string>
 	<string key="ui_your_house" comment="House Plots">Your House</string>
 	<string key="ui_your_house_disabled" comment="House Plots">Your House (Disabled)</string>
 	<string key="ui_beds" comment="Housing Category">Beds</string>
@@ -145,15 +146,16 @@
 	<string key="ui_house_type_storage_chest_singular" comment="Housing Item Cap Messaging">storage chest</string>
 	<string key="ui_currently_displaying" comment="Housing Score/Points">Public</string>
 	<string key="ui_housing_item_score" comment="Housing Score/Points">Decoration Score</string>
-	<string key="ui_housing_point_tooltip" comment="Housing Score/Points">The Top 20 houses are determined every 2 days by the highest housing points, which are calculated based on the owners' gained Territory Standing and furniture placed on their property.</string>
+	<string key="ui_housing_point_tooltip" comment="Housing Score/Points">The Top 20 houses are determined every 2 days by the highest housing points.</string>
+	<string key="ui_housing_point_tooltip_my_house" comment="Housing Score/Points">Calculated based on your Decoration Score and Territory Standing.</string>
 	<string key="ui_num_housing_points" comment="Housing Score/Points">{points} Points</string>
 	<string key="ui_cant_pay_property_tax" comment="Housing Taxes">Next Payment: {time}</string>
 	<string key="ui_decoration_mode_unpaid" comment="Housing Taxes">Upkeep must be paid to decorate your home.</string>
-	<string key="ui_house_compensation_message_JAV141577" comment="Housing Taxes">Due to incorrect messaging around fees for first time homebuyers, you have been granted {amount} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; as a homebuyer. We hope you continue to enjoy New World and your house.</string>
+	<string key="ui_house_compensation_message_JAV141577" comment="Housing Taxes">Due to incorrect messaging around fees for first time homebuyers, you have been granted &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; {amount} as a homebuyer. We hope you continue to enjoy New World: Aeternum and your house.</string>
 	<string key="ui_house_overdue_at" comment="Housing Taxes">{territoryName} property upkeep is overdue. Pay to enable housing features.</string>
 	<string key="ui_house_overdue_desc" comment="Housing Taxes">Property upkeep is overdue. Pay to enable housing features.</string>
 	<string key="ui_house_overdue_label" comment="Housing Taxes">Property upkeep overdue</string>
-	<string key="ui_house_property_tax_desc" comment="Housing Taxes">{coin} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
+	<string key="ui_house_property_tax_desc" comment="Housing Taxes">&lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; {coin}</string>
 	<string key="ui_house_property_tax_sub_desc" comment="Housing Taxes">/ pay period is required to maintain this house.</string>
 	<string key="ui_house_tax" comment="Housing Taxes">Upkeep</string>
 	<string key="ui_house_tax_unpaid_flyout_warning" comment="Housing Taxes">House disabled due to unpaid property upkeep.</string>
@@ -178,7 +180,7 @@
 	<string key="ui_house_type_trophies" comment="Housing Trophy Buffs">Slots</string>
 	<string key="ui_housing_trophy_buff" comment="Housing Trophy Buffs">Trophies</string>
 	<string key="ui_housing_trophy_buff_desc" comment="Housing Trophy Buffs">Provides buffs</string>
-	<string key="ui_housing_trophy_buff_desc_tooltip" comment="Housing Trophy Buffs">A trophy that inspires you when placed in your home.</string>
+	<string key="ui_housing_trophy_buff_desc_tooltip" comment="Housing Trophy Buffs">Place a trophy in this slot to give your character buffs while you're adventuring in Aeternum.</string>
 	<string key="ui_housing_trophy_buffs" comment="Housing Trophy Buffs">Trophy Buffs</string>
 	<string key="ui_housing_trophy_buffs_disabled" comment="Housing Trophy Buffs">Trophy Buffs (Disabled)</string>
 	<string key="ui_housing_tip_description1" comment="Load Screen Housing Tips">While in &lt;font color={colorHex}&gt;Decoration Mode&lt;/font&gt;, use &lt;font color={colorHex}&gt;Rotate, Grid Placement&lt;/font&gt;, and ‘&lt;font color={colorHex}&gt;Lock To Surface&lt;/font&gt;’ features to decorate your house exactly how you want.</string>
@@ -196,7 +198,7 @@
 	<string key="@ui_house_items_refunded_multiple_message" comment="Old/Outdated?">Due to changes in {settlement} {count} house items have been returned to your inventory.</string>
 	<string key="@ui_house_items_refunded_single_message" comment="Old/Outdated?">Due to changes in {settlement} a house item has been returned to your inventory.</string>
 	<string key="@ui_house_items_refunded_title" comment="Old/Outdated?">House Items refunded</string>
-	<string key="@ui_house_refunded_message" comment="Old/Outdated?">Due to changes in {settlement} your house has been refunded. You have received {cost} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; and all items back.</string>
+	<string key="@ui_house_refunded_message" comment="Old/Outdated?">Due to changes in {settlement} your house has been refunded. You have received &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; {cost} and all items back.</string>
 	<string key="@ui_house_refunded_title" comment="Old/Outdated?">House refunded</string>
 	<string key="ui_house_all_placed_category" comment="Placed Housing Items">All Items in this house</string>
 	<string key="ui_house_placed_items" comment="Placed Housing Items">Placed</string>
@@ -249,9 +251,11 @@
 	<string key="ui_inn_fast_travel" comment="Settlement Inn">Recall to Inn</string>
 	<string key="ui_inn_fast_travel_notavailable" comment="Settlement Inn">Can Recall In: {time}</string>
 	<string key="ui_inn_header" comment="Settlement Inn">{territoryName} Inn</string>
-	<string key="ui_inn_map_tooltip" comment="Settlement Inn">&lt;font color="#949494"&gt;&lt;font face="lyshineui/fonts/Nimbus_bold.font"&gt;Not Checked In&lt;/font&gt;&lt;/font&gt;\nCheck in to set a respawn and recall point.</string>
+	<string key="ui_inn_map_tooltip" comment="Settlement Inn">Check in to set a respawn and recall point.</string>
 	<string key="ui_inn_recall_from_esc_popup_confirm" comment="Settlement Inn">Would you like to recall to the inn located in {territoryName}?</string>
 	<string key="ui_inn_recall_popup_confirm" comment="Settlement Inn">Would you like to recall to this inn?</string>
+	<string key="ui_inn_recall_popup_confirm_ffa" rel_version="Territory_CutlassKeys_Rework">Would you like to recall to this inn?\n\n&lt;font color={color}&gt;Some Cursed Items will be dropped.&lt;/font&gt;</string>
+	<string key="ui_inn_recall_from_esc_popup_confirm_ffa" rel_version="Territory_CutlassKeys_Rework">Would you like to recall to the inn located in {territoryName}?\n\n&lt;font color={color}&gt;Some Cursed Items will be dropped.&lt;/font&gt;</string>
 	<string key="ui_inn_replace_desc" comment="Settlement Inn">&lt;font color="#EBE3D6"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Welcome to {territoryName} Inn!&lt;/font&gt;&lt;/font&gt;\n\n Would you like to &lt;font color="#edc63e"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;check in&lt;/font&gt;&lt;/font&gt;?\nThis will allow you to recall and respawn at this settlement\nfrom anywhere in the world!\n\n&lt;font color="#edc63e"&gt;This will replace your current recall point.&lt;/font&gt;</string>
 	<string key="ui_not_checked_in" comment="Settlement Inn">Check in at the inn to activate the recall point in this settlement.</string>
 	<string key="ui_not_checked_in_escape_menu" comment="Settlement Inn">Check in at an inn to activate a recall point.</string>

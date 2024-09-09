@@ -527,7 +527,7 @@
 	<string key="1102_StoneOrb_DisplayName">Stone Orb</string>
 	<string key="1103_CopperOrb_DisplayName">Copper Orb</string>
 	<string key="1104_MedallionChest_DisplayName">Take Medallions</string>
-	<string key="1102_TelescopeChest_DisplayName">Take Telescope</string>
+	<string key="1102_TelescopeChest_DisplayName">Take Field Notes</string>
 	<string key="1105_CorruptedTotem_DisplayName">Destroy Corrupted Emblem</string>
 	<string key="1201_JamJar_DisplayName">Jar of Arruda Jam</string>
 	<string key="1202_AncientArtifact_DisplayName">Ancient Artifact</string>
@@ -849,7 +849,7 @@
 	<string key="LuckShrine_MothersLove">Mother's Love</string>
 	<string key="GoldPile00_DisplayName" rel_version="Feature_Unbound_Island">Supply Cache</string>
 	<string key="0601_0101_weapon_01_hatchet_DisplayName">Choose the Battleworn Hatchet</string>
-	<string key="0601_0101_weapon_02_warhammer_DisplayName">Choose the Battleworn Warhammer</string>
+	<string key="0601_0101_weapon_02_warhammer_DisplayName">Choose the Battleworn War Hammer</string>
 	<string key="0601_0101_weapon_03_bow_DisplayName">Choose the Battleworn Bow</string>
 	<string key="0601_0101_weapon_04_firestaff_DisplayName">Choose the Battleworn Firestaff</string>
 	<string key="16BS_AncientGlyph_Backup_DisplayName" rel_version="Territory_Brimstone_Sands">Study Ancient Glyph</string>
@@ -857,6 +857,7 @@
 	<string key="16BS_AncientGlyphLock_Strange_Description" rel_version="Territory_Brimstone_Sands">A glyph of the Ancients is nearby. Use your Azoth Staff to learn its power.</string>
 	<string key="16BS_AncientGlyphLock_DisplayName" rel_version="Territory_Brimstone_Sands">Translate Ancient Glyph</string>
 	<string key="16BS_AncientGlyphInscription_DisplayName" rel_version="Territory_Brimstone_Sands">Translate Inscription</string>
+	<string key="10WS_BuriedTreasure_DisplayName" rel_version="Territory_CutlassKeys_Rework">Dig for Buried Treasure</string>
 	<string key="16BS_AncientGlyphLock_Sutekh_DisplayName" rel_version="Territory_Brimstone_Sands">Sutekh's Tomb</string>
 	<string key="16BS_AncientTowerDoor_DisplayName" rel_version="Territory_Brimstone_Sands">Ancient Temple Door</string>
 	<string key="16BS_AncientGlyphWall_Exit_DisplayName" rel_version="Territory_Brimstone_Sands">Ancient Glyph Door</string>
@@ -903,15 +904,15 @@
 	<string key="1624_0901_BuriedTrunk_DisplayName" rel_version="Territory_Brimstone_Sands">Uncover Trunk</string>
 	<string key="1625_0903_AmbientGroup_DisplayName" rel_version="Territory_Brimstone_Sands">Speak with Citizens</string>
 	<string key="1624_1001_VineWall_DisplayName" rel_version="Territory_Brimstone_Sands">Destroy Vines</string>
-	<string key="1624_1001_ArtemisCrystal_DisplayName" rel_version="Territory_Brimstone_Sands">Touch the Crystal</string>
+	<string key="1624_1001_ArtemisCrystal_DisplayName" rel_version="Territory_Brimstone_Sands">Touch the Shrine</string>
 	<string key="NPCRescue_Generic_NPC_DisplayName" rel_version="Quest_MSQ2_Revamp">Unbind Chains</string>
 	<string key="MSQ_ShipWheel_DisplayName" rel_version="Quest_MSQ2_Revamp">Ship's Wheel</string>
 	<string key="MSQ_Grace_Trapped_DisplayName" rel_version="Quest_MSQ2_Revamp">Corruption Cage</string>
 	<string key="MSQ_ShipManifest_DisplayName" rel_version="Quest_MSQ2_Revamp">Ship's Manifest</string>
-	<string key="98_Covenant_01_Crest_DisplayName" rel_version="Quest_MSQ2_Revamp">Take down town crest</string>
+	<string key="98_Covenant_01_Crest_DisplayName" rel_version="Quest_MSQ2_Revamp">Collect Family Crest</string>
 	<string key="98_Covenant_02_Captive_DisplayName" rel_version="Quest_MSQ2_Revamp">Release prisoner</string>
 	<string key="98_Covenant_02_Grimoire_DisplayName" rel_version="Quest_MSQ2_Revamp">Take Grimoire</string>
-	<string key="98_Covenant_03_Ritual_DisplayName" rel_version="Quest_MSQ2_Revamp">Complete the ritual.</string>
+	<string key="98_Covenant_03_Ritual_DisplayName" rel_version="Quest_MSQ2_Revamp">Complete the Ritual</string>
 	<string key="98_Covenant_03_Pyre_DisplayName" rel_version="Quest_MSQ2_Revamp">Burn the artifact</string>
 	<string key="98_Marauders_02_PirateBanner_DisplayName" rel_version="Quest_MSQ2_Revamp">Burn the Pirate Banner</string>
 	<string key="98_Marauders_02_ExplosiveBarrel_DisplayName" rel_version="Quest_MSQ2_Revamp">Commandeer the Explosive Barrel</string>
@@ -929,6 +930,7 @@
 	<string key="MSQ_Treasure_A_DisplayName" rel_version="Quest_MSQ2_Revamp">Astrolabe</string>
 	<string key="MSQ_Treasure_B_DisplayName" rel_version="Quest_MSQ2_Revamp">Candelabra</string>
 	<string key="MSQ_Treasure_C_DisplayName" rel_version="Quest_MSQ2_Revamp">Chalice</string>
+	<string key="MSQ_Beach_Damned_Monolith_DisplayName" rel_version="Quest_Console_Release">Destroy Corruption Nexus</string>
 	<string key="Gimmick_FallingRubble_DisplayName" rel_version="Quest_MSQ2_Revamp">Rock Trap</string>
 	<string key="BoatEncounter_Cannon_01" rel_version="Quest_MSQ2_Revamp">Fire Cannon</string>
 	<string key="Holdout_Interact_DisplayName" rel_version="Quest_MSQ2_Revamp">Begin the Trial</string>
@@ -941,7 +943,7 @@
 	<string key="99A_MSQ_06_TinctureGatherable_02_DisplayName" rel_version="Quest_MSQ2_Revamp">Verdant Petalcap</string>
 	<string key="99A_MSQ_06_TinctureGatherable_03_DisplayName" rel_version="Quest_MSQ2_Revamp">Engorged Rivercress</string>
 	<string key="99A_MSQ_06_TinctureCraftSpot_DisplayName" rel_version="Quest_MSQ2_Revamp">Mortar and Pestle</string>
-	<string key="99A_MSQ_09_Teleporter_DisplayName" rel_version="Quest_MSQ2_Revamp">Teleport</string>
+	<string key="99A_MSQ_09_Teleporter_DisplayName" rel_version="Quest_MSQ2_Revamp">Canis Transference Sigil</string>
 	<string key="99A_MSQ_09_LastCache_DisplayName" rel_version="Quest_MSQ2_Revamp">Ancient Soulwarden Cache</string>
 	<string key="99A_MSQ_10_SilverDeposit_DisplayName" rel_version="Quest_MSQ2_Revamp">Glint of Silver</string>
 	<string key="99A_MSQ_10_EzraAnvil_DisplayName" rel_version="Quest_MSQ2_Revamp">Ancient Forge</string>
@@ -965,7 +967,7 @@
 	<string key="MB_MSQ2_Robes_Chest_DisplayName" rel_version="Quest_MSQ2_Revamp">Chest of Robes</string>
 	<string key="MB_MSQ2_Mining_Supplies_DisplayName" rel_version="Quest_MSQ2_Revamp">Mining Supplies</string>
 	<string key="MB_MSQ2_Crate_Interact_DisplayName" rel_version="Quest_MSQ2_Revamp">Burn Supplies</string>
-	<string key="MB_MSQ2_Anchor_DisplayName" rel_version="Quest_MSQ2_Revamp">Destroy Anchor</string>
+	<string key="MB_MSQ2_Anchor_DisplayName" rel_version="Quest_MSQ2_Revamp">Destroy Rowboat</string>
 	<string key="MB_MSQ2_Wine_DisplayName" rel_version="Quest_MSQ2_Revamp">Wine Jar</string>
 	<string key="MB_MSQ2_DefeatNavigator_Altar_DisplayName" rel_version="Quest_MSQ2_Revamp">Ominous Altar</string>
 	<string key="MB_MSQ2_DefeatNavigator_Rubble_DisplayName" rel_version="Quest_MSQ2_Revamp">Search Rubble</string>
@@ -973,7 +975,7 @@
 	<string key="MB_MSQ2_GatherJewels_stone_DisplayName" rel_version="Quest_MSQ2_Revamp">Glittering Stone</string>
 	<string key="MB_MSQ2_Excavation_Examine_DisplayName" rel_version="Quest_MSQ2_Revamp">Examine Excavation</string>
 	<string key="MB_MSQ2_Excavation_Inspect_DisplayName" rel_version="Quest_MSQ2_Revamp">Inspect Excavation</string>
-	<string key="MB_MSQ2_InspectStatue_Tablet_DisplayName" rel_version="Quest_MSQ2_Revamp">Study Runes</string>
+	<string key="MB_MSQ2_InspectStatue_Tablet_DisplayName" rel_version="Quest_MSQ2_Revamp">Study the Last Tablet</string>
 	<string key="MB_MSQ2_RescueMiners_Miner01_DisplayName" rel_version="Quest_MSQ2_Revamp">Rescue Shazaan Cortis</string>
 	<string key="MB_MSQ2_RescueMiners_Miner02_DisplayName" rel_version="Quest_MSQ2_Revamp">Rescue Tomira Dudek</string>
 	<string key="MB_MSQ2_RescueMiners_Miner03_DisplayName" rel_version="Quest_MSQ2_Revamp">Rescue Chandu Iyer</string>
@@ -992,7 +994,7 @@
 	<string key="MB_MSQ2_DestroyRune_Tablet_DisplayName" rel_version="Quest_MSQ2_Revamp">Destroy Strange Tablet</string>
 	<string key="04A_Side03_02_0101_AncientScroll" rel_version="Quest_MSQ2_Revamp">Lost Knowledge</string>
 	<string key="04A_Side01_01_Proximity_Trail_DisplayName" rel_version="Quest_MSQ2_Revamp">Wolf Tracks</string>
-	<string key="04A_Side01_01_AbandonedPack_DisplayName" rel_version="Quest_MSQ2_Revamp">Rent Pack</string>
+	<string key="04A_Side01_01_AbandonedPack_DisplayName" rel_version="Quest_MSQ2_Revamp">Riker's Pack</string>
 	<string key="04A_Side02_01_AncientDevice_DisplayName" rel_version="Quest_MSQ2_Revamp">Ancient Device</string>
 	<string key="04A_Side02_01_AncientDevice_02_DisplayName" rel_version="Quest_MSQ2_Revamp">Ancient Device</string>
 	<string key="04A_Side02_02_EncounterStart_01_DisplayName" rel_version="Quest_MSQ2_Revamp">Ancient Device</string>
@@ -1021,17 +1023,19 @@
 	<string key="04A_Side10_01_CopperSeam" rel_version="Quest_MSQ2_Revamp">Rich Copper Seam</string>
 	<string key="Gimmick_BreakingWallsCannon_DisplayName" rel_version="Quest_MSQ2_Revamp">Fire Cannon</string>
 	<string key="06A_MSQ_05_windmillTurn_DisplayName" rel_version="Quest_MSQ2_Revamp">Turn Windmills</string>
-	<string key="06A_MSQ_05_grainSack_DisplayName" rel_version="Quest_MSQ2_Revamp">Full Sacks of Grain</string>
+	<string key="06A_MSQ_05_grainSack_DisplayName" rel_version="Quest_MSQ2_Revamp">Collect Sacks of Grain</string>
+	<string key="06A_MSQ_05_FoodCrate_DisplayName" rel_version="Quest_Console_Release">Collect Crate of Food</string>
 	<string key="06A_MSQ_05_foodCart_DisplayName" rel_version="Quest_MSQ2_Revamp">Place Collected Food</string>
 	<string key="06A_MSQ_Lijsbet_Trapped_DisplayName">Rescue Lijsbet</string>
 	<string key="06A_MSQ_Michael_Trapped_DisplayName">Rescue Michael</string>
 	<string key="06A_MSQ_Nessa_Trapped_DisplayName">Rescue Nessa</string>
 	<string key="06A_MSQ_Gideon_Trapped_DisplayName">Rescue Gideon</string>
+	<string key="06A_MSQ_CartTracks_DisplayName" rel_version="Quest_Console_Release">Inspect Cart Tracks</string>
 	<string key="06A_MSQ_11_pirateCrates_DisplayName">Smash Crate</string>
-	<string key="06A_MSQ_12_marcelsHat_DisplayName" rel_version="Quest_MSQ2_Revamp">Marcel's Hat</string>
+	<string key="06A_MSQ_12_marcelsHat_DisplayName" rel_version="Quest_MSQ2_Revamp">Open the Cage</string>
 	<string key="06A_MSQ_13_verdantJewel_DisplayName" rel_version="Quest_MSQ2_Revamp">Place Verdant Gemstone</string>
 	<string key="06A_MSQ_14_map_DisplayName">Copy Map</string>
-	<string key="06A_MSQ_15_speakersChest_DisplayName" rel_version="Quest_MSQ2_Revamp">Stolen Verdant Gemstone</string>
+	<string key="06A_MSQ_15_speakersChest_DisplayName" rel_version="Quest_MSQ2_Revamp">Take Verdant Gemstone</string>
 	<string key="06A_IR_02_WeaponsRack_DisplayName" rel_version="Quest_MSQ2_Revamp">Iron Rose Sword</string>
 	<string key="Cyclic_06A_MSQ_puzzlestone_DisplayName">Rotate Stone</string>
 	<string key="Gimmick_CaveIn_DisplayName" rel_version="Quest_MSQ2_Revamp">Light Powder Keg</string>
@@ -1101,7 +1105,7 @@
 	<string key="99B_MSQ_06_MementoPlaceB_DisplayName" rel_version="Quest_MSQ2_Brightwood">Offer Memento</string>
 	<string key="99B_MSQ_06_MementoPlaceC_DisplayName" rel_version="Quest_MSQ2_Brightwood">Offer Memento</string>
 	<string key="99B_MSQ_07_BurnCasket_DisplayName" rel_version="Quest_MSQ2_Brightwood">Burn Caskets</string>
-	<string key="99B_MSQ_07_CleanseDarkness_DisplayName" rel_version="Quest_MSQ2_Brightwood">Cleanse Darknesss</string>
+	<string key="99B_MSQ_07_CleanseDarkness_DisplayName" rel_version="Quest_MSQ2_Brightwood">Cleanse Darkness</string>
 	<string key="99B_MSQ_07_DigMoira_DisplayName" rel_version="Quest_MSQ2_Brightwood">Uncover the Grave</string>
 	<string key="99B_MSQ_08_PurificationHerb_DisplayName" rel_version="Quest_MSQ2_Brightwood">Collect Purification Herb</string>
 	<string key="99B_MSQ_08_PureAzothWater_DisplayName" rel_version="Quest_MSQ2_Brightwood">Collect Pure Azoth Water</string>
@@ -1164,6 +1168,7 @@
 	<string key="95A_S02_JackalSong_DisplayName" rel_version="Season_2_Perm">Collect the Jackal's Laugh</string>
 	<string key="95A_S02_OpenCaveSong_DisplayName" rel_version="Season_2_Perm">Play Song</string>
 	<string key="95A_S02_LuteChest_DisplayName" rel_version="Season_2_Perm">Open Chest</string>
+	<string key="95A_S02_EggAltarAmbush_DisplayName" rel_version="Season_2_Perm">Place a Decoy Egg</string>
 	<string key="95A_S02_Geyser_Puzzle_BoulderPile_DisplayName" rel_version="Season_2_Perm">Carry Rock</string>
 	<string key="95A_S02_Geyser_Puzzle_Boulder_Interact_DisplayName" rel_version="Season_2_Perm">Place Rock</string>
 	<string key="95A_S02_ExamineTracks" rel_version="Season_2_Perm">Examine Tracks</string>
@@ -1287,6 +1292,23 @@
 	<string key="09A_WhisperPlant_LightsCrown_DisplayName" rel_version="Territory_FirstLight">Examine Murmuring Root</string>
 	<string key="09A_WhisperPlant_ElafryPyrgo_DisplayName" rel_version="Territory_FirstLight">Examine Murmuring Root</string>
 	<string key="10A_M2_Chair_DisplayName">Listen to Grimm's Tale</string>
+	<string key="10A_Q1_PylonA_DisplayName" rel_version="Territory_CutlassKeys_Rework">Place Deterrence Pylon</string>
+	<string key="10A_Q1_PylonB_DisplayName" rel_version="Territory_CutlassKeys_Rework">Place Deterrence Pylon</string>
+	<string key="10A_Q1_PylonC_DisplayName" rel_version="Territory_CutlassKeys_Rework">Place Deterrence Pylon</string>
+	<string key="10A_Q2_AncientCage_DisplayName" rel_version="Territory_CutlassKeys_Rework">Unleash Encaged Ancient</string>
+	<string key="10A_Q2_PrisonCellA_DisplayName" rel_version="Territory_CutlassKeys_Rework">Open Cell</string>
+	<string key="10A_Q2_PrisonCellB_DisplayName" rel_version="Territory_CutlassKeys_Rework">Open Cell</string>
+	<string key="10A_Q2_PrisonCellC_DisplayName" rel_version="Territory_CutlassKeys_Rework">Open Cell</string>
+	<string key="10A_Q3_SpectralPylon_DisplayName" rel_version="Territory_CutlassKeys_Rework">Energize Summoning Pillar</string>
+	<string key="10A_Q3_SpectralLure_DisplayName" rel_version="Territory_CutlassKeys_Rework">Destroy Spectral Skull</string>
+	<string key="10A_Q3_LightningBomb_DisplayName" rel_version="Territory_CutlassKeys_Rework">Plant Lightning Bomb</string>
+	<string key="10A_Q3_Telescope_DisplayName" rel_version="Territory_CutlassKeys_Rework">Charge Billiam's Telescope</string>
+	<string key="10A_Q4_ChestA_DisplayName" rel_version="Territory_CutlassKeys_Rework">Open Chest</string>
+	<string key="10A_Q4_ChestB_DisplayName" rel_version="Territory_CutlassKeys_Rework">Open Chest</string>
+	<string key="10A_Q4_ChestDummy_DisplayName" rel_version="Territory_CutlassKeys_Rework">Open Chest</string>
+	<string key="10A_Q5_OfferGems_DisplayName" rel_version="Territory_CutlassKeys_Rework">Offer Gems</string>
+	<string key="10A_Q6_CitadelEvent_DisplayName" rel_version="Territory_CutlassKeys_Rework">Enter Citadel Fighting Pit</string>
+	<string key="10A_S6_LightningJars_DisplayName" rel_version="Territory_CutlassKeys_Rework">Place Lightning Jar</string>
 	<string key="99E_MSQ_01_ExamineMural_DisplayName" rel_version="Quest_MSQ2_Edengrove">Examine Mural</string>
 	<string key="99E_MSQ_01_RotateTumbler_DisplayName" rel_version="Quest_MSQ2_Edengrove">Rotate Tumbler</string>
 	<string key="99E_MSQ_01_MuralVines_DisplayName" rel_version="Quest_MSQ2_Edengrove">Cut the Overgrowth</string>
@@ -1448,6 +1470,7 @@
 	<string key="99G_MSQ_SM_ExcavateArtifacts_EnterBarrier" rel_version="Quest_MSQ3_Shattered">Enter the Barrier</string>
 	<string key="99G_MSQ_SM_AssaultStronghold_Banner" rel_version="Quest_MSQ3_Shattered">Rally at the Soulwarden Banner</string>
 	<string key="99G_MSQ_SM_DestroyEnemy_Kneel" rel_version="Quest_MSQ3_Shattered">Interrupt Isabella</string>
+	<string key="99G_MSQ_SM_DesertVectorTrap" rel_version="Quest_Console_Release">Pry Open Trap</string>
 	<string key="LNY_Banquet_Food_01_HotPot_DisplayName" rel_version="Event_Lunar_NewYear2024_Perm">Prepare the Hot Pot</string>
 	<string key="LNY_Banquet_Food_02_Meat_DisplayName" rel_version="Event_Lunar_NewYear2024_Perm">Take Grilled Meat</string>
 	<string key="LNY_Banquet_Food_03_Rice_DisplayName" rel_version="Event_Lunar_NewYear2024_Perm">Take Fried Rice</string>
@@ -1459,11 +1482,76 @@
 	<string key="LNY_Banquet_Food_05_Fruit_DisplayName" rel_version="Event_Lunar_NewYear2024_Perm">Take Fruit Plate</string>
 	<string key="LNY_Giftsack_Pile_Displayname" rel_version="Event_Lunar_NewYear2024_Perm">Take Fortune's Gift Sack</string>
 	<string key="99G_MSQ_MyrkgardBanner_DisplayName" rel_version="Quest_MSQ3_Shattered_V2">Raise Soulwarden Banner</string>
+	<string key="10ws_DoubloonChestPvP_Small_DisplayName" rel_version="Territory_CutlassKeys_Rework">Cursed Stash</string>
+	<string key="10ws_DoubloonChestPvP_Medium_DisplayName" rel_version="Territory_CutlassKeys_Rework">Cursed Cache</string>
+	<string key="10ws_DoubloonChestPvP_Large_DisplayName" rel_version="Territory_CutlassKeys_Rework">Cursed Hoard</string>
+	<string key="10ws_DoubloonChestWeeklyKey_DisplayName" rel_version="Territory_CutlassKeys_Rework">Locked Doubloon Cache</string>
+	<string key="10ws_DoubloonChestElite_DisplayName" rel_version="Territory_CutlassKeys_Rework">Elite Doubloon Cache</string>
 	<string key="Season_05_Trial_Entrance_Dancefloor_DisplayName" rel_version="Season_4_Perm">Dance Here</string>
 	<string key="Season_05_Trial_Entrance_Banner_Raise_DisplayName" rel_version="Season_5_Perm">Raise The Soulwarden Banner</string>
 	<string key="MSQ_Isabella_Entrance_Bubble_DisplayName" rel_version="Quest_MSQ3_Shattered_V2">Weaken Corruption</string>
 	<string key="RE_Spyglass_Vista_DisplayName" rel_version="Season_5_Perm">Look in Spyglass</string>
 	<string key="ui_poi_RE_Spyglass_Vista" rel_version="Season_5_Perm">Spyglass of Aeternum</string>
 	<string key="ui_poi_RE_Spyglass_Vista_description" rel_version="Season_5_Perm">Peek through the looking glass and spot another grand sight of Aeternum!</string>
+	<string key="Cursed10ws_GoldSmall_DisplayName" rel_version="Territory_CutlassKeys_Rework">Cursed Gold Vein</string>
+	<string key="Cursed10ws_GoldMedium_DisplayName" rel_version="Territory_CutlassKeys_Rework">Cursed Gold Vein</string>
+	<string key="Cursed10ws_GoldLarge_DisplayName" rel_version="Territory_CutlassKeys_Rework">Cursed Gold Vein</string>
+	<string key="Cursed10ws_PlatinumSmall_DisplayName" rel_version="Territory_CutlassKeys_Rework">Cursed Platinum Vein</string>
+	<string key="Cursed10ws_PlatinumMedium_DisplayName" rel_version="Territory_CutlassKeys_Rework">Cursed Platinum Vein</string>
+	<string key="Cursed10ws_PlatinumLarge_DisplayName" rel_version="Territory_CutlassKeys_Rework">Cursed Platinum Vein</string>
+	<string key="Cursed10ws_LodestoneSmall_DisplayName" rel_version="Territory_CutlassKeys_Rework">Cursed Lodestone</string>
+	<string key="Cursed10ws_LodestoneMedium_DisplayName" rel_version="Territory_CutlassKeys_Rework">Cursed Lodestone</string>
+	<string key="Cursed10ws_LodestoneLarge_DisplayName" rel_version="Territory_CutlassKeys_Rework">Cursed Lodestone</string>
+	<string key="Cursed10ws_StarmetalSmall_DisplayName" rel_version="Territory_CutlassKeys_Rework">Cursed Starmetal Vein</string>
+	<string key="Cursed10ws_StarmetalMedium_DisplayName" rel_version="Territory_CutlassKeys_Rework">Cursed Starmetal Vein</string>
+	<string key="Cursed10ws_StarmetalLarge_DisplayName" rel_version="Territory_CutlassKeys_Rework">Cursed Starmetal Vein</string>
+	<string key="Cursed10ws_OrichalcumSmall_DisplayName" rel_version="Territory_CutlassKeys_Rework">Cursed Orichalcum Vein</string>
+	<string key="Cursed10ws_OrichalcumMedium_DisplayName" rel_version="Territory_CutlassKeys_Rework">Cursed Orichalcum Vein</string>
+	<string key="Cursed10ws_OrichalcumLarge_DisplayName" rel_version="Territory_CutlassKeys_Rework">Cursed Orichalcum Vein</string>
+	<string key="Cursed10ws_MythrilSmall_DisplayName" rel_version="Territory_CutlassKeys_Rework">Cursed Mythril Vein</string>
+	<string key="Cursed10ws_MythrilMedium_DisplayName" rel_version="Territory_CutlassKeys_Rework">Cursed Mythril Vein</string>
+	<string key="Cursed10ws_MythrilLarge_DisplayName" rel_version="Territory_CutlassKeys_Rework">Cursed Mythril Vein</string>
+	<string key="Cursed10ws_HempSmallT4_DisplayName" rel_version="Territory_CutlassKeys_Rework">Cursed Silkweed</string>
+	<string key="Cursed10ws_HempMediumT4_DisplayName" rel_version="Territory_CutlassKeys_Rework">Cursed Silkweed</string>
+	<string key="Cursed10ws_HempLargeT4_DisplayName" rel_version="Territory_CutlassKeys_Rework">Cursed Silkweed</string>
+	<string key="Cursed10ws_HempSmallT5_DisplayName" rel_version="Territory_CutlassKeys_Rework">Cursed Wirefiber</string>
+	<string key="Cursed10ws_HempMediumT5_DisplayName" rel_version="Territory_CutlassKeys_Rework">Cursed Wirefiber</string>
+	<string key="Cursed10ws_HempLargeT5_DisplayName" rel_version="Territory_CutlassKeys_Rework">Cursed Wirefiber</string>
+	<string key="Cursed10ws_HempSmallT52_DisplayName" rel_version="Territory_CutlassKeys_Rework">Cursed Spinfiber</string>
+	<string key="Cursed10ws_HempMediumT52_DisplayName" rel_version="Territory_CutlassKeys_Rework">Cursed Spinfiber</string>
+	<string key="Cursed10ws_HempLargeT52_DisplayName" rel_version="Territory_CutlassKeys_Rework">Cursed Spinfiber</string>
+	<string key="Cursed10ws_TreeIronwoodTiny_DisplayName" rel_version="Territory_CutlassKeys_Rework">Cursed Ironwood Tree</string>
+	<string key="Cursed10ws_TreeIronwoodSmall_DisplayName" rel_version="Territory_CutlassKeys_Rework">Cursed Ironwood Tree</string>
+	<string key="Cursed10ws_TreeIronwoodMedium_DisplayName" rel_version="Territory_CutlassKeys_Rework">Cursed Ironwood Tree</string>
+	<string key="Cursed10ws_TreeIronwoodLarge_DisplayName" rel_version="Territory_CutlassKeys_Rework">Cursed Ironwood Tree</string>
+	<string key="Cursed10ws_TreeIronwoodHuge_DisplayName" rel_version="Territory_CutlassKeys_Rework">Cursed Ironwood Tree</string>
+	<string key="Cursed10ws_TreeWyrdwoodTiny_DisplayName" rel_version="Territory_CutlassKeys_Rework">Cursed Wyrdwood Tree</string>
+	<string key="Cursed10ws_TreeWyrdwoodSmall_DisplayName" rel_version="Territory_CutlassKeys_Rework">Cursed Wyrdwood Tree</string>
+	<string key="Cursed10ws_TreeWyrdwoodMedium_DisplayName" rel_version="Territory_CutlassKeys_Rework">Cursed Wyrdwood Tree</string>
+	<string key="Cursed10ws_TreeWyrdwoodLarge_DisplayName" rel_version="Territory_CutlassKeys_Rework">Cursed Wyrdwood Tree</string>
+	<string key="Cursed10ws_TreeWyrdwoodHuge_DisplayName" rel_version="Territory_CutlassKeys_Rework">Cursed Wyrdwood Tree</string>
+	<string key="Cursed10ws_TreeRunewoodTiny_DisplayName" rel_version="Territory_CutlassKeys_Rework">Cursed Runewood Tree</string>
+	<string key="Cursed10ws_TreeRunewoodSmall_DisplayName" rel_version="Territory_CutlassKeys_Rework">Cursed Runewood Tree</string>
+	<string key="Cursed10ws_TreeRunewoodMedium_DisplayName" rel_version="Territory_CutlassKeys_Rework">Cursed Runewood Tree</string>
+	<string key="Cursed10ws_TreeRunewoodLarge_DisplayName" rel_version="Territory_CutlassKeys_Rework">Cursed Runewood Tree</string>
+	<string key="Cursed10ws_TreeRunewoodHuge_DisplayName" rel_version="Territory_CutlassKeys_Rework">Cursed Runewood Tree</string>
+	<string key="Cursed10ws_Boar_DisplayName" rel_version="Territory_CutlassKeys_Rework">Cursed Boar</string>
+	<string key="Cursed10ws_Bear_DisplayName" rel_version="Territory_CutlassKeys_Rework">Cursed Grizzly Bear</string>
+	<string key="Cursed10ws_BearBlack_DisplayName" rel_version="Territory_CutlassKeys_Rework">Cursed Black Bear</string>
+	<string key="Cursed10ws_Alligator_DisplayName" rel_version="Territory_CutlassKeys_Rework">Cursed Alligator</string>
+	<string key="Cursed10ws_Alligator_Young_DisplayName" rel_version="Territory_CutlassKeys_Rework">Cursed Young Alligator</string>
+	<string key="Cursed10ws_Mountain_Lion_DisplayName" rel_version="Territory_CutlassKeys_Rework">Cursed Mountain Lion</string>
+	<string key="Cursed10ws_Bobcat_DisplayName" rel_version="Territory_CutlassKeys_Rework">Cursed Bobcat</string>
+	<string key="Cursed10ws_PigDomestic_DisplayName" rel_version="Territory_CutlassKeys_Rework">Cursed Domestic Pig</string>
+	<string key="Cursed10ws_Peacock_DisplayName" rel_version="Territory_CutlassKeys_Rework">Cursed Peacock</string>
+	<string key="Cursed10ws_Waterfowl_DisplayName" rel_version="Territory_CutlassKeys_Rework">Cursed Duck</string>
+	<string key="Raid_CutlassKeys00_Water_Throwable_DisplayName" rel_version="Raid_CutlassKeys_00">Cleansing Water</string>
+	<string key="Raid_CutlassKeys00_SplitSwitch_DisplayName" rel_version="Raid_CutlassKeys_00">Activate</string>
+	<string key="LightningFields_Core_Throwable_DisplayName" rel_version="Territory_CutlassKeys_Rework">Overcharged Core</string>
+	<string key="C91_FQ_08_11_PickUp_Perronelle_DisplayName" rel_version="Quest_Console_Release">Help Perronelle up</string>
+	<string key="Dragon_H_Pillar_DisplayName" rel_version="Raid_CutlassKeys_00">Mine the Rock Pillar</string>
+	<string key="12A_0C_PercillaSword_DisplayName" rel_version="Quest_Console_Release">Percilla's Sword</string>
+	<string key="FTUE_Satchel_DisplayName" rel_version="Quest_Console_Release">Waterlogged Satchel</string>
+	<string key="98_Covenant_03_Candle_DisplayName">Light Candles</string>
 </resources>
 

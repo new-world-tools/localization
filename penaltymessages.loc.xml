@@ -3,8 +3,11 @@
 	<string key="ui_penalty_title_cslock">Locked</string>
 	<string key="ui_penalty_title_permaban">Permanent Ban</string>
 	<string key="ui_penalty_title_suspension">Suspended</string>
+	<string key="ui_penalty_title_muted">Chat Muted</string>
 	<string key="ui_penalty_severity_suspension"> Your account has been suspended until {dateandtime}.</string>
 	<string key="ui_penalty_severity_permaban"> Your account has been permanently banned.</string>
+	<string key="ui_penalty_severity_muted"> Your account has been muted until {dateandtime}.</string>
+	<string key="ui_penalty_severity_muted_permanent"> Your account has been permanently muted.</string>
 	<string key="ui_penalty_source_automated">Activity on your account has triggered an automated penalty for violating our &lt;font color="#506AD0"&gt;&lt;a data="coc"&gt;Code of Conduct&lt;/a&gt;&lt;/font&gt;.</string>
 	<string key="ui_penalty_source_moderator">Activity on your account has been flagged and reviewed by a moderator for violating our &lt;font color="#506AD0"&gt;&lt;a data="coc"&gt;Code of Conduct&lt;/a&gt;&lt;/font&gt;.</string>
 	<string key="ui_penalty_source_temp_lock">Your account is temporarily locked.</string>
@@ -16,6 +19,7 @@
 	<string key="ui_penalty_type_company_name">Company Naming Policy</string>
 	<string key="ui_penalty_type_group_lobby">Group Lobby Naming Policy</string>
 	<string key="ui_penalty_type_commerce">Commerce Lock</string>
+	<string key="ui_penalty_type_muted">Muted</string>
 	<string key="ui_penalty_subtype_cs_impersonation">A GM is currently investigating an issue you've reported</string>
 	<string key="ui_penalty_subtype_cs_compromised">Account Compromised</string>
 	<string key="ui_penalty_subtype_cs_bypass">Character Issue</string>
@@ -46,5 +50,8 @@
 	<string key="ui_penalty_appeal_prefix_wait">This shouldn't take longer than 30 minutes. If it's taking longer than expected,</string>
 	<string key="ui_penalty_appeal_link"> please follow the steps at &lt;font color="#506AD0"&gt;&lt;a data="appealban"&gt;Appeal a Penalty.&lt;/a&gt;&lt;/font&gt;</string>
 	<string key="ui_penalty_coc_link">We suggest that you review the &lt;font color="#506AD0"&gt;&lt;a data="coc"&gt;Amazon Games Code of Conduct.&lt;/a&gt;&lt;/font&gt;</string>
+	<string key="ui_penalty_muted_minor_notification">Your text and voice chat has been restricted. You can chat again in {time}</string>
+	<string key="ui_penalty_muted_permanent_minor_notification">You have been permanently restricted from text and voice chat.</string>
+	<string key="ui_penalty_muted_voip_minor_notification">Proximity VOIP Disabled - Voice Chat Restricted</string>
 </resources>
 

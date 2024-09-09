@@ -242,7 +242,7 @@
 	<string key="dungeon_brimstone_task_defeat_shai" rel_version="Expedition_BrimstoneSands_00">Defeat Shai and his minions to open the door and explore the depths of the Ennead</string>
 	<string key="dungeon_brimstone_task_reach_scarab" rel_version="Expedition_BrimstoneSands_00">Find a way through the defenders of the Ennead</string>
 	<string key="dungeon_brimstone_task_defeat_scarab_boss" rel_version="Expedition_BrimstoneSands_00">Defeat Godling Khepri Supernal</string>
-	<string key="dungeon_brimstone_task_open_corrupted_gate" rel_version="Expedition_BrimstoneSands_00">Use the power of 3 Azoth staves to destroy the corruption blocking the way forward</string>
+	<string key="dungeon_brimstone_task_open_corrupted_gate" rel_version="Expedition_BrimstoneSands_00">Use the power of 3 Azoth staves to destroy the Corruption blocking the way forward</string>
 	<string key="dungeon_brimstone_task_battle_through_legion" rel_version="Expedition_BrimstoneSands_00">Battle through the remnants of the 19th Legion</string>
 	<string key="dungeon_brimstone_task_defeat_crassus" rel_version="Expedition_BrimstoneSands_00">Defeat General Crassus</string>
 	<string key="dungeon_brimstone_task_reach_apex_of_ennead" rel_version="Expedition_BrimstoneSands_00">Reach the Apex of the Ennead</string>
@@ -279,7 +279,7 @@
 	<string key="dungeon_shattermtn00_task_cross_corrupted_sea" rel_version="Expedition_ShatterMtn_00">Carry the Reliquary across the Sea of Corruption</string>
 	<string key="dungeon_shattermtn00_task_return_relic" rel_version="Expedition_ShatterMtn_00">Return the Reliquary to Isabella and gain access to the City of Darkness</string>
 	<string key="dungeon_shattermtn00_task_explore_city" rel_version="Expedition_ShatterMtn_00">Explore the City of Darkness</string>
-	<string key="dungeon_shattermtn00_task_defeat_ogre" rel_version="Expedition_ShatterMtn_00">Defeat the Priests before they can complete a ritual and create an explosion of corruption</string>
+	<string key="dungeon_shattermtn00_task_defeat_ogre" rel_version="Expedition_ShatterMtn_00">Defeat the Priests before they can complete a ritual and create an explosion of Corruption</string>
 	<string key="dungeon_shattermtn00_task_enter_portal_city" rel_version="Expedition_ShatterMtn_00">Enter the portal into the Void Tunnel</string>
 	<string key="dungeon_shattermtn00_task_void_tunnel_02" rel_version="Expedition_ShatterMtn_00">Make your way through the Void Tunnel</string>
 	<string key="dungeon_shattermtn00_task_defeat_naga" rel_version="Expedition_ShatterMtn_00">Defeat Neishatun</string>
@@ -316,7 +316,7 @@
 	<string key="quest_CaerDun_task_smash" rel_version="Quest_MSQ2_Brightwood">Smash the Flawed Heartgem and release the Curse of Caer Dun!</string>
 	<string key="quest_CaerDun_task_destroy_boss" rel_version="Quest_MSQ2_Brightwood">Defeat Umberto's Cursed Spirit</string>
 	<string key="quest_CaerDun_task_purify" rel_version="Quest_MSQ2_Brightwood">Use your Azoth Staff to dispel the Curse of Caer Dun</string>
-	<string key="quest_CaerDun_task_leave" rel_version="Quest_MSQ2_Brightwood">Explore the Undercroft and Exit the Soul Trial</string>
+	<string key="quest_CaerDun_task_leave" rel_version="Quest_MSQ2_Brightwood">Exit the Soul Trial</string>
 	<string key="Quest_CaerDun_required_equipment" rel_version="Quest_MSQ2_Brightwood">1 Azoth Staff, 1 Mining Pickaxe</string>
 	<string key="dungeon_firstlight01_title" rel_version="Expedition_FirstLight_01">Savage Divide</string>
 	<string key="dungeon_firstlight01_description" rel_version="Expedition_FirstLight_01">Hunt down the two beast lords, Kurok and Mahantaram.</string>
@@ -433,20 +433,22 @@
 	<string key="trial_season_04_q02_task_defeat_boss" rel_version="Season_4_Perm">Defeat Daichi Saito</string>
 	<string key="trial_season_04_q02_task_exit" rel_version="Season_4_Perm">Exit the Soul Trial</string>
 	<string key="Quest_Yonas_title" rel_version="Quest_MSQ2_GreatCleave">The Last Soulwarden</string>
-	<string key="Quest_Yonas_description" rel_version="Quest_MSQ2_GreatCleave">Whispers entwined with corruption have found this faithful heart.</string>
+	<string key="Quest_Yonas_description" rel_version="Quest_MSQ2_GreatCleave">Whispers entwined with Corruption have found this faithful heart.</string>
 	<string key="Quest_Yonas_required_equipment" rel_version="Quest_MSQ2_GreatCleave">1 Azoth Staff</string>
 	<string key="quest_Yonas_task_leadup" rel_version="Quest_MSQ2_GreatCleave">Deal with corrupted interceptors</string>
 	<string key="quest_Yonas_task_approach" rel_version="Quest_MSQ2_GreatCleave">Confront Isabella</string>
+	<string key="quest_Yonas_task_approach_daily" rel_version="DailySoloTrials">Confront Yonas</string>
 	<string key="quest_Yonas_task_destroy_boss" rel_version="Quest_MSQ2_GreatCleave">Defeat Yonas</string>
+	<string key="quest_Yonas_task_stop_bomb_description" rel_version="Quest_MSQ2_GreatCleave">Stop Yonas Before The Heartgem Explodes!</string>
 	<string key="quest_Yonas_task_leave" rel_version="Quest_MSQ2_GreatCleave">Leave the cave</string>
 	<string key="Quest_Heartforge_title" rel_version="Quest_MSQ2_GreatCleave">A Guardian's Trial</string>
-	<string key="Quest_Heartforge_description" rel_version="Quest_MSQ2_GreatCleave">This guardian has stood stoically as the sole protector of a forgotten tool against corruption.</string>
+	<string key="Quest_Heartforge_description" rel_version="Quest_MSQ2_GreatCleave">This Guardian has stood stoically as the sole protector of a forgotten tool against Corruption.</string>
 	<string key="Quest_Heartforge_required_equipment" rel_version="Quest_MSQ2_GreatCleave">1 Azoth Staff</string>
 	<string key="quest_Heartforge_task_approach" rel_version="Quest_MSQ2_GreatCleave">Confront the Heartforge Guardian</string>
 	<string key="quest_Heartforge_task_destroy_boss" rel_version="Quest_MSQ2_GreatCleave">Defeat the Heartforge Guardian</string>
-	<string key="quest_Heartforge_task_leave" rel_version="Quest_MSQ2_GreatCleave">Obtain the Heartgem and Leave</string>
+	<string key="quest_Heartforge_task_leave" rel_version="Quest_MSQ2_GreatCleave">Leave the Heartforge</string>
 	<string key="Quest_Nihilo_title" rel_version="Quest_MSQ2_GreatCleave">Beyond the Gates</string>
-	<string key="Quest_Nihilo_description" rel_version="Quest_MSQ2_GreatCleave">It is a place of horror and beauty intertwined, where the eye betrays the mind. A realm that we cannot comprehend. Leap, and know what is truly unknowable beyond the gates.</string>
+	<string key="Quest_Nihilo_description" rel_version="Quest_MSQ2_GreatCleave">It is a place of horror and beauty intertwined. A realm that we cannot comprehend. Leap, and know the unknowable beyond the gates.</string>
 	<string key="Quest_Nihilo_required_equipment" rel_version="Quest_MSQ2_GreatCleave">1 Azoth Staff</string>
 	<string key="quest_Nihilo_task_approach" rel_version="Quest_MSQ2_GreatCleave">Venture into the Abyss</string>
 	<string key="quest_Nihilo_task_investigate" rel_version="Quest_MSQ2_GreatCleave">Investigate the crying woman</string>
@@ -465,7 +467,7 @@
 	<string key="quest_liang_task_destroy_boss" rel_version="Quest_MSQ3_Ebonscale">Use skills or heavy attacks to immobilize Liang with talismans</string>
 	<string key="quest_liang_task_destroy_boss_banner_title" rel_version="Quest_MSQ3_Ebonscale">Immobilize Liang</string>
 	<string key="quest_liang_task_destroy_boss_banner_description" rel_version="Quest_MSQ3_Ebonscale">Apply talismans through skills or heavy attacks</string>
-	<string key="quest_liang_task_leave" rel_version="Quest_MSQ3_Ebonscale">Approach Prince Liang and save him</string>
+	<string key="quest_liang_task_leave" rel_version="Quest_MSQ3_Ebonscale">Save Prince Liang with Azoth Staff and leave Wood Shrine</string>
 	<string key="quest_liang_task_leave_banner_title" rel_version="Quest_MSQ3_Ebonscale">The Soul of Liang freed</string>
 	<string key="quest_liang_task_leave_banner_description" rel_version="Quest_MSQ3_Ebonscale">Return to the Surface to find Liang</string>
 	<string key="quest_empress_zhou_title" rel_version="Quest_MSQ3_Ebonscale">A Mother's Dream</string>
@@ -516,8 +518,46 @@
 	<string key="quest_Gawain_task_destroy_boss" rel_version="Quest_MSQ3_Ebonscale">Defeat Ser Gawain</string>
 	<string key="quest_Gawain_task_destroy_idols" rel_version="Quest_MSQ3_Ebonscale">Disrupt Ser Gawain's Idols</string>
 	<string key="quest_Gawain_task_destroy_altar" rel_version="Quest_MSQ3_Ebonscale">Break Ser Gawain's Altar</string>
-	<string key="quest_Gawain_task_collect_crown" rel_version="Quest_MSQ3_Ebonscale">Collect the Circlet of Swords\nthe crown of Monarch's Bluffs</string>
-	<string key="quest_Gawain_task_leave" rel_version="Quest_MSQ3_Ebonscale">Exit the Castle</string>
+	<string key="quest_Gawain_task_collect_crown" rel_version="Quest_MSQ3_Ebonscale">Collect the Crown of Prydwen</string>
+	<string key="quest_Gawain_task_leave" rel_version="Quest_MSQ3_Ebonscale">Leave Corbenic Castle</string>
+	<string key="raid_cutlasskeys00_title" rel_version="Raid_CutlassKeys_00">Hive Of Gorgons</string>
+	<string key="raid_cutlasskeys00_description" rel_version="Raid_CutlassKeys_00">The Gorgons have risen. They are raising an army of the Hercyne and must be stopped.</string>
+	<string key="raid_cutlasskeys00_ch01_entry" rel_version="Raid_CutlassKeys_00">Consult Perseus and proceed into the canyon</string>
+	<string key="raid_cutlasskeys00_ch01_clearing" rel_version="Raid_CutlassKeys_00">Reach the clearing ahead and slay the Hercyne guarding the path</string>
+	<string key="raid_cutlasskeys00_ch01_ambush_pre" rel_version="Raid_CutlassKeys_00">Proceed further into the canyon</string>
+	<string key="raid_cutlasskeys00_ch01_ambush" rel_version="Raid_CutlassKeys_00">Slay the ambush of Hercyne</string>
+	<string key="raid_cutlasskeys00_ch01_escape_pre" rel_version="Raid_CutlassKeys_00">Proceed further into the canyon</string>
+	<string key="raid_cutlasskeys00_ch01_escape" rel_version="Raid_CutlassKeys_00">Slay the Hercyne guarding the path forward</string>
+	<string key="raid_cutlasskeys00_ch01_progress" rel_version="Raid_CutlassKeys_00">Progress to the next Chamber</string>
+	<string key="raid_cutlasskeys00_ch01_baths" rel_version="Raid_CutlassKeys_00">Defeat the enemies guarding the Chamber</string>
+	<string key="raid_cutlasskeys00_ch01_pillars" rel_version="Raid_CutlassKeys_00">Unlock the mechanisms for the gate and slay the Hercyne guarding it</string>
+	<string key="raid_cutlasskeys00_ch01_boss_pre" rel_version="Raid_CutlassKeys_00">Approach the arena</string>
+	<string key="raid_cutlasskeys00_ch01_boss" rel_version="Raid_CutlassKeys_00">Defeat Echidna</string>
+	<string key="raid_cutlasskeys00_ch01_exit" rel_version="Raid_CutlassKeys_00">Proceed to the next area</string>
+	<string key="raid_cutlasskeys00_ch03_entry" rel_version="Raid_CutlassKeys_00">Make your way towards the Ancient Tomb</string>
+	<string key="raid_cutlasskeys00_ch03_sealedgate" rel_version="Raid_CutlassKeys_00">Find a way to clear the infection blocking the gate</string>
+	<string key="raid_cutlasskeys00_ch03_infection" rel_version="Raid_CutlassKeys_00">Clear the infection from the area</string>
+	<string key="raid_cutlasskeys00_ch03_infectionexit" rel_version="Raid_CutlassKeys_00">Unlock the gates</string>
+	<string key="raid_cutlasskeys00_ch03_reachmedusa" rel_version="Raid_CutlassKeys_00">Progress further into the Ancient Tomb</string>
+	<string key="raid_cutlasskeys00_ch03_unlockmedusa" rel_version="Raid_CutlassKeys_00">Unlock the gate to the Broodmother's Den</string>
+	<string key="raid_cutlasskeys00_ch03_boss" rel_version="Raid_CutlassKeys_00">Defeat Broodmother Medusa</string>
+	<string key="raid_cutlasskeys00_ch03_victory_celebration" rel_version="Raid_CutlassKeys_00">Exit the Hive of Gorgons</string>
+	<string key="raid_cutlasskeys00_raid_complete" rel_version="Raid_CutlassKeys_00">Exit the Hive of Gorgons</string>
 	<string key="trial_runeforgeraid_leave" rel_version="Season_4_Perm">Exit the Runeforge</string>
+	<string key="quest_medea_title" rel_version="ConsoleLaunch">The Path of Thorns</string>
+	<string key="quest_medea_description" rel_version="ConsoleLaunch">Medea cannot be reasoned with. Enter the grove and confront her.</string>
+	<string key="quest_medea_task_approach" rel_version="ConsoleLaunch">Step into the warren</string>
+	<string key="quest_medea_task_boss" rel_version="ConsoleLaunch">Defeat Medea</string>
+	<string key="quest_medea_task_place" rel_version="ConsoleLaunch">Place the Verdant Gemstone</string>
+	<string key="quest_medae_task_leave" rel_version="ConsoleLaunch">Leave Thornhall</string>
+	<string key="dailysolotrials_generic_exit" rel_version="ConsoleLaunch">Exit the Soul Trial</string>
+	<string key="raid_cutlasskeys00_ch02_entry" rel_version="Raid_CutlassKeys_00">Approach the baths</string>
+	<string key="raid_cutlasskeys00_ch02_corridor" rel_version="Raid_CutlassKeys_00">Defeat the enemies blocking your path</string>
+	<string key="raid_cutlasskeys00_ch02_chamber01" rel_version="Raid_CutlassKeys_00">Clear the hercyne to continue</string>
+	<string key="raid_cutlasskeys00_ch02_chamber02" rel_version="Raid_CutlassKeys_00">Continue through the baths</string>
+	<string key="raid_cutlasskeys00_ch02_perseus" rel_version="Raid_CutlassKeys_00">Speak with Perseus</string>
+	<string key="raid_cutlasskeys00_ch02_labyrinth" rel_version="Raid_CutlassKeys_00">Activate all the Fountains</string>
+	<string key="raid_cutlasskeys00_ch02_boss" rel_version="Raid_CutlassKeys_00">Find and defeat Typhon</string>
+	<string key="raid_cutlasskeys00_ch02_exit" rel_version="Raid_CutlassKeys_00">Proceed to the next area</string>
 </resources>
 

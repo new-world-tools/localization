@@ -1,5 +1,6 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<string key="hidehelmet_TransmogName">Hide Headgear</string>
+	<string key="1hBrokenOarT1_TransmogName">Broken Oar</string>
 	<string key="Conquistador_Helm_T1_TransmogName">Iron Explorer's Heavy Headwear</string>
 	<string key="Conquistador_Chest_T1_TransmogName">Iron Explorer's Heavy Chestwear</string>
 	<string key="Conquistador_Gloves_T1_TransmogName">Iron Explorer's Heavy Handwear</string>
@@ -4489,11 +4490,11 @@
 	<string key="2hLifeStaffMetalFestivalT5_TransmogName" comment="DO NOT TRANSLATE">UNUSED</string>
 	<string key="1hTowerShieldMetalFestivalT5_TransmogName" comment="DO NOT TRANSLATE">UNUSED</string>
 	<string key="2hIceGauntletMetalFestivalT5_TransmogName" comment="DO NOT TRANSLATE">UNUSED</string>
-	<string key="PhoenixH_chest_TransmogName">Sunblaze Breastplate - Heavy Chestwear</string>
-	<string key="PhoenixH_head_TransmogName">Sunblaze Helm - Heavy Headwear</string>
-	<string key="PhoenixH_legs_TransmogName">Sunblaze Pants - Heavy Legwear</string>
-	<string key="PhoenixH_feet_TransmogName">Sunblaze Sabatons - Heavy Footwear</string>
-	<string key="PhoenixH_gloves_TransmogName">Sunblaze Gauntlets - Heavy Handwear</string>
+	<string key="PhoenixH_chest_TransmogName">Sunblaze Breastplate - Heavy Chestwear</string>
+	<string key="PhoenixH_head_TransmogName">Sunblaze Helm - Heavy Headwear</string>
+	<string key="PhoenixH_legs_TransmogName">Sunblaze Pants - Heavy Legwear</string>
+	<string key="PhoenixH_feet_TransmogName">Sunblaze Sabatons - Heavy Footwear</string>
+	<string key="PhoenixH_gloves_TransmogName">Sunblaze Gauntlets - Heavy Handwear</string>
 	<string key="PhoenixM_chest_TransmogName">Dancing Flames Jacket - Medium Chestwear</string>
 	<string key="PhoenixM_head_TransmogName">Dancing Flames Hood - Medium Headwear</string>
 	<string key="PhoenixM_legs_TransmogName">Dancing Flames Pantaloons - Medium Legwear</string>
@@ -5349,5 +5350,42 @@
 	<string key="unholyDepthsLIce_legs_TransmogName" rel_version="Expedition_GreatCleave_00">Cold Hearted Light Legwear</string>
 	<string key="unholyDepthsLIce_feet_TransmogName" rel_version="Expedition_GreatCleave_00">Cold Hearted Light Footwear</string>
 	<string key="unholyDepthsLIce_gloves_TransmogName" rel_version="Expedition_GreatCleave_00">Cold Hearted Light Handwear</string>
+	<string key="legendarymediumchest2_TransmogName" rel_version="Raid_CutlassKeys_00">Hercyne Conqueror's Cuirass</string>
+	<string key="app_HercyneRaid_Bow_Name" rel_version="Raid_CutlassKeys_00">Hellenistic Bow</string>
+	<string key="app_HercyneRaid_Greataxe_Name" rel_version="Raid_CutlassKeys_00">Hellenistic Great Axe</string>
+	<string key="app_HercyneRaid_KiteShield_Name" rel_version="Raid_CutlassKeys_00">Hellenistic Kite Shield</string>
+	<string key="app_HercyneRaid_Flail_Name" rel_version="Raid_CutlassKeys_00">Hellenistic Flail</string>
+	<string key="app_HercyneRaid_Sword_Name" rel_version="Raid_CutlassKeys_00">Hellenistic Sword</string>
+	<string key="app_HercyneRaid_Musket_Name" rel_version="Raid_CutlassKeys_00">Hellenistic Musket</string>
+	<string key="app_HercyneRaid_Rapier_Name" rel_version="Raid_CutlassKeys_00">Hellenistic Rapier</string>
+	<string key="app_HercyneRaid_RoundShield_Name" rel_version="Raid_CutlassKeys_00">Hellenistic Round Shield</string>
+	<string key="app_HercyneRaid_Spear_Name" rel_version="Raid_CutlassKeys_00">Hellenistic Spear</string>
+	<string key="app_HercyneRaid_Hatchet_Name" rel_version="Raid_CutlassKeys_00">Hellenistic Hatchet</string>
+	<string key="app_HercyneRaid_Warhammer_Name" rel_version="Raid_CutlassKeys_00">Hellenistic War Hammer</string>
+	<string key="app_HercyneRaid_FireStaff_Name" rel_version="Raid_CutlassKeys_00">Hellenistic Fire Staff</string>
+	<string key="app_HercyneRaid_LifeStaff_Name" rel_version="Raid_CutlassKeys_00">Hellenistic Life Staff</string>
+	<string key="app_HercyneRaid_TowerShield_Name" rel_version="Raid_CutlassKeys_00">Hellenistic Tower Shield</string>
+	<string key="app_HercyneRaid_IceGauntlet_Name" rel_version="Raid_CutlassKeys_00">Hellenistic Ice Gauntlet</string>
+	<string key="app_HercyneRaid_VoidGauntlet_Name" rel_version="Raid_CutlassKeys_00">Hellenistic Void Gauntlet</string>
+	<string key="app_HercyneRaid_Blunderbuss_Name" rel_version="Raid_CutlassKeys_00">Hellenistic Blunderbuss</string>
+	<string key="app_HercyneRaid_Greatsword_Name" rel_version="Raid_CutlassKeys_00">Hellenistic Greatsword</string>
+	<string key="HercyneRaid_Heavy_chest_TransmogName" rel_version="Raid_CutlassKeys_00">Hellenistic Breastplate</string>
+	<string key="HercyneRaid_Heavy_head_TransmogName" rel_version="Raid_CutlassKeys_00">Hellenistic Antlers</string>
+	<string key="HercyneRaid_Heavy_legs_TransmogName" rel_version="Raid_CutlassKeys_00">Hellenistic Greaves</string>
+	<string key="HercyneRaid_Heavy_feet_TransmogName" rel_version="Raid_CutlassKeys_00">Hellenistic Sabatons</string>
+	<string key="HercyneRaid_Heavy_gloves_TransmogName" rel_version="Raid_CutlassKeys_00">Hellenistic Gauntlets</string>
+	<string key="HercyneRaid_Medium_chest_TransmogName" rel_version="Raid_CutlassKeys_00">Hellenistic Cuirass</string>
+	<string key="HercyneRaid_Medium_head_TransmogName" rel_version="Raid_CutlassKeys_00">Hellenistic Horns</string>
+	<string key="HercyneRaid_Medium_legs_TransmogName" rel_version="Raid_CutlassKeys_00">Hellenistic Legguards</string>
+	<string key="HercyneRaid_Medium_feet_TransmogName" rel_version="Raid_CutlassKeys_00">Hellenistic Boots</string>
+	<string key="HercyneRaid_Medium_gloves_TransmogName" rel_version="Raid_CutlassKeys_00">Hellenistic Gloves</string>
+	<string key="HercyneRaid_Light_chest_TransmogName" rel_version="Raid_CutlassKeys_00">Hellenistic Shirt</string>
+	<string key="HercyneRaid_Light_head_TransmogName" rel_version="Raid_CutlassKeys_00">Hellenistic Tusks</string>
+	<string key="HercyneRaid_Light_legs_TransmogName" rel_version="Raid_CutlassKeys_00">Hellenistic Pants</string>
+	<string key="HercyneRaid_Light_feet_TransmogName" rel_version="Raid_CutlassKeys_00">Hellenistic Shoes</string>
+	<string key="HercyneRaid_Light_gloves_TransmogName" rel_version="Raid_CutlassKeys_00">Hellenistic Handcovers</string>
+	<string key="2hGreatAxeBlackboneT5_TransmogName" rel_version="Territory_Cutlasskeys_rework">Blackbone Great Axe</string>
+	<string key="1hSwordBlackboneT5_TransmogName" rel_version="Territory_Cutlasskeys_rework">Blackbone Longsword</string>
+	<string key="2hSpearBlackboneT5_TransmogName" rel_version="Territory_Cutlasskeys_rework">Blackbone Spear</string>
 </resources>
 

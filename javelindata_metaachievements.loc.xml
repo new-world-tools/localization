@@ -660,6 +660,10 @@
 	<string key="ui_metachievement_questarc_firstlight_title3">Nyhart's Anchorage</string>
 	<string key="ui_metachievement_questarc_firstlight_title3_SHE">Nyhart's Anchorage</string>
 	<string key="ui_metachievement_questarc_firstlight_title3_THEY">Nyhart's Anchorage</string>
+	<string key="ui_metachievement_quest_elysianwildsmsq">Master of the Wilds</string>
+	<string key="ui_metachievement_quest_elysianwildsmsq_title1_SHE">Master of the Wilds</string>
+	<string key="ui_metachievement_quest_elysianwildsmsq_title1_THEY">Master of the Wilds</string>
+	<string key="ui_metachievement_quest_elysianwildsmsq_desc">Awarded to brave adventurer's who conquered the threat of the Elysian Wilds.</string>
 	<string key="ui_metachievement_questarc_greatcleave_title1">Corruption In The Valley</string>
 	<string key="ui_metachievement_questarc_greatcleave_title1_SHE">Corruption In The Valley</string>
 	<string key="ui_metachievement_questarc_greatcleave_title1_THEY">Corruption In The Valley</string>
@@ -2576,6 +2580,9 @@
 	<string key="ui_metachievement_weaponmastery_flail_title3" rel_version="Weapon_Flail">All Is Dust Before Me</string>
 	<string key="ui_metachievement_weaponmastery_flail_title3_SHE" rel_version="Weapon_Flail">All Is Dust Before Me</string>
 	<string key="ui_metachievement_weaponmastery_flail_title3_THEY" rel_version="Weapon_Flail">All Is Dust Before Me</string>
+	<string key="ui_metachievement_weaponmastery_any_title" rel_version="Feature_Console_Achievements">Weapon Mastery</string>
+	<string key="ui_metachievement_weaponmastery_any_title_SHE" rel_version="Feature_Console_Achievements">Weapon Mastery</string>
+	<string key="ui_metachievement_weaponmastery_any_title_THEY" rel_version="Feature_Console_Achievements">Weapon Mastery</string>
 	<string key="ui_metachievement_repairscount_title1">Handy With A Bit Of Tape</string>
 	<string key="ui_metachievement_repairscount_title1_SHE">Handy With A Bit Of Tape</string>
 	<string key="ui_metachievement_repairscount_title1_THEY">Handy With A Bit Of Tape</string>
@@ -3185,60 +3192,60 @@
 	<string key="ui_metachievement_territorypoicount_windsward_title">Get To Know Windsward</string>
 	<string key="ui_metachievement_territorypoicount_windsward_title_SHE">Get To Know Windsward</string>
 	<string key="ui_metachievement_territorypoicount_windsward_title_THEY">Get To Know Windsward</string>
-	<string key="ui_metachievement_reached_firstlighthamlet_title">The Rustic Shores Of 'First Light Hamlet'</string>
-	<string key="ui_metachievement_reached_firstlighthamlet_title_SHE">The Rustic Shores Of 'First Light Hamlet'</string>
-	<string key="ui_metachievement_reached_firstlighthamlet_title_THEY">The Rustic Shores Of 'First Light Hamlet'</string>
-	<string key="ui_metachievement_reached_cutlasskeyhamlet_title">Cutlass Key Hamlet: An Explorer's Paradise</string>
-	<string key="ui_metachievement_reached_cutlasskeyhamlet_title_SHE">Cutlass Key Hamlet: An Explorer's Paradise</string>
-	<string key="ui_metachievement_reached_cutlasskeyhamlet_title_THEY">Cutlass Key Hamlet: An Explorer's Paradise</string>
-	<string key="ui_metachievement_reached_windswardhamlet_title">If It's Quaint, It Must Be Windsward Hamlet</string>
-	<string key="ui_metachievement_reached_windswardhamlet_title_SHE">If It's Quaint, It Must Be Windsward Hamlet</string>
-	<string key="ui_metachievement_reached_windswardhamlet_title_THEY">If It's Quaint, It Must Be Windsward Hamlet</string>
-	<string key="ui_metachievement_reached_monarchsbluffhamlet_title">Your New Home, In Monarch's Bluffs Hamlet</string>
-	<string key="ui_metachievement_reached_monarchsbluffhamlet_title_SHE">Your New Home, In Monarch's Bluffs Hamlet</string>
-	<string key="ui_metachievement_reached_monarchsbluffhamlet_title_THEY">Your New Home, In Monarch's Bluffs Hamlet</string>
-	<string key="ui_metachievement_reached_reekwaterhamlet_title">A Marshscape Paradise. That's Reekwater Hamlet</string>
-	<string key="ui_metachievement_reached_reekwaterhamlet_title_SHE">A Marshscape Paradise. That's Reekwater Hamlet</string>
-	<string key="ui_metachievement_reached_reekwaterhamlet_title_THEY">A Marshscape Paradise. That's Reekwater Hamlet</string>
-	<string key="ui_metachievement_reached_everfallhamlet_title">Everfall Hamlet: Enjoy The Bucolic Life</string>
-	<string key="ui_metachievement_reached_everfallhamlet_title_SHE">Everfall Hamlet: Enjoy The Bucolic Life</string>
-	<string key="ui_metachievement_reached_everfallhamlet_title_THEY">Everfall Hamlet: Enjoy The Bucolic Life</string>
-	<string key="ui_metachievement_reached_brightwoodhamlet_title">Consider Yourself Home, When In Brightwood Hamlet</string>
-	<string key="ui_metachievement_reached_brightwoodhamlet_title_SHE">Consider Yourself Home, When In Brightwood Hamlet</string>
-	<string key="ui_metachievement_reached_brightwoodhamlet_title_THEY">Consider Yourself Home, When In Brightwood Hamlet</string>
-	<string key="ui_metachievement_reached_weaversfenhamlet_title">Weaver's Fen Hamlet. Centerpiece Of Aeternum</string>
-	<string key="ui_metachievement_reached_weaversfenhamlet_title_SHE">Weaver's Fen Hamlet. Centerpiece Of Aeternum</string>
-	<string key="ui_metachievement_reached_weaversfenhamlet_title_THEY">Weaver's Fen Hamlet. Centerpiece Of Aeternum</string>
-	<string key="ui_metachievement_reached_restlessshorehamlet_title">Restless Shores Hamlet: And Here You Are</string>
-	<string key="ui_metachievement_reached_restlessshorehamlet_title_SHE">Restless Shores Hamlet: And Here You Are</string>
-	<string key="ui_metachievement_reached_restlessshorehamlet_title_THEY">Restless Shores Hamlet: And Here You Are</string>
-	<string key="ui_metachievement_reached_mourningdalehamlet_title">Mourningdale Hamlet: Imposing Ancient Sites Await</string>
-	<string key="ui_metachievement_reached_mourningdalehamlet_title_SHE">Mourningdale Hamlet: Imposing Ancient Sites Await</string>
-	<string key="ui_metachievement_reached_mourningdalehamlet_title_THEY">Mourningdale Hamlet: Imposing Ancient Sites Await</string>
+	<string key="ui_metachievement_reached_firstlighthamlet_title">The Tangled Shores Of Last Light</string>
+	<string key="ui_metachievement_reached_firstlighthamlet_title_SHE">The Tangled Shores Of Last Light</string>
+	<string key="ui_metachievement_reached_firstlighthamlet_title_THEY">The Tangled Shores Of Last Light</string>
+	<string key="ui_metachievement_reached_cutlasskeyhamlet_title">Spyglass Ridge: An Explorer's Paradise</string>
+	<string key="ui_metachievement_reached_cutlasskeyhamlet_title_SHE">Spyglass Ridge: An Explorer's Paradise</string>
+	<string key="ui_metachievement_reached_cutlasskeyhamlet_title_THEY">Spyglass Ridge: An Explorer's Paradise</string>
+	<string key="ui_metachievement_reached_windswardhamlet_title">If It's Quaint, It Must Be Corinth</string>
+	<string key="ui_metachievement_reached_windswardhamlet_title_SHE">If It's Quaint, It Must Be Corinth</string>
+	<string key="ui_metachievement_reached_windswardhamlet_title_THEY">If It's Quaint, It Must Be Corinth</string>
+	<string key="ui_metachievement_reached_monarchsbluffhamlet_title">Your New Home, In Prydwen</string>
+	<string key="ui_metachievement_reached_monarchsbluffhamlet_title_SHE">Your New Home, In Prydwen</string>
+	<string key="ui_metachievement_reached_monarchsbluffhamlet_title_THEY">Your New Home, In Prydwen</string>
+	<string key="ui_metachievement_reached_reekwaterhamlet_title">A Marshscape Paradise. That's Farharbor</string>
+	<string key="ui_metachievement_reached_reekwaterhamlet_title_SHE">A Marshscape Paradise. That's Farharbor</string>
+	<string key="ui_metachievement_reached_reekwaterhamlet_title_THEY">A Marshscape Paradise. That's Farharbor</string>
+	<string key="ui_metachievement_reached_everfallhamlet_title">Oxboro: Enjoy The Bucolic Life</string>
+	<string key="ui_metachievement_reached_everfallhamlet_title_SHE">Oxboro: Enjoy The Bucolic Life</string>
+	<string key="ui_metachievement_reached_everfallhamlet_title_THEY">Oxboro: Enjoy The Bucolic Life</string>
+	<string key="ui_metachievement_reached_brightwoodhamlet_title">Consider Yourself Home, When In Calvary</string>
+	<string key="ui_metachievement_reached_brightwoodhamlet_title_SHE">Consider Yourself Home, When In Calvary</string>
+	<string key="ui_metachievement_reached_brightwoodhamlet_title_THEY">Consider Yourself Home, When In Calvary</string>
+	<string key="ui_metachievement_reached_weaversfenhamlet_title">Twillen. Centerpiece Of Aeternum</string>
+	<string key="ui_metachievement_reached_weaversfenhamlet_title_SHE">Twillen. Centerpiece Of Aeternum</string>
+	<string key="ui_metachievement_reached_weaversfenhamlet_title_THEY">Twillen. Centerpiece Of Aeternum</string>
+	<string key="ui_metachievement_reached_restlessshorehamlet_title">Moonbay: And Here You Are</string>
+	<string key="ui_metachievement_reached_restlessshorehamlet_title_SHE">Moonbay: And Here You Are</string>
+	<string key="ui_metachievement_reached_restlessshorehamlet_title_THEY">Moonbay: And Here You Are</string>
+	<string key="ui_metachievement_reached_mourningdalehamlet_title">Grayvale: Imposing Ancient Sites Await</string>
+	<string key="ui_metachievement_reached_mourningdalehamlet_title_SHE">Grayvale: Imposing Ancient Sites Await</string>
+	<string key="ui_metachievement_reached_mourningdalehamlet_title_THEY">Grayvale: Imposing Ancient Sites Await</string>
 	<string key="ui_metachievement_reached_edengroveoutpoststand_title">Stay As Long As You Like, At 'Last Stand Outpost'</string>
 	<string key="ui_metachievement_reached_edengroveoutpoststand_title_SHE">Stay As Long As You Like, At 'Last Stand Outpost'</string>
 	<string key="ui_metachievement_reached_edengroveoutpoststand_title_THEY">Stay As Long As You Like, At 'Last Stand Outpost'</string>
-	<string key="ui_metachievement_reached_edengroveoutposthold_title">Famed 'Valor Hold Outpost' - Don't Miss It!</string>
-	<string key="ui_metachievement_reached_edengroveoutposthold_title_SHE">Famed 'Valor Hold Outpost' - Don't Miss It!</string>
-	<string key="ui_metachievement_reached_edengroveoutposthold_title_THEY">Famed 'Valor Hold Outpost' - Don't Miss It!</string>
-	<string key="ui_metachievement_reached_greatcleaveoutpostpoint_title">Cleave's Point Outpost. It'll Change Your Health</string>
-	<string key="ui_metachievement_reached_greatcleaveoutpostpoint_title_SHE">Cleave's Point Outpost. It'll Change Your Health</string>
-	<string key="ui_metachievement_reached_greatcleaveoutpostpoint_title_THEY">Cleave's Point Outpost. It'll Change Your Health</string>
-	<string key="ui_metachievement_reached_greatcleaveoutposteastburn_title">EastBurn Outpost. Well, Why Not?</string>
-	<string key="ui_metachievement_reached_greatcleaveoutposteastburn_title_SHE">EastBurn Outpost. Well, Why Not?</string>
-	<string key="ui_metachievement_reached_greatcleaveoutposteastburn_title_THEY">EastBurn Outpost. Well, Why Not?</string>
-	<string key="ui_metachievement_reached_shatteredmountainrise_title">Enjoy Big Sky Country, With 'Mountainrise Outpost'</string>
-	<string key="ui_metachievement_reached_shatteredmountainrise_title_SHE">Enjoy Big Sky Country, With 'Mountainrise Outpost'</string>
-	<string key="ui_metachievement_reached_shatteredmountainrise_title_THEY">Enjoy Big Sky Country, With 'Mountainrise Outpost'</string>
-	<string key="ui_metachievement_reached_shatteredmountainhome_title">Mountainhome Outpost: An Experience Of A Lifetime</string>
-	<string key="ui_metachievement_reached_shatteredmountainhome_title_SHE">Mountainhome Outpost: An Experience Of A Lifetime</string>
-	<string key="ui_metachievement_reached_shatteredmountainhome_title_THEY">Mountainhome Outpost: An Experience Of A Lifetime</string>
+	<string key="ui_metachievement_reached_edengroveoutposthold_title">Famed 'Caliburne' - Don't Miss It!</string>
+	<string key="ui_metachievement_reached_edengroveoutposthold_title_SHE">Famed 'Caliburne' - Don't Miss It!</string>
+	<string key="ui_metachievement_reached_edengroveoutposthold_title_THEY">Famed 'Caliburne' - Don't Miss It!</string>
+	<string key="ui_metachievement_reached_greatcleaveoutpostpoint_title">Bastion. It'll Change Your Health</string>
+	<string key="ui_metachievement_reached_greatcleaveoutpostpoint_title_SHE">Bastion. It'll Change Your Health</string>
+	<string key="ui_metachievement_reached_greatcleaveoutpostpoint_title_THEY">Bastion. It'll Change Your Health</string>
+	<string key="ui_metachievement_reached_greatcleaveoutposteastburn_title">Warden's Rise. Well, Why Not?</string>
+	<string key="ui_metachievement_reached_greatcleaveoutposteastburn_title_SHE">Warden's Rise. Well, Why Not?</string>
+	<string key="ui_metachievement_reached_greatcleaveoutposteastburn_title_THEY">Warden's Rise. Well, Why Not?</string>
+	<string key="ui_metachievement_reached_shatteredmountainrise_title">Enjoy Big Sky Country, With 'Clarion'</string>
+	<string key="ui_metachievement_reached_shatteredmountainrise_title_SHE">Enjoy Big Sky Country, With 'Clarion'</string>
+	<string key="ui_metachievement_reached_shatteredmountainrise_title_THEY">Enjoy Big Sky Country, With 'Clarion'</string>
+	<string key="ui_metachievement_reached_shatteredmountainhome_title">Alazar's Rise: An Experience Of A Lifetime</string>
+	<string key="ui_metachievement_reached_shatteredmountainhome_title_SHE">Alazar's Rise: An Experience Of A Lifetime</string>
+	<string key="ui_metachievement_reached_shatteredmountainhome_title_THEY">Alazar's Rise: An Experience Of A Lifetime</string>
 	<string key="ui_metachievement_reached_brimstonetown_title" rel_version="Territory_Brimstone_Sands">Go Big Or Go Home, At 'New Corsica'</string>
 	<string key="ui_metachievement_reached_brimstonetown_title_SHE" rel_version="Territory_Brimstone_Sands">Go Big Or Go Home, At 'New Corsica'</string>
 	<string key="ui_metachievement_reached_brimstonetown_title_THEY" rel_version="Territory_Brimstone_Sands">Go Big Or Go Home, At 'New Corsica'</string>
-	<string key="ui_metachievement_reached_ebonscalehamlet_title">Live Like Royalty, In 'Ebonscale Hamlet'</string>
-	<string key="ui_metachievement_reached_ebonscalehamlet_title_SHE">Live Like Royalty, In 'Ebonscale Hamlet'</string>
-	<string key="ui_metachievement_reached_ebonscalehamlet_title_THEY">Live Like Royalty, In 'Ebonscale Hamlet'</string>
+	<string key="ui_metachievement_reached_ebonscalehamlet_title">Live Like Royalty, In 'Fortune's Crossing'</string>
+	<string key="ui_metachievement_reached_ebonscalehamlet_title_SHE">Live Like Royalty, In 'Fortune's Crossing'</string>
+	<string key="ui_metachievement_reached_ebonscalehamlet_title_THEY">Live Like Royalty, In 'Fortune's Crossing'</string>
 	<string key="ui_metachievement_pve_familykills_corrupted_generic_desc">Defeat {number} Corrupted enemies.</string>
 	<string key="ui_metachievement_pve_familykills_lost_generic_desc">Defeat {number} Lost enemies.</string>
 	<string key="ui_metachievement_pve_familykills_earth_generic_desc">Defeat {number} Angry Earth enemies.</string>
@@ -3331,7 +3338,7 @@
 	<string key="ui_metachievement_questarc_everfall_desc1">Complete the Everfall arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Opening Supply Lines&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_everfall_desc2">Complete the Everfall arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Stars as Our Guide&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_everfall_desc3">Complete the Everfall arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Tainting the Tainted&lt;/font&gt;.</string>
-	<string key="ui_metachievement_quest_everfall_reborn_desc">Your efforts to become a Soulwarden have been noticed by all, enemies and allies alike.</string>
+	<string key="ui_metachievement_quest_everfall_reborn_desc">Your efforts to become a Soulwarden have been noticed by all.</string>
 	<string key="ui_metachievement_quest_everfall_steward_desc">Helping the citizens of Everfall with all of their woes has earned you their respect and admiration.</string>
 	<string key="ui_metachievement_questarc_firstlight_desc1">Complete the First Light arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Dayspring Barley&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_firstlight_desc2">Complete the First Light arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Truth and Consequences&lt;/font&gt;.</string>
@@ -3362,9 +3369,9 @@
 	<string key="ui_metachievement_quest_shattered_friend_desc">You were the last one to know, and the last one to show, but in the end you rescued Father Russo.</string>
 	<string key="ui_metachievement_quest_shattered_banner_desc">Created a path for allies to follow by raising Soulwarden Banners to prepare for the assault on Myrkgard.</string>
 	<string key="ui_metachievement_quest_shattered_mind_desc">Showed Isabella there's no place you can't defeat her, even her own mind.</string>
-	<string key="ui_metachievement_questarc_weaversfen_desc1">Complete the Weavers's Fen arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Fishy Illness&lt;/font&gt;.</string>
-	<string key="ui_metachievement_questarc_weaversfen_desc2">Complete the Weavers's Fen arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Traitorous Wraith&lt;/font&gt;.</string>
-	<string key="ui_metachievement_questarc_weaversfen_desc3">Complete the Weavers's Fen arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Swamp Sorceress&lt;/font&gt;.</string>
+	<string key="ui_metachievement_questarc_weaversfen_desc1">Complete the Weaver's Fen arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Fishy Illness&lt;/font&gt;.</string>
+	<string key="ui_metachievement_questarc_weaversfen_desc2">Complete the Weaver's Fen arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Traitorous Wraith&lt;/font&gt;.</string>
+	<string key="ui_metachievement_questarc_weaversfen_desc3">Complete the Weaver's Fen arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Swamp Sorceress&lt;/font&gt;.</string>
 	<string key="ui_metachievement_quest_weaversfen_crone_desc">Discovered the identity of the Corpse Crone.</string>
 	<string key="ui_metachievement_quest_weaversfen_prison_desc">Accidentally released Fulgoris at Andrometus.</string>
 	<string key="ui_metachievement_quest_weaversfen_color_desc">Helped many of the colorful locals found in Weaver's Fen.</string>
@@ -3377,8 +3384,8 @@
 	<string key="ui_metachievement_quest_windsward_power_desc">Restored power to all the Verdant Gemstones in Windsward.</string>
 	<string key="ui_metachievement_quest_windsward_resolve_desc">Helped start a new order of the Iron Rose Mercenaries</string>
 	<string key="ui_metachievement_quest_windsward_mercy_desc">Convinced Medea to give Windsward a second chance.</string>
-	<string key="ui_metachievement_questarc_fishingtraining_desc">Complete the fishing quest arc that starts with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Fishing With Shields&lt;/font&gt;.</string>
-	<string key="ui_metachievement_questtotals_generic_desc">Complete {number} quests.</string>
+	<string key="ui_metachievement_questarc_fishingtraining_desc">Complete the fishing quest arc that starts with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;To Unpathed Waters&lt;/font&gt;.</string>
+	<string key="ui_metachievement_questtotals_generic_desc">Complete {number} quests</string>
 	<string key="ui_metaachievement_leaderboard_dynasty_shipyard_top1_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 5 on the highest difficulty of the Dynasty Shipyard Score Weekly Leaderboard.</string>
 	<string key="ui_metaachievement_leaderboard_dynasty_shipyard_top10_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 25 on the highest difficulty of the Dynasty Shipyard Score Weekly Leaderboard.</string>
 	<string key="ui_metaachievement_leaderboard_garden_of_genesis_top1_score_desc" rel_version="Feature_Leaderboards">Title earned by placing Top 5 on the highest difficulty of the Garden of Genesis Score Weekly Leaderboard.</string>
@@ -3564,6 +3571,7 @@
 	<string key="ui_metachievement_weaponmastery_blunderbuss_generic_desc">Reach Blunderbuss Mastery level {number}.</string>
 	<string key="ui_metachievement_weaponmastery_greatsword_generic_desc">Reach Greatsword Mastery level {number}.</string>
 	<string key="ui_metachievement_weaponmastery_flail_generic_desc">Reach Flail Mastery level {number}.</string>
+	<string key="ui_metachievement_weaponmastery_any_generic_desc">Reach Mastery level {number} with any weapon.</string>
 	<string key="ui_metachievement_repairscount_generic_desc">Repair {number} inventory items.</string>
 	<string key="ui_metachievement_craftcount_armoring_generic_desc">Craft {number} Armoring items.</string>
 	<string key="ui_metachievement_craftcount_cooking_generic_desc">Craft {number} Cooking items.</string>
@@ -3820,7 +3828,7 @@
 	<string key="ui_metachievement_quest_brimstonesands_activateennead_title" rel_version="Territory_Brimstone_Sands">Herald of Night</string>
 	<string key="ui_metachievement_quest_brimstonesands_thothshrine_title" rel_version="Territory_Brimstone_Sands">Opener of the Way</string>
 	<string key="ui_metachievement_quest_brimstonesands_heartgem_title" rel_version="Territory_Brimstone_Sands">Radiance of the Soulwarden</string>
-	<string key="ui_metachievement_quest_brimstonesands_allmsq_desc" rel_version="Territory_Brimstone_Sands">Having banished the primordial demon Apophis back to the sands, you have become a legend to all of Brimstone Sands.</string>
+	<string key="ui_metachievement_quest_brimstonesands_allmsq_desc" rel_version="Territory_Brimstone_Sands">By banishing Apophis, you have become a legend in Brimstone Sands.</string>
 	<string key="ui_metachievement_quest_brimstonesands_allzq_desc" rel_version="Territory_Brimstone_Sands">Your deeds have defeated the Corrupted Legion, restored order, and brought renewed hope to the people of New Corsica.</string>
 	<string key="ui_metachievement_quest_brimstonesands_allsq_desc" rel_version="Territory_Brimstone_Sands">Your heroic deeds throughout Brimstone have spread your legend to the farthest reaches of the land.</string>
 	<string key="ui_metachievement_quest_brimstonesands_coronation_desc" rel_version="Territory_Brimstone_Sands">Having ushered in Cleopatra's new reign as Queen of Brimstone Sands, you have become her greatest defender and most trusted confidant.</string>
@@ -3860,5 +3868,42 @@
 	<string key="ui_metachievement_skilllevelRiding_title5_SHE" rel_version="Feature_Mounts">Master Cavalier</string>
 	<string key="ui_metachievement_skilllevelRiding_title5_THEY" rel_version="Feature_Mounts">Master Cavalier</string>
 	<string key="ui_metachievement_skilllevelRiding_generic_desc" rel_version="Feature_Mounts">Reach Riding skill level {number}.</string>
+	<string key="ui_metachievement_hidden_instance_raidboss">A dangerous foe in a raid is patiently waiting to be slain...</string>
+	<string key="ui_metachievement_hidden_instance_raidboss_SHE">A dangerous foe in a raid is patiently waiting to be slain...</string>
+	<string key="ui_metachievement_hidden_instance_raidboss_THEY">A dangerous foe in a raid is patiently waiting to be slain...</string>
+	<string key="ui_metachievement_PvE_Raid_BossTakedown1_Hercyne" rel_version="Raid_CutlassKeys_00">Slayer of Echidna</string>
+	<string key="ui_metachievement_PvE_Raid_BossTakedown1_Hercyne_SHE" rel_version="Raid_CutlassKeys_00">Slayer of Echidna</string>
+	<string key="ui_metachievement_PvE_Raid_BossTakedown1_Hercyne_THEY" rel_version="Raid_CutlassKeys_00">Slayer of Echidna</string>
+	<string key="ui_metachievement_PvE_Raid_BossTakedown2_Hercyne" rel_version="Raid_CutlassKeys_00">Slayer of Typhon</string>
+	<string key="ui_metachievement_PvE_Raid_BossTakedown2_Hercyne_SHE" rel_version="Raid_CutlassKeys_00">Slayer of Typhon</string>
+	<string key="ui_metachievement_PvE_Raid_BossTakedown2_Hercyne_THEY" rel_version="Raid_CutlassKeys_00">Slayer of Typhon</string>
+	<string key="ui_metachievement_PvE_Raid_BossTakedown3_Hercyne" rel_version="Raid_CutlassKeys_00">Slayer of the Gorgon Broodmother</string>
+	<string key="ui_metachievement_PvE_Raid_BossTakedown3_Hercyne_SHE" rel_version="Raid_CutlassKeys_00">Slayer of the Gorgon Broodmother</string>
+	<string key="ui_metachievement_PvE_Raid_BossTakedown3_Hercyne_THEY" rel_version="Raid_CutlassKeys_00">Slayer of the Gorgon Broodmother</string>
+	<string key="ui_metachievement_PvE_Raid_BossTakedown1_Hercyne_desc" rel_version="Raid_CutlassKeys_00">You have slain the vicious beast Echidna in the Gorgon's Hive, your bravery is astounding.</string>
+	<string key="ui_metachievement_PvE_Raid_BossTakedown2_Hercyne_desc" rel_version="Raid_CutlassKeys_00">You have slain the terrifying beast Typhon in the Gorgon's Hive, your skill is impeccable.</string>
+	<string key="ui_metachievement_PvE_Raid_BossTakedown3_Hercyne_desc" rel_version="Raid_CutlassKeys_00">You have slain the frightening beast Broodmother Medusa in the Gorgon's Hive, your feats live on in legend! Thank you brave warrior, we couldn't have done this without you!</string>
+	<string key="ui_metachievement_territory_standing_any" rel_version="Feature_Console_Achievements">When Everyone Knows Your Name</string>
+	<string key="ui_metachievement_territory_standing_any_SHE" rel_version="Feature_Console_Achievements">When Everyone Knows Your Name</string>
+	<string key="ui_metachievement_territory_standing_any_THEY" rel_version="Feature_Console_Achievements">When Everyone Knows Your Name</string>
+	<string key="ui_metachievement_territory_standing_any_desc" rel_version="Feature_Console_Achievements">Have a Territory Standing of {number}.</string>
+	<string key="ui_metachievement_covenant_lock_desc" rel_version="Feature_Console_Achievements">Progress with the Covenant to complete this hidden achievement.</string>
+	<string key="ui_metachievement_marauders_lock_desc" rel_version="Feature_Console_Achievements">Progress with the Marauders to complete this hidden achievement.</string>
+	<string key="ui_metachievement_syndicate_lock_desc" rel_version="Feature_Console_Achievements">Progress with the Syndicate to complete this hidden achievement.</string>
+	<string key="ui_metachievement_invasion_win_lock_desc" rel_version="Feature_Console_Achievements">Win more Invasions to complete this hidden achievement.</string>
+	<string key="ui_metachievement_war_win_lock_desc" rel_version="Feature_Console_Achievements">Win more Wars to complete this hidden achievement.</string>
+	<string key="ui_metachievement_pvp_kills_lock_desc" rel_version="Feature_Console_Achievements">Defeat other players to complete this hidden achievement.</string>
+	<string key="ui_metachievement_housing_lock_desc" rel_version="Feature_Console_Achievements">Buy houses to complete this hidden achievement.</string>
+	<string key="ui_metachievement_weapon_mastery_lock_desc" rel_version="Feature_Console_Achievements">Progress your Weapon Mastery further to unlock this achievement.</string>
+	<string key="ui_metachievement_weapon_mastery_unlock_desc" rel_version="Feature_Console_Achievements">Reach Mastery level 20 with any weapon.</string>
+	<string key="ui_metachievement_territory_standing_lock_desc" rel_version="Feature_Console_Achievements">Progress your Territory Standing to complete this hidden achievement.</string>
+	<string key="ui_metachievement_trade_skills_lock_desc" rel_version="Feature_Console_Achievements">Progress your Trade Skills further to complete this hidden achievement.</string>
+	<string key="ui_metachievement_hidden_edengrove">Keep playing in Edengrove to complete this hidden achievement.</string>
+	<string key="ui_metachievement_hidden_elysian">Keep playing in Elysian Wilds to complete this hidden achievement.</string>
+	<string key="ui_metachievement_platinum_trophy">Accomplished Aeternian</string>
+	<string key="ui_metachievement_platinum_trophy_desc">Completed all of the New World: Aeternum trophies.</string>
+	<string key="ui_metachievement_marauder_platform_title" rel_version="Feature_Console_Achievements">Marauder Commander</string>
+	<string key="ui_metachievement_syndicate_platform_title" rel_version="Feature_Console_Achievements">Syndicate Alchemist</string>
+	<string key="ui_metachievement_covenant_platform_title" rel_version="Feature_Console_Achievements">Covenant Adjudicator</string>
 </resources>
 

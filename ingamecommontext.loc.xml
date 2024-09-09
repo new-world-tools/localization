@@ -5,13 +5,14 @@
 	<string key="ui_overencumbered_move">{Reason} - Cannot move</string>
 	<string key="ui_all_outposts">All Outposts</string>
 	<string key="ui_pvp_error_no_faction">Join a Faction to flag for PvP.</string>
+	<string key="ui_pvp_error_no_faction_track">&lt;font face="lyshineui/fonts/Nimbus_Bold.font" color="#ebe3d6"&gt;Join a Faction and participate in PvP activities to earn rewards.&lt;/font&gt;</string>
 	<string key="ui_pvp_error_no_sanctuary_flag_off">Go to a Sanctuary to flag yourself for PvP.</string>
 	<string key="ui_pvp_error_no_sanctuary_flag_on">Go to a Sanctuary to turn off your PvP flag.</string>
 	<string key="ui_pvp_error_has_pvp_objective">Cannot change PvP flag while a PvP mission is active</string>
 	<string key="ui_fully_rested">Fully Rested</string>
 	<string key="ui_perks">Perks</string>
-	<string key="ui_numperks">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{amount}&lt;/font&gt; Perks</string>
-	<string key="ui_numperk">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{amount}&lt;/font&gt; Perk</string>
+	<string key="ui_numperks">&lt;font face="lyshineui/fonts/Pica_Regular.font"&gt;{amount}&lt;/font&gt; Perks</string>
+	<string key="ui_numperk">&lt;font face="lyshineui/fonts/Pica_Regular.font"&gt;{amount}&lt;/font&gt; Perk</string>
 	<string key="ui_item_equipped">Item equipped</string>
 	<string key="ui_select_ability">Select Ability</string>
 	<string key="ui_gathering_speed_bonus">Gathering Speed Bonus</string>

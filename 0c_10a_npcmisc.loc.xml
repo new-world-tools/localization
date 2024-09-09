@@ -1,0 +1,62 @@
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="C10A_NPCMisc_Dummy" rel_version="Territory_CutlassKeys_Rework">DO NOT TRANSLATE</string>
+	<string key="C10A_Patricia">Patricia Reid</string>
+	<string key="C10A_Patricia_Title">Logistics Master</string>
+	<string key="C10A_Grimm">First Mate Grimm</string>
+	<string key="C10A_Grimm_Title">Retired Freebooter</string>
+	<string key="C10A_Oxen">James Oxen</string>
+	<string key="C10A_Oxen_Title">Last Light Forward-Captain</string>
+	<string key="C10A_Trahern">Glendyn Trahern</string>
+	<string key="C10A_Trahern_Title">Archdruid</string>
+	<string key="C10A_Fei" rel_version="Territory_CutlassKeys_Rework">Fei Lixin</string>
+	<string key="C10A_Fei_Title" rel_version="Territory_CutlassKeys_Rework">Arcane Artificer</string>
+	<string key="C10A_Decima" rel_version="Territory_CutlassKeys_Rework">Decima Opimius</string>
+	<string key="C10A_Decima_Title" rel_version="Territory_CutlassKeys_Rework">Award-Winning Chef</string>
+	<string key="C10A_Arnold" rel_version="Territory_CutlassKeys_Rework">Arnold Trost</string>
+	<string key="C10A_Arnold_Title" rel_version="Territory_CutlassKeys_Rework">Cutlass Keys Sailing Master</string>
+	<string key="C10A_Shillie" rel_version="Territory_CutlassKeys_Rework">Shillie Duffy</string>
+	<string key="C10A_Shillie_Title" rel_version="Territory_CutlassKeys_Rework">Cutlass Keys Quartermaster</string>
+	<string key="C10A_Rosina" rel_version="Territory_CutlassKeys_Rework">Rosina Bryce</string>
+	<string key="C10A_Rosina_Title" rel_version="Territory_CutlassKeys_Rework">Cutlass Keys Coxswain</string>
+	<string key="C10A_Antonia" rel_version="Territory_CutlassKeys_Rework">Antonia Lucian</string>
+	<string key="C10A_Antonia_Title" rel_version="Territory_CutlassKeys_Rework">Cutlass Keys Captain</string>
+	<string key="C10A_Commander" rel_version="Territory_CutlassKeys_Rework">Ania Jasinski</string>
+	<string key="C10A_Commander_Title" rel_version="Territory_CutlassKeys_Rework">Marauder Ravager</string>
+	<string key="C10A_Alchemist" rel_version="Territory_CutlassKeys_Rework">Edwarde Geoff</string>
+	<string key="C10A_Alchemist_Title" rel_version="Territory_CutlassKeys_Rework">Syndicate Alchemist</string>
+	<string key="C10A_Adjudicator" rel_version="Territory_CutlassKeys_Rework">Robert Strong</string>
+	<string key="C10A_Adjudicator_Title" rel_version="Territory_CutlassKeys_Rework">Covenant Adjudicator</string>
+	<string key="C10A_Plute" rel_version="Territory_CutlassKeys_Rework">Plute Swampy</string>
+	<string key="C10A_Plute_Title" rel_version="Territory_CutlassKeys_Rework">Cutlass Keys Cook</string>
+	<string key="C10A_Innkeep" rel_version="Territory_CutlassKeys_Rework">Reginald Buss</string>
+	<string key="C10A_Innkeep_Title" rel_version="Territory_CutlassKeys_Rework">Innkeeper of the Buss's Blunder</string>
+	<string key="C10A_Nekumanesh" rel_version="Territory_CutlassKeys_Rework">Nekumanesh</string>
+	<string key="C10A_Nekumanesh_Title" rel_version="Territory_CutlassKeys_Rework">Swamp Walker</string>
+	<string key="C10A_Billiam" rel_version="Territory_CutlassKeys_Rework">Wistful Billiam Rowen</string>
+	<string key="C10A_Billiam_Title" rel_version="Territory_CutlassKeys_Rework">Cutlass Keys Astronomer</string>
+	<string key="C10A_Wally" rel_version="Territory_CutlassKeys_Rework">Wally Widdershins</string>
+	<string key="C10A_Wally_Title" rel_version="Territory_CutlassKeys_Rework">Disgruntled Pirate</string>
+	<string key="C10A_Rowan" rel_version="Territory_CutlassKeys_Rework">Rowan Pennbrook</string>
+	<string key="C10A_Rowan_Title" rel_version="Territory_CutlassKeys_Rework">Elemental Hunter</string>
+	<string key="C10A_Quiggley" rel_version="Territory_CutlassKeys_Rework">Quiggley Quorus</string>
+	<string key="C10A_Quiggley_Title" rel_version="Territory_CutlassKeys_Rework">Treasure Seeker</string>
+	<string key="C10A_Bronn" rel_version="Territory_CutlassKeys_Rework">Horace Bronn</string>
+	<string key="C10A_Bronn_Title" rel_version="Territory_CutlassKeys_Rework">Spymaster</string>
+	<string key="C10A_Kasper" rel_version="Territory_CutlassKeys_Rework">Edwin Kasper</string>
+	<string key="C10A_Kasper_Title" rel_version="Territory_CutlassKeys_Rework">Collector</string>
+	<string key="C10A_Tosch" rel_version="Territory_CutlassKeys_Rework">Tosch</string>
+	<string key="C10A_Tosch_Title" rel_version="Territory_CutlassKeys_Rework">The Tamer</string>
+	<string key="C10A_Claire" rel_version="Territory_CutlassKeys_Rework">Claire Fergus</string>
+	<string key="C10A_Claire_Title" rel_version="Territory_CutlassKeys_Rework">Novice Treasure Hunter</string>
+	<string key="C10A_Table_Generic" rel_version="Territory_CutlassKeys_Rework">Collecting Station</string>
+	<string key="C10A_Table_Tosch" rel_version="Territory_CutlassKeys_Rework">Tosch's Collecting Station</string>
+	<string key="C10A_Table_Fei" rel_version="Territory_CutlassKeys_Rework">Fei's Collecting Station</string>
+	<string key="C10A_DoubloonGuard" rel_version="Territory_CutlassKeys_Rework">Settlement Guard</string>
+	<string key="C10A_DoubloonGuard_Title" rel_version="Territory_CutlassKeys_Rework">Doubloon Station Guard</string>
+	<string key="Dungeon_CutlassKeys00_Scalleywag" rel_version="Expedition_CutlassKeys_00">Antonio</string>
+	<string key="Dungeon_CutlassKeys00_Scalleywag_title" rel_version="Expedition_CutlassKeys_00">Scalleywag</string>
+	<string key="Dungeon_CutlassKeys00_Mariner" rel_version="Expedition_CutlassKeys_00">Tye</string>
+	<string key="Dungeon_CutlassKeys00_Mariner_title" rel_version="Expedition_CutlassKeys_00">Mariner</string>
+	<string key="10_InnName">Buss's Blunder Inn</string>
+</resources>
+

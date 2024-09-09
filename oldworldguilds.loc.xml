@@ -39,6 +39,9 @@
 	<string key="owg_desc_merchantt1">Travel to &lt;font color="#b2aea1"&gt;{destinationName}&lt;/font&gt; and deliver &lt;font color="#b2aea1"&gt;{itemName}&lt;/font&gt;.</string>
 	<string key="owg_desc_procurementt1">Acquire &lt;font color="#b2aea1"&gt;{itemAmount} {itemName}&lt;/font&gt;.</string>
 	<string key="owg_detailed_rewardtype_standing">&lt;img src="lyshineui/images/icons/objectives/reward_territorystanding" xPadding="0" scale="2" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ebe3d6"&gt; {amount} &lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;Territory Standing&lt;/font&gt;</string>
+	<string key="owg_detailed_rewardtype_standing_short">&lt;img src="lyshineui/images/icons/objectives/reward_territorystanding" xPadding="0" scale="2" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ebe3d6"&gt; {amount}&lt;/font&gt;</string>
+	<string key="owg_rewardtype_currency_short">&lt;img src="lyshineui/images/icons/objectives/reward_coin" xPadding="0" scale="1.8" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ebe3d6" &gt; {amount}&lt;/font&gt;</string>
+	<string key="owg_rewardtype_experience_short">&lt;img src="lyshineui/images/icons/misc/icon_xp" xPadding="0" scale="1.9" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ebe3d6" &gt; {amount}&lt;/font&gt;</string>
 	<string key="owg_drop_item_notification">Mission Item Dropped</string>
 	<string key="owg_drop_item_title">Drop Mission Item</string>
 	<string key="owg_drop_item_warning">Dropping or Storing this item will destroy it.</string>
@@ -49,7 +52,7 @@
 	<string key="owg_faction_select_title_incompany" rel_version="Feature_Unfactioned_Company_Members">Warning! Your Company Has A Different Faction!</string>
 	<string key="owg_faction_select_warning">This decision cannot be undone.</string>
 	<string key="owg_faction_select_yes">Yes, align with the {faction}.</string>
-	<string key="owg_faction_select_confirm">You will only be able to join a Company with players of the same Faction. If flagged for PVP, you will only be able to group up with players from the same Faction. Before joining, you might want to double-check the Faction choices of your friends in New World.\n\nYour choice isn't permanent -- you can change your faction from the Bio screen once. After that, you can change it again every &lt;font color="#edc63e"&gt;60 days&lt;/font&gt;.</string>
+	<string key="owg_faction_select_confirm">You will only be able to join a Company with players of the same Faction. If flagged for PVP, you will only be able to group up with players from the same Faction. Before joining, you might want to double-check the Faction choices of your friends in New World: Aeternum.\n\nYour choice isn't permanent -- you can change your faction from the Bio screen once. After that, you can change it again every &lt;font color="#edc63e"&gt;30 days&lt;/font&gt;.</string>
 	<string key="owg_factionwarinfo_desc_1">Align with 1 of the 3 warring Factions to maximize your experience in Aeternum. Reap the powerful rewards by competing against other Factions and tipping the scales of influence for each Territory.</string>
 	<string key="owg_factionwarinfo_desc_2">To combat other players, you must be aligned with a Faction, then flag for PvP while inside a Settlement. Once Flagged, you can damage players of opposing Factions who are also flagged for PvP. (You will see their Faction crest on their nameplates.)</string>
 	<string key="owg_factionwarinfo_desc_3">Coming Soon: Completing Faction Missions provided by your Faction representative within a Settlement earns Faction Influence points within that Territory. Faction Influence is the means of protecting your Territories, or declaring war on the enemy.</string>
@@ -154,7 +157,7 @@
 	<string key="owg_rank_merchant_4">Cabalist</string>
 	<string key="owg_rank_merchant_5">Alchemist</string>
 	<string key="owg_rank_merchant_6" rel_version="FactionShop_V3">Magus</string>
-	<string key="owg_rank_number">Rank  &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{rank}&lt;/font&gt; .</string>
+	<string key="owg_rank_number">Rank  &lt;font face="lyshineui/fonts/Pica_Regular.font"&gt;{rank}&lt;/font&gt; .</string>
 	<string key="owg_rank_procurer_1">Soldier</string>
 	<string key="owg_rank_procurer_2">Gladiator</string>
 	<string key="owg_rank_procurer_3">Ravager</string>
@@ -257,7 +260,7 @@
 	<string key="owg_pvp_cannotacceptmission_unknown">You cannot accept a &lt;font color="#b2aea1"&gt;PvP mission&lt;/font&gt; at this time.</string>
 	<string key="owg_tooltip_warning">Only 1 Mission can be active at a time.</string>
 	<string key="owg_unlock_previous_rank">Unlocked Rank {rankName}</string>
-	<string key="owg_unlock_rank">U N L O C K  &lt;font face="lyshineui/fonts/CaslonAnt.font" color={azothTextColor}&gt;   {azoth}&lt;/font&gt;&lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.2" yOffset="0"&gt;&lt;/img&gt;&lt;font face="lyshineui/fonts/CaslonAnt.font" color={coinTextColor}&gt;   {coin}&lt;/font&gt;&lt;img src="lyshineui/images/icons/objectives/reward_coin" xPadding="0" scale="1.2" yOffset="4"&gt;&lt;/img&gt;&lt;font face="lyshineui/fonts/CaslonAnt.font" color={influenceTextColor}&gt;   {token}&lt;/font&gt;&lt;img src="{icon}" xPadding="0" scale="1.4" yOffset="7"&gt;&lt;/img&gt;</string>
+	<string key="owg_unlock_rank">U N L O C K  &lt;font face="lyshineui/fonts/Pica_Regular.font" color={azothTextColor}&gt;   &lt;/font&gt;&lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.2" yOffset="0"&gt; {azoth}&lt;/img&gt;&lt;font face="lyshineui/fonts/Pica_Regular.font" color={coinTextColor}&gt;   &lt;/font&gt;&lt;img src="lyshineui/images/icons/objectives/reward_coin" xPadding="0" scale="1.2" yOffset="4"&gt; {coin}&lt;/img&gt;&lt;font face="lyshineui/fonts/Pica_Regular.font" color={influenceTextColor}&gt;   &lt;/font&gt;&lt;img src="{icon}" xPadding="0" scale="1.4" yOffset="7"&gt;&lt;/img&gt; {token}</string>
 	<string key="owg_currency">Faction Tokens</string>
 	<string key="owg_influence_to_rank">{influence} to {rankName}</string>
 	<string key="owg_company">Company</string>
@@ -352,11 +355,11 @@
 	<string key="owg_target_Damned_Acolyte_Named_00">Sylanx the Ugly</string>
 	<string key="owg_target_Damned_Villager_Ladle_11_09FL04_Named">Chef Paul Giroux</string>
 	<string key="owg_target_Dryad_Prowler_NAMED_01_ELITE_15EC05">Vinesnap</string>
-	<string key="owg_target_Undead_Berserker_Named_10WS08">Misanthrope Broadbin</string>
+	<string key="owg_target_Undead_Berserker_Named_10WS08">Misanthrope Broadbin</string>
 	<string key="owg_target_Undead_GraveDigger_Named_01">Padre Nunez</string>
 	<string key="owg_target_Undead_Hunter_Named_01">Joan the Faithless</string>
 	<string key="owg_target_Undead_Hunter_Named_03">Captain Flotsam</string>
-	<string key="owg_target_Undead_Officer_Named_10WS09">Goldstein the Hypocrite</string>
+	<string key="owg_target_Undead_Officer_Named_10WS09">Goldstein the Hypocrite</string>
 	<string key="owg_target_Withered_Brute_Named_05">The Aberration</string>
 	<string key="owg_target_Withered_Brute_Named_10WS07">Benjamin the Unbound</string>
 	<string key="owg_target_Alligator_Strange_10WS03">Streaked Alligators</string>
@@ -410,10 +413,10 @@
 	<string key="FactionMission_PRESERVE_desc">Bless {POITags} with the light of the Spark.</string>
 	<string key="FactionMission_M_EXPEDITIONRAID_desc_singular">Delve into {POITags} for the Marauders and defeat &lt;font color="#b2aea1"&gt;{enemyName}&lt;/font&gt;. \n\n &lt;font color="#b2aea1"&gt;(Expedition)&lt;/font&gt;</string>
 	<string key="FactionMission_EXPEDITIONRAID_title">Raid: {POITags}</string>
-	<string key="FactionMission_EXPEDITIONRAID_desc">Delve into {POITags} for the Syndicate and defeat every &lt;font color="#b2aea1"&gt;{enemyName}&lt;/font&gt; necessary. \n\n &lt;font color="#b2aea1"&gt;(Expedition)&lt;/font&gt;</string>
-	<string key="FactionMission_EXPEDITIONRAID_desc_singular">Delve into {POITags} for the Syndicate and defeat &lt;font color="#b2aea1"&gt;{enemyName}&lt;/font&gt;. \n\n &lt;font color="#b2aea1"&gt;(Expedition)&lt;/font&gt;</string>
+	<string key="FactionMission_EXPEDITIONRAID_desc">Delve into {POITags} for the Marauders and defeat every &lt;font color="#b2aea1"&gt;{enemyName}&lt;/font&gt; necessary. \n\n &lt;font color="#b2aea1"&gt;(Expedition)&lt;/font&gt;</string>
+	<string key="FactionMission_EXPEDITIONRAID_desc_singular">Delve into {POITags} for the Marauders and defeat &lt;font color="#b2aea1"&gt;{enemyName}&lt;/font&gt;. \n\n &lt;font color="#b2aea1"&gt;(Expedition)&lt;/font&gt;</string>
 	<string key="FactionMission_EXPEDITIONLOOT_title">Plunder: {POITags}</string>
-	<string key="FactionMission_EXPEDITIONLOOT_desc">Delve into {POITags} for the Syndicate and collect each &lt;font color="#b2aea1"&gt;{itemName}&lt;/font&gt; within. \n\n&lt;font color="#b2aea1"&gt;(Expedition)&lt;/font&gt;</string>
+	<string key="FactionMission_EXPEDITIONLOOT_desc">Delve into {POITags} for the Marauders and collect each &lt;font color="#b2aea1"&gt;{itemName}&lt;/font&gt; within. \n\n&lt;font color="#b2aea1"&gt;(Expedition)&lt;/font&gt;</string>
 	<string key="FactionMission_INTERCEPT_title">Dominate (PvP)</string>
 	<string key="FactionMission_INTERCEPT_desc">Defeat &lt;font color="#b2aea1"&gt;Syndicate&lt;/font&gt; or &lt;font color="#b2aea1"&gt;Covenant&lt;/font&gt; members for the glory of the Marauders.\n\n (This mission keeps your progress even on death)</string>
 	<string key="FactionMission_S_INTERCEPT_title">Eradicate (PvP)</string>
@@ -560,11 +563,13 @@
 	<string key="ui_cant_switch_faction_sanctuary">You must be in a sanctuary to change factions.</string>
 	<string key="ui_cant_switch_faction_war">You cannot change factions while signed up for a war.</string>
 	<string key="ui_cant_switch_faction_intro">You have not yet proven yourself to this faction. Talk to a faction representative to join.</string>
-	<string key="ui_cant_switch_faction_incompany" rel_version="Feature_Unfactioned_Company_Members">You are currently in a company associated with a different faction. If you continue, you will be removed from that company.\n\nYou may only join a company aligned with your faction. If flagged for PvP, you will only be able to group up with players from the same faction. Before joining, check the faction choices of your friends.\n\nYour choice isn't permanent -- you can change your faction from the Bio screen once. After that, you can change it again every &lt;font color="#edc63e"&gt;60 days&lt;/font&gt;.</string>
+	<string key="ui_cant_switch_faction_incompany" rel_version="Feature_Unfactioned_Company_Members">You are currently in a company associated with a different faction. If you continue, you will be removed from that company.\n\nYou may only join a company aligned with your faction. If flagged for PvP, you will only be able to group up with players from the same faction. Before joining, check the faction choices of your friends.\n\nYour choice isn't permanent -- you can change your faction from the Bio screen once. After that, you can change it again every &lt;font color="#edc63e"&gt;30 days&lt;/font&gt;.</string>
 	<string key="ui_join">Join</string>
-	<string key="ui_faction_join_restrictions">You can change factions once every 60 days, and can only join a company aligned with your faction.</string>
+	<string key="ui_faction_join_restrictions">You can change factions once every 30 days, and can only join a company aligned with your faction.</string>
 	<string key="no_upcoming_conflicts_all" rel_version="Feature_Influence_V2">There are no upcoming conflicts scheduled.</string>
 	<string key="pvp_mission_disabled_no_conflict" rel_version="Feature_Influence_V2">PvP missions will become available once a scheduled war, invasion, or race begins.</string>
+	<string key="pvp_mission_none_available" rel_version="Feature_Influence_V2">No PvP missions available right now, check back soon.</string>
+	<string key="pvp_mission_disabled" rel_version="Feature_Influence_V2">PvP missions aren't available at this location.</string>
 	<string key="influence_race_scheduled_title" rel_version="Feature_Influence_V2">INFLUENCE RACE SCHEDULED</string>
 	<string key="influence_race_schedule_info" rel_version="Feature_Influence_V2">{territoryName} is scheduled to have an Influence Race on\n{date}, {startTime}-{endTime}.</string>
 	<string key="influence_race_scheduled_multiple" rel_version="Feature_Influence_V2">Influence Races have been scheduled in the following territories:\n{territoryNameList}</string>

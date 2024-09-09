@@ -15,6 +15,8 @@
 	<string key="tanning">Tannery</string>
 	<string key="tanning_desc">Refine rawhide and leather here.</string>
 	<string key="carpentry">Woodshop</string>
+	<string key="runeglass">Runeglass Station</string>
+	<string key="runeglass_desc">Craft Runeglass here.</string>
 	<string key="blacksmith_station">Forge</string>
 	<string key="cooking_station">Kitchen</string>
 	<string key="engineering_station">Workshop</string>
@@ -118,10 +120,10 @@
 	<string key="dyeing_unequipped_armor_title_inventory">Dye Armor</string>
 	<string key="dyeing_unequipped_armor_title">Apply Dye to {itemName}</string>
 	<string key="dyeing_apply_dye">Apply Dye</string>
-	<string key="dyeing_primary">Primary</string>
-	<string key="dyeing_secondary">Secondary</string>
-	<string key="dyeing_accent">Accent</string>
-	<string key="dyeing_tint">Tint</string>
+	<string key="dyeing_primary">I</string>
+	<string key="dyeing_secondary">II</string>
+	<string key="dyeing_accent">III</string>
+	<string key="dyeing_tint">IV</string>
 	<string key="dyeing_recently_used">Recent</string>
 	<string key="dyeing_available">Available</string>
 	<string key="dyeing_confirm">Confirm</string>
@@ -137,12 +139,12 @@
 	<string key="dye_crafting_not_at_station">You need to be at an Arcane Repository.</string>
 	<string key="cooldown_threshold">&lt;img src="lyshineui/images/icons/misc/icon_question_orange.dds" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt; Crafting Cooldown: &lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{time}&lt;/font&gt; per &lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{count}&lt;/font&gt; items</string>
 	<string key="cooldown_threshold_tooltip">If you craft {count} items, you will have to wait for {time} to craft this item again.</string>
-	<string key="cooldown_cancraftin">Can Craft in {time} &lt;img src="lyshineui/images/icons/misc/icon_hourglass" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
+	<string key="cooldown_cancraftin">Can craft in {time}.</string>
 	<string key="crafting_always_available">Always Available</string>
 	<string key="crafting_dye_family">Dyes.</string>
 	<string key="crafting_open_dye_crafting">Dye Crafting</string>
-	<string key="crafting_fee">Fee: &lt;font color="#b2aea1" face="lyshineui/fonts/CaslonAnt.font"&gt;{fee}&lt;/font&gt;&lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
-	<string key="crafting_fee_low">Insufficient Funds : &lt;font color="#b2aea1" face="lyshineui/fonts/CaslonAnt.font"&gt;{fee} &lt;/font&gt;&lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
+	<string key="crafting_fee">Fee: &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; &lt;font color="#b2aea1" face="lyshineui/fonts/Pica_Regular.font"&gt;{fee}&lt;/font&gt;</string>
+	<string key="crafting_fee_low">Insufficient Funds: &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; &lt;font color="#b2aea1" face="lyshineui/fonts/Pica_Regular.font"&gt;{fee}&lt;/font&gt;</string>
 	<string key="crafting_fee_low_no_fee">Insufficient Funds</string>
 	<string key="crafting_craftagain">CRAFT AGAIN</string>
 	<string key="crafting_craftagain_fee">CRAFT AGAIN {fee}&lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
@@ -150,17 +152,17 @@
 	<string key="crafting_perkhint">Add &lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{itemName}&lt;/font&gt; to increase &lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Perk&lt;/font&gt; chance</string>
 	<string key="crafting_gemtitle">Add Primary Material</string>
 	<string key="crafting_gemdesc">Increases Gem Socket Chance</string>
-	<string key="crafting_perktitle">Add Azoth</string>
+	<string key="crafting_perktitle">Azoth</string>
 	<string key="crafting_perkdesc">Increases chance to get additional bonus</string>
-	<string key="crafting_specialtitle">Add Craft Mod</string>
-	<string key="crafting_specialattributetitle">Add Attribute Craft Mod</string>
+	<string key="crafting_specialtitle">Craft Mod</string>
+	<string key="crafting_specialattributetitle">Attribute Craft Mod</string>
 	<string key="crafting_specialdesc">Determines Perk</string>
 	<string key="crafting_specialadded">Craft Mod</string>
 	<string key="crafting_azothadded">Azoth</string>
 	<string key="crafting_carried">Carried</string>
 	<string key="crafting_noitem">No Item</string>
 	<string key="crafting_showowned">Owned</string>
-	<string key="crafting_primary_ingredient">(PRIMARY)</string>
+	<string key="crafting_primary_ingredient">Primary Material</string>
 	<string key="crafting_perkselectiontitle">SELECT CRAFT MOD</string>
 	<string key="crafting_perkselectiondesc">Craft mods add a specific type of perk to the crafted item.</string>
 	<string key="crafting_perk_item_available">1 Item Available</string>

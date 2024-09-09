@@ -1,0 +1,52 @@
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="MSQ_WW_PushQuest_Title" speaker="UI" rel_version="Quest_Console_Release">To Windsward</string>
+	<string key="MSQ_WW_PushQuest_Desc" speaker="UI" rel_version="Quest_Console_Release">I should find Marcel Dupont near Corinth in Windsward.</string>
+	<string key="MSQ_WW_PushQuest_Container_Desc" speaker="UI" rel_version="Quest_Console_Release">Speak to Marcel Dupont in Windsward</string>
+	<string key="MSQ_MB_PushQuest_Title" speaker="UI" rel_version="Quest_Console_Release">To Monarch's Bluffs</string>
+	<string key="MSQ_MB_PushQuest_Desc" speaker="UI" rel_version="Quest_Console_Release">I should find Sir Payne Bennett near Prydwen in Monarch's Bluffs.</string>
+	<string key="MSQ_MB_PushQuest_Container_Desc" speaker="UI" rel_version="Quest_Console_Release">Speak to Sir Payne Bennett in Monarch's Bluffs</string>
+	<string key="MSQ_EF_PushQuest_Title" speaker="UI" rel_version="Quest_Console_Release">The First Step of Many</string>
+	<string key="MSQ_EF_PushQuest_Desc" speaker="UI" rel_version="Quest_Console_Release">I should find this strange old man out in Windsward.</string>
+	<string key="MSQ_EF_PushQuest_Container_Desc" speaker="UI" rel_version="Quest_Console_Release">Speak to the old man in Windsward.</string>
+	<string key="MSQ_ForgeStaff_PushQuest_Title" speaker="UI" rel_version="Quest_Console_Release">The Staff of Legend</string>
+	<string key="MSQ_ForgeStaff_PushQuest_Desc" speaker="UI" rel_version="Quest_Console_Release">I meet up with Yonas in Everfall to continue on my journey as a Soulwarden.</string>
+	<string key="MSQ_ForgeStaff_PushQuest_Container_Desc" speaker="UI" rel_version="Quest_Console_Release">Speak with Yonas in Everfall.</string>
+	<string key="MSQ_BW_PushQuest_Title" speaker="UI" rel_version="Quest_Console_Release">To Brightwood</string>
+	<string key="MSQ_BW_PushQuest_Desc" speaker="UI" rel_version="Quest_Console_Release">I should meet up with Yonas in Brightwood to continue my journey as a Soulwarden.</string>
+	<string key="MSQ_BW_PushQuest_Container_Desc" speaker="UI" rel_version="Quest_Console_Release">Speak with Yonas in Brightwood.</string>
+	<string key="MSQ_WF_PushQuest_Title" speaker="UI" rel_version="Quest_Console_Release">To Weaver's Fen</string>
+	<string key="MSQ_WF_PushQuest_Desc" speaker="UI" rel_version="Quest_Console_Release">I should meet up with Ser Galahad in Weaver's Fen to investigate the Corpse Crone.</string>
+	<string key="MSQ_WF_PushQuest_Container_Desc" speaker="UI" rel_version="Quest_Console_Release">Speak with Ser Galahad in Weaver's Fen</string>
+	<string key="MSQ_GC_PushQuest_Title" speaker="UI" rel_version="Quest_Console_Release">To Great Cleave</string>
+	<string key="MSQ_GC_PushQuest_Desc" speaker="UI" rel_version="Quest_Console_Release">I should meet up with Ser Galahad in Great Cleave to confront the Corrupted.</string>
+	<string key="MSQ_GC_PushQuest_Container_Desc" speaker="UI" rel_version="Quest_Console_Release">Speak with Ser Galahad in Great Cleave</string>
+	<string key="MSQ_EG_PushQuest_Title" speaker="UI" rel_version="Quest_Console_Release">To Edengrove</string>
+	<string key="MSQ_EG_PushQuest_Desc" speaker="UI" rel_version="Quest_Console_Release">I should meet up with Sun Fuchun in Edengrove to search for the wizard Myrrdin.</string>
+	<string key="MSQ_EG_PushQuest_Container_Desc" speaker="UI" rel_version="Quest_Console_Release">Speak with Sun Fuchun in Edengrove</string>
+	<string key="MSQ_ER_PushQuest_Title" speaker="UI" rel_version="Quest_Console_Release">To Ebonscale Reach</string>
+	<string key="MSQ_ER_PushQuest_Desc" speaker="UI" rel_version="Quest_Console_Release">I should meet up with Sun Fuchun in Ebonscale Reach to try and entreat help from the Empress.</string>
+	<string key="MSQ_ER_PushQuest_Container_Desc" speaker="UI" rel_version="Quest_Console_Release">Speak with Sun Fuchun in Ebonscale Reach</string>
+	<string key="MSQ_SM_PushQuest_Title" speaker="UI" rel_version="Quest_Console_Release">To Shattered Mountain</string>
+	<string key="MSQ_SM_PushQuest_Desc" speaker="UI" rel_version="Quest_Console_Release">I should meet up with Yash Zafar in Shattered Mountain to prepare for our confrontation with the Tempest.</string>
+	<string key="MSQ_SM_PushQuest_Container_Desc" speaker="UI" rel_version="Quest_Console_Release">Speak with Yash Zafar in Shattered Mountain</string>
+	<string key="MSQ_BS_PushQuest_Desc" speaker="UI" rel_version="Quest_Console_Release">I should speak with Yash Zafar about the desert lands known as Brimstone Sands.</string>
+	<string key="MSQ_BS_PushQuest_Container_Desc" speaker="UI" rel_version="Quest_Console_Release">Speak with Yash Zafar in Shattered Mountain</string>
+	<string key="MSQ_EW_PushQuest_Desc" speaker="UI" rel_version="Quest_Console_Release">I should speak with Morgaine about the events in the lands once known as First Light.</string>
+	<string key="MSQ_EW_PushQuest_Container_Desc" speaker="UI" rel_version="Quest_Console_Release">Speak with Morgaine in Brimstone Sands</string>
+	<string key="Vector_Faction_PushQuest_Title" speaker="UI" rel_version="Quest_Console_Release">Faction Introductions</string>
+	<string key="Vector_Faction_PushQuest_Desc" speaker="UI" rel_version="Quest_Console_Release">I should speak with the Faction Representatives to learn more about joining a Faction.</string>
+	<string key="Vector_Faction_PushQuest_Container_Desc" speaker="UI" rel_version="Quest_Console_Release">Speak with Faction Members to join a Faction</string>
+	<string key="Vector_Faction_PushQuest_Florina_Desc" speaker="UI" rel_version="Quest_Console_Release">Talk to Florina about the Covenant</string>
+	<string key="Vector_Faction_PushQuest_Aventus_Desc" speaker="UI" rel_version="Quest_Console_Release">Talk to Aventus about the Syndicate</string>
+	<string key="Vector_Faction_PushQuest_Tibbs_Desc" speaker="UI" rel_version="Quest_Console_Release">Talk to Tibbs about the Marauders</string>
+	<string key="Vector_Crafting_MB_PushQuest_Title" speaker="UI" rel_version="Quest_Console_Release">Learn to Craft</string>
+	<string key="Vector_Crafting_MB_PushQuest_Desc" speaker="UI" rel_version="Quest_Console_Release">I should speak with Cemal Qadir about learning a crafting trade.</string>
+	<string key="Vector_Crafting_MB_PushQuest_Container_Desc" speaker="UI" rel_version="Quest_Console_Release">Speak with Cemal Qadir in Monarch's Bluffs</string>
+	<string key="Vector_Crafting_WW_PushQuest_Title" speaker="UI" rel_version="Quest_Console_Release">Learn to Craft</string>
+	<string key="Vector_Crafting_WW_PushQuest_Desc" speaker="UI" rel_version="Quest_Console_Release">I should speak with Talesa Serrano about learning a crafting trade.</string>
+	<string key="Vector_Crafting_WW_PushQuest_Container_Desc" speaker="UI" rel_version="Quest_Console_Release">Speak with Talesa Serrano in Windsward</string>
+	<string key="Vector_Mounts_PushQuest_Title" speaker="UI" rel_version="Quest_Console_Release">Acquire a Mount</string>
+	<string key="Vector_Mounts_PushQuest_Desc" speaker="UI" rel_version="Quest_Console_Release">I should seek out Jochi Khan in Everfall to see what he has to teach me.</string>
+	<string key="Vector_Mounts_PushQuest_Container_Desc" speaker="UI" rel_version="Quest_Console_Release">Speak with Jochi Khan in Everfall</string>
+</resources>
+

@@ -1,0 +1,32 @@
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="0502_Magistrate" comment="male">Aulus Fulvius</string>
+	<string key="0502_Magistrate_Title">Legatus legionis, Reekwater</string>
+	<string key="0503_Survivalist" comment="female">Madilon Langlais</string>
+	<string key="0503_Survivalist_Title">Herbalist of Reekwater</string>
+	<string key="0504_Overseer" comment="male">Kinnao Onizuka</string>
+	<string key="0504_Overseer_Title">Headman of Reekwater</string>
+	<string key="0505_Artificer" comment="female">Okolo Afolabi</string>
+	<string key="0505_Artificer_Title">Reekwater Marsh Walker</string>
+	<string key="0507_Commander" comment="female">Contzel Siegel</string>
+	<string key="0507_Commander_Title">Marauder Commander</string>
+	<string key="0508_Alchemist" comment="male">Duarte Santos</string>
+	<string key="0508_Alchemist_Title">Syndicate Alchemist</string>
+	<string key="0509_Adjudicator" comment="female">Latai Ngati</string>
+	<string key="0509_Adjudicator_Title">Covenant Adjudicator</string>
+	<string key="0510_Barkeep" comment="female">Nelda Horelica</string>
+	<string key="0510_Barkeep_Title">Tavernmistress of the Fox's Den</string>
+	<string key="0511_Stranger" comment="male">Roland Abbingdon</string>
+	<string key="0511_Stranger_Title">Antiquarian</string>
+	<string key="0522_Innkeep" comment="male">Trong Nguyen</string>
+	<string key="0522_Innkeep_Title">Innkeeper of the Muddy Boot</string>
+	<string key="0523_Fisher" comment="male">Gaspar Machera</string>
+	<string key="0523_Fisher_Title">Grand Master Fisher</string>
+	<string key="0524_Stranger" comment="female">Katring Sanders</string>
+	<string key="0524_Stranger_Title">Former Pirate Gunner</string>
+	<string key="Reekwater_Dungeon_Scylla" comment="female">Cilla</string>
+	<string key="Reekwater_Dungeon_Scylla_Title">Keeper of the Pool</string>
+	<string key="0525_Druid" comment="Male" rel_version="Quest_Console_Release">Eoin Dornoll</string>
+	<string key="0525_Druid_Title" rel_version="Quest_Console_Release">Druid</string>
+	<string key="05_InnName">Muddy Boot Inn</string>
+</resources>
+
