@@ -1,10 +1,11 @@
 <resources>
 	<string key="ui_receivedgroupinvitetitle_pvp" comment="">PvP Group Invite</string>
 	<string key="ui_receivedgroupinvitetitle_pve" comment="">Group Invite</string>
-	<string key="ui_receivedgroupinvitemessage_pvp" comment="">&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{playerName}&lt;/font&gt; invited you to a PvP Group.\nWould you like to accept?</string>
-	<string key="ui_receivedgroupinvitemessage_pve" comment="">&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{playerName}&lt;/font&gt; invited you to a PvE Group.\nWould you like to accept?</string>
+	<string key="ui_receivedgroupinvitemessage_pvp" comment="">&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{playerName}&lt;/font&gt; invited you to a PvP Group.</string>
+	<string key="ui_receivedgroupinvitemessage_pve" comment="">&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{playerName}&lt;/font&gt; invited you to a PvE Group.</string>
 	<string key="ui_receivedgroupinvitemessage_pvp_wrong_flag" comment="">&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{playerName}&lt;/font&gt; invited you to a PvP Group.\nYou must enable PvP at a Sanctuary to accept this invite.</string>
 	<string key="ui_receivedgroupinvitemessage_pve_wrong_flag" comment="">&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{playerName}&lt;/font&gt; invited you to a PvE Group.\nYou must disable PvP at a Sanctuary to accept this invite.</string>
+	<string key="ui_receivedgroupinvitemessage_ffa" rel_version="Territory_CutlassKeys_Rework">Can not accept group invites while inside the Free-For-All PVP zone</string>
 	<string key="ui_acceptgroupinviteblocked_pvp" comment="">Enable PvP at a Sanctuary to accept this PvP Group Invite.</string>
 	<string key="ui_acceptgroupinviteblocked_pve" comment="">Disable PvP at a Sanctuary to accept this PvE Group Invite.</string>
 	<string key="ui_receivedgroupinvite_decline" comment="">Decline</string>
@@ -48,6 +49,7 @@
 	<string key="ui_numgroupinvites" comment="">({numInvites})</string>
 	<string key="ui_groupmemberdeathsdoor" comment="">At Death&apos;s Door</string>
 	<string key="ui_groupmemberdead" comment="">Dead</string>
+	<string key="ui_add_to_group" comment="">Add to Group</string>
 	<string key="ui_leavegroup" comment="">Leave Group</string>
 	<string key="ui_choose_role" comment="">Choose Role</string>
 	<string key="ui_role_disabled_is_current_role">This is your current role.</string>
@@ -70,6 +72,8 @@
 	<string key="ui_cannotleavegroup_in_outpost_rush" comment="">You cannot leave your group while in Outpost Rush.</string>
 	<string key="ui_cannotinvitein_pvp_wrong_faction" comment="">Must be in same faction for PvP group.</string>
 	<string key="ui_cannotinvitein_player_in_cw_instance" comment="">You cannot invite someone while they are cross world.</string>
+	<string key="ui_cannotinvitein_player_ffa" rel_version="Territory_CutlassKeys_Rework">You cannot invite someone while they are in Free-For-All PVP.</string>
+	<string key="ui_cannotinvitein_player_ffa_self" rel_version="Territory_CutlassKeys_Rework">You cannot invite someone while you are in Free-For-All PVP.</string>
 	<string key="ui_cannotleavegroup_in_arena" comment="">You cannot leave your group while in an Arena.</string>
 	<string key="ui_cannotleavegroup_in_war" comment="">You cannot leave your group while in a War.</string>
 	<string key="ui_cannotleavegroup_in_invasion" comment="">You cannot leave your group while in an Invasion.</string>
@@ -82,6 +86,28 @@
 	<string key="ui_groupalreadyinvitederrortitle" comment="">Invite Already Sent</string>
 	<string key="ui_groupalreadyinvitederrormessage" comment="">You already invited &lt;font color="#ebe3d6"&gt;{playerName}&lt;/font&gt;.</string>
 	<string key="ui_groupnotavailableerrormessage" comment="">{playerName}&apos;s group is no longer available.</string>
+	<string key="ui_groupgameinviteunabletojoin" comment="This is the generic for any non-specific case">Unable to join {playerName} from Game Invite.</string>
+	<string key="ui_gameinviteerror_failedtogetreplication" comment="">Unable to join from Game Invite. Failed to get replication data.</string>
+	<string key="ui_gameinviteerror_bypassdisabled" comment="">Unable to join from Game Invite. This feature is disabled.</string>
+	<string key="ui_gameinviteerror_invalidinviter" comment="">Unable to join from Game Invite. Inviter could not be found.</string>
+	<string key="ui_gameinviteerror_invalidinvitedata" comment="">Game Invite is invalid, unable to join.</string>
+	<string key="ui_gameinviteerror_pendinggroupinvite" comment="">Unable to join {playerName} from Game Invite. You have a pending group invite.</string>
+	<string key="ui_gameinviteerror_joinedothergroup" comment="">Unable to join {playerName} from Game Invite. They have joined a different group.</string>
+	<string key="ui_gameinviteerror_timedout" comment="">Unable to join {playerName} from Game Invite. The group invite timed out.</string>
+	<string key="ui_gameinviteerror_playerdisconnected" comment="">Unable to join from Game Invite. {playerName} has gone offline.</string>
+	<string key="ui_gameinviteerror_groupfull" comment="">Unable to join from Game Invite. {playerName}&apos;s group is now full.</string>
+	<string key="ui_gameinviteerror_withdrawn" comment="">Unable to join from Game Invite. The invite has been withdrawn.</string>
+	<string key="ui_gameinviteerror_inmatchmaking" comment="">Unable to join from Game Invite. {playerName} is currently in matchmaking.</string>
+	<string key="ui_gameinviteerror_inftue" comment="">Unable to join from Game Invite. {playerName} is playing through the tutorial.</string>
+	<string key="ui_gameinviteerror_ingamemode" comment="">Unable to join from Game Invite. {playerName} is currently in an uninvitable game mode.</string>
+	<string key="ui_gameinviteerror_inwar" comment="">Unable to join from Game Invite. {playerName} is currently fighting in a War.</string>
+	<string key="ui_gameinviteerror_inffa" comment="">Unable to join from Game Invite. {playerName} is currently in Free-For-All PVP.</string>
+	<string key="ui_gameinviteerror_inraid" comment="">Unable to join from Game Invite. {playerName} is currently in a raid group.</string>
+	<string key="ui_gameinviteerror_streamermodeblock" comment="">Unable to join from Game Invite. {playerName} is in do not disturb mode.</string>
+	<string key="ui_gameinviteerror_invalidfaction" comment="">Unable to join from Game Invite. You must be in the same faction.</string>
+	<string key="ui_gameinviteerror_iscrossworld" comment="">Unable to join from Game Invite. {playerName} is in a Cross World mode.</string>
+	<string key="ui_gameinviteerror_crossplay" comment="">Unable to join invite due to mismatched cross-platform settings.</string>
+	<string key="ui_gameinvite_errordecoding" comment="">Error occurred processing Game Invite.</string>
 	<string key="ui_groupmaxinviteserrormessage" comment="">Can&apos;t invite {playerName}, you reached your max number of invites.</string>
 	<string key="ui_groupfromplayerofflineerrormessage" comment="">Group invite removed: {playerName} went offline.</string>
 	<string key="ui_groupinvitetoplayerofflineerrormessage" comment="">Group invite failed: {playerName} went offline.</string>
@@ -91,6 +117,9 @@
 	<string key="ui_groupinvitefailedgroupfullmessage" comment="">Group invite failed: {playerName}&apos;s group is now full.</string>
 	<string key="ui_groupinvitefailederrormessage" comment="">Failed to respond to invite from {playerName}'s group.</string>
 	<string key="ui_groupinvitefailedraid" comment="">Failed to respond to invite</string>
+	<string key="ui_groupjoinfailedgamemode">Unable to join group while the group is in an activity.</string>
+	<string key="ui_groupjoinfailedpendinggroupinvite">Failed to join group due to pending group invite.</string>
+	<string key="ui_groupjoinfailedmatchmaking">Failed to join group due to matchmaking.</string>
 	<string key="ui_acceptinvitepopuptitle" comment="">Join New Group?</string>
 	<string key="ui_acceptinvitepopupmessage" comment="">Are you sure you want to leave the group and join a new group?</string>
 	<string key="ui_insamegrouperrormessage" comment="">{playerName} is already in your group.</string>
@@ -201,7 +230,9 @@
 	<string key="ui_raid_not_signedup_remote_description" comment="">You have not signed up for this war. Go to a war board to sign up!</string>
 	<string key="ui_raid_not_signedup_description" comment="">You have not signed up for this war. Sign up for the war now!</string>
 	<string key="ui_invasion_standby_description" comment="">Be online at {time} {date}. Players will be selected randomly at that time.</string>
-	<string key="ui_empty_roster_instruction" comment="">Drag players here\nfrom the standby list on the right.</string>
+	<string key="ui_empty_roster_instruction" comment="">Add players here\nfrom the standby list.</string>
+	<string key="ui_empty_roster_instruction_controller" comment="">Add players from the Standby list.</string>
+	<string key="ui_raid_move_mode_instructions" comment="">Select the destination for {playerName}.</string>
 	<string key="ui_backfill_tooltip" comment="">The company can decide how to backfill slots when selected players drop out before the war ends.</string>
 	<string key="ui_backfill_auto_tooltip" comment="">Automatically backfill players from the Standby list based on sign-up time.</string>
 	<string key="ui_backfill_manual_tooltip" comment="">Manually select players from the Standby list to backfill abandoned spots.</string>
@@ -277,8 +308,8 @@
 	<string rel_version="Feature_Raid_Groups" key="ui_raidinvitesentmessage">Raid invite sent to &lt;font color="#ebe3d6"&gt;{playerName}&lt;/font&gt;.</string>
 	<string rel_version="Feature_Raid_Groups" key="ui_receivedraidinvitetitle_pvp">PvP Raid Invite</string>
 	<string rel_version="Feature_Raid_Groups" key="ui_receivedraidinvitetitle_pve">Raid Invite</string>
-	<string rel_version="Feature_Raid_Groups" key="ui_receivedraidinvitemessage_pvp">&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{playerName}&lt;/font&gt; invited you to a PvP Raid.\nWould you like to accept?</string>
-	<string rel_version="Feature_Raid_Groups" key="ui_receivedraidinvitemessage_pve">&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{playerName}&lt;/font&gt; invited you to a PvE Raid.\nWould you like to accept?</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_receivedraidinvitemessage_pvp">&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{playerName}&lt;/font&gt; invited you to a PvP Raid.</string>
+	<string rel_version="Feature_Raid_Groups" key="ui_receivedraidinvitemessage_pve">&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{playerName}&lt;/font&gt; invited you to a PvE Raid.</string>
 	<string rel_version="Feature_Raid_Groups" key="ui_receivedraidinvitemessage_pvp_wrong_flag">&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{playerName}&lt;/font&gt; invited you to a PvP Raid.\nYou must enable PvP at a Sanctuary to accept this invite.</string>
 	<string rel_version="Feature_Raid_Groups" key="ui_receivedraidinvitemessage_pve_wrong_flag">&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{playerName}&lt;/font&gt; invited you to a PvE Raid.\nYou must disable PvP at a Sanctuary to accept this invite.</string>
 	<string rel_version="Feature_Raid_Groups" key="ui_acceptraidinviteblocked_pvp">Enable PvP at a Sanctuary to accept this PvP Raid Invite</string>

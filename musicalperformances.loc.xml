@@ -8,7 +8,7 @@
 	<string key="ui_musical_performances_select_instrument" rel_version="Feature_MusicalPerformances">Select Instrument</string>
 	<string key="ui_musical_performances_quit_performance_title" rel_version="Feature_MusicalPerformances">End Performance</string>
 	<string key="ui_musical_performances_quit_performance_text" rel_version="Feature_MusicalPerformances">Are you sure?</string>
-	<string key="ui_musical_performances_cant_start" rel_version="Feature_MusicalPerformances">Can't start peformance yet.  Try again later.</string>
+	<string key="ui_musical_performances_cant_start" rel_version="Feature_MusicalPerformances">Can't start peformance yet. Try again later.</string>
 	<string key="ui_musical_performances_failed_create_performance" rel_version="Feature_MusicalPerformances">Failed to create performance.</string>
 	<string key="ui_musical_performances_selected_performance" rel_version="Feature_MusicalPerformances">Selected Performance</string>
 	<string key="ui_musical_performances_selected_reward" rel_version="Feature_MusicalPerformances">Selected Reward</string>
@@ -94,13 +94,13 @@
 	<string key="ui_musical_performance_failmessage_eligibility_failed" rel_version="Feature_MusicalPerformances">That player is not eligible.</string>
 	<string key="ui_musical_performance_failmessage_system_error" rel_version="Feature_MusicalPerformances">An unknown error occured inviting that player.</string>
 	<string key="ui_musical_performance_failmessage_cancelled" rel_version="Feature_MusicalPerformances">The invite was cancelled.</string>
-	<string key="ui_musical_performance_failmessage_blocked" rel_version="Feature_MusicalPerformances">That player is blocked.</string>
+	<string key="ui_musical_performance_failmessage_blocked" rel_version="Feature_MusicalPerformances">That player is automatically declining invites.</string>
 	<string key="ui_musical_performance_failmessage_fasttravelchanneling" rel_version="Feature_MusicalPerformances">That player that is fast traveling.</string>
 	<string key="ui_musical_performance_failmessage_declined" rel_version="Feature_MusicalPerformances">That player declined your invite.</string>
 	<string key="ui_musical_performance_failmessage_throttled" rel_version="Feature_MusicalPerformances">Your invite was throttled.</string>
 	<string key="ui_musical_performance_invite_sent" rel_version="Feature_MusicalPerformances">Performance invite sent.</string>
 	<string key="ui_musical_performance_invite_notification_title">Performance Invite</string>
-	<string key="ui_musical_performance_invite_notification_text">&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{playerName}&lt;/font&gt; invites you to a performance.\nWould you like to accept?</string>
+	<string key="ui_musical_performance_invite_notification_text">&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{playerName}&lt;/font&gt; invites you to a performance.</string>
 	<string key="ui_musical_performance_failmessage_generic">You cannot perform right now.</string>
 	<string key="ui_musical_performance_failmessage_dead">You're dead.</string>
 	<string key="ui_musical_performance_failmessage_pendinginvite">You already have a pending performance invite.</string>
@@ -127,7 +127,7 @@
 	<string key="MusicBuff_FortunesFavor_Desc" rel_version="Feature_MusicalPerformances">Increases yield when gathering.</string>
 	<string key="MusicBuff_LucksLabor_Desc" rel_version="Feature_MusicalPerformances">Increases luck when gathering.</string>
 	<string key="MusicBuff_DecidedlyDexterous_Desc" rel_version="Feature_MusicalPerformances">Increases gathering speed.</string>
-	<string key="MusicBuff_NeverStopLearning_Desc" rel_version="Feature_MusicalPerformances">Increases XP for non-Fishing gathering tradeskills.</string>
+	<string key="MusicBuff_NeverStopLearning_Desc" rel_version="Feature_MusicalPerformances">Increases XP for non-Fishing Gathering Trade Skills.</string>
 	<string key="ui_casual" rel_version="Feature_MusicalPerformances">Casual</string>
 	<string key="ui_music" rel_version="Feature_MusicalPerformances">Music</string>
 	<string key="ui_unlocked_at" rel_version="Feature_MusicalPerformances">Unlocked at</string>
@@ -216,7 +216,7 @@
 	<string key="songtitle_Old_Windsward_Shack" rel_version="Feature_MusicalPerformancesV3">Old Windsward Shack</string>
 	<string key="songtitle_9_Pound_Hammer" rel_version="Feature_MusicalPerformancesV3">9 Pound Hammer</string>
 	<string key="songtitle_Sap_Of_Brightwood" rel_version="Feature_MusicalPerformancesV3">Sap Of Brightwood</string>
-	<string key="songtitle_Freestyle_B" rel_version="Feature_MusicalPerformancesV3">Pirate Flyting</string>
+	<string key="songtitle_Freestyle_B" rel_version="Feature_MusicalPerformancesV3">Pirate Flying</string>
 	<string key="songtitle_My_Beef_Is_With_The_Butcher" rel_version="Feature_MusicalPerformancesV3">Stoke The Forge</string>
 	<string key="songtitle_Gatherers_Rush" rel_version="Feature_MusicalPerformancesV3">Gatherers' Rush</string>
 	<string key="songtitle_Sword_And_Board" rel_version="Feature_MusicalPerformancesV3">Trading Post Hustle</string>

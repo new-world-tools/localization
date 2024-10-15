@@ -66,7 +66,7 @@
 	<string key="objective_darkness_invasion">Invasion</string>
 	<string key="objective_darkness_invasion_description">{territoryName} Fortress</string>
 	<string key="objective_darkness_invasion_waves_title">DEFEND THE FORT</string>
-	<string key="objective_darkness_invasion_waves_desc">WAVE &lt;font color="#ebe3d6"&gt;&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{currentWave}&lt;/font&gt;&lt;/font&gt; OF &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{totalWaves}&lt;/font&gt;</string>
+	<string key="objective_darkness_invasion_waves_desc">WAVE &lt;font color="#ebe3d6"&gt;&lt;font face="lyshineui/fonts/Pica_Regular.font"&gt;{currentWave}&lt;/font&gt;&lt;/font&gt; OF &lt;font face="lyshineui/fonts/Pica_Regular.font"&gt;{totalWaves}&lt;/font&gt;</string>
 	<string key="objective_darkness_invasion_waves_desc_final">FINAL WAVE</string>
 	<string key="ui_summermedley_shredlyfair" rel_version="Event_Summer2023_Perm">Concert Stage</string>
 	<string key="ui_preddieu_farm_attack" rel_version="Quest_MSQ2_Revamp">Sneed's Revenge</string>
@@ -160,13 +160,13 @@
 	<string key="04A_Encounter_Remnant_Boss_Obj_Enc_task_setup" rel_version="Quest_MSQ2_Revamp">Approach the Remnant</string>
 	<string key="04A_Encounter_Remnant_Boss_Obj_Enc_task_setup_desc" rel_version="Quest_MSQ2_Revamp">Overcome the Remnant</string>
 	<string key="04A_Encounter_Zane_Boss_Obj_Enc_Title" rel_version="Quest_MSQ2_Revamp">Corrupting of Nature</string>
-	<string key="04A_Encounter_Zane_Boss_Obj_Enc_Title_description" rel_version="Quest_MSQ2_Revamp">Defeat Zane to stop any further corruption of nature.</string>
-	<string key="04A_Encounter_Zane_Boss_Obj_Enc_task_confront" rel_version="Quest_MSQ2_Revamp">Weaken Overseer Zane</string>
-	<string key="04A_Encounter_Zane_Boss_Obj_Enc_task_confront_desc" rel_version="Quest_MSQ2_Revamp">Destroy the Corrupted Tendrils to weaken Zane. \nTendrils Remaining: {remainingCount}</string>
-	<string key="04A_Encounter_Zane_Boss_Obj_Enc_task_defeat" rel_version="Quest_MSQ2_Revamp">Defeat Overseer Zane</string>
-	<string key="04A_Encounter_Zane_Boss_Obj_Enc_task_defeat_desc" rel_version="Quest_MSQ2_Revamp">With Zane weakened, deal the finishing blow.</string>
-	<string key="04A_Encounter_Zane_Boss_Obj_Enc_task_setup" rel_version="Quest_MSQ2_Revamp">Defeat Overseer Zane</string>
-	<string key="04A_Encounter_Zane_Boss_Obj_Enc_task_setup_desc" rel_version="Quest_MSQ2_Revamp">Confront Overseer Zane</string>
+	<string key="04A_Encounter_Zane_Boss_Obj_Enc_Title_description" rel_version="Quest_MSQ2_Revamp">Defeat Centurion Maecia to stop any further corruption of nature.</string>
+	<string key="04A_Encounter_Zane_Boss_Obj_Enc_task_confront" rel_version="Quest_MSQ2_Revamp">Weaken Centurion Maecia</string>
+	<string key="04A_Encounter_Zane_Boss_Obj_Enc_task_confront_desc" rel_version="Quest_MSQ2_Revamp">Destroy the Corrupted Tendrils to weaken Centurion Maecia. \nTendrils Remaining: {remainingCount}</string>
+	<string key="04A_Encounter_Zane_Boss_Obj_Enc_task_defeat" rel_version="Quest_MSQ2_Revamp">Defeat Centurion Maecia</string>
+	<string key="04A_Encounter_Zane_Boss_Obj_Enc_task_defeat_desc" rel_version="Quest_MSQ2_Revamp">With Centurion Maecia weakened, deal the finishing blow.</string>
+	<string key="04A_Encounter_Zane_Boss_Obj_Enc_task_setup" rel_version="Quest_MSQ2_Revamp">Defeat Centurion Maecia</string>
+	<string key="04A_Encounter_Zane_Boss_Obj_Enc_task_setup_desc" rel_version="Quest_MSQ2_Revamp">Confront Centurion Maecia</string>
 	<string key="ui_turkeyterror_worldboss_Turkulon">Turkulon's Terror</string>
 	<string key="ui_turkeyterror_worldboss_Turkulon_description">Turkulon has returned to avenge their fallen brethren</string>
 	<string key="ui_worldboss_defeated" rel_version="Event_February_Perm">{objective} Defeated</string>
@@ -177,6 +177,32 @@
 	<string key="objective_worldboss_task_legacyofcrassus_wave1_desc" rel_version="Event_Legacy_Of_Crassus2024">Defeat the invaders: {remainingCount} remaining.</string>
 	<string key="objective_worldboss_task_legacyofcrassus_wave2_title" rel_version="Event_Legacy_Of_Crassus2024">Legacy of Crassus: Stage 2/2</string>
 	<string key="objective_worldboss_task_legacyofcrassus_wave2_desc" rel_version="Event_Legacy_Of_Crassus2024">Defeat the invaders: {remainingCount} remaining.</string>
+	<string key="ui_worldboss_season_01_event">Fury of the Spriggan</string>
+	<string key="ui_worldboss_season_01_event_description">The earth rises up against us, subdue the Dryads and the weapon they seek to summon.\n\nContains &lt;font color="#edc63e"&gt;3&lt;/font&gt; Daily Rewards. Resets at {time}</string>
+	<string key="objective_worldboss_task_season_01_event_wave0_title">Construct the Flame Braziers to empower your weapons and defeat the Dryads.</string>
+	<string key="objective_worldboss_task_season_01_event_wave0_desc">Flame Braziers Remaining: {remainingCount}</string>
+	<string key="objective_worldboss_task_season_01_event_wave1_title">Empower your weapons at the Braziers and hold out against the Dryads</string>
+	<string key="objective_worldboss_task_season_01_event_wave1_desc">Time Remaining:</string>
+	<string key="objective_worldboss_task_season_01_event_wave2_title">Stop the ritual.</string>
+	<string key="objective_worldboss_task_season_01_event_wave2_desc">Shamans remaining: {remainingCount}</string>
+	<string key="objective_worldboss_task_season_01_event_wave3_title">The ritual was completed! Defend yourself from the Spriggan!</string>
+	<string key="objective_worldboss_task_season_01_event_wave3_desc">Defeat the Spriggan.</string>
+	<string key="ui_worldboss_season_02_event">Siege of Sulfur</string>
+	<string key="ui_worldboss_season_02_event_description">Help an injured Dunewalker defend Royal Eggs from attacking Sulfur Elementals.\n\nContains &lt;font color="#edc63e"&gt;3&lt;/font&gt; Daily Rewards. Resets at {time}</string>
+	<string key="objective_worldboss_task_season_02_event_wave0_title">Lend your aid to the Dunewalker</string>
+	<string key="objective_worldboss_task_season_02_event_wave0_desc">Relieve the mage to defend the Royal Eggs</string>
+	<string key="objective_worldboss_task_season_02_event_wave1_title">Wave 1/6</string>
+	<string key="objective_worldboss_task_season_02_event_wave1_desc">Defeat the attacking Sulfur Elementals</string>
+	<string key="objective_worldboss_task_season_02_event_wave1a_desc">Sulfur Elementals Remaining: {remainingCount}</string>
+	<string key="objective_worldboss_task_season_02_event_wave2_desc">Wave 2/6</string>
+	<string key="objective_worldboss_task_season_02_event_wave3_desc">Wave 3/6</string>
+	<string key="objective_worldboss_task_season_02_event_wave4_desc">Wave 4/6</string>
+	<string key="objective_worldboss_task_season_02_event_wave5_desc">Wave 5/6</string>
+	<string key="objective_worldboss_task_season_02_event_wave6_desc">Wave 6/6</string>
+	<string key="objective_worldboss_task_season_02_event_wave_miniboss_title">Defeat the Sulfur Giants</string>
+	<string key="objective_worldboss_task_season_02_event_wave_miniboss_desc">Sulfur Giants Remaining: {remainingCount}</string>
+	<string key="objective_worldboss_task_season_02_event_wave_boss_title">Defend the Royal Eggs</string>
+	<string key="objective_worldboss_task_season_02_event_wave_boss_desc">Slay the Remnant of the Unmaker</string>
 	<string key="objective_Season_02_PoolsOfOrcus_title_wave1" rel_version="Quest_MSQ_Update_4">Pools of Orcus</string>
 	<string key="objective_Season_02_PoolsOfOrcus_encounter1" rel_version="Quest_MSQ_Update_4">Stop the Geysers: {remainingCount}/3</string>
 	<string key="objective_Season_02_DancingPillars_title_wave1" rel_version="Quest_MSQ_Update_4">Dancing Pillars: Stage 1/5</string>
@@ -193,8 +219,8 @@
 	<string key="objective_motherwell_attack_wave_02_title" rel_version="Quest_MSQ2_Edengrove">Defend the Barrier:</string>
 	<string key="objective_motherwell_attack_wave_02_desc" rel_version="Quest_MSQ2_Edengrove">Time Remaining:</string>
 	<string key="ui_fl_worldboss_beast_01_Obj_Enc_Title" rel_version="Territory_FirstLight">Kol Ciron</string>
-	<string key="ui_fl_worldboss_beast_02_Obj_Enc_Title" rel_version="Territory_FirstLight">Bulrok The Burning</string>
-	<string key="ui_fl_worldboss_beast_03_Obj_Enc_Title" rel_version="Territory_FirstLight">Kondak The Frigid</string>
+	<string key="ui_fl_worldboss_beast_02_Obj_Enc_Title" rel_version="Territory_FirstLight">Bulrok, The Burning</string>
+	<string key="ui_fl_worldboss_beast_03_Obj_Enc_Title" rel_version="Territory_FirstLight">Kondak, The Frigid</string>
 	<string key="ui_fl_worldboss_beast_04_Obj_Enc_Title" rel_version="Territory_FirstLight">Mawthor, The Thundering</string>
 	<string key="ui_fl_worldboss_beast_05_Obj_Enc_Title" rel_version="Territory_FirstLight">Mosantar, The Earth Eater</string>
 	<string key="ui_fl_worldboss_beast_06_Obj_Enc_Title" rel_version="Territory_FirstLight">Zirash</string>
@@ -207,8 +233,8 @@
 	<string key="ui_fl_worldboss_beast_06_Obj_Enc_Title_description" rel_version="Territory_FirstLight">A legendary creature was spotted here.</string>
 	<string key="ui_fl_worldboss_beast_07_Obj_Enc_Title_description" rel_version="Territory_FirstLight">A legendary creature was spotted here.</string>
 	<string key="objective_enc_darkness_Hunt_armored_dragon_wave_01_title" rel_version="Territory_FirstLight">Defeat Kol Ciron</string>
-	<string key="objective_enc_darkness_Hunt_Fire_Gorilla_wave_01_title" rel_version="Territory_FirstLight">Defeat Bulrok The Burning</string>
-	<string key="objective_enc_darkness_Hunt_Ice_Gorilla_wave_01_title" rel_version="Territory_FirstLight">Defeat Kondak The Frigid</string>
+	<string key="objective_enc_darkness_Hunt_Fire_Gorilla_wave_01_title" rel_version="Territory_FirstLight">Defeat Bulrok, The Burning</string>
+	<string key="objective_enc_darkness_Hunt_Ice_Gorilla_wave_01_title" rel_version="Territory_FirstLight">Defeat Kondak, The Frigid</string>
 	<string key="objective_enc_darkness_Hunt_Mammoth_Lightning_wave_01_title" rel_version="Territory_FirstLight">Defeat Mawthor, The Thundering</string>
 	<string key="objective_enc_darkness_Hunt_Mammoth_Nature_wave_01_title" rel_version="Territory_FirstLight">Defeat Mosantar, The Earth Eater</string>
 	<string key="objective_enc_darkness_Hunt_Primal_Lions_wave_01_title" rel_version="Territory_FirstLight">Defeat The Pride</string>

@@ -328,6 +328,12 @@
 	<string key="ui_playertitle_territorystanding_ebonscale4" rel_version="P2_MetaAchievements">Ebonscale Mythic</string>
 	<string key="ui_playertitle_territorystanding_ebonscale4_SHE" rel_version="P2_MetaAchievements">Ebonscale Mythic</string>
 	<string key="ui_playertitle_territorystanding_ebonscale4_THEY" rel_version="P2_MetaAchievements">Ebonscale Mythic</string>
+	<string key="ui_playertitle_territorystanding_edengrove3" rel_version="ConsoleLaunch">Edengrove Famous</string>
+	<string key="ui_playertitle_territorystanding_edengrove3_SHE" rel_version="ConsoleLaunch">Edengrove Famous</string>
+	<string key="ui_playertitle_territorystanding_edengrove3_THEY" rel_version="ConsoleLaunch">Edengrove Famous</string>
+	<string key="ui_playertitle_territorystanding_edengrove4" rel_version="ConsoleLaunch">Edengrove Mythic</string>
+	<string key="ui_playertitle_territorystanding_edengrove4_SHE" rel_version="ConsoleLaunch">Edengrove Mythic</string>
+	<string key="ui_playertitle_territorystanding_edengrove4_THEY" rel_version="ConsoleLaunch">Edengrove Mythic</string>
 	<string key="ui_playertitle_territorystanding_everfall3" rel_version="P2_MetaAchievements">Everfall Famous</string>
 	<string key="ui_playertitle_territorystanding_everfall3_SHE" rel_version="P2_MetaAchievements">Everfall Famous</string>
 	<string key="ui_playertitle_territorystanding_everfall3_THEY" rel_version="P2_MetaAchievements">Everfall Famous</string>
@@ -709,6 +715,9 @@
 	<string key="ui_playertitle_special_alpha_tester" rel_version="Feature_Titles">Aeternum Discoverer</string>
 	<string key="ui_playertitle_special_alpha_tester_SHE" rel_version="Feature_Titles">Aeternum Discoverer</string>
 	<string key="ui_playertitle_special_alpha_tester_THEY" rel_version="Feature_Titles">Aeternum Discoverer</string>
+	<string key="ui_playertitle_special_openbeta2024" rel_version="Feature_Titles">Aeternian Trailblazer</string>
+	<string key="ui_playertitle_special_openbeta2024_SHE" rel_version="Feature_Titles">Aeternian Trailblazer</string>
+	<string key="ui_playertitle_special_openbeta2024_THEY" rel_version="Feature_Titles">Aeternian Trailblazer</string>
 	<string key="ui_playertitle_special_preorder" rel_version="Feature_Titles">Expedition One</string>
 	<string key="ui_playertitle_special_preorder_SHE" rel_version="Feature_Titles">Expedition One</string>
 	<string key="ui_playertitle_special_preorder_THEY" rel_version="Feature_Titles">Expedition One</string>
@@ -745,6 +754,9 @@
 	<string key="ui_playertitle_territory_permanent_owner_13" rel_version="Feature_Titles">Weaver's Fen Owner</string>
 	<string key="ui_playertitle_territory_permanent_owner_13_SHE" rel_version="Feature_Titles">Weaver's Fen Owner</string>
 	<string key="ui_playertitle_territory_permanent_owner_13_THEY" rel_version="Feature_Titles">Weaver's Fen Owner</string>
+	<string key="ui_playertitle_territory_permanent_owner_14" rel_version="ConsoleLaunch">Edengrove Owner</string>
+	<string key="ui_playertitle_territory_permanent_owner_14_SHE" rel_version="ConsoleLaunch">Edengrove Owner</string>
+	<string key="ui_playertitle_territory_permanent_owner_14_THEY" rel_version="ConsoleLaunch">Edengrove Owner</string>
 	<string key="ui_playertitle_territory_permanent_owner_15" rel_version="Feature_Titles">Restless Shores Owner</string>
 	<string key="ui_playertitle_territory_permanent_owner_15_SHE" rel_version="Feature_Titles">Restless Shores Owner</string>
 	<string key="ui_playertitle_territory_permanent_owner_15_THEY" rel_version="Feature_Titles">Restless Shores Owner</string>
@@ -781,6 +793,7 @@
 	<string key="ui_playertitle_meta_helper_help_description" rel_version="Feature_Titles">Found at the bottom of a supply crate.</string>
 	<string key="ui_playertitle_meta_helper_factions_description" rel_version="Feature_Titles">Unlocked when you joined your faction.</string>
 	<string key="ui_playertitle_meta_alphatester_description" rel_version="Feature_Titles">Earned by Alpha Testing &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;New World&lt;/font&gt;.</string>
+	<string key="ui_playertitle_meta_openbeta2024_description" rel_version="Feature_Titles">Earned by participating in the Beta Test for &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;New World: Aeternum&lt;/font&gt;.</string>
 	<string key="ui_playertitle_meta_preorder_description" rel_version="Feature_Titles">Earned when you pre-ordered &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;New World&lt;/font&gt;.</string>
 	<string key="ui_playertitle_skills_description">Earned by increasing your skills.</string>
 	<string key="ui_playertitle_generic_description">Earned while playing the game.</string>
@@ -1446,5 +1459,53 @@
 	<string key="ui_playertitle_season5_battlepass_SHE" rel_version="Season_5_Perm">Guardian Hero</string>
 	<string key="ui_playertitle_season5_battlepass_THEY" rel_version="Season_5_Perm">Guardian Hero</string>
 	<string key="ui_playertitle_season5_battlepass_description" rel_version="Season_5_Perm">Earned in the free track for the Season 5 Season Pass.</string>
+	<string key="ui_playertitle_season6_battlepass" rel_version="Season_6_Perm">Gladiator of Strife</string>
+	<string key="ui_playertitle_season6_battlepass_SHE" rel_version="Season_6_Perm">Gladiator of Strife</string>
+	<string key="ui_playertitle_season6_battlepass_THEY" rel_version="Season_6_Perm">Gladiator of Strife</string>
+	<string key="ui_playertitle_season6_battlepass_description" rel_version="Season_6_Perm">Earned in the free track for the Season 6 Season Pass.</string>
+	<string key="ui_playertitle_Season6_journeychallenge1" rel_version="Season_6_Perm">Hercyne Hercules</string>
+	<string key="ui_playertitle_Season6_journeychallenge1_SHE" rel_version="Season_6_Perm">Hercyne Hercules</string>
+	<string key="ui_playertitle_Season6_journeychallenge1_THEY" rel_version="Season_6_Perm">Hercyne Hercules</string>
+	<string key="ui_playertitle_Season6_journeychallenge1_description" rel_version="Season_6_Perm">Earned by completing the Season 6 Challenge: Hercyne Hercules</string>
+	<string key="ui_playertitle_Season6_journeychallenge2" rel_version="Season_6_Perm">Notorious Killer</string>
+	<string key="ui_playertitle_Season6_journeychallenge2_SHE" rel_version="Season_6_Perm">Notorious Killer</string>
+	<string key="ui_playertitle_Season6_journeychallenge2_THEY" rel_version="Season_6_Perm">Notorious Killer</string>
+	<string key="ui_playertitle_Season6_journeychallenge2_description" rel_version="Season_6_Perm">Earned by completing the Season 6 Challenge: Notorious Killer</string>
+	<string key="ui_playertitle_Season6_journeychallenge3" rel_version="Season_6_Perm">Hercyne Completionist</string>
+	<string key="ui_playertitle_Season6_journeychallenge3_SHE" rel_version="Season_6_Perm">Hercyne Completionist</string>
+	<string key="ui_playertitle_Season6_journeychallenge3_THEY" rel_version="Season_6_Perm">Hercyne Completionist</string>
+	<string key="ui_playertitle_Season6_journeychallenge3_description" rel_version="Season_6_Perm">Earned by completing the Season 6 Challenge: Hercyne Completionist</string>
+	<string key="ui_playertitle_Season6_journeychallenge4" rel_version="Season_6_Perm">Regal Refiner</string>
+	<string key="ui_playertitle_Season6_journeychallenge4_SHE" rel_version="Season_6_Perm">Regal Refiner</string>
+	<string key="ui_playertitle_Season6_journeychallenge4_THEY" rel_version="Season_6_Perm">Regal Refiner</string>
+	<string key="ui_playertitle_Season6_journeychallenge4_description" rel_version="Season_6_Perm">Earned by completing the Season 6 Challenge: Regal Refiner</string>
+	<string key="ui_playertitle_Season6_journeychallenge5" rel_version="Season_6_Perm">Masterworker</string>
+	<string key="ui_playertitle_Season6_journeychallenge5_SHE" rel_version="Season_6_Perm">Masterworker</string>
+	<string key="ui_playertitle_Season6_journeychallenge5_THEY" rel_version="Season_6_Perm">Masterworker</string>
+	<string key="ui_playertitle_Season6_journeychallenge5_description" rel_version="Season_6_Perm">Earned by completing the Season 6 Challenge: Masterworker</string>
+	<string key="ui_playertitle_Season6_journeychallenge6" rel_version="Season_6_Perm">Repeat Ruler</string>
+	<string key="ui_playertitle_Season6_journeychallenge6_SHE" rel_version="Season_6_Perm">Repeat Ruler</string>
+	<string key="ui_playertitle_Season6_journeychallenge6_THEY" rel_version="Season_6_Perm">Repeat Ruler</string>
+	<string key="ui_playertitle_Season6_journeychallenge6_description" rel_version="Season_6_Perm">Earned by completing the Season 6 Challenge: Repeat Ruler</string>
+	<string key="ui_playertitle_Season6_journeychallenge7" rel_version="Season_6_Perm">Outpost Lord</string>
+	<string key="ui_playertitle_Season6_journeychallenge7_SHE" rel_version="Season_6_Perm">Outpost Lady</string>
+	<string key="ui_playertitle_Season6_journeychallenge7_THEY" rel_version="Season_6_Perm">Outpost Royal</string>
+	<string key="ui_playertitle_Season6_journeychallenge7_description" rel_version="Season_6_Perm">Earned by completing the Season 6 Challenge: Outpost Royal</string>
+	<string key="ui_playertitle_Season6_journeychallenge8" rel_version="Season_6_Perm">Aeternum Imperator</string>
+	<string key="ui_playertitle_Season6_journeychallenge8_SHE" rel_version="Season_6_Perm">Aeternum Imperator</string>
+	<string key="ui_playertitle_Season6_journeychallenge8_THEY" rel_version="Season_6_Perm">Aeternum Imperator</string>
+	<string key="ui_playertitle_Season6_journeychallenge8_description" rel_version="Season_6_Perm">Earned by completing the Season 6 Challenge: Aeternum Imperator</string>
+	<string key="ui_playertitle_Season6_journeychallenge9" rel_version="Season_6_Perm">Gorgon Deadeye</string>
+	<string key="ui_playertitle_Season6_journeychallenge9_SHE" rel_version="Season_6_Perm">Gorgon Deadeye</string>
+	<string key="ui_playertitle_Season6_journeychallenge9_THEY" rel_version="Season_6_Perm">Gorgon Deadeye</string>
+	<string key="ui_playertitle_Season6_journeychallenge9_description" rel_version="Season_6_Perm">Earned by completing the Season 6 Challenge: Gorgon Deadeye</string>
+	<string key="ui_playertitle_Season6_journeychallenge10" rel_version="Season_6_Perm">Drowning in Doubloons</string>
+	<string key="ui_playertitle_Season6_journeychallenge10_SHE" rel_version="Season_6_Perm">Drowning in Doubloons</string>
+	<string key="ui_playertitle_Season6_journeychallenge10_THEY" rel_version="Season_6_Perm">Drowning in Doubloons</string>
+	<string key="ui_playertitle_Season6_journeychallenge10_description" rel_version="Season_6_Perm">Earned by completing the Season 6 Challenge: Drowning in Doubloons</string>
+	<string key="ui_playertitle_Season6journey" rel_version="Season_6_Perm">Opportunistic Adventurer</string>
+	<string key="ui_playertitle_Season6journey_SHE" rel_version="Season_6_Perm">Opportunistic Adventurer</string>
+	<string key="ui_playertitle_Season6journey_THEY" rel_version="Season_6_Perm">Opportunistic Adventurer</string>
+	<string key="ui_playertitle_Season6journey_description" rel_version="Season_6_Perm">Earned for completing Chapter 4 of the Season 6 Season Journey.</string>
 </resources>
 

@@ -1,0 +1,7 @@
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="ui_ckretraction_info_title">Fortune Awaits in Cutlass Keys</string>
+	<string key="ui_ckretraction_info_content1">The foggy southwest reaches of Cutlass Keys are a Lawless place, where the “Golden Greed” curse of La Esperanza’s treasure drives fortune-hunters to murderous madness; even the closest of companions are liable to lethally betray one another.</string>
+	<string key="ui_ckretraction_info_content2">Gather Cursed Doubloons and Resources from chests, nodes, monsters, and rival players... and escape before losing them to fellow looters. Exchange extracted Doubloons for a variety of rewards at the Well of Fortune in the settlement of Spyglass Ridge. </string>
+	<string key="ui_ckretraction_info_bullet1">Some Cutlass Keys quests have been abandoned.</string>
+</resources>
+

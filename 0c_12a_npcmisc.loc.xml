@@ -1,0 +1,72 @@
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="12_RegentJinJae" rel_version="Quest_MSQ2_Revamp">Knight-Regent Jin Jae</string>
+	<string key="12_RegentJinJae_1" rel_version="Quest_MSQ2_Revamp">Queen Jin Jae</string>
+	<string key="12_RegentJinJae_title" rel_version="Quest_MSQ2_Revamp">Prydwen</string>
+	<string key="12_Lochnir" rel_version="Quest_MSQ2_Revamp">Minister Lochnir</string>
+	<string key="12_Lochnir_title" rel_version="Quest_MSQ2_Revamp">Prydwen</string>
+	<string key="12_MB_Grace_title" rel_version="Quest_MSQ2_Revamp">Pirate</string>
+	<string key="12_MB_Moira" rel_version="Quest_MSQ2_Revamp">Moira Chapman</string>
+	<string key="12_MB_Moira_title">Sage of Prydwen</string>
+	<string key="12_GaetanFortier" rel_version="Quest_MSQ2_Revamp">Gaetan Fortier</string>
+	<string key="12_GaetanFortier_title" rel_version="Quest_MSQ2_Revamp">Guard Captain</string>
+	<string key="12_AllyaMusa" rel_version="Quest_MSQ2_Revamp">Allya Musa</string>
+	<string key="12_AllyaMusa_title" rel_version="Quest_MSQ2_Revamp">Mine Foreman</string>
+	<string key="12_EliasDerit" rel_version="Quest_MSQ2_Revamp">Elias Derit</string>
+	<string key="12_EliasDerit_title" rel_version="Quest_MSQ2_Revamp">Mine Supervisor</string>
+	<string key="12_AsheDubois" rel_version="Quest_MSQ2_Revamp">Ashe Dubois</string>
+	<string key="12_AsheDubois_title" rel_version="Quest_MSQ2_Revamp">Squire of Prydwen</string>
+	<string key="12_SerPayneBennett" rel_version="Quest_MSQ2_Revamp">Ser Payne Bennett</string>
+	<string key="12_SerPayneBennett_title" rel_version="Quest_MSQ2_Revamp">Knight of Prydwen</string>
+	<string key="12_PercillaWallen" rel_version="Quest_MSQ2_Revamp">Percilla Wallen</string>
+	<string key="12_PercillaWallen_title" rel_version="Quest_MSQ2_Revamp">Farmer</string>
+	<string key="12_PercillaWallen_1">Ser Percilla Wallen</string>
+	<string key="12_PercillaWallen_title1" rel_version="Quest_MSQ2_Revamp">Knight of Prydwen</string>
+	<string key="12_OldeGeiser" rel_version="Quest_MSQ2_Revamp">Olde Geiser</string>
+	<string key="12_OldeGeiser_title" rel_version="Quest_MSQ2_Revamp">Memorial Maker</string>
+	<string key="12_EddaYonkers" rel_version="Quest_MSQ2_Revamp">Edda Koning</string>
+	<string key="12_EddaYonkers_title" rel_version="Quest_MSQ2_Revamp">Seamstress</string>
+	<string key="12_FionaMurphy" rel_version="Quest_MSQ2_Revamp">Fiona Murphy</string>
+	<string key="12_FionaMurphy_title" rel_version="Quest_MSQ2_Revamp">Minstrel of Monarch's Bluffs</string>
+	<string key="12_HugoMolina" rel_version="Quest_MSQ2_Revamp">Ser Hugo Molina</string>
+	<string key="12_HugoMolina_title" rel_version="Quest_MSQ2_Revamp">Knight of Prydwen</string>
+	<string key="12_JeongNabi" rel_version="Quest_MSQ2_Revamp">Jeong Nabi</string>
+	<string key="12_JeongNabi_title" rel_version="Quest_MSQ2_Revamp">Ma-Ma</string>
+	<string key="12_JeongIseul" rel_version="Quest_MSQ2_Revamp">Jeong Iseul</string>
+	<string key="12_JeongIseul_title" rel_version="Quest_MSQ2_Revamp">Ma-Ma</string>
+	<string key="12_HamzaKillic" rel_version="Quest_MSQ2_Revamp">Hamza Killic</string>
+	<string key="12_HamzaKillic_title" rel_version="Quest_MSQ2_Revamp">Dental Mechanic</string>
+	<string key="12_OliviaBarovier" rel_version="Quest_MSQ2_Revamp">Olivia Barovier</string>
+	<string key="12_OliviaBarovier_title" rel_version="Quest_MSQ2_Revamp">Glassmaker</string>
+	<string key="12_CemalQadir" rel_version="Quest_MSQ2_Revamp">Cemal Qadir</string>
+	<string key="12_CemalQadir_title" rel_version="Quest_MSQ2_Revamp">Master Builder of Monarch's Bluffs</string>
+	<string key="12_DayoMusa" rel_version="Quest_MSQ2_Revamp">Dayo Musa</string>
+	<string key="12_DayoMusa_title" rel_version="Quest_MSQ2_Revamp">Cleric</string>
+	<string key="12_ShaeGarcia" rel_version="Quest_MSQ2_Revamp">Shae Garcia</string>
+	<string key="12_ShaeGarcia_title" rel_version="Quest_MSQ2_Revamp">Scribe of Monarch's Bluffs</string>
+	<string key="12_DonQuixolay" rel_version="Quest_MSQ2_Revamp">Ser Diego Lopez</string>
+	<string key="12_DonQuixolay_title" rel_version="Quest_MSQ2_Revamp">Knight of Monarch's Bluffs</string>
+	<string key="12_GeertieLother" rel_version="Quest_MSQ2_Revamp">Geertie Lother</string>
+	<string key="12_GeertieLother_title" rel_version="Quest_MSQ2_Revamp">Tavern Keeper</string>
+	<string key="12_YoungeGeiser" rel_version="Quest_MSQ2_Revamp">Younge Geiser</string>
+	<string key="12_YoungeGeiser_title" rel_version="Quest_MSQ2_Revamp">Sage of Monarch's Bluffs</string>
+	<string key="12_ShazaanCortis" rel_version="Quest_MSQ2_Revamp">Shazaan Cortis</string>
+	<string key="12_ShazaanCortis_title" rel_version="Quest_MSQ2_Revamp">Miner</string>
+	<string key="12_TomiraDudek" rel_version="Quest_MSQ2_Revamp">Tomira Dudek</string>
+	<string key="12_TomiraDudek_title" rel_version="Quest_MSQ2_Revamp">Miner</string>
+	<string key="12_ChanduIyer" rel_version="Quest_MSQ2_Revamp">Chandu Iyer</string>
+	<string key="12_ChanduIyer_title" rel_version="Quest_MSQ2_Revamp">Miner</string>
+	<string key="12_KnightsDecree" rel_version="Quest_MSQ2_Revamp">Preserved Parchment</string>
+	<string key="12_KnightsDecree_InteractOverride" rel_version="Quest_MSQ2_Revamp">Read</string>
+	<string key="12_ClericLetter" rel_version="Quest_MSQ2_Revamp">Scrawled Musings</string>
+	<string key="12_ClericLetter_InteractOverride" rel_version="Quest_MSQ2_Revamp">Read</string>
+	<string key="12_AdjudicatorOwgan" rel_version="Quest_MSQ2_Revamp">Mora Owgan</string>
+	<string key="12_AdjudicatorOwgan_title" rel_version="Quest_MSQ2_Revamp">Adjudicator of Monarch's Bluffs</string>
+	<string key="12_AlchemistTuit" rel_version="Quest_MSQ2_Revamp">Gyles Tuit</string>
+	<string key="12_AlchemistTuit_title" rel_version="Quest_MSQ2_Revamp">Alchemist of Monarch's Bluffs</string>
+	<string key="12_CommanderPurcell" rel_version="Quest_MSQ2_Revamp">Rodger Purcell</string>
+	<string key="12_CommanderPurcell_title" rel_version="Quest_MSQ2_Revamp">Commander of Monarch's Bluffs</string>
+	<string key="12_InnkeepBiton" rel_version="Quest_MSQ2_Revamp">Demetrius Biton</string>
+	<string key="12_InnkeepBiton_title" rel_version="Quest_MSQ2_Revamp">Innkeeper of the Regent's Rise</string>
+	<string key="12_InnName">Regent's Rise Inn</string>
+</resources>
+

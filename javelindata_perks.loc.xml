@@ -883,9 +883,9 @@
 	<string key="BlightResistance1Desc">+5 Blight Resistance.</string>
 	<string key="BlightResistance2Desc">+10 Blight Resistance.</string>
 	<string key="BlightResistance3Desc">+15 Blight Resistance.</string>
-	<string key="Health1Desc">+3.5% max Health.</string>
-	<string key="Health2Desc">+5% max Health.</string>
-	<string key="Health3Desc">+7% max Health.</string>
+	<string key="Health1Desc">Increase max health by 3.5% of the base value.</string>
+	<string key="Health2Desc">Increase max health by 5% of the base value.</string>
+	<string key="Health3Desc">ncrease max health by 7% of the base value.</string>
 	<string key="Mana1Desc">+2% Mana regeneration.</string>
 	<string key="Mana2Desc">+3% Mana regeneration.</string>
 	<string key="Mana3Desc">+5% Mana regeneration.</string>
@@ -1124,7 +1124,7 @@
 	<string key="PerkID_Ability_Hatchet_FeralRush_Name">Crippling Feral Rush</string>
 	<string key="PerkID_Ability_Hatchet_FeralRush_Description">When Feral Rush hits, cause a {[-0.100000 * -100 * {perkMultiplier}]}% slow for {[3.000000]}s and does +{[0.050000 * 100 * {perkMultiplier}]}% more damage.</string>
 	<string key="PerkID_Ability_Hatchet_Berserk_Name">Keen Berserk</string>
-	<string key="PerkID_Ability_Hatchet_Berserk_Description">Gain {[0.050000 * 100 * {perkMultiplier}]}% critical chance and +{[0.050000 * 100 * {perkMultiplier}]}% more crit damage while berserk is active.</string>
+	<string key="PerkID_Ability_Hatchet_Berserk_Description">Gain +{[0.050000 * 100 * {perkMultiplier}]}% critical chance and +{[0.050000 * 100 * {perkMultiplier}]}% more crit damage while berserk is active.</string>
 	<string key="PerkID_Ability_Hatchet_RagingTorrent_Name">Refreshing Torrent</string>
 	<string key="PerkID_Ability_Hatchet_RagingTorrent_Description">Each attack of Raging Torrent reduces all Hatchet cooldowns by {[-0.010000 * -100 * {perkMultiplier}]}% ({[0.200000]}s cooldown).</string>
 	<string key="PerkID_Ability_Hatchet_Rending_Throw_Name">Empowering Rending Throw</string>
@@ -1152,7 +1152,7 @@
 	<string key="PerkID_Ability_Musket_ShootersStance_Name">Empowering Shooter's Stance</string>
 	<string key="PerkID_Ability_Musket_ShootersStance_Description">Hitting a target while in Shooter's Stance grants a stack of Empower, increasing damage by {[0.040000 * 100 * {perkMultiplier}]}% for {[6.000000]}s. Effect is removed when stance is exited (Max {[4.000000]} stacks).</string>
 	<string key="PerkID_Ability_Musket_StoppingPower_Name">Refreshing Stopping Power</string>
-	<string key="PerkID_Ability_Musket_StoppingPower_Description">Stopping Power hits reduces all other trapper skill cooldowns by {[-0.050000 * -100 * {perkMultiplier}]}%.</string>
+	<string key="PerkID_Ability_Musket_StoppingPower_Description">Stopping Power hits reduces all other trapper skill cooldowns by {[-0.050000 * -100 * {perkMultiplier}]}% ({[0.500000]}s cooldown).</string>
 	<string key="PerkID_Ability_Musket_Traps_Name">Accelerating Traps</string>
 	<string key="PerkID_Ability_Musket_Traps_Description">+{[0.035000 * 100 * {perkMultiplier}]}% movement speed for {[5.000000]}s after deploying a trap (Does not stack). Traps now apply Bleed for {[-0.017500 * -100 * {perkMultiplier}]}% of weapon damage for {[5.000000]}s.</string>
 	<string key="PerkID_Ability_Musket_StickyBomb_Name">Mending Sticky Bombs</string>
@@ -1184,7 +1184,7 @@
 	<string key="PerkID_Ability_Rapier_Tondo_Name">Keen Tondo</string>
 	<string key="PerkID_Ability_Rapier_Tondo_Description">+{[0.020000 * 100 * {perkMultiplier}]}% critical chance against targets affected by Tondo's Bleed. If this perk is on a weapon, Tondo also inflicts {[-0.100000 * -100]}% weaken for {[10.000000]}s. </string>
 	<string key="PerkID_Ability_Rapier_FlourishAndFinish_Name">Deadly Flourish</string>
-	<string key="PerkID_Ability_Rapier_FlourishAndFinish_Description">Flourish deals +{[0.100000 * 100 * {perkMultiplier}]}% base damage.</string>
+	<string key="PerkID_Ability_Rapier_FlourishAndFinish_Description">Flourish deals +{[0.100000 * 100 * {perkMultiplier}]}% more base damage.</string>
 	<string key="PerkID_Ability_Rapier_Flurry_Name">Leeching Flurry</string>
 	<string key="PerkID_Ability_Rapier_Flurry_Description">Heal for {[0.100000 * 100 * {perkMultiplier}]}% of the damage dealt by Flurry. Gain {[0.500000]}s of Invulnerability when you use Flurry. </string>
 	<string key="PerkID_Ability_Rapier_Riposte_Name">Sundering Riposte</string>
@@ -1210,15 +1210,15 @@
 	<string key="PerkID_Ability_FireStaff_MeteorShower_Name">Empowering Meteor Shower</string>
 	<string key="PerkID_Ability_FireStaff_MeteorShower_Description">When Meteor Shower hits, gain {[0.010000 * 100 * {perkMultiplier}]}% Empower for {[6.000000]}s (Max {[10.000000]} stacks).</string>
 	<string key="PerkID_Ability_FireStaff_Fireball_Name">Empowering Fireball</string>
-	<string key="PerkID_Ability_FireStaff_Fireball_Description">Fireball impact deals +{[0.050000 * 100 * {perkMultiplier}]}% damage to targets above {[50.000000]}% Health.</string>
+	<string key="PerkID_Ability_FireStaff_Fireball_Description">Fireball impact deals +{[0.020000 * 100 * {perkMultiplier}]}% damage, and an additional {[0.030000 * 100 * {perkMultiplier}]}% to targets above {[50.000000]}% Health.</string>
 	<string key="PerkID_Ability_FireStaff_Incinerate_Name">Empowering Incinerate</string>
 	<string key="PerkID_Ability_FireStaff_Incinerate_Description">Incinerate deals +{[0.040000 * 100 * {perkMultiplier}]}% damage to targets with Burn.</string>
 	<string key="PerkID_Ability_FireStaff_Flamethrower_Name">Accelerating Flamethrower</string>
 	<string key="PerkID_Ability_FireStaff_Flamethrower_Description">Using flamethrower against a target with {[4.000000]} stacks of smolder grants Haste, increasing movement speed by 20% for {[2.000000]}s. Burn from Flamethrower lasts {[0.100000 * 100 * {perkMultiplier}]}% longer.</string>
 	<string key="PerkID_Ability_FireStaff_BurnOut_Name">Fortifying Burnout</string>
 	<string key="PerkID_Ability_FireStaff_BurnOut_Description">Burnout applies a stack of {[0.030000 * 100 * {perkMultiplier}]}% Fortify for {[5.000000]}s for each target hit (Max {[3.000000]} stacks).</string>
-	<string key="PerkID_Ability_Sword_ReverseStab_Name">Contagious Reverse Stab</string>
-	<string key="PerkID_Ability_Sword_ReverseStab_Description">Hitting a target transfers {[2.000000]} active debuffs from yourself to the target. Reverse Stab deals +{[0.050000 * 100 * {perkMultiplier}]}% damage.</string>
+	<string key="PerkID_Ability_Sword_ReverseStab_Name">Contagious Upheaval</string>
+	<string key="PerkID_Ability_Sword_ReverseStab_Description">Hitting a target transfers {[2.000000]} active debuffs from yourself to the target. Upheaval deals +{[0.050000 * 100 * {perkMultiplier}]}% damage.</string>
 	<string key="PerkID_Ability_Sword_WhirlingBlade_Name">Empowering Whirling Blade</string>
 	<string key="PerkID_Ability_Sword_WhirlingBlade_Description">If {[2.000000]} or more enemies are within its radius while performing a Whirling Blade attack, gain {[0.045000 * 100] * {perkMultiplier}]}% base damage for each nearby target (Max {[5.000000]} Targets).</string>
 	<string key="PerkID_Ability_Sword_LeapingStrike_Name">Empowering Leaping Strike</string>
@@ -1246,11 +1246,11 @@
 	<string key="PerkID_Ability_IceGauntlet_UnendingThaw_Name">Unending Thaw</string>
 	<string key="PerkID_Ability_IceGauntlet_UnendingThaw_Description">Ice Storm deals +{[0.010000 * 100 * {perkMultiplier}]}% damage. Frost effects remains on enemies for 2s after exiting Ice Storm.</string>
 	<string key="PerkID_Ability_IceGauntlet_IcedRefresh_Name">Empowered Ice Spike</string>
-	<string key="PerkID_Ability_IceGauntlet_IcedRefresh_Description">Ice Spike deals +{[0.100000 * 100 * {perkMultiplier}]}% more damage to rooted foes.</string>
+	<string key="PerkID_Ability_IceGauntlet_IcedRefresh_Description">Ice Spikes deal +{[0.100000 * 100 * {perkMultiplier}]}% more damage to rooted foes.</string>
 	<string key="PerkID_Ability_IceGauntlet_DeadlyFrost_Name">Deadly Frost</string>
 	<string key="PerkID_Ability_IceGauntlet_DeadlyFrost_Description">While the Frigid Showers upgrade is active, Ice Shower's Frostbite deals {[-0.080000 * -100]}% weapon damage per second to affected enemies. Reduce Ice Shower's cooldown by {[-0.050000 * -100 * {perkMultiplier}]}%</string>
 	<string key="PerkID_Ability_IceGauntlet_PylonBurst_Name">Pylon Burst</string>
-	<string key="PerkID_Ability_IceGauntlet_PylonBurst_Description">Ice Pylon deals +{[0.015000 * 100 * {perkMultiplier}]}% damage and a burst of damage to enemies within a {[3.000000]}m radius every 2s.</string>
+	<string key="PerkID_Ability_IceGauntlet_PylonBurst_Description">Ice Pylon deals +{[0.015000 * 100 * {perkMultiplier}]}% more damage and triggers a burst dealing {[0.500000 * 100]}% weapon damage to to enemies within a {[3.000000]}m radius every 2s.</string>
 	<string key="PerkID_Ability_IceGauntlet_HealingTomb_Name">Healing Tomb</string>
 	<string key="PerkID_Ability_IceGauntlet_HealingTomb_Description">Heal for {[0.050000 * 100 * {perkMultiplier}]}% of your base Health after Entomb ends.</string>
 	<string key="PerkID_Ability_VoidGauntlet_VoidBlade_Lifesteal_Name">Voracious Blade</string>
@@ -1377,7 +1377,7 @@
 	<string key="PerkID_Armor_Engineer_Name">Engineer Expertise</string>
 	<string key="PerkID_Armor_Engineer_Description">+{[2.000000 * {perkMultiplier}]} Engineer Crafted Item Quality.</string>
 	<string key="PerkID_Armor_Jeweler_Name">Jewelcrafter Expertise</string>
-	<string key="PerkID_Armor_Jeweler_Description">+{[2.000000 * {perkMultiplier}]} Jewelcrafter Crafted Item Quality.</string>
+	<string key="PerkID_Armor_Jeweler_Description">+{[2.000000 * {perkMultiplier}]} Jewelcrafter Crafted Item Quality and +{[200.000000 / 100 * {perkMultiplier}]}% yield while Cutting and Fusing Gems.</string>
 	<string key="PerkID_Armor_Weaponsmith_Name">Weaponsmith Expertise</string>
 	<string key="PerkID_Armor_Weaponsmith_Description">+{[2.000000 * {perkMultiplier}]} Weaponsmith Crafted Item Quality.</string>
 	<string key="PerkID_Armor_StonecutterYieldName">Stonecutting Accumulation</string>
@@ -1409,9 +1409,9 @@
 	<string key="PerkID_Amulet_DefStrike_Name">Strike Protection</string>
 	<string key="PerkID_Amulet_DefStrike_Description">Receive {[0.050000 * 100 * {perkMultiplier}]}% less Strike damage.</string>
 	<string key="PerkID_Amulet_HP_Name">Health</string>
-	<string key="PerkID_Amulet_HP_Description">+{[0.030000 * 100 * {perkMultiplier}]}% max Health.</string>
+	<string key="PerkID_Amulet_HP_Description">Increase max health by {[0.030000 * 100 * {perkMultiplier}]}% of the base value.</string>
 	<string key="PerkID_Amulet_StamOnLow_Name">Stamina Recovery</string>
-	<string key="PerkID_Amulet_StamOnLow_Description">When you are hit while below 50% Health, gain {[50.000000 * {perkMultiplier}]} Stamina ({[30.000000]}s cooldown. Does not trigger off persistent damage, DoT effects, or blocked attacks).</string>
+	<string key="PerkID_Amulet_StamOnLow_Description">When you are hit while below 50% Health, gain {[30.000000 * {perkMultiplier}]} Stamina ({[45.000000]}s cooldown. Does not trigger off persistent damage, DoT effects, or blocked attacks).</string>
 	<string key="PerkID_Amulet_ManaOnLow_Name">Mana Recovery</string>
 	<string key="PerkID_Amulet_ManaOnLow_Description">When you are hit while below 50% Health, gain {[0.500000 * 100 * {perkMultiplier}]} Mana ({[30.000000]}s cooldown. Does not trigger off persistent damage, DoT effects, or blocked attacks).</string>
 	<string key="PerkID_Amulet_RemoveOnLow_Name">Purify</string>
@@ -1473,7 +1473,7 @@
 	<string key="PerkID_Ring_MaxStamina_Name">Hearty</string>
 	<string key="PerkID_Ring_MaxStamina_Description">+{[0.050000 * 100 * {perkMultiplier}]}% max Stamina.</string>
 	<string key="PerkID_Ring_MaxMana_Name">Brilliant</string>
-	<string key="PerkID_Ring_MaxMana_Description">+{[0.100000 * 100 * {perkMultiplier}]}% max Mana.</string>
+	<string key="PerkID_Ring_MaxMana_Description">Increase max mana by {[0.100000 * 100 * {perkMultiplier}]}% of the base value.</string>
 	<string key="PerkID_Ring_Healing_Name">Sacred</string>
 	<string key="PerkID_Ring_Healing_Description">+{[0.030000 * 100 * {perkMultiplier}]}% outgoing healing efficiency.</string>
 	<string key="PerkID_Earring_HealthRegen_Name">Regenerating</string>
@@ -1497,7 +1497,7 @@
 	<string key="PerkID_Earring_GainOnPotion_Name">Duplicating Toast</string>
 	<string key="PerkID_Earring_GainOnPotion_Description">When you drink a potion, {[0.050000 * 100 * {perkMultiplier}]}% chance it doesn't consume.</string>
 	<string key="PerkID_Earring_PotionCDR_Name">Refreshing Toast</string>
-	<string key="PerkID_Earring_PotionCDR_Description">Consumable cooldown {[-0.050000 * -100 * {perkMultiplier}]}% faster.</string>
+	<string key="PerkID_Earring_PotionCDR_Description">Consumable's cooldown is reduced by {[-0.050000 * -100 * {perkMultiplier}]}%.</string>
 	<string key="PerkID_Earring_Arcanist_Name">Arcanist Mastery</string>
 	<string key="PerkID_Earring_Arcanist_Description">+{[5.000000 * {perkMultiplier}]} to Arcanist Crafted Item Quality.</string>
 	<string key="PerkID_Earring_Armorer_Name">Armorer Mastery</string>
@@ -1626,6 +1626,18 @@
 	<string key="PerkID_Gem_Luck4_Description">+{[50.000000 * 0.01]}% chance at rare items from chests and monsters.</string>
 	<string key="PerkID_Weapon_Attunement_Fire_Name" rel_version="Feature_Dungeon_Mutators">Flame Attunement</string>
 	<string key="PerkID_Weapon_Attunement_Fire_Description" rel_version="Feature_Dungeon_Mutators">Attacks deal +{[-0.140000 * -100]}% weapon damage as Fire ({[1.500000]}s cooldown. Does not trigger off persistent damage or DoT effects).</string>
+	<string key="PerkID_Weapon_HercyneRaid_1_Name" rel_version="Season7Perks">Distained Infliction</string>
+	<string key="PerkID_Weapon_HercyneRaid_1_Description" rel_version="Season7Perks">Potency of outgoing DoTs are increased by {[0.150000 * 100]}%. Hitting a target inflicted by your DoTs will extend the duration of them by {[0.050000 * 100]}% ({[1.000000]}s Cooldown.) PvE Only: Deal +{[0.050000 * 100]}% base damage against hostile AI inflicted with DoTs.</string>
+	<string key="PerkID_Armor_HercyneRaid_1_Name" rel_version="Season7Perks">Hasted Vigor</string>
+	<string key="PerkID_Armor_HercyneRaid_1_Description" rel_version="Season7Perks">Potency of incoming damage over time effects reduced by 7% per armor piece with this perk, and taking a hit whle inflicted with a DoT will grant {[0.100000 * 100]}% haste for {[5.000000]}s.</string>
+	<string key="PerkID_Jewelry_HercyneRaid_1_Name" rel_version="Season7Perks">Unimpeded</string>
+	<string key="PerkID_Jewelry_HercyneRaid_1_Description" rel_version="Season7Perks">Potency of slows on you are reduced by 30% as long as you have not been exhausted within the last {[10.000000]}s.</string>
+	<string key="PerkID_Weapon_PvPZone_1_Name" rel_version="Season7Perks">Penetrating the Empowered</string>
+	<string key="PerkID_Weapon_PvPZone_1_Description" rel_version="Season7Perks">PvP Only: Critial hits against empowered players will have {[0.100000 * 100]}% armor penetration and reduce the duration of empowers on them by {[-0.070000 * -100]}%. ({[1.000000]}s reduction cooldown)</string>
+	<string key="PerkID_Armor_PvPZone_1_Name" rel_version="Season7Perks">Thorny Reflection</string>
+	<string key="PerkID_Armor_PvPZone_1_Description" rel_version="Season7Perks">PvP Only: Taking a critical hit will reflect nature damage back at the target equal to {[-0.070000 * -100]}% of your weapon damage, and reduce the attacker's crit chance by {[-0.100000 * -100]}% for {[3.000000]}s. ({[1.000000]}s Cooldown)</string>
+	<string key="PerkID_Jewelry_PvPZone_1_Name" rel_version="Season7Perks">Empowered Cleave</string>
+	<string key="PerkID_Jewelry_PvPZone_1_Description" rel_version="Season7Perks">PvP Only: Hitting {[2.000000]} players with a single melee attack grants empower, increasing damage of the next {[2.000000]} hits within {[5.000000]}s by {[0.200000 * 100]}% ({[3.000000]}s Activation Cooldown)</string>
 	<string key="PerkID_Weapon_Attunement_Ice_Name" rel_version="Feature_Dungeon_Mutators">Frost Attunement</string>
 	<string key="PerkID_Weapon_Attunement_Ice_Description" rel_version="Feature_Dungeon_Mutators">Attacks deal +{[-0.140000 * -100]}% weapon damage as Ice ({[1.500000]}s cooldown. Does not trigger off persistent damage or DoT effects).</string>
 	<string key="PerkID_Weapon_Attunement_Lightning_Name" rel_version="Feature_Dungeon_Mutators">Shock Attunement</string>
@@ -1701,7 +1713,7 @@
 	<string key="PerkID_Ability_Flail_Blast_Name" rel_version="Weapon_Flail">Mending Vortex</string>
 	<string key="PerkID_Ability_Flail_Blast_Description" rel_version="Weapon_Flail">Every {[2.000000]} hits with Vortex will heal you for {[0.050000 * 100 * {perkMultiplier}]}% of the base weapon damage.</string>
 	<string key="PerkID_Ability_Flail_Burst_Name" rel_version="Weapon_Flail">Powerful Eruption</string>
-	<string key="PerkID_Ability_Flail_Burst_Description" rel_version="Weapon_Flail">Eruption hits deal {[0.020000 * 100 * {perkMultiplier}]}% increased damage per stack of Impairment on the target ({[3.000000]} stacks max).</string>
+	<string key="PerkID_Ability_Flail_Burst_Description" rel_version="Weapon_Flail">Eruption hits deal {[0.020000 * 100 * {perkMultiplier}]}% increased damage per stack of Impairment on the target.</string>
 	<string key="PerkID_Ability_Flail_Charge_Name" rel_version="Weapon_Flail">Accelerating Barrage</string>
 	<string key="PerkID_Ability_Flail_Charge_Description" rel_version="Weapon_Flail">After hitting a target with Barrage's main attack, gain {[0.050000 * 100 * {perkMultiplier}]}% haste for {[5.000000]}s.</string>
 	<string key="PerkID_Ability_Flail_Trip_Name" rel_version="Weapon_Flail">Thwarting Trip</string>
@@ -1759,7 +1771,7 @@
 	<string key="PerkID_PvP_Ring_DmgPerTargetBuff_Name" rel_version="PvP_Rewards_Track">Invigorated Punishment</string>
 	<string key="PerkID_PvP_Ring_DmgPerTargetBuff_Description" rel_version="PvP_Rewards_Track">PvP Only: Abilities deal {[0.010000 * 100]}% bonus damage per buff on a player (Max {[10.000000]} buffs).</string>
 	<string key="PerkID_PvP_Amulet_DodgeSuccess_DMG_Name" rel_version="PvP_Rewards_Track">Shirking Empower</string>
-	<string key="PerkID_PvP_Amulet_DodgeSuccess_DMG_Description" rel_version="PvP_Rewards_Track">PvP Only: After dodging an attack, gain Empower, increasing damage dealt by {[0.000000 * 100]}% for {[10.000000]}s (Duration refreshes when a new stack is applied. Max {[3.000000]} stacks).</string>
+	<string key="PerkID_PvP_Amulet_DodgeSuccess_DMG_Description" rel_version="PvP_Rewards_Track">PvP Only: After dodging an attack, gain Empower, increasing damage dealt by {[0.070000 * 100]}% for {[10.000000]}s (Duration refreshes when a new stack is applied. Max {[3.000000]} stacks).</string>
 	<string key="perk_weapon_bonus_info">\nThis perk is stronger on a weapon.</string>
 	<string key="PerkID_Tools_MoteFire_Name">Fire Alignment</string>
 	<string key="PerkID_Tools_MoteEarth_Name">Earth Alignment</string>
@@ -1890,7 +1902,7 @@
 	<string key="PerkID_RuneglassGem_ThreatSub_Melee_Name" rel_version="Territory_Brimstone_Sands">Punishing Calm</string>
 	<string key="PerkID_RuneglassGem_ThreatSub_Melee_Description" rel_version="Territory_Brimstone_Sands">Generate {[-0.080000 * -100 * {perkMultiplier}]}% less threat and deal {[0.015000 * 100]}% more damage to taunted foes. Your melee attacks deal +{[0.010000 * 100]}% damage.</string>
 	<string key="PerkID_RuneglassGem_ThreatAdd_Ranged_Name" rel_version="Territory_Brimstone_Sands">Sighted Taunt</string>
-	<string key="PerkID_RuneglassGem_ThreatAdd_Ranged_Description" rel_version="Territory_Brimstone_Sands">Generate {[0.000000 * 100 * {perkMultiplier}]}% more threat. Your ranged attacks deal +{[0.020000 * 100]}% damage.</string>
+	<string key="PerkID_RuneglassGem_ThreatAdd_Ranged_Description" rel_version="Territory_Brimstone_Sands">Generate {[3.000000 * 100 * {perkMultiplier}]}% more threat. Your ranged attacks deal +{[0.020000 * 100]}% damage.</string>
 	<string key="PerkID_RuneglassGem_ThreatSub_Ranged_Name" rel_version="Territory_Brimstone_Sands">Sighted Calm</string>
 	<string key="PerkID_RuneglassGem_ThreatSub_Ranged_Description" rel_version="Territory_Brimstone_Sands">Generate {[-0.080000 * -100 * {perkMultiplier}]}% less threat and deal {[0.015000 * 100]}% more damage to taunted foes. Your ranged attacks deal +{[0.010000 * 100]}% damage.</string>
 	<string key="PerkID_RuneglassGem_NatureAdd_Heal_Name" rel_version="Territory_Brimstone_Sands">Leeching Arboreal</string>
@@ -2518,13 +2530,13 @@
 	<string key="PerkID_Earring_OnHeartHeal_Name">Healing Heart</string>
 	<string key="PerkID_Earring_OnHeartHeal_Desc">On Heartrune: Heal for {[0.100000 * 100 * {perkMultiplier}]}% your max health.</string>
 	<string key="PerkID_Ring_OnHealHot_Name">Healing Breeze</string>
-	<string key="PerkID_Ring_OnHealHot_Desc">On Heal with Ability: For {[6.000000]}s heal target for {[0.070000 * 100 * {perkMultiplier}]}% weapon damage each second ({[10.000000]}s cooldown).</string>
+	<string key="PerkID_Ring_OnHealHot_Desc">On Heal: For {[6.000000]}s heal target for {[0.080000 * 100 * {perkMultiplier}]}% weapon damage each second. ({[10.000000]}s cooldown per target, healing breeze base potency reduced by 35% if applied to self).</string>
 	<string key="PerkID_Ring_OnRemoveHeal_Name">Purifying</string>
 	<string key="PerkID_Ring_OnRemoveHeal_Desc">When you remove a debuff from an ally heal for {[0.100000 * 100 * {perkMultiplier}]}% weapon damage.</string>
 	<string key="PerkID_Ring_OnHeartRemoveBuffs_Name">Purifying Heart</string>
 	<string key="PerkID_Ring_OnHeartRemoveBuffs_Desc">On Heartrune: Lose all debuffs.</string>
 	<string key="PerkID_Armor_Health_Name">Health</string>
-	<string key="PerkID_Armor_Health_Desc">+{[0.008000 * 100 * {perkMultiplier}]}% max health.</string>
+	<string key="PerkID_Armor_Health_Desc">Increase max health by {[0.008000 * 100 * {perkMultiplier}]}% of the base value.</string>
 	<string key="PerkID_Armor_DefBasic_Name">Enchanted Ward</string>
 	<string key="PerkID_Armor_DefBasic_Desc">-{[0.020000 * 100 * {perkMultiplier}]}% damage from light and heavy attacks.</string>
 	<string key="PerkID_Armor_DefGrit_Name">Grit Ward</string>
@@ -2588,13 +2600,13 @@
 	<string key="PerkID_Artifact_Set1_TowerShieldPerk_Name">Chromatic Ward</string>
 	<string key="PerkID_Artifact_Set1_TowerShieldPerk_Desc">You take {[0.250000 * 100]}% less damage from all elemental sources.</string>
 	<string key="PerkID_Artifact_Set1_Firestaff_Name">Inner Power</string>
-	<string key="PerkID_Artifact_Set1_Firestaff_Desc">If your strength attribute is higher, replace your base weapon scaling with strength.</string>
-	<string key="PerkID_Artifact_Set1_FirestaffPerk_Desc">+{[0.200000 * 100]}% damage when you hit a target within {[15.000000]}m. </string>
+	<string key="PerkID_Artifact_Set1_Firestaff_Desc">If your strength attribute is higher, replace your base weapon scaling with strength. +{[0.150000 * 100]}% damage when you hit a target within {[15.000000]}m.</string>
+	<string key="PerkID_Artifact_Set1_FirestaffPerk_Desc">+{[0.150000 * 100]}% damage when you hit a target within {[15.000000]}m. </string>
 	<string key="PerkID_Artifact_Set1_FirestaffPerk_Name">Hellfire's Fury</string>
 	<string key="PerkID_Artifact_Set1_Lifestaff_Name" rel_version="Feature_Artifacts_Set2">Nature's Vengeance</string>
 	<string key="PerkID_Artifact_Set1_Lifestaff_Desc" rel_version="Feature_Artifacts_Set2">When you successfully heal gain {[0.010000 * 100]}% dmg for {[10.000000]}s (Stacks to {[20.000000]}).</string>
 	<string key="PerkID_Artifact_Set1_Spear_Name">Sting</string>
-	<string key="PerkID_Artifact_Set1_Spear_Desc">Javelin now does {[1.000000 * 100]}% weapon damage and pulls targets towards you. But the default cooldown is increased by 33%.</string>
+	<string key="PerkID_Artifact_Set1_Spear_Desc">Javelin now does {[1.000000 * 100]}% weapon damage and pulls targets towards you. But the default cooldown is increased to 20s and can only be reduced by conditional cooldown reduction.</string>
 	<string key="PerkID_Artifact_Set1_Rapier_Name">Finisher Harmony</string>
 	<string key="PerkID_Artifact_Set1_Rapier_Desc">Attacks against Bleeding targets deal {[0.150000 * 100]}% more damage, and reduce Flourish's cooldown by {[-0.050000 * -100]}% ({[1.000000]}s cooldown, works on both weapons).</string>
 	<string key="PerkID_Artifact_Set1_IceGauntlet_Name" rel_version="Feature_Artifacts_Set2">Chilling End</string>
@@ -2643,11 +2655,11 @@
 	<string key="PerkID_Artifact_Set1_MediumHands_Desc">When you hit a foe that is below half health, transfer one debuff ({[3.000000]}s cooldown).</string>
 	<string key="PerkID_Artifact_Set1_MediumLegs_Name">+25 Amplify (top 2 attributes):</string>
 	<string key="PerkID_Artifact_Set1_MediumLegs_SecondaryName">Well Rounded</string>
-	<string key="PerkID_Artifact_Set1_MediumLegs_Desc">+10 to all attributes.</string>
+	<string key="PerkID_Artifact_Set1_MediumLegs_Desc">+{[0.785000 * {attributePerkMultiplier}]} to all attributes.</string>
 	<string key="PerkID_Artifact_Set1_MediumFeet_Name" rel_version="Feature_Artifacts_Set2">Speedy</string>
 	<string key="PerkID_Artifact_Set1_MediumFeet_Desc" rel_version="Feature_Artifacts_Set2">Base duration of hastes on you is increased by {[0.500000 * 100]}%, and deal {[0.100000 * 100]}% more base damage while hasted.</string>
 	<string key="PerkID_Artifact_Set1_LightHead_Name">Brilliance</string>
-	<string key="PerkID_Artifact_Set1_LightHead_Desc">+{[1.000000 * 100]}% max mana.</string>
+	<string key="PerkID_Artifact_Set1_LightHead_Desc">Increase max mana by {[1.000000 * 100]}% of the base value.</string>
 	<string key="PerkID_Artifact_Set1_LightChest_Name">Weightless</string>
 	<string key="PerkID_Artifact_Set1_LightChest_Desc">This armor is weightless.</string>
 	<string key="PerkID_Artifact_Set1_LightHands_Name" rel_version="Feature_Artifacts_Set2">Quickdraw</string>
@@ -2670,24 +2682,40 @@
 	<string key="PerkID_Armor_MiningYield_Description">+{[0.015000 * 100 * {perkMultiplier}]}% resources while Mining.</string>
 	<string key="PerkID_Armor_SkinningYield_Name">Skinning Yield</string>
 	<string key="PerkID_Armor_SkinningYield_Description">+{[0.015000 * 100 * {perkMultiplier}]}% resources while Skinning.</string>
+	<string key="PerkID_Artifact_Set2_HeavyChest_Name" rel_version="Feature_Artifacts_S6">Survive</string>
+	<string key="PerkID_Artifact_Set2_HeavyChest_Desc" rel_version="Feature_Artifacts_S6">If you get hit while your Health is below 50%, gain {[50.000000]} stamina, lose all debuffs, and gain a Potion Surge that will recharge your next healing potion instantly. ({[120.000000]}s Cooldown).</string>
 	<string key="PerkID_Artifact_Set2_HeavyHands_Name" rel_version="Feature_Artifacts_S5">Charged</string>
-	<string key="PerkID_Artifact_Set2_HeavyHands_Desc" rel_version="Feature_Artifacts_S5">Whenever you take damage gain an Empower charge that increases the damage of your next attack by 3% (max 10 charges.)</string>
+	<string key="PerkID_Artifact_Set2_HeavyHands_Desc" rel_version="Feature_Artifacts_S5">Whenever you take damage, gain an Empower charge that increases the damage of your next attack by {[0.020000 * 100]}% (max {[10.000000]} charges.)</string>
 	<string key="PerkID_Artifact_Set2_HeavyLegs_Name" rel_version="Feature_Artifacts_S5">Steady Foundation</string>
-	<string key="PerkID_Artifact_Set2_HeavyLegs_Desc" rel_version="Feature_Artifacts_S5">When not in heavy loadout gain {[0.200000 * 100]}% more max health.</string>
+	<string key="PerkID_Artifact_Set2_HeavyLegs_Desc" rel_version="Feature_Artifacts_S5">When not in heavy loadout increase max health by {[0.200000 * 100]}% of the base value.</string>
 	<string key="PerkID_Artifact_Set2_MediumChest_Name" rel_version="Feature_Artifacts_S5">Nature's Blessing</string>
-	<string key="PerkID_Artifact_Set2_MediumChest_Desc" rel_version="Feature_Artifacts_S5">Empower expires {[-2.000000 * -100]}% faster but you deal {[0.200000 * 100]}% more damage.</string>
+	<string key="PerkID_Artifact_Set2_MediumChest_Desc" rel_version="Feature_Artifacts_S5">Limited duration Empowers expire instantly, and durationless Empower's potency is reduced by 50%, but you always deal {[0.200000 * 100]}% more base damage.</string>
+	<string key="PerkID_Artifact_Set2_MediumHands_Name" rel_version="Feature_Artifacts_S6">Ghostly Embrace</string>
+	<string key="PerkID_Artifact_Set2_MediumHands_Desc" rel_version="Feature_Artifacts_S6">When you hit an Empowered foe, dispell {[2.000000]} of their Empowers and give yourself {[10.000000]}s of {[0.100000 * 100]}% Empower. ({[4.000000]}s cooldown).</string>
+	<string key="PerkID_Artifact_Set2_MediumLegs_Name" rel_version="Feature_Artifacts_S6">Magician's Boon</string>
+	<string key="PerkID_Artifact_Set2_MediumLegs_Desc" rel_version="Feature_Artifacts_S6">If in Medium equip weight deal {[0.150000 * 100]}% more Elemental damage.</string>
+	<string key="PerkID_Artifact_Set2_LightHead_Name" rel_version="Feature_Artifacts_S6">Desperate Energy</string>
+	<string key="PerkID_Artifact_Set2_LightHead_Desc" rel_version="Feature_Artifacts_S6">If you hit an enemy while your mana is below {[50.000000]}%, gain {[4.000000]}s of {[0.250000 * 100]}% increase damage. ({[10.000000]}s cooldown).</string>
 	<string key="PerkID_Artifact_Set2_LightFeet_Name" rel_version="Feature_Artifacts_S5">Ambush</string>
 	<string key="PerkID_Artifact_Set2_LightFeet_Desc" rel_version="Feature_Artifacts_S5">deal 15% more damage and 25% critical chance as long as you haven't hit the target within 20s</string>
 	<string key="PerkID_Artifact_Set2_Hatchet_Name" rel_version="Feature_Artifacts_S5">Corruption</string>
-	<string key="PerkID_Artifact_Set2_Hatchet_Desc" rel_version="Feature_Artifacts_S5">Debuffs last {[0.250000 * 100]}% longer. (Works on both weapons)</string>
+	<string key="PerkID_Artifact_Set2_Hatchet_Desc" rel_version="Feature_Artifacts_S5">Debuffs last {[0.200000 * 100]}% longer. (Works on both weapons)</string>
 	<string key="PerkID_Artifact_Set2_HatchetPerk_Name" rel_version="Feature_Artifacts_S5">Defile</string>
 	<string key="PerkID_Artifact_Set2_HatchetPerk_Desc" rel_version="Feature_Artifacts_S5">Deals {[0.020000 * 100]}% more damage per debuff on a target. ({[5.000000]} stacks max) </string>
+	<string key="PerkID_Artifact_Set2_Warhammer_Name" rel_version="Feature_Artifacts_S6">Consume</string>
+	<string key="PerkID_Artifact_Set2_Warhammer_Desc" rel_version="Feature_Artifacts_S6">{[0.250000 * 100]}% life steal vs knocked down foes.</string>
 	<string key="PerkID_Artifact_Set2_Greataxe_Name" rel_version="Feature_Artifacts_S5">Momentum</string>
 	<string key="PerkID_Artifact_Set2_Greataxe_Desc" rel_version="Feature_Artifacts_S5">Successful attacks gain 3% movement speed for 3s. (Works on both weapons and stacks 10 times.) </string>
 	<string key="PerkID_Artifact_Set2_GreataxePerk_Name" rel_version="Feature_Artifacts_S5">Endless Spin</string>
 	<string key="PerkID_Artifact_Set2_GreataxePerk_Desc" rel_version="Feature_Artifacts_S5">Whirlwind no longer needs to hit targets to continue spins, and can spin up to 12 times</string>
 	<string key="PerkID_Artifact_Set2_Spear_Name" rel_version="Feature_Artifacts_S5">Poison Tipped</string>
-	<string key="PerkID_Artifact_Set2_Spear_Desc" rel_version="Feature_Artifacts_S5">Heavy melee attacks with either weapon cause poison dealing {[-0.200000 * -100]}% weapon damage for {[5.000000]}s.</string>
+	<string key="PerkID_Artifact_Set2_Spear_Desc" rel_version="Feature_Artifacts_S5">Heavy melee attacks with either weapon cause poison dealing {[-0.150000 * -100]}% weapon damage for {[5.000000]}s.</string>
+	<string key="PerkID_Artifact_Set2_Greatsword_Name" rel_version="Feature_Artifacts_S6">Offensive Speed</string>
+	<string key="PerkID_Artifact_Set2_Greatsword_Desc" rel_version="Feature_Artifacts_S6">When you enter offensive stance gain {[6.000000]}s of +{[0.200000 * 100]}% move speed</string>
+	<string key="PerkID_Artifact_Set2_Flail_Name" rel_version="Feature_Artifacts_S6">Heavy Burden</string>
+	<string key="PerkID_Artifact_Set2_Flail_Desc" rel_version="Feature_Artifacts_S6">If health is above {[90.000000]}%, attacks cause {[-0.200000 * -100]}% Weaken for {[5.000000]}s. ({[5.000000]}s cooldown on each target)</string>
+	<string key="PerkID_Artifact_Set2_Ring1_Name" rel_version="Feature_Artifacts_S6">Elemental Affinity</string>
+	<string key="PerkID_Artifact_Set2_Ring1_Desc" rel_version="Feature_Artifacts_S6">When you hit a target with an elemental damage attack (does not trigger on damage over time or attunements), gain {[0.040000 * 100]}% empower for {[6.000000]}s. ({[10.000000]}s cooldown per damage type, max 1 stack per type.)</string>
 	<string key="PerkID_Artifact_Set2_Amulet1_Name" rel_version="Feature_Artifacts_S5">Phoenix Vengeance</string>
 	<string key="PerkID_Artifact_Set2_Amulet1_Desc" rel_version="Feature_Artifacts_S5">When you receive lethal damage, avoid death and regain {[1.000000 * 100]}% of your max health. Then become inflicted with Vengeance, reducing healing by {[-2.000000 * -100]}% and taking damage equal to {[-0.100000 * -200]}% of your max health every second until you die or get a kill. ({[180.000000]}s cooldown).</string>
 	<string key="PerkID_Flail_RabbitFlail_Name" rel_version="Event_RabbitSeasonPerm2024">Rabbits Revenge</string>

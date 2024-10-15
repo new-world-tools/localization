@@ -1,0 +1,98 @@
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="06_NessaHarrower" rel_version="Quest_MSQ2_Revamp">Nessa Harrower</string>
+	<string key="06_NessaHarrower_title" rel_version="Quest_MSQ2_Revamp">Acolyte of the Windsward Druids</string>
+	<string key="06_NessaHarrower_title2" rel_version="Quest_MSQ2_Revamp">Apprentice to Sorceress Medea</string>
+	<string key="06_FrancisTurner" rel_version="Quest_MSQ2_Revamp">Francis Turner</string>
+	<string key="06_Speaker_title" rel_version="Quest_MSQ2_Revamp">Speaker of the Winds</string>
+	<string key="06_SaatvikAgrawal" rel_version="Quest_MSQ2_Revamp">Saatvik Agrawal</string>
+	<string key="06_SaatvikAgrawal_title" rel_version="Quest_MSQ2_Revamp">Elder of Corinth</string>
+	<string key="06_LeovixSilva" rel_version="Quest_MSQ2_Revamp">Leovix Silva</string>
+	<string key="06_LeovixSilva_title" rel_version="Quest_MSQ2_Revamp">Iron Rose Captain</string>
+	<string key="06_LeovixSilva_title2" rel_version="Quest_MSQ2_Revamp">Windsward Guard Commander</string>
+	<string key="06_MarcelDupont" rel_version="Quest_MSQ2_Revamp">Marcel Dupont</string>
+	<string key="06_MarcelDupont_title" rel_version="Quest_MSQ2_Revamp">Windsward Guard Captain</string>
+	<string key="06_TalesaSerrano" rel_version="Quest_MSQ2_Revamp">Talesa Serrano</string>
+	<string key="06_AhuraFarid" rel_version="Quest_MSQ2_Revamp">Ahura Farid</string>
+	<string key="06_MoiraChapman" rel_version="Quest_MSQ2_Revamp">Moira Chapman</string>
+	<string key="06_KathrijnJanssen" rel_version="Quest_MSQ2_Revamp">Kathrijn Janssen</string>
+	<string key="06_FarmerM_title" rel_version="Quest_MSQ2_Revamp">Farmer</string>
+	<string key="06_FarmerF_title" rel_version="Quest_MSQ2_Revamp">Farmer</string>
+	<string key="06_TsuiFen" rel_version="Quest_MSQ2_Revamp">Tsui Fen</string>
+	<string key="06_Tanner_title" rel_version="Quest_MSQ2_Revamp">Tanner</string>
+	<string key="06_ZhangHaoyu" rel_version="Quest_MSQ2_Revamp">Zhang Haoyu</string>
+	<string key="06_Mason_title" rel_version="Quest_MSQ2_Revamp">Mason</string>
+	<string key="06_LionelDeLaRue" rel_version="Quest_MSQ2_Revamp">Lionel De La Rue</string>
+	<string key="06_Weaver_title" rel_version="Quest_MSQ2_Revamp">Weaver</string>
+	<string key="06_UtkarshSingh" rel_version="Quest_MSQ2_Revamp">Utkarsh Singh</string>
+	<string key="06_Historian_title" rel_version="Quest_MSQ2_Revamp">Historian</string>
+	<string key="06_VerildisJannsen" rel_version="Quest_MSQ2_Revamp">Verildis Jannsen</string>
+	<string key="06_VerildisJannsen_title" rel_version="Quest_MSQ2_Revamp">Innkeeper of the Southern Breeze</string>
+	<string key="06_LiZihan" rel_version="Quest_MSQ2_Revamp">Li Zihan</string>
+	<string key="06_LiZihan_title" rel_version="Quest_MSQ2_Revamp">Tavern Keeper</string>
+	<string key="06_FudeHinode" rel_version="Quest_MSQ2_Revamp">Fude Hinode</string>
+	<string key="06_FudeHinode_title" rel_version="Quest_MSQ2_Revamp">Landscape Artist</string>
+	<string key="06_MargotEmerson" rel_version="Quest_MSQ2_Revamp">Margot Emerson</string>
+	<string key="06_TowerJournal" rel_version="Quest_MSQ2_Revamp">Tower Journal</string>
+	<string key="06_TowerJournal_title" rel_version="Quest_MSQ2_Revamp">A rather lengthy account</string>
+	<string key="06_FancyBrushSet" rel_version="Quest_MSQ2_Revamp">Artist's Brushes</string>
+	<string key="06_FancyBrushSet_title" rel_version="Quest_MSQ2_Revamp">Abandoned in a hurry</string>
+	<string key="06_YelenaPajitnova" rel_version="Quest_MSQ2_Revamp">Yelena Pajitnova</string>
+	<string key="06_YelenaPajitnova_title" rel_version="Quest_MSQ2_Revamp">Antiquarian of Windsward</string>
+	<string key="06_RoyaHakimi" rel_version="Quest_MSQ2_Revamp">Roya Hakimi</string>
+	<string key="06_RoyaHakimi_title" rel_version="Quest_MSQ2_Revamp">Admirer of the Iron Rose</string>
+	<string key="06_RoyaHakimi_title2" rel_version="Quest_MSQ2_Revamp">Iron Rose Page</string>
+	<string key="06_GideonStormsbane" rel_version="Quest_MSQ2_Revamp">Gideon Sturm</string>
+	<string key="06_GideonStormsbane_title" rel_version="Quest_MSQ2_Revamp">Iron Rose Knight</string>
+	<string key="06_ElricChapman" rel_version="Quest_MSQ2_Revamp">Elric Chapman</string>
+	<string key="06_PriyaThakur" rel_version="Quest_MSQ2_Revamp">Priya Thakur</string>
+	<string key="06_MichaelLewis" rel_version="Quest_MSQ2_Revamp">Michael Lewis</string>
+	<string key="06_LijsbetDeVries" rel_version="Quest_MSQ2_Revamp">Lijsbet De Vries</string>
+	<string key="06_Medea" rel_version="Quest_MSQ2_Revamp">Medea</string>
+	<string key="06_Medea_title" rel_version="Quest_MSQ2_Revamp">Sorceress</string>
+	<string key="0607_Commander" rel_version="Quest_MSQ2_Revamp">Uzma Joshi</string>
+	<string key="0607_Commander_title" rel_version="Quest_MSQ2_Revamp">Marauder Commander</string>
+	<string key="0608_Alchemist" rel_version="Quest_MSQ2_Revamp">Aleit Jansz</string>
+	<string key="0608_Alchemist_title" rel_version="Quest_MSQ2_Revamp">Syndicate Alchemist</string>
+	<string key="0609_Adjudicator" rel_version="Quest_MSQ2_Revamp">Gilander Dempster</string>
+	<string key="0609_Adjudicator_title" rel_version="Quest_MSQ2_Revamp">Covenant Adjudicator</string>
+	<string key="06_Sweeper" rel_version="Quest_MSQ2_Revamp">Dorothea Chloros</string>
+	<string key="06_Sweeper_title" rel_version="Quest_MSQ2_Revamp">Citizen of Corinth</string>
+	<string key="0623_Fisher" comment="male" rel_version="Quest_MSQ2_Revamp">Michael Shields</string>
+	<string key="0623_Fisher_title" rel_version="Quest_MSQ2_Revamp">Master Fisher</string>
+	<string key="0699_Barkimedes" comment="male" rel_version="Quest_MSQ2_Revamp">Barkimedes</string>
+	<string key="0699_Barkimedes_title" rel_version="Quest_MSQ2_Revamp">Eternal Hound</string>
+	<string key="06_GunterRost" rel_version="Season_2_Perm">Gunter Rost</string>
+	<string key="06_GunterRost_title" rel_version="Season_2_Perm">Refugee from First Light</string>
+	<string key="02_Outfitter" comment="female" rel_version="Feature_Transmog">Rolanda Freemane</string>
+	<string key="02_Outfitter_title" rel_version="Feature_Transmog">Stylemancer</string>
+	<string key="04_Outfitter" comment="male" rel_version="Feature_Transmog">Gianni Verdelli</string>
+	<string key="04_Outfitter_title" rel_version="Feature_Transmog">Stylemancer</string>
+	<string key="05_Outfitter" comment="male" rel_version="Feature_Transmog">Matsukura Choshiro</string>
+	<string key="05_Outfitter_title" rel_version="Feature_Transmog">Stylemancer</string>
+	<string key="06_Outfitter" comment="female" rel_version="Feature_Transmog">Mohini Rao</string>
+	<string key="06_Outfitter_title" rel_version="Feature_Transmog">Stylemancer</string>
+	<string key="07_Outfitter" comment="male" rel_version="Feature_Transmog">Liang Zheng</string>
+	<string key="07_Outfitter_title" rel_version="Feature_Transmog">Stylemancer</string>
+	<string key="08_Outfitter" comment="female" rel_version="Feature_Transmog">Liang Iwa</string>
+	<string key="08_Outfitter_title" rel_version="Feature_Transmog">Stylemancer</string>
+	<string key="11_Outfitter" comment="female" rel_version="Feature_Transmog">Susana Ortiz</string>
+	<string key="11_Outfitter_title" rel_version="Feature_Transmog">Stylemancer</string>
+	<string key="12_Outfitter" comment="male" rel_version="Feature_Transmog">Lucas Draper</string>
+	<string key="12_Outfitter_title" rel_version="Feature_Transmog">Stylemancer</string>
+	<string key="13_Outfitter" comment="male" rel_version="Feature_Transmog">Ampho Bosch</string>
+	<string key="13_Outfitter_title" rel_version="Feature_Transmog">Stylemancer</string>
+	<string key="15_Outfitter" comment="male" rel_version="Feature_Transmog">Trian O' Cairre</string>
+	<string key="15_Outfitter_title" rel_version="Feature_Transmog">Stylemancer</string>
+	<string key="16_Outfitter" comment="female" rel_version="Feature_Transmog">Akila Jameel</string>
+	<string key="16_Outfitter_title" rel_version="Feature_Transmog">Stylemancer</string>
+	<string key="10_Outfitter" comment="female" rel_version="Feature_Transmog">Isbell Xiphias</string>
+	<string key="10_Outfitter_title" rel_version="Feature_Transmog">Stylemancer</string>
+	<string key="03_Outfitter" comment="female" rel_version="Feature_Transmog">Kadia Bello</string>
+	<string key="03_Outfitter_title" rel_version="Feature_Transmog">Stylemancer</string>
+	<string key="14_Outfitter" comment="male" rel_version="Feature_Transmog">Emelot Barbier</string>
+	<string key="14_Outfitter_title" rel_version="Feature_Transmog">Stylemancer</string>
+	<string key="0612_Bard" comment="female" rel_version="Quest_Console_Release">Stillwater Rose</string>
+	<string key="0612_Bard_title" rel_version="Quest_Console_Release">Traveling Bard</string>
+	<string key="06_InnName" rel_version="Quest_Console_Release">Southern Breeze Inn</string>
+</resources>
+

@@ -1,22 +1,21 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<string key="ui_pvp_3v3_arena_signup_title" rel_version="Feature_PVP_Arenas">3v3 Arena</string>
-	<string key="ui_pvp_3v3_arena_queue_title" rel_version="Feature_PVP_Arenas">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3v3&lt;/font&gt; Arena</string>
+	<string key="ui_pvp_3v3_arena_queue_title" rel_version="Feature_PVP_Arenas">3v3 Arena</string>
 	<string key="ui_pvp_3v3_arena_leave_queue_title" rel_version="Feature_PVP_Arenas">Leave Queue</string>
 	<string key="ui_pvp_3v3_arena_leave_desc" rel_version="Feature_PVP_Arenas">Are you sure you want to leave the 3v3 Arena queue?</string>
 	<string key="ui_pvp_3v3_arena_queue_group_removed" rel_version="Feature_PVP_Arenas">Your group has been removed from the queue for 3v3 Arena.</string>
 	<string key="ui_pvp_3v3_arena_queue_left_desc" rel_version="Feature_PVP_Arenas">Exited</string>
-	<string key="ui_pvp_3v3_arena_queue_left_reason" rel_version="Feature_PVP_Arenas">Cancelled by {player}</string>
-	<string key="ui_pvp_3v3_arena_queue_left_reason_placeholder_player" rel_version="Feature_PVP_Arenas">group member</string>
+	<string key="ui_pvp_3v3_arena_queue_left_cancelled" rel_version="Feature_PVP_Arenas">Cancelled</string>
 	<string key="ui_pvp_3v3_arena_requeue_as_solo" rel_version="Feature_PVP_Arenas">Requeue as solo</string>
 	<string key="ui_pvp_3v3_arena_requeue_as_group" rel_version="Feature_PVP_Arenas">Requeue as group</string>
 	<string key="ui_pvp_3v3_arena_requeue_as_solo_warning" rel_version="Feature_PVP_Arenas">If you choose to requeue as a solo player, you will leave your existing group.\n\nAre you sure?</string>
 	<string key="ui_pvp_3v3_arena_invite_notification_title" rel_version="Feature_PVP_Arenas">3v3 Arena Invite</string>
-	<string key="ui_pvp_3v3_arena_invite_notification_text" rel_version="Feature_PVP_Arenas">You have been invited to &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3v3&lt;/font&gt; Arena!</string>
+	<string key="ui_pvp_3v3_arena_invite_notification_text" rel_version="Feature_PVP_Arenas">You have been invited to 3v3 Arena!</string>
 	<string key="ui_pvparenas_roundswon" rel_version="Feature_PVP_Arenas">Rounds Won</string>
 	<string key="ui_pvparenas_title_join" rel_version="Feature_PVP_Arenas">Join 3v3 Arenas</string>
-	<string key="ui_pvparenas_title" rel_version="Feature_PVP_Arenas">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3v3&lt;/font&gt; Arenas</string>
-	<string key="ui_pvparenas_description" rel_version="Feature_PVP_Arenas">In &lt;font color="#edc63e"&gt;3v3 Arenas&lt;/font&gt; two teams battle to eliminate each other. Be the last team standing to have a chance at unique rewards.</string>
-	<string key="ui_pvparenas_description_gearscore" rel_version="Feature_PVP_Arenas">In &lt;font color="#edc63e"&gt;3v3 Arenas&lt;/font&gt; two teams battle to eliminate each other. Be the last team standing to have a chance at unique rewards.\nFor level 60 players, this mode has &lt;font color="#edc63e"&gt;Gear Score Scaling&lt;/font&gt;, increasing the gear score of all equipment below 675 to 675.</string>
+	<string key="ui_pvparenas_title" rel_version="Feature_PVP_Arenas">3v3 Arenas</string>
+	<string key="ui_pvparenas_description" rel_version="Feature_PVP_Arenas">Be the last team standing for a chance at unique rewards!</string>
+	<string key="ui_pvparenas_description_gearscore" rel_version="Feature_PVP_Arenas">Be the last team standing for a chance at unique rewards!\nFor Level 60+ players, &lt;font color="#edc63e"&gt;Gear Score Scaling&lt;/font&gt; increases the gear score of all equipment below 700 to 700.</string>
 	<string key="ui_pvparenas_signup_goal1" rel_version="Feature_PVP_Arenas">Win 3 rounds to win the match</string>
 	<string key="ui_pvparenas_signup_goal2" rel_version="Feature_PVP_Arenas">When time is up, fire will engulf the Arena</string>
 	<string key="ui_pvparenas_signup_goal3" rel_version="Feature_PVP_Arenas">As the round progresses, healing is reduced</string>

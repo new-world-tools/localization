@@ -1,0 +1,49 @@
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="1502_Magistrate">Taslav Gurkin</string>
+	<string key="1503_Survivalist">Rilette Wilson</string>
+	<string key="1504_Overseer">Lyse Muller</string>
+	<string key="1505_Artificer">Elinor Taethen</string>
+	<string key="1506_Trader">Trader Elliot</string>
+	<string key="1507_Commander">Hecta Garcia</string>
+	<string key="1508_Alchemist">Allyson Ruckman</string>
+	<string key="1509_Adjudicator">Rymon Hallock</string>
+	<string key="1510_Barkeep">Niki Andris</string>
+	<string key="1511_Stranger">Stranger</string>
+	<string key="1522_innkeep">Laszlo Tomaso</string>
+	<string key="1523_Fisher">Finola O'Connor</string>
+	<string key="1599_Nekumanesh">Nekumanesh</string>
+	<string key="1502_Magistrate_t">Magistrate of Restless Shore</string>
+	<string key="1503_Survivalist_t">Survivalist of Restless Shore</string>
+	<string key="1504_Overseer_t">Constable of Restless Shore</string>
+	<string key="1505_Artificer_t">Artificer of Restless Shore</string>
+	<string key="1507_Commander_t">Commander of Restless Shore</string>
+	<string key="1508_Alchemist_t">Alchemist of Restless Shore</string>
+	<string key="1509_Adjudicator_t">Adjudicator of Restless Shore</string>
+	<string key="1510_Barkeep_t">Barkeep of Restless Shore</string>
+	<string key="1522_Innkeep_t">Innkeeper of the Sunken Compass</string>
+	<string key="1523_Fisher_t">Master Fisher of Restless Shore</string>
+	<string key="1599_Nekumanesh_t">Small Alligator</string>
+	<string key="1524_Boatswain00" rel_version="Quest_Supplement_Restless">Santiago Salazar</string>
+	<string key="1524_Boatswain01" rel_version="Quest_Supplement_Restless">Santiago Salazar</string>
+	<string key="1524_Boatswain_t" rel_version="Quest_Supplement_Restless">Boatswain of Restless Shore</string>
+	<string key="1525_AngryEarth" rel_version="Quest_Supplement_Restless">Myrtilus</string>
+	<string key="1525_AngryEarth_t" rel_version="Quest_Supplement_Restless">Angry Earth</string>
+	<string key="1526_Naturalist" rel_version="Quest_Supplement_Restless">Caryn Berzs</string>
+	<string key="1526_Naturalist_t" rel_version="Quest_Supplement_Restless">Naturalist</string>
+	<string key="1527_Wader" rel_version="Quest_Supplement_Restless">Wafa Keles</string>
+	<string key="1527_Wader_t" rel_version="Quest_Supplement_Restless">Wader of Restless Shore</string>
+	<string key="1528_Rogue" rel_version="Quest_Supplement_Restless">Xue Tian</string>
+	<string key="1528_Rogue_t" rel_version="Quest_Supplement_Restless">Rogue of Restless Shore</string>
+	<string key="1529_MaleBeekeeperCultist1" rel_version="Event_SpringtideBloom_Perm">Alder</string>
+	<string key="1530_FemaleBeekeeperCultist1" rel_version="Event_SpringtideBloom_Perm">Hua</string>
+	<string key="1531_MaleBeekeeperCultist2" rel_version="Event_SpringtideBloom_Perm">Dylan</string>
+	<string key="1532_FemaleBeekeeperCultist2" rel_version="Event_SpringtideBloom_Perm">Iris</string>
+	<string key="1533_BloomHerald" rel_version="Event_SpringtideBloom_Perm">The Bloom Herald</string>
+	<string key="1529_MaleBeekeeperCultist1_t" rel_version="Event_SpringtideBloom_Perm">Child of the Bloom</string>
+	<string key="1530_FemaleBeekeeperCultist1_t" rel_version="Event_SpringtideBloom_Perm">Child of the Bloom</string>
+	<string key="1531_MaleBeekeeperCultist2_t" rel_version="Event_SpringtideBloom_Perm">Child of the Bloom</string>
+	<string key="1532_FemaleBeekeeperCultist2_t" rel_version="Event_SpringtideBloom_Perm">Child of the Bloom</string>
+	<string key="1533_BloomHerald_t" rel_version="Event_SpringtideBloom_Perm">Children of the Bloom Leader</string>
+	<string key="15_InnName">Sunken Compass Inn</string>
+</resources>
+

@@ -55,6 +55,50 @@
 	<string key="ftue_archetypes_equipment">Equipment</string>
 	<string key="ftue_archetypes_details">Details</string>
 	<string key="ftue_archetypes_name_mercenary">Mercenary</string>
+	<string key="ftue_archetypes_name_soldier" rel_version="Feature_ArchetypesV2">Soldier</string>
+	<string key="ftue_archetypes_name_warmonger" rel_version="Feature_ArchetypesV2">Destroyer</string>
+	<string key="ftue_archetypes_name_tracker" rel_version="Feature_ArchetypesV2">Ranger</string>
+	<string key="ftue_archetypes_name_musketeer" rel_version="Feature_ArchetypesV2">Musketeer</string>
+	<string key="ftue_archetypes_name_occultist" rel_version="Feature_ArchetypesV2">Occultist</string>
+	<string key="ftue_archetypes_name_theurgist" rel_version="Feature_ArchetypesV2">Mystic</string>
+	<string key="ftue_archetypes_name_wanderer" rel_version="Feature_ArchetypesV2">Swordbearer</string>
+	<string key="ftue_archetypes_description_soldier" rel_version="Feature_ArchetypesV2">&lt;font face="lyshineui/fonts/nimbus_regular_italic.font"&gt;Tank/Damage&lt;/font&gt;\n\nA fighter by trade, balancing defense and offense with sword and shield and hatchet.</string>
+	<string key="ftue_archetypes_description_warmonger" rel_version="Feature_ArchetypesV2">&lt;font face="lyshineui/fonts/nimbus_regular_italic.font"&gt;Damage/Tank&lt;/font&gt;\n\nA mighty slayer, brutally executing foes with their massive war hammer and great axe.</string>
+	<string key="ftue_archetypes_description_tracker" rel_version="Feature_ArchetypesV2">&lt;font face="lyshineui/fonts/nimbus_regular_italic.font"&gt;Damage&lt;/font&gt;\n\nA keen-eyed hunter, scout, and pathfinder, proficient with bow and spear.</string>
+	<string key="ftue_archetypes_description_musketeer" rel_version="Feature_ArchetypesV2">&lt;font face="lyshineui/fonts/nimbus_regular_italic.font"&gt;Damage&lt;/font&gt;\n\nA nimble explorer and adventurer, skilled with rapier and rifle alike.</string>
+	<string key="ftue_archetypes_description_occultist" rel_version="Feature_ArchetypesV2">&lt;font face="lyshineui/fonts/nimbus_regular_italic.font"&gt;Damage&lt;/font&gt;\n\nA practitioner of primal elemental arts, commanding the forces of frost and flame.</string>
+	<string key="ftue_archetypes_description_theurgist" rel_version="Feature_ArchetypesV2">&lt;font face="lyshineui/fonts/nimbus_regular_italic.font"&gt;Healer/Damage&lt;/font&gt;\n\nA scholar-warrior who seeks to master the forces of life and death.</string>
+	<string key="ftue_archetypes_description_wanderer" rel_version="Feature_ArchetypesV2">&lt;font face="lyshineui/fonts/nimbus_regular_italic.font"&gt;Damage/Tank&lt;/font&gt;\n\nA gutsy, heavily-armed berserker, wielding a colossal greatsword and blunderbuss.</string>
+	<string key="ftue_archetypes_title_tooltip" rel_version="Feature_ArchetypesV2">Your archetype dictates the first items and abilities you'll discover on the island, but you'll be free to master any weapon and wear any armor you wish.</string>
+	<string key="ftue_archetypes_tooltip_mercenary_1" rel_version="Feature_ArchetypesV2">Weaponsmithing allows you to craft metal weapons</string>
+	<string key="ftue_archetypes_tooltip_mercenary_2" rel_version="Feature_ArchetypesV2">Mining allows you to gather more valuable metal ores, stone, and gems</string>
+	<string key="ftue_archetypes_tooltip_mercenary_3" rel_version="Feature_ArchetypesV2">Smelting allows you to refine gathered ore into workable metal ingots</string>
+	<string key="ftue_archetypes_tooltip_warmonger_1" rel_version="Feature_ArchetypesV2">Armoring allows you to craft armor from leather, metal, or cloth</string>
+	<string key="ftue_archetypes_tooltip_warmonger_2" rel_version="Feature_ArchetypesV2">Skinning allows you to gather more valuable rawhides</string>
+	<string key="ftue_archetypes_tooltip_warmonger_3" rel_version="Feature_ArchetypesV2">Leatherworking allows you to refine gathered rawhides into workable leather</string>
+	<string key="ftue_archetypes_tooltip_tracker_1" rel_version="Feature_ArchetypesV2">Engineering allows you to craft specialized equipment or weapons</string>
+	<string key="ftue_archetypes_tooltip_tracker_2" rel_version="Feature_ArchetypesV2">Logging allows you to gather more valuable wood variants</string>
+	<string key="ftue_archetypes_tooltip_tracker_3" rel_version="Feature_ArchetypesV2">Woodworking allows you to refine gathered wood into workable wooden planks</string>
+	<string key="ftue_archetypes_tooltip_musketeer_1" rel_version="Feature_ArchetypesV2">Armoring allows you to craft armor from cloth, leather, or metal</string>
+	<string key="ftue_archetypes_tooltip_musketeer_2" rel_version="Feature_ArchetypesV2">Harvesting allows you to gather more valuable plant fibers</string>
+	<string key="ftue_archetypes_tooltip_musketeer_3" rel_version="Feature_ArchetypesV2">Weaving allows you to refine gathered plant fibers into workable cloth</string>
+	<string key="ftue_archetypes_tooltip_occultist_1" rel_version="Feature_ArchetypesV2">Jewelcrafting allows you to craft powerful jewelry from cut gems and fine metals</string>
+	<string key="ftue_archetypes_tooltip_occultist_2" rel_version="Feature_ArchetypesV2">Mining allows you to gather more valuable metal ores, stone, and gems</string>
+	<string key="ftue_archetypes_tooltip_occultist_3" rel_version="Feature_ArchetypesV2">Stonecutting allows you to refine gathered stones and gems into workable stone blocks or cut gem</string>
+	<string key="ftue_archetypes_tooltip_theurgist_1" rel_version="Feature_ArchetypesV2">Arcana allows you to craft magically infused items</string>
+	<string key="ftue_archetypes_tooltip_theurgist_2" rel_version="Feature_ArchetypesV2">Harvesting allows you to gather more valuable plant fibers</string>
+	<string key="ftue_archetypes_tooltip_theurgist_3" rel_version="Feature_ArchetypesV2">Weaving allows you to refine gathered plant fibers into workable cloth</string>
+	<string key="ftue_archetypes_tooltip_wanderer_1" rel_version="Feature_ArchetypesV2">Cooking allows you to craft delicious meals that grant temporary bonuses</string>
+	<string key="ftue_archetypes_tooltip_wanderer_2" rel_version="Feature_ArchetypesV2">Fishing allows you to catch more valuable fish that can be salvaged for resources</string>
+	<string key="ftue_archetypes_tooltip_wanderer_3" rel_version="Feature_ArchetypesV2">Leatherworking allows you to refine gathered rawhides into workable leather</string>
+	<string key="ftue_archetypes_proficiency_desc_mercenary" rel_version="Feature_ArchetypesV2">Starts with a boost to Weaponsmithing, Mining, and Smelting.</string>
+	<string key="ftue_archetypes_proficiency_desc_warmonger" rel_version="Feature_ArchetypesV2">Starts with a boost to Armoring, Skinning, and Leatherworking.</string>
+	<string key="ftue_archetypes_proficiency_desc_tracker" rel_version="Feature_ArchetypesV2">Starts with a boost to Engineering, Logging, and Woodworking.</string>
+	<string key="ftue_archetypes_proficiency_desc_musketeer" rel_version="Feature_ArchetypesV2">Starts with a boost to Armoring, Harvesting, and Weaving.</string>
+	<string key="ftue_archetypes_proficiency_desc_occultist" rel_version="Feature_ArchetypesV2">Starts with a boost to Jewelcrafting, Mining, and Smelting.</string>
+	<string key="ftue_archetypes_proficiency_desc_theurgist" rel_version="Feature_ArchetypesV2">Starts with a boost to Arcana, Harvesting, and Weaving.</string>
+	<string key="ftue_archetypes_proficiency_desc_wanderer" rel_version="Feature_ArchetypesV2">Starts with a boost to Cooking, Fishing, and Leatherworking.</string>
+	<string key="ftue_archetypes_proficiency_tooltip" rel_version="Feature_ArchetypesV2">Choosing an archetype only provides a boost to specific trade skills. You can gain mastery in all weapons and trade skills in Aeternum.</string>
 	<string key="ftue_archetypes_name_scholar">Scholar</string>
 	<string key="ftue_archetypes_name_explorer">Explorer</string>
 	<string key="ftue_archetypes_name_rosicrucian">Rosicrucian</string>
@@ -116,6 +160,8 @@
 	<string key="ftue_createcharacter_message">You cannot change your appearance or identity after this point.\n\nAre you sure?</string>
 	<string key="ftue_quitcreation_title">Leave Character</string>
 	<string key="ftue_quitcreation_message">Are you sure you want to abandon this character and exit to the Main Menu?</string>
+	<string key="ftue_quitappearance_title" rel_version="Feature_ArchetypesV2">Abandon Appearance</string>
+	<string key="ftue_quitappearance_message" rel_version="Feature_ArchetypesV2">Are you sure you want to abandon your appearance and return to the previous screen?</string>
 	<string key="ftue_returntomainmenu_message">Would you like to exit to the Main Menu?</string>
 	<string key="ftue_loading1">LOADING</string>
 	<string key="ftue_loading2">LOADING</string>
@@ -145,7 +191,7 @@
 	<string key="TUT_Looting">Open the container</string>
 	<string key="TUT_TakeAll">Take all of the items</string>
 	<string key="TUT_Compass1">You have reached Aeternum.\n\nAzoth lanterns introduce concepts which will help you survive.\n\nFollow the path.</string>
-	<string key="TUT_Compass2">Azoth lanterns are indicated with blue markers. Each lantern introduces a concept which will help you survive in New World.  Azoth droplets mark the swiftest path. Good fortune.</string>
+	<string key="TUT_Compass2">Azoth lanterns are indicated with blue markers. Each lantern introduces a concept which will help you survive in New World. Azoth droplets mark the swiftest path. Good fortune.</string>
 	<string key="TUT_Movement1">MOVE</string>
 	<string key="TUT_Movement2">SPRINT</string>
 	<string key="TUT_Mantle">Mantle:</string>
@@ -162,7 +208,7 @@
 	<string key="TUT_Eat5">Drag the berries to your Quickbar,\nthen close your inventory:</string>
 	<string key="TUT_Eat6">Consuming food and drink restores health.\nCooked food and drink are more effective.</string>
 	<string key="TUT_BasicCombat1">Draw Weapon:</string>
-	<string key="TUT_BasicCombat2">Lockon:</string>
+	<string key="TUT_BasicCombat2">Target Lock</string>
 	<string key="TUT_BasicCombat3">Light Attack</string>
 	<string key="TUT_BasicCombat4">Block</string>
 	<string key="TUT_BasicCombat5">DRAW YOUR WEAPON!</string>
@@ -233,6 +279,7 @@
 	<string key="TUT_Mastery_EquipRemind">Active abilities will be automatically equipped if there are open slots.</string>
 	<string key="TUT_Mastery_Close">Close the Mastery screen.</string>
 	<string key="TUT_Mastery_Points">You have &lt;font color="#ebe3d6"&gt;&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{count}&lt;/font&gt;&lt;/font&gt; unspent Mastery Point.</string>
+	<string key="TUT_Ability1">Ability</string>
 	<string key="ui_mudflats_location">MUDFLATS</string>
 	<string key="TUT_Hold">(HOLD)</string>
 	<string key="TUT_Short_Hold">(SHORT HOLD)</string>
@@ -243,7 +290,7 @@
 	<string key="ui_content_unavailable_message">This content is currently not available.</string>
 	<string key="ftue_action_unavailable">You cannot perform this action yet.</string>
 	<string key="Damned_Commander_FTUE_VitalsName">Corrupted Captain Thorpe</string>
-	<string key="ui_ftue_captains_chest">Captain's Stash</string>
+	<string key="ui_ftue_captains_chest">Crewmate's Satchel</string>
 	<string key="ftue_archetypes_choose_your_backstory">Choose your backstory</string>
 	<string key="ftue_archetypes_test_focus">Test Focus</string>
 	<string key="ftue_archetypes_backstory_1_name">A Nearly Fresh Start</string>

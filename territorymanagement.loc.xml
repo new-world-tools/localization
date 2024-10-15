@@ -29,7 +29,7 @@
 	<string key="ui_claimmarker_requiredresources">Required resources.</string>
 	<string key="ui_claimmarker_haveneed">Have / Need</string>
 	<string key="ui_claimmarker_claim_button_resource">Claim Territory</string>
-	<string key="ui_claimmarker_claim_button_coin">Claim this territory &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;&lt;font color={colorHex}&gt;{cost}&lt;/font&gt;&lt;/font&gt; &lt;img src="LyShineUI/Images/Icon_Crown" xPadding="5"&gt;&lt;/img&gt;</string>
+	<string key="ui_claimmarker_claim_button_coin">Claim this territory &lt;font face="lyshineui/fonts/Pica_Regular.font"&gt;&lt;font color={colorHex}&gt;{cost}&lt;/font&gt;&lt;/font&gt; &lt;img src="LyShineUI/Images/Icon_Crown" xPadding="5"&gt;&lt;/img&gt;</string>
 	<string key="ui_claimmarker_join_faction">Join A Faction To Claim</string>
 	<string key="ui_claimmarker_join_guild">Join Or Create A Company To Claim</string>
 	<string key="ui_claimmarker_not_enough_resources">Not Enough Resources</string>
@@ -95,10 +95,10 @@
 	<string key="ui_projects_done_singular">Upgrade</string>
 	<string key="ui_projects_done">Upgrades</string>
 	<string key="ui_project_button_upgrade">Upgrade</string>
-	<string key="ui_start_town_project_cost">Start this town project  &lt;font color='#b2aea1'&gt;&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{cost}&lt;/font&gt;&lt;/font&gt;&lt;img src="lyshineui/images/icon_crown" xPadding="3" yOffset="3"&gt;&lt;/img&gt;</string>
+	<string key="ui_start_town_project_cost">Start this town project  &lt;font color='#b2aea1'&gt;&lt;font face="lyshineui/fonts/Pica_Regular.font"&gt;{cost}&lt;/font&gt;&lt;/font&gt;&lt;img src="lyshineui/images/icon_crown" xPadding="3" yOffset="3"&gt;&lt;/img&gt;</string>
 	<string key="ui_leaving_settlement">Leaving Settlement</string>
 	<string key="ui_leaving_settlement_recall_no_cd">Recall back at any time using the map.</string>
-	<string key="ui_leaving_settlement_recall_time">Inn available in &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{time}&lt;/font&gt;</string>
+	<string key="ui_leaving_settlement_recall_time">Inn available in &lt;font face="lyshineui/fonts/Pica_Regular.font"&gt;{time}&lt;/font&gt;</string>
 	<string key="ui_leaving_settlement_recall_time_desc">Inn recall is only available once every {numMinutes} minutes.</string>
 	<string key="ui_leaving_settlement_no_inn_desc">You are leaving without checking in to the inn.</string>
 	<string key="ui_leaving_settlement_no_inn">Not Checked in</string>
@@ -131,7 +131,7 @@
 	<string key="ui_paycheck_adjustment">Paycheck Adjustment</string>
 	<string key="ui_resources_refined">{units} resources refined</string>
 	<string key="ui_items_crafted">{units} items crafted</string>
-	<string key="ui_start_date_to_current">Earning since - &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{start}&lt;/font&gt;</string>
+	<string key="ui_start_date_to_current">Earning since - &lt;font face="lyshineui/fonts/Pica_Regular.font"&gt;{start}&lt;/font&gt;</string>
 	<string key="ui_statement_period">{start} - Current</string>
 	<string key="ui_pay_territory_upkeep">Pay Upkeep</string>
 	<string key="ui_upkeep_penalty_description">If the upkeep is not paid in time,\na random part of territory will be downgraded.</string>
@@ -158,7 +158,7 @@
 	<string key="ui_refining_fee_description">Refining resources in this territory costs a fee per resource</string>
 	<string key="ui_edit">Edit</string>
 	<string key="ui_can_edit_in_time">Can edit in {time}</string>
-	<string key="ui_can_pay_in_time">Next Payment {time}</string>
+	<string key="ui_can_pay_in_time">Next payment in {time}</string>
 	<string key="ui_units_units">{units} units</string>
 	<string key="ui_kill">Kill</string>
 	<string key="ui_courier">Courier</string>
@@ -268,7 +268,7 @@
 	<string key="ui_controlling_faction">Controlled by &lt;font color='#b2aea1'&gt;{name}&lt;/font&gt;</string>
 	<string key="ui_territory_ownership_benefits">Territory Incentives</string>
 	<string key="ui_how_to_run_a_town">How to run a town?</string>
-	<string key="ui_community_points">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;+ {amount}&lt;/font&gt;</string>
+	<string key="ui_community_points">&lt;font face="lyshineui/fonts/Pica_Regular.font"&gt;+ {amount}&lt;/font&gt;</string>
 	<string key="ui_community_points_detail">{amount}&lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt; Project Points&lt;/font&gt;</string>
 	<string key="ui_project_points_label">Project Points</string>
 	<string key="ui_upgradebutton_label_alwaysavailable">Help Wanted</string>
@@ -297,52 +297,52 @@
 	<string key="ui_upgrade_numcompleted">&lt;font color='#edc63e'&gt;{numCompleted}&lt;/font&gt; / {total}</string>
 	<string key="GenericGemCutT3">Cut Brilliant Gems</string>
 	<string key="GenericGemCutT4">Cut Pristine Gems</string>
-	<string key="ui_always_available_category">Always Available Category Id &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt;</string>
-	<string key="ui_always_available_projectId">Always Available Project Id &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt;</string>
-	<string key="ui_upgrade_title_BlacksmithProjectId">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt; Upgrade</string>
-	<string key="ui_upgrade_title_BlacksmithProjectId2">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;4&lt;/font&gt; Upgrade</string>
-	<string key="ui_upgrade_title_BlacksmithProjectId3">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;5&lt;/font&gt; Upgrade</string>
-	<string key="ui_upgrade_title_SmeltingProjectId">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;4&lt;/font&gt; Upgrade</string>
-	<string key="ui_upgrade_title_SmeltingProjectId2">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;5&lt;/font&gt; Upgrade</string>
-	<string key="ui_upgrade_title_SmeltingProjectId3">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;5&lt;/font&gt; Upgrade</string>
-	<string key="ui_upgrade_title_CarpentryProjectId">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;4&lt;/font&gt; Upgrade</string>
-	<string key="ui_upgrade_title_CarpentryProjectId2">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;5&lt;/font&gt; Upgrade</string>
-	<string key="ui_upgrade_title_CarpentryProjectId3">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;5&lt;/font&gt; Upgrade</string>
-	<string key="ui_upgrade_title_MasonryProjectId">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;4&lt;/font&gt; Upgrade</string>
-	<string key="ui_upgrade_title_MasonryProjectId2">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;5&lt;/font&gt; Upgrade</string>
-	<string key="ui_upgrade_title_MasonryProjectId3">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;5&lt;/font&gt; Upgrade</string>
-	<string key="ui_upgrade_title_WeavingProjectId">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;4&lt;/font&gt; Upgrade</string>
-	<string key="ui_upgrade_title_WeavingProjectId2">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;5&lt;/font&gt; Upgrade</string>
-	<string key="ui_upgrade_title_WeavingProjectId3">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;5&lt;/font&gt; Upgrade</string>
-	<string key="ui_upgrade_title_TanningProjectId">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;4&lt;/font&gt; Upgrade</string>
-	<string key="ui_upgrade_title_TanningProjectId2">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;5&lt;/font&gt; Upgrade</string>
-	<string key="ui_upgrade_title_TanningProjectId3">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;5&lt;/font&gt; Upgrade</string>
-	<string key="ui_upgrade_title_EngineeringProjectId">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt; Upgrade</string>
-	<string key="ui_upgrade_title_EngineeringProjectId2">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;4&lt;/font&gt; Upgrade</string>
-	<string key="ui_upgrade_title_EngineeringProjectId3">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;5&lt;/font&gt; Upgrade</string>
-	<string key="ui_upgrade_title_OutfittingProjectId">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt; Upgrade</string>
-	<string key="ui_upgrade_title_OutfittingProjectId2">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;4&lt;/font&gt; Upgrade</string>
-	<string key="ui_upgrade_title_OutfittingProjectId3">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;5&lt;/font&gt; Upgrade</string>
-	<string key="ui_upgrade_title_AlchemistProjectId">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt; Upgrade</string>
-	<string key="ui_upgrade_title_AlchemistProjectId2">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;4&lt;/font&gt; Upgrade</string>
-	<string key="ui_upgrade_title_AlchemistProjectId3">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;5&lt;/font&gt; Upgrade</string>
-	<string key="ui_upgrade_title_CookingProjectId">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt; Upgrade</string>
-	<string key="ui_upgrade_title_CookingProjectId2">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;4&lt;/font&gt; Upgrade</string>
-	<string key="ui_upgrade_title_CookingProjectId3">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;5&lt;/font&gt; Upgrade</string>
-	<string key="ui_upgrade_title_FortGatesProjectId">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt; Upgrade</string>
-	<string key="ui_upgrade_title_FortGatesProjectId2">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt; Upgrade</string>
-	<string key="ui_upgrade_title_FortHardPointsProjectId">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt; Upgrade</string>
-	<string key="ui_upgrade_title_FortHardPointsProjectId2">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt; Upgrade</string>
-	<string key="ui_upgrade_title_BallistaProjectId">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt; Upgrade</string>
-	<string key="ui_upgrade_title_BallistaProjectId2">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt; Upgrade</string>
-	<string key="ui_upgrade_title_FireBarrelProjectId">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt; Upgrade</string>
-	<string key="ui_upgrade_title_FireBarrelProjectId2">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt; Upgrade</string>
-	<string key="ui_upgrade_title_RepeaterProjectId">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt; Upgrade</string>
-	<string key="ui_upgrade_title_RepeaterProjectId2">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt; Upgrade</string>
-	<string key="ui_upgrade_title_HornProjectId">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt; Upgrade</string>
-	<string key="ui_upgrade_title_HornProjectId2">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt; Upgrade</string>
-	<string key="ui_upgrade_title_ExplosiveProjectId">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt; Upgrade</string>
-	<string key="ui_upgrade_title_ExplosiveProjectId2">Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt; Upgrade</string>
+	<string key="ui_always_available_category">Always Available Category Id &lt;font face="lyshineui/fonts/Pica_Regular.font"&gt;3&lt;/font&gt;</string>
+	<string key="ui_always_available_projectId">Always Available Project Id &lt;font face="lyshineui/fonts/Pica_Regular.font"&gt;3&lt;/font&gt;</string>
+	<string key="ui_upgrade_title_BlacksmithProjectId">Tier 3 Upgrade</string>
+	<string key="ui_upgrade_title_BlacksmithProjectId2">Tier 4 Upgrade</string>
+	<string key="ui_upgrade_title_BlacksmithProjectId3">Tier 5 Upgrade</string>
+	<string key="ui_upgrade_title_SmeltingProjectId">Tier 4 Upgrade</string>
+	<string key="ui_upgrade_title_SmeltingProjectId2">Tier 5 Upgrade</string>
+	<string key="ui_upgrade_title_SmeltingProjectId3">Tier 5 Upgrade</string>
+	<string key="ui_upgrade_title_CarpentryProjectId">Tier 4 Upgrade</string>
+	<string key="ui_upgrade_title_CarpentryProjectId2">Tier 5 Upgrade</string>
+	<string key="ui_upgrade_title_CarpentryProjectId3">Tier 5 Upgrade</string>
+	<string key="ui_upgrade_title_MasonryProjectId">Tier 4 Upgrade</string>
+	<string key="ui_upgrade_title_MasonryProjectId2">Tier 5 Upgrade</string>
+	<string key="ui_upgrade_title_MasonryProjectId3">Tier 5 Upgrade</string>
+	<string key="ui_upgrade_title_WeavingProjectId">Tier 4 Upgrade</string>
+	<string key="ui_upgrade_title_WeavingProjectId2">Tier 5 Upgrade</string>
+	<string key="ui_upgrade_title_WeavingProjectId3">Tier 5 Upgrade</string>
+	<string key="ui_upgrade_title_TanningProjectId">Tier 4 Upgrade</string>
+	<string key="ui_upgrade_title_TanningProjectId2">Tier 5 Upgrade</string>
+	<string key="ui_upgrade_title_TanningProjectId3">Tier 5 Upgrade</string>
+	<string key="ui_upgrade_title_EngineeringProjectId">Tier 3 Upgrade</string>
+	<string key="ui_upgrade_title_EngineeringProjectId2">Tier 4 Upgrade</string>
+	<string key="ui_upgrade_title_EngineeringProjectId3">Tier 5 Upgrade</string>
+	<string key="ui_upgrade_title_OutfittingProjectId">Tier 3 Upgrade</string>
+	<string key="ui_upgrade_title_OutfittingProjectId2">Tier 4 Upgrade</string>
+	<string key="ui_upgrade_title_OutfittingProjectId3">Tier 5 Upgrade</string>
+	<string key="ui_upgrade_title_AlchemistProjectId">Tier 3 Upgrade</string>
+	<string key="ui_upgrade_title_AlchemistProjectId2">Tier 4 Upgrade</string>
+	<string key="ui_upgrade_title_AlchemistProjectId3">Tier 5 Upgrade</string>
+	<string key="ui_upgrade_title_CookingProjectId">Tier 3 Upgrade</string>
+	<string key="ui_upgrade_title_CookingProjectId2">Tier 4 Upgrade</string>
+	<string key="ui_upgrade_title_CookingProjectId3">Tier 5 Upgrade</string>
+	<string key="ui_upgrade_title_FortGatesProjectId">Tier 2 Upgrade</string>
+	<string key="ui_upgrade_title_FortGatesProjectId2">Tier 3 Upgrade</string>
+	<string key="ui_upgrade_title_FortHardPointsProjectId">Tier 2 Upgrade</string>
+	<string key="ui_upgrade_title_FortHardPointsProjectId2">Tier 3 Upgrade</string>
+	<string key="ui_upgrade_title_BallistaProjectId">Tier 2 Upgrade</string>
+	<string key="ui_upgrade_title_BallistaProjectId2">Tier 3 Upgrade</string>
+	<string key="ui_upgrade_title_FireBarrelProjectId">Tier 2 Upgrade</string>
+	<string key="ui_upgrade_title_FireBarrelProjectId2">Tier 3 Upgrade</string>
+	<string key="ui_upgrade_title_RepeaterProjectId">Tier 2 Upgrade</string>
+	<string key="ui_upgrade_title_RepeaterProjectId2">Tier 3 Upgrade</string>
+	<string key="ui_upgrade_title_HornProjectId">Tier 2 Upgrade</string>
+	<string key="ui_upgrade_title_HornProjectId2">Tier 3 Upgrade</string>
+	<string key="ui_upgrade_title_ExplosiveProjectId">Tier 2 Upgrade</string>
+	<string key="ui_upgrade_title_ExplosiveProjectId2">Tier 3 Upgrade</string>
 	<string key="ui_upgrade_titleNoMarkup_BlacksmithProjectId">Tier 3 Upgrade</string>
 	<string key="ui_upgrade_titleNoMarkup_BlacksmithProjectId2">Tier 4 Upgrade</string>
 	<string key="ui_upgrade_titleNoMarkup_BlacksmithProjectId3">Tier 5 Upgrade</string>
@@ -387,56 +387,56 @@
 	<string key="ui_upgrade_titleNoMarkup_HornProjectId2">Tier 3 Upgrade</string>
 	<string key="ui_upgrade_titleNoMarkup_ExplosiveProjectId">Upgrade Tier 2</string>
 	<string key="ui_upgrade_titleNoMarkup_ExplosiveProjectId2">Tier 3 Upgrade</string>
-	<string key="ui_upgrade_button_BlacksmithProjectId">Forge Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt;</string>
-	<string key="ui_upgrade_button_BlacksmithProjectId2">Forge Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt;</string>
-	<string key="ui_upgrade_button_BlacksmithProjectId3">Forge Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;4&lt;/font&gt;</string>
-	<string key="ui_upgrade_button_SmeltingProjectId">Smelter Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt;</string>
-	<string key="ui_upgrade_button_SmeltingProjectId2">Smelter Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;4&lt;/font&gt;</string>
-	<string key="ui_upgrade_button_SmeltingProjectId3">Smelter Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;5&lt;/font&gt;</string>
-	<string key="ui_upgrade_button_CarpentryProjectId">Woodshop Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt;</string>
-	<string key="ui_upgrade_button_CarpentryProjectId2">Woodshop Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;4&lt;/font&gt;</string>
-	<string key="ui_upgrade_button_CarpentryProjectId3">Woodshop Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;5&lt;/font&gt;</string>
-	<string key="ui_upgrade_button_MasonryProjectId">Stonecutting Table Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt;</string>
-	<string key="ui_upgrade_button_MasonryProjectId2">Stonecutting Table Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;4&lt;/font&gt;</string>
-	<string key="ui_upgrade_button_MasonryProjectId3">Stonecutting Table Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;5&lt;/font&gt;</string>
-	<string key="ui_upgrade_button_WeavingProjectId">Loom Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt;</string>
-	<string key="ui_upgrade_button_WeavingProjectId2">Loom Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;4&lt;/font&gt;</string>
-	<string key="ui_upgrade_button_WeavingProjectId3">Loom Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;5&lt;/font&gt;</string>
-	<string key="ui_upgrade_button_TanningProjectId">Tannery Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt;</string>
-	<string key="ui_upgrade_button_TanningProjectId2">Tannery Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;4&lt;/font&gt;</string>
-	<string key="ui_upgrade_button_TanningProjectId3">Tannery Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;5&lt;/font&gt;</string>
-	<string key="ui_upgrade_button_EngineeringProjectId">Workshop Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt;</string>
-	<string key="ui_upgrade_button_EngineeringProjectId2">Workshop Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt;</string>
-	<string key="ui_upgrade_button_EngineeringProjectId3">Workshop Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;4&lt;/font&gt;</string>
-	<string key="ui_upgrade_button_OutfittingProjectId">Outfitting Station Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt;</string>
-	<string key="ui_upgrade_button_OutfittingProjectId2">Outfitting Station Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt;</string>
-	<string key="ui_upgrade_button_OutfittingProjectId3">Outfitting Station Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;4&lt;/font&gt;</string>
-	<string key="ui_upgrade_button_AlchemistProjectId">Arcane Repository Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt;</string>
-	<string key="ui_upgrade_button_AlchemistProjectId2">Arcane Repository Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt;</string>
-	<string key="ui_upgrade_button_AlchemistProjectId3">Arcane Repository Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;4&lt;/font&gt;</string>
-	<string key="ui_upgrade_button_CookingProjectId">Kitchen Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt;</string>
-	<string key="ui_upgrade_button_CookingProjectId2">Kitchen Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt;</string>
-	<string key="ui_upgrade_button_CookingProjectId3">Kitchen Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;4&lt;/font&gt;</string>
-	<string key="ui_upgrade_button_FortGatesProjectId">Gates Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;1&lt;/font&gt;</string>
-	<string key="ui_upgrade_button_FortGatesProjectId2">Gates Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt;</string>
-	<string key="ui_upgrade_button_FortGatesProjectId3">Gates Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt;</string>
+	<string key="ui_upgrade_button_BlacksmithProjectId">Forge Tier 2</string>
+	<string key="ui_upgrade_button_BlacksmithProjectId2">Forge Tier 3</string>
+	<string key="ui_upgrade_button_BlacksmithProjectId3">Forge Tier 4</string>
+	<string key="ui_upgrade_button_SmeltingProjectId">Smelter Tier 3</string>
+	<string key="ui_upgrade_button_SmeltingProjectId2">Smelter Tier 4</string>
+	<string key="ui_upgrade_button_SmeltingProjectId3">Smelter Tier 5</string>
+	<string key="ui_upgrade_button_CarpentryProjectId">Woodshop Tier 3</string>
+	<string key="ui_upgrade_button_CarpentryProjectId2">Woodshop Tier 4</string>
+	<string key="ui_upgrade_button_CarpentryProjectId3">Woodshop Tier 5</string>
+	<string key="ui_upgrade_button_MasonryProjectId">Stonecutting Table Tier 3</string>
+	<string key="ui_upgrade_button_MasonryProjectId2">Stonecutting Table Tier 4</string>
+	<string key="ui_upgrade_button_MasonryProjectId3">Stonecutting Table Tier 5</string>
+	<string key="ui_upgrade_button_WeavingProjectId">Loom Tier 3</string>
+	<string key="ui_upgrade_button_WeavingProjectId2">Loom Tier 4</string>
+	<string key="ui_upgrade_button_WeavingProjectId3">Loom Tier 5</string>
+	<string key="ui_upgrade_button_TanningProjectId">Tannery Tier 3</string>
+	<string key="ui_upgrade_button_TanningProjectId2">Tannery Tier 4</string>
+	<string key="ui_upgrade_button_TanningProjectId3">Tannery Tier 5</string>
+	<string key="ui_upgrade_button_EngineeringProjectId">Workshop Tier 2</string>
+	<string key="ui_upgrade_button_EngineeringProjectId2">Workshop Tier 3</string>
+	<string key="ui_upgrade_button_EngineeringProjectId3">Workshop Tier 4</string>
+	<string key="ui_upgrade_button_OutfittingProjectId">Outfitting Station Tier 2</string>
+	<string key="ui_upgrade_button_OutfittingProjectId2">Outfitting Station Tier 3</string>
+	<string key="ui_upgrade_button_OutfittingProjectId3">Outfitting Station Tier 4</string>
+	<string key="ui_upgrade_button_AlchemistProjectId">Arcane Repository Tier 2</string>
+	<string key="ui_upgrade_button_AlchemistProjectId2">Arcane Repository Tier 3</string>
+	<string key="ui_upgrade_button_AlchemistProjectId3">Arcane Repository Tier 4</string>
+	<string key="ui_upgrade_button_CookingProjectId">Kitchen Tier 2</string>
+	<string key="ui_upgrade_button_CookingProjectId2">Kitchen Tier 3</string>
+	<string key="ui_upgrade_button_CookingProjectId3">Kitchen Tier 4</string>
+	<string key="ui_upgrade_button_FortGatesProjectId">Gates Tier 1</string>
+	<string key="ui_upgrade_button_FortGatesProjectId2">Gates Tier 2</string>
+	<string key="ui_upgrade_button_FortGatesProjectId3">Gates Tier 3</string>
 	<string key="ui_upgrade_button_FortHardPointsProjectId">Emplacement Points</string>
 	<string key="ui_upgrade_button_FortHardPointsProjectId2">Emplacement Points</string>
-	<string key="ui_upgrade_button_BallistaProjectId">Ballistae Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;1&lt;/font&gt;</string>
-	<string key="ui_upgrade_button_BallistaProjectId2">Ballistae Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt;</string>
-	<string key="ui_upgrade_button_BallistaProjectId3">Ballistae Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt;</string>
-	<string key="ui_upgrade_button_FireBarrelProjectId">Burning Oil Vat Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;1&lt;/font&gt;</string>
-	<string key="ui_upgrade_button_FireBarrelProjectId2">Burning Oil Vat Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt;</string>
-	<string key="ui_upgrade_button_FireBarrelProjectId3">Burning Oil Vat Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt;</string>
-	<string key="ui_upgrade_button_RepeaterProjectId">Repeaters Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;1&lt;/font&gt;</string>
-	<string key="ui_upgrade_button_RepeaterProjectId2">Repeaters Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt;</string>
-	<string key="ui_upgrade_button_RepeaterProjectId3">Repeaters Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt;</string>
-	<string key="ui_upgrade_button_HornProjectId">Warhorns Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;1&lt;/font&gt;</string>
-	<string key="ui_upgrade_button_HornProjectId2">Warhorns Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt;</string>
-	<string key="ui_upgrade_button_HornProjectId3">Warhorns Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt;</string>
-	<string key="ui_upgrade_button_ExplosiveProjectId">Explosives Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;1&lt;/font&gt;</string>
-	<string key="ui_upgrade_button_ExplosiveProjectId2">Explosives Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt;</string>
-	<string key="ui_upgrade_button_ExplosiveProjectId3">Explosives Tier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt;</string>
+	<string key="ui_upgrade_button_BallistaProjectId">Ballistae Tier 1</string>
+	<string key="ui_upgrade_button_BallistaProjectId2">Ballistae Tier 2</string>
+	<string key="ui_upgrade_button_BallistaProjectId3">Ballistae Tier 3</string>
+	<string key="ui_upgrade_button_FireBarrelProjectId">Burning Oil Vat Tier 1</string>
+	<string key="ui_upgrade_button_FireBarrelProjectId2">Burning Oil Vat Tier 2</string>
+	<string key="ui_upgrade_button_FireBarrelProjectId3">Burning Oil Vat Tier 3</string>
+	<string key="ui_upgrade_button_RepeaterProjectId">Repeaters Tier 1</string>
+	<string key="ui_upgrade_button_RepeaterProjectId2">Repeaters Tier 2</string>
+	<string key="ui_upgrade_button_RepeaterProjectId3">Repeaters Tier 3</string>
+	<string key="ui_upgrade_button_HornProjectId">Warhorns Tier 1</string>
+	<string key="ui_upgrade_button_HornProjectId2">Warhorns Tier 2</string>
+	<string key="ui_upgrade_button_HornProjectId3">Warhorns Tier 3</string>
+	<string key="ui_upgrade_button_ExplosiveProjectId">Explosives Tier 1</string>
+	<string key="ui_upgrade_button_ExplosiveProjectId2">Explosives Tier 2</string>
+	<string key="ui_upgrade_button_ExplosiveProjectId3">Explosives Tier 3</string>
 	<string key="ui_upgrade_desc_BlacksmithProjectId">Unlock additional Tier 3 crafts and an Azoth Discount.</string>
 	<string key="ui_upgrade_desc_BlacksmithProjectId2">Unlock additional Tier 4 crafts and an Azoth Discount.</string>
 	<string key="ui_upgrade_desc_BlacksmithProjectId3">Unlock additional Tier 5 crafts and an Azoth Discount.</string>
@@ -718,6 +718,7 @@
 	<string key="influence_defended_amount" rel_version="Feature_Influence_V2">INFLUENCE DEFENDED</string>
 	<string key="influence_total_kills" rel_version="Feature_Influence_V2">OPEN WORLD KILLS</string>
 	<string key="Cutlass_Keys_Tower_01" rel_version="Feature_Influence_V2">South Cutlass Keys Watch</string>
+	<string key="Cutlass_Keys_Tower_01_CKRV" rel_version="Territory_CutlassKeys_Rework">Central Cutlass Keys Watch</string>
 	<string key="Cutlass_Keys_Tower_02" rel_version="Feature_Influence_V2">North Cutlass Keys Watch</string>
 	<string key="Cutlass_Keys_Tower_03" rel_version="Feature_Influence_V2">East Cutlass Keys Watch</string>
 	<string key="Windsward_Tower_01" rel_version="Feature_Influence_V2">South Windsward Watch</string>
@@ -754,9 +755,9 @@
 	<string key="Edengrove_Tower_02" rel_version="Feature_Influence_V2">South Edengrove Watch</string>
 	<string key="Edengrove_Tower_03" rel_version="Feature_Influence_V2">North Edengrove Watch</string>
 	<string key="generic_influence_tower_description" rel_version="Feature_Influence_V2">This Control Point is capturable during an Influence Race.\n\n&lt;img src="lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease" xPadding="0" scale="2" yOffset="4"&gt;&lt;/img&gt;&lt;font color="#ebe3d6"&gt;&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;+{TowerInfluenceValue}&lt;/font&gt;&lt;/font&gt; Influence every 5 seconds \n&lt;img src="lyshineui/images/icons/FactionBuffs/FC_Buff_IPIncrease" xPadding="0" scale="2" yOffset="4"&gt;&lt;/img&gt;&lt;font color="#ebe3d6"&gt;&lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;+{TowerPercentageValue}%&lt;/font&gt;&lt;/font&gt; Influence earned</string>
-	<string key="influence_myfaction_1" rel_version="Feature_Influence_V2">MY FACTION: &lt;img src="lyshineui/images/crests/foregrounds/icon_faction_fg_1_colored_small" xPadding="0" scale="2" yOffset="15"&gt;&lt;/img&gt; &lt;font face="lyshineui/fonts/CaslonAnt.font" color="#8c37d9"&gt;Syndicate&lt;/font&gt;</string>
-	<string key="influence_myfaction_2" rel_version="Feature_Influence_V2">MY FACTION: &lt;img src="lyshineui/images/crests/foregrounds/icon_faction_fg_2_colored_small" xPadding="0" scale="2" yOffset="15"&gt;&lt;/img&gt; &lt;font face="lyshineui/fonts/CaslonAnt.font" color="#149834"&gt;Marauders&lt;/font&gt;</string>
-	<string key="influence_myfaction_3" rel_version="Feature_Influence_V2">MY FACTION: &lt;img src="lyshineui/images/crests/foregrounds/icon_faction_fg_3_colored_small" xPadding="0" scale="2" yOffset="15"&gt;&lt;/img&gt; &lt;font face="lyshineui/fonts/CaslonAnt.font" color="#edc63e"&gt;Covenant&lt;/font&gt;</string>
+	<string key="influence_myfaction_1" rel_version="Feature_Influence_V2">MY FACTION: &lt;img src="lyshineui/images/crests/foregrounds/icon_faction_fg_1_colored_small" xPadding="0" scale="2" yOffset="15"&gt;&lt;/img&gt; &lt;font face="lyshineui/fonts/Pica_Regular.font" color="#8c37d9"&gt;Syndicate&lt;/font&gt;</string>
+	<string key="influence_myfaction_2" rel_version="Feature_Influence_V2">MY FACTION: &lt;img src="lyshineui/images/crests/foregrounds/icon_faction_fg_2_colored_small" xPadding="0" scale="2" yOffset="15"&gt;&lt;/img&gt; &lt;font face="lyshineui/fonts/Pica_Regular.font" color="#149834"&gt;Marauders&lt;/font&gt;</string>
+	<string key="influence_myfaction_3" rel_version="Feature_Influence_V2">MY FACTION: &lt;img src="lyshineui/images/crests/foregrounds/icon_faction_fg_3_colored_small" xPadding="0" scale="2" yOffset="15"&gt;&lt;/img&gt; &lt;font face="lyshineui/fonts/Pica_Regular.font" color="#edc63e"&gt;Covenant&lt;/font&gt;</string>
 	<string key="influence_tower_ownership_title" rel_version="Feature_Influence_V2">TOWER OWNERSHIP</string>
 	<string key="influence_view_previous_influence_race" rel_version="Feature_Influence_V2">View Race Results</string>
 </resources>

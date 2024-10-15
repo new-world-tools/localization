@@ -31,9 +31,9 @@
 	<string key="ui_area_northwindsward_11">Salt Hollow</string>
 	<string key="ui_area_northwindsward_10_Inn" rel_version="Feature_Mounts">Jochi's Stable</string>
 	<string key="ui_area_firstlight_11_Inn">Zinnumun's Stable</string>
-	<string key="ui_area_greatcleave_2_Inn">Valenica's Stable</string>
+	<string key="ui_area_greatcleave_2_Inn">Valencia's Stable</string>
 	<string key="ui_area_brimstonesands_7_inn">Satiah's Stable</string>
-	<string key="ui_area_weaversfen_4_Inn" rel_version="Feature_Mounts">Francois's Stable</string>
+	<string key="ui_area_weaversfen_4_Inn" rel_version="Feature_Mounts">François's Stable</string>
 	<string key="ui_area_brightwood_1">Wolfsegg</string>
 	<string key="ui_area_brightwood_2">Wolfbough</string>
 	<string key="ui_area_brightwood_3">Lake Genevieve</string>
@@ -95,14 +95,18 @@
 	<string key="ui_area_ancientcrater_17">Wyrdwood Twists</string>
 	<string key="ui_area_windswardshores_1">Homely Hills</string>
 	<string key="ui_area_windswardshores_2">Ancient's Pass</string>
+	<string key="ui_area_windswardshores_2_V2" rel_version="Territory_CutlassKeys_Rework">Pirate's Pass</string>
 	<string key="ui_area_windswardshores_3">Salty Marshes</string>
 	<string key="ui_area_windswardshores_4">Rubble Shores</string>
 	<string key="ui_area_windswardshores_5">Broken Dunes</string>
 	<string key="ui_area_windswardshores_6">Balmy Veldt</string>
+	<string key="ui_area_windswardshores_6_V2" rel_version="Territory_CutlassKeys_Rework">Cutthroat Hill</string>
 	<string key="ui_area_windswardshores_7">Condemned Shallows</string>
 	<string key="ui_area_windswardshores_8">Haunted Isle</string>
 	<string key="ui_area_windswardshores_9">Cayo de la Muerte</string>
-	<string key="ui_area_windswardshores_7_FFA">Condemned Shallows</string>
+	<string key="ui_area_windswardshores_7_FFA" rel_version="Territory_CutlassKeys_Rework">Cursed Mists</string>
+	<string key="ui_area_windswardshores_8_V2" rel_version="Territory_CutlassKeys_Rework">Cayo de la Muerte</string>
+	<string key="ui_area_windswardshores_9_FFA_Transition" rel_version="Territory_CutlassKeys_Rework">Lucid Fringe</string>
 	<string key="ui_area_eastconsolation_1">Sunshade Plains</string>
 	<string key="ui_area_eastconsolation_2">Bubbly Bay</string>
 	<string key="ui_area_eastconsolation_3">Solitude</string>

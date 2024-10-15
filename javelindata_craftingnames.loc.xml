@@ -1849,10 +1849,10 @@
 	<string key="Procedural_RapierT3_WC" rel_version="Event_WinterConvergence_Perm">Tip of the Iceberg</string>
 	<string key="Procedural_RapierT4_WC" rel_version="Event_WinterConvergence_Perm">Tip of the Iceberg</string>
 	<string key="Procedural_RapierT5_WC" rel_version="Event_WinterConvergence_Perm">Tip of the Iceberg</string>
-	<string key="Procedural_WarHammerT2_WC" rel_version="Event_WinterConvergence_Perm">Winter's Warhammer</string>
-	<string key="Procedural_WarHammerT3_WC" rel_version="Event_WinterConvergence_Perm">Winter's Warhammer</string>
-	<string key="Procedural_WarHammerT4_WC" rel_version="Event_WinterConvergence_Perm">Winter's Warhammer</string>
-	<string key="Procedural_WarHammerT5_WC" rel_version="Event_WinterConvergence_Perm">Winter's Warhammer</string>
+	<string key="Procedural_WarHammerT2_WC" rel_version="Event_WinterConvergence_Perm">Winter's War Hammer</string>
+	<string key="Procedural_WarHammerT3_WC" rel_version="Event_WinterConvergence_Perm">Winter's War Hammer</string>
+	<string key="Procedural_WarHammerT4_WC" rel_version="Event_WinterConvergence_Perm">Winter's War Hammer</string>
+	<string key="Procedural_WarHammerT5_WC" rel_version="Event_WinterConvergence_Perm">Winter's War Hammer</string>
 	<string key="Procedural_2hGreatAxeT2_WC" rel_version="Event_WinterConvergence_Perm">Everchill Cleaver</string>
 	<string key="Procedural_2hGreatAxeT3_WC" rel_version="Event_WinterConvergence_Perm">Everchill Cleaver</string>
 	<string key="Procedural_2hGreatAxeT4_WC" rel_version="Event_WinterConvergence_Perm">Everchill Cleaver</string>
@@ -2028,13 +2028,23 @@
 	<string key="CraftArtifact_Set1_Earring2_Name" rel_version="Feature_Artifacts_Set2">Ocean's Peace Upgrade at the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set1_Ring2_Name" rel_version="Feature_Artifacts_Set2">Mastermind Upgrade at the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set1_Amulet2_Name">Ankh Upgrade at the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set2_HeavyChest_Name" rel_version="Feature_Artifacts_S6">Survivor's Coat Upgrade At the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set2_HeavyHands_Name" rel_version="Feature_Artifacts_S5">Gilli's Gravity Gauntlets Upgrade At the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set2_HeavyLegs_Name" rel_version="Feature_Artifacts_S5">Ironheart Upgrade At the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set2_MediumChest_Name" rel_version="Feature_Artifacts_S5">Nature's Wrath Upgrade At the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set2_MediumHands_Name" rel_version="Feature_Artifacts_S6">Ghostly Touch Upgrade At the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set2_MediumLegs_Name" rel_version="Feature_Artifacts_S6">Azoth Conductors Upgrade At the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set2_LightHead_Name" rel_version="Feature_Artifacts_S6">Cowl of Power Upgrade At the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set2_LightFeet_Name" rel_version="Feature_Artifacts_S5">Creed Boots Upgrade At the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set2_1hThrowingAxe_Name" rel_version="Feature_Artifacts_S5">Sin Upgrade At the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set2_2hWarhammer_Name" rel_version="Feature_Artifacts_S6">Trsna Upgrade At the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set2_2hGreatAxe_Name" rel_version="Feature_Artifacts_S5">Tempest Fury Upgrade At the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set2_2hSpear_Name" rel_version="Feature_Artifacts_S5">Venom Upgrade At the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set2_2hGreatSword_Name" rel_version="Feature_Artifacts_S6">Grace Upgrade At the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set2_1hFlail_Name" rel_version="Feature_Artifacts_S6">Power Stone Upgrade At the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set2_Ring1_Name" rel_version="Feature_Artifacts_S6">Elemental Band Upgrade At the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set2_Amulet1_Name" rel_version="Feature_Artifacts_S5">Phoenix Upgrade At the Gypsum Kiln</string>
+	<string key="AquaeRejya" rel_version="Raid_CutlassKeys_00">Aquae Rejya</string>
+	<string key="GorgonEssence" rel_version="Raid_CutlassKeys_00">Gorgon's Essence</string>
 </resources>
 

@@ -1,0 +1,13 @@
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="fish_perronelle" comment="female">Perronelle le Noir</string>
+	<string key="fish_perronelle_t">Seeker of the Questing Bass</string>
+	<string key="fish_khadijah" comment="female">Khadijah Bahri</string>
+	<string key="fish_khadijah_t">Fishing Squire</string>
+	<string key="fish_ishikawa" comment="male">Urashima Ishii</string>
+	<string key="fish_ishikawa_t">Fishing Squire</string>
+	<string key="fish_pelles" comment="male">Pelles le Noir</string>
+	<string key="fish_pelles_t">Regurgitated Fish Food</string>
+	<string key="fish_pelles_king" comment="male">Pelles le Noir</string>
+	<string key="fish_pelles_king_t">Fisher King</string>
+</resources>
+

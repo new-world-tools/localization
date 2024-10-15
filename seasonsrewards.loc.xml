@@ -16,6 +16,11 @@
 	<string key="data_season_05_name" rel_version="Season_5_Perm">Season 5: Season of the Guardian</string>
 	<string key="data_season_05_display_name" rel_version="Season_5_Perm">Season 5</string>
 	<string key="data_season_05_desc" rel_version="Season_5_Perm">Face foes old and new in the fifth Season for New World</string>
+	<string key="data_season_06_name" rel_version="Season_6_Perm">Season 6: Season of Opportunity</string>
+	<string key="data_season_06_display_name" rel_version="Season_6_Perm">Season 6</string>
+	<string key="data_season_06_desc" rel_version="Season_6_Perm">Carve your destiny through the depths of Aeternum to uncover seasonal armor and weapon skins, transmog tokens, and other treasures long lost to the outside world. Welcome to the cursed isle.\n\n• Mysterious Artifacts of unknown origin continue to tempt even the most ambitious Adventurers. Wear the &lt;font color="#edc63e"&gt;Cowl of Power&lt;/font&gt; to turn the tide of battle when your mana is low or wield the &lt;font color="#edc63e"&gt;Grace Greatsword&lt;/font&gt; for greater offensive speed.\n\n• Plunge into your next quest with &lt;font color="#edc63e"&gt;Nautical Gladiator armor and weapon skins&lt;/font&gt; and serenade your fellow Adventurers with one of the &lt;font color="#edc63e"&gt;Seafarers Musical Instruments&lt;/font&gt;.\n\n• You can also look forward to acquiring the &lt;font color="#edc63e"&gt;Seafarers Camp skin&lt;/font&gt;, plus unique emotes like &lt;font color="#edc63e"&gt;Finger Guns&lt;/font&gt;.\n\n
+Discover the full collection of rewards, including &lt;font color="#edc63e"&gt;7,500 Marks of Fortune&lt;/font&gt; and &lt;font color="#edc63e"&gt;7 Transmog Tokens&lt;/font&gt;, through the in-game Season Pass menu.
+</string>
 	<string key="seasons_rewards_categorical_progression_id" rel_version="Feature_Seasons_Rewards">Season Pass</string>
 	<string key="seasons_rewards_tab_battlepass" rel_version="Feature_Seasons_Rewards">Battle Pass</string>
 	<string key="seasons_rewards_tab_journey" rel_version="Feature_Seasons_Rewards">Journey</string>
@@ -352,17 +357,26 @@
 	<string key="SeasonsRewardTrack_ClaimError_RewardAlreadyRedeemed" rel_version="Feature_Seasons_Rewards">Unable to claim this reward. It is already redeemed.</string>
 	<string key="SeasonsRewardTrack_ClaimError_NotEnoughInventorySpace" rel_version="Feature_Seasons_Rewards">Unable to claim this reward. Insufficient inventory space.</string>
 	<string key="SeasonsRewardTrack_ClaimError_LootLimitActive" rel_version="Feature_Seasons_Rewards">Unable to claim this reward. This item is loot limited and you already own this item.</string>
+	<string key="SeasonsRewardTrack_ClaimError_RewardGatedOnFreshStartWorld" rel_version="Feature_Seasons_Rewards">Unable to claim this reward. This item cannot be claimed in a Fresh Start World.</string>
 	<string key="SeasonsRewardTrack_ClaimError_PlayerHasNoFaction" rel_version="Feature_Seasons_Rewards">Unable to claim this reward. Must belong to a faction.</string>
 	<string key="SeasonsRewardTrack_ClaimError_Generic" rel_version="Feature_Seasons_Rewards">Unable to claim this reward. Please try again later.</string>
 	<string key="SeasonsRewardTrack_ClaimError_AlreadyClaimingReward" rel_version="Feature_Seasons_Rewards">You are already attempting to claim a reward. Please try again later.</string>
 	<string key="SeasonsRewardTrack_TransactionError" rel_version="Feature_Seasons_Rewards">Unable to process this transaction. Please try again later.</string>
 	<string key="SeasonsRewardTrack_PartialClaimWarning" rel_version="Feature_Seasons_Rewards">One or more of the items in this reward are already claimed on this account.</string>
-	<string key="SeasonsRewardTrack_LevelsPrice" rel_version="Feature_Seasons_Rewards">{price}&lt;img src="LyShineUI/Images/mtx/icon_mtx_currency" scale="0.78125"&gt;&lt;/img&gt;</string>
+	<string key="SeasonsRewardTrack_LevelsPrice" rel_version="Feature_Seasons_Rewards">&lt;img src="LyShineUI/Images/mtx/icon_mtx_currency" scale="0.78125"&gt;&lt;/img&gt;{price}</string>
 	<string key="SeasonsRewardTrack_ClaimUnclaimedButton" rel_version="Feature_Seasons_Rewards">Past Unclaimed Rewards</string>
 	<string key="SeasonsRewardsUnclaimed_UnclaimedPopupHeader" rel_version="Feature_Seasons_Rewards">Unclaimed Rewards</string>
 	<string key="SeasonsRewardsUnclaimed_UnclaimedPopupBody" rel_version="Feature_Seasons_Rewards">Any earned rewards from previous Seasons can be claimed for a limited time!\n\nGo to unclaimed Season rewards?</string>
 	<string key="ui_seasonpassrewardsinfo">&lt;img src="LyShineUI/Images/Icons/Misc/icon_question_orange" scale="2" yOffset="5"&gt;&lt;/img&gt;  Season Pass Rewards Information</string>
-	<string key="url_seasonpassrewardsinfo">https://www.newworld.com/en-us/news/articles/season-pass-free-and-premium-reward-tracks-faq</string>
+	<string key="url_seasonpassrewardsinfo_US" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.newworld.com/en-us/news/articles/season-pass-free-and-premium-reward-tracks-faq</string>
+	<string key="url_seasonpassrewardsinfo_GB" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.newworld.com/en-gb/news/articles/season-pass-free-and-premium-reward-tracks-faq</string>
+	<string key="url_seasonpassrewardsinfo_FR" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.newworld.com/fr-fr/news/articles/season-pass-free-and-premium-reward-tracks-faq</string>
+	<string key="url_seasonpassrewardsinfo_IT" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.newworld.com/it-it/news/articles/season-pass-free-and-premium-reward-tracks-faq</string>
+	<string key="url_seasonpassrewardsinfo_ES" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.newworld.com/es-es/news/articles/season-pass-free-and-premium-reward-tracks-faq</string>
+	<string key="url_seasonpassrewardsinfo_DE" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.newworld.com/de-de/news/articles/season-pass-free-and-premium-reward-tracks-faq</string>
+	<string key="url_seasonpassrewardsinfo_PL" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.newworld.com/pl-pl/news/articles/season-pass-free-and-premium-reward-tracks-faq</string>
+	<string key="url_seasonpassrewardsinfo_MX" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.newworld.com/es-mx/news/articles/season-pass-free-and-premium-reward-tracks-faq</string>
+	<string key="url_seasonpassrewardsinfo_BR" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.newworld.com/pt-br/news/articles/season-pass-free-and-premium-reward-tracks-faq</string>
 	<string key="SeasonsRewardTrack_SoftDisabledNotification" rel_version="Feature_Seasons_Rewards">Seasons activities are currently disabled</string>
 	<string key="ui_seasons_task_name_CollectGlyph_1" rel_version="Season_2_Perm">Glyph Scholar I</string>
 	<string key="ui_seasons_task_name_CollectGlyph_2" rel_version="Season_2_Perm">Glyph Scholar II</string>
@@ -545,7 +559,7 @@
 	<string key="ui_seasons_task_description_Quest_IntoTheDarkness" rel_version="Season_3_Perm">Complete Quest: Into the Darkness</string>
 	<string key="ui_seasons_task_name_RidingTradeskill" rel_version="Season_3_Perm">Riding Rookie</string>
 	<string key="ui_seasons_task_name_RidingTradeskill_2" rel_version="Season_3_Perm">Rising Rider</string>
-	<string key="ui_seasons_task_description_RidingTradeskill" rel_version="Season_3_Perm">Reach level {maxCount} in the Riding Tradeskill</string>
+	<string key="ui_seasons_task_description_RidingTradeskill" rel_version="Season_3_Perm">Reach level {maxCount} in the Riding Trade Skill</string>
 	<string key="ui_seasons_task_name_Forellac" rel_version="Season_3_Perm">Forellac Frolicker</string>
 	<string key="ui_seasons_task_description_Forellac" rel_version="Season_3_Perm">Discover Forellac</string>
 	<string key="ui_seasons_task_name_Quest_ToDivideAndConquer" rel_version="Season_3_Perm">Escape Artist</string>
@@ -553,7 +567,7 @@
 	<string key="ui_seasons_task_name_WarFirstLight" rel_version="Season_3_Perm">Battle for First Light</string>
 	<string key="ui_seasons_task_description_WarFirstLight" rel_version="Season_3_Perm">Participate in a War in First Light</string>
 	<string key="ui_seasons_task_name_LevelTradeskill250" rel_version="Season_3_Perm">Master of Your Craft</string>
-	<string key="ui_seasons_task_description_LevelTradeskill" rel_version="Season_3_Perm">Level a Tradeskill to {maxCount}</string>
+	<string key="ui_seasons_task_description_LevelTradeskill" rel_version="Season_3_Perm">Level a Trade Skill to {maxCount}</string>
 	<string key="ui_seasons_task_name_CraftGS700" rel_version="Season_3_Perm">Crafter of Greatness</string>
 	<string key="ui_seasons_task_name_CraftGS700_1" rel_version="Season_5_Perm">Crafter of Greatness I</string>
 	<string key="ui_seasons_task_name_CraftGS700_2" rel_version="Season_5_Perm">Crafter of Greatness II</string>
@@ -609,7 +623,7 @@
 	<string key="ui_seasons_task_name_Challenge_KillFlail" rel_version="Season_3_Perm">Frequent Flailer</string>
 	<string key="ui_seasons_task_description_Challenge_KillFlail" rel_version="Season_3_Perm">Kill {maxCount} Lvl65+ enemies with the Flail</string>
 	<string key="ui_seasons_task_name_Challenge_RidingTradeskill" rel_version="Season_3_Perm">Rough Rider</string>
-	<string key="ui_seasons_task_description_Challenge_RidingTradeskill" rel_version="Season_3_Perm">Reach level 250 in the Riding Tradeskill</string>
+	<string key="ui_seasons_task_description_Challenge_RidingTradeskill" rel_version="Season_3_Perm">Reach level 250 in the Riding Trade Skill</string>
 	<string key="ui_seasons_task_name_Challenge_KillFirstLight" rel_version="Season_3_Perm">Fading Light</string>
 	<string key="ui_seasons_task_description_Challenge_KillFirstLight" rel_version="Season_3_Perm">Defeat {maxCount} Enemies in Elysian Wilds</string>
 	<string key="ui_seasons_task_name_Challenge_CrystalclawFlawless" rel_version="Season_3_Perm">Completely Savage</string>
@@ -619,7 +633,7 @@
 	<string key="ui_seasons_task_name_Challenge_InfluenceRace" rel_version="Season_3_Perm">Aeternum Influencer</string>
 	<string key="ui_seasons_task_description_Challenge_InfluenceRace" rel_version="Season_3_Perm">Win {maxCount} Influence Races</string>
 	<string key="ui_seasons_task_name_Challenge_MaxTradeskills" rel_version="Season_3_Perm">Multi-Talented</string>
-	<string key="ui_seasons_task_description_Challenge_MaxTradeskills" rel_version="Season_3_Perm">Level 5 Tradeskills to 250</string>
+	<string key="ui_seasons_task_description_Challenge_MaxTradeskills" rel_version="Season_3_Perm">Level 5 Trade Skills to 250</string>
 	<string key="ui_seasons_task_name_Challenge_NamedFirstLight" rel_version="Season_3_Perm">Elysian Wilds Freedom Fighter</string>
 	<string key="ui_seasons_task_description_Challenge_NamedFirstLight" rel_version="Season_3_Perm">Kill {maxCount} Named enemies in Elysian Wilds</string>
 	<string key="ui_seasons_task_name_Challenge_EquipArtifacts" rel_version="Season_3_Perm">Legendary Adventurer</string>
@@ -637,6 +651,7 @@
 	<string key="ui_seasons_task_name_CompleteExpedition" rel_version="Season_4_Perm">Expedition Exploration</string>
 	<string key="ui_seasons_task_name_CompleteExpedition_1" rel_version="Season_5_Perm">Expedition Exploration I</string>
 	<string key="ui_seasons_task_name_CompleteExpedition_2" rel_version="Season_5_Perm">Expedition Exploration II</string>
+	<string key="ui_seasons_task_name_CompleteExpedition_3" rel_version="Season_5_Perm">Expedition Exploration III</string>
 	<string key="ui_seasons_task_name_CraftPotion" rel_version="Season_4_Perm">Potent Potions</string>
 	<string key="ui_seasons_task_name_KillElite" rel_version="Season_4_Perm">Elite Exorciser</string>
 	<string key="ui_seasons_task_name_KillElite_1" rel_version="Season_4_Perm">Elite Exorciser I</string>
@@ -730,7 +745,7 @@
 	<string key="ui_seasons_task_name_Challenge_FlawlessGlacialTarn" rel_version="Season_4_Perm">Glacial God</string>
 	<string key="ui_seasons_task_name_Challenge_LootElite" rel_version="Season_4_Perm">Boundless Spoils</string>
 	<string key="ui_seasons_task_name_Challenge_KillPlayers" rel_version="Season_4_Perm">Ice Cold Killer</string>
-	<string key="ui_seasons_task_description_Challenge_Aptitude" rel_version="Season_4_Perm">Gain {maxCount} Tradeskill Aptitude Levels</string>
+	<string key="ui_seasons_task_description_Challenge_Aptitude" rel_version="Season_4_Perm">Gain {maxCount} Trade Skill Aptitude Levels</string>
 	<string key="ui_seasons_task_description_Challenge_M3Expeditions" rel_version="Season_4_Perm">Complete {maxCount} M3 Expeditions</string>
 	<string key="ui_seasons_task_description_Challenge_S4Storyline" rel_version="Season_4_Perm">Complete the Season 4 Seasonal Storyline</string>
 	<string key="ui_seasons_task_description_Challenge_T52Resources" rel_version="Season_4_Perm">Gather Mythril Ore, Runewood, Spinfiber, or Dark Hide {maxCount} times</string>
@@ -756,7 +771,7 @@
 	<string key="ui_seasons_task_name_KillSirenQueen" rel_version="Season_5_Perm">Siren Regicide</string>
 	<string key="ui_seasons_task_description_KillSirenQueen" rel_version="Season_5_Perm">Defeat the Siren Queen at the Spire of Melpomene</string>
 	<string key="ui_seasons_task_name_GainAptitudeAny" rel_version="Season_5_Perm">Aptitude Addict</string>
-	<string key="ui_seasons_task_description_GainAptitudeAny" rel_version="Season_5_Perm">Gain {maxCount} Tradeskill Aptitude Levels</string>
+	<string key="ui_seasons_task_description_GainAptitudeAny" rel_version="Season_5_Perm">Gain {maxCount} Trade Skill Aptitude Levels</string>
 	<string key="ui_seasons_task_name_CraftWardT5" rel_version="Season_5_Perm">Wielder of Wards</string>
 	<string key="ui_seasons_task_description_CraftWardT5" rel_version="Season_5_Perm">Craft {maxCount} T5 Ward Potions</string>
 	<string key="ui_seasons_task_name_KillFlamekeeperIceGauntlet" rel_version="Season_5_Perm">Flame Extinguisher</string>
@@ -784,7 +799,7 @@
 	<string key="ui_seasons_task_name_Challenge_S5Completionist" rel_version="Season_5_Perm">Guardian Completionist</string>
 	<string key="ui_seasons_task_description_Challenge_S5Completionist" rel_version="Season_5_Perm">Complete all of this Season's Journey Tasks</string>
 	<string key="ui_seasons_task_name_Challenge_CraftingAptitude" rel_version="Season_5_Perm">Consummate Crafter</string>
-	<string key="ui_seasons_task_description_Challenge_CraftingAptitude" rel_version="Season_5_Perm">Gain {maxCount} Aptitude levels in Crafting Tradeskills</string>
+	<string key="ui_seasons_task_description_Challenge_CraftingAptitude" rel_version="Season_5_Perm">Gain {maxCount} Aptitude levels in Crafting Trade Skills</string>
 	<string key="ui_seasons_task_name_Challenge_PrismaticScarab" rel_version="Season_5_Perm">Prismatic Artisan</string>
 	<string key="ui_seasons_task_description_Challenge_PrismaticScarab" rel_version="Season_5_Perm">Craft {maxCount} items using a Prismatic Scarb</string>
 	<string key="ui_seasons_task_name_Challenge_DamageOrHealTrial" rel_version="Season_5_Perm">Champion of the Forge</string>
@@ -797,6 +812,61 @@
 	<string key="ui_seasons_task_description_Challenge_HiddenShrines" rel_version="Season_5_Perm">Raise a Soulwarden banner near each of the 6 Trial entrances</string>
 	<string key="ui_seasons_task_name_Challenge_KillElite60" rel_version="Season_5_Perm">Elite Exterminator</string>
 	<string key="ui_seasons_task_description_Challenge_KillElite60" rel_version="Season_5_Perm">Kill {maxCount} Elite level 60+ Enemies</string>
+	<string key="ui_seasons_task_name_FactionTokens_1" rel_version="Season_6_Perm">Faction Financier I</string>
+	<string key="ui_seasons_task_name_FactionTokens_2" rel_version="Season_6_Perm">Faction Financier II</string>
+	<string key="ui_seasons_task_name_RepeatableQuests_1" rel_version="Season_6_Perm">Repeat Offender I</string>
+	<string key="ui_seasons_task_name_RepeatableQuests_2" rel_version="Season_6_Perm">Repeat Offender II</string>
+	<string key="ui_seasons_task_name_RepeatableQuests_3" rel_version="Season_6_Perm">Repeat Offender III</string>
+	<string key="ui_seasons_task_name_AnyTrial_3" rel_version="Season_6_Perm">Trials and Tribulations III</string>
+	<string key="ui_seasons_task_name_KillLost" rel_version="Season_6_Perm">Lethal to Lost</string>
+	<string key="ui_seasons_task_description_KillLost" rel_version="Season_6_Perm">Kill {maxCount} Lost Enemies</string>
+	<string key="ui_seasons_task_name_RefineT3" rel_version="Season_6_Perm">Rough Refinery</string>
+	<string key="ui_seasons_task_description_RefineT3" rel_version="Season_6_Perm">Refine {maxCount} T3+ Resources</string>
+	<string key="ui_seasons_task_name_CraftFurnishingT3" rel_version="Season_6_Perm">Fine Furnishings</string>
+	<string key="ui_seasons_task_description_CraftFurnishingT3" rel_version="Season_6_Perm">Craft {maxCount} T3+ Items with Furnishing</string>
+	<string key="ui_seasons_task_name_CraftTrinketT4" rel_version="Season_6_Perm">Jolly Jeweler</string>
+	<string key="ui_seasons_task_description_CraftTrinketT4" rel_version="Season_6_Perm">Craft {maxCount} T4+ Trinkets</string>
+	<string key="ui_seasons_task_name_HercyneRaid" rel_version="Season_6_Perm">Hercyne Hero</string>
+	<string key="ui_seasons_task_description_HercyneRaidSingle" rel_version="Season_6_Perm">Complete the Hercyne Raid</string>
+	<string key="ui_seasons_task_description_HercyneRaid" rel_version="Season_6_Perm">Complete the Hercyne Raid {maxCount} Times</string>
+	<string key="ui_seasons_task_name_DiscoverPOICutlassKeys" rel_version="Season_6_Perm">Cutlass Cartographer</string>
+	<string key="ui_seasons_task_description_DiscoverPOICutlassKeys" rel_version="Season_6_Perm">Discover every POI in Cutlass Keys</string>
+	<string key="ui_seasons_task_name_SoloTrial" rel_version="Season_6_Perm">Solo Survival</string>
+	<string key="ui_seasons_task_description_SoloTrialSingle" rel_version="Season_6_Perm">Complete a Solo Trial</string>
+	<string key="ui_seasons_task_name_KillPlayerCK" rel_version="Season_6_Perm">Cutthroat Killer</string>
+	<string key="ui_seasons_task_description_KillPlayerCK" rel_version="Season_6_Perm">Kill {maxCount} Players in the Cutlass Keys Free-For-All Zone</string>
+	<string key="ui_seasons_task_name_KillNamedCK_1" rel_version="Season_6_Perm">Make a Name I</string>
+	<string key="ui_seasons_task_name_KillNamedCK_2" rel_version="Season_6_Perm">Make a Name II</string>
+	<string key="ui_seasons_task_description_KillNamedCK" rel_version="Season_6_Perm">Kill {maxCount} Named Enemies in Cutlass Keys</string>
+	<string key="ui_seasons_task_name_FlawlessArena" rel_version="Season_6_Perm">Arena Ace</string>
+	<string key="ui_seasons_task_description_FlawlessArena" rel_version="Season_6_Perm">Get {maxCount} Flawless Victories in the Arena</string>
+	<string key="ui_seasons_task_name_GatherCKPvPChest" rel_version="Season_6_Perm">High Risk High Reward</string>
+	<string key="ui_seasons_task_description_GatherCKPvPChest" rel_version="Season_6_Perm">Gather {maxCount} PvP Treasure Chests in Cutlass Keys</string>
+	<string key="ui_seasons_task_description_CraftGS700Plus" rel_version="Season_6_Perm">Craft {maxCount} GS 700+ items</string>
+	<string key="ui_seasons_task_name_GainAptitudeAny_1" rel_version="Season_6_Perm">Aptitude Addict I</string>
+	<string key="ui_seasons_task_name_GainAptitudeAny_2" rel_version="Season_6_Perm">Aptitude Addict II</string>
+	<string key="ui_seasons_task_name_AnyTrial_1" rel_version="Season_6_Perm">Trials and Tribulations I</string>
+	<string key="ui_seasons_task_name_AnyTrial_2" rel_version="Season_6_Perm">Trials and Tribulations II</string>
+	<string key="ui_seasons_task_name_Challenge_HercyneRaid" rel_version="Season_6_Perm">Hercyne Hercules</string>
+	<string key="ui_seasons_task_description_Challenge_HercyneRaid" rel_version="Season_6_Perm">Complete the Hercyne Raid {maxCount} Times</string>
+	<string key="ui_seasons_task_name_Challenge_KillNamed" rel_version="Season_6_Perm">Notorious Killer</string>
+	<string key="ui_seasons_task_description_Challenge_KillNamed" rel_version="Season_6_Perm">Kill {maxCount} Named Enemies</string>
+	<string key="ui_seasons_task_name_Challenge_S7Completionist" rel_version="Season_6_Perm">Hercyne Completionist</string>
+	<string key="ui_seasons_task_description_Challenge_S7Completionist" rel_version="Season_6_Perm">Complete all of this Season's Journey Tasks</string>
+	<string key="ui_seasons_task_name_Challenge_RefiningPostCap" rel_version="Season_6_Perm">Regal Refiner</string>
+	<string key="ui_seasons_task_description_Challenge_RefiningPostCap" rel_version="Season_6_Perm">Gain {maxCount} Aptitude levels in Refining Trade Skills</string>
+	<string key="ui_seasons_task_name_Challenge_CraftGS700_S7" rel_version="Season_6_Perm">Masterworker</string>
+	<string key="ui_seasons_task_description_Challenge_CraftGS700_S7" rel_version="Season_6_Perm">Craft {maxCount} GS 700+ Items</string>
+	<string key="ui_seasons_task_name_Challenge_RepeatableExpeditionQuest" rel_version="Season_6_Perm">Repeat Ruler</string>
+	<string key="ui_seasons_task_description_Challenge_RepeatableExpeditionQuest" rel_version="Season_6_Perm">Complete {maxCount} Repeatable Expedition Quests</string>
+	<string key="ui_seasons_task_name_Challenge_WinOutpostRush" rel_version="Season_6_Perm">Outpost Royal</string>
+	<string key="ui_seasons_task_description_Challenge_WinOutpostRush" rel_version="Season_6_Perm">Win {maxCount} Outpost Rush Matches</string>
+	<string key="ui_seasons_task_name_Challenge_WinInfluenceRace" rel_version="Season_6_Perm">Aeternum Imperator</string>
+	<string key="ui_seasons_task_description_Challenge_WinInfluenceRace" rel_version="Season_6_Perm">Win {maxCount} Influence Races</string>
+	<string key="ui_seasons_task_name_Challenge_HercyneBossBow" rel_version="Season_6_Perm">Gorgon Deadeye</string>
+	<string key="ui_seasons_task_description_Challenge_HercyneBossBow" rel_version="Season_6_Perm">Kill Broodmother Medusa in the Hive of Gorgons with a Bow</string>
+	<string key="ui_seasons_task_name_Challenge_Doubloons" rel_version="Season_6_Perm">Drowning in Doubloons</string>
+	<string key="ui_seasons_task_description_Challenge_Doubloons" rel_version="Season_6_Perm">Gather {maxCount} Cursed Doubloons from Cursed Chests in the Cutlass Keys Free-For-All Zone</string>
 	<string key="ui_seasons_wild_stamp_count" rel_version="Feature_Seasons_Rewards">&lt;img src="LyShineUI/Images/SeasonsRewards/Wild-Stamp-Icon-Small" scale="2" yOffset="7"&gt;&lt;/img&gt; Wild Stamps: {count}</string>
 	<string key="ui_seasons_wild_stamp_count_and_max" rel_version="Feature_Seasons_Rewards">&lt;img src="LyShineUI/Images/SeasonsRewards/Wild-Stamp-Icon-Small" scale="2" yOffset="7"&gt;&lt;/img&gt; Wild Stamps: {count}/{max}</string>
 	<string key="ui_seasons_wild_stamp_awarded_header" rel_version="Feature_Seasons_Rewards">Wild Stamp Bonus</string>
@@ -834,6 +904,10 @@
 	<string key="SeasonsActivities_CompleteRuneforge" rel_version="Season_5_Perm">Complete the Winter Rune Forge Trial</string>
 	<string key="SeasonsActivities_KillVoidGauntlet" rel_version="Season_5_Perm">Get Kills with the Void Gauntlet</string>
 	<string key="SeasonsActivities_PvPRewardTrack" rel_version="Season_5_Perm">Complete a level on the PvP Reward Track</string>
+	<string key="SeasonsActivities_KillPlayerRanged" rel_version="Season_6_Perm">Kill a Player with a Ranged Weapon</string>
+	<string key="SeasonsActivities_Heal5k" rel_version="Season_6_Perm">Heal Damage</string>
+	<string key="SeasonsActivities_CompleteAnyQuest" rel_version="Season_6_Perm">Complete a Quest</string>
+	<string key="SeasonsActivities_KillNamedCutlassKeys" rel_version="Season_6_Perm">Kill a Named Enemy in Cutlass Keys</string>
 	<string key="ui_seasons_task_placeholder_name" rel_version="Feature_Seasons_Rewards">PLACEHOLDER</string>
 	<string key="ui_seasons_task_placeholder_desc" rel_version="Feature_Seasons_Rewards">PLACEHOLDER</string>
 </resources>

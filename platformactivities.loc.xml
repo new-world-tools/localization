@@ -1,0 +1,14 @@
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="platform_activity_category_multiplayer" rel_version="ConsoleLaunch">Multiplayer</string>
+	<string key="platform_activity_arena" rel_version="ConsoleLaunch">3v3 Arena</string>
+	<string key="platform_activity_arena_description_a" rel_version="ConsoleLaunch">Two teams of three battle in a best-of-five format for fun and PvP rewards.</string>
+	<string key="platform_activity_arena_description_b" rel_version="ConsoleLaunch">Objective: Defeat the rival arena team.</string>
+	<string key="platform_activity_opr" rel_version="ConsoleLaunch">Outpost Rush</string>
+	<string key="platform_activity_opr_description_a" rel_version="ConsoleLaunch">Two teams of twenty command rival outposts, competing for fun and PvP rewards. Each team coordinates and balances time defeating rival players, capturing objectives, gathering resources, and building up their outpost.</string>
+	<string key="platform_activity_opr_description_b" rel_version="ConsoleLaunch">Objective: Defeat the rival outpost team.</string>
+	<string key="platform_activity_category_main_story" rel_version="ConsoleLaunch">Main Story Quest</string>
+	<string key="platform_activity_main_story" rel_version="ConsoleLaunch">Main Story</string>
+	<string key="platform_activity_main_story_description" rel_version="ConsoleLaunch">Explore and adventure across Aeternum, unlock the mystery of Azoth, and foil foes that seek to conquer humanity… or wipe it from the world.</string>
+	<string key="platform_activity_main_story_task_1" rel_version="ConsoleLaunch">Complete the Shattered Mountain, Brimstone Sands, and Elysian Wilds Story Arcs</string>
+</resources>
+

@@ -1,0 +1,54 @@
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="13A_Primrose" rel_version="Quest_MSQ2_WeaversFen">Primrose Gabrielis</string>
+	<string key="13A_Primrose_Title" rel_version="Quest_MSQ2_WeaversFen">Weaver-o'-the-Wisp</string>
+	<string key="13A_Maria" rel_version="Quest_MSQ2_WeaversFen">Maria Sancho</string>
+	<string key="13A_Maria_Title" rel_version="Quest_MSQ2_WeaversFen">Weaver-o'-the-Wisp</string>
+	<string key="13A_Agnes" rel_version="Quest_MSQ2_WeaversFen">Agnes Bartz</string>
+	<string key="13A_Agnes_Title" rel_version="Quest_MSQ2_WeaversFen">Merchant</string>
+	<string key="13A_Theuderic" rel_version="Quest_MSQ2_WeaversFen">Theuderic Julietti</string>
+	<string key="13A_Theuderic_Title" rel_version="Quest_MSQ2_WeaversFen">Merchant</string>
+	<string key="13A_Niall" rel_version="Quest_MSQ2_WeaversFen">Niall Maknab</string>
+	<string key="13A_Niall_Title" rel_version="Quest_MSQ2_WeaversFen">Friend to Gators</string>
+	<string rel_version="Quest_MSQ2_WeaversFen" xsi:nil="true"/>
+	<string key="13A_Commander" rel_version="Quest_MSQ2_WeaversFen">Commander Bergeron</string>
+	<string key="13A_Commander_Title" rel_version="Quest_MSQ2_WeaversFen">Maruader Commander</string>
+	<string key="13A_Alchemist" rel_version="Quest_MSQ2_WeaversFen">Alchemist Rubis</string>
+	<string key="13A_Alchemist_Title" rel_version="Quest_MSQ2_WeaversFen">Syndicate Alchemist</string>
+	<string key="13A_Adjudicator" rel_version="Quest_MSQ2_WeaversFen">Adjudicator Sheng</string>
+	<string key="13A_Adjudicator_Title" rel_version="Quest_MSQ2_WeaversFen">Covenant Adjudicator</string>
+	<string key="1310_Barkeep" rel_version="Quest_MSQ2_WeaversFen">Baltasar Flores</string>
+	<string key="1310_Barkeep_Title" rel_version="Quest_MSQ2_WeaversFen">Weaver's Fen Barkeep</string>
+	<string key="1322_innkeep" rel_version="Quest_MSQ2_WeaversFen">Chiyo Kaya</string>
+	<string key="1322_innkeep_Title" rel_version="Quest_MSQ2_WeaversFen">Innkeeper of The Thread's End</string>
+	<string key="13A_Pyro" rel_version="Quest_MSQ2_WeaversFen">"Torchy" Cabrera</string>
+	<string key="13A_MonsterHunter" rel_version="Quest_MSQ2_WeaversFen">Evelyn Van Heck</string>
+	<string key="13A_MonsterHunter_Title" rel_version="Quest_MSQ2_WeaversFen">Leader of the White Skulls</string>
+	<string key="13A_AnimalHunter" rel_version="Quest_MSQ2_WeaversFen">Samuel Worthington Bloodgood III</string>
+	<string key="13A_AnimalHunter_Title" rel_version="Quest_MSQ2_WeaversFen">Renowned Hunt Master Extraordinaire</string>
+	<string key="13A_Architect" rel_version="Quest_MSQ2_WeaversFen">Architect Na Li</string>
+	<string key="13A_PerfumeAlchemist" rel_version="Quest_MSQ2_WeaversFen">Tullius Volusus</string>
+	<string key="13A_PerfumeAlchemist_Title" rel_version="Quest_MSQ2_WeaversFen">Alchemist and Perfumer</string>
+	<string key="13A_Antiquarian" rel_version="Quest_MSQ2_WeaversFen">Dr. Leonie Roggeveen</string>
+	<string key="13A_Antiquarian_Title" rel_version="Quest_MSQ2_WeaversFen">Antiquarian</string>
+	<string key="13A_AntiquarianSpouse" rel_version="Quest_MSQ2_WeaversFen">Nora Roggeveen</string>
+	<string key="13A_AntiquarianSpouse_Title" rel_version="Quest_MSQ2_WeaversFen">Antiquarian</string>
+	<string key="13A_AntiquarianSpouse02" rel_version="Quest_MSQ2_WeaversFen">Nora Roggeveen</string>
+	<string key="9904_MSQ_Theophrastus" rel_version="Quest_MSQ2_WeaversFen">Dr. Theophrastus</string>
+	<string key="9904_MSQ_Theophrastus_title" rel_version="Quest_MSQ2_WeaversFen">Syndicate Alchemist</string>
+	<string key="9914_MSQ_Hunter" rel_version="Quest_MSQ2_WeaversFen">Julio Cienfuegos</string>
+	<string key="9914_MSQ_Hunter_title" rel_version="Quest_MSQ2_WeaversFen">Bear Hunter</string>
+	<string key="9915_MSQ_Researcher1" rel_version="Quest_MSQ2_WeaversFen">Piper Donahue</string>
+	<string key="9915_MSQ_Researcher1_title" rel_version="Quest_MSQ2_WeaversFen">Syndicate Researcher</string>
+	<string key="9916_MSQ_Researcher2" rel_version="Quest_MSQ2_WeaversFen">Ling Lim</string>
+	<string key="9916_MSQ_Researcher2_title" rel_version="Quest_MSQ2_WeaversFen">Syndicate Researcher</string>
+	<string key="9917_MSQ_Researcher3" rel_version="Quest_MSQ2_WeaversFen">Rinde Geirason</string>
+	<string key="9917_MSQ_Researcher3_title" rel_version="Quest_MSQ2_WeaversFen">Syndicate Researcher</string>
+	<string key="9918_MSQ_Researcher4" rel_version="Quest_MSQ2_WeaversFen">Lubin La Troisieme</string>
+	<string key="9918_MSQ_Researcher4_title" rel_version="Quest_MSQ2_WeaversFen">Syndicate Researcher</string>
+	<string key="13a_Guard1" rel_version="Quest_MSQ2_WeaversFen">Georg Haas</string>
+	<string key="13a_Guard1_title" rel_version="Quest_MSQ2_WeaversFen">Weaver's Fen Guard Captain</string>
+	<string key="13a_Guard2" rel_version="Quest_MSQ2_WeaversFen">Beatrix Jung</string>
+	<string key="13a_Guard2_title" rel_version="Quest_MSQ2_WeaversFen">Weaver's Fen Guard Captain</string>
+	<string key="13_InnName">The Thread's End Inn</string>
+</resources>
+

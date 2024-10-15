@@ -1,0 +1,5 @@
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="1524_Boatswain01_talk_Prompt" speaker="UI - player prompt">"You weren't listed in the manifest."</string>
+	<string key="1524_Boatswain01_talk_Response" speaker="Santiago Salazar" name="BoatswainSalazar" VO="npc_1524_Boatswain01_talk_Response" VO_Status="Recorded">That's a shame. I was really hoping to find out more about my past. I also had no luck with Niki Andris at the settlement. With any luck, the second ship holds more information about my past.</string>
+</resources>
+

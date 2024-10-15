@@ -92,9 +92,9 @@
 	<string key="ui_place_new_camp">Placing new camp will unbind from existing camp</string>
 	<string key="ui_open_arena_menu">View Trial Information</string>
 	<string key="ui_notification_summoning_stone_placed">SUMMONING STONE PLACED</string>
-	<string key="ui_watcherscampfire">Watcher's Campfire</string>
+	<string key="ui_watcherscampfire">Urda's Campfire</string>
 	<string key="ui_hunterscampfire">Hunter's Campfire</string>
-	<string key="ui_interact_tip_coin" rel_version="Feature_MusicalPerformances">{interactionName} {coin} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
+	<string key="ui_interact_tip_coin" rel_version="Feature_MusicalPerformances">{interactionName} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; {coin}</string>
 	<string key="ui_notification_tip_donated" rel_version="Feature_MusicalPerformances">Tip Donated</string>
 	<string key="ui_any_song_gather">[{keybind}] Perform any song to Gather</string>
 	<string key="ui_song_gather">[{keybind}] Perform {songName} to Gather</string>

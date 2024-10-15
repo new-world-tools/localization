@@ -51,10 +51,10 @@
 	<string key="cc_az_thumbr" rel_version="Feature_Controller">Right Thumbstick Button</string>
 	<string key="cc_az_shoulderl" rel_version="Feature_Controller">Left Shoulder Button</string>
 	<string key="cc_az_shoulderr" rel_version="Feature_Controller">Right Shoulder Button</string>
-	<string key="cc_az_a" rel_version="Feature_Controller">A Button</string>
-	<string key="cc_az_b" rel_version="Feature_Controller">B Button</string>
-	<string key="cc_az_x" rel_version="Feature_Controller">X Button</string>
-	<string key="cc_az_y" rel_version="Feature_Controller">Y Button</string>
+	<string key="cc_az_a" rel_version="Feature_Controller">A</string>
+	<string key="cc_az_b" rel_version="Feature_Controller">B</string>
+	<string key="cc_az_x" rel_version="Feature_Controller">X</string>
+	<string key="cc_az_y" rel_version="Feature_Controller">Y</string>
 	<string key="cc_az_triggerl" rel_version="Feature_Controller">Left Trigger</string>
 	<string key="cc_az_triggerr" rel_version="Feature_Controller">Right Trigger</string>
 	<string key="cc_az_thumblx" rel_version="Feature_Controller">Left Thumbstick X Axis</string>
@@ -71,6 +71,43 @@
 	<string key="cc_az_thumbr_right" rel_version="Feature_Controller">Right Thumbstick Right</string>
 	<string key="cc_az_triggerl_btn" rel_version="Feature_Controller">Left Trigger Button</string>
 	<string key="cc_az_triggerr_btn" rel_version="Feature_Controller">Right Trigger Button</string>
+	<string key="cc_az_dpad_up_ps" comment="This is for PlayStation controller button names" rel_version="Feature_Controller">Up Button</string>
+	<string key="cc_az_dpad_down_ps" comment="This is for PlayStation controller button names" rel_version="Feature_Controller">Down Button</string>
+	<string key="cc_az_dpad_left_ps" comment="This is for PlayStation controller button names" rel_version="Feature_Controller">Left Button</string>
+	<string key="cc_az_dpad_right_ps" comment="This is for PlayStation controller button names" rel_version="Feature_Controller">Right Button</string>
+	<string key="cc_az_dpadaxis_ps" comment="This is for PlayStation controller button names" rel_version="Feature_Controller">Dpad Axis</string>
+	<string key="cc_az_start_ps" comment="This is for PlayStation controller button names" rel_version="Feature_Controller">Options</string>
+	<string key="cc_az_back_ps" comment="This is for PlayStation controller button names" rel_version="Feature_Controller">Create</string>
+	<string key="cc_az_thumblaxis_ps" comment="This is for PlayStation controller button names" rel_version="Feature_Controller">Left Stick Axis</string>
+	<string key="cc_az_thumbraxis_ps" comment="This is for PlayStation controller button names" rel_version="Feature_Controller">Right Stick Axis</string>
+	<string key="cc_az_thumbl_ps" comment="This is for PlayStation controller button names" rel_version="Feature_Controller">L3</string>
+	<string key="cc_az_thumbr_ps" comment="This is for PlayStation controller button names" rel_version="Feature_Controller">R3</string>
+	<string key="cc_az_shoulderl_ps" comment="This is for PlayStation controller button names" rel_version="Feature_Controller">L1</string>
+	<string key="cc_az_shoulderr_ps" comment="This is for PlayStation controller button names" rel_version="Feature_Controller">R1</string>
+	<string key="cc_az_a_ps" comment="This is for PlayStation controller button names" rel_version="Feature_Controller">Cross</string>
+	<string key="cc_az_b_ps" comment="This is for PlayStation controller button names" rel_version="Feature_Controller">Circle</string>
+	<string key="cc_az_x_ps" comment="This is for PlayStation controller button names" rel_version="Feature_Controller">Square</string>
+	<string key="cc_az_y_ps" comment="This is for PlayStation controller button names" rel_version="Feature_Controller">Triangle</string>
+	<string key="cc_az_triggerl_ps" comment="This is for PlayStation controller button names" rel_version="Feature_Controller">L2</string>
+	<string key="cc_az_triggerr_ps" comment="This is for PlayStation controller button names" rel_version="Feature_Controller">R2</string>
+	<string key="cc_az_thumblx_ps" comment="This is for PlayStation controller button names" rel_version="Feature_Controller">Left Stick X Axis</string>
+	<string key="cc_az_thumbly_ps" comment="This is for PlayStation controller button names" rel_version="Feature_Controller">Left Stick Y Axis</string>
+	<string key="cc_az_thumbl_up_ps" comment="This is for PlayStation controller button names" rel_version="Feature_Controller">Left Stick Up</string>
+	<string key="cc_az_thumbl_down_ps" comment="This is for PlayStation controller button names" rel_version="Feature_Controller">Left Stick Down</string>
+	<string key="cc_az_thumbl_left_ps" comment="This is for PlayStation controller button names" rel_version="Feature_Controller">Left Stick Left</string>
+	<string key="cc_az_thumbl_right_ps" comment="This is for PlayStation controller button names" rel_version="Feature_Controller">Left Stick Right</string>
+	<string key="cc_az_thumbrx_ps" comment="This is for PlayStation controller button names" rel_version="Feature_Controller">Right Stick X Axis</string>
+	<string key="cc_az_thumbry_ps" comment="This is for PlayStation controller button names" rel_version="Feature_Controller">Right Stick Y Axis</string>
+	<string key="cc_az_thumbr_up_ps" comment="This is for PlayStation controller button names" rel_version="Feature_Controller">Right Stick Up</string>
+	<string key="cc_az_thumbr_down_ps" comment="This is for PlayStation controller button names" rel_version="Feature_Controller">Right Stick Down</string>
+	<string key="cc_az_thumbr_left_ps" comment="This is for PlayStation controller button names" rel_version="Feature_Controller">Right Stick Left</string>
+	<string key="cc_az_thumbr_right_ps" comment="This is for PlayStation controller button names" rel_version="Feature_Controller">Right Stick Right</string>
+	<string key="cc_az_triggerl_btn_ps" comment="This is for PlayStation controller button names" rel_version="Feature_Controller">L2</string>
+	<string key="cc_az_triggerr_btn_ps" comment="This is for PlayStation controller button names" rel_version="Feature_Controller">R2</string>
+	<string key="controller_disconnected_title">Controller Disconnected</string>
+	<string key="controller_disconnected_message">Please reconnect your controller to continue.</string>
+	<string key="channel_service_failed_title">Connection Error</string>
+	<string key="channel_service_failed_message">Unable to connect to New World: Aeternum servers. Check your network connection or contact support.</string>
 	<string key="capslock">Caps Lock</string>
 	<string key="backspace">Backspace</string>
 	<string key="enter">Enter</string>
@@ -115,6 +152,9 @@
 	<string key="inv_cannotsalvage_equipped">You cannot salvage equipped items.</string>
 	<string key="inv_cannotsalvage_full">You cannot salvage. Your inventory is full.</string>
 	<string key="inv_cannotsalvage_currencyfull">Cannot salvage because {currency} is at maximum capacity.</string>
+	<string key="inv_cannotsalvage_nofaction">Cannot salvage because you are not currently in a faction.</string>
+	<string key="inv_cannotopen_currencyfull">Cannot open because {currency} is at maximum capacity.</string>
+	<string key="inv_cannotopen_nofaction">Cannot open because you are not currently in a faction.</string>
 	<string key="ui_move_hint">Move</string>
 	<string key="ui_link_to_chat_hint">Link to Chat</string>
 	<string key="ui_split_stack_hint">Split Stack</string>
@@ -157,6 +197,8 @@
 	<string key="ui_affliction_weakness">weakness resistance</string>
 	<string key="ui_affliction_drowning">breath</string>
 	<string key="ui_affliction_drowning_tooltip">If you run out of breath, you suffocate and die.</string>
+	<string key="ui_affliction_fatigue">fatigue</string>
+	<string key="ui_affliction_fatigue_tooltip">Swimming in deep water drains your energy. If you run out of energy, you will drown.</string>
 	<string key="ui_affliction_stunned">stun resitance</string>
 	<string key="ui_affliction_stunned_tooltip">If you get concussed enough, you get stunned and can't move.</string>
 	<string key="ui_affliction_spores_tooltip">If you run out of spores resistance, you will become spore drenched and take 25% increased damage from all sources.</string>
@@ -212,6 +254,11 @@
 	<string key="ui_appearance_description">Customize the look of your avatar and make it your own.</string>
 	<string key="ui_appearance">Appearance</string>
 	<string key="ui_appearance_hold_to_rotate">Hold to Rotate</string>
+	<string key="ui_archetype" rel_version="Feature_ArchetypesV2">Archetype</string>
+	<string key="ui_proficiencies" rel_version="Feature_ArchetypesV2">Trade Skills</string>
+	<string key="ui_toggle_headgear" rel_version="Feature_ArchetypesV2">Toggle Headgear</string>
+	<string key="ui_world_select">World Select</string>
+	<string key="ui_world">World</string>
 	<string key="ui_armor">Armor</string>
 	<string key="ui_weapon">Weapon</string>
 	<string key="ui_trinket">Trinket</string>
@@ -244,6 +291,8 @@
 	<string key="ui_c">c</string>
 	<string key="ui_colors">Colors</string>
 	<string key="ui_camera">Camera</string>
+	<string key="ui_camera_cycle_ally">Cycle Ally Target</string>
+	<string key="ui_camera_cycle_enemy">Cycle Target</string>
 	<string key="ui_campfire">CAMPFIRE</string>
 	<string key="ui_camp_tooltip">Use [{keyName}] to place your camp. You can use the camp to rest or craft, and you can respawn there if you die. Placing and removing your camp is free, but you can only have one camp at a time.</string>
 	<string key="ui_camp_placed_tooltip">Hold [{keyName}] to deconstruct your camp so you can place it in a new location. Placing and removing your camp is free, but you can only have one camp at a time.</string>
@@ -275,6 +324,9 @@
 	<string key="ui_togglecompare">Compare</string>
 	<string key="ui_moreoptions">Actions</string>
 	<string key="ui_chat">Chat</string>
+	<string key="ui_chat_write">Write</string>
+	<string key="ui_chat_send">Send</string>
+	<string key="ui_chat_start_dm">Start Direct Message</string>
 	<string key="ui_chat_command">Chat Command</string>
 	<string key="ui_chat_display_settings">DISPLAY SETTINGS</string>
 	<string key="ui_chat_slash_commands">Slash Commands</string>
@@ -283,7 +335,9 @@
 	<string key="ui_choose_item_skin">Change Skin</string>
 	<string key="ui_chatchannel">Chat Channel</string>
 	<string key="ui_voicechatmessage" comment="There are a lot of tags in this string, but the 'says' is the only part that needs to be translated/moved. Keep the colon. It is used by the text to speech system to pause.">&lt;volume level="{volumeValue}"&gt;&lt;rate absspeed="{rateValue}"&gt;{playerName} says: &lt;pitch middle="{pitchValue}"&gt;{message}&lt;/pitch&gt;&lt;/rate&gt;&lt;/volume&gt;</string>
+	<string key="ui_voicechatmessage_notags" comment="Keep the colon. It is used by the text to speech system to pause.">{playerName} says: {message}</string>
 	<string key="ui_voicesystemmessage">&lt;volume level="{volumeValue}"&gt;&lt;rate absspeed="{rateValue}"&gt;{message}&lt;/rate&gt;&lt;/volume&gt;</string>
+	<string key="ui_voicesystemmessage_notags">{message}</string>
 	<string key="ui_voicechat_bleep">bleep</string>
 	<string key="ui_circleclicker">Circle Clicker</string>
 	<string key="ui_clickanywhere">Click Anywhere</string>
@@ -308,15 +362,16 @@
 	<string key="ui_purchase_slot_button">Purchase Slot</string>
 	<string key="ui_convertitem">Convert {numItems} Items</string>
 	<string key="ui_copperaxehead">copper axe head</string>
-	<string key="ui_copyright">Copyright © 2021-2024, Amazon.com, Inc. or its affiliates. All rights reserved.</string>
+	<string key="ui_copyright">Copyright © 2024, Amazon.com, Inc. or its affiliates. All rights reserved.</string>
 	<string key="ui_craft">Craft</string>
-	<string key="ui_craft_fee">{territoryName} Fee: &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{fee} &lt;/font&gt;  &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="0.9" yOffset="0.7"&gt;&lt;/img&gt;</string>
-	<string key="ui_crafting_carried">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{amount}&lt;/font&gt; Carried</string>
+	<string key="ui_craft_fee">{territoryName} Fee: &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="0.9" yOffset="0.7"&gt;&lt;/img&gt; &lt;font face="lyshineui/fonts/Pica_Regular.font"&gt; {fee}&lt;/font&gt;</string>
+	<string key="ui_crafting_carried">&lt;font face="lyshineui/fonts/Pica_Regular.font"&gt;{amount}&lt;/font&gt; Carried</string>
 	<string key="ui_crafting_none">Items crafted without a special resource can still have perks, but are less likely to have a specific type.</string>
 	<string key="ui_crafting_item_perks">Item Perks</string>
 	<string key="ui_purchase_slot_hint_1">Additional character slot applies to all regions</string>
 	<string key="ui_purchase_slot_hint_2">A total of 4 characters can be created per region</string>
 	<string key="ui_createcharacter">Create Character</string>
+	<string key="ui_createcharacter_confirm">Would you like to proceed with creating a new character?</string>
 	<string key="ui_additionalcharacter">Additional Character Slot</string>
 	<string key="ui_validatingcharacter">VALIDATING</string>
 	<string key="ui_creategroup">Create Group</string>
@@ -325,6 +380,8 @@
 	<string key="ui_twitch_reward_view">View Reward(s)</string>
 	<string key="ui_prime_reward_notification">Prime Gaming Reward</string>
 	<string key="ui_prime_reward_text">You've received a Prime Gaming item</string>
+	<string key="ui_beta_already_preordered_notification">You've already pre-ordered</string>
+	<string key="ui_beta_purchasing_disabled_notification">Purchase not available during Beta</string>
 	<string key="ui_createnewcharacter">CREATE NEW CHARACTER</string>
 	<string key="ui_crest">Company Crest</string>
 	<string key="ui_crest_emblem">Crest Emblem</string>
@@ -431,11 +488,8 @@
 	<string key="ui_territory_upgrades">Territory Upgrades {upgradeCount}</string>
 	<string key="ui_territory_locked_title">TERRITORY LOCKED</string>
 	<string key="ui_expansion2023_title">Rise of the Angry Earth</string>
-	<string key="ui_territory_expansion2023_owned_locked_desc">Elysian Wilds is covered in deadly spores that will kill you in an instant. You will die if you continue.\n You must reach level 60 and complete &lt;font color="#edc63e"&gt;"The Invasion of Artemis"&lt;/font&gt; {location} to safely enter Elysian Wilds.</string>
-	<string key="ui_territory_expansion2023_not_owned_locked_desc">Elysian Wilds is covered in deadly spores that will kill you in an insant. You will die if you continue.\n You must own Rise of the Angry Earth, reach level 60 and complete &lt;font color="#edc63e"&gt;"The Invasion of Artemis"&lt;/font&gt; {location} to safely enter Elysian Wilds.</string>
-	<string key="ui_territory_expansion2023_quest_location_faction1">from the newly established settlement in Edengrove</string>
-	<string key="ui_territory_expansion2023_quest_location_faction2">from the outpost Mountainrise in Shattered Mountain</string>
-	<string key="ui_territory_expansion2023_quest_location_faction3">from the settlement Farharbor Hamlet in Reekwater</string>
+	<string key="ui_territory_expansion2023_owned_locked_desc">Elysian Wilds is covered in deadly spores that will kill you in an instant. You will die if you continue.\n You must reach level 60 and complete &lt;font color="#edc63e"&gt;"The Invasion of Artemis"&lt;/font&gt; from the settlement New Corsica Hamlet in Brimstone Sands to safely enter Elysian Wilds.</string>
+	<string key="ui_territory_expansion2023_not_owned_locked_desc">Elysian Wilds is covered in deadly spores that will kill you in an instant. You will die if you continue.\n You must own Rise of the Angry Earth, reach level 60 and complete &lt;font color="#edc63e"&gt;"The Invasion of Artemis"&lt;/font&gt; from the settlement New Corsica Hamlet in Brimstone Sands to safely enter Elysian Wilds.</string>
 	<string key="ui_dealcard">deal card</string>
 	<string key="ui_deletecharacter">Delete Character</string>
 	<string key="ui_demolishstructure">Demolish Structure</string>
@@ -448,6 +502,9 @@
 	<string key="ui_drum">Drum</string>
 	<string key="ui_durability">Durability:</string>
 	<string key="ui_e">E</string>
+	<string key="ui_edit">Edit</string>
+	<string key="ui_edit_custom">Edit Custom</string>
+	<string key="ui_edit_warning">&lt;img src="lyshineui/images/pugfinder/pugfinder_alert" xPadding="0" scale="3.5" yOffset="16"&gt;&lt;/img&gt;You can map multiple actions to the same control, which may cause unforeseen circumstances.</string>
 	<string key="ui_editname">Edit Name</string>
 	<string key="ui_ehold">e (hold)</string>
 	<string key="ui_—elizabethi">— Elizabeth I</string>
@@ -495,7 +552,7 @@
 	<string key="ui_wartarget">War Target</string>
 	<string key="ui_gather">Gather</string>
 	<string key="ui_gender">BODY TYPE</string>
-	<string key="ui_gender_error">Character creation error, try re-selecting body type</string>
+	<string key="ui_gender_error">Character creation error. Try re-selecting body type.</string>
 	<string key="ui_generalskills">General Skills</string>
 	<string key="ui_gettingstarted">Getting Started</string>
 	<string key="ui_global">Global</string>
@@ -509,7 +566,10 @@
 	<string key="ui_hammerampanvil">Hammer &amp; Anvil</string>
 	<string key="ui_have">Have</string>
 	<string key="ui_hit">HIT</string>
+	<string key="ui_tap">{Button} (Tap)</string>
+	<string key="ui_tap_alt">(Tap) {Button}</string>
 	<string key="ui_hold">{Button} (Hold)</string>
+	<string key="ui_hold_alt">(Hold) {Button}</string>
 	<string key="ui_holdetogiveup">Press [E] to give up</string>
 	<string key="ui_horseequipment">Horse Equipment</string>
 	<string key="ui_rotation_ended">Ended</string>
@@ -559,7 +619,7 @@
 	<string key="ui_level_unspent_points_tradeskill">{tradeskillPointsText}</string>
 	<string key="ui_level_unspent_points_both">{attributePointsText}      {tradeskillPointsText}</string>
 	<string key="ui_level">Level</string>
-	<string key="ui_expertise_level" rel_version="Feature_PostCapTradeSkills">Aptitude Level</string>
+	<string key="ui_expertise_level" rel_version="Feature_PostCapTradeSkills">Aptitude</string>
 	<string key="ui_expertise_reward" rel_version="Feature_PostCapTradeSkills">Aptitude Reward Earned</string>
 	<string key="ui_light">Light</string>
 	<string key="ui_lmb">lmb</string>
@@ -590,7 +650,7 @@
 	<string key="ui_modulation">MODULATION</string>
 	<string key="ui_mohawk">Mohawk</string>
 	<string key="ui_mouse">mouse</string>
-	<string key="ui_move_mode">Move</string>
+	<string key="ui_move_mode">Move Character</string>
 	<string key="ui_move">Move</string>
 	<string key="ui_movebackward">Move Backward</string>
 	<string key="ui_movefoward">Move Forward</string>
@@ -604,7 +664,7 @@
 	<string key="ui_navigation">navigation</string>
 	<string key="ui_ne">NE</string>
 	<string key="ui_need">Need</string>
-	<string key="ui_newworld">New World</string>
+	<string key="ui_newworld">New World: Aeternum</string>
 	<string key="ui_next">Next</string>
 	<string key="ui_no">No</string>
 	<string key="ui_numnlock">Num\nLock</string>
@@ -648,6 +708,9 @@
 	<string key="ui_plantfiber">plant fiber</string>
 	<string key="ui_play">Play</string>
 	<string key="ui_playername">Player Name</string>
+	<string key="ui_playername_with_platformicon" rel_version="ConsoleLaunch">&lt;font color={playerNameColor} face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{playerName}  &lt;/font&gt; &lt;img src="{platformIcon}" scale="1.3" yOffset="3"&gt;&lt;/img&gt;</string>
+	<string key="ui_playername_with_platformname_with_platformicon" rel_version="ConsoleLaunch">&lt;font color={platformNameColor} face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{platformName}  &lt;/font&gt; &lt;img src="{platformIcon}" scale="1.3" yOffset="3"&gt;&lt;/img&gt;&lt;font color={playerNameColor} face="lyshineui/fonts/Nimbus_medium.font" &gt; | {playerName}&lt;/font&gt;</string>
+	<string key="ui_playername_with_platformname_with_platformicon_platformfriend" rel_version="ConsoleLaunch">&lt;font color={platformNameColor} face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{platformName}  &lt;/font&gt; &lt;img src="{platformIcon}" scale="1.3" yOffset="3"&gt;&lt;/img&gt; &lt;img src="{platformFriendIcon}" scale="1.3" yOffset="3"&gt;&lt;/img&gt;&lt;font color={playerNameColor} face="lyshineui/fonts/Nimbus_medium.font" &gt; | {playerName}&lt;/font&gt;</string>
 	<string key="ui_playernamehassentyouag">Playername has sent you a group invite. Hold [H] to join.</string>
 	<string key="ui_pressanykeytocontinue">Press Any Key to Continue</string>
 	<string key="ui_presskeytoassign">Select an input to assign this ability to.</string>
@@ -696,7 +759,8 @@
 	<string key="ui_consumable2">Consumable 2</string>
 	<string key="ui_consumable3">Consumable 3</string>
 	<string key="ui_consumable4">Consumable 4</string>
-	<string key="ui_shiftmodifier1" rel_version="Feature_Controller">Shift Modifier 1</string>
+	<string key="ui_shiftmodifier1" rel_version="Feature_Controller">Modifier 1</string>
+	<string key="ui_shiftmodifier2" rel_version="Feature_Controller">Modifier 2</string>
 	<string key="ui_primaryweapon">Primary Weapon</string>
 	<string key="ui_secondaryweapon">Secondary Weapon</string>
 	<string key="ui_quickslot1">Quickslot 1</string>
@@ -734,9 +798,9 @@
 	<string key="ui_target_groupmode_toggle">Group Mode</string>
 	<string key="ui_slot_unlock_at">Level {level}</string>
 	<string key="ui_slot_unlock_at_abbr">{level}</string>
-	<string key="ui_quickslot_mainhand_tooltip">&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Weapon Slot&lt;/font&gt;\n\n&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;A weapon placed in this slot can be switched to by pressing the corresponding key.&lt;/font&gt;</string>
+	<string key="ui_quickslot_mainhand_tooltip">&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Weapon Slot&lt;/font&gt;\n\n&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;A weapon placed in this slot can be switched to by pressing the corresponding button.&lt;/font&gt;</string>
 	<string key="ui_quickslot_mainhand_tooltip_unlocked">&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Craftable at a Forge, Workshop, Arcane Repository, or a Camp.&lt;/font&gt;</string>
-	<string key="ui_quickslot_consumable_tooltip">&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Consumable Slot&lt;/font&gt;\n\n&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;An item placed in this slot can be used by pressing the corresponding key.&lt;/font&gt;</string>
+	<string key="ui_quickslot_consumable_tooltip">&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Consumable Slot&lt;/font&gt;\n\n&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;An item placed in this slot can be used by pressing the corresponding button.&lt;/font&gt;</string>
 	<string key="ui_quickslot_consumable_tooltip_unlocked">&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Consumables can be crafted at stations in a Settlement or a Camp.&lt;/font&gt;</string>
 	<string key="ui_quickslot_sickle_tooltip">&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Harvesting Sickle Slot&lt;/font&gt;</string>
 	<string key="ui_quickslot_fishing_tooltip">&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Fishing Pole Slot&lt;/font&gt;</string>
@@ -745,7 +809,7 @@
 	<string key="ui_quickslot_pickaxe_tooltip">&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Mining Pickaxe Slot&lt;/font&gt;</string>
 	<string key="ui_quickslot_tool_tooltip_unlocked">&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Craftable at a Workshop or a Camp.&lt;/font&gt;</string>
 	<string key="ui_quickslot_azoth_tooltip">&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Azoth Staff Slot&lt;/font&gt;</string>
-	<string key="ui_quickslot_azoth_tooltip_unlocked">&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Azoth Staff can be acquired by completing the quest “Forge Your Azoth Staff” in Windsward.&lt;/font&gt;</string>
+	<string key="ui_quickslot_azoth_tooltip_unlocked">&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Azoth Staff can be acquired by completing the quest “Reignition” in Everfall.&lt;/font&gt;</string>
 	<string key="ui_quickslot_flute_tooltip" rel_version="Feature_MusicalPerformances">&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Flute Slot&lt;/font&gt;</string>
 	<string key="ui_quickslot_guitar_tooltip" rel_version="Feature_MusicalPerformances">&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Guitar Slot&lt;/font&gt;</string>
 	<string key="ui_quickslot_mandolin_tooltip" rel_version="Feature_MusicalPerformances">&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Mandolin Slot&lt;/font&gt;</string>
@@ -764,6 +828,10 @@
 	<string key="ui_heartgem_rune_ability" rel_version="Feature_Heartgems">Heartrune Ability</string>
 	<string key="ui_heartgem_rune_ability_silenced" rel_version="Feature_Heartgems">Heartrune Ability Silenced</string>
 	<string key="ui_buildmode_grid">Buildmode Grid</string>
+	<string key="ui_rotate_object">Rotate Object</string>
+	<string key="ui_toggle_grid">Toggle Grid Placement</string>
+	<string key="ui_toggle_housing_lock_to_surface">Toggle Lock to Surface</string>
+	<string key="ui_housing_place">Place</string>
 	<string key="ui_wave">Wave</string>
 	<string key="ui_inspect_player">Social Actions</string>
 	<string key="ui_inspect_player_notarget">Press {$player.social_align$} while looking at a player to access the Social Actions menu.</string>
@@ -779,11 +847,13 @@
 	<string key="ui_options_gamma_desc">Set the gamma</string>
 	<string key="ui_options_basic_settings">Basic Settings</string>
 	<string key="ui_options_brightness_setting">Brightness Setting</string>
-	<string key="ui_options_brightness_setting_desc">Adjust the brightness settings until the left New World logo is barely visible.\nYou can change this setting later in the Settings screen if necessary.</string>
+	<string key="ui_options_brightness_setting_desc">Adjust the brightness settings until the left New World: Aeternum logo is barely visible.\nYou can change this setting later in the Settings screen if necessary.</string>
 	<string key="ui_options_brightness">Brightness</string>
 	<string key="ui_options_brightness_desc">Set the brightness</string>
 	<string key="ui_options_contrast">Contrast</string>
 	<string key="ui_options_contrast_desc">Set the contrast</string>
+	<string key="ui_options_hdrwhitepoint">HDR White Point</string>
+	<string key="ui_options_hdrwhitepoint_desc">Set the HDR white point when running on an HDR display</string>
 	<string key="ui_quit">Exit</string>
 	<string key="ui_randomize">Randomize</string>
 	<string key="ui_receivevolume">Receive Volume</string>
@@ -807,7 +877,7 @@
 	<string key="ui_inrange">In Range</string>
 	<string key="ui_noactivecamp">No Active Camp!</string>
 	<string key="ui_respawninseconds">Respawn in 2 seconds</string>
-	<string key="ui_respawn_time_remaining">Can respawn in &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{time}&lt;/font&gt;</string>
+	<string key="ui_respawn_time_remaining">Can respawn in {time}</string>
 	<string key="ui_respawntype">Respawn type</string>
 	<string key="ui_respawn_noncriminal">You died without an active Criminal status - you retained the contents of your Inventory but items in your Quickbar may have received damage.</string>
 	<string key="ui_respawn_criminal">You died as a Criminal - you dropped every item in your Inventory including some Equipment.</string>
@@ -829,14 +899,14 @@
 	<string key="ui_save">Save</string>
 	<string key="ui_se">SE</string>
 	<string key="ui_shift_modifier_toggle_popup_title" rel_version="Feature_Controller">Update Binding</string>
-	<string key="ui_shift_modifier_toggle_popup_message" rel_version="Feature_Controller">Shift modifier inputs are unique in this mode and cannot be used by any other action. Enabling shift modifier toggle will unbind any action with the same input. Continue?</string>
+	<string key="ui_shift_modifier_toggle_popup_message" rel_version="Feature_Controller">Modifier inputs are unique in this mode and cannot be used by any other action. Enabling modifier toggle will unbind any action with the same input. Continue?</string>
 	<string key="ui_binding_controller_success" rel_version="Feature_Controller">{action} was successfully rebound.</string>
 	<string key="ui_binding_controller_reserved_key_blocked" rel_version="Feature_Controller">&lt;img src="{path}" gpBtn="{key}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt; is a reserved input and cannot be used.</string>
 	<string key="ui_binding_controller_confirmation_message" rel_version="Feature_Controller">Bind &lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{actionName}&lt;/font&gt; to &lt;img src="{path}" gpBtn="{key}" isHoldBtn="{isStaticHold}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt;?</string>
 	<string key="ui_binding_controller_double_size_confirmation_message" rel_version="Feature_Controller">Bind &lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{actionName}&lt;/font&gt; to &lt;img src="{path}" gpBtn="{key}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt; / &lt;img src="{path}" gpBtn="{key}" isHoldBtn="1" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt;?</string>
 	<string key="ui_binding_controller_combo_confirmation_message" rel_version="Feature_Controller">Bind &lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{actionName}&lt;/font&gt; to &lt;img src="{firstPath}" gpBtn="{firstKey}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt; + &lt;img src="{secondPath}" gpBtn="{secondKey}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt;?</string>
-	<string key="ui_binding_controller_shift_modifier_child_confirmation_message" rel_version="Feature_Controller">The parent shift modifier is &lt;img src="{shiftModifierPath}" gpBtn="{shiftModifierKey}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt;.\n\nBind &lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{actionName}&lt;/font&gt; to &lt;img src="{shiftModifierPath}" gpBtn="{shiftModifierKey}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt; + &lt;img src="{path}" gpBtn="{key}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt;?</string>
-	<string key="ui_binding_controller_shift_modifier_combo_child_confirmation_message" rel_version="Feature_Controller">The parent shift modifier is &lt;img src="{shiftModifierPath}" gpBtn="{shiftModifierKey}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt;.\n\nBind &lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{actionName}&lt;/font&gt; to &lt;img src="{shiftModifierPath}" gpBtn="{shiftModifierKey}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt; + &lt;img src="{firstPath}" gpBtn="{firstKey}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt; + &lt;img src="{secondPath}" gpBtn="{secondKey}" isHoldBtn="{isStaticHold}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt;?</string>
+	<string key="ui_binding_controller_shift_modifier_child_confirmation_message" rel_version="Feature_Controller">The parent modifier is &lt;img src="{shiftModifierPath}" gpBtn="{shiftModifierKey}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt;.\n\nBind &lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{actionName}&lt;/font&gt; to &lt;img src="{shiftModifierPath}" gpBtn="{shiftModifierKey}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt; + &lt;img src="{path}" gpBtn="{key}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt;?</string>
+	<string key="ui_binding_controller_shift_modifier_combo_child_confirmation_message" rel_version="Feature_Controller">The parent modifier is &lt;img src="{shiftModifierPath}" gpBtn="{shiftModifierKey}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt;.\n\nBind &lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{actionName}&lt;/font&gt; to &lt;img src="{shiftModifierPath}" gpBtn="{shiftModifierKey}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt; + &lt;img src="{firstPath}" gpBtn="{firstKey}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt; + &lt;img src="{secondPath}" gpBtn="{secondKey}" isHoldBtn="{isStaticHold}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt;?</string>
 	<string key="ui_binding_controller_shift_modifier_confirmation_message" rel_version="Feature_Controller">Binding &lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{actionName}&lt;/font&gt; to &lt;img src="{path}" gpBtn="{key}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt; will add &lt;img src="{path}" gpBtn="{key}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt; to any existing children mappings. If there are any incompatible children, they will be overridden and left blank.\n\nBind &lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{actionName}&lt;/font&gt; to &lt;img src="{path}" gpBtn="{key}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt;?</string>
 	<string key="ui_binding_controller_reserved_key_title" rel_version="Feature_Controller">Change Binding</string>
 	<string key="ui_binding_controller_reserved_key_message" rel_version="Feature_Controller">&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{oldAction}&lt;/font&gt; is currently using &lt;img src="{path}" gpBtn="{key}" isHoldBtn="{isStaticHold}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt;.\n\nOverride and bind &lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{newAction}&lt;/font&gt; to &lt;img src="{path}" gpBtn="{key}" isHoldBtn="{newIsStaticHold}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt;?</string>
@@ -847,8 +917,8 @@
 	<string key="ui_binding_controller_reserved_key_multiple" rel_version="Feature_Controller">Bind &lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{newAction}&lt;/font&gt; to &lt;img src="{path}" gpBtn="{key}" isHoldBtn="{newIsStaticHold}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt;?\n\nThe following actions will no longer be bound to any key:\n\n&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{oldAction}&lt;/font&gt;</string>
 	<string key="ui_binding_controller_double_reserved_key_multiple" rel_version="Feature_Controller">Bind &lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{newAction}&lt;/font&gt; to &lt;img src="{path}" gpBtn="{key}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt; / &lt;img src="{path}" gpBtn="{key}" isHoldBtn="1" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt;?\n\nThe following actions will no longer be bound to any key:\n\n&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{oldAction}&lt;/font&gt;</string>
 	<string key="ui_binding_controller_reserved_shift_modifier_message" rel_version="Feature_Controller">&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{shiftModifierAction}&lt;/font&gt; is currently using &lt;img src="{path}" gpBtn="{key}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt;.\n\nOverriding this modifier will clear the &lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{shiftModifierAction}&lt;/font&gt; and all children input bindings.\n\nOverride and bind &lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{newAction}&lt;/font&gt; to &lt;img src="{path}" gpBtn="{key}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt;?</string>
-	<string key="ui_binding_controller_reserved_shift_modifier_blocked" rel_version="Feature_Controller">{key} is bound to the parent shift modifier and cannot be used.</string>
-	<string key="ui_binding_controller_reset_shift_modifier_toggle_accessibility" rel_version="Feature_Controller">Disabling shift modifier toggle accessibility.</string>
+	<string key="ui_binding_controller_reserved_shift_modifier_blocked" rel_version="Feature_Controller">{key} is bound to the parent modifier and cannot be used.</string>
+	<string key="ui_binding_controller_reset_shift_modifier_toggle_accessibility" rel_version="Feature_Controller">Disabling modifier toggle accessibility.</string>
 	<string key="ui_binding_reserved_key_blocked">{key} is bound to &lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{actionName}&lt;/font&gt;, which cannot be unbound.</string>
 	<string key="ui_binding_reserved_key_title_single">Change Binding</string>
 	<string key="ui_binding_reserved_key_message_single">Bind &lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{newAction}&lt;/font&gt; to &lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{key}&lt;/font&gt;?\n\n&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{oldAction}&lt;/font&gt; will no longer be bound to any key.</string>
@@ -882,8 +952,8 @@
 	<string key="ui_skills">Character</string>
 	<string key="ui_respec_warning_title">WARNING</string>
 	<string key="ui_skill_respec_warning">Are you sure you want to respec your skills?\n\nYou will not be able to do this again until you earn another respec.</string>
-	<string key="ui_attrib_respec_warning">Are you sure you want to respec your attributes?\n\n Cost: {cost} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; \n\n Respecs are free until level 60.</string>
-	<string key="ui_attrib_respec_warning_unaffordable">You cannot afford to respec.\nRespec cost: {cost} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
+	<string key="ui_attrib_respec_warning">Are you sure you want to respec your attributes?\n\n Cost: &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; {cost}\n\n Respecs are free until level 60.</string>
+	<string key="ui_attrib_respec_warning_unaffordable">You cannot afford to respec.\nRespec cost: &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; {cost}</string>
 	<string key="ui_skintone">SKIN TONE</string>
 	<string key="ui_snaredrum">SNARE DRUM</string>
 	<string key="ui_socialui">Contacts</string>
@@ -953,6 +1023,7 @@
 	<string key="ui_youcaughtasalmon">You caught a Salmon!</string>
 	<string key="ui_youdied">You Died!</string>
 	<string key="ui_youhavenofriends">You have no friends.</string>
+	<string key="ui_online_friends_in_world">Online Friends in this world: {friendsCount}</string>
 	<string key="ui_z">z</string>
 	<string key="ui_suicidepopup_title">RESPAWN?</string>
 	<string key="ui_suicidepopup_message">You will be able to choose your respawn location, BUT your gear will take damage just as if you'd died normally.</string>
@@ -974,6 +1045,11 @@
 	<string key="ui_region_warning_text">You have a poor connection to this Region which may hinder your experience. Please choose a Region that is closer to your location.</string>
 	<string key="ui_landing_all_slots_full">Character slots in all Regions are full. You will need to delete existing character before you can create another one.</string>
 	<string key="ui_landing_no_good_regions">You have no more character slots available in Regions with a good connection. Continue?</string>
+	<string key="ui_gameinvite_world_unavailable" rel_version="Feature_Bootflow_V2">The invitation is no longer available. {worldName} is unavailable.</string>
+	<string key="ui_gameinvite_error" rel_version="Feature_Bootflow_V2">An error occurred while attempting to accept the invitation.</string>
+	<string key="ui_gameinvite_switch_world_title" rel_version="Feature_Bootflow_V2">Game Invite</string>
+	<string key="ui_gameinvite_switch_world_message" rel_version="Feature_Bootflow_V2">Confirm Exit Current World?</string>
+	<string key="ui_gameinvite_select_character">In order to accept this invite you need to select or create a character in ({worldName}).</string>
 	<string key="ui_landing_tile_default_title1">News</string>
 	<string key="ui_landing_tile_default_title2">Explore</string>
 	<string key="ui_landing_tile_default_title3">Housing</string>
@@ -988,8 +1064,10 @@
 	<string key="ui_anti-cheat">Anti-Cheat Software Disclosure</string>
 	<string key="ui_anti-cheat_desc">View the Anti-Cheat Software Disclosure in a browser window</string>
 	<string key="ui_legalprivacy">Please see our Privacy Notice</string>
+	<string key="ui_vpc_notification_title">Amazon Games Privacy</string>
+	<string key="ui_vpc_notification_body">Your Amazon Games iD privacy settings are restricted. You (or your parent) can go to http://id.amazongames.com/parental-controls for help changing the settings.</string>
 	<string key="ui_prealphatag">Test Build - CONFIDENTIAL</string>
-	<string key="ui_buildtag">PTR Build</string>
+	<string key="ui_buildtag">Open Beta</string>
 	<string key="ui_chat_feed">Feed</string>
 	<string key="ui_chat_feed_tooltip">Includes this channel in the Feed</string>
 	<string key="ui_chat_cross_world_tooltip">This chat will only include players from your home world.</string>
@@ -1002,8 +1080,8 @@
 	<string key="ui_feedback_format">SUBMIT FEEDBACK</string>
 	<string key="ui_feedback_general">General</string>
 	<string key="ui_compensations_format" rel_version="Feature_Make_Good">COMPENSATIONS</string>
-	<string key="ui_in_game_survey_header">Are you enjoying new world?</string>
-	<string key="ui_in_game_survey_star_prompt">How would you rate New World so far?</string>
+	<string key="ui_in_game_survey_header">Are you enjoying New World: Aeternum?</string>
+	<string key="ui_in_game_survey_star_prompt">How would you rate New World: Aeternum so far?</string>
 	<string key="ui_in_game_survey_rating_bad">Bad</string>
 	<string key="ui_in_game_survey_rating_soso">So-so</string>
 	<string key="ui_in_game_survey_rating_good">Good</string>
@@ -1013,7 +1091,7 @@
 	<string key="ui_in_game_survey_feedback_empty">Do not include personal or sensitive data</string>
 	<string key="ui_in_game_survey_button_cancel">Not Now</string>
 	<string key="ui_in_game_survey_button_submit">Submit</string>
-	<string key="ui_in_game_survey_button_submit_disabled_tooltip">Please rate New World to submit.</string>
+	<string key="ui_in_game_survey_button_submit_disabled_tooltip">Please rate New World: Aeternum to submit.</string>
 	<string key="ui_number_out_of_total">{number} / {total}</string>
 	<string key="ui_building_plan_limit">Territory Structure Limit</string>
 	<string key="ui_disable_snap_hint">Hold the Right Mouse Button to disable snap mode.</string>
@@ -1023,7 +1101,7 @@
 	<string key="ui_landControlledBy">Land controlled by</string>
 	<string key="ui_ProtectionTime">Protection Time</string>
 	<string key="cc_=">Equals</string>
-	<string key="ui_world_select_title">WORLD SELECT</string>
+	<string key="ui_world_select_title">Select World</string>
 	<string key="ui_world_select_change_selection">Change Selection</string>
 	<string key="ui_world_select_select_world">Select World</string>
 	<string key="ui_world_select_world">World</string>
@@ -1031,6 +1109,7 @@
 	<string key="ui_world_select_world_set">World Set</string>
 	<string key="ui_world_select_queue_time">Est. Queue Time</string>
 	<string key="ui_world_select_queue_size">Players in Queue</string>
+	<string key="ui_world_select_queue">Queue</string>
 	<string key="ui_world_select_population">Population</string>
 	<string key="ui_world_select_no_friends_online">None of your friends are online in this World.</string>
 	<string key="ui_world_select_one_friends_online">online now</string>
@@ -1083,23 +1162,23 @@
 	<string key="ui_xp_event_desc">Special XP Boost is active in this world!</string>
 	<string key="ui_xp_event_modal_title">XP BOOST IS ON!</string>
 	<string key="ui_xp_event_modal_desc">&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Regular.font"&gt;Come and enjoy the glorious XP Boost event! This is the chance to level up your characters!\nThe boost is activated on:&lt;/font&gt;</string>
-	<string key="ui_xp_event_xp">XP &lt;font color="#ffcc00" face="lyshineui/fonts/Nimbus_Bold.font"&gt;x {amount}&lt;/font&gt;</string>
+	<string key="ui_xp_event_xp">XP &lt;font color="#ffcc00" face="lyshineui/fonts/Nimbus_Bold.font"&gt;x {amount}&lt;/font&gt;</string>
 	<string key="ui_xp_event_some_tradeskill_xp">&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{count}&lt;/font&gt; Trade Skills</string>
-	<string key="ui_xp_event_some_weaponmastery_xp">&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{count}&lt;/font&gt; Weapon Masteries</string>
+	<string key="ui_xp_event_some_weaponmastery_xp">&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{count}&lt;/font&gt; Weapon Masteries</string>
 	<string key="ui_xp_event_some_territory_xp">&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{count}&lt;/font&gt; Territory Standings</string>
 	<string key="ui_xp_event_some_faction_xp">&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{count}&lt;/font&gt; Faction Reputation</string>
 	<string key="ui_xp_event_some_factiontoken_xp">&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{count}&lt;/font&gt; Faction Tokens</string>
 	<string key="ui_xp_event_all_tradeskill_xp">All Trade Skills</string>
-	<string key="ui_xp_event_all_weaponmastery_xp">All Weapon Masteries</string>
+	<string key="ui_xp_event_all_weaponmastery_xp">All Weapon Masteries</string>
 	<string key="ui_xp_event_all_territory_xp">All Territory Standings</string>
 	<string key="ui_xp_event_all_faction_xp">All Faction Reputation</string>
 	<string key="ui_xp_event_all_factiontoken_xp">All Faction Tokens</string>
-	<string key="ui_xp_event_progression_xp">&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Regular.font"&gt;{progressionName}&lt;/font&gt; &lt;font color="#ffcc00" face="lyshineui/fonts/Nimbus_Bold.font"&gt;x {amount}&lt;/font&gt;</string>
+	<string key="ui_xp_event_progression_xp">&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Regular.font"&gt;{progressionName}&lt;/font&gt; &lt;font color="#ffcc00" face="lyshineui/fonts/Nimbus_Bold.font"&gt;x {amount}&lt;/font&gt;</string>
 	<string key="ui_xp_boost_reminder" comment="The leading space is intentional">( x {bonus} &lt;img src="lyshineui/images/icons/misc/icon_xp_boost" xPadding="0" scale="1.1" yOffset="0.5"&gt;&lt;/img&gt;)</string>
 	<string key="ui_xp_multiplier_arrow" comment="The leading space is intentional">x {bonus} &lt;img src="lyshineui/images/icons/misc/icon_xp_boost" xPadding="0" scale="1.1" yOffset="0.5"&gt;&lt;/img&gt;</string>
 	<string key="ui_reached_max_daily_pvp_arena_rewards">Daily PvP Arena Salt Limit Reached!</string>
 	<string key="ui_reached_max_fort_takeover_rewards">Daily Fort Takeover Rewards Limit Reached!</string>
-	<string key="ui_reached_max_influencetower_takeover_rewards" rel_version="Feature_Influence_V2">Daily Influence Tower Rewards Limit Reached!</string>
+	<string key="ui_reached_max_influencetower_takeover_rewards" rel_version="Feature_Influence_V2">Influence Watch capture rewards limited for 5 minutes</string>
 	<string key="ui_reached_max_daily_mount_consumable_exp_usage" rel_version="Feature_Mounts">Mount daily feeding limit reached</string>
 	<string key="ui_reached_max_daily_fotb_rafflebones">Fortunes of the Bold Rafflebones daily limit reached</string>
 	<string key="world_landing_title">The optimal WORLD has been selected for you</string>
@@ -1118,16 +1197,16 @@
 	<string key="ui_glory_update">{Amount} XP</string>
 	<string key="ui_glory_update_floating_damage">-{amount}</string>
 	<string key="ui_glory_update_floating_xp">+{amount} XP</string>
-	<string key="ui_glory_update_floating_gold">{gold} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
+	<string key="ui_glory_update_floating_gold">&lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; {gold}</string>
 	<string key="ui_glory_update_floating_standing">+{amount} Standing</string>
 	<string key="ui_glory_to_level">&lt;font color="#ebe3d6"&gt;{xp} XP&lt;/font&gt; to Level {level}</string>
 	<string key="ui_glory_tooltip">You have unspent attribute or skill points. Use [{keyName}] to open the progression screen and improve your abilities.</string>
 	<string key="ui_coin">Coin</string>
 	<string key="ui_coin_desc">Your primary currency used to purchase items in the Trading Post and at the Faction Shop.\nCoin is capped at &lt;font color="#ebe3d6"&gt;{amount}&lt;/font&gt;.\n\n&lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#b2aea1"&gt;Source:&lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#ebe3d6"&gt; Completing Missions, Killing Enemies, Participating in Events&lt;/font&gt;</string>
 	<string key="ui_coin_max">Max Coin</string>
-	<string key="ui_coin_icon">{coin} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
-	<string key="ui_floating_coin_val">&lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;{amount}</string>
-	<string key="ui_floating_xp_val">&lt;img src="lyshineui/images/icons/misc/icon_xp" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;{amount}</string>
+	<string key="ui_coin_icon">&lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; {coin}</string>
+	<string key="ui_floating_coin_val">&lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; {amount}</string>
+	<string key="ui_floating_xp_val">&lt;img src="lyshineui/images/icons/misc/icon_xp" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; {amount}</string>
 	<string key="ui_floating_standing_val">&lt;img src="lyshineui/images/icons/misc/icon_territoryStanding" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;{amount}</string>
 	<string key="ui_killfeed_xp_val">+ {amount}</string>
 	<string key="ui_killfeed_coin_val">+ {amount}</string>
@@ -1146,6 +1225,7 @@
 	<string key="ui_navmenu_benchmark">BENCHMARK</string>
 	<string key="ui_navmenu_store">Store</string>
 	<string key="ui_navmenu_quit">Exit</string>
+	<string key="ui_navmenu_beta" comment="DO NOT TRANSLATE">Beta</string>
 	<string key="ui_escapemenu_submit_feedback">Submit Feedback</string>
 	<string key="ui_escapemenu_compensations" rel_version="Feature_Make_Good">Compensations</string>
 	<string key="ui_escapemenu_respawn">Respawn</string>
@@ -1165,13 +1245,16 @@
 	<string key="ui_navmenu_visit_forums_desc">Talk directly to the devs and link up with other players.</string>
 	<string key="ui_help">help</string>
 	<string key="ui_navmenu_get_help">Get Help</string>
-	<string key="ui_navmenu_get_help_desc">Visit the New World help page for FAQ, technical support, and other helpful resources.</string>
+	<string key="ui_navmenu_get_help_desc">Visit the New World: Aeternum help page for FAQ, technical support, and other helpful resources.</string>
 	<string key="ui_quitpopup_title">Exit Game</string>
 	<string key="ui_quitpopup_incombat_title">EXIT RECENT COMBAT</string>
 	<string key="ui_quitpopup_criminal_title">EXIT AS CRIMINAL</string>
 	<string key="ui_quitpopup_murderer_title">EXIT AS MURDERER</string>
 	<string key="ui_quitdesktoppopup_message">Are you sure you want to exit to Desktop?</string>
 	<string key="ui_quitmainmenupopup_message">Are you sure you want to exit to Main Menu?</string>
+	<string key="ui_quitdesktoppopup_message_ffa" rel_version="Territory_CutlassKeys_Rework">Are you sure you want to exit to Desktop?\n\n&lt;font color={color}&gt;Some Cursed Items will be dropped.&lt;/font&gt;</string>
+	<string key="ui_quitmainmenupopup_message_ffa" rel_version="Territory_CutlassKeys_Rework">Are you sure you want to exit to Main Menu?\n\n&lt;font color={color}&gt;Some Cursed Items will be dropped.&lt;/font&gt;</string>
+	<string key="ui_quitpopup_incombat_message_ffa" rel_version="Territory_CutlassKeys_Rework">If you log out when you have recently been in-combat,\nyour body will remain for &lt;font color="#edc63e"&gt;[{timeremaining}]&lt;/font&gt; in the world.\n\n&lt;font color={color}&gt;Some Cursed Items will be dropped.&lt;/font&gt;\n\nDo you want to proceed?</string>
 	<string key="ui_quitpopup_incombat_message" comment="Player is still in a combat situation and tries to log-out">If you log out when you have recently been in-combat,\nyour body will remain for &lt;font color="#edc63e"&gt;[{timeremaining}]&lt;/font&gt; in the world.\n\nDo you want to proceed?</string>
 	<string key="ui_quitpopup_criminal_message">If you log out when you are a criminal,\nyour body will remain for &lt;font color="#edc63e"&gt;[{timeremaining}]&lt;/font&gt; in the world.\n\nDo you want to proceed?</string>
 	<string key="ui_quitpopup_murderer_message">If you log out when you are a murderer,\nyour body will remain for &lt;font color="#edc63e"&gt;[{timeremaining}]&lt;/font&gt; in the world.\n\nDo you want to proceed?</string>
@@ -1220,6 +1303,7 @@
 	<string key="ui_more">More</string>
 	<string key="ui_encumbrance">Weight</string>
 	<string key="ui_equip_load">Equip Load</string>
+	<string key="ui_equip_weight" rel_version="Feature_ArchetypesV2">Equip Weight:</string>
 	<string key="ui_resistance">Resistance</string>
 	<string key="ui_physical">Armor - Physical</string>
 	<string key="ui_physical_only">Physical</string>
@@ -1263,10 +1347,10 @@
 	<string key="ui_intelligence_description">(magic focused)</string>
 	<string key="ui_focus_description">(healing focused)</string>
 	<string key="ui_constitution_tooltip">Primary attribute for overall health.</string>
-	<string key="ui_strength_tooltip">Primary attribute for the War Hammer, Great Axe, Sword, Hatchet, Blunderbuss and Flail.\n\nSecondary attribute for the Spear.\n\nGreatsword scales evenly with this attribute and Dexterity.</string>
-	<string key="ui_dexterity_tooltip">Primary attribute for the Bow, Rapier, Spear and Musket.\n\nSecondary attribute for the Sword, and Hatchet.\n\nGreatsword scales evenly with this attribute and Strength.</string>
-	<string key="ui_intelligence_tooltip">Primary attribute for the Fire Staff, Ice Gauntlet, and Void Gauntlet.\n\nSecondary attribute for the Rapier, Musket and Blunderbuss.</string>
-	<string key="ui_focus_tooltip">Primary attribute for the Life Staff.\n\nSecondary attribute for the Void Gauntlet and Flail.</string>
+	<string key="ui_strength_tooltip">Sole attribute for the War Hammer and Great Axe: 100% strength scaling.\n\nPrimary attribute for the Sword, Hatchet, Blunderbuss and Flail: 90% strength scaling.\n\nSecondary attribute for the Spear: 65% strength scaling.\n\nDual scaling attribute for Greatsword that scales evenly with this attribute and Dexterity: 80% strength scaling.</string>
+	<string key="ui_dexterity_tooltip">Sole attribute for the Bow: 100% dexterity scaling.\n\nPrimary attribute for the Rapier, Spear and Musket: 90% dexterity scaling.\n\nSecondary attribute for the Sword, and Hatchet: 65% dexterity scaling.\n\nDual scaling attribute for Greatsword that scales evenly with this attribute and Strength: 80% dexterity scaling.</string>
+	<string key="ui_intelligence_tooltip">Sole attribute for the Fire Staff and Ice Gauntlet: 100% intelligence scaling.\n\nPrimary attribute for the Void Gauntlet: 90% intelligence scaling.\n\nSecondary attribute for the Rapier, Musket and Blunderbuss: 65% intelligence scaling.</string>
+	<string key="ui_focus_tooltip">Sole attribute for the Life Staff: 100% focus scaling.\n\nSecondary attribute for the Void Gauntlet and Flail: 65% focus scaling.</string>
 	<string key="ui_spirit_tooltip">FAITH\n\nPutting points into Faith increases:\n\n-- Total Mana\n-- Defense against Void Damage\n-- Corruption Resistance\n\n-- Spell Potency of Celestial Casting Gauntlets\n</string>
 	<string key="ui_vitality_tooltip">PHYSIQUE\n\nPutting points into Physique increases:\n\n-- Defense against Physical Damage\n-- Poison Resistance\n-- Maximum Equip Load\n</string>
 	<string key="ui_endurance_tooltip">ENDURANCE\n\nPutting points into Endurance increases:\n\n-- Stamina\n-- Defense against Lightning Damage\n-- Wound Resistance\n</string>
@@ -1310,7 +1394,7 @@
 	<string key="ui_hide_filters">HIDE FILTERS</string>
 	<string key="ui_path">Path</string>
 	<string key="ui_show_filters">SHOW FILTERS</string>
-	<string key="ui_filters">FILTERS</string>
+	<string key="ui_filters">Filters</string>
 	<string key="ui_add_filter">Filters</string>
 	<string key="ui_filter">Filters</string>
 	<string key="ui_remove_filters">Remove Filters</string>
@@ -1325,6 +1409,7 @@
 	<string key="ui_overpopulationPopup">Area Overpopulated</string>
 	<string key="ui_overpopulationPopup_desc">Area is too populated! You will be teleported soon.</string>
 	<string key="ui_overpopulationPopup_teleport">Teleport Now</string>
+	<string key="ui_overpopulationCancelled_notification">Area is no longer overpopulated, teleport cancelled.</string>
 	<string key="ui_teleport_backup_location">Your respawn destination was unavailable, you have been teleported nearby.</string>
 	<string key="ui_territoryLockedReclaim">Cannot reclaim until the end of Resolution phase.</string>
 	<string key="ui_territoryLockedClaim">Cannot be claimed as a 3rd party until War ends.</string>
@@ -1457,6 +1542,7 @@
 	<string key="ui_bind_to_camp">Set Camp Recall Point</string>
 	<string key="ui_camping_error_poi_restricted_outpost_rush">Camping restricted in Outpost Rush.</string>
 	<string key="ui_camping_error_poi_restricted">Cannot camp in landmarks.</string>
+	<string key="ui_camping_error_poi_restricted_ffa" rel_version="Territory_CutlassKeys_Rework">Camping restricted near or in\nFree-For-All area.</string>
 	<string key="ui_camp_obstructed">Move back to complete.</string>
 	<string key="ui_camping_restricted">Camping Restricted</string>
 	<string key="ui_camping_available">Camping Available</string>
@@ -1508,6 +1594,7 @@
 	<string key="currency_CNY">¥{amount}</string>
 	<string key="currency_COP">COL${amount}</string>
 	<string key="currency_CRC">₡{amount}</string>
+	<string key="currency_CZK">Kč{amount}</string>
 	<string key="currency_EUR">{amount}€</string>
 	<string key="currency_HKD">HK${amount}</string>
 	<string key="currency_INR">₹{amount}</string>
@@ -1538,6 +1625,7 @@
 	<string key="currency_UAH">{amount}₴</string>
 	<string key="currency_UYU">$U{amount}</string>
 	<string key="currency_VND">{amount}₫</string>
+	<string key="currency_HUF">{amount} Ft</string>
 	<string key="WoodsmanArmor_EntName">Woodsman Set</string>
 	<string key="WoodsmanThrowingAxe_EntName">Woodsman Hatchet</string>
 	<string key="AugustEmoteBundle">Opposable Thumbs Bundle</string>
@@ -1590,17 +1678,27 @@
 	<string key="ui_items_have_changed_msg">Items have been added to or removed from your account.</string>
 	<string key="ui_account_items_changed">Account Items Changed</string>
 	<string key="ui_dismiss">Dismiss</string>
-	<string key="ui_view" rel_version="Feature_Make_Good">View</string>
+	<string key="ui_view">View</string>
 	<string key="ui_named">Named</string>
 	<string key="url_twitchchannel">https://www.twitch.tv/{channel}</string>
 	<string key="url_forums">https://forums.newworld.com/</string>
-	<string key="url_newsletter_signup">https://www.newworld.com/en-us/forward-link?id=newsletter-sign-up</string>
+	<string key="url_newsletter_signup_US" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.newworld.com/forward-link?id=newsletter-sign-up</string>
+	<string key="url_newsletter_signup_GB" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.newworld.com/en-gb/forward-link?id=newsletter-sign-up</string>
+	<string key="url_newsletter_signup_FR" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.newworld.com/fr-fr/forward-link?id=newsletter-sign-up</string>
+	<string key="url_newsletter_signup_IT" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.newworld.com/it-it/forward-link?id=newsletter-sign-up</string>
+	<string key="url_newsletter_signup_ES" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.newworld.com/es-es/forward-link?id=newsletter-sign-up/</string>
+	<string key="url_newsletter_signup_DE" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.newworld.com/de-de/forward-link?id=newsletter-sign-up</string>
+	<string key="url_newsletter_signup_PL" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.newworld.com/pl-pl/forward-link?id=newsletter-sign-up</string>
+	<string key="url_newsletter_signup_MX" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.newworld.com/es-mx/forward-link?id=newsletter-sign-up</string>
+	<string key="url_newsletter_signup_BR" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.newworld.com/pt-br/forward-link?id=newsletter-sign-up</string>
 	<string key="ui_seizure_title">Photosensitive Seizure Warning</string>
-	<string key="ui_seizure_warning">If you or anyone in your family have an epileptic condition, consult your physician prior to playing New World.</string>
+	<string key="ui_seizure_warning">If you or anyone in your family have an epileptic condition, consult your physician prior to playing New World: Aeternum.</string>
 	<string key="ui_seizure_description1">A very small percentage of individuals may experience epileptic seizures when exposed to certain visual images, including light patterns or flashing lights that may appear in video game or other video content. Exposure to certain patterns or backgrounds on a computer screen or while playing video games may induce an epileptic seizure in these individuals. Certain conditions may induce previously undetected epileptic symptoms even in persons who have no history of prior seizures or epilepsy.</string>
-	<string key="ui_seizure_description2">If you experience any of the following symptoms while playing - dizziness, altered vision, eye or muscle twitches, loss of awareness, disorientation, any involuntary movement, or convulsions - discontinue use IMMEDIATELY and consult your physician before resuming use of New World.</string>
-	<string key="ui_landingscreen_dei1">New World is a work of supernatural fiction about cultures from around the world banding together to fight for the fate of humanity.</string>
-	<string key="ui_landingscreen_dei2">The New World team consulted with experts and our diverse workforce on the depictions of the cultures we've drawn from and will continue to do so as we add more in the future.</string>
+	<string key="ui_seizure_description2">If you experience any of the following symptoms while playing - dizziness, altered vision, eye or muscle twitches, loss of awareness, disorientation, any involuntary movement, or convulsions - discontinue use IMMEDIATELY and consult your physician before resuming use of New World: Aeternum.</string>
+	<string key="ui_landingscreen_dei1">New World: Aeternum is a work of supernatural fiction about cultures from around the world banding together to fight for the fate of humanity.</string>
+	<string key="ui_landingscreen_dei2">The New World: Aeternum team consulted with experts and our diverse workforce on the depictions of the cultures we've drawn from and will continue to do so as we add more in the future.</string>
+	<string key="ui_landingscreen_disclaimer1">New World: Aeternum is a work of supernatural fiction about cultures from around the world banding together to fight for the fate of humanity.\n\nThe New World: Aeternum team consulted with experts and our diverse workforce on the depictions of the cultures we've drawn from and will continue to do so as we add more in the future.</string>
+	<string key="ui_landingscreen_disclaimer2">A very small percentage of individuals may experience epileptic seizures when exposed to certain visual images, including light patterns or flashing lights that may appear in video game or other video content. Exposure to certain patterns or backgrounds on a computer screen or while playing video games may induce an epileptic seizure in these individuals. Certain conditions may induce previously undetected epileptic symptoms even in persons who have no history of prior seizures or epilepsy.\n\nIf you or anyone in your family have an epileptic condition, consult your physician prior to playing New World: Aeternum.\n\nIf you experience any of the following symptoms while playing - dizziness, altered vision, eye or muscle twitches, loss of awareness, disorientation, any involuntary movement, or convulsions - discontinue use IMMEDIATELY and consult your physician before resuming use of New World: Aeternum.</string>
 	<string key="ui_landingscreen_photosensitive_title">Photosensitive Seizure Warning</string>
 	<string key="ui_landingscreen_photosensitive_message">If you or anyone in your family have a history of seizures or epilepsy, consult your doctor prior to playing.</string>
 	<string key="ui_newsletter_signup">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; Get the Latest News &amp; Offers from Aeternum!</string>
@@ -1617,6 +1715,7 @@
 	<string key="ui_deathrecap_respawn_out_of_range_with_cooldown">Can respawn in &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{time}&lt;/font&gt; within &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{distance}&lt;/font&gt; of the camp.</string>
 	<string key="ui_deathrecap_survived_for">Survived For</string>
 	<string key="ui_deathrecap_respawn_points">Respawn Points</string>
+	<string key="ui_deathrecap_ffa_itemsdropped" rel_version="Territory_CutlassKeys_Rework">Dropped Cursed Items at death location.</string>
 	<string key="ui_global_storage">Storage Shed</string>
 	<string key="ui_global_storage_desc">Stash items here. Other players cannot take or see your items.</string>
 	<string key="ui_global_storage_visit_storage_shed">Visit a Storage Shed to access stored items.</string>
@@ -1663,7 +1762,7 @@
 	<string key="ui_rankChanged">NEW RANK: {Rank}</string>
 	<string key="ui_changedRankDesc">Your company, {companyName}, has changed your rank to {rankName}. Learn more in the [{button_hint}] Company Menu.</string>
 	<string key="ui_primary_attack">Primary Attack</string>
-	<string key="ui_craft_common">CRAFT COMMON {fee}&lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
+	<string key="ui_craft_common">CRAFT COMMON &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; {fee}</string>
 	<string key="ui_pin_recipe">Pin Recipe</string>
 	<string key="ui_pin_recipe_tooltip">Track this recipe in your journal.</string>
 	<string key="ui_unpin_recipe">Unpin Recipe</string>
@@ -1693,6 +1792,10 @@
 	<string key="ui_tooltip_equip">Equip</string>
 	<string key="ui_tooltip_equip_slot1" rel_version="Feature_Controller">Equip to Slot 1</string>
 	<string key="ui_tooltip_equip_slot2" rel_version="Feature_Controller">Equip to Slot 2</string>
+	<string key="ui_tooltip_equip_slot3" rel_version="Feature_Controller">Equip to Slot 3</string>
+	<string key="ui_tooltip_equip_slot4" rel_version="Feature_Controller">Equip to Slot 4</string>
+	<string key="ui_tooltip_equip_right" rel_version="Feature_Controller">Equip Right Slot</string>
+	<string key="ui_tooltip_equip_left" rel_version="Feature_Controller">Equip Left Slot</string>
 	<string key="ui_tooltip_equip_desc">Equip this item</string>
 	<string key="ui_tooltip_equip_slot1_desc" rel_version="Feature_Controller">Equip this item to slot 1</string>
 	<string key="ui_tooltip_equip_slot2_desc" rel_version="Feature_Controller">Equip this item to slot 2</string>
@@ -1707,6 +1810,7 @@
 	<string key="ui_purchase_skins">Purchase Skins</string>
 	<string key="ui_tooltip_upgrade">Upgrade</string>
 	<string key="ui_tooltip_take">Take</string>
+	<string key="ui_tooltip_send">Send</string>
 	<string key="ui_tooltip_split">Split</string>
 	<string key="ui_tooltip_weight">&lt;font face="lyshineui/fonts/Nimbus_Bold.font" color="#ebe3d6"&gt;{value}&lt;/font&gt; Weight</string>
 	<string key="ui_tooltip_cooldown">&lt;font face="lyshineui/fonts/Nimbus_Bold.font" color="#ebe3d6"&gt;{value}&lt;/font&gt; Second Cooldown</string>
@@ -1790,7 +1894,7 @@
 	<string key="ui_tooltip_maxcastdistance">Max Cast Distance</string>
 	<string key="ui_tooltip_basedamage">Base Damage</string>
 	<string key="ui_tooltip_basepower">Base Power</string>
-	<string key="ui_tooltip_coredamage">Damage</string>
+	<string key="ui_tooltip_coredamage">Base Damage</string>
 	<string key="ui_tooltip_corepower">Power</string>
 	<string key="ui_tooltip_critical_hit_chance">Critical Hit Chance</string>
 	<string key="ui_tooltip_critical_damage_multiplier">Critical Damage Multiplier</string>
@@ -1808,7 +1912,7 @@
 	<string key="ui_tooltip_armorrating">Armor</string>
 	<string key="ui_tooltip_resistances">Resistances</string>
 	<string key="ui_tooltip_activetool">Active Tool</string>
-	<string key="ui_tooltip_setactivetool">Set Active Tool</string>
+	<string key="ui_tooltip_setactivetool">Equip Tool</string>
 	<string key="ui_tooltip_dye_equipped">Dye Equipped Armor</string>
 	<string key="ui_tooltip_dye_item">Dye Item</string>
 	<string key="ui_dye_items">Dye Items</string>
@@ -1817,7 +1921,7 @@
 	<string key="ui_overwrite_premium_dye_warning_text">Are you sure you want to replace your premium dye?\nThis premium dye will be lost once you confirm your dye selections.</string>
 	<string key="ui_tooltip_none">NONE</string>
 	<string key="ui_feedback_submitted">Thank you for your feedback!</string>
-	<string key="ui_submit_feedback_description">Your feedback is important to us to help identify and track issues across New World.</string>
+	<string key="ui_submit_feedback_description">Your feedback is important to us to help identify and track issues across New World: Aeternum.</string>
 	<string key="ui_submit_feedback_type">Do not include personal or sensitive data.\n\nAbuse of this feedback feature may lead to action taken against your account.</string>
 	<string key="ui_submit_feedback_question">How was your experience?</string>
 	<string key="ui_loading">Loading</string>
@@ -1847,7 +1951,7 @@
 	<string key="ui_war_declare_fail_InsufficientContribution">Cannot declare war, your company did not contribute enough influence.</string>
 	<string key="ui_war_declare_fail_TooFewGuildMembers">Cannot declare war, your Company needs at least {num} members.</string>
 	<string key="ui_war_declare_fail_influenceRace" rel_version="Feature_Influence_V2">Cannot declare war until the Influence Race is complete and your faction is the winner.</string>
-	<string key="ui_online_friends">Online Friends</string>
+	<string key="ui_online_friends">Friends Online</string>
 	<string key="ui_any_moment">Any moment now...</string>
 	<string key="ui_current_location">Here</string>
 	<string key="ui_transferheader">Transfer To/From</string>
@@ -1860,11 +1964,11 @@
 	<string key="ui_transferfromtooltip_inaccessible">You can only transfer items out of inaccessible Settlements.\nYou cannot deposit items into inaccessible Settlements.</string>
 	<string key="ui_transferfromtooltip">You can transfer items to your Inventory from storage sheds in other territories under your faction's control for a fee.</string>
 	<string key="ui_remotetransfersingletitle">Transfer item</string>
-	<string key="ui_remotetransfersinglebody">Are you sure you want to transfer this item from {territoryName} to your Inventory?\nTransferring this item will cost {amount} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
+	<string key="ui_remotetransfersinglebody">Are you sure you want to transfer this item from {territoryName} to your Inventory?\nTransferring this item will cost &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; {amount}</string>
 	<string key="ui_remotetransferbyclasstitle">Transfer all {itemClassName}</string>
-	<string key="ui_remotetransferbyclassbody">Are you sure you want to transfer all {itemClassName} items from {territoryName} to your Inventory?\nTransferring all {itemClassName} items will cost {amount} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
+	<string key="ui_remotetransferbyclassbody">Are you sure you want to transfer all {itemClassName} items from {territoryName} to your Inventory?\nTransferring all {itemClassName} items will cost &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; {amount}</string>
 	<string key="ui_remotetransferalltitle">Transfer all items</string>
-	<string key="ui_remotetransferallbody">Are you sure you want to transfer all items from {territoryName} to your Inventory?\nTransferring all items will cost {amount} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
+	<string key="ui_remotetransferallbody">Are you sure you want to transfer all items from {territoryName} to your Inventory?\nTransferring all items will cost &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; {amount}</string>
 	<string key="ui_remotetransfererror_coin">You do not have enough Coin to transfer this item</string>
 	<string key="ui_remotetransfer_storage_location">Storage Location</string>
 	<string key="ui_characters_created">Characters created</string>
@@ -1896,14 +2000,14 @@
 	<string key="ui_searchthrottled">Search throttled. Try again.</string>
 	<string key="ui_sort_colon">Sort:</string>
 	<string key="ui_server_refresh_throttle_hint">Please wait</string>
-	<string key="ui_unstuck_request_denied_on_cooldown">Cannot request unstuck for %d seconds</string>
-	<string key="ui_unstuck_request_denied_player_dead">Cannot request unstuck when dead</string>
-	<string key="ui_unstuck_request_denied_request_already_active">Unstuck request is already active</string>
-	<string key="ui_unstuck_request_denied_no_breadcrumbs">Cannot request unstuck without moving</string>
-	<string key="ui_unstuck_request_denied_too_frequent">Cannot request unstuck that frequently</string>
-	<string key="ui_unstuck_request_denied_teleport_failed">Unable to teleport to unstuck location</string>
-	<string key="ui_unstuck_request_denied_in_musical_performance">Cannot request unstuck while in a Musical Performance</string>
-	<string key="ui_unstuck_request_accepted">Teleporting in %d seconds</string>
+	<string key="ui_unstuck_request_denied_on_cooldown">Cannot request unstuck for %d seconds.</string>
+	<string key="ui_unstuck_request_denied_player_dead">Cannot request unstuck when dead.</string>
+	<string key="ui_unstuck_request_denied_request_already_active">Unstuck request is already active.</string>
+	<string key="ui_unstuck_request_denied_no_breadcrumbs">Cannot request unstuck without moving.</string>
+	<string key="ui_unstuck_request_denied_too_frequent">Cannot request unstuck that frequently.</string>
+	<string key="ui_unstuck_request_denied_teleport_failed">Unable to teleport to unstuck location.</string>
+	<string key="ui_unstuck_request_denied_in_musical_performance">Cannot request unstuck while performing.</string>
+	<string key="ui_unstuck_request_accepted">Teleporting in %d seconds.</string>
 	<string key="ui_generator_time_to_generate_item">Time to generate {quantity} {item}.</string>
 	<string key="ui_quantitywithx">x{quantity}</string>
 	<string key="ui_xp_bonuses_multiplier">x {quantity}</string>
@@ -1937,6 +2041,14 @@
 	<string key="ui_proceed_to_new_world_popup_message">Are you sure you want to skip the tutorial?\nYou will leave any coin, items, or experience behind.</string>
 	<string key="ui_milestone_correction_popup_title">Milestone Updated</string>
 	<string key="ui_milestone_correction_popup_message">Main Story Milestones have changed!\n\nAeternum is ever-evolving and you've been relocated to better experience the brand new stories and quests.</string>
+	<string key="ui_ffa_movement_popup_title" rel_version="Territory_CutlassKeys_Rework">Free-For-All Disabled</string>
+	<string key="ui_ffa_movement_popup_message" rel_version="Territory_CutlassKeys_Rework">You have been relocated out of the Free-For-All area to safety!\n\nPlease reenter the zone to continue the fight!</string>
+	<string key="ui_ffa_protection_label" rel_version="Territory_CutlassKeys_Rework">Until\nFree-For-All</string>
+	<string key="ui_ffa_notification_countdown" rel_version="Territory_CutlassKeys_Rework">Free-For-All Protection Timer Started</string>
+	<string key="ui_ffa_area_label" rel_version="Territory_CutlassKeys_Rework">Free-For-All PVP Area</string>
+	<string key="ui_ffa_area_gameplay_desc" rel_version="Territory_CutlassKeys_Rework">Entering &lt;font color="#edc63e"&gt;The Cursed Mists&lt;/font&gt; will flag you for &lt;font color="#edc63e"&gt;Free-For-All PvP&lt;/font&gt;.\n\nLeaving will unflag you, and &lt;font color="#edc63e"&gt;cleanse&lt;/font&gt; valuable cursed items you acquire within.</string>
+	<string key="ui_ffa_area_gameplay_lore" rel_version="Territory_CutlassKeys_Rework">Here lies The Cursed Mists, beyond these Lucid Fringes. In this accursed place, a foul greed has taken hold of everyone and everything. The frenzy for treasure continues, as friends become foes along this storm-swept coast. Collect any &lt;font color="#edc63e"&gt;"Cursed Doubloons"&lt;/font&gt; and &lt;font color="#edc63e"&gt;"Cursed Resources"&lt;/font&gt; that you plunder or uncover. Adventurers beware, the coward's escape of teleportation will be punished! You must escape on foot or hoof with your life, if you wish to keep your spoils intact.</string>
+	<string key="ui_ffa_item_warning" rel_version="Territory_CutlassKeys_Rework">Leave FFA area to Cleanse item.</string>
 	<string key="ui_additional_items">+{count} more items</string>
 	<string key="ui_retest">Re-Test</string>
 	<string key="ui_details">Details</string>
@@ -1959,7 +2071,7 @@
 	<string key="ui_leaderboard" rel_version="Feature_Leaderboards">Leaderboard</string>
 	<string key="ui_mapmenu_dayleaderboard" rel_version="Feature_Leaderboards">DAY</string>
 	<string key="ui_mapmenu_seasonleaderboard" rel_version="Feature_Leaderboards">SEASON</string>
-	<string key="ui_mapmenu_companiesatwar">CONFLICTS</string>
+	<string key="ui_mapmenu_companiesatwar">Conflicts</string>
 	<string key="ui_mapmenu_resourcelocations">RESOURCES</string>
 	<string key="ui_mapmenu_activewars">CONFLICTS</string>
 	<string key="ui_mapmenu_noactivewars">There are currently no upcoming conflicts in this world.</string>
@@ -2016,6 +2128,7 @@
 	<string key="ui_exit_dungeon_title_solo">Exit Soul Trial?</string>
 	<string key="ui_exit_dungeon_title_raidtrial">Exit Elite Trial?</string>
 	<string key="ui_exit_dungeon_title_seasontrial" rel_version="Season_2_Trial">Exit Seasonal Trial?</string>
+	<string key="ui_exit_dungeon_title_dailysolotrial" rel_version="DailySoloTrials">Exit Daily Soul Trial?</string>
 	<string key="ui_dungeon_exit">Expedition Exit Portal</string>
 	<string key="ui_dungeon_exit_solo">Soul Trial Exit</string>
 	<string key="ui_dungeon_exit_raidtrial">Elite Trial Exit Portal</string>
@@ -2028,10 +2141,12 @@
 	<string key="ui_exit_dungeon_will_close_desc_solo">You will be teleported out of the Soul Trial and it will be closed.</string>
 	<string key="ui_exit_dungeon_will_close_desc_raidtrial">You will be teleported out of the Elite Trial and it will be closed.</string>
 	<string key="ui_exit_dungeon_will_close_desc_seasontrial" rel_version="Season_2_Trial">You will be teleported out of the Seasonal Trial and it will be closed.</string>
+	<string key="ui_exit_dungeon_will_close_desc_dailysolotrial" rel_version="DailySoloTrials">You will be teleported out of the Soul Trial and it will be closed.</string>
 	<string key="ui_exit_dungeon_incombat">You cannot leave an Expedition when you have recently been in-combat. \nYou can leave in &lt;font color="#edc63e"&gt;[{timeremaining}]&lt;/font&gt;</string>
 	<string key="ui_exit_dungeon_incombat_solo">You cannot leave a Soul Trial when you have recently been in-combat. \nYou can leave in &lt;font color="#edc63e"&gt;[{timeremaining}]&lt;/font&gt;</string>
 	<string key="ui_exit_dungeon_incombat_raidtrial">You cannot leave an Elite Trial when you have recently been in-combat. \nYou can leave in &lt;font color="#edc63e"&gt;[{timeremaining}]&lt;/font&gt;</string>
 	<string key="ui_exit_dungeon_incombat_seasontrial" rel_version="Season_2_Trial">You cannot leave a Seasonal Trial when you have recently been in-combat. \nYou can leave in &lt;font color="#edc63e"&gt;[{timeremaining}]&lt;/font&gt;</string>
+	<string key="ui_exit_dungeon_incombat_dailysolotrial" rel_version="DailySoloTrials">You cannot leave a Soul Trial when you have recently been in-combat. \nYou can leave in &lt;font color="#edc63e"&gt;[{timeremaining}]&lt;/font&gt;</string>
 	<string key="ui_enable_newDamageNumbers">Floating Damage Numbers</string>
 	<string key="ui_enable_newDamageNumbers_description">Set whether damage numbers are not docked to the enemy's health bar</string>
 	<string key="ui_accept_duel_invites">Accept Duel Invites</string>
@@ -2054,11 +2169,11 @@
 	<string key="ui_chat_message_fade_delay">Message Fade Delay</string>
 	<string key="ui_chat_message_fade_delay_options">Chat Message Fade Delay</string>
 	<string key="ui_chat_message_fade_delay_tooltip">How long before messages begin to fade away during gameplay.</string>
-	<string key="ui_chat_message_background_opacity">Message Background</string>
-	<string key="ui_chat_message_background_opacity_options">Chat Message Background</string>
+	<string key="ui_chat_message_background_opacity">Background Opacity</string>
+	<string key="ui_chat_message_background_opacity_options">Chat Background Opacity</string>
 	<string key="ui_chat_message_background_opacity_tooltip">Opacity of a dark background to place behind chat messages to increase contrast. Set to 0 to disable.</string>
-	<string key="ui_chat_message_gameplay_opacity">Gameplay Opacity</string>
-	<string key="ui_chat_message_gameplay_opacity_options">Chat Gameplay Opacity</string>
+	<string key="ui_chat_message_gameplay_opacity">Message Opacity</string>
+	<string key="ui_chat_message_gameplay_opacity_options">Chat Message Opacity</string>
 	<string key="ui_chat_message_gameplay_opacity_tooltip">Opacity of new messages that arrive during gameplay, while menus are closed.</string>
 	<string key="ui_server_utc_-8">PST</string>
 	<string key="ui_server_utc_dst_-8">PDT</string>
@@ -2087,10 +2202,10 @@
 	<string key="ui_has_resources">Has Resources</string>
 	<string key="ui_deadnotification_title">YOU ARE DEAD</string>
 	<string key="ui_deadnotification_body">You must respawn before you can respond to this notification.</string>
-	<string key="ui_vitals_health_tooltip" comment="Use {currentValue} and {maxValue} for the vital's numbers">&lt;font color={headerColor} face="lyshineui/fonts/Nimbus_Bold.font"&gt;HEALTH&lt;/font&gt;\n&lt;font color={subHeaderColor} face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;{currentValue} / {maxValue}&lt;/font&gt;\n\nTo regain &lt;font color={highlightColor}&gt;health&lt;/font&gt;\n• Consume tinctures to regain it quickly\n• Consume food to regain it slowly over time after a quick increase\n\nUpgrade &lt;font color={highlightColor}&gt;Constitution&lt;/font&gt; to increase your maximum &lt;font color={highlightColor}&gt;health&lt;/font&gt;.\n\n&lt;img src="lyshineui/images/icons/hud/vitals/Icon_combatstate" xPadding="0" scale="1.2" yOffset="0"&gt;&lt;/img&gt; indicates the player is currently engaged in combat. Some player management actions are restricted while the combat state is active. Complete an engagement or avoid combat for 10s to exit the state.</string>
+	<string key="ui_vitals_health_tooltip" comment="Use {currentValue} and {maxValue} for the vital's numbers">&lt;font color={headerColor} face="lyshineui/fonts/Nimbus_Bold.font"&gt;HEALTH&lt;/font&gt;\n&lt;font color={subHeaderColor} face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;{currentValue} / {maxValue}&lt;/font&gt;\n\nTo regain &lt;font color={highlightColor}&gt;health&lt;/font&gt;\n• Consume tinctures to regain it quickly\n• Consume food to regain it slowly over time after a quick increase\n\nUpgrade &lt;font color={highlightColor}&gt;Constitution&lt;/font&gt; to increase your maximum &lt;font color={highlightColor}&gt;health&lt;/font&gt;.\n\n&lt;img src="lyshineui/images/icons/hud/vitals/Icon_combatstate" xPadding="0" scale="1.2" yOffset="0"&gt;&lt;/img&gt; indicates the player is currently engaged in &lt;font color={highlightColor}&gt;combat&lt;/font&gt;.\n • Some player management actions are restricted while this state is active.\n • Complete an engagement or avoid combat for &lt;font color={highlightColor}&gt;10s&lt;/font&gt; to exit the state.\n • Damage over time effects that tick damage on your targets count as being engaged in combat.</string>
 	<string key="ui_vitals_stamina_tooltip" comment="Use {currentValue} and {maxValue} for the vital's numbers">&lt;font color={headerColor} face="lyshineui/fonts/Nimbus_Bold.font"&gt;STAMINA&lt;/font&gt;\n&lt;font color={subHeaderColor} face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;{currentValue} / {maxValue}&lt;/font&gt;\n\nDefensive actions like blocking or dodging will drain your &lt;font color={highlightColor}&gt;stamina&lt;/font&gt;, and if you run out you may be unable to perform those actions until it replenishes.\n\n&lt;font color={highlightColor}&gt;Stamina&lt;/font&gt; replenishes on its own over time unless you are sprinting or attacking.</string>
 	<string key="ui_vitals_mana_tooltip" comment="Use {currentValue} and {maxValue} for the vital's numbers">&lt;font color={headerColor} face="lyshineui/fonts/Nimbus_Bold.font"&gt;MANA&lt;/font&gt;\n&lt;font color={subHeaderColor} face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;{currentValue} / {maxValue}&lt;/font&gt;\n\nA mysterious resource required in order to use magic. If this is low, you may be unable to make use of certain supernatural abilities.\n\n&lt;font color={highlightColor}&gt;Mana&lt;/font&gt; replenishes over time.</string>
-	<string key="ui_vitals_mount_stamina_tooltip" rel_version="Feature_Mounts" comment="Use {currentValue} and {maxValue} for the vital's numbers">&lt;font color={headerColor} face="lyshineui/fonts/Nimbus_Bold.font"&gt;MOUNT STAMINA&lt;/font&gt;\n&lt;font color={subHeaderColor} face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;{currentValue} / {maxValue}&lt;/font&gt;\n\nAllows your mount to travel at higher speeds and depletes as you dash.\n\n&lt;font color={highlightColor}&gt;Mount Stamina&lt;/font&gt; replenishes on its own over time unless you are dashing.</string>
+	<string key="ui_vitals_mount_stamina_tooltip" comment="Use {currentValue} and {maxValue} for the vital's numbers" rel_version="Feature_Mounts">&lt;font color={headerColor} face="lyshineui/fonts/Nimbus_Bold.font"&gt;MOUNT STAMINA&lt;/font&gt;\n&lt;font color={subHeaderColor} face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;{currentValue} / {maxValue}&lt;/font&gt;\n\nAllows your mount to travel at higher speeds and depletes as you dash.\n\n&lt;font color={highlightColor}&gt;Mount Stamina&lt;/font&gt; replenishes on its own over time unless you are dashing.</string>
 	<string key="ui_vitals_mana_rate_tooltip">Mana replenishes over time.\n\n Base 1.5 mana per second.</string>
 	<string key="ui_vitals_cooldown_tooltip">Decreases the amount of time before you are able to use an ability again.</string>
 	<string key="ui_vitals_food_tooltip" comment="Use {currentValue} and {maxValue} for the vital's numbers">Food\n{currentValue} / {maxValue}\n\nEating increases the rate your health regenerates. If your food is too low, you could stop healing altogether!\n\nYou will not lose health due to hunger. It only affects the regeneration rate.</string>
@@ -2138,7 +2253,7 @@
 	<string key="ui_xp_rested_tooltip">\n    &lt;font color={restedXpColor}&gt;{restedModifier} Rested Bonus\n    {totalRestedXP} Rest XP Remaining&lt;/font&gt;</string>
 	<string key="ui_xp_multiplier_tooltip">\n    &lt;font color={boostXpColor}&gt;{boostModifier} XP Boost&lt;/font&gt;</string>
 	<string key="ui_rested_xp_notification_title">RESTED XP BONUS</string>
-	<string key="ui_rested_xp_notification_body">After being away from New World for a time, you become rested. While rested, you earn XP at an improved rate until your rested XP is expended.</string>
+	<string key="ui_rested_xp_notification_body">After being away from New World: Aeternum for a time, you become rested. While rested, you earn XP at an improved rate until your rested XP is expended.</string>
 	<string key="ui_level_increased">Level Increased</string>
 	<string key="ui_milestone_reached">Level Reward Unlocked</string>
 	<string key="ui_purchase_ability">Purchase Ability</string>
@@ -2224,22 +2339,23 @@
 	<string key="ui_unlocked">UNLOCKED</string>
 	<string key="ui_attribute_scale">&lt;font face="lyshineui/fonts/Nimbus_Semibold.font" color={color}&gt;{name}&lt;/font&gt;\n{stat} scales with {attribute}</string>
 	<string key="ui_weapon_damage">Damage</string>
-	<string key="ui_shield_disabled">Shield stats and perks are only applied if you have a sword or flail equipped and unsheathed.\n\nIf you are not using a sword or flail, consider unequipping the shield to reduce your equip load.</string>
+	<string key="ui_shield_disabled">Shield stats and perks are only applied if you have a sword or flail equipped and unsheathed.\n\nIf you are not using a sword or flail, the shield will not contribute to your equip load.</string>
 	<string key="ui_unspent">unspent</string>
 	<string key="ui_damage_scale_from">Damage Scales With</string>
 	<string key="ui_scales_with">Scales with</string>
-	<string key="ui_from_strength">Strength</string>
-	<string key="ui_from_dexterity">Dexterity</string>
-	<string key="ui_from_strength_and_dexterity">Strength, Dexterity</string>
-	<string key="ui_from_dexterity_and_strength">Dexterity, Strength</string>
-	<string key="ui_from_dexterity_and_intelligence">Dexterity, Intelligence</string>
-	<string key="ui_from_strength_and_intelligence">Strength, Intelligence</string>
-	<string key="ui_from_strength_and_focus">Strength, Focus</string>
-	<string key="ui_from_focus_and_strength">Focus, Strength</string>
-	<string key="ui_from_intelligence">Intelligence</string>
-	<string key="ui_from_focus">Focus</string>
-	<string key="ui_from_intelligence_and_focus">Intelligence, Focus</string>
-	<string key="ui_from_focus_and_intelligence">Focus, Intelligence</string>
+	<string key="ui_from_strength">Strength (100%)</string>
+	<string key="ui_from_dexterity">Dexterity (100%)</string>
+	<string key="ui_from_strength_and_dexterity">Strength (90%), Dexterity (65%)</string>
+	<string key="ui_from_strength_and_dexterity_equal">Strength (80%), Dexterity (80%)</string>
+	<string key="ui_from_dexterity_and_strength">Dexterity (90%), Strength (65%)</string>
+	<string key="ui_from_dexterity_and_intelligence">Dexterity (90%), Intelligence (65%)</string>
+	<string key="ui_from_strength_and_intelligence">Strength (90%), Intelligence (65%)</string>
+	<string key="ui_from_strength_and_focus">Strength (90%), Focus (65%)</string>
+	<string key="ui_from_focus_and_strength">Focus (90%), Strength (65%)</string>
+	<string key="ui_from_intelligence">Intelligence (100%)</string>
+	<string key="ui_from_focus">Focus (100%)</string>
+	<string key="ui_from_intelligence_and_focus">Intelligence (90%), Focus (65%)</string>
+	<string key="ui_from_focus_and_intelligence">Focus (90%), Intelligence (65%)</string>
 	<string key="ui_abilities">Abilities</string>
 	<string key="ui_ability_available" comment="tooltip message when a weapon mastery node is available to buy">Select and assign points to unlock.</string>
 	<string key="ui_ability_unavailable_nopoints" comment="tooltip message for a weapon mastery node that can't be purchased due to lack of points">No points available.</string>
@@ -2251,7 +2367,7 @@
 	<string key="ui_ability_selected" comment="tooltip message when a weapon mastery node has been selected but not committed to">Assign points to unlock.</string>
 	<string key="ui_weapon_mastery">Weapon Mastery</string>
 	<string key="ui_weapon_mastered">Weapon Mastered</string>
-	<string key="ui_tradeskill_mastered">Tradeskill Mastered</string>
+	<string key="ui_tradeskill_mastered">Trade Skill Mastered</string>
 	<string key="ui_weapon_mastery_level" comment="{level} for current mastery level, {maxLevel} for the highest possible">Level &lt;font color="#ebe3d6"&gt;{level}&lt;/font&gt; / {maxLevel}</string>
 	<string key="ui_Flail" rel_version="Weapon_Flail">Flail and Shield</string>
 	<string key="ui_Flail_mastery" rel_version="Weapon_Flail">Flail Mastery</string>
@@ -2339,7 +2455,7 @@
 	<string key="ui_sickle">Sickle</string>
 	<string key="ui_skinningknife">Skinning Knife</string>
 	<string key="ui_camp_reconnect_failed">Your camp was abandoned. Place a new one.</string>
-	<string key="ui_weapon_mastery_respec_warning">Are you sure you want to respec this weapon?\n\n Cost: {azoth}&lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.4" yOffset="1"&gt;&lt;/img&gt;</string>
+	<string key="ui_weapon_mastery_respec_warning">Are you sure you want to respec this weapon?\n\n Cost: &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.4" yOffset="1"&gt;&lt;/img&gt; {azoth}</string>
 	<string key="ui_weapon_mastery_insufficient_azoth">You have insufficient Azoth.</string>
 	<string key="ui_you_have_unlocked">Unlocked</string>
 	<string key="ui_you_have_earned">Rewards</string>
@@ -2347,7 +2463,7 @@
 	<string key="ui_now_track">Now you can track</string>
 	<string key="ui_now_track_banner">{resourceName} can now be tracked</string>
 	<string key="ui_now_gather">Now you can gather</string>
-	<string key="ui_standing_up">Standing Level Increased</string>
+	<string key="ui_standing_up">Standing Rank Up</string>
 	<string key="hwm_loot_head">Expertise Head</string>
 	<string key="hwm_loot_chest">Expertise Chest</string>
 	<string key="hwm_loot_hands">Expertise Hands</string>
@@ -2358,8 +2474,8 @@
 	<string key="hwm_loot_token">Expertise Token</string>
 	<string key="hwm_loot_sword">Expertise Sword</string>
 	<string key="hwm_loot_hatchet">Expertise Hatchet</string>
-	<string key="hwm_loot_2h_hammer">Expertise Warhammer</string>
-	<string key="hwm_loot_2h_axe">Expertise Greataxe</string>
+	<string key="hwm_loot_2h_hammer">Expertise War Hammer</string>
+	<string key="hwm_loot_2h_axe">Expertise Great Axe</string>
 	<string key="hwm_loot_bow">Expertise Bow</string>
 	<string key="hwm_loot_musket">Expertise Musket</string>
 	<string key="hwm_loot_shield">Expertise Shield</string>
@@ -2372,12 +2488,14 @@
 	<string key="hwm_loot_blunderbuss">Expertise Blunderbuss</string>
 	<string key="hwm_loot_greatsword">Expertise Greatsword</string>
 	<string key="hwm_loot_flail">Expertise Flail</string>
-	<string key="ui_time_display">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{time}&lt;/font&gt; ({timezone})</string>
-	<string key="ui_clusterwarning_title">PLAY IN {worldName}</string>
+	<string key="ui_time_display">&lt;font face="lyshineui/fonts/Pica_Regular.font"&gt;{time}&lt;/font&gt; ({timezone})</string>
+	<string key="ui_clusterwarning_title">ENTERING: {worldName}</string>
+	<string key="ui_clusterwarning_region">&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; Region: {regionName}\n</string>
 	<string key="ui_clusterwarning_warning">&lt;font color={colorHex1}&gt;You can only have 1 character in the &lt;/font&gt; &lt;font face="lyshineui/fonts/nimbus_bold.font"&gt;&lt;font color={colorHex2}&gt;{worldSetName} World Set&lt;/font&gt;&lt;/font&gt;&lt;font color={colorHex1}&gt;.&lt;/font&gt;</string>
 	<string key="ui_clusterwarning_description1">If you want to play in another {worldSetName} World, you will need to delete this character in {worldName}</string>
 	<string key="ui_clusterwarning_description2">If you have friends playing in other {worldSetName} Worlds, you will not be able to play with them.</string>
 	<string key="ui_clusterwarning_freshstart" rel_version="Feature_FreshStart">&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; Only new characters can be created in {worldName}.\n&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; Characters cannot transfer to this Fresh Start World.</string>
+	<string key="ui_clusterwarning_freshstartv2" rel_version="Feature_FreshStart">&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; Characters from Fresh Start Worlds may transfer to this world.</string>
 	<string key="ui_clusterwarning_bfnw" rel_version="Feature_BFNW">&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; Only Call of the Wilds participants can create characters in {worldName}.</string>
 	<string key="ui_clusterwarning_non_freshstart">&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; Characters may transfer to and from this world.</string>
 	<string key="ui_clusterwarning_transferoutonly">&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; Characters cannot transfer to this world.\n&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; Characters may transfer from this world.</string>
@@ -2391,8 +2509,8 @@
 	<string key="ui_character_level_short">Lv</string>
 	<string key="ui_clusterwarning_cannot_create_title">Cannot create a character.</string>
 	<string key="ui_clusterwarning_cannot_create">You already have a character in the {worldSetName} world group. If you want to play on this world, you must delete your character on {worldName}.</string>
-	<string key="ui_clusterwarning_freeweekend_sessiontime" rel_version="Feature_FreeWeekend">Free player sessions are extended every 30 minutes if there are no paid players in the queue. Players who have purchased New World do not have session time limits.</string>
-	<string key="ui_clusterwarning_freeweekend_freshstart" rel_version="Feature_FreeWeekend">&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; Only new characters can be created in {worldName}.\n&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; Characters cannot transfer to this Fresh Start World.\n\nOnly players who have purchased New World may create characters on Fresh Start worlds.</string>
+	<string key="ui_clusterwarning_freeweekend_sessiontime" rel_version="Feature_FreeWeekend">Free player sessions are extended every 30 minutes if there are no paid players in the queue. Players who have purchased New World: Aeternum do not have session time limits.</string>
+	<string key="ui_clusterwarning_freeweekend_freshstart" rel_version="Feature_FreeWeekend">&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; Only new characters can be created in {worldName}.\n&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; Characters cannot transfer to this Fresh Start World.\n\nOnly players who have purchased New World: Aeternum may create characters on Fresh Start worlds.</string>
 	<string key="ui_num_chars_per_region_title">CHARACTERS IN THIS REGION</string>
 	<string key="ui_regionmaxwarning_cannot_create_title">Cannot create a character.</string>
 	<string key="ui_regionmaxwarning_cannot_create">You have the maximum number of characters in this region. To create a new character, delete an existing character in this region, or choose another region.</string>
@@ -2432,8 +2550,8 @@
 	<string key="ui_select_world_for_character" rel_version="Territory_Brimstone_Sands">Select World for {name}.</string>
 	<string key="ui_freeweekend_worldwarning_title">Free Weekend Worlds</string>
 	<string key="ui_freeweekend_worldwarning_desc">Select a world to play in during the Free Weekend. Worlds that are not marked free have limited sessions extended every {time} if there are no paid players in the queue.</string>
-	<string key="ui_queue_depth">Players in queue: &lt;font color="#ebe3d6"&gt;&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{numplayers}&lt;/font&gt;&lt;/font&gt;</string>
-	<string key="ui_expected_wait_time">Expected wait time: &lt;font color="#ebe3d6"&gt;&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{time}&lt;/font&gt;&lt;/font&gt;</string>
+	<string key="ui_queue_depth">Players in queue: &lt;font color="#ebe3d6"&gt;&lt;font face="lyshineui/fonts/Pica_Regular.font"&gt;{numplayers}&lt;/font&gt;&lt;/font&gt;</string>
+	<string key="ui_expected_wait_time">Expected wait time: &lt;font color="#ebe3d6"&gt;&lt;font face="lyshineui/fonts/Pica_Regular.font"&gt;{time}&lt;/font&gt;&lt;/font&gt;</string>
 	<string key="ui_collapse">Collapse</string>
 	<string key="ui_current_stat">Current:</string>
 	<string key="ui_required">Required</string>
@@ -2511,8 +2629,8 @@
 	<string key="ui_fishing_divert_level_red">Fish Population Critical!</string>
 	<string key="fishing_hotspot_name">{displayName}\n({territory})</string>
 	<string key="ui_fishing_combat_message">You cannot fish while in combat.</string>
-	<string key="ui_change_faction_azoth">{amount} &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" scale="1.2" xPadding="0" yOffset="0"&gt;&lt;/img&gt;</string>
-	<string key="ui_change_faction_azoth_required">Requires {amount} &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.8" yOffset="3"&gt;&lt;/img&gt;</string>
+	<string key="ui_change_faction_azoth">&lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" scale="1.2" xPadding="0" yOffset="0"&gt;&lt;/img&gt; {amount}</string>
+	<string key="ui_change_faction_azoth_required">Requires &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.8" yOffset="3"&gt;&lt;/img&gt; {amount}</string>
 	<string key="ui_faction_cant_pvp">You can't change your faction while flagged for PvP</string>
 	<string key="ui_faction_cant_sanctuary">You can only change factions while in a sanctuary</string>
 	<string key="ui_faction_cant_company">You can't change factions while you're in a company</string>
@@ -2520,13 +2638,13 @@
 	<string key="ui_faction_cant_cross_world">You can't change factions while Cross World</string>
 	<string key="ui_faction_cant_territory">You cannot join the faction that is currently controlling the most territories.</string>
 	<string key="ui_faction_cant_cooldown">Cannot change factions while on cooldown.\n{cooldown}</string>
-	<string key="ui_change_faction_warning">Once you change your faction, you won't be able to change it again for 60 days. Changing factions resets faction rank and tokens.</string>
+	<string key="ui_change_faction_warning">Once you change your faction, you won't be able to change it again for 30 days. Changing factions resets faction rank and tokens.</string>
 	<string key="ui_change_faction">Change Faction</string>
 	<string key="ui_select_faction" rel_version="Feature_Faction_Selection">Change Faction</string>
 	<string key="ui_change_faction_cooldown">Change Faction\n{cooldown}</string>
 	<string key="ui_change_faction_azoth_cost">Change Faction {azothcost}</string>
-	<string key="ui_change_faction_desc">Are you sure you want to change your faction to {factionname}?\nChanging faction will reset your faction rank and tokens.\n\nOnce it's changed, you won't be able to change your faction again for 60 days.</string>
-	<string key="ui_change_faction_confirmation" rel_version="Feature_Faction_Selection">Are you sure you want to change your faction to {factionname}?\nYour faction rank and tokens will not transfer with you, but are not lost in case you decide to return in the future.\n\nOnce it's changed, you won't be able to change your faction again for 60 days. If you are a member of a company, you will be removed from it.</string>
+	<string key="ui_change_faction_desc">Are you sure you want to change your faction to {factionname}?\nChanging faction will reset your faction rank and tokens.\n\nOnce it's changed, you won't be able to change your faction again for 30 days.</string>
+	<string key="ui_change_faction_confirmation" rel_version="Feature_Faction_Selection">Are you sure you want to change your faction to {factionname}?\nYour faction rank and tokens will not transfer with you, but are not lost in case you decide to return in the future.\n\nOnce it's changed, you won't be able to change your faction again for 30 days. If you are a member of a company, you will be removed from it.</string>
 	<string key="ui_change_faction_quest_warning" rel_version="Feature_Faction_Selection">Faction Initiation Quests not completed</string>
 	<string key="ui_change_faction_visit_rep" rel_version="Feature_Faction_Selection">Complete Faction Initiation Quests in Everfall to switch</string>
 	<string key="ui_current_faction">Your faction: {factionname}</string>
@@ -2541,7 +2659,7 @@
 	<string key="ui_performance_area_desc" rel_version="Feature_MusicalPerformances">Tip performers coin at the end of their performance to receive a buff.</string>
 	<string key="ui_tipping_failmessage_dont_meet_requirements_level">You must be level {level} to tip performers.</string>
 	<string key="ui_tipping_failmessage_dont_meet_requirements_probation">To tip performers your account must be older than {accountProbationTimeRequired},\n with a playtime greater than {characterProbationTimeRequired}.</string>
-	<string key="ui_tipping_failmessage_dont_meet_requirements_free">Purchase New World to tip performers.</string>
+	<string key="ui_tipping_failmessage_dont_meet_requirements_free">Purchase New World: Aeternum to tip performers.</string>
 	<string key="ui_tipping_failmessage_dont_meet_requirements_ftue">You are unable to tip performers during the tutorial.</string>
 	<string key="ui_tipping_failmessage_dont_meet_requirements_generic">You are unable to tip performers.</string>
 	<string key="Siren_Name">the Siren Queen</string>
@@ -2549,6 +2667,7 @@
 	<string key="ui_gather_faction_mismatch">You cannot gather this because you are not {factionName}.</string>
 	<string key="ui_gather_faction_upkeep_unpaid">You cannot gather this because {factionName} have not paid territory upkeep.</string>
 	<string key="ui_gather_no_faction">Territory must be faction controlled.</string>
+	<string key="ui_gather_ffa_required" rel_version="Territory_CutlassKeys_Rework">You must be flagged for FFA.</string>
 	<string key="command_lock_salvage">Lock</string>
 	<string key="command_unlock_salvage">Unlock</string>
 	<string key="tooltip_lock_salvage">Lock items to prevent them from being salvaged, dropped, or sold. Locks are removed when items are traded.</string>
@@ -2557,8 +2676,10 @@
 	<string key="tooltip_salvage_remote">You cannot salvage items in remote locations.</string>
 	<string key="tooltip_salvage_cannot">This item cannot be salvaged.</string>
 	<string key="tooltip_salvage_desc">Salvaging this item returns:</string>
+	<string key="tooltip_salvage_desc_no_items">Salvaging this item does not return any resources.</string>
 	<string key="tooltip_repair_desc">Fully repair damaged item.</string>
 	<string key="tooltip_discard_locked">Locked items cannot be dropped.</string>
+	<string key="trade_locked">Item Locked</string>
 	<string key="tooltip_move_storage">Move this item to the Storage Shed.</string>
 	<string key="tooltip_moving_multiple_locked">Cannot mass-transfer locked items.</string>
 	<string key="twitch_link_title">Connect Twitch Account To Amazon Games</string>
@@ -2566,15 +2687,15 @@
 	<string key="twitch_sub_army">Subscriber Army</string>
 	<string key="twitch_sub_army_desc">Join streamers or invite subscribers and/or followers to groups and companies.</string>
 	<string key="twitch_drop_rewards">Rewards</string>
-	<string key="twitch_drop_rewards_desc">Earn in-game rewards for watching New World streams with Drops enabled.</string>
+	<string key="twitch_drop_rewards_desc">Earn in-game rewards for watching New World: Aeternum streams with Drops enabled.</string>
 	<string key="twitch_streamer_spotlight">Streamer Spotlight</string>
 	<string key="twitch_streamer_spotlight_desc">Display a "Live" tag and viewer count in your character's nameplate while streaming.</string>
 	<string key="twitch_prime_gaming">Prime Gaming</string>
-	<string key="twitch_prime_gaming_desc">Linking your account to Prime Gaming allows you to claim monthly exclusive in-game content and other special rewards for New World.</string>
+	<string key="twitch_prime_gaming_desc">Linking your account to Prime Gaming allows you to claim monthly exclusive in-game content and other special rewards for New World: Aeternum.</string>
 	<string key="go_crow">Go Crow</string>
-	<string key="go_crow_desc">An A.I. directed set of Multi GPU headless clients that utilize spectator cameras to record live video of events from within New World and broadcast them on the official Twitch New World channel and the in-game client.</string>
+	<string key="go_crow_desc">An A.I. directed set of Multi GPU headless clients that utilize spectator cameras to record live video of events from within New World: Aeternum and broadcast them on the official Twitch New World: Aeternum channel and the in-game client.</string>
 	<string key="battle_arena">Battle Arena</string>
-	<string key="battle_arena_desc">Instance based POI Colosseum for PVP and PVE combat with dedicated headless GPU spectator cameras showcasing the top 100 combatants on the official Twitch New World channel and the in-game client.</string>
+	<string key="battle_arena_desc">Instance based POI Colosseum for PVP and PVE combat with dedicated headless GPU spectator cameras showcasing the top 100 combatants on the official Twitch New World: Aeternum channel and the in-game client.</string>
 	<string key="browser_twitch">You will be taken to a web browser to log in and connect your Twitch account.</string>
 	<string key="twitch_account_linked">Twitch Account Connected</string>
 	<string key="twitch_account_linked_desc">Your Twitch account has been successfully connected to Amazon Games.</string>
@@ -2600,7 +2721,7 @@
 	<string key="ui_notificationaccept">Accept Notification</string>
 	<string key="ui_notificationdecline">Decline Notification</string>
 	<string key="ui_banneraccept">Accept Banner</string>
-	<string key="ui_togglepopupoption">Toggle Popup Option</string>
+	<string key="ui_togglepopupoption">Toggle Narration</string>
 	<string key="ui_quick_salvage_modifier">Salvage</string>
 	<string key="ui_quick_salvagelock_modifier">Lock / Unlock</string>
 	<string key="ui_quick_repair_modifier">Repair</string>
@@ -2615,11 +2736,15 @@
 	<string key="ui_dialogueoption8">Option 8</string>
 	<string key="ui_dialogueoption9">Option 9</string>
 	<string key="ui_dialogueoption10">Option 10</string>
+	<string key="ui_dialogue_more_options" rel_version="Feature_Enhanced_Dialogue">More Options</string>
+	<string key="ui_dialogue_previous_options" rel_version="Feature_Enhanced_Dialogue">Previous Options</string>
 	<string key="ui_damage_type_modifier_desc">{modifier}{damageAmount}% {damageName} Resistance</string>
 	<string key="ui_emotes_premium">Premium Emotes</string>
 	<string key="ui_locked">Locked</string>
 	<string key="ui_artifact" rel_version="Feature_Artifacts">Artifact</string>
 	<string key="ui_artifact_already_equipped" rel_version="Feature_Artifacts">You already have another {type} Artifact equipped</string>
+	<string key="ui_reset_artifact" rel_version="Feature_Artifacts">Reset Artifact</string>
+	<string key="ui_reset_artifact_message" rel_version="Feature_Artifacts">Abandoning an Artifact Mission will reset all progress made towards unlocking its Perks.\n\nAre you sure?</string>
 	<string key="ui_locked_account_title">ACCOUNT LOCKED</string>
 	<string key="ui_locked_account_description">Your account is currently locked.\n\nSeveral in-game functions such as Store purchasing, and consuming Store items will be disabled while you are in this state.</string>
 	<string key="ui_gearscore_modified">Gear Score adjusted to the average of {slot} Expertise and the item's Gear Score</string>
@@ -2674,9 +2799,10 @@
 	<string key="ui_itemtypedescription_Ringjewelry">Ring</string>
 	<string key="ui_itemtypedescription_Earringjewelry">Earring</string>
 	<string key="ui_itemtypedescription_resource">Resource</string>
-	<string key="ui_itemtypedescription_mount_strap" rel_version="Feature_Mounts">Mount Strap</string>
+	<string key="ui_itemtypedescription_mount_strap" rel_version="Feature_Mounts">Mount Strap Add-On</string>
 	<string key="ui_itemtypedescription_mount_shoe" rel_version="Feature_Mounts">Mount Shoe</string>
 	<string key="ui_itemtypedescription_mount_attachment" rel_version="Feature_Mounts">Mount Attachment</string>
+	<string key="ui_itemtypedescription_mount_attachmentskin" rel_version="Feature_Mounts">Mount Attachment Skin</string>
 	<string key="ui_itemtypedescription_mount_consumable" rel_version="Feature_Mounts">Mount Consumable</string>
 	<string key="ui_itemtypedescription_housingitem">Housing Item</string>
 	<string key="ui_itemtypedescription_tool">Tool</string>
@@ -2743,7 +2869,7 @@
 	<string key="ui_number_range">{lowNumber} - {highNumber}</string>
 	<string key="ui_recommended_level_range">Recommended Level: {lowNumber} - {highNumber}</string>
 	<string key="ui_cannot_trade_currency_blocked">Can't trade currency until you're level {level} and your account is older than {hoursNeeded} hours</string>
-	<string key="ui_treasury_purchase_nw">Purchase New World to use the company treasury</string>
+	<string key="ui_treasury_purchase_nw">Purchase New World: Aeternum to use the company treasury</string>
 	<string key="ui_cannot_chat_global_blocked">Can't chat in this channel until your account is older than {hoursNeeded} hours and your playtime is greater than {playtimeNeeded}</string>
 	<string key="ui_complete_quests_to_unlock">Complete quests in settlement to unlock</string>
 	<string key="ui_interact_required_level">You must be level {level} to use</string>
@@ -2797,11 +2923,11 @@
 	<string key="ui_freeweekend_guide_title1" rel_version="Feature_FreeWeekend">Welcome to Aeternum!</string>
 	<string key="ui_freeweekend_guide_title2" rel_version="Feature_FreeWeekend">Find Friends &amp; Activities</string>
 	<string key="ui_freeweekend_guide_title3" rel_version="Feature_FreeWeekend">Session Times &amp; Queues</string>
-	<string key="ui_freeweekend_guide_title4" rel_version="Feature_FreeWeekend">Purchasing New World</string>
-	<string key="ui_freeweekend_guide_body1" rel_version="Feature_FreeWeekend">During the Free Weekend event, any player may download New World and create a character to play. Some worlds are restricted to players who have purchased New World. Free players may not transfer characters between worlds nor access the Store and Trading Post. Free player characters are also restricted to a maximum of 2,000 &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;.</string>
+	<string key="ui_freeweekend_guide_title4" rel_version="Feature_FreeWeekend">Purchasing New World: Aeternum</string>
+	<string key="ui_freeweekend_guide_body1" rel_version="Feature_FreeWeekend">During the Free Weekend event, any player may download New World: Aeternum and create a character to play. Some worlds are restricted to players who have purchased New World: Aeternum. Free players may not transfer characters between worlds nor access the Store and Trading Post. Free player characters are also restricted to a maximum of &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; 2,000.</string>
 	<string key="ui_freeweekend_guide_body2" rel_version="Feature_FreeWeekend">Use the Social Menu to search for friends in the same world or respond to invites from other players. Participate and join multiplayer activities such as Arena and Outpost Rush. Find a party and embark on an Expedition by opening the Group Finder menu from the map by hovering over any Expedition’s icon.</string>
-	<string key="ui_freeweekend_guide_body3" rel_version="Feature_FreeWeekend">For free players, New World periodically checks to see if there is a queue for their character’s world. Players may play as long as they like if their world has no queue when this session time check is made. If there is a queue at that time, the free player will be returned to the Main Menu and may queue to reenter the world. If there is no queue at that time, the free player’s session time will be extended until the next check. Players who have purchased New World do not have session time checks and have queue priority over free players.</string>
-	<string key="ui_freeweekend_guide_body4" rel_version="Feature_FreeWeekend">New World can be purchased through the Steam Store. All characters, items, and progress earned as a free player will be carried forward after purchasing New World. However, only the total time played by all characters on an account after purchase will accrue towards unlocking features such as Player-to-Player Trading and access to the Store and Trading Post.</string>
+	<string key="ui_freeweekend_guide_body3" rel_version="Feature_FreeWeekend">For free players, New World: Aeternum periodically checks to see if there is a queue for their character’s world. Players may play as long as they like if their world has no queue when this session time check is made. If there is a queue at that time, the free player will be returned to the Main Menu and may queue to reenter the world. If there is no queue at that time, the free player’s session time will be extended until the next check. Players who have purchased New World: Aeternum do not have session time checks and have queue priority over free players.</string>
+	<string key="ui_freeweekend_guide_body4" rel_version="Feature_FreeWeekend">New World: Aeternum can be purchased through the Steam Store. All characters, items, and progress earned as a free player will be carried forward after purchasing New World: Aeternum. However, only the total time played by all characters on an account after purchase will accrue towards unlocking features such as Player-to-Player Trading and access to the Store and Trading Post.</string>
 	<string key="ui_factions">Factions</string>
 	<string key="ui_factions_guide_1_header">Joining a Faction</string>
 	<string key="ui_factions_guide_1_body">Before joining a faction, you must prove yourself by completing a series of Faction Initiation Quests. Reach Level 17 and seek out the initial quest givers for each faction in or near the village of Oxboro in Everfall.</string>
@@ -2833,7 +2959,7 @@
 	<string key="ui_transmog_guide_body1" rel_version="Feature_Transmog">When an item is added to your inventory, it's automatically added to your Transmog Collection and is available to Transmog into a skin.\n\nYou do not need to possess the item after it's been added to your Transmog Collection to Transmog it into a skin.</string>
 	<string key="ui_transmog_guide_body2" rel_version="Feature_Transmog">Go to the Transmog Station &lt;img src="lyshineui/images/map/icon/pois/transmog" xPadding="-10" scale="3.5" yOffset="14"&gt;&lt;/img&gt;, find the item, and use Transmog Tokens &lt;img src="lyshineui/images/icons/items/currency/transmogtokensmall" xPadding="0" scale="2.2" yOffset="6.0"&gt;&lt;/img&gt; to create a skin.\n\nTransmog skins are account-wide (able to use on any of your characters).</string>
 	<string key="ui_mount_guide_title1" rel_version="Feature_Mounts">How It Works</string>
-	<string key="ui_mount_guide_body1" rel_version="Feature_Mounts">You can summon your mount with {$ui.mount_summon_description$}. Walk with {$ui.walk_mount_description$}, sprint with {$player.mount_dash$}, and jump with {$movement.jump$}. Sprinting and jumping cost mount stamina. Falling from great heights and being hit by enemies reduces its stamina and may result in being dismounted.</string>
+	<string key="ui_mount_guide_body1" rel_version="Feature_Mounts">You can summon your mount with {$ui.mount_summon_description$}. Walk with {$ui.walk_mount_description$}, sprint with {$player.mount_dash$}, and jump with {$movement.jump$}. Sprinting costs mount stamina. Falling from great heights and being hit by enemies reduces its stamina and may result in being dismounted.</string>
 	<string key="ui_event_token_disappears">&lt;font face="lyshineui/fonts/Nimbus_Medium.font" color="#edc63e"&gt;Tokens will disappear at the end of the event.&lt;/font&gt;</string>
 	<string key="ui_event_item_disappears">&lt;font face="lyshineui/fonts/Nimbus_Medium.font" color="#edc63e"&gt;This item will disappear at the end of the event.&lt;/font&gt;</string>
 	<string key="ui_event_time_left">&lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;Event ends in: &lt;font color="#edc63e"&gt;{timeLeft} &lt;img src="LyShineUI/Images/Icons/Misc/icon_hourglass_yellow.png" xPadding="0" scale="1.1" yOffset="1"&gt;&lt;/img&gt;&lt;/font&gt;&lt;/font&gt;</string>
@@ -2844,10 +2970,11 @@
 	<string key="attribution_SummerMedleyfaire_2023" rel_version="Event_Summer_Perm">Summer Medleyfaire</string>
 	<string key="attribution_NightveilHallow_2022" rel_version="Event_Halloween_Perm">Nightveil Hallow</string>
 	<string key="attribution_NightveilHallow_2023" rel_version="Event_Halloween2023_Perm">Nightveil Hallow</string>
-	<string key="attribution_Housing_SettlerSet_2021" rel_version="Housing_Settler_Set" comment="Housing Furniture Set">Aeternum Settler's Furniture</string>
-	<string key="attribution_Housing_PirateSet_2021" rel_version="Housing_Pirate_Set" comment="Housing Furniture Set">Reekwater Furniture</string>
-	<string key="attribution_Housing_DynastySet_2021" rel_version="Housing_Dynasty_Set" comment="Housing Furniture Set">Ebonscale Furniture</string>
-	<string key="attribution_Housing_LegionSet_2022" rel_version="Housing_Legion_Set" comment="Housing Furniture Set">Brimstone Furniture</string>
+	<string key="attribution_NightveilHallow_2024" rel_version="Event_Halloween2024_Perm">Nightveil Hallow</string>
+	<string key="attribution_Housing_SettlerSet_2021" comment="Housing Furniture Set" rel_version="Housing_Settler_Set">Aeternum Settler's Furniture</string>
+	<string key="attribution_Housing_PirateSet_2021" comment="Housing Furniture Set" rel_version="Housing_Pirate_Set">Reekwater Furniture</string>
+	<string key="attribution_Housing_DynastySet_2021" comment="Housing Furniture Set" rel_version="Housing_Dynasty_Set">Ebonscale Furniture</string>
+	<string key="attribution_Housing_LegionSet_2022" comment="Housing Furniture Set" rel_version="Housing_Legion_Set">Brimstone Furniture</string>
 	<string key="attribution_TurkeyTerror_2022" rel_version="Event_TurkeyTerror_Perm">Turkey Terror</string>
 	<string key="attribution_TurkeyTerror_2023" rel_version="Event_TurkeyTerror2023_Perm">Turkey Terror</string>
 	<string key="attribution_Season_1" rel_version="Season_1_Perm">Season 1</string>
@@ -2855,11 +2982,12 @@
 	<string key="attribution_Season_3" rel_version="Season_3_Perm">Season 3</string>
 	<string key="attribution_Season_4" rel_version="Season_4_Perm">Season 4</string>
 	<string key="attribution_Season_5" rel_version="Season_5_Perm">Season 5</string>
+	<string key="attribution_Season_Pass" rel_version="Season_6_Perm">Season Pass</string>
 	<string key="ui_reset_daily_time">Resets daily at {time}</string>
 	<string key="ui_reset_weekly_time">Resets weekly each {time}</string>
-	<string key="ui_buy_new_world">Buy New World</string>
+	<string key="ui_buy_new_world">Buy New World: Aeternum</string>
 	<string key="ui_transaction_failed_header">Transaction Failed</string>
-	<string key="ui_probation_account_restriction">Purchase of New World is required for this feature.</string>
+	<string key="ui_probation_account_restriction">Purchase of New World: Aeternum is required for this feature.</string>
 	<string key="ui_item_skinning_disabled">Item Skinning Disabled</string>
 	<string key="ui_camp_skins_disabled">Camp Skins Disabled</string>
 	<string key="ui_fast_travel_points">Fast Travel Points</string>
@@ -2896,31 +3024,33 @@
 	<string key="ui_transmog_dye_title" rel_version="Feature_Transmog">Dye armor and skins</string>
 	<string key="ui_transmog_dye_instructions" rel_version="Feature_Transmog">Check the box in the &lt;img src="lyshineui/images/icons/crafting/icon_skin_mask_tan" xPadding="0" scale="1.0" yOffset="1.0"&gt;&lt;/img&gt; column to dye the skin for an armor piece.</string>
 	<string key="ui_transmog_select_skin" rel_version="Feature_Transmog">Select Skin</string>
-	<string key="ui_transmog_unlock_for" rel_version="Feature_Transmog">Unlock for &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{amount}&lt;/font &gt;&lt;img src="lyshineui/images/icons/items/currency/transmogtokensmall" scale="1.8" xPadding="5" yOffset="5"&gt;&lt;/img&gt;</string>
+	<string key="ui_transmog_unlock_for" rel_version="Feature_Transmog">Unlock for &lt;font face="lyshineui/fonts/Pica_Regular.font"&gt;{amount}&lt;/font &gt;&lt;img src="lyshineui/images/icons/items/currency/transmogtokensmall" scale="1.8" xPadding="5" yOffset="5"&gt;&lt;/img&gt;</string>
 	<string key="ui_transmog_not_available" rel_version="Feature_Transmog">Not Available</string>
 	<string key="attribution_RabbitSeason_2023" rel_version="Feature_RabbitSeasonPerm">Rabbit's Revenge</string>
 	<string key="ui_default_profile" rel_version="Feature_Controller">Default</string>
 	<string key="ui_advanced_profile" rel_version="Feature_Controller">Melee</string>
 	<string key="ui_custom1_profile" rel_version="Feature_Controller">Custom 1</string>
 	<string key="ui_custom2_profile" rel_version="Feature_Controller">Custom 2</string>
+	<string key="ui_custom_profile_title" rel_version="Feature_Controller">Edit {profile}</string>
+	<string key="ui_controller_control_scheme" rel_version="Feature_Controller">Control Scheme</string>
 	<string key="ui_remap_custom_profile" rel_version="Feature_Controller">You may only remap "Custom Profile"</string>
 	<string key="ui_transmog_error_inventory_not_ready">Transmog failed: Inventory Service not ready.</string>
 	<string key="ui_transmog_error_service_server_error">Transmog failed: Service Error.</string>
 	<string key="ui_transmog_error_service_throttled">Transmog failed: Server busy try again later.</string>
-	<string key="ui_transmog_error_service_invalid_request">Transmog failed: Invalid Request</string>
-	<string key="ui_transmog_error_skin_not_unlocked">Transmog failed: Skin is not unlocked</string>
-	<string key="ui_transmog_error_no_item_equipped">Could not apply {skinName}. Slot is empty</string>
-	<string key="ui_transmog_error_mismatch_item_class">Transmog failed: Cannot equip skin to mismatched types</string>
-	<string key="ui_transmog_error_skin_already_applied">Did not apply {skinName}: Appearance already applied on item</string>
-	<string key="ui_transmog_error_apply_skin_pending">Transmog failed: Pending appearance change on item</string>
+	<string key="ui_transmog_error_service_invalid_request">Transmog failed: Invalid Request.</string>
+	<string key="ui_transmog_error_skin_not_unlocked">Transmog failed: Skin is not unlocked.</string>
+	<string key="ui_transmog_error_no_item_equipped">Could not apply {skinName}. Slot is empty.</string>
+	<string key="ui_transmog_error_mismatch_item_class">Transmog failed: Cannot equip skin to mismatched types.</string>
+	<string key="ui_transmog_error_skin_already_applied">Did not apply {skinName}: Appearance already applied on item.</string>
+	<string key="ui_transmog_error_apply_skin_pending">Transmog failed: Pending appearance change on item.</string>
 	<string key="ui_transmog_error_generic">Transmog Error</string>
 	<string key="ui_transmog_npc_name">Stylemancer</string>
 	<string key="ui_transmog_npc_tooltip">Create skins from items you've collected by using &lt;img src="lyshineui/images/icons/items/currency/transmogtokensmall" xPadding="0" scale="2.2" yOffset="6.0"&gt;&lt;/img&gt; Transmog Tokens.</string>
-	<string key="ui_transmog_dyeing_error">Error applying dye. Please try again</string>
-	<string key="ui_transmog_dyeing_previews_disabled">Can't Dye Previewed Skins</string>
+	<string key="ui_transmog_dyeing_error">Error applying dye. Please try again.</string>
+	<string key="ui_transmog_dyeing_previews_disabled">Can't Dye Previewed Skins.</string>
 	<string key="ui_transmog_services_unavailable_title">Transmog Services Unavailable</string>
 	<string key="ui_transmog_services_unavailable_tooltip">Transmog Unavailable</string>
-	<string key="ui_transmog_services_unavailable_message">Transmog is currently unavailable, please try again later</string>
+	<string key="ui_transmog_services_unavailable_message">Transmog is currently unavailable. Please try again later.</string>
 	<string key="ui_unclaimed_seasons_rewards">Unclaimed Season Rewards</string>
 	<string key="ui_expansion_name_expansion2023" comment="DO NOT TRANSLATE">[TMP] Expansion 2023</string>
 	<string key="ui_required_expansion_missing_tooltip" comment="DO NOT TRANSLATE">[TMP] Missing expansion: {expansion}</string>
@@ -2933,9 +3063,10 @@
 	<string key="ui_emote_slot3">Emote Slot 3</string>
 	<string key="ui_emote_slot4">Emote Slot 4</string>
 	<string key="ui_emote_bind_to_slot">Bind to {slot}</string>
+	<string key="ui_bind_to">Bind to</string>
 	<string key="ui_emote_unbind">Unbind from {slot}</string>
 	<string key="ui_emote_mounted_error">Unable to use emotes while mounted.</string>
-	<string key="ui_emote_disabled">{emoteName} temporarily disabled</string>
+	<string key="ui_emote_disabled">{emoteName} temporarily disabled.</string>
 	<string key="generic_list_2">{item1} and {item2}</string>
 	<string key="generic_list_3">{item1}, {item2}, and {item3}</string>
 	<string key="generic_list_4">{item1}, {item2}, {item3}, and {item4}</string>
@@ -2945,15 +3076,15 @@
 	<string key="ui_equipment_tools_view_button">View Tools, Bags, and Instruments</string>
 	<string key="ui_equipment_mounts_view_button" rel_version="Feature_Mounts">View Mount Equipment</string>
 	<string key="views_tutorial">Select the tools view to access tools, bags, and instruments.</string>
-	<string key="ui_requires_expansion_to_advance">{expansionName} needed to advance</string>
+	<string key="ui_requires_expansion_to_advance">{expansionName} needed to advance.</string>
 	<string key="expansion_1_name">Rise of the Angry Earth</string>
 	<string key="expansion_1_name_locked">Requires Rise of the Angry Earth</string>
 	<string key="ui_filter_category_general">General</string>
 	<string key="ui_filter_category_weapon_skin">Weapon Skin</string>
 	<string key="ui_filter_general_lmited_time">Limited Time</string>
 	<string key="ui_filter_general_sale">Sale</string>
-	<string key="ui_expansion_required_to_enter_territory">{expansionName} required to enter this territory</string>
-	<string key="ui_objective_required_to_enter_territory">You must complete "&lt;font color={objectiveColor}&gt;{objectiveName}&lt;/font&gt;" to enter this territory</string>
+	<string key="ui_expansion_required_to_enter_territory">{expansionName} required to enter this territory.</string>
+	<string key="ui_objective_required_to_enter_territory">You must complete "&lt;font color={objectiveColor}&gt;{objectiveName}&lt;/font&gt;" to enter this territory.</string>
 	<string key="ui_sort_by_featured">Sort by Featured</string>
 	<string key="ui_sort_by_name">Sort by Name</string>
 	<string key="ui_sort_by_release_date">Sort by Release Date</string>
@@ -2963,5 +3094,21 @@
 	<string key="ui_requirements">Requirements</string>
 	<string key="ui_external_rewards">External Rewards</string>
 	<string key="ui_ability_minimum_cooldown">{baseCooldown} ({minimumCooldown} minimum)</string>
+	<string key="ui_ability_supports_smartcast" rel_version="Feature_Smartcast">This ability supports Smartcast.</string>
+	<string key="ui_transfer_world">Transfer World</string>
+	<string key="ui_view_profile">View Profile</string>
+	<string key="ui_view_gamercard">View Gamercard</string>
+	<string key="ui_poi_header">Points Of Interest</string>
+	<string key="ui_available_header">Availability</string>
+	<string key="ui_objectives_header">Objectives</string>
+	<string key="show_available">Available</string>
+	<string key="objective_repeatable">Repeatable</string>
+	<string key="show_available_soon">Available Soon</string>
+	<string key="ui_type_header">Type</string>
+	<string key="ui_influence_header">Influence</string>
+	<string key="ui_communication_restricted_chat_disabled">Communication restricted. Chat is disabled.</string>
+	<string key="ui_console_privacy_enabled">Due to your console privacy settings, you cannot perform this action.</string>
+	<string key="ui_blocked_player">Blocked Player</string>
+	<string key="ui_blocked_company">Blocked Company</string>
 </resources>
 

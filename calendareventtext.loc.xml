@@ -87,7 +87,7 @@
 	<string key="ui_news_modal_display_end_datetime">Ends at {endTime} on {endDate}</string>
 	<string key="ui_event_free_weekend_event_message_title" rel_version="Feature_FreeWeekend">Free Weekend</string>
 	<string key="ui_event_free_weekend_event_message_description" rel_version="Feature_FreeWeekend">The Free Weekend is in progress.</string>
-	<string key="ui_event_free_weekend_description" rel_version="Feature_FreeWeekend">During this limited-time event, experience the new Brimstone Sands zone, revamped Main Story Quest, and latest updates to New World for free!\n\nTo play with friends, characters must be on the same world. Free players enjoy unlimited session times unless there is a queue for the world (at the end of a session, free players will be asked to requeue).\n\nNew players can also save 50% on the Standard and Deluxe editions of New World when purchased between December 15 at 10AM PT and January 5 at 10AM PT.</string>
+	<string key="ui_event_free_weekend_description" rel_version="Feature_FreeWeekend">During this limited-time event, experience the new Brimstone Sands zone, revamped Main Story Quest, and latest updates to New World: Aeternum for free!\n\nTo play with friends, characters must be on the same world. Free players enjoy unlimited session times unless there is a queue for the world (at the end of a session, free players will be asked to requeue).\n\nNew players can also save 50% on the Standard and Deluxe editions of New World: Aeternum when purchased between December 15 at 10AM PT and January 5 at 10AM PT.</string>
 	<string key="ui_event_free_weekend" rel_version="Feature_FreeWeekend">Free Weekend</string>
 	<string key="ui_event_free_weekend_in_progress_panel1_bullet1_title" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend In Progress Panel 1, Bullet 1 Title</string>
 	<string key="ui_event_free_weekend_in_progress_panel1_bullet1_text" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend In Progress Panel 1, Bullet 1 Text</string>
@@ -117,7 +117,7 @@
 	<string key="ui_event_free_weekend_ending_soon_button_about" rel_version="Feature_FreeWeekend">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Free Weekend</string>
 	<string key="ui_event_leaderboards_tabname" rel_version="Feature_Leaderboards">Leaderboards</string>
 	<string key="ui_event_leaderboards_title" rel_version="Feature_Leaderboards">Introducing Leaderboards</string>
-	<string key="ui_event_leaderboards_description" rel_version="Feature_Leaderboards">Leaderboards track various New World activities across settlements and factions. Compete with other players in various individual, company, and faction activities to ascend the leaderboards, which reset periodically.\n\n&lt;font color="#edc63e"&gt;Access Leaderboards in the Modes Menu. &lt;/font&gt;</string>
+	<string key="ui_event_leaderboards_description" rel_version="Feature_Leaderboards">Leaderboards track various New World: Aeternum activities across settlements and factions. Compete with other players in various individual, company, and faction activities to ascend the leaderboards, which reset periodically.\n\n&lt;font color="#edc63e"&gt;Access Leaderboards in the Modes Menu. &lt;/font&gt;</string>
 	<string key="ui_event_leaderboards_bullet1_title" rel_version="Feature_Leaderboards">Rewards</string>
 	<string key="ui_event_leaderboards_button_about" rel_version="Feature_Leaderboards">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Leaderboards</string>
 	<string key="ui_event_dec_mtx_tabname" rel_version="Entitlements_WinterConvergence_MTX">Store</string>
@@ -145,6 +145,8 @@
 	<string key="ui_news_twitch_tabname" rel_version="Season_3_Perm">Twitch</string>
 	<string key="ui_news_raid_tabname">Raid</string>
 	<string key="ui_news_raids_tabname">Raids</string>
+	<string key="ui_news_new_raid_tabname" rel_version="Raid_CutlassKeys_00">New Raid</string>
+	<string key="ui_news_new_gamemode_tabname" rel_version="Territory_CutlassKeys_Rework">New Gamemode</string>
 	<string key="ui_news_bullet_armor_skins">Armor Skins</string>
 	<string key="ui_news_bullet_weapon_skins">Weapon Skins</string>
 	<string key="ui_news_bullet_camp_skin">Camp Skin</string>
@@ -362,9 +364,49 @@
 	<string key="ui_event_mar_2024_mtx_title" rel_version="Entitlements_Reaper">Reaper's Embrace</string>
 	<string key="ui_event_mar_2024_mtx_description" rel_version="Entitlements_Reaper">It's no joke when Death knocks on your door! Visit the store for new Grim Reaper items available for a limited time! You might as well look sharp on your way to the Underworld!</string>
 	<string key="ui_event_mar_2024_mtx_about" rel_version="Entitlements_Reaper">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Reaper's Embrace</string>
+	<string key="ui_event_console_beta_preorder_tabname">Pre-Order</string>
+	<string key="ui_event_console_beta_preorder_title">Pre-Order for the Azoth Stalker Wolf Mount</string>
+	<string key="ui_event_console_beta_preorder_description">Pre-order New World: Aeternum Standard or Deluxe Edition and receive the Azoth Stalker Wolf Mount when the game launches on October 15th!</string>
+	<string key="ui_event_console_beta_preorder_description_bullet1">Exclusive "Azoth Stalker" Mount</string>
+	<string key="ui_event_console_beta_preorder_description_bullet2">Deluxe Edition Digital Item (Corrupted Mauler Bear Mount)</string>
+	<string key="ui_event_console_beta_preorder_description_bullet3">Deluxe Edition Digital Item (Corrupted Soul Armor Skin)</string>
+	<string key="ui_event_console_beta_preorder_details">Pre-Order</string>
+	<string key="ui_event_console_beta_preorder_aboutbuttontext">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Pre-Order</string>
+	<string key="ui_event_console_beta_preorder_eventmessagetitle">Pre-Order</string>
+	<string key="ui_event_console_beta_preorder_eventmessagedescription">Pre-order New World: Aeternum Standard or Deluxe Edition and receive the Azoth Stalker Wolf Mount when the game launches on October 15th!</string>
+	<string key="ui_event_console_beta_preorder_news_bullet_azoth_stalker">Azoth Stalker</string>
+	<string key="ui_event_console_beta_preorder_news_bullet_mount_skins_deluxe">Mount Skins\n(Deluxe)</string>
+	<string key="ui_event_console_beta_preorder_news_bullet_armor_skins_deluxe">Armor Skins\n(Deluxe)</string>
+	<string key="ui_event_console_beta_rewards_tabname">Open Beta</string>
+	<string key="ui_event_console_beta_rewards_title">Play in the Open Beta September 6 - 9</string>
+	<string key="ui_event_console_beta_rewards_description">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;ARRIVE. SURVIVE. THRIVE.&lt;/font&gt;\n\nRegister for the Open Beta and experience the thrilling open-world action RPG on the supernatural Island of Aeternum. Participating in the Open Beta will earn you exclusive rewards to use on your adventure when you purchase the full game.</string>
+	<string key="ui_event_console_beta_rewards_news_bullet1">Level 10</string>
+	<string key="ui_event_console_beta_rewards_news_bullet2">Level 15</string>
+	<string key="ui_event_console_beta_rewards_news_bullet3">Level 20</string>
+	<string key="ui_event_console_beta_rewards_news_bullet4">Level 25</string>
 	<string key="ui_event_apr_2024_mtx_title" comment="DO NOT TRANSLATE" rel_version="Entitlements_BattleMage">Battle Mage Placeholder</string>
 	<string key="ui_event_apr_2024_mtx_description" comment="DO NOT TRANSLATE" rel_version="Entitlements_BattleMage">Why get your hands dirty swinging a sword or hammer when you can stand back and launch balls of fire into the battle? Even better, why not look good while doing it? New cosmetics have teleported into the Store, perfect for the discerning Battle Mage!</string>
 	<string key="ui_event_apr_2024_mtx_about" comment="DO NOT TRANSLATE" rel_version="Entitlements_BattleMage">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Battle Mage Placeholder</string>
+	<string key="ui_event_season_six_tabname" rel_version="Season_5_Perm">Season 6</string>
+	<string key="ui_event_season_six_title" rel_version="Season_6_Perm">Season of Opportunity</string>
+	<string key="ui_event_season_six_description" rel_version="Season_6_Perm">Carve your destiny through the depths of Aeternum to uncover seasonal armor and weapon skins, transmog tokens, and other treasures long lost to the outside world. Welcome to the cursed isle.</string>
+	<string key="ui_event_season_six_about" rel_version="Season_6_Perm">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Season 6</string>
+	<string key="ui_event_hercyne_raid_title" rel_version="Raid_CutlassKeys_00">Gorgon's Hive</string>
+	<string key="ui_event_hercyne_raid_description" rel_version="Raid_CutlassKeys_00">Beware Gorgon's Hive, our new 10 player Raid starting from Cutlass Keys. With three bosses, Gorgon's Hive will feature the highest Gear Score items in the game, ranging up to 725 GS. These rewards come with a weekly loot lockout.\n\nWe look forward to your first impressions and feedback!</string>
+	<string key="ui_event_hercyne_raid_about" rel_version="Raid_CutlassKeys_00">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Hercyne Raid</string>
+	<string key="ui_event_bear_mount_title" rel_version="Feature_Mounts_Bear">Bear Mounts</string>
+	<string key="ui_event_bear_mount_description" rel_version="Feature_Mounts_Bear">As Man's bond with the beasts has become stronger, the creatures of the wild have taken note. Horse, Wolf, and Lion alike have found adventure and harmony with the heroes of Aeternum. Now a new beast comes to bear humans onwards and forwards. Venture forth and meet the new mount: Bears!\n\n&lt;font color="#edc63e"&gt;&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Requires Rise of the Angry Earth.&lt;/font&gt;&lt;/font&gt;</string>
+	<string key="ui_event_bear_mount_about" rel_version="Feature_Mounts_Bear">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Bear Mounts</string>
+	<string key="ui_news_bear_mount_bullet1" rel_version="Feature_Mounts_Bear">Renboga</string>
+	<string key="ui_news_bear_mount_bullet2" rel_version="Feature_Mounts_Bear">Goliath</string>
+	<string key="ui_news_bear_mount_bullet3" rel_version="Feature_Mounts_Bear">Morti</string>
+	<string key="ui_event_ffa_title" rel_version="Territory_CutlassKeys_Rework">Curse of Cutlass Keys</string>
+	<string key="ui_event_ffa_description" rel_version="Territory_CutlassKeys_Rework">A Curse has descended upon the Cutlass Keys, and only you can lift it. Rumors are spreading of a vile fog, turning treasure seeking pirates into the maddened Goldcursed. Beware, as you plunder the uncharted islands of the Cutlass Keys. There, the greed for treasure takes hold. Your allies will succumb to the mists, and become your foes. Within the Cursed Mists, you are on your own. The Free-for-All PVP game mode is now available. Some Cutlass Keys quests have been abandoned.</string>
+	<string key="ui_event_ffa_about" rel_version="Territory_CutlassKeys_Rework">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Curse of Cutlass Keys</string>
+	<string key="ui_event_ffa_bullet1" rel_version="Territory_CutlassKeys_Rework">Doubloons</string>
+	<string key="ui_event_aug_2024_mtx_title" rel_version="Season_6_Perm">Reaper</string>
+	<string key="ui_event_aug_2024_mtx_description" rel_version="Season_6_Perm">Death stalks Aeternum in this momentous time. Check the store for new Reaper skins and classics from the vault like the Assassin's Whisper set! Silence your enemies and claim their souls!</string>
+	<string key="ui_event_aug_2024_mtx_about" rel_version="Season_6_Perm">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Reaper</string>
 	<string key="ui_event_legacy_of_crassus_title">Legacy of Crassus</string>
 	<string key="ui_event_legacy_of_crassus_description">Crassus returns with his monstrous legion in tow! Rally your forces and battle the brutish captains Decimus and Lucanus in Brightwood, Mourningdale, Weaver’s Fen, Edengrove, and Ebonscale Reach. Fight back the Roman onslaught and defeat the dark grasp of Corruption for honor, glory, and limited-time rewards!</string>
 	<string key="ui_event_legacy_of_crassus_bullet1">Legion Pickaxe</string>
