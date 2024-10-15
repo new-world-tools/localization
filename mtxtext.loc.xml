@@ -51,7 +51,15 @@
 	<string key="exceeds_max_balance" rel_version="Feature_Seasons_Consumable_Tokens">Purchase Exceeds cap of {cap}</string>
 	<string key="reward_type_armorskin" rel_version="Feature_MTX">Apparel Skin</string>
 	<string key="reward_type_toolskin" rel_version="Feature_MTX">Tool Skin</string>
-	<string key="url_worldtransfer">https://www.newworld.com/forward-link?id=server-transfer-details</string>
+	<string key="url_worldtransfer_US" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.newworld.com/forward-link?id=server-transfer-details</string>
+	<string key="url_worldtransfer_GB" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.newworld.com/forward-link?id=server-transfer-details</string>
+	<string key="url_worldtransfer_FR" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.newworld.com/fr-fr/news/articles/server-transfer-details</string>
+	<string key="url_worldtransfer_IT" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.newworld.com/forward-link?id=server-transfer-details</string>
+	<string key="url_worldtransfer_ES" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.newworld.com/forward-link?id=server-transfer-details</string>
+	<string key="url_worldtransfer_DE" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.newworld.com/forward-link?id=server-transfer-details</string>
+	<string key="url_worldtransfer_PL" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.newworld.com/forward-link?id=server-transfer-details</string>
+	<string key="url_worldtransfer_MX" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.newworld.com/forward-link?id=server-transfer-details</string>
+	<string key="url_worldtransfer_BR" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.newworld.com/forward-link?id=server-transfer-details</string>
 	<string key="reward_type_weaponskin" rel_version="Feature_MTX">Weapon Skin</string>
 	<string key="reward_type_guildcrest" rel_version="Feature_MTX">Company Crest</string>
 	<string key="reward_type_guildcrest_fg" rel_version="Feature_MTX">Crest Color</string>
@@ -159,7 +167,7 @@
 	<string key="ui_mtx_coming_soon">Coming Soon!</string>
 	<string key="ui_button_disabled_dead">You cannot perform this action when you are dead.</string>
 	<string key="url_refundpolicy_US" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.amazongames.com/en-us/support/new-world/articles/amazon-games-refund-policy</string>
-	<string key="url_refundpolicy_GB" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.amazongames.com/en-us/support/new-world/articles/amazon-games-refund-policy</string>
+	<string key="url_refundpolicy_GB" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.amazongames.com/en-gb/support/new-world/articles/amazon-games-refund-policy</string>
 	<string key="url_refundpolicy_FR" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.amazongames.com/fr-fr/support/new-world/articles/amazon-games-refund-policy</string>
 	<string key="url_refundpolicy_IT" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.amazongames.com/it-it/support/new-world/articles/amazon-games-refund-policy</string>
 	<string key="url_refundpolicy_ES" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.amazongames.com/es-es/support/new-world/articles/amazon-games-refund-policy</string>
@@ -623,7 +631,15 @@
 	<string key="Emote_Pushups_description" rel_version="Emote_Pushups">"Dost thou even lift, brother?"</string>
 	<string key="Emote_Autograph_description" rel_version="Emote_Autograph">"Scribble your autograph. No doubt your fans are desperate for it."</string>
 	<string key="Emote_SnowAngel_description" rel_version="Emote_SnowAngel">"Angels are in short supply on Aeternum. Make more. Just don't get frostbite."</string>
-	<string key="url_twitchdrop">https://www.newworld.com/en-us/twitch-drops</string>
+	<string key="url_twitchdrop_US" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.newworld.com/en-us/twitch-drops</string>
+	<string key="url_twitchdrop_GB" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.newworld.com/en-gb/twitch-drops</string>
+	<string key="url_twitchdrop_FR" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.newworld.com/fr-fr/twitch-drops</string>
+	<string key="url_twitchdrop_IT" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.newworld.com/it-it/twitch-drops</string>
+	<string key="url_twitchdrop_ES" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.newworld.com/es-es/twitch-drops</string>
+	<string key="url_twitchdrop_DE" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.newworld.com/de-de/twitch-drops</string>
+	<string key="url_twitchdrop_PL" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.newworld.com/pl-pl/twitch-drops</string>
+	<string key="url_twitchdrop_MX" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.newworld.com/es-mx/twitch-drops</string>
+	<string key="url_twitchdrop_BR" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.newworld.com/pt-br/twitch-drops</string>
 	<string key="url_primegaming">https://gaming.amazon.com/loot/newworld</string>
 	<string key="ui_open_link">Open Link</string>
 	<string key="Bundle_Decor_Lunar_name" rel_version="Housing_LunarNewYear_MTX_Pack_2022">Lunar New Year Décor Bundle</string>

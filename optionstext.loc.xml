@@ -515,8 +515,9 @@
 	<string key="ui_genaprompt_brightnesssettings_ps" rel_version="Feature_GameEntryNarrationAssistance">Brightness Settings. Press Square to continue. Press Circle to go back.</string>
 	<string key="ui_genaprompt_brightnesssettings_xb" rel_version="Feature_GameEntryNarrationAssistance">Brightness Settings. Press X to continue. Press B to go back.</string>
 	<string key="ui_genaprompt_introcutscene" rel_version="Feature_GameEntryNarrationAssistance">Intro Cutscene. Hold {ui_cancel} to skip.</string>
-	<string key="ui_genaprompt_introcutscene_ps" rel_version="Feature_GameEntryNarrationAssistance">Intro Cutscene. Hold Cross to skip.</string>
-	<string key="ui_genaprompt_introcutscene_xb" rel_version="Feature_GameEntryNarrationAssistance">Intro Cutscene. Hold A to skip.</string>
+	<string key="ui_genaprompt_introcutscene_pc_controller" rel_version="Feature_GameEntryNarrationAssistance">Intro Cutscene. Hold {ui_nav_select}, to skip.</string>
+	<string key="ui_genaprompt_introcutscene_ps" rel_version="Feature_GameEntryNarrationAssistance">Intro Cutscene. Hold Cross, to skip.</string>
+	<string key="ui_genaprompt_introcutscene_xb" rel_version="Feature_GameEntryNarrationAssistance">Intro Cutscene. Hold A, to skip.</string>
 	<string key="ui_genaprompt_archetypes" rel_version="Feature_GameEntryNarrationAssistance">Character background. Press {frontEndContinue} to continue. Press {ui_cancel} to go back.</string>
 	<string key="ui_genaprompt_archetypes_ps" rel_version="Feature_GameEntryNarrationAssistance">Character archetypes. Press Square to continue. Press Circle to go back.</string>
 	<string key="ui_genaprompt_archetypes_xb" rel_version="Feature_GameEntryNarrationAssistance">Character archetypes. Press X to continue. Press B to go back.</string>
@@ -584,8 +585,8 @@
 	<string key="ui_options_enable_crossplay" rel_version="Feature_Crossplay">Enable Cross-Platform Play</string>
 	<string key="ui_options_enable_crossplay_desc" rel_version="Feature_Crossplay">This can be changed from the Main Menu.\n If the setting cannot be changed, enable Cross-Play through your console setting first.</string>
 	<string key="ui_options_enable_crossplay_comms" rel_version="Feature_Crossplay">Cross-Platform Communications</string>
-	<string key="ui_options_enable_crossplay_comms_pc_desc" rel_version="Feature_Crossplay">Toggle this feature to enable or disable text and voice chat with players on other platforms.</string>
-	<string key="ui_options_enable_crossplay_comms_console_desc" rel_version="Feature_Crossplay">This option can only be accessed when communications are enabled through your console.\n Toggle this feature to enable or disable text and voice chat with players on other platforms.</string>
+	<string key="ui_options_enable_crossplay_comms_pc_desc" rel_version="Feature_Crossplay">Toggle this feature to enable or disable communication with players on other platforms. Characters created on one setting will not be available when the setting is changed. Toggle Cross-Play again to play on these characters.</string>
+	<string key="ui_options_enable_crossplay_comms_console_desc" rel_version="Feature_Crossplay">This option can only be accessed when communications are enabled through your console.\n Toggle this feature to enable or disable text and voice chat with players on other platforms. Characters created on one setting will not be available when the setting is changed.</string>
 	<string key="ui_options_crossplay_prompt_title" rel_version="Feature_Crossplay">Cross-Play</string>
 	<string key="ui_options_enable_crossplay_prompt" rel_version="Feature_Crossplay">Are you sure you want to enable cross-play?\n This will return you to the Main Menu</string>
 	<string key="ui_options_disable_crossplay_prompt" rel_version="Feature_Crossplay">Are you sure you want to disable cross-play?\n This will return you to the Main Menu</string>

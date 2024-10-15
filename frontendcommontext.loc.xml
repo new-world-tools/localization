@@ -42,6 +42,12 @@
 	<string key="mm_loginservices_badrequest">Login services received a bad request.</string>
 	<string key="mm_loginservices_invalidticket">Invalid login ticket provided. Please try again.</string>
 	<string key="mm_loginservices_noticket">No login ticket received. Please try again.</string>
+	<string key="mm_loginservices_failed_to_create_character">Login failed to create new character.</string>
+	<string key="mm_loginservices_character_list_failed">Login character list failed.</string>
+	<string key="mm_loginservices_world_list_failed">Login world list failed.</string>
+	<string key="mm_loginservices_no_worlds">No active worlds are available.</string>
+	<string key="mm_loginservices_no_worlds_unknown">No worlds are currently available.</string>
+	<string key="mm_loginservices_not_authorized">You have been disconnected. Please return to the Main Menu.</string>
 	<string key="mm_loginservices_expiredticket">Login ticket expired. Please try again.</string>
 	<string key="mm_loginservices_badticket">Login ticket invalid or expired. Please try again.</string>
 	<string key="mm_loginservices_discardedticket">Login ticket was discarded for a newer login attempt.</string>
@@ -689,7 +695,15 @@
 	<string key="ui_character_name_will_become_latent_warning">This character's name will be made available to all players in {time}. Enter a world as this character to keep its name.</string>
 	<string key="ui_character_name_is_latent">This character's name has been made available to all players. Enter a world as this character to keep its name.</string>
 	<string key="mm_newworldlinktext">Go to newworld.com</string>
-	<string key="url_newworldsite" comment="once pre-orders are open, we'll need to switch to http://newworld.com/game-selection/index.html">https://newworld.com/</string>
+	<string key="url_newworldsite_US" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://newworld.com/en-us</string>
+	<string key="url_newworldsite_GB" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://newworld.com/en-gb</string>
+	<string key="url_newworldsite_FR" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://newworld.com/fr-fr</string>
+	<string key="url_newworldsite_IT" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://newworld.com/it-it</string>
+	<string key="url_newworldsite_ES" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://newworld.com/es-es</string>
+	<string key="url_newworldsite_DE" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://newworld.com/de-de</string>
+	<string key="url_newworldsite_PL" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://newworld.com/pl-pl</string>
+	<string key="url_newworldsite_MX" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://newworld.com/es-mx</string>
+	<string key="url_newworldsite_BR" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://newworld.com/pt-br</string>
 	<string key="ui_tradeskill_level_arcana">Arcana Level</string>
 	<string key="ui_tradeskill_level_armoring">Armoring Level</string>
 	<string key="ui_tradeskill_level_blacksmithing">Weaponsmithing Level</string>

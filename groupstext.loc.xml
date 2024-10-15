@@ -106,6 +106,7 @@
 	<string key="ui_gameinviteerror_streamermodeblock" comment="">Unable to join from Game Invite. {playerName} is in do not disturb mode.</string>
 	<string key="ui_gameinviteerror_invalidfaction" comment="">Unable to join from Game Invite. You must be in the same faction.</string>
 	<string key="ui_gameinviteerror_iscrossworld" comment="">Unable to join from Game Invite. {playerName} is in a Cross World mode.</string>
+	<string key="ui_gameinviteerror_crossplay" comment="">Unable to join invite due to mismatched cross-platform settings.</string>
 	<string key="ui_gameinvite_errordecoding" comment="">Error occurred processing Game Invite.</string>
 	<string key="ui_groupmaxinviteserrormessage" comment="">Can&apos;t invite {playerName}, you reached your max number of invites.</string>
 	<string key="ui_groupfromplayerofflineerrormessage" comment="">Group invite removed: {playerName} went offline.</string>

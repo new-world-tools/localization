@@ -7,6 +7,8 @@
 	<string key="ui_queue_leave_group_confirm_message">If the remaining group size drops below {minGroupSize} members, the group will be removed from the queue.\n\nAre you sure?</string>
 	<string key="ui_queue_leave_notification_generic">You have been removed from your game mode queue.</string>
 	<string key="ui_queue_ready">F2 To Enter Expedition</string>
+	<string key="ui_queue_generic_leave_title">Leave Queue</string>
+	<string key="ui_queue_generic_leave_desc">Are you sure you want to leave the current queue?</string>
 	<string key="ui_game_mode_matchmaking_failed">An unexpected matchmaking failure has occurred.</string>
 	<string key="ui_game_mode_disabled">This game mode is currently disabled.</string>
 	<string key="ui_dungeon_enter_info">&lt;font color={color}&gt;At least 1 person&lt;/font&gt; must enter to keep the Expedition open. Teleport in now?</string>

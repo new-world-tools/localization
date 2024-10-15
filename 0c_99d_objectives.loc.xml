@@ -326,6 +326,7 @@ The gate opens to welcome our allies from beyond, and with them, your doom.</str
 	<string key="99D_MSQ_08_ThorpeFight_Thorpe_Encounter" speaker="UI - Journal - Task Text" rel_version="Quest_MSQ2_GreatCleave">Meet Thorpe on a field of battle</string>
 	<string key="99D_MSQ_08_ThorpeFight_DefeatThorpe_Solo" speaker="UI - Journal - Task Text" rel_version="Quest_MSQ2_GreatCleave">Defeat Thorpe</string>
 	<string key="9901_0036_masterofthetempest_objective_solo_title" speaker="UI" rel_version="Quest_MSQ_Update_4">To Stand Against The Dark</string>
+	<string key="9901_0036_masterofthetempest_objective_solo_title_description" speaker="UI" rel_version="Quest_MSQ_Update_4">Battle through Thorpe's followers to confront him</string>
 	<string key="9901_0036_masterofthetempest_solo_title_wave1" speaker="UI" rel_version="Quest_MSQ2_GreatCleave">To Stand Against The Dark: Stage 1/5</string>
 	<string key="9901_0036_masterofthetempest_solo_title_wave2" speaker="UI" rel_version="Quest_MSQ2_GreatCleave">To Stand Against The Dark: Stage 2/5</string>
 	<string key="9901_0036_masterofthetempest_solo_title_wave3" speaker="UI" rel_version="Quest_MSQ2_GreatCleave">To Stand Against The Dark: Stage 3/5</string>

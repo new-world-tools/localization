@@ -378,8 +378,8 @@
 	<string key="ui_event_console_beta_preorder_news_bullet_mount_skins_deluxe">Mount Skins\n(Deluxe)</string>
 	<string key="ui_event_console_beta_preorder_news_bullet_armor_skins_deluxe">Armor Skins\n(Deluxe)</string>
 	<string key="ui_event_console_beta_rewards_tabname">Open Beta</string>
-	<string key="ui_event_console_beta_rewards_title">Play in the Open Beta September 13 - 16</string>
-	<string key="ui_event_console_beta_rewards_description">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;ARRIVE. SURVIVE. THRIVE.&lt;/font&gt;\n\nExperience the thrilling open-world action RPG on the supernatural Island of Aeternum. Participating in the Open Beta will earn you exclusive rewards to use on your adventure when you purchase the full game. During Open Beta your character is capped at level 30, explore the world beyond that at your own risk.</string>
+	<string key="ui_event_console_beta_rewards_title">Play in the Open Beta September 6 - 9</string>
+	<string key="ui_event_console_beta_rewards_description">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;ARRIVE. SURVIVE. THRIVE.&lt;/font&gt;\n\nRegister for the Open Beta and experience the thrilling open-world action RPG on the supernatural Island of Aeternum. Participating in the Open Beta will earn you exclusive rewards to use on your adventure when you purchase the full game.</string>
 	<string key="ui_event_console_beta_rewards_news_bullet1">Level 10</string>
 	<string key="ui_event_console_beta_rewards_news_bullet2">Level 15</string>
 	<string key="ui_event_console_beta_rewards_news_bullet3">Level 20</string>

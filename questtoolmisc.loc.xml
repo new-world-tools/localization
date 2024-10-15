@@ -1,7 +1,0 @@
-<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<string key="NPC_00486_name">Categorical Progression Test</string>
-	<string key="NPC_00486_title"/>
-	<string key="Quest_00087_title">Categorical Progression Test</string>
-	<string key="Quest_00087_description">Categorical progression test</string>
-</resources>
-

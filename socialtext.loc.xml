@@ -243,6 +243,8 @@
 	<string key="ui_noOnline_guild_body">You can search for a player by their player name.</string>
 	<string rel_version="Feature_Raid_Groups" key="ui_noOnline_raid_header">You have no online friends to invite to raid.</string>
 	<string rel_version="Feature_Raid_Groups" key="ui_noOnline_raid_body">You can search for a player by their player name.</string>
+	<string key="ui_reporter_make_good_title">Thank you for your player report!</string>
+	<string key="ui_reporter_make_good_body">Action has been taken on an abusive player or players you have reported recently. We appreciate your efforts in keeping New World: Aeternum a clean and fair game.</string>
 	<string key="ui_report_player">Report Player</string>
 	<string key="ui_report">Report</string>
 	<string key="ui_reply">Reply</string>

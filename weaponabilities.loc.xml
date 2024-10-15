@@ -21,8 +21,8 @@
 	<string key="Int_Bonus_350_inactive" comment="ATTRIBUTE">• +{[0.100000 * 100]}% ability damage \n• +{[1000.000000 * 0.01]}% chance at finding rare items while harvesting</string>
 	<string key="Con_Bonus_25_active" comment="ATTRIBUTE">• All health consumables are {[0.100000 * 100]}% stronger \n• +{[0.100000 * 100]}% Logging speed</string>
 	<string key="Con_Bonus_25_inactive" comment="ATTRIBUTE">• All health consumables are {[0.100000 * 100]}% stronger \n• +{[0.100000 * 100]}% Logging speed</string>
-	<string key="Con_Bonus_50_active" comment="ATTRIBUTE">• +{[0.100000 * 100]}% physical armor when at or above {[50.000000]}% health \n• {[150.000000 / 100]}% chance at finding rare items while gathering.</string>
-	<string key="Con_Bonus_50_inactive" comment="ATTRIBUTE">• +{[0.100000 * 100]}% physical armor when at or above {[50.000000]}% health \n• {[150.000000 / 100]}% chance at finding rare items while gathering.</string>
+	<string key="Con_Bonus_50_active" comment="ATTRIBUTE">• +{[0.050000 * 100]}% physical armor \n• {[150.000000 / 100]}% chance at finding rare items while gathering.</string>
+	<string key="Con_Bonus_50_inactive" comment="ATTRIBUTE">• +{[0.050000 * 100]}% physical armor \n• {[150.000000 / 100]}% chance at finding rare items while gathering.</string>
 	<string key="Con_Bonus_100_active" comment="ATTRIBUTE">• Increase max health by {[0.100000 * 100]}% of the base value \n• +{[500.000000 / 10]} encumbrance</string>
 	<string key="Con_Bonus_100_inactive" comment="ATTRIBUTE">• Increase max health by {[0.100000 * 100]}% of the base value  \n• +{[500.000000 / 10]} encumbrance</string>
 	<string key="Con_Bonus_150_active" comment="ATTRIBUTE">• -{[0.100000 * 100]}% to critical damage taken \n• -10% weight of logging items</string>

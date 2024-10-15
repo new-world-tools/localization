@@ -331,7 +331,7 @@
 	<string key="FactionIntro_Syndicate_01_Completed_next_prompt" speaker="UI - Player Prompt" rel_version="Quest_MSQ2_Revamp">"The facilities are impressive."</string>
 	<string key="FactionIntro_Syndicate_01_Completed_next" speaker="Aventus Valenti" name="AventusValenti" VO="npc_FactionIntro_Syndicate_01_Completed_next" VO_Status="Recorded" dialogue-prompt="@FactionIntro_Syndicate_01_Completed_next_prompt" sceneDelaySeconds="1.5" cutsceneCameraPresetId="NSR_MNP_COW_2SHT_OTS_Primary" rel_version="Quest_MSQ2_Revamp">&lt;g id="male_listenforward" priority="high" /&gt;You like them? If you join us in the Syndicate, they will be yours to use. &lt;g id="male_spreadarms001" /&gt;Should you be interested, I would like to test your mind as well as your body.</string>
 	<string key="FactionIntro_Syndicate_01_Container" speaker="UI" rel_version="Quest_MSQ2_Revamp">Destroy the wolves for Aventus, and meet him at the Enclave.</string>
-	<string key="FactionIntro_Syndicate_01_Container1" speaker="UI" rel_version="Quest_MSQ2_Revamp">Prepare for battle and place the lure in Midnight Den.</string>
+	<string key="FactionIntro_Syndicate_01_Container1" speaker="UI" rel_version="Quest_MSQ2_Revamp">Defeat the Alpha Wolf and Pack (Optional: Place lure to draw the wolves)</string>
 	<string key="FactionIntro_Syndicate_01_Container2" speaker="UI" rel_version="Quest_MSQ2_Revamp">Travel north east to the Enclave</string>
 	<string key="FactionIntro_Syndicate_01_EncounterTitle" speaker="UI" rel_version="Quest_MSQ2_Revamp">Fickle Fusions, Fanged Folly</string>
 	<string key="FactionIntro_Syndicate_01_PlaceLure" speaker="UI" rel_version="Quest_MSQ2_Revamp">Place the lure to draw the Pack</string>
