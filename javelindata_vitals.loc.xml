@@ -3860,7 +3860,10 @@
 	<string key="fl_dg_firstlight_01_gorilla_ice_Named_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_FirstLight">Mbita</string>
 	<string key="fl_dg_firstlight_01_gorilla_ranged_Named_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_FirstLight">Otesha</string>
 	<string key="fl_dg_firstlight_01_gorilla_lightning_named_miniboss_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_FirstLight">Truk</string>
+	<string key="Gourdspewer_Halloween_2022_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Event_Halloween_Temp">Gourdspewer</string>
+	<string key="Gourdspewer_VineLeg_Minion_Halloween_2022_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Event_Halloween_Temp">Gourdspewer Leg</string>
 	<string key="HalloweenBoss_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Baalphazu</string>
+	<string key="Halloween_2022_Plaguer_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Event_Halloween_Temp">Calabasher</string>
 	<string key="Hercyne_Boar_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_FirstLight">Hercyne Boar</string>
 	<string key="Hercyne_Boar_Alpha_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_FirstLight">Hercyne Alpha Boar</string>
 	<string key="Hercyne_Boar_WaveEvent_VitalsName" comment="Named Variant" speaker="Vitals Sheet" rel_version="Territory_FirstLight">Metzger's Monster</string>
@@ -4758,7 +4761,7 @@
 	<string key="Season_01_Event_Dryad_Soldier_VitalsName" comment="BASE" speaker="Vitals Sheet">Brambleweaver Soldier</string>
 	<string key="Season_01_Event_Dryad_Shaman_VitalsName" comment="BASE" speaker="Vitals Sheet">Brambleweaver Shaman</string>
 	<string key="Season_01_Event_Dryad_Prowler_VitalsName" comment="BASE" speaker="Vitals Sheet">Brambleweaver Prowler</string>
-	<string key="Season_04_Mordred_AI_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Season_4_Temp">Mordred</string>
+	<string key="Season_04_Mordred_AI_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Season_4_Trial">Mordred</string>
 	<string key="Sulfur_Elemental_Heavy_Named_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Season_2_Perm">Sulfur Elemental Heavy</string>
 	<string key="Sulfur_Elemental_Heavy_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Season_2_Perm">Sulfur Elemental Heavy</string>
 	<string key="Sulfur_Elemental_Soldier_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Season_2_Perm">Sulfur Elemental Soldier</string>
@@ -14276,7 +14279,7 @@
 	<string key="VC_Dune_Phantom_Tank_Named_S02_Q4" speaker="Vitals Category" rel_version="Season_2_Perm">Delirvesh the Sand Drinker</string>
 	<string key="VC_Season_02_Herikai" speaker="Vitals Category" rel_version="Season_2_Perm">Lieutenant Herikai</string>
 	<string key="VC_Evil_Knight_Flamekeeper_Boss" speaker="Vitals Category" rel_version="Season_2_Perm">Hadish Azar, Keeper of Flame</string>
-	<string key="VC_Season_04_Mordred_AI" speaker="Vitals Category" rel_version="Season_4_Temp">Ser Mordred</string>
+	<string key="VC_Season_04_Mordred_AI" speaker="Vitals Category" rel_version="Season_4_Trial">Ser Mordred</string>
 	<string key="VC_Sulfur_Elemental_Heavy_Named_S02" speaker="Vitals Category" rel_version="Season_2_Perm">Surahkdot the Ever Watchful</string>
 	<string key="VC_Dunewalker_Assassin_S02" speaker="Vitals Category" rel_version="Season_2_Perm">Sand Raider Assassin</string>
 	<string key="VC_Dunewalker_Bloodofsands_S02" speaker="Vitals Category" rel_version="Season_2_Perm">Blood of Sands</string>
@@ -14634,8 +14637,8 @@
 	<string key="VC_AncientGuardian_Javelineer_Raid10" comment="Raid Trial Variant" speaker="VitalsCategory Sheet" rel_version="Season_4_Trial">Runeforge Javlineer</string>
 	<string key="VC_Skeleton_1H_Sword_Raid10-" comment="Raid Trial Variant" speaker="VitalsCategory Sheet" rel_version="Season_4_Trial">Runeforge Soldier</string>
 	<string key="VC_Skeleton_1H_Sword_Raid10" comment="Raid Trial Variant" speaker="VitalsCategory Sheet" rel_version="Season_4_Trial">Runeforge Soldier</string>
-	<string key="Ice_Varangian_Knight_Greataxe_VitalsName" comment="Raid Trial Variant" speaker="Vitals Sheet" rel_version="Season_4_Temp">Runeforge Javlineer</string>
-	<string key="VC_Ice_Varangian_Knight_Greataxe" speaker="Raid Trial Variant" rel_version="Season_4_Temp">Ice Battlemaster</string>
+	<string key="Ice_Varangian_Knight_Greataxe_VitalsName" comment="Raid Trial Variant" speaker="Vitals Sheet" rel_version="Season_4_Trial">Runeforge Javlineer</string>
+	<string key="VC_Ice_Varangian_Knight_Greataxe" speaker="Raid Trial Variant" rel_version="Season_4_Trial">Ice Battlemaster</string>
 	<string key="VC_Damned_Villager_Pickaxe_03GC" speaker="Vitals Category" rel_version="Territory_FirstLight">Isabella's Excavator</string>
 	<string key="Hercyne_Echidna_VitalsName" speaker="Vitals Category" rel_version="Raid_CutlassKeys_00">Echidna</string>
 	<string key="VC_Hercyne_Echidna" speaker="VitalsCategory Sheet" rel_version="Raid_CutlassKeys_00">Echidna</string>

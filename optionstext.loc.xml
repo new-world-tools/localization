@@ -583,13 +583,13 @@
 	<string key="ui_equip_loadout10" rel_version="Feature_Gear_Set_Storage">Equip Gear Set 10</string>
 	<string key="ui_section_crossplay" rel_version="Feature_Crossplay">Cross-Play</string>
 	<string key="ui_options_enable_crossplay" rel_version="Feature_Crossplay">Enable Cross-Platform Play</string>
-	<string key="ui_options_enable_crossplay_desc" rel_version="Feature_Crossplay">This can be changed from the Main Menu.\n If the setting cannot be changed, enable Cross-Play through your console setting first.</string>
+	<string key="ui_options_enable_crossplay_desc" rel_version="Feature_Crossplay">This can be changed from the Main Menu.\nIf the setting cannot be changed, enable Cross-Play through your console setting first. Characters created on one setting will not be available when the setting is changed. Toggle Cross-Play again to play on these characters.</string>
 	<string key="ui_options_enable_crossplay_comms" rel_version="Feature_Crossplay">Cross-Platform Communications</string>
-	<string key="ui_options_enable_crossplay_comms_pc_desc" rel_version="Feature_Crossplay">Toggle this feature to enable or disable communication with players on other platforms. Characters created on one setting will not be available when the setting is changed. Toggle Cross-Play again to play on these characters.</string>
-	<string key="ui_options_enable_crossplay_comms_console_desc" rel_version="Feature_Crossplay">This option can only be accessed when communications are enabled through your console.\n Toggle this feature to enable or disable text and voice chat with players on other platforms. Characters created on one setting will not be available when the setting is changed.</string>
+	<string key="ui_options_enable_crossplay_comms_pc_desc" rel_version="Feature_Crossplay">Toggle this feature to enable or disable communication with players on other platforms.</string>
+	<string key="ui_options_enable_crossplay_comms_console_desc" rel_version="Feature_Crossplay">This option can only be accessed when communications are enabled through your console.\nToggle this feature to enable or disable text and voice chat with players on other platforms.</string>
 	<string key="ui_options_crossplay_prompt_title" rel_version="Feature_Crossplay">Cross-Play</string>
-	<string key="ui_options_enable_crossplay_prompt" rel_version="Feature_Crossplay">Are you sure you want to enable cross-play?\n This will return you to the Main Menu</string>
-	<string key="ui_options_disable_crossplay_prompt" rel_version="Feature_Crossplay">Are you sure you want to disable cross-play?\n This will return you to the Main Menu</string>
+	<string key="ui_options_enable_crossplay_prompt" rel_version="Feature_Crossplay">Are you sure you want to enable cross-play?\nThis will return you to the Main Menu</string>
+	<string key="ui_options_disable_crossplay_prompt" rel_version="Feature_Crossplay">Are you sure you want to disable cross-play?\nThis will return you to the Main Menu</string>
 	<string key="ui_tutorial_classification" rel_version="Feature_Player_Tutorials">Tutorials</string>
 	<string key="ui_tutorial_classification_desc" rel_version="Feature_Player_Tutorials">Set frequency of tutorials.</string>
 	<string key="ui_classification_basic" rel_version="Feature_Player_Tutorials">Default</string>

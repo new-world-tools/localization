@@ -667,6 +667,16 @@
 	<string key="AI_Slime_Slow_Tooltip">Movement speed reduced by {[-0.600000 * -100]}%.</string>
 	<string key="AI_PillarGoat_Buff_DisplayName" rel_version="Territory_Brimstone_Sands">Pushy</string>
 	<string key="AI_Fleeting_Buff_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Fleeting</string>
+	<string key="AI_HalloweenPlaguer_PumpkinPlague_DisplayName" rel_version="Event_Halloween_Temp">Pumpkin Plague</string>
+	<string key="AI_HalloweenPlaguer_PumpkinPlague_Tooltip" rel_version="Event_Halloween_Temp">Reduces healing taken by {[-0.020000 * -100]}% for {[60.000000]} seconds, stacking {[25.000000]} times.</string>
+	<string key="AI_HalloweenBoss_PumpkinPlague_DisplayName" rel_version="Event_Halloween_Temp">Pumpkin Plague</string>
+	<string key="AI_HalloweenBoss_PumpkinPlague_Tooltip" rel_version="Event_Halloween_Temp">Reduces healing taken by {[-0.020000 * -100]}% for {[60.000000]} seconds, stacking {[25.000000]} times.</string>
+	<string key="AI_HalloweenGourdspewer_HealPuddle_DisplayName" rel_version="Event_Halloween_Temp">Purifying Aura</string>
+	<string key="AI_HalloweenGourdspewer_HealPuddle_Tooltip" rel_version="Event_Halloween_Temp">Cures Pumpkin Plague and Heals for {[0.05 * 100]}% base health every {[2.000000]} seconds.</string>
+	<string key="AI_HalloweenPlaguer_HealPuddle_DisplayName" rel_version="Event_Halloween_Temp">Purifying Aura</string>
+	<string key="AI_HalloweenPlaguer_HealPuddle_Tooltip" rel_version="Event_Halloween_Temp">Cures Pumpkin Plague and Heals for {[0.1 * 100]}% base health every {[2.000000]} seconds.</string>
+	<string key="AI_HalloweenBoss_PutridAura_DisplayName" rel_version="Event_Halloween_Temp">Baalphazu's Curse</string>
+	<string key="AI_HalloweenBoss_PutridAura_Tooltip" rel_version="Event_Halloween_Temp">Take {[-6.6000000000000003E-2 * -100]}% base health Nature damage every {[1.000000 * 6]} seconds.</string>
 	<string key="AI_HercyneRat_Disease_DisplayName" rel_version="Territory_FirstLight">Disease</string>
 	<string key="AI_HercyneRat_Disease_Tooltip" rel_version="Territory_FirstLight">Reduces healing taken by {[-0.040000 * -100]}%, stacking {[2.000000]} times.</string>
 	<string key="AI_SpiderBite_DisplayName" rel_version="Raid_CutlassKeys_00">Necrotizing Wound</string>
