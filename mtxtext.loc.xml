@@ -1264,5 +1264,6 @@
 	<string key="softcoal_dye_x10_name" rel_version="Entitlements_February_2022">Soft Coal 10-Pack</string>
 	<string key="ageless_bronze_dye_x10_name" rel_version="Entitlements_January_2022">Ageless Bronze 10-Pack</string>
 	<string key="MTX_Reaper_Vengeful_Set_Name" rel_version="Entitlements_Reaper">Vengeful Undertaker</string>
+	<string key="MTX_Console_Deluxe_Set_Name" rel_version="ConsoleLaunch">Corrupted Soul</string>
 </resources>
 
