@@ -34,34 +34,31 @@
 	<string key="ui_section_graphics">Graphics</string>
 	<string key="ui_section_advgraphics">Advanced Graphics</string>
 	<string key="ui_section_group">More Options</string>
-	<string key="ui_section_controller" rel_version="Feature_Controller">Controller</string>
+	<string key="ui_section_gameplay_settings_for_device">Gameplay</string>
 	<string key="ui_controlleroptions" rel_version="Feature_Controller">Controller Options</string>
+	<string key="ui_section_camera_for_device">Camera</string>
 	<string key="ui_section_controllercamera" rel_version="Feature_Controller">Controller Camera</string>
 	<string key="ui_controllercameraoptions" rel_version="Feature_Controller">Controller Camera Options</string>
 	<string key="ui_voicechatsettings">Voice Chat</string>
 	<string key="ui_openvoicechatsettings">View Settings</string>
-	<string key="ui_invertlook">Invert Camera (Keyboard &amp; Mouse)</string>
-	<string key="ui_invertlook_desc">Set whether to invert the vertical axis</string>
-	<string key="ui_looksensitivity">Camera Sensitivity (Keyboard &amp; Mouse)</string>
-	<string key="ui_looksensitivity_desc">Set the movement speed of the camera</string>
+	<string key="ui_invertlook">Invert Vertical Axis</string>
+	<string key="ui_invertlook_desc">Set whether to invert the vertical axis on Camera inputs</string>
+	<string key="ui_looksensitivityhorizontal">Horizontal Sensitivity</string>
+	<string key="ui_looksensitivityhorizontal_desc">Set the general horizontal speed of the camera</string>
+	<string key="ui_looksensitivityvertical">Vertical Sensitivity</string>
+	<string key="ui_looksensitivityvertical_desc">Set the general vertical speed of the camera</string>
+	<string key="ui_looksensitivityhorizontalADS">ADS Horizontal Sensitivity Multiplier</string>
+	<string key="ui_looksensitivityhorizontalADS_desc">Multiplier (in percent) of horizontal camera speed while aiming down sights</string>
+	<string key="ui_looksensitivityverticalADS">ADS Vertical Sensitivity Multiplier</string>
+	<string key="ui_looksensitivityverticalADS_desc">Multiplier (in percent) of vertical camera speed while aiming down sights</string>
+	<string key="ui_looksensitivityhorizontalTurret">Turret Horizontal Sensitivity Multiplier</string>
+	<string key="ui_looksensitivityhorizontalTurret_desc">Multiplier (in percent) of horizontal camera speed while operating a turret</string>
+	<string key="ui_looksensitivityverticalTurret">Turret Vertical Sensitivity Multiplier</string>
+	<string key="ui_looksensitivityverticalTurret_desc">Multiplier (in percent) of vertical camera speed while operating a turret</string>
 	<string key="ui_leftdeadzone" rel_version="Feature_Controller">Left Stick Deadzone</string>
 	<string key="ui_leftdeadzone_desc" rel_version="Feature_Controller">Set the size of the deadzone for the left stick</string>
 	<string key="ui_rightdeadzone" rel_version="Feature_Controller">Right Stick Deadzone</string>
 	<string key="ui_rightdeadzone_desc" rel_version="Feature_Controller">Set the size of the deadzone for the right stick</string>
-	<string key="ui_joysticksensitivityhorizontal" rel_version="Feature_Controller">Horizontal Sensitivity</string>
-	<string key="ui_joysticksensitivityhorizontal_desc" rel_version="Feature_Controller">Set the horizontal speed of the camera</string>
-	<string key="ui_joysticksensitivityvertical" rel_version="Feature_Controller">Vertical Sensitivity</string>
-	<string key="ui_joysticksensitivityvertical_desc" rel_version="Feature_Controller">Set the vertical speed of the camera</string>
-	<string key="ui_joysticksensitivityhorizontalADS" rel_version="Feature_Controller">ADS Horizontal Sensitivity</string>
-	<string key="ui_joysticksensitivityhorizontalADS_desc" rel_version="Feature_Controller">Set the horizontal speed of the camera while aiming down sights</string>
-	<string key="ui_joysticksensitivityverticalADS" rel_version="Feature_Controller">ADS Vertical Sensitivity</string>
-	<string key="ui_joysticksensitivityverticalADS_desc" rel_version="Feature_Controller">Set the vertical speed of the camera while aiming down sights</string>
-	<string key="ui_joysticksensitivityhorizontalTurret" rel_version="Feature_Controller">Turret Horizontal Sensitivity</string>
-	<string key="ui_joysticksensitivityhorizontalTurret_desc" rel_version="Feature_Controller">Set the horizontal speed of the camera while operating a turret</string>
-	<string key="ui_joysticksensitivityverticalTurret" rel_version="Feature_Controller">Turret Vertical Sensitivity</string>
-	<string key="ui_joysticksensitivityverticalTurret_desc" rel_version="Feature_Controller">Set the vertical speed of the camera while operating a turret</string>
-	<string key="ui_joystickyaxisinvert" rel_version="Feature_Controller">Invert Vertical Axis</string>
-	<string key="ui_joystickyaxisinvert_desc" rel_version="Feature_Controller">Set whether to invert the vertical axis on camera inputs</string>
 	<string key="ui_joystickedgeboost" rel_version="Feature_Controller">Edge Boost Multiplier</string>
 	<string key="ui_joystickedgeboost_desc" rel_version="Feature_Controller">Set the turn speed when the stick reaches the edge of motion</string>
 	<string key="ui_joystickcurve" rel_version="Feature_Controller">Camera Stick Curve</string>
@@ -134,12 +131,13 @@
 	<string key="ui_graphics_render_mode">Mode</string>
 	<string key="ui_graphics_render_mode_description">Set whether to favor performance or quality</string>
 	<string key="ui_graphics_temporalUpScaling_type">Resolution Scaling</string>
-	<string key="ui_graphics_temporalUpScaling_type_description">Sets whether to use resolution scaling</string>
+	<string key="ui_graphics_temporalUpScaling_type_description">Set whether to use resolution scaling</string>
 	<string key="ui_graphics_temporalUpScaling_mode">Mode</string>
-	<string key="ui_graphics_temporalUpScaling_mode_description">Sets the resolution scaling quality level</string>
+	<string key="ui_graphics_temporalUpScaling_mode_description">Set the resolution scaling quality level</string>
 	<string key="ui_options_keybindings">Key Bindings</string>
-	<string key="ui_options_kbm_controls">Keyboard &amp; Mouse</string>
+	<string key="ui_options_kbm_controls">Keyboard &amp; Mouse Bindings</string>
 	<string key="ui_options_gameplay">Game</string>
+	<string key="ui_options_kbam">Keyboard &amp; Mouse</string>
 	<string key="ui_options_controller" rel_version="Feature_Controller">Controller</string>
 	<string key="ui_options_visuals">Video</string>
 	<string key="ui_options_preferences">Preferences</string>
@@ -205,11 +203,14 @@
 	<string key="ui_options_graphics_resolution2K">2K</string>
 	<string key="ui_options_graphics_resolution4K">4K</string>
 	<string key="ui_options_temporalUpscaling_off">Off</string>
-	<string key="ui_options_temporalUpscaling_FSR">FSR</string>
+	<string key="ui_options_temporalUpscaling_FSR">FSR 3.1</string>
+	<string key="ui_options_temporalUpscaling_native">Native (TAA Only)</string>
 	<string key="ui_options_temporalUpscaling_quality">Quality</string>
 	<string key="ui_options_temporalUpscaling_balanced">Balanced</string>
 	<string key="ui_options_temporalUpscaling_performance">Performance</string>
 	<string key="ui_options_temporalUpscaling_ultraperformance">Ultra Performance</string>
+	<string key="ui_options_temporalUpscaling_sharpness">Sharpness</string>
+	<string key="ui_options_temporalUpscaling_sharpness_desc">Set the amount of sharpness</string>
 	<string key="ui_options_requires_restart">This setting(s) change will apply the next time the game starts up</string>
 	<string key="ui_options_take_exit_survey">Take Survey on Exit</string>
 	<string key="ui_options_take_exit_survey_desc">Take a short survey to provide feedback when you exit the game</string>
@@ -337,9 +338,9 @@
 	<string key="ui_options_textSize_bigger">Bigger</string>
 	<string key="ui_cameraShake">Camera Shake</string>
 	<string key="ui_cameraShake_desc">Set whether camera shake is enabled, which may be disorienting for some players</string>
-	<string key="ui_strafeCamera">Freeform Movement (Keyboard &amp; Mouse)</string>
+	<string key="ui_strafeCamera">Freeform Movement</string>
 	<string key="ui_strafeCamera_desc">Set whether to turn the character towards the movement input direction</string>
-	<string key="ui_strafeCamera_gamepad" rel_version="Feature_Controller">Freeform Movement (Controller)</string>
+	<string key="ui_strafeCamera_gamepad" rel_version="Feature_Controller">Freeform Movement</string>
 	<string key="ui_strafeCamera_gamepad_desc" rel_version="Feature_Controller">Set whether to turn the character towards the movement input direction</string>
 	<string key="ui_ping_modifier" rel_version="Feature_Controller">Ping Modifier</string>
 	<string key="ui_modifiedCurve" rel_version="Feature_Controller">Tilt-based Camera Zoom</string>
@@ -393,10 +394,8 @@
 	<string key="ui_rumble_desc" rel_version="Feature_Controller">Set whether controller vibrations are enabled</string>
 	<string key="ui_rumble_sensitivity" rel_version="Feature_Controller">Vibration Intensity</string>
 	<string key="ui_rumble_sensitivity_desc" rel_version="Feature_Controller">Set the intensity of controller vibrations</string>
-	<string key="ui_attack_facing_camera_kbam_toggle" rel_version="Feature_Controller">Camera Direction for Melee Attacks (Keyboard &amp; Mouse)</string>
-	<string key="ui_attack_facing_camera_kbam_toggle_desc" rel_version="Feature_Controller">Set whether to aim melee attacks using camera direction instead of input/character direction</string>
-	<string key="ui_attack_facing_camera_gamepad_toggle" rel_version="Feature_Controller">Camera Direction for Melee Attacks (Controller)</string>
-	<string key="ui_attack_facing_camera_gamepad_toggle_desc" rel_version="Feature_Controller">Set whether to aim melee attacks using camera direction instead of input/character direction</string>
+	<string key="ui_attack_facing_camera_toggle" rel_version="Feature_Controller">Camera Direction for Melee Attacks</string>
+	<string key="ui_attack_facing_camera_toggle_desc" rel_version="Feature_Controller">Set whether to aim melee attacks using camera direction instead of input/character direction</string>
 	<string key="ui_enable_hudShowVitalsValues">Show Vitals Values</string>
 	<string key="ui_enable_hudShowVitalsValues_decstription">Set whether to display the numerical value for stamina and mana</string>
 	<string key="ui_enable_hudAlwaysFade">Contextual Fading</string>
@@ -426,8 +425,8 @@
 	<string key="ui_enable_camera_lock_group_mode">Group Mode</string>
 	<string key="ui_enable_camera_lock_group_mode_description">Set whether to cycle only through group or raid members while targeting with a Life Staff (this option is disabled if Raid Targeting via Hotkeys (Keyboard &amp; Mouse) is set to On)</string>
 	<string key="ui_enable_target_mygroup_only_in_raid">Group Only in Raid</string>
-	<string key="ui_enable_target_mygroup_only_in_raid_description">Set whether to limit targetable allies to members of your immediate group while Group Mode is set to On (this option is disabled if Raid Targeting via Groups and Hotkeys is set to On)</string>
-	<string key="ui_enable_camera_lock_select_raid_members_by_group_and_hotkey">Raid Targeting via Hotkeys (Keyboard &amp; Mouse)</string>
+	<string key="ui_enable_target_mygroup_only_in_raid_description">Set whether to limit targetable allies to members of your immediate group while Group Mode is set to On (this option is disabled if Raid Targeting via Groups and Hotkeys is set to On in 'Keyboard &amp; Mouse')</string>
+	<string key="ui_enable_camera_lock_select_raid_members_by_group_and_hotkey">Raid Targeting via Hotkeys</string>
 	<string key="ui_enable_camera_lock_select_raid_members_by_group_and_hotkey_description">Set whether to cycle through raid groups with Cycle Target Up/Down key bindings and target raid members with Targets Group Member key bindings</string>
 	<string key="ui_enable_show_healing_hotkeys_in_raid_hud">Show Hotkey Hints in Raid</string>
 	<string key="ui_enable_show_healing_hotkeys_in_raid_hud_description">Set whether to display hotkey hints for each member of the currently selected group while Raid Targeting via Groups and Hotkeys is enabled</string>
@@ -557,7 +556,7 @@
 	<string key="ui_genaprompt_rename_required_confirm">Press {frontEndContinue} to confirm.</string>
 	<string key="ui_genaprompt_rename_required_confirm_ps">Press Square to confirm.</string>
 	<string key="ui_genaprompt_rename_required_confirm_xb">Press B to confirm.</string>
-	<string key="ui_controllerRemap" rel_version="Feature_Controller">Controller</string>
+	<string key="ui_controllerRemap" rel_version="Feature_Controller">Controller Bindings</string>
 	<string key="ui_remapPopup_message" rel_version="Feature_Controller">You are about to rebind:\n&lt;font color={color} face="lyshineui/fonts/Nimbus_Bold.font"&gt;{actionRemap} &lt;/font&gt;\n\nPress Button(s) to Bind:</string>
 	<string key="ui_consumable" rel_version="Feature_Controller">Consumables</string>
 	<string key="ui_remapPopup_rebindConflict" rel_version="Feature_Controller">is already bound to another action if you accept this bind the other\n action will be cleared.\n&lt;font color={color} face="lyshineui/fonts/Nimbus_Bold.font"&gt;Are you sure you want to bind this action? &lt;/font&gt;</string>

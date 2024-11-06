@@ -197,6 +197,7 @@
 	<string key="ui_mounts_MTX_8_lion_name" rel_version="Season_5_Perm">Sicarius</string>
 	<string key="ui_mounts_MTX_8_bear_name" rel_version="Feature_Mounts_Bear">Morti</string>
 	<string key="ui_mounts_MTX_10_wolf_name" rel_version="Feature_Mounts_Bear">Azoth Stalker</string>
+	<string key="ui_mounts_MTX_bear_hippo_name" rel_version="Season_6_Perm" comment="This is a homophonic pun, made to sound like 'hyperbole' which means 'not to be taken seriously'.">Hippo Burley</string>
 	<string key="ui_mounts_horse_description_7" rel_version="Season_4_Perm">Felix wears his horned helm proudly. It boasts his might and majesty.</string>
 	<string key="ui_mounts_wolf_description_7" rel_version="Season_4_Perm">Smokey's stealth poise earnt him much acclaim. Enemies do not see him coming.</string>
 	<string key="ui_mounts_lion_description_7" rel_version="Season_4_Perm">Alacer's boundless energy defies laws of nature. Sleep is for the weak.</string>
@@ -211,6 +212,7 @@
 	<string key="ui_mounts_bear_description_3" rel_version="Feature_Mounts_Bear">Contrary to his name, Behemoth is mostly a gentle and placid soul. Mostly.</string>
 	<string key="ui_mounts_lion_description_9" rel_version="Feature_Mounts_Bear">Valkyrie placeholder description.</string>
 	<string key="ui_mounts_wolf_description_10" rel_version="Feature_Mounts_Bear">Azoth Stalker is a cunning pack leader. Fearless, savvy and iron-willed by nature, these qualities has overseen their rise to the top.</string>
+	<string key="ui_mounts_bear_hippo_description" rel_version="Season_6_Perm" comment="This is a pun, using 'barely' to represent that actual bear part of the mount.">Wow, a real hippo! I can bearly believe we found one in just under 1,000 days.</string>
 	<string key="ui_mounts_horse_name_1" rel_version="Feature_Mounts">Mighty Gregorious</string>
 	<string key="ui_mounts_horse_name_1a" rel_version="Feature_Mounts">Mighty Gregorious (FREE)</string>
 	<string key="ui_mount_horse_name_2" rel_version="Feature_Mounts">Moonshadow</string>
