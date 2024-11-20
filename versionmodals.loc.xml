@@ -33,5 +33,12 @@
 	<string key="postpurchase2023_mountObjective_eligible" rel_version="Feature_Expansion_1">The objective "&lt;font color={objectiveColor}&gt;My Kingdom For a Horse&lt;/font&gt;" is now available.</string>
 	<string key="postpurchase2023_mountObjective_ineligible" rel_version="Feature_Expansion_1">The objective "&lt;font color={objectiveColor}&gt;My Kingdom For a Horse&lt;/font&gt;" will be available at level 25.</string>
 	<string key="postpurchase2023_bullet4" rel_version="Feature_Expansion_1">You can now use the Flail, a one-handed support and utility weapon that allows the use of a shield. Find or craft one to get started!</string>
+	<string key="freetrial_text1">Your free trial has ended, but the fun can continue! Purchase New World: Aeternum to continue your adventure!</string>
+	<string key="freetrial_bullet1">Uncover the secrets and stories of the island's inhabitants</string>
+	<string key="freetrial_bullet2">Level up trade skills and craft powerful items and artifacts</string>
+	<string key="freetrial_bullet3">Battle against other players with a variety of exciting weapons and playstyles</string>
+	<string key="freetrial_timeremaining_title">Free Trial</string>
+	<string key="freetrial_timeremaining_desc">You have {timeMinutes} minutes remaining in your free trial.</string>
+	<string key="freetrial_complete_desc">You have completed the Free Trial</string>
 </resources>
 

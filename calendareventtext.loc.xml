@@ -68,6 +68,25 @@
 	<string key="ui_event_returnem_message_title" rel_version="Feature_FreshStart">Fresh Start Worlds</string>
 	<string key="ui_event_returnem_message_description" rel_version="Feature_FreshStart">Fresh Start Worlds are now live! Only new characters can be a part of these worlds.</string>
 	<string key="ui_event_returnem_button_about" rel_version="Feature_FreshStart">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Return to Aeternum</string>
+	<string key="ui_event_turkulon_panel1_title" rel_version="Event_TurkeyTerror_Temp">Turkey Terror</string>
+	<string key="ui_event_turkulon_panel1_subtitle" rel_version="Event_TurkeyTerror_Temp">If you hear the gobbling, it’s already too late.</string>
+	<string key="ui_event_turkulon_panel1_bullet1_title" rel_version="Event_TurkeyTerror_Temp">New Event</string>
+	<string key="ui_event_turkulon_panel1_bullet1_text" rel_version="Event_TurkeyTerror_Temp">The great beast Turkulon rises once more. Put it down with extreme prejudice.</string>
+	<string key="ui_event_turkulon_panel1_bullet2_title1" rel_version="Event_TurkeyTerror_Temp">Return to Aeternum</string>
+	<string key="ui_event_turkulon_panel1_bullet2_text1" rel_version="Event_TurkeyTerror_Temp">Watch streamers compete in the Return to Aeternum event until 11/18 on Twitch.</string>
+	<string key="ui_event_turkulon_panel1_bullet2_title2" rel_version="Event_TurkeyTerror_Temp">New Worlds</string>
+	<string key="ui_event_turkulon_panel1_bullet2_text2" rel_version="Event_TurkeyTerror_Temp">Begin your journey in a fresh world with a fresh economy and level playing field.</string>
+	<string key="ui_event_turkulon_panel1_bullet3_title" rel_version="Event_TurkeyTerror_Temp">New Cosmetics</string>
+	<string key="ui_event_turkulon_panel1_bullet3_text" rel_version="Event_TurkeyTerror_Temp">New items are now available in the store.</string>
+	<string key="ui_event_turkulon_panel2_title" rel_version="Event_TurkeyTerror_Temp">Turkulon</string>
+	<string key="ui_event_turkulon_panel2_subtitle" rel_version="Event_TurkeyTerror_Temp">As the season grows colder, the turkeys of Aeternum grow restless. Get the recipe at Cooking Stations to skin and eat Turkulon’s famed leg while you can!</string>
+	<string key="ui_event_turkulon_panel3_title1" rel_version="Event_TurkeyTerror_Temp">Return to Aeternum</string>
+	<string key="ui_event_turkulon_panel3_subtitle1" rel_version="Event_TurkeyTerror_Temp">The Return to Aeternum event ends 11/18 on Twitch. Which of your favorite streamers will emerge victorious?\n\nhttp://www.twitch.tv/playnewworld</string>
+	<string key="ui_event_turkulon_panel3_title2" rel_version="Event_TurkeyTerror_Temp">Dusk Spirit</string>
+	<string key="ui_event_turkulon_panel3_subtitle2" rel_version="Event_TurkeyTerror_Temp">The new Dusk Spirit item skins are now available for a limited time! Featuring the deluxe Dark Scion apparel, plus additional apparel, weapon and tool skins.</string>
+	<string key="ui_event_turkulon_button_about" rel_version="Event_TurkeyTerror_Temp">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Turkulon</string>
+	<string key="ui_event_turkulon_panel3_title3" rel_version="Event_TurkeyTerror_Temp">Black Friday Deals!</string>
+	<string key="ui_event_turkulon_panel3_subtitle3" rel_version="Event_TurkeyTerror_Temp">Collect some of the finest cosmetics that Aeternum has to offer!\nBundles of player favorites are available for a limited time, along with a brand new apparel skin, the Jester's Smile.\nVisit the store today!</string>
 	<string key="ui_event_battle_for_new_world_panel1_title" rel_version="Feature_BFNW" comment="DO NOT TRANSLATE">Battle For New World Panel 1 Title</string>
 	<string key="ui_event_battle_for_new_world_panel1_subtitle" rel_version="Feature_BFNW" comment="DO NOT TRANSLATE">Battle for New World Subtitle.</string>
 	<string key="ui_event_battle_for_new_world_panel1_bullet1_title" rel_version="Feature_BFNW" comment="DO NOT TRANSLATE">Battle for New World Panel 1, Bullet 1 Title</string>
@@ -441,11 +460,11 @@
 	<string key="ui_event_nightveil_hallow_description">Nightveil Hallow returns as Baalphazu, Marquis of Terror rises once again! Banish the shadowy demon back to the darkness, then celebrate your victory by donning unique costumes and trick-or-treating for brand new candy rewards in houses across Aeternum!</string>
 	<string key="ui_event_nightveil_hallow_about">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; Nightveil Hallow</string>
 	<string key="ui_event_turkulon_title">Turkulon Returns!</string>
-	<string key="ui_event_turkulon_description">The feathered fiend is back to terrorize the lands of Aeternum! And this time he’s amassed an army of his own. Evade explosive eggs and beak beams in monstrous combat!\n\nFace off against the gargantuan gobbler to collect rewards old and new.\n“Turkulon’s Claw” is now unbreakable, with skinning effects persisting after the event. Swing a Turkey Leg on a giant fork with the new War Hammer skin!</string>
+	<string key="ui_event_turkulon_description">The unpleasant pheasant has hatched anew on the isles of Aeternum! Strike down this foul beast for a bounty of new and returning rewards, including the brand new Drumstick of Death flail skin! Pulverizing the poultry has never been so perfect.</string>
 	<string key="ui_event_turkulon_about">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Turkulon Returns</string>
 	<string key="ui_event_turkulon_bullet1">War Hammer Skin</string>
-	<string key="ui_event_turkulon_bullet2">Boots Skin</string>
-	<string key="ui_event_turkulon_bullet3">Skinning Knife</string>
+	<string key="ui_event_turkulon_bullet2">Flail Skin</string>
+	<string key="ui_event_turkulon_bullet3">Turkuless Housing Item</string>
 	<string key="ui_event_winter_convergence_title">Winter Convergence</string>
 	<string key="ui_event_winter_convergence_description">The Winter Warrior and his glacial minions have descended upon Aeternum once again, bringing with them the icy threat of the forever Winter! Gather your friends and spread the warmth and cheer of the Convergence to fight back the bitter chill, then seek out the jolly Winter Wanderer in Winter Villages across Aeternum to earn a bounty of limited-time rewards!</string>
 	<string key="ui_event_winter_convergence_about">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Winter Convergence</string>

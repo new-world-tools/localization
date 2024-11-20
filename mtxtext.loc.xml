@@ -70,7 +70,7 @@
 	<string key="reward_type_extra" rel_version="Feature_MTX">Extra</string>
 	<string key="reward_type_entitlement" rel_version="Feature_MTX">ENTITLEMENT</string>
 	<string key="reward_type_marks_of_fortune" rel_version="Feature_MTX">Marks of Fortune</string>
-	<string key="reward_type_service" rel_version="Feature_MTX">World or Region Transfer (Single-Use)</string>
+	<string key="reward_type_service" rel_version="Feature_MTX">World Transfer (Single-Use)</string>
 	<string key="reward_type_loadout" rel_version="Feature_Gear_Set_Storage">Gear Set</string>
 	<string key="reward_type_transmog" rel_version="Season_2_Perm">Transmog Token</string>
 	<string key="entitlement_included" rel_version="Feature_MTX">Included</string>
@@ -136,7 +136,7 @@
 	<string key="reward_type_tooltip_extra" rel_version="Feature_MTX">This product is an extra.</string>
 	<string key="reward_type_tooltip_entitlement" rel_version="Feature_MTX">This product is an entitlement.</string>
 	<string key="reward_type_tooltip_marks_of_fortune" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;MARKS OF FORTUNE&lt;/font&gt; : Use this currency in the Store to purchase a product.</string>
-	<string key="reward_type_tooltip_service" rel_version="Feature_MTX">If your character fulfills all requirements to transfer, select a world and/or region to transfer to.</string>
+	<string key="reward_type_tooltip_service" rel_version="Feature_MTX">If your character fulfills all requirements to transfer, select a world to transfer to.</string>
 	<string key="reward_type_tooltip_loadout" rel_version="Feature_Gear_Set_Storage">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;GEAR SET&lt;/font&gt; : Assign items to a new Gear Set slot from your inventory.</string>
 	<string key="reward_type_tooltip_transmog" rel_version="Season_2_Perm">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;TRANSMOG TOKEN&lt;/font&gt; : Use this token to unlock appearances at the Stylemancer.</string>
 	<string key="reward_type_tooltip_mount" rel_version="Feature_Mounts">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;MOUNTS&lt;/font&gt; : Use a mount to travel the world faster and level up your Riding skill.</string>
@@ -408,12 +408,12 @@
 	<string key="character_rename_description" rel_version="MTX_October_Skins">Allows you to change the character's name.\nSingle-use only.</string>
 	<string key="ui_character_world_transfer" rel_version="Feature_Server_Transfer">Character World Transfer</string>
 	<string key="ui_character_region_transfer" rel_version="Feature_Server_Transfer">Character Region Transfer</string>
-	<string key="server_transfer_description" rel_version="Feature_Server_Transfer">Allows you to transfer this character to another world or region of your choice.</string>
+	<string key="server_transfer_description" rel_version="Feature_Server_Transfer">Allows you to transfer this character to another world of your choice.</string>
 	<string key="server_transfer_description_region_disabled" rel_version="Feature_Server_Transfer">Allows you to transfer this character to another world that is within the current region.</string>
 	<string key="server_transfer_extra_detail_paid_on_free_world" rel_version="Feature_Server_Transfer">You are allowed a free world transfer because you have a paid account on a free world.</string>
 	<string key="server_transfer_extra_detail_free_transfer" rel_version="Feature_Server_Transfer">Free Transfer is currently enabled for this world.</string>
 	<string key="server_transfer_extra_detail_full_world" rel_version="Feature_Server_Transfer">Free Transfer is currently enabled for this world because it is full.</string>
-	<string key="server_transfer_extra_detail_transfer_credit" rel_version="Feature_Server_Transfer">You are allowed {count} free world or region transfer(s) on your account. Once claimed, it will no longer be available on other characters.</string>
+	<string key="server_transfer_extra_detail_transfer_credit" rel_version="Feature_Server_Transfer">You are allowed {count} free world transfer(s) on your account. Once claimed, it will no longer be available on other characters.</string>
 	<string key="server_transfer_names" rel_version="Feature_Server_Transfer">Transferring &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{playerName}&lt;/font&gt; to: &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{ServerName}&lt;/font&gt;</string>
 	<string key="server_transfer_requirements" rel_version="Feature_Server_Transfer">REQUIREMENTS</string>
 	<string key="server_transfer_not_transfer" rel_version="Feature_Server_Transfer">WHAT WILL NOT TRANSFER</string>
@@ -1265,5 +1265,6 @@
 	<string key="ageless_bronze_dye_x10_name" rel_version="Entitlements_January_2022">Ageless Bronze 10-Pack</string>
 	<string key="MTX_Reaper_Vengeful_Set_Name" rel_version="Entitlements_Reaper">Vengeful Undertaker</string>
 	<string key="MTX_Console_Deluxe_Set_Name" rel_version="ConsoleLaunch">Corrupted Soul</string>
+	<string key="reward_type_Mount_Turkey" rel_version="Feature_Mounts_Turkey">Turkey Mount</string>
 </resources>
 

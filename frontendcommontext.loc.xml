@@ -207,6 +207,8 @@
 	<string key="mm_rejected_Free_Session_Expired">Your free play time has come to an end. You will be returned to the Main Menu.</string>
 	<string key="mm_rejected_Client_Kicked_Login_Ticket_Error">Login ticket is not valid for the world</string>
 	<string key="mm_rejected_Player_Not_Entitled_To_World">Access denied: Not entitled to this game world.</string>
+	<string key="mm_rejected_Character_Temporarily_Unavailable">Your character is temporarily unavailable.</string>
+	<string key="mm_rejected_Destination_World_Unavailable">Server error: Destination world unavailable.</string>
 	<string key="mm_rejected_Matchmaking_Login">Log back in to join the match.</string>
 	<string key="mm_rejected_Client_Kicked_Title">Kicked</string>
 	<string key="mm_rejected_Client_Kicked_NoMessage">You have been kicked from the game.</string>
@@ -776,5 +778,7 @@
 	<string key="ui_scan_qr_code_news_tile">New World: Aeternum News</string>
 	<string key="ui_low_flex_mem_title">Warning</string>
 	<string key="ui_low_flex_mem">Kernel Memory Low</string>
+	<string key="ui_kick_trial_full_game_purchased_title">Game Purchased</string>
+	<string key="ui_kick_trial_full_game_purchased">Thank you for purchasing New World: Aeternum.</string>
 </resources>
 

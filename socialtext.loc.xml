@@ -897,5 +897,6 @@
 	<string rel_version="Feature_Crossplay" key="ui_error_whisper_crossplay_communication_off">User is on another platform. Change crossplay communication setting to send whisper</string>
 	<string key="ui_communication_restricted_by_platform">Communication restricted by Platform.</string>
 	<string key="ui_group_invites_restricted_gamemode">Group invites are unavailable while in a matchmade activity.</string>
+	<string key="ui_group_member_placeholder_name">...</string>
 </resources>
 

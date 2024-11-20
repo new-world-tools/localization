@@ -2572,6 +2572,8 @@
 	<string key="ui_governing_propertytax">The governing company can collect upkeep from houses in the settlement.</string>
 	<string key="ui_nameplate_slider">Player Nameplate Amount</string>
 	<string key="ui_nameplate_slider_desc">Set the amount of nameplates shown on screen (lower values use less system resources)</string>
+	<string key="ui_nameplate_group_priority">Prioritize Group Nameplates</string>
+	<string key="ui_nameplate_group_priority_desc">If enabled, prioritize the display of the nameplates of group members over all other nameplates.</string>
 	<string key="ui_stat_bonus_single_tooltip">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;+{amount1}&lt;/font&gt; {attribute1}</string>
 	<string key="ui_stat_bonus_multiple_tooltip">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;+{amount1}&lt;/font&gt; {attribute1}\n&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;+{amount2}&lt;/font&gt; {attribute2}</string>
 	<string key="ui_stat_bonus">+{amount} {attribute}</string>

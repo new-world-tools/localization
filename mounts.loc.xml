@@ -77,10 +77,12 @@
 	<string key="ui_mount_type_sabretooth" rel_version="Feature_Mounts">Lion</string>
 	<string key="ui_mount_type_direwolf" rel_version="Feature_Mounts">Dire Wolf</string>
 	<string key="ui_mount_type_bear" rel_version="Feature_Mounts_Bear">Bear</string>
+	<string key="ui_mount_type_turkey" rel_version="Feature_Mounts_Turkey">Other</string>
 	<string key="ui_mounts_default_horse_name" rel_version="Feature_Mounts">Default_Horse</string>
 	<string key="ui_mounts_default_sabretooth_name" rel_version="Feature_Mounts">Default_Sabretooth</string>
 	<string key="ui_mounts_default_direwolf" rel_version="Feature_Mounts">Default_DireWolf</string>
 	<string key="ui_mounts_default_bear" rel_version="Feature_Mounts_Bear">Default_Bear</string>
+	<string key="ui_mounts_default_turkey" rel_version="Feature_Mounts_Turkey">Default_Turkey</string>
 	<string key="ui_mounts_horse_entitlement_test_name" rel_version="Feature_Mounts">Horse_Entitlement_Test</string>
 	<string key="ui_mounts_sabretooth_achievement_test_name" rel_version="Feature_Mounts">Sabretooth_Achievement_Test</string>
 	<string key="ui_mounts_test_name" rel_version="Feature_Mounts">Test Mount</string>
@@ -113,6 +115,7 @@
 	<string key="ui_mounts_wolf_shop" rel_version="Feature_Mounts">Wolf Shop</string>
 	<string key="ui_mounts_lion_shop" rel_version="Feature_Mounts">Lion Shop</string>
 	<string key="ui_navmenu_mounts" rel_version="Feature_Mounts">Mount</string>
+	<string key="ui_mounts_undyeable" rel_version="Feature_Mounts">This mount's armor cannot be dyed.</string>
 	<string key="ui_mounts_dye_command" rel_version="Feature_Mounts">Dye Armor</string>
 	<string key="ui_mounts_dye_screen_title" rel_version="Feature_Mounts">Dye Mount Armor</string>
 	<string key="ui_rename_mount" rel_version="Feature_Mounts">Rename Mount</string>
@@ -142,6 +145,7 @@
 	<string key="ui_mounts_unlock_wolf_message" rel_version="Feature_Mounts">Dire Wolf Shop</string>
 	<string key="ui_mounts_unlock_lion_message" rel_version="Feature_Mounts">Lion Shop</string>
 	<string key="ui_mounts_unlock_bear_message" rel_version="Feature_Mounts_Bear">Bear Shop</string>
+	<string key="ui_mounts_unlock_turkey_message" rel_version="Feature_Mounts_Turkey">Turkey Shop</string>
 	<string key="ui_mounts_unlock_tradeskill_message" rel_version="Feature_Mounts">Riding Trade Skill</string>
 	<string key="ui_mounts_unlock_worlddrop_message" rel_version="Feature_Mounts">World Drop</string>
 	<string key="ui_mounts_unlock_mutator_message" rel_version="Feature_Mounts">Mutated Expedition</string>
@@ -151,6 +155,8 @@
 	<string key="ui_mounts_owned_horse_message" rel_version="Feature_Mounts">Horse</string>
 	<string key="ui_mounts_owned_wolf_message" rel_version="Feature_Mounts">Dire Wolf</string>
 	<string key="ui_mounts_owned_lion_message" rel_version="Feature_Mounts">Lion</string>
+	<string key="ui_mounts_owned_bear_message" rel_version="Feature_Mounts_Bear">Bear</string>
+	<string key="ui_mounts_owned_turkey_message" rel_version="Feature_Mounts_Turkey">Turkey</string>
 	<string key="ui_mounts_test_expansion_name" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Rise of the Angry Earth</string>
 	<string key="ui_mounts_test_expansion_description" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Release: {releaseName}</string>
 	<string key="ui_mounts_summon_mount" rel_version="Feature_Mounts">Summon</string>
@@ -290,5 +296,7 @@
 	<string key="Mount_Lion_PatternA10_description" rel_version="Feature_Mounts">Godfrey's always been lucky even as a cub. May their good fortune rub off on you.</string>
 	<string key="Mount_Bear_PatternA1_Name" rel_version="Feature_Mounts_Bear">Corrupted Mauler</string>
 	<string key="Mount_Wolf_PatternA11_Name" rel_version="Feature_Mounts_Bear">Azoth Stalker</string>
+	<string key="ui_mounts_MTX_1_turkey_name" rel_version="Feature_Mounts_Turkey">Drumstick</string>
+	<string key="ui_mounts_MTX_1_turkey_description" rel_version="Feature_Mounts_Turkey">A turkey for riding, not eating.\n\nNOTE: This mount cannot be dyed, and it does not display attachments.</string>
 </resources>
 
