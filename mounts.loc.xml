@@ -298,5 +298,9 @@
 	<string key="Mount_Wolf_PatternA11_Name" rel_version="Feature_Mounts_Bear">Azoth Stalker</string>
 	<string key="ui_mounts_MTX_1_turkey_name" rel_version="Feature_Mounts_Turkey">Drumstick</string>
 	<string key="ui_mounts_MTX_1_turkey_description" rel_version="Feature_Mounts_Turkey">A turkey for riding, not eating.\n\nNOTE: This mount cannot be dyed, and it does not display attachments.</string>
+	<string key="ui_mounts_MTX_horse_Rudolph_name" rel_version="Entitlements_WinterHoliday">Rudy</string>
+	<string key="ui_mounts_horse_Rudolph_desc" rel_version="Entitlements_WinterHoliday">That glowing nose is caused by Holiday Cheer and, thankfully, not Corruption.</string>
+	<string key="ui_mounts_MTX_bear_winter_name" rel_version="Entitlements_WinterHoliday">Nisse</string>
+	<string key="ui_mounts_bear_winter_description" rel_version="Entitlements_WinterHoliday">Has worn her hat and scarf ever since she was a cub.</string>
 </resources>
 

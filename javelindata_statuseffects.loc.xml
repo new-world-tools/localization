@@ -876,6 +876,12 @@
 	<string key="AI_AdmiralBrute_Blackpowder_Burn_Tooltip" rel_version="Expedition_CutlassKeys_00">Burning for {[-0.05 * -100]}% base health Fire damage every {[1.000000]} seconds for {[10.000000]} seconds.</string>
 	<string key="AI_AdmiralBrute_CannonRain_Targeted_DOT_DisplayName" rel_version="Expedition_CutlassKeys_00">Cannon Burn</string>
 	<string key="AI_AdmiralBrute_CannonRain_Targeted_DOT_Tooltip" rel_version="Expedition_CutlassKeys_00">Burning for {[-7.4999999999999997E-2 * -100]}% base Fire damage every {[1.000000]} seconds.</string>
+	<string key="AI_Yeti_2022_IceDome_Empower_DisplayName" rel_version="Event_WinterConvergence_Temp">Bestial Strength</string>
+	<string key="AI_Yeti_2022_IceDome_Empower_Tooltip" rel_version="Event_WinterConvergence_Temp">Winter Warrior's damage increased by {[0.150000 * 100]}%.</string>
+	<string key="AI_Yeti_2022_IceDome_Fortify_DisplayName" rel_version="Event_WinterConvergence_Temp">Winter's Endurance</string>
+	<string key="AI_Yeti_2022_IceDome_Fortify_Tooltip" rel_version="Event_WinterConvergence_Temp">Winter Warrior's damage absorption increased by {[0.150000 * 100]}%.</string>
+	<string key="AI_Yeti_2022_Snare_and_DoT_DomeFX_DisplayName" rel_version="Event_WinterConvergence_Temp">The Forever Winter's Sting</string>
+	<string key="AI_Yeti_2022_Snare_and_DoT_DomeFX_Tooltip" rel_version="Event_WinterConvergence_Temp">You are slowed and taking cold damage from the sting of the Forever Winter's magic.</string>
 	<string key="AI_FireNaga_Flamethrower_DoT_DisplayName" rel_version="Expedition_GreatCleave_01">Burning</string>
 	<string key="AI_FireNaga_Flamethrower_DoT_Tooltip" rel_version="Expedition_GreatCleave_01">Burning for {[-0.03 * -100]}% max health of Fire damage every {[0.300000]} seconds for {[3.000000]} seconds.</string>
 	<string key="AI_FireNaga_LavaPool_DoT_DisplayName" rel_version="Expedition_GreatCleave_01">Burning Lava</string>
@@ -1395,8 +1401,6 @@
 	<string key="WeaponCoatingEffect_T4_AngryEarth_Description">Deal {[AngryEarth=.13 * 100]}% more damage to Angry Earth.</string>
 	<string key="WeaponCoatingEffect_T5_Beasts_DisplayName">Infused Beast Weapon Coating</string>
 	<string key="WeaponCoatingEffect_T5_Beasts_Description">Deal {[Beast=.15 * 100]}% more damage to Beasts.</string>
-	<string key="WeaponCoatingEffect_T5_BeastsTurkey_DisplayName" rel_version="Event_TurkeyTerror_Temp">Infused Turkey Weapon Coating</string>
-	<string key="WeaponCoatingEffect_T5_BeastsTurkey_Description" rel_version="Event_TurkeyTerror_Temp">Deal 300% more damage to Turkulon and 15% to Beasts.</string>
 	<string key="WeaponCoatingEffect_T5_Ancient_DisplayName">Infused Ancient Weapon Coating</string>
 	<string key="WeaponCoatingEffect_T5_Ancient_Description">Deal {[Ancient=.15 * 100]}% more damage to Ancients.</string>
 	<string key="WeaponCoatingEffect_T5_Lost_DisplayName">Infused Lost Weapon Coating</string>

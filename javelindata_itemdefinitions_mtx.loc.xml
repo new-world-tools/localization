@@ -984,5 +984,30 @@
 	<string key="MTX_PreOrder_Deluxe_Legs_Name" rel_version="ConsoleLaunch">The Seat of Malice</string>
 	<string key="MTX_PreOrder_Deluxe_Feet_Name" rel_version="ConsoleLaunch">The Tread of Malice</string>
 	<string key="MTX_PreOrder_Deluxe_Desc" rel_version="ConsoleLaunch">Where Corruption blooms, Malice follows.</string>
+	<string key="Dec2024_Container_Name" rel_version="Entitlements_WinterHoliday">Freshly-Wrapped Holiday Gift</string>
+	<string key="Dec2024_Container_Desc" rel_version="Entitlements_WinterHoliday">Stuffed with all kinds of festive goodies. Happy holidays!</string>
+	<string key="MTX_Nutcracker_Apparel1_chest_Name" rel_version="Entitlements_WinterHoliday">Nutcracker's Wooden Coatee</string>
+	<string key="MTX_Nutcracker_Apparel1_head_Name" rel_version="Entitlements_WinterHoliday">Nutcracker's Wooden Shako</string>
+	<string key="MTX_Nutcracker_Apparel1_legs_Name" rel_version="Entitlements_WinterHoliday">Nutcracker's Wooden Cuisses</string>
+	<string key="MTX_Nutcracker_Apparel1_feet_Name" rel_version="Entitlements_WinterHoliday">Nutcracker's Wooden Gaiters</string>
+	<string key="MTX_Nutcracker_Apparel1_hands_Name" rel_version="Entitlements_WinterHoliday">Nutcracker's Wooden Vambrace</string>
+	<string key="MTX_Nutcracker_Apparel1_Desc" rel_version="Entitlements_WinterHoliday">The hand-carved regalia of the Nutcracker Prince, animated every year with merry magics.</string>
+	<string key="MTX_FishingPole_CandyCane_Name" rel_version="Entitlements_WinterHoliday">North Pole</string>
+	<string key="MTX_FishingPole_CandyCane_Desc" rel_version="Entitlements_WinterHoliday">This fishing pole always casts towards True North, unless it’s cast in some other direction.</string>
+	<string key="MTX_AzothStaff_CandyCane_Name" rel_version="Entitlements_WinterHoliday">Northern Star</string>
+	<string key="MTX_AzothStaff_CandyCane_Desc" rel_version="Entitlements_WinterHoliday">Let its joyous glow light your way.</string>
+	<string key="MTX_LoggingAxe_CandyCane_Name" rel_version="Entitlements_WinterHoliday">Holly Leaf</string>
+	<string key="MTX_LoggingAxe_CandyCane_Desc" rel_version="Entitlements_WinterHoliday">Stiff and sharp, perfect for chopping down spruce trees.</string>
+	<string key="MTX_Pickaxe_CandyCane_Name" rel_version="Entitlements_WinterHoliday">Gingerbread Foreman</string>
+	<string key="MTX_Pickaxe_CandyCane_Desc" rel_version="Entitlements_WinterHoliday">You may think gingerbread would make a terrible pickaxe.</string>
+	<string key="MTX_Sickle_CandyCane_Name" rel_version="Entitlements_WinterHoliday">Wintergreen</string>
+	<string key="MTX_Sickle_CandyCane_Desc" rel_version="Entitlements_WinterHoliday">Has a crisp aroma of minty freshness.</string>
+	<string key="MTX_SkinningKnife_CandyCane_Name" rel_version="Entitlements_WinterHoliday">Cookie Cutter</string>
+	<string key="MTX_SkinningKnife_CandyCane_Desc" rel_version="Entitlements_WinterHoliday">Anything's a cookie if you cut it like one!</string>
+	<string key="MTX_FunnyHat_HolidayHat_Name" rel_version="Entitlements_WinterHoliday">Holiday Hat</string>
+	<string key="MTX_FunnyHat_HolidayHat_Desc" rel_version="Entitlements_WinterHoliday">This hat gives a warm, fuzzy feeling both on your head and in your heart.</string>
+	<string key="MTX_FunnyHat_ElfHat_Name" rel_version="Entitlements_WinterHoliday">Holiday Helper Hat</string>
+	<string key="MTX_FunnyHat_ElfHat_Desc" rel_version="Entitlements_WinterHoliday">Donning this cap fills you with confidence in crafting without actually improving your ability.</string>
+	<string key="StoreItem_Apparel_Winter_Nutcracker_name" rel_version="Entitlements_WinterHoliday">Winter Prince</string>
 </resources>
 

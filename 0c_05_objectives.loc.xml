@@ -288,6 +288,7 @@
 	<string key="0510_0101_longlivethequeen_goto_POI" speaker="UI - Tracker Text">Travel to {POITags}</string>
 	<string key="0510_0101_longlivethequeen_collect_arena_key">(Optional) Acquire a {itemName}</string>
 	<string key="0510_0101_longlivethequeen_defeat_boss" speaker="UI - Tracker Text">Defeat the Siren Queen</string>
+	<string key="0510_0101_Cooldown" speaker="Nelda Horelica" name="NeldaHorelica" VO="npc_0510_0101_Cooldown" VO_Type="npc_" VO_Status="Needs Recording" cutsceneCameraPresetId="NSR_MQN_MED_SNGL">It's only a matter of time before the Siren Queen regains her strength and returns. You'll be the first to know when that happens.</string>
 	<string key="0503_0101_onfloralfauna_objective_title" speaker="UI - Journal - Quest  Title">On Floral Fauna</string>
 	<string key="0503_01_Survivalist_DefaultDialog" comment="greet to on floral" speaker="Herbalist Langlais" name="HerbalistLanglais" VO="npc_0503_01_Survivalist_Default" VO_Type="npc_" VO_Status="Recorded" cutsceneCameraPresetId="NSR_MNP_BKW_MCU_2SHT_OTS_SEATED_alt2">Greetings and welcome to Reekwater, traveler. I hope you have not brought trouble with you. We have trouble enough here already.</string>
 	<string key="0503_0101_onfloralfauna_start_prompt" speaker="UI - Player Prompt">"What sort of trouble?"</string>
@@ -420,6 +421,7 @@
 	<string key="0505_0103_thedryadpromenade_goto_POI" speaker="UI">Travel to the {POITags}</string>
 	<string key="0505_0103_thedryadpromenade_get_key_from_boss" speaker="UI">(Optional) Acquire a {itemName}</string>
 	<string key="0505_0103_thedryadpromenade_defeat_boss" speaker="UI">Defeat the {targetName}</string>
+	<string key="0505_0103_Cooldown" speaker="Marsh Walker Afolabi" name="MarshWalkerAfolabi" VO="npc_0505_0103_Cooldown" VO_Type="npc_" VO_Status="Needs Recording">The Eternal Pool causes the Protector of the Source to regenerate faster than expected. Soon enough you'll be needed to push back against their expansion in Reekwater.</string>
 	<string key="0511_0201_UmbrasReach_objective_title" speaker="UI - Journal - Quest  Title">Grasping at Shadows</string>
 	<string key="0511_03_Stranger_DefaultDialog_a" comment="post guardians" speaker="Antiquarian Abbingdon" name="AntiquarianAbbingdon" VO="npc_0511_03_Stranger_Default_a" VO_Type="npc_" VO_Status="Recorded" dialogue-next="@0511_03_Stranger_DefaultDialog_b" cutsceneCameraPresetId="NSR_MNP_COW_2SHT_OTS_Primary" rel_version="Quest_Story_Initiative">Good to see you again, {playerName}! I hope Fulvius didn't hassle you too much for not bringing back that artifact. Thank you for keeping the secret.</string>
 	<string key="0511_03_Stranger_DefaultDialog_b" comment="post guardians" speaker="Antiquarian Abbingdon" name="AntiquarianAbbingdon" VO="npc_0511_03_Stranger_Default_b" VO_Type="npc_" VO_Status="Recorded" cutsceneCameraPresetId="NSR_MNP_COW_2SHT_OTS_Primary" rel_version="Quest_Story_Initiative">As thanks, I have something you may be interested in.</string>

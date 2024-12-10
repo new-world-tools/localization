@@ -51,15 +51,15 @@
 	<string key="exceeds_max_balance" rel_version="Feature_Seasons_Consumable_Tokens">Purchase Exceeds cap of {cap}</string>
 	<string key="reward_type_armorskin" rel_version="Feature_MTX">Apparel Skin</string>
 	<string key="reward_type_toolskin" rel_version="Feature_MTX">Tool Skin</string>
-	<string key="url_worldtransfer_US" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.newworld.com/forward-link?id=server-transfer-details</string>
-	<string key="url_worldtransfer_GB" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.newworld.com/forward-link?id=server-transfer-details</string>
-	<string key="url_worldtransfer_FR" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.newworld.com/fr-fr/news/articles/server-transfer-details</string>
-	<string key="url_worldtransfer_IT" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.newworld.com/forward-link?id=server-transfer-details</string>
-	<string key="url_worldtransfer_ES" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.newworld.com/forward-link?id=server-transfer-details</string>
-	<string key="url_worldtransfer_DE" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.newworld.com/forward-link?id=server-transfer-details</string>
-	<string key="url_worldtransfer_PL" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.newworld.com/forward-link?id=server-transfer-details</string>
-	<string key="url_worldtransfer_MX" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.newworld.com/forward-link?id=server-transfer-details</string>
-	<string key="url_worldtransfer_BR" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.newworld.com/forward-link?id=server-transfer-details</string>
+	<string key="url_worldtransfer_US" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.amazongames.com/en-us/support/new-world/articles/paid-server-transfers</string>
+	<string key="url_worldtransfer_GB" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.amazongames.com/en-gb/support/new-world/articles/paid-server-transfers</string>
+	<string key="url_worldtransfer_FR" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.amazongames.com/fr-fr/support/new-world/articles/paid-server-transfers</string>
+	<string key="url_worldtransfer_IT" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.amazongames.com/it-it/support/new-world/articles/paid-server-transfers</string>
+	<string key="url_worldtransfer_ES" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.amazongames.com/es-es/support/new-world/articles/paid-server-transfers</string>
+	<string key="url_worldtransfer_DE" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.amazongames.com/de-de/support/new-world/articles/paid-server-transfers</string>
+	<string key="url_worldtransfer_PL" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.amazongames.com/pl-pl/support/new-world/articles/paid-server-transfers</string>
+	<string key="url_worldtransfer_MX" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.amazongames.com/es-mx/support/new-world/articles/paid-server-transfers</string>
+	<string key="url_worldtransfer_BR" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.amazongames.com/pt-br/support/new-world/articles/paid-server-transfers</string>
 	<string key="reward_type_weaponskin" rel_version="Feature_MTX">Weapon Skin</string>
 	<string key="reward_type_guildcrest" rel_version="Feature_MTX">Company Crest</string>
 	<string key="reward_type_guildcrest_fg" rel_version="Feature_MTX">Crest Color</string>
@@ -1265,6 +1265,8 @@
 	<string key="ageless_bronze_dye_x10_name" rel_version="Entitlements_January_2022">Ageless Bronze 10-Pack</string>
 	<string key="MTX_Reaper_Vengeful_Set_Name" rel_version="Entitlements_Reaper">Vengeful Undertaker</string>
 	<string key="MTX_Console_Deluxe_Set_Name" rel_version="ConsoleLaunch">Corrupted Soul</string>
+	<string key="MTX_Toolset_Winter_Candycane_Name" rel_version="Entitlements_WinterHoliday">Winter Village Toolset</string>
+	<string key="MTX_Toolset_Winter_Candycane_Desc" rel_version="Entitlements_WinterHoliday">Highly sought after for those who wish to get into the holiday spirit.</string>
 	<string key="reward_type_Mount_Turkey" rel_version="Feature_Mounts_Turkey">Turkey Mount</string>
 </resources>
 
