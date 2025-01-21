@@ -41,6 +41,7 @@
 	<string key="cr_itemstats">Item Stats</string>
 	<string key="cr_rarity">Rarity</string>
 	<string key="cr_requires">Requires</string>
+	<string key="cr_requires_level">Requires Level</string>
 	<string key="cr_tier">Tier</string>
 	<string key="cr_tier_tooltip">Tier &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;&lt;font color="#ebe3d6"&gt;{number}&lt;/font&gt;&lt;/font&gt;</string>
 	<string key="cr_skill">Skill</string>

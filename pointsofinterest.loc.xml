@@ -461,7 +461,7 @@
 	<string key="ui_poi_wolf_den_40011">Graymane Burrow</string>
 	<string key="ui_poi_myrkgardwest_40407_description">Elite Stronghold\n\nBeyond this vestibule of anguish, no hope may tarry.</string>
 	<string key="ui_poi_myrkgardwest_40407">Lower Harrows</string>
-	<string key="ui_poi_myrkgardwest_40437_description">The people of Old Myrkgard knew only sorrow at first, yet nothing of the dreadful fate they would soon come to suffer.</string>
+	<string key="ui_poi_myrkgardwest_40437_description">Elite Stronghold\n\nThe people of Old Myrkgard knew only sorrow at first, yet nothing of the dreadful fate they would soon come to suffer.</string>
 	<string key="ui_poi_myrkgardwest_40437">Lower Harrows</string>
 	<string key="ui_poi_bear_den_50391">Gren's Place</string>
 	<string key="ui_poi_grenvilles_excavation">Grenville's Excavation</string>
@@ -1054,7 +1054,7 @@
 	<string key="ui_poi_cutthroatcavern_60203_description">The loyalty of a pirate crew dries quick, when marching too far from salt and sea.</string>
 	<string key="ui_poi_damnedcapital_40407_description">Landmark</string>
 	<string key="ui_poi_damnedcapital_description">Landmark</string>
-	<string key="ui_poi_damnedfortress_40408_description">Elite Stronghold\n\n Those who surrendered to the Corruption now work tirelessly to keep its furnaces and forges burning brightly.</string>
+	<string key="ui_poi_damnedfortress_40408_description">Those who surrendered to the Corruption now work tirelessly to keep its furnaces and forges burning brightly.</string>
 	<string key="ui_poi_damnedfortress_description">Landmark</string>
 	<string key="ui_poi_decayedcamp_60213_description">Little did Seele know exactly what was at stake, when building a camp here.</string>
 	<string key="ui_poi_den_bear_elemental_description">Landmark</string>
@@ -1173,12 +1173,12 @@
 	<string key="ui_poi_outpost_41_2_40148_description">Consider yourself lucky. There's much worse places to land than Windsward.</string>
 	<string key="ui_poi_outpost_42_1_40244_description">Landmark</string>
 	<string key="ui_poi_outpost_43_1_40324_description">Outpost</string>
-	<string key="ui_poi_outpost_43_2_40325_description">The sun rises even in Great Cleave. This outpost is first to be warmed by its morning rays.</string>
+	<string key="ui_poi_outpost_43_2_40325_description">Outpost</string>
 	<string key="ui_poi_outpost_43_3_40326_description">Landmark</string>
 	<string key="ui_poi_outpost_44_1_40406_description">Outpost</string>
 	<string key="ui_poi_outpost_52_2_50231_description">Landmark</string>
 	<string key="ui_poi_outpost_53_1_50334_description">Located in the deadliest corner of Edengrove, this outpost teeters on the blade's edge of survival.</string>
-	<string key="ui_poi_outpost_54_1_50401_description">Like the first rays of dawn, hope rises in the east.</string>
+	<string key="ui_poi_outpost_54_1_50401_description">Outpost</string>
 	<string key="ui_poi_outpost_63_1_60335_description">Landmark</string>
 	<string key="ui_poi_outpost_64_1_60408_description">Landmark</string>
 	<string key="ui_poi_outpost_alchemy_description">Landmark</string>
@@ -1692,7 +1692,7 @@
 	<string key="ui_poi_east_gate_30404" rel_version="Territory_Brimstone_Sands">Serpent's Pass</string>
 	<string key="ui_poi_east_gate_30404_description" rel_version="Territory_Brimstone_Sands">A prominent entrance to the Ancient ruins of the Cradle.</string>
 	<string key="ui_poi_front_lines_20301" rel_version="Territory_Brimstone_Sands">The Frontlines</string>
-	<string key="ui_poi_front_lines_20301_description" rel_version="Territory_Brimstone_Sands">From here, the Legion marches forward on the Valley of the Gods.</string>
+	<string key="ui_poi_front_lines_20301_description" rel_version="Territory_Brimstone_Sands">From here, the Legion marches forward on the Ancients' Rise.</string>
 	<string key="ui_poi_legion_siege_camp_20302" rel_version="Territory_Brimstone_Sands">Castrum Pontem</string>
 	<string key="ui_poi_legion_siege_camp_20302_description" rel_version="Territory_Brimstone_Sands">A place for dark experiments and foul rituals.</string>
 	<string key="ui_poi_legion_hq_20303" rel_version="Territory_Brimstone_Sands">Castrum Principium</string>
@@ -1707,7 +1707,7 @@
 	<string key="ui_poi_ancient_hero_temple_20402_description" rel_version="Territory_Brimstone_Sands">Elite Stronghold\n\nFearsome idols guard the secrets of the temple with spell and claw.</string>
 	<string key="ui_poi_ancient_plaza_20403" rel_version="Territory_Brimstone_Sands">Heru Plaza</string>
 	<string key="ui_poi_ancient_plaza_20403_description" rel_version="Territory_Brimstone_Sands">The guardians of the past protect an idol yet to awaken.</string>
-	<string key="ui_poi_ancient_walls_20404" rel_version="Territory_Brimstone_Sands">Temple of Isis</string>
+	<string key="ui_poi_ancient_walls_20404" rel_version="Territory_Brimstone_Sands">Visions of Nunut</string>
 	<string key="ui_poi_ancient_walls_20404_description" rel_version="Territory_Brimstone_Sands">The riches of the Ancients fell victim to that eternal adversary: time.</string>
 	<string key="ui_poi_legion_highland_fort_20405" rel_version="Territory_Brimstone_Sands">Montis Castra</string>
 	<string key="ui_poi_legion_highland_fort_20405_description" rel_version="Territory_Brimstone_Sands">This northern Legion base ensures the army's control of the highlands.</string>

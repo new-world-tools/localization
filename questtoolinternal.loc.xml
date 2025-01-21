@@ -31,8 +31,8 @@
 	<string key="ObjectiveTaskType_TASKUNLOCKACHIEVEMENT_tooltip">Task the unlocks an achievement when the task is added (progress begins completed, nothing progresses this task). If you abandon or reset the quest for this task after it has been activated, it will lock the achievement (set ShouldCheckPoints to true to suppress this functionality).</string>
 	<string key="ObjectiveTaskType_TASKTEMPORARYLOCKACHIEVEMENT_tooltip">Task that locks an achievement when task is added, and unlocks it when the task is removed (progress begins completed, nothing progresses this task). If you abandon or reset the quest for this task, it will unlock the achievement.</string>
 	<string key="ObjectiveTaskType_TASKLOCKACHIEVEMENT_tooltip">Task the locks an achievement when the task is added (progress begins completed, nothing progresses this task). By default, if you abandon or reset the quest for this task after it has been activated, it will unlock the achievement (set ShouldCheckPoints to true to suppress this functionality).</string>
-	<string key="ObjectiveTaskType_TASKREADLOREINTERRITORY_tooltip"/>
-	<string key="ObjectiveTaskType_TASKCHOOSEFACTION_tooltip"/>
+	<string key="ObjectiveTaskType_TASKREADLOREINTERRITORY_tooltip">DO NOT USE</string>
+	<string key="ObjectiveTaskType_TASKCHOOSEFACTION_tooltip">Task that completes when the player has completed faction selection.</string>
 	<string key="ObjectiveTaskType_TASKCONVERSATIONSTATE_tooltip">Task that completes when the player enters a particular conversation state</string>
 	<string key="ObjectiveTaskType_TASKCONVERSATIONTOPIC_tooltip">Task that completes when the player chooses a particular conversation topic.  Will not be completed until the player has fully progressed through all dialogues in the conversation topic, and has exited the conversation.</string>
 	<string key="ObjectiveTaskType_TASKOBJECTIVE_tooltip">Task that adds an additional objective to the player, and tracks it through until completion.</string>
@@ -53,7 +53,7 @@
 	<string key="ObjectiveTaskType_TASKDIE_tooltip">Task is completed if player dies</string>
 	<string key="ObjectiveTaskType_TASKOPENUISCREEN_tooltip">Occurs when the player opens the specific UI screen</string>
 	<string key="ObjectiveTaskType_TASKTIMER_tooltip">Task is completed if specified time expires</string>
-	<string key="ObjectiveTaskType_TASKFISHINGEQUIP_tooltip"/>
+	<string key="ObjectiveTaskType_TASKFISHINGEQUIP_tooltip">Task is completed when the player equips a fishing pole.</string>
 	<string key="ObjectiveTaskType_TASKFISHINGCAST_tooltip">Task that tracks the number of times the player has cast their fishing line</string>
 	<string key="ObjectiveTaskType_TASKFISHINGHOOK_tooltip">Task that tracks the number of times the player has hooked a fish</string>
 	<string key="ObjectiveTaskType_TASKFISHINGREEL_tooltip">Task that tracks the number of times the player has reeled in a catch successfully (fish or non-fish)</string>
@@ -61,9 +61,9 @@
 	<string key="ObjectiveTaskType_TASKFISHINGHOTSPOTCATEGORY_tooltip">Task that tracks the number of successful catches from a specified category of hotspot</string>
 	<string key="ObjectiveTaskType_TASKFISHINGCATCHANYFISH_tooltip">Task that tracks the number of times the player has reeled in a fish successfully (like TaskFishingReel but wont increment on catching a boot or seaweed)</string>
 	<string key="ObjectiveTaskType_TASKFISHINGCATCHFISH_tooltip">Task that tracks the number of times the player has caught a particular fish (small bass, medium bass, large salmon, etc)</string>
-	<string key="ObjectiveTaskType_TASKFISHINGCATCHWEIGHT_tooltip">Task that tracks the number of time the player has caught a fish > a specified weight</string>
-	<string key="ObjectiveTaskType_TASKFISHINGCATCHLENGTH_tooltip">Task that tracks the number of time the player has caught a fish > a specified length</string>
-	<string key="ObjectiveTaskType_TASKFISHINGCATCHRARITY_tooltip">Task that tracks the number of times the player has caught a fish > a specified rarity</string>
+	<string key="ObjectiveTaskType_TASKFISHINGCATCHWEIGHT_tooltip">Task that tracks the number of time the player has caught a fish &gt; a specified weight</string>
+	<string key="ObjectiveTaskType_TASKFISHINGCATCHLENGTH_tooltip">Task that tracks the number of time the player has caught a fish &gt; a specified length</string>
+	<string key="ObjectiveTaskType_TASKFISHINGCATCHRARITY_tooltip">Task that tracks the number of times the player has caught a fish &gt; a specified rarity</string>
 	<string key="ObjectiveTaskType_TASKREQUIREGATHERITEMS_tooltip">This task only increments progress when the player actually gathers something, not just when they already have the items in their inventory. Does not work with quest items.</string>
 	<string key="ObjectiveTaskType_TASKGATHERCYCLICSTATE_tooltip">This task increments progress when the player gathers the specified cyclic gatherable state. Set StayActive to true to make it so progress will regress after the task is completed if the player gathers the wrong state.</string>
 	<string key="ObjectiveTaskType_TASKHOUSESCORE_tooltip">Have at least one house with the specified decoration score</string>
@@ -76,15 +76,15 @@
 	<string key="ObjectiveTaskType_TASKPERFORMSONG_tooltip">Progresses when the player completes a performance of the target song</string>
 	<string key="ObjectiveTaskType_TASKPERFORMEMOTE_tooltip">Progresses when the player performs an emote for the emote's gatherable duration</string>
 	<string key="ObjectiveTaskType_TASKQUICKCOURSE_tooltip">Task for timed or untimed quests that require the player to follow a sequential list of checkpoints. E.g. mount race</string>
-	<string key="ObjectiveTaskType_TASKSLAYERSCRIPT_tooltip"/>
+	<string key="ObjectiveTaskType_TASKSLAYERSCRIPT_tooltip">Task that triggers a block of slayerscript- use caution when applying this task!</string>
 	<string key="ObjectiveTaskType_TASKEXITPOITAG_tooltip">Variant of TaskGoTo that sends a player outside a POI</string>
 	<string key="ObjectiveTaskType_TASKEXITTERRITORY_tooltip">Variant of TaskGoTo that sends a player outside of a territory</string>
 	<string key="ObjectiveTaskType_TASKEXITPOITAGONTERRITORY_tooltip">Variant of TaskGoTo that sends a player outside of a POI and outside of a territory</string>
 	<string key="ObjectiveTaskType_TASKCUTSCENECOMPLETE_tooltip">Task for detecting the ending of a specific cutscene</string>
 	<string key="ObjectiveTaskType_TASKCINEMATICSTART_tooltip">Task for detecting the starting of a specific cinematic video</string>
 	<string key="ObjectiveTaskType_TASKCINEMATICCOMPLETE_tooltip">Task for detecting the ending of a specific cinematic video</string>
-	<string key="ObjectiveTaskType_NONE_tooltip"/>
-	<string key="ObjectiveTaskType_TASKREPAIRITEM_tooltip"/>
-	<string key="ObjectiveTaskType_TASKBUILDSTRUCTURE_tooltip"/>
+	<string key="ObjectiveTaskType_NONE_tooltip">NONE</string>
+	<string key="ObjectiveTaskType_TASKREPAIRITEM_tooltip">DO NOT USE</string>
+	<string key="ObjectiveTaskType_TASKBUILDSTRUCTURE_tooltip">DO NOT USE</string>
 </resources>
 

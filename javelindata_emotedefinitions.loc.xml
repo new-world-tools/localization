@@ -128,7 +128,7 @@
 	<string key="ui_emote_Firework5" rel_version="Feature_Premium_Emotes">Shooting Star Rocket</string>
 	<string key="ui_emote_Firework6" rel_version="Feature_Premium_Emotes">Fountain</string>
 	<string key="ui_emote_sit_description">"Take a seat and rest awhile."</string>
-	<string key="ui_emote_flex_description">Flex Emote Description</string>
+	<string key="ui_emote_flex_description">Check me out!</string>
 	<string key="ui_emote_flex2_description">"Doth my imposing stature impress thee?"</string>
 	<string key="ui_emote_go_description">"That way, hurry!"</string>
 	<string key="ui_emote_here_description">"Hey! Over here!"</string>
@@ -140,27 +140,27 @@
 	<string key="ui_emote_dance1_description">"A flashy jig is a great way to pass the time."</string>
 	<string key="ui_emote_kill_description">"The mark of the brigand."</string>
 	<string key="ui_emote_Watching_description">"Eternal vigilance."</string>
-	<string key="ui_emote_No_description">No Emote Description</string>
-	<string key="ui_emote_Clap_description">Clap Emote Description</string>
+	<string key="ui_emote_No_description">No.</string>
+	<string key="ui_emote_Clap_description">Encore!</string>
 	<string key="ui_emote_pray_description" rel_version="Emote_Pray">"Prostrate thyself before a higher power."</string>
-	<string key="ui_emote_nope_description">Nope Emote Description</string>
-	<string key="ui_emote_Beckon_description">Beckon Emote Description</string>
+	<string key="ui_emote_nope_description">Not happening.</string>
+	<string key="ui_emote_Beckon_description">Over here!</string>
 	<string key="ui_emote_RockPaperScissors_description">"Only one may win. Unless we tie."</string>
-	<string key="ui_emote_FistBump_description">Fist Bump Emote Description</string>
-	<string key="ui_emote_Revel_description">Revel Emote Description</string>
-	<string key="ui_emote_Hi_description">Hi Emote Description</string>
-	<string key="ui_emote_GoodBye_description">GoodBye Emote Description</string>
-	<string key="ui_emote_Apologize_description">Apologize Emote Description</string>
+	<string key="ui_emote_FistBump_description">The cooler alternative to shaking hands.</string>
+	<string key="ui_emote_Revel_description">Heck yes.</string>
+	<string key="ui_emote_Hi_description">Hey there!</string>
+	<string key="ui_emote_GoodBye_description">Parting can be such sweet sorrow.</string>
+	<string key="ui_emote_Apologize_description">Please forgive me.</string>
 	<string key="ui_emote_Thumbs_Sideways_description">"I choose neither."</string>
 	<string key="ui_emote_Thumbs_Up_description">"Affirmative."</string>
 	<string key="ui_emote_Thumbs_Down_description">"Negative."</string>
-	<string key="ui_emote_High_Five_description">High Five Emote Description</string>
-	<string key="ui_emote_Slow_Clap_description">Slow Clap Emote Description</string>
-	<string key="ui_emote_Laugh_1_description">Laugh 1 Emote Description</string>
-	<string key="ui_emote_Laugh_2_description">Laugh 2 Emote Description</string>
-	<string key="ui_emote_Cry_3_description">Cry 3 Emote Description</string>
+	<string key="ui_emote_High_Five_description">Up high!</string>
+	<string key="ui_emote_Slow_Clap_description">Clap but with dramatic timing.</string>
+	<string key="ui_emote_Laugh_1_description">That's a knee-slapper!</string>
+	<string key="ui_emote_Laugh_2_description">HA!</string>
+	<string key="ui_emote_Cry_3_description">I will never emotionally recover from this.</string>
 	<string key="ui_emote_Coin_Toss_description">"A flip of the coin."</string>
-	<string key="ui_emote_Chin_Scrape_description">Chin Scrape Emote Description</string>
+	<string key="ui_emote_Chin_Scrape_description">I bite my thumb at you.</string>
 	<string key="ui_emote_Push_Ups_description" rel_version="Emote_Pushups">"Dost thou even lift, brother?"</string>
 	<string key="ui_emote_Flex_3_description">"Show your strength."</string>
 	<string key="ui_emote_Golf_Clap_description">"A job well done!"</string>
@@ -481,7 +481,7 @@
 	<string key="ui_emote_Facepalm_description" rel_version="Emote_Facepalm">For when you simply lack the words.</string>
 	<string key="Emote_Facepalm" rel_version="Emote_Facepalm">{playername} facepalms.</string>
 	<string key="ui_emote_Surrender_name" rel_version="Emote_Surrender">Surrender</string>
-	<string key="ui_emote_Surrender_description" rel_version="Emote_Surrender">REPLACEME</string>
+	<string key="ui_emote_Surrender_description" rel_version="Emote_Surrender">"Fine, you got me."</string>
 	<string key="Emote_Surrender" rel_version="Emote_Surrender">{playerName} surrenders.</string>
 	<string key="ui_emote_ChefKiss_name" rel_version="Emote_ChefKiss">Chef's Kiss</string>
 	<string key="ui_emote_ChefKiss_description" rel_version="Emote_ChefKiss">For a job well done.</string>
@@ -593,11 +593,24 @@
 	<string key="ui_Emote_BiteMedal_name">Bite Medal</string>
 	<string key="ui_Emote_BiteMedal_description">What place doesnt matter. Grab the Champagne and celebrate!</string>
 	<string key="Emote_BiteMedal">{playerName} wants you to know that they are winning!!!</string>
-	<string key="ui_Emote_NailFile_name">PLACEHOLDER</string>
-	<string key="ui_Emote_NailFile_description">PLACEHOLDER</string>
-	<string key="Emote_NailFile">{playerName} PLACEHOLDER</string>
-	<string key="ui_Emote_LizardRun_name">PLACEHOLDER</string>
-	<string key="ui_Emote_LizardRun_description">PLACEHOLDER</string>
-	<string key="Emote_LizardRun">{playerName} PLACEHOLDER</string>
+	<string key="ui_Emote_NailFile_name" rel_version="Season_7_Perm">Preen Queen</string>
+	<string key="ui_Emote_NailFile_description" rel_version="Season_7_Perm">Look your best for when you're ready to slay.</string>
+	<string key="Emote_NailFile" rel_version="Season_7_Perm">{playerName} preens his nails.</string>
+	<string key="Emote_NailFile_SHE" rel_version="Season_7_Perm">{playerName} preens her nails.</string>
+	<string key="Emote_NailFile_THEY" rel_version="Season_7_Perm">{playerName} preens their nails.</string>
+	<string key="ui_Emote_LizardRun_name" rel_version="Season_7_Perm">Brimstone Lizard Run</string>
+	<string key="ui_Emote_LizardRun_description" rel_version="Season_7_Perm">Either a dominant advance or a graceful retreat: You decide!</string>
+	<string key="Emote_LizardRun" rel_version="Season_7_Perm">{playerName} runs like a Brimstone lizard.</string>
+	<string key="ui_Emote_Wings_description" rel_version="Emotes_Valkyrie">Bask in the glory of your own celestial wings.</string>
+	<string key="ui_Emote_Wings_name" rel_version="Emotes_Valkyrie">Ascension</string>
+	<string key="Emote_Wings" rel_version="Emotes_Valkyrie">{playerName} spreads his wings.</string>
+	<string key="Emote_Wings_SHE" rel_version="Emotes_Valkyrie">{playerName} spreads her wings.</string>
+	<string key="Emote_Wings_THEY" rel_version="Emotes_Valkyrie">{playerName} spreads their wings.</string>
+	<string key="ui_Emote_CrabWalk_description" rel_version="Emotes_ThickThieves">Walk like a turtle if a turtle only had two arms!</string>
+	<string key="ui_Emote_CrabWalk_name" rel_version="Emotes_ThickThieves">Turtle Walk</string>
+	<string key="Emote_CrabWalk" rel_version="Emotes_ThickThieves">{playerName} walks like a turtle.</string>
+	<string key="ui_Emote_Mantrum_description" rel_version="Entitlements_Barbarian">When you just have to give the floor what for.</string>
+	<string key="ui_Emote_Mantrum_name" rel_version="Entitlements_Barbarian">One-Man Brawl</string>
+	<string key="Emote_Mantrum" rel_version="Entitlements_Barbarian">{playerName} picks a fight with the ground.</string>
 </resources>
 

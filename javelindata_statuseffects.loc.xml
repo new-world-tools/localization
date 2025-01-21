@@ -522,19 +522,15 @@
 	<string key="Mut_Ice_Curse1_Minor_Damage_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Unstable Chill</string>
 	<string key="Mut_Ice_Curse1_Minor_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators_pt3">Taking {[0.000000 * -100]}% Ice damage every {[0.000000]} seconds.</string>
 	<string key="Mut_Fir_Curse1_Major_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt2">Overcharged Fire</string>
-	<string key="Mut_Fir_Curse1_Major_Buff_ToolTip" rel_version="Feature_Dungeon_Mutators_pt2">Pulsing {[0.000000 * -100]}% Fire damage every {[1.000000]} seconds to nearby allies. Gain {[0.000000 * 100]}% Fire absorption.</string>
 	<string key="Mut_Fir_Curse1_Major_Damage_DisplayName" rel_version="Feature_Dungeon_Mutators_pt2">Overcharged Singe</string>
 	<string key="Mut_Fir_Curse1_Major_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators_pt2">Taking {[0.000000 * -100]}% Fire damage every {[1.000000]} seconds.</string>
 	<string key="Mut_Voi_Curse1_Major_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Overcharged Void</string>
-	<string key="Mut_Voi_Curse1_Major_Buff_ToolTip" rel_version="Feature_Dungeon_Mutators_pt3">Pulsing {[0.000000 * -100]}% Void damage every {[1.000000]} seconds to nearby allies. Gain {[0.000000 * 100]}% Void absorption.</string>
 	<string key="Mut_Voi_Curse1_Major_Damage_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Overcharged Abyss</string>
 	<string key="Mut_Voi_Curse1_Major_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators_pt3">Taking {[0.000000 * -100]}% Void damage every {[1.000000]} seconds.</string>
 	<string key="Mut_Nat_Curse1_Major_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt2">Overcharged Nature</string>
-	<string key="Mut_Nat_Curse1_Major_Buff_ToolTip" rel_version="Feature_Dungeon_Mutators_pt2">Pulsing {[0.000000 * -100]}% Nature damage every {[1.000000]} seconds to nearby allies. Gain {[0.000000 * 100]}% Nature absorption.</string>
 	<string key="Mut_Nat_Curse1_Major_Damage_DisplayName" rel_version="Feature_Dungeon_Mutators_pt2">Overcharged Sap</string>
 	<string key="Mut_Nat_Curse1_Major_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators_pt2">Taking {[0.000000 * -100]}% Nature damage every {[1.000000]} seconds.</string>
 	<string key="Mut_Ice_Curse1_Major_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt2">Overcharged Ice</string>
-	<string key="Mut_Ice_Curse1_Major_Buff_ToolTip" rel_version="Feature_Dungeon_Mutators_pt2">Pulsing {[0.000000 * -100]}% Ice damage every {[1.000000]} seconds to nearby allies. Gain {[0.000000 * 100]}% Ice absorption.</string>
 	<string key="Mut_Ice_Curse1_Major_Damage_DisplayName" rel_version="Feature_Dungeon_Mutators_pt2">Overcharged Chill</string>
 	<string key="Mut_Ice_Curse1_Major_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators_pt2">Taking {[0.000000 * -100]}% Ice damage every {[1.000000]} seconds.</string>
 	<string key="Mut_Curse2_Minor_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt2">Weary</string>
@@ -876,12 +872,6 @@
 	<string key="AI_AdmiralBrute_Blackpowder_Burn_Tooltip" rel_version="Expedition_CutlassKeys_00">Burning for {[-0.05 * -100]}% base health Fire damage every {[1.000000]} seconds for {[10.000000]} seconds.</string>
 	<string key="AI_AdmiralBrute_CannonRain_Targeted_DOT_DisplayName" rel_version="Expedition_CutlassKeys_00">Cannon Burn</string>
 	<string key="AI_AdmiralBrute_CannonRain_Targeted_DOT_Tooltip" rel_version="Expedition_CutlassKeys_00">Burning for {[-7.4999999999999997E-2 * -100]}% base Fire damage every {[1.000000]} seconds.</string>
-	<string key="AI_Yeti_2022_IceDome_Empower_DisplayName" rel_version="Event_WinterConvergence_Temp">Bestial Strength</string>
-	<string key="AI_Yeti_2022_IceDome_Empower_Tooltip" rel_version="Event_WinterConvergence_Temp">Winter Warrior's damage increased by {[0.150000 * 100]}%.</string>
-	<string key="AI_Yeti_2022_IceDome_Fortify_DisplayName" rel_version="Event_WinterConvergence_Temp">Winter's Endurance</string>
-	<string key="AI_Yeti_2022_IceDome_Fortify_Tooltip" rel_version="Event_WinterConvergence_Temp">Winter Warrior's damage absorption increased by {[0.150000 * 100]}%.</string>
-	<string key="AI_Yeti_2022_Snare_and_DoT_DomeFX_DisplayName" rel_version="Event_WinterConvergence_Temp">The Forever Winter's Sting</string>
-	<string key="AI_Yeti_2022_Snare_and_DoT_DomeFX_Tooltip" rel_version="Event_WinterConvergence_Temp">You are slowed and taking cold damage from the sting of the Forever Winter's magic.</string>
 	<string key="AI_FireNaga_Flamethrower_DoT_DisplayName" rel_version="Expedition_GreatCleave_01">Burning</string>
 	<string key="AI_FireNaga_Flamethrower_DoT_Tooltip" rel_version="Expedition_GreatCleave_01">Burning for {[-0.03 * -100]}% max health of Fire damage every {[0.300000]} seconds for {[3.000000]} seconds.</string>
 	<string key="AI_FireNaga_LavaPool_DoT_DisplayName" rel_version="Expedition_GreatCleave_01">Burning Lava</string>
@@ -1363,6 +1353,8 @@
 	<string key="HornOfResilienceT2_Tooltip">Restores {[418.000000]} health per second and adds {[0.188000 * 100]}% armor.</string>
 	<string key="HornOfResilienceT3_DisplayName">Horn of Resilience T3</string>
 	<string key="HornOfResilienceT3_Tooltip">Restores {[500.000000]} health per second and adds {[0.225000 * 100]}% armor.</string>
+	<string key="TurretDefenseT1_DisplayName">Turreted Defense</string>
+	<string key="TurretDefenseT1_Tooltip">Gain {[0.200000 * 100]} damage reduction and {[0.250000 * 100]}% armor while mounted on a turret.</string>
 	<string key="Cleanse_DisplayName">Cleanse</string>
 	<string key="Cleanse_Tooltip">Removes and provides immunity to debuffs.</string>
 	<string key="HasteElixir_DisplayName">Haste Elixir</string>
@@ -2145,7 +2137,7 @@
 	<string key="AI_Hercyne_Broodmother_PlayerEggResistance_DisplayName" rel_version="Raid_CutlassKeys_00">Eggshell Resistance</string>
 	<string key="AI_Hercyne_Broodmother_PlayerEggResistance_Tooltip" rel_version="Raid_CutlassKeys_00">Some of the gunk-resistance from the eggs has wiped off on you. Corrosive Gunk is slowly removed and has a shortened duration.</string>
 	<string key="Dungeon_CrossWorldPugGroup_DisplayName" rel_version="Feature_PUG_Finder">New Found Friends</string>
-	<string key="Dungeon_CrossWorldPugGroup_Description" rel_version="Feature_PUG_Finder">PvE groups created by Cross World matchmaking gain:\n\n+{[0.150000 *100]}% Health\n+{[0.150000 *100]}% Damage\n+{[0.15 *100]}% Outgoing Healing</string>
+	<string key="Dungeon_CrossWorldPugGroup_Description" rel_version="Feature_PUG_Finder">PvE groups created by Cross World matchmaking gain:\n\n+{[0.000000 *100]}% Health\n+{[0.150000 *100]}% Damage\n+{[ *100]}% Outgoing Healing</string>
 	<string key="Mammoth_Boss_IceStorm_Slow_Tooltip" rel_version="Territory_FirstLight">Movement speed reduced by {[-0.050000 * -100]}% per stack.</string>
 	<string key="Mammoth_Boss_IceStorm_Slow_DisplayName" rel_version="Territory_FirstLight">Slowed</string>
 	<string key="Chameleon_Sticky_Slow_6sec_DisplayName" rel_version="Territory_FirstLight">Sticky</string>
@@ -2215,5 +2207,38 @@
 	<string key="Root_Forever_Tooltip" rel_version="ConsoleLaunch">You are rooted in place and unable to move.</string>
 	<string key="AI_Mordred_ChargeStun_1sec_DisplayName" rel_version="ConsoleLaunch">Stunned</string>
 	<string key="AI_Mordred_ChargeStun_1sec_Tooltip" rel_version="ConsoleLaunch">You are stunned for {[1.000000]} seconds.</string>
+	<string key="Status_Conqueror_Musket_DodgeDmgTracker_Name" rel_version="PvPServerConquerorsItems">Conqueror's Musket Bane</string>
+	<string key="Status_Conqueror_Musket_DodgeDmgTracker_Description" rel_version="PvPServerConquerorsItems">Applied by the Musket Conqueror's Item, While this effect is active, dodging deals damage to yourself.</string>
+	<string key="ConquerorsLostMonarch_Name" rel_version="PvPServerConquerorsItems">Lost Monarch's Rampage</string>
+	<string key="ConquerorsLostMonarch_Description" rel_version="PvPServerConquerorsItems">While this is active, you transform into a lost monarch and gain increased damage reduction.</string>
+	<string key="ConquerorsLostMonarch_Timer_Name" rel_version="PvPServerConquerorsItems">Lost Monarch's Timer</string>
+	<string key="ConquerorsLostMonarch_Timer_Description" rel_version="PvPServerConquerorsItems">When this timer is up, you can trigger the Lost Monarch's Rampage again.</string>
+	<string key="Conquerors_LifeStaff_Support_Name" rel_version="PvPServerConquerorsItems">Life Support</string>
+	<string key="Conquerors_LifeStaff_Support_Description" rel_version="PvPServerConquerorsItems">Life Staff outgoing healing is increased when you are not affected by any Life Staff heal over time effects.</string>
+	<string key="Status_Conqueror_Hatchet_Combustible_DisplayName" rel_version="PvPServerConquerorsItems">Combustible</string>
+	<string key="Status_Conqueror_Hatchet_Combustible_Tooltip" rel_version="PvPServerConquerorsItems">If you get to 5 stacks of this, the next hatchet ranged attack will trigger an explosion that deals damage to you and all targets around you.</string>
+	<string key="Status_Conqueror_IceGauntlet_FrostAura_Name" rel_version="PvPServerConquerorsItems">Frost Aura</string>
+	<string key="Status_Conqueror_IceGauntlet_FrostAura_Desc" rel_version="PvPServerConquerorsItems">You and all nearby allies gain fire damage absorption, and deal increased Ice base damage. Your ice attacks inflict a stacking slow</string>
+	<string key="Status_Conqueror_FireStaff_BurnAura_Name" rel_version="PvPServerConquerorsItems">Burn Aura</string>
+	<string key="Status_Conqueror_FireStaff_BurnAura_Desc" rel_version="PvPServerConquerorsItems">All allies around you are inflicted with Burn. Reduce base fire damage taken to you.</string>
+	<string key="Status_Conqueror_LifeStaff_HealAura_Name" rel_version="PvPServerConquerorsItems">Life Support</string>
+	<string key="Status_Conqueror_LifeStaff_HealAura_Desc" rel_version="PvPServerConquerorsItems">All nearby allies, excluding self, are persistently healed while near you.</string>
+	<string key="Status_Conqueror_Shield_TankAura_Name" rel_version="PvPServerConquerorsItems">Tank Aura</string>
+	<string key="Status_Conqueror_Shield_TankAura_Desc" rel_version="PvPServerConquerorsItems">All allies around you gain damage absorption and you gain increased incoming healing. However, you also take increased damage.</string>
+	<string key="Status_SuppressDodge" rel_version="PvPServerConquerorsItems">Sluggish</string>
+	<string key="Status_SuppressDodge_Description" rel_version="PvPServerConquerorsItems">While this is active you cannot dodge, remove effect by attacking an enemy.</string>
+	<string key="Status_Conqueror_VoidGauntlet_HarvestDamage_Name" rel_version="PvPServerConquerorsItems">Harvester's Retribution</string>
+	<string key="Status_Conqueror_VoidGauntlet_HarvestDamage_Desc" rel_version="PvPServerConquerorsItems">Harvest Essence deals periodic pulses of damage to all nearby enemies and triggers lifesteal based on damage dealt to the targets.</string>
+	<string key="Status_Conqueror_Rapier_HasteWhenFacingTarget_Name" rel_version="PvPServerConquerorsItems">Rapier's Scramble</string>
+	<string key="Status_Conqueror_Rapier_HasteWhenFacingTarget_Desc" rel_version="PvPServerConquerorsItems">Move faster and gain bonus traversal distance when facing an enemy.</string>
+	<string key="Status_Conqueror_HolyShield_Cooldown_Name" rel_version="PvPServerConquerorsItems">Holy Shield Timer</string>
+	<string key="Status_Conqueror_HolyShield_Cooldown_Desc" rel_version="PvPServerConquerorsItems">When this expires, you can trigger the holy shield again.</string>
+	<string key="Status_Conqueror_BurnAura_PotencyModifier_Name" rel_version="PvPServerConquerorsItems">Charred Curtilage</string>
+	<string key="Status_Conqueror_BurnAura_PotencyModifier_Desc" rel_version="PvPServerConquerorsItems">Every stack of this increases the potency of the burn from the Charred Curtilage Fire Staff Conqueror's Item.</string>
+	<string key="Status_Conquerors_SwarmDisease_Name" rel_version="PvPServerConquerorsItems">Swarm Defense</string>
+	<string key="Status_Conquerors_SwarmDisease_Description" rel_version="PvPServerConquerorsItems">Armor is increased per nearby enemy but healing is also reduced per nearby enemy.</string>
+	<string key="FoodMacOMal_Effect_Name" rel_version="Season_7_Perm">You're It!</string>
+	<string key="FoodMacOMal_Effect_Desc" rel_version="Season_7_Perm">Tag, you're it! Tag someone else and then they'll be It. Only effective while flagged for PvP.\n\nNo other effects.</string>
+	<string key="FoodMacOMal_EXP_Desc" rel_version="Season_7_Perm">Increase earned Territory and Faction Reputation by 15%.</string>
 </resources>
 

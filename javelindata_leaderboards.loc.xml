@@ -1,5 +1,6 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<string key="ui_leaderboard_inactive" rel_version="Feature_Leaderboards">Inactive Leaderboards</string>
+	<string key="ui_leaderboard_seasonal_world_leaderboards" rel_version="Feature_Seasonal_Servers">Seasonal World</string>
 	<string key="ui_leaderboard_category_war" rel_version="Feature_Leaderboards">War</string>
 	<string key="ui_leaderboard_category_outpostrush" rel_version="Feature_Leaderboards">Outpost Rush &lt;img src="lyshineui/images/icons/crossworld/icon_crossworld_identifier_tan" scale="1.0" xPadding="2" yOffset="2"&gt;&lt;/img&gt;</string>
 	<string key="ui_leaderboard_category_darkness" rel_version="Feature_Leaderboards">Corruption Breaches</string>
@@ -26,6 +27,7 @@
 	<string key="ui_leaderboard_category_trial_sirenqueen" rel_version="Feature_Leaderboards">Siren Queen</string>
 	<string key="ui_leaderboard_category_trial_spriggan" rel_version="Feature_Leaderboards">Monoecious Cleft</string>
 	<string key="ui_leaderboard_category_trial_swampbeast" rel_version="Feature_Leaderboards">Eternal Pools</string>
+	<string key="ui_leaderboard_category_seasonal_world" rel_version="Feature_Seasonal_Servers">Seasonal World</string>
 	<string key="ui_leaderboard_column_rank" rel_version="Feature_Leaderboards">Rank</string>
 	<string key="ui_leaderboard_column_player" rel_version="Feature_Leaderboards">Player</string>
 	<string key="ui_leaderboard_column_players" rel_version="Feature_Leaderboards">Players</string>
@@ -46,6 +48,7 @@
 	<string key="ui_leaderboard_column_influence" rel_version="Feature_Leaderboards">Influence</string>
 	<string key="ui_leaderboard_column_crafted" rel_version="Feature_Leaderboards">Crafted</string>
 	<string key="ui_leaderboard_column_caught" rel_version="Feature_Leaderboards">Caught</string>
+	<string key="ui_leaderboard_column_earned" rel_version="Feature_Seasonal_Servers">Earned</string>
 	<string key="ui_leaderboard_display_war_damage_taken" rel_version="Feature_Leaderboards">Damage Absorbed</string>
 	<string key="ui_leaderboard_display_war_damage_dealt" rel_version="Feature_Leaderboards">Damage Dealt</string>
 	<string key="ui_leaderboard_display_war_heals" rel_version="Feature_Leaderboards">Heals</string>
@@ -163,5 +166,12 @@
 	<string key="ui_leaderboard_display_influence_race_wins_all" rel_version="Feature_Influence_V2">All</string>
 	<string key="ui_leaderboard_display_influence_race_wins_attackers" rel_version="Feature_Influence_V2">Attackers</string>
 	<string key="ui_leaderboard_display_influence_race_wins_defenders" rel_version="Feature_Influence_V2">Defenders</string>
+	<string key="ui_leaderboard_display_pvp_exp" rel_version="Feature_Seasonal_Servers">Open World PvP Experience</string>
+	<string key="ui_leaderboard_display_conqueror_crafting" rel_version="Feature_Seasonal_Servers">Conqueror Items Crafted</string>
+	<string key="ui_leaderboard_tip_s7seasonalserver" rel_version="Feature_Seasonal_Servers">This leaderboard is only active on Seasonal Worlds.</string>
+	<string key="ui_leaderboard_display_assists" rel_version="Season_7_Perm">Assists</string>
+	<string key="ui_leaderboard_column_assists" rel_version="Season_7_Perm">Assists</string>
+	<string key="ui_leaderboard_display_kda" rel_version="Season_7_Perm">Kill/Death/Assist Ratio</string>
+	<string key="ui_leaderboard_tip_kda" rel_version="Season_7_Perm">Kill/Death/Assist Ratio is calculated by adding kills and assists then dividing by deaths.</string>
 </resources>
 

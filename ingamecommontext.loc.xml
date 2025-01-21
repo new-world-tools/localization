@@ -2,7 +2,7 @@
 	<string key="ui_overencumbered_sprint">{Reason} - Cannot jump or traverse</string>
 	<string key="ui_overencumbered_dodge">{Reason} - Cannot dodge</string>
 	<string key="ui_overencumbered_ability">{Reason} - Cannot use abilities</string>
-	<string key="ui_overencumbered_move">{Reason} - Cannot move</string>
+	<string key="ui_overencumbered_move">{Reason} - movement slowed</string>
 	<string key="ui_all_outposts">All Outposts</string>
 	<string key="ui_pvp_error_no_faction">Join a Faction to flag for PvP.</string>
 	<string key="ui_pvp_error_no_faction_track">&lt;font face="lyshineui/fonts/Nimbus_Bold.font" color="#ebe3d6"&gt;Join a Faction and participate in PvP activities to earn rewards.&lt;/font&gt;</string>

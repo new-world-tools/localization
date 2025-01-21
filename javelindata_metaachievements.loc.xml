@@ -3321,7 +3321,7 @@
 	<string key="ui_metachievement_questarc_brimstonesands_desc5" rel_version="Territory_Brimstone_Sands">Complete the Brimstone Sands arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Audience with the Pontifex&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_cutlasskeys_desc1">Complete the Cutlass Keys arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Out of the Frying Pan&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_cutlasskeys_desc2">Complete the Cutlass Keys arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;In Search of Plunder&lt;/font&gt;.</string>
-	<string key="ui_metachievement_questarc_cutlasskeys_desc3">Complete the Cutlass Keys arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Explosive Prospecting&lt;/font&gt;.</string>
+	<string key="ui_metachievement_questarc_cutlasskeys_desc3">Complete the Cutlass Keys arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Lightning in a Bottle&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_cutlasskeys_desc4">Complete the Cutlass Keys arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Toss of A Coin&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_ebonscalereach_desc1">Complete the Ebonscale Reach arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Ebonscale Alligators&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_ebonscalereach_desc2">Complete the Ebonscale Reach arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Study In Green&lt;/font&gt;.</string>
@@ -3602,7 +3602,7 @@
 	<string key="ui_metachievement_refining_weaving_generic_desc">Refine {number} items with Looms.</string>
 	<string key="ui_metachievement_refining_wood_generic_desc">Refine {number} items at Woodshops.</string>
 	<string key="ui_metachievement_lore_pagescount_single_desc">Recover {number} lore page.</string>
-	<string key="ui_metachievement_lore_pagescount_generic_desc">Recover {number} lore page.</string>
+	<string key="ui_metachievement_lore_pagescount_generic_desc">Recover {number} lore pages.</string>
 	<string key="ui_metachievement_firstnamedcraft_generic_desc">Craft a named weapon of this type.</string>
 	<string key="ui_metachievement_craft_namedweaponcount_generic_desc">Craft {number} named weapons.</string>
 	<string key="ui_metachievement_craft_foundpermanentrecipe_desc">Find your first discoverable permanent recipe.</string>
@@ -3882,7 +3882,7 @@
 	<string key="ui_metachievement_PvE_Raid_BossTakedown3_Hercyne_THEY" rel_version="Raid_CutlassKeys_00">Slayer of the Gorgon Broodmother</string>
 	<string key="ui_metachievement_PvE_Raid_BossTakedown1_Hercyne_desc" rel_version="Raid_CutlassKeys_00">You have slain the vicious beast Echidna in the Gorgon's Hive, your bravery is astounding.</string>
 	<string key="ui_metachievement_PvE_Raid_BossTakedown2_Hercyne_desc" rel_version="Raid_CutlassKeys_00">You have slain the terrifying beast Typhon in the Gorgon's Hive, your skill is impeccable.</string>
-	<string key="ui_metachievement_PvE_Raid_BossTakedown3_Hercyne_desc" rel_version="Raid_CutlassKeys_00">You have slain the frightening beast Broodmother Medusa in the Gorgon's Hive, your feats live on in legend! Thank you brave warrior, we couldn't have done this without you!</string>
+	<string key="ui_metachievement_PvE_Raid_BossTakedown3_Hercyne_desc" rel_version="Raid_CutlassKeys_00">You have slain the frightening beast Broodmother Medusa in the Gorgon's Hive, your feats live on in legend!</string>
 	<string key="ui_metachievement_territory_standing_any" rel_version="Feature_Console_Achievements">When Everyone Knows Your Name</string>
 	<string key="ui_metachievement_territory_standing_any_SHE" rel_version="Feature_Console_Achievements">When Everyone Knows Your Name</string>
 	<string key="ui_metachievement_territory_standing_any_THEY" rel_version="Feature_Console_Achievements">When Everyone Knows Your Name</string>
@@ -3905,5 +3905,13 @@
 	<string key="ui_metachievement_marauder_platform_title" rel_version="Feature_Console_Achievements">Marauder Commander</string>
 	<string key="ui_metachievement_syndicate_platform_title" rel_version="Feature_Console_Achievements">Syndicate Alchemist</string>
 	<string key="ui_metachievement_covenant_platform_title" rel_version="Feature_Console_Achievements">Covenant Adjudicator</string>
+	<string key="ui_metachievement_leaderboard_s7pvpxp_title" rel_version="Feature_Seasonal_Servers">Conqueror of Conquerors</string>
+	<string key="ui_metachievement_leaderboard_s7pvpxp_description" rel_version="Feature_Seasonal_Servers">Earned by ranking in the PvP XP Leaderboard for Season 7's Seasonal World.</string>
+	<string key="ui_metachievement_leaderboard_crafting_title" rel_version="Feature_Seasonal_Servers">Creator of Conquest</string>
+	<string key="ui_metachievement_leaderboard_crafting_description" rel_version="Feature_Seasonal_Servers">Earned by ranking in the Conqueror's Items Crafted Leaderboard for Season 7's Seasonal World.</string>
+	<string key="ui_metachievement_leaderboard_daysgoverned_title" rel_version="Feature_Seasonal_Servers">Conqueror of Aeternum</string>
+	<string key="ui_metachievement_leaderboard_daysgoverned_description" rel_version="Feature_Seasonal_Servers">Earned by ranking in the Days Governed Leaderboard for Season 7's Seasonal World.</string>
+	<string key="ui_metachievement_leaderboard_streakgoverned_title" rel_version="Feature_Seasonal_Servers">Eternal Conqueror</string>
+	<string key="ui_metachievement_leaderboard_streakgoverned_description" rel_version="Feature_Seasonal_Servers">Earned by ranking in the Governing Streak Leaderboard for Season 7's Seasonal World.</string>
 </resources>
 

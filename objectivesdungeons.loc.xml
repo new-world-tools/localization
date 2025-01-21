@@ -81,9 +81,9 @@
 	<string key="dungeon_cutlasskeys00_lever_interact" rel_version="Expedition_CutlassKeys_00">Pull Lever</string>
 	<string key="dungeon_cutlasskeys00_task_explore" rel_version="Expedition_CutlassKeys_00">Gain entry to the Black Flag pirates hideout.</string>
 	<string key="dungeon_cutlasskeys00_task_explore_talk" rel_version="Expedition_CutlassKeys_00">Speak with Antonio to learn more about the Black Flag pirates.</string>
-	<string key="dungeon_cutlasskeys00_task_open_entry_gate" rel_version="Expedition_CutlassKeys_00">Use a ranged weapon to activate the lever and enter the Black Flag hideout.</string>
+	<string key="dungeon_cutlasskeys00_task_open_entry_gate" rel_version="Expedition_CutlassKeys_00">Use your weapon to activate the lever and enter the Black Flag hideout.</string>
 	<string key="dungeon_cutlasskeys00_task_enter_hideout" rel_version="Expedition_CutlassKeys_00">Track down Admiral Blackpowder and his crew.</string>
-	<string key="dungeon_cutlasskeys00_task_destroy_barrier" rel_version="Expedition_CutlassKeys_00">Search for a lever to open the gate.</string>
+	<string key="dungeon_cutlasskeys00_task_destroy_barrier" rel_version="Expedition_CutlassKeys_00">Use a ranged weapon to activate the lever and open the gate.</string>
 	<string key="dungeon_cutlasskeys00_task_dockpassage" rel_version="Expedition_CutlassKeys_00">Find a passage down to the ship in the Black Flag Cove.</string>
 	<string key="dungeon_cutlasskeys00_task_find_lever_docks" rel_version="Expedition_CutlassKeys_00">Look for another lever to open the gate.</string>
 	<string key="dungeon_cutlasskeys00_task_enter_passage" rel_version="Expedition_CutlassKeys_00">Proceed into the Dry Rum Passageway.</string>
@@ -360,6 +360,7 @@
 	<string key="trial_season_02_q13_task_approach" rel_version="Season_2_Trial">Approach Malek</string>
 	<string key="trial_season_02_q13_task_defeat_boss" rel_version="Season_2_Trial">Defeat Malek</string>
 	<string key="trial_season_02_q13_task_leave" rel_version="Season_2_Trial">Exit the Soul Trial</string>
+	<string key="trial_seasonal_wait_timer" rel_version="Season_2_Trial">Next Round :</string>
 	<string key="trial_hatchery_title" rel_version="Season_2_Trial">The Hatchery</string>
 	<string key="trial_hatchery_description" rel_version="Season_2_Trial">Gather your allies and stop Hadish Azar and the plans to hatch the eggs of the Devourers.</string>
 	<string key="trial_hatchery_approach_01" rel_version="Season_2_Trial">Approach the center of the arena</string>
@@ -393,6 +394,7 @@
 	<string key="quest_Motherwell_task_smash" rel_version="Quest_MSQ2_Edengrove">Prepare to face the wrath of Adiana</string>
 	<string key="quest_Motherwell_task_destroy_boss" rel_version="Quest_MSQ2_Edengrove">Complete the Purification Ritual</string>
 	<string key="quest_Motherwell_task_purify" rel_version="Quest_MSQ2_Edengrove">Complete the Purification Ritual</string>
+	<string key="quest_Motherwell_task_timer" rel_version="Quest_MSQ2_Edengrove">Defend Myrddin's Staff :</string>
 	<string key="quest_Motherwell_task_leave" rel_version="Quest_MSQ2_Edengrove">Return to the surface and Exit the Soul Trial</string>
 	<string key="Quest_Motherwell_required_equipment" rel_version="Quest_MSQ2_Edengrove">1 Azoth Staff, 1 Corrupted Headpiece</string>
 	<string key="Trial_Season_01_Objective_1" rel_version="Season_2_Trial">Defeat Hadish Hazar and his minions</string>
@@ -439,7 +441,8 @@
 	<string key="quest_Yonas_task_approach" rel_version="Quest_MSQ2_GreatCleave">Confront Isabella</string>
 	<string key="quest_Yonas_task_approach_daily" rel_version="DailySoloTrials">Confront Yonas</string>
 	<string key="quest_Yonas_task_destroy_boss" rel_version="Quest_MSQ2_GreatCleave">Defeat Yonas</string>
-	<string key="quest_Yonas_task_stop_bomb_description" rel_version="Quest_MSQ2_GreatCleave">Stop Yonas Before The Heartgem Explodes!</string>
+	<string key="quest_Yonas_task_stop_bomb_description" rel_version="Quest_MSQ2_GreatCleave">Stop Yonas Before The Heartgem Explodes</string>
+	<string key="quest_Yonas_task_timer" rel_version="Quest_MSQ2_GreatCleave">Time Until Explosion :</string>
 	<string key="quest_Yonas_task_leave" rel_version="Quest_MSQ2_GreatCleave">Leave the cave</string>
 	<string key="Quest_Heartforge_title" rel_version="Quest_MSQ2_GreatCleave">A Guardian's Trial</string>
 	<string key="Quest_Heartforge_description" rel_version="Quest_MSQ2_GreatCleave">This Guardian has stood stoically as the sole protector of a forgotten tool against Corruption.</string>
@@ -480,6 +483,8 @@
 	<string key="quest_isabella_solo_enter" rel_version="Quest_MSQ3_Shattered_V2">Enter the Tempest's Mind</string>
 	<string key="quest_isabella_task_approach" rel_version="Quest_MSQ3_Shattered_V2">Confront Isabella</string>
 	<string key="quest_isabella_task_defeat_boss" rel_version="Quest_MSQ3_Shattered_V2">Defeat Isabella</string>
+	<string key="quest_isabella_task_winged" rel_version="Quest_MSQ3_Shattered_V2">Stop Isabella before her corruption spreads</string>
+	<string key="quest_isabella_task_timer" rel_version="Quest_MSQ3_Shattered_V2">Corruption consumes you in :</string>
 	<string key="quest_isabella_task_exit" rel_version="Quest_MSQ3_Shattered_V2">Wake Up</string>
 	<string key="trial_season_04_q05_title" rel_version="Season_4_Perm">The Winter Rune Forge</string>
 	<string key="trial_season_04_q05_description" rel_version="Season_4_Perm">Descend into the ancient Rune Forge and claim victory over its guardians.</string>

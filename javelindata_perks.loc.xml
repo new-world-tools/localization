@@ -1489,11 +1489,11 @@
 	<string key="PerkID_Earring_ThreatSubOnDodge_Name">Evasive</string>
 	<string key="PerkID_Earring_ThreatSubOnDodge_Description">Reduce threat generation by {[-0.500000 * -100 * {perkMultiplier}]}% for {[5.000000]}s after performing a dodge.</string>
 	<string key="PerkID_Earring_ManaOnPotion_Name">Mana Toast</string>
-	<string key="PerkID_Earring_ManaOnPotion_Description">When you drink a health potion, gain {[10.000000 * {perkMultiplier}]} Mana.</string>
+	<string key="PerkID_Earring_ManaOnPotion_Description">When you drink a survival potion, gain {[10.000000 * {perkMultiplier}]} Mana.</string>
 	<string key="PerkID_Earring_HealthOnPotion_Name">Healthy Toast</string>
-	<string key="PerkID_Earring_HealthOnPotion_Description">When you drink a Mana potion, gain {[0.030000 * 100 * {perkMultiplier}]}% of your base Health.</string>
+	<string key="PerkID_Earring_HealthOnPotion_Description">When you drink a Mana potion, gain {[0.008000 * 100 * {perkMultiplier}]}% of your base Health every second for {[4.000000]}s.</string>
 	<string key="PerkID_Earring_RemoveOnPotion_Name">Purifying Toast</string>
-	<string key="PerkID_Earring_RemoveOnPotion_Description">When you drink a regeneration potion, lose {[1.000000]} debuff.</string>
+	<string key="PerkID_Earring_RemoveOnPotion_Description">When you drink a survival potion, lose {[1.000000]} debuff.</string>
 	<string key="PerkID_Earring_GainOnPotion_Name">Duplicating Toast</string>
 	<string key="PerkID_Earring_GainOnPotion_Description">When you drink a potion, {[0.050000 * 100 * {perkMultiplier}]}% chance it doesn't consume.</string>
 	<string key="PerkID_Earring_PotionCDR_Name">Refreshing Toast</string>
@@ -1629,11 +1629,11 @@
 	<string key="PerkID_Weapon_HercyneRaid_1_Name" rel_version="Season7Perks">Distained Infliction</string>
 	<string key="PerkID_Weapon_HercyneRaid_1_Description" rel_version="Season7Perks">Potency of outgoing DoTs are increased by {[0.150000 * 100]}%. Hitting a target inflicted by your DoTs will extend the duration of them by {[0.050000 * 100]}% ({[1.000000]}s Cooldown.) PvE Only: Deal +{[0.050000 * 100]}% base damage against hostile AI inflicted with DoTs.</string>
 	<string key="PerkID_Armor_HercyneRaid_1_Name" rel_version="Season7Perks">Hasted Vigor</string>
-	<string key="PerkID_Armor_HercyneRaid_1_Description" rel_version="Season7Perks">Potency of incoming damage over time effects reduced by 7% per armor piece with this perk, and taking a hit whle inflicted with a DoT will grant {[0.100000 * 100]}% haste for {[5.000000]}s.</string>
+	<string key="PerkID_Armor_HercyneRaid_1_Description" rel_version="Season7Perks">Potency of incoming damage over time effects reduced by 7% per armor piece with this perk, and taking a hit while inflicted with a DoT will grant {[0.100000 * 100]}% haste for {[5.000000]}s.</string>
 	<string key="PerkID_Jewelry_HercyneRaid_1_Name" rel_version="Season7Perks">Unimpeded</string>
 	<string key="PerkID_Jewelry_HercyneRaid_1_Description" rel_version="Season7Perks">Potency of slows on you are reduced by 30% as long as you have not been exhausted within the last {[10.000000]}s.</string>
 	<string key="PerkID_Weapon_PvPZone_1_Name" rel_version="Season7Perks">Penetrating the Empowered</string>
-	<string key="PerkID_Weapon_PvPZone_1_Description" rel_version="Season7Perks">PvP Only: Critial hits against empowered players will have {[0.100000 * 100]}% armor penetration and reduce the duration of empowers on them by {[-0.070000 * -100]}%. ({[1.000000]}s reduction cooldown)</string>
+	<string key="PerkID_Weapon_PvPZone_1_Description" rel_version="Season7Perks">PvP Only: Critical hits against empowered players will have {[0.100000 * 100]}% armor penetration and reduce the duration of empowers on them by {[-0.070000 * -100]}%. ({[1.000000]}s reduction cooldown)</string>
 	<string key="PerkID_Armor_PvPZone_1_Name" rel_version="Season7Perks">Thorny Reflection</string>
 	<string key="PerkID_Armor_PvPZone_1_Description" rel_version="Season7Perks">PvP Only: Taking a critical hit will reflect nature damage back at the target equal to {[-0.070000 * -100]}% of your weapon damage, and reduce the attacker's crit chance by {[-0.100000 * -100]}% for {[3.000000]}s. ({[1.000000]}s Cooldown)</string>
 	<string key="PerkID_Jewelry_PvPZone_1_Name" rel_version="Season7Perks">Empowered Cleave</string>
@@ -1709,7 +1709,7 @@
 	<string key="PerkID_Ability_Blunderbuss_VortexShot_Name" rel_version="Weapon_Blunderbuss">Crippling Blast Shot</string>
 	<string key="PerkID_Ability_Blunderbuss_VortexShot_Description" rel_version="Weapon_Blunderbuss">Targets hit by Blast Shot are Slowed, reducing movement speed by {[-0.050000 * -100 * {perkMultiplier}]}% for {[5.000000]}s.</string>
 	<string key="PerkID_Ability_Flail_Slam_Name" rel_version="Weapon_Flail">Burdening Smite</string>
-	<string key="PerkID_Ability_Flail_Slam_Description" rel_version="Weapon_Flail">PvP Only: Smite hits against targets extend their active cooldowns by {[0.050000 * 100 * {perkMultiplier}]}%.</string>
+	<string key="PerkID_Ability_Flail_Slam_Description" rel_version="Weapon_Flail">Smite penetrates {[0.015000 * 100 * {perkMultiplier}]}% of the target's armor. PvP Only: Smite its against players extend their active cooldowns by {[0.050000 * 100 * {perkMultiplier}]}%.</string>
 	<string key="PerkID_Ability_Flail_Blast_Name" rel_version="Weapon_Flail">Mending Vortex</string>
 	<string key="PerkID_Ability_Flail_Blast_Description" rel_version="Weapon_Flail">Every {[2.000000]} hits with Vortex will heal you for {[0.050000 * 100 * {perkMultiplier}]}% of the base weapon damage.</string>
 	<string key="PerkID_Ability_Flail_Burst_Name" rel_version="Weapon_Flail">Powerful Eruption</string>
@@ -1946,7 +1946,7 @@
 	<string key="PerkID_RuneglassGem_NatureSub_Melee_Name" rel_version="Territory_Brimstone_Sands">Punishing Nature Ward</string>
 	<string key="PerkID_RuneglassGem_NatureSub_Melee_Description" rel_version="Territory_Brimstone_Sands">+{[0.050000 * 100]}% Nature Damage Absorption. Your melee attacks deal +{[0.010000 * 100]}% damage.</string>
 	<string key="PerkID_RuneglassGem_NatureAdd_Ranged_Name" rel_version="Territory_Brimstone_Sands">Sighted Arboreal</string>
-	<string key="PerkID_RuneglassGem_NatureAdd_Ranged_Description" rel_version="Territory_Brimstone_Sands">Convert {[0.500000 * 100]}% of damage dealt to Nature (sIf FOC is higher, replace weapon scaling with FOC, but at {[0.005500 * 10000]}% scaling). Your ranged attacks deal +{[0.020000 * 100]}% damage.</string>
+	<string key="PerkID_RuneglassGem_NatureAdd_Ranged_Description" rel_version="Territory_Brimstone_Sands">Convert {[0.500000 * 100]}% of damage dealt to Nature (If FOC is higher, replace weapon scaling with FOC, but at {[0.005500 * 10000]}% scaling). Your ranged attacks deal +{[0.020000 * 100]}% damage.</string>
 	<string key="PerkID_RuneglassGem_NatureSub_Ranged_Name" rel_version="Territory_Brimstone_Sands">Sighted Nature Ward</string>
 	<string key="PerkID_RuneglassGem_NatureSub_Ranged_Description" rel_version="Territory_Brimstone_Sands">+{[0.050000 * 100]}% Nature Damage Absorption. Your ranged attacks deal +{[0.010000 * 100]}% damage.</string>
 	<string key="PerkID_RuneglassGem_VoidAdd_Heal_Name" rel_version="Territory_Brimstone_Sands">Leeching Abyssal</string>
@@ -2508,9 +2508,9 @@
 	<string key="PerkID_Weapon_DmgAeternian_Name" rel_version="Season_1_Perm">Human Bane</string>
 	<string key="PerkID_Weapon_DmgAeternian_Description" rel_version="Season_1_Perm">PvE Only: +{[5 * {perkMultiplier}]}% damage to Humans.</string>
 	<string key="PerkID_Stat_Highest_Name">Magnify</string>
-	<string key="PerkID_Stat_Highest_Desc">Increases highest attribute</string>
+	<string key="PerkID_Stat_Highest_Desc">Increases highest attribute.</string>
 	<string key="PerkID_Stat_2Highest_Name">Amplify</string>
-	<string key="PerkID_Stat_2Highest_Desc">Increases two highest attributes</string>
+	<string key="PerkID_Stat_2Highest_Desc">Increases two highest attributes.</string>
 	<string key="PerkID_Lifestaff_OnLowBonusHeal_Name">Savior</string>
 	<string key="PerkID_Lifestaff_OnLowBonusHeal_Desc">Healing is increased by {[0.100000 * 100 * {perkMultiplier}]}% when you heal a target below {[50.000000]}% health.</string>
 	<string key="PerkID_Lifestaff_OnRemoveHeal_Name">Purifying Breeze</string>
@@ -2570,7 +2570,7 @@
 	<string key="ui_stat_magnify_split_tooltip">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;+{total} Magnify&lt;/font&gt; (split between highest attributes)</string>
 	<string key="ui_stat_magnify_selected_tooltip">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;+{amount1} Magnify&lt;/font&gt; (selected attribute: {attribute1})</string>
 	<string key="ui_stat_magnify_help_title">Magnify</string>
-	<string key="ui_stat_magnify_help_tooltip">Equipped items with the &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;Magnify&lt;/font&gt; perk increase the attribute selected below.\n\nHighest increases the attribute with the most points not including item buffs. If attributes are tied, Magnify points are distributed as evenly as possible among them.</string>
+	<string key="ui_stat_magnify_help_tooltip">Equipped items with the &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;Magnify&lt;/font&gt; perk increase the attribute selected below.\n\nHighest increases the attribute with the most points not including item buffs. If attributes are tied, Magnify points are distributed as evenly as possible among them. Since loot biasing takes into account your highest attribute, this can affect your loot biased drops as well.</string>
 	<string key="PerkID_Artifact_Set1_Sword_Name">Hemorrhage</string>
 	<string key="PerkID_Artifact_Set1_Sword_Desc">Bleeds lasts {[0.330000 * 100]}% longer (Works on both weapons).</string>
 	<string key="PerkID_Artifact_Set1_SwordPerk_Name">Jagged Whirls</string>
@@ -2630,9 +2630,9 @@
 	<string key="PerkID_Artifact_Set1_Ring2_Name" rel_version="Feature_Artifacts_Set2">Expert</string>
 	<string key="PerkID_Artifact_Set1_Ring2_Desc" rel_version="Feature_Artifacts_Set2">Skills deal {[0.125000 * 100]}% more damage, but basic attacks deal {[-0.250000 * -100]}% less damage.</string>
 	<string key="PerkID_Artifact_Set1_Earring1_Name">The Thirst</string>
-	<string key="PerkID_Artifact_Set1_Earring1_Desc">Healing consumables are {[0.330000 * 100]}% stronger, but healing potion cooldowns are {[0.250000 * 100]}% longer.</string>
+	<string key="PerkID_Artifact_Set1_Earring1_Desc">Healing consumables are {[0.330000 * 100]}% stronger, but Survival and Mana Potion cooldowns are {[0.250000 * 100]}% longer.</string>
 	<string key="PerkID_Artifact_Set1_Earring2_Name" rel_version="Feature_Artifacts_Set2">Rejuvenation</string>
-	<string key="PerkID_Artifact_Set1_Earring2_Desc" rel_version="Feature_Artifacts_Set2">Gain {[0.020000 * 100]}% health, {[2.000000]} stamina, and {[2.000000]} mana each second. But Potion cooldowns are increased by {[0.750000 * 100]}%. </string>
+	<string key="PerkID_Artifact_Set1_Earring2_Desc" rel_version="Feature_Artifacts_Set2">Gain {[0.020000 * 100]}% health, {[2.000000]} stamina, and {[2.000000]} mana each second. But Survival Potion cooldowns are increased by {[0.750000 * 100]}%.</string>
 	<string key="PerkID_Artifact_Set1_Flail_Name">Odo's Punishment</string>
 	<string key="PerkID_Artifact_Set1_Flail_Desc">You deal {[0.200000 * 100]}% more damage to stunned or knocked down foes (Applies to both weapons).</string>
 	<string key="PerkID_Artifact_Set1_FlailPerk_Name">Odo's Defense</string>
@@ -2683,7 +2683,7 @@
 	<string key="PerkID_Armor_SkinningYield_Name">Skinning Yield</string>
 	<string key="PerkID_Armor_SkinningYield_Description">+{[0.015000 * 100 * {perkMultiplier}]}% resources while Skinning.</string>
 	<string key="PerkID_Artifact_Set2_HeavyChest_Name" rel_version="Feature_Artifacts_S6">Survive</string>
-	<string key="PerkID_Artifact_Set2_HeavyChest_Desc" rel_version="Feature_Artifacts_S6">If you get hit while your Health is below 50%, gain {[50.000000]} stamina, lose all debuffs, and gain a Potion Surge that will recharge your next healing potion instantly. ({[120.000000]}s Cooldown).</string>
+	<string key="PerkID_Artifact_Set2_HeavyChest_Desc" rel_version="Feature_Artifacts_S6">If you get hit while your Health is below 50%, gain {[50.000000]} stamina, lose all debuffs, and gain a Potion Surge that will recharge your next healing potion instantly. ({[120.000000]}s Cooldown) (Can't use multiple potion surges within {[75.000000]}s of each other).</string>
 	<string key="PerkID_Artifact_Set2_HeavyHands_Name" rel_version="Feature_Artifacts_S5">Charged</string>
 	<string key="PerkID_Artifact_Set2_HeavyHands_Desc" rel_version="Feature_Artifacts_S5">Whenever you take damage, gain an Empower charge that increases the damage of your next attack by {[0.020000 * 100]}% (max {[10.000000]} charges.)</string>
 	<string key="PerkID_Artifact_Set2_HeavyLegs_Name" rel_version="Feature_Artifacts_S5">Steady Foundation</string>
@@ -2695,7 +2695,7 @@
 	<string key="PerkID_Artifact_Set2_MediumLegs_Name" rel_version="Feature_Artifacts_S6">Magician's Boon</string>
 	<string key="PerkID_Artifact_Set2_MediumLegs_Desc" rel_version="Feature_Artifacts_S6">If in Medium equip weight deal {[0.150000 * 100]}% more Elemental damage.</string>
 	<string key="PerkID_Artifact_Set2_LightHead_Name" rel_version="Feature_Artifacts_S6">Desperate Energy</string>
-	<string key="PerkID_Artifact_Set2_LightHead_Desc" rel_version="Feature_Artifacts_S6">If you hit an enemy while your mana is below {[50.000000]}%, gain {[4.000000]}s of {[0.250000 * 100]}% increase damage. ({[10.000000]}s cooldown).</string>
+	<string key="PerkID_Artifact_Set2_LightHead_Desc" rel_version="Feature_Artifacts_S6">If you hit an enemy while your mana is below {[50.000000]}%, gain {[4.000000]}s of {[0.250000 * 100]}% increased damage. ({[10.000000]}s cooldown).</string>
 	<string key="PerkID_Artifact_Set2_LightFeet_Name" rel_version="Feature_Artifacts_S5">Ambush</string>
 	<string key="PerkID_Artifact_Set2_LightFeet_Desc" rel_version="Feature_Artifacts_S5">deal 15% more damage and 25% critical chance as long as you haven't hit the target within 20s</string>
 	<string key="PerkID_Artifact_Set2_Hatchet_Name" rel_version="Feature_Artifacts_S5">Corruption</string>
@@ -2708,8 +2708,24 @@
 	<string key="PerkID_Artifact_Set2_Greataxe_Desc" rel_version="Feature_Artifacts_S5">Successful attacks gain 3% movement speed for 3s. (Works on both weapons and stacks 10 times.) </string>
 	<string key="PerkID_Artifact_Set2_GreataxePerk_Name" rel_version="Feature_Artifacts_S5">Endless Spin</string>
 	<string key="PerkID_Artifact_Set2_GreataxePerk_Desc" rel_version="Feature_Artifacts_S5">Whirlwind no longer needs to hit targets to continue spins, and can spin up to 12 times</string>
+	<string key="PerkID_Artifact_Set2_Bow_Name" rel_version="Feature_Artifacts_S7">Poison Affinity</string>
+	<string key="PerkID_Artifact_Set2_Bow_Desc" rel_version="Feature_Artifacts_S7">Deal {[0.150000 * 100]}% more damage to poisoned enemies. This affects both weapons.</string>
+	<string key="PerkID_Artifact_Set2_BowPerk_Name" rel_version="Feature_Artifacts_S7">Poisoned Arrows</string>
+	<string key="PerkID_Artifact_Set2_BowPerk_Desc" rel_version="Feature_Artifacts_S7">Charged attacks cause poison dealing {[-0.050000 * -100]}% weapon damage for {[10.000000]}s.</string>
+	<string key="PerkID_Artifact_Set2_Musket_Name" rel_version="Feature_Artifacts_S7">Shrapnel Shot</string>
+	<string key="PerkID_Artifact_Set2_Musket_Desc" rel_version="Feature_Artifacts_S7">Head shots on enemies cause {[-0.100000*-100]}% Bleed for {[6.000000]}s.</string>
+	<string key="PerkID_Artifact_Set2_FireStaff_Name" rel_version="Feature_Artifacts_S7">Burnanation</string>
+	<string key="PerkID_Artifact_Set2_FireStaff_Desc" rel_version="Feature_Artifacts_S7">All fire staff skills and heavy attacks deal {[-0.330000 * -100]}% less damage, but cause {[-0.150000 * -100]}% burning for {[5.000000]}s. (Max 5 stacks).</string>
+	<string key="PerkID_Artifact_Set2_LifeStaff_Name" rel_version="Feature_Artifacts_S7">Light Touch</string>
+	<string key="PerkID_Artifact_Set2_LifeStaff_Desc" rel_version="Feature_Artifacts_S7">For {[5.000000]}s after casting a life staff ability, the next heavy attack that passes through an ally will grant Reinforced, giving them {[0.300000 * 100]}% damage absorption for the next hit taken within {[7.000000]}s.</string>
 	<string key="PerkID_Artifact_Set2_Spear_Name" rel_version="Feature_Artifacts_S5">Poison Tipped</string>
 	<string key="PerkID_Artifact_Set2_Spear_Desc" rel_version="Feature_Artifacts_S5">Heavy melee attacks with either weapon cause poison dealing {[-0.150000 * -100]}% weapon damage for {[5.000000]}s.</string>
+	<string key="PerkID_Artifact_Set2_Rapier_Name" rel_version="Feature_Artifacts_S7">Lava Tip</string>
+	<string key="PerkID_Artifact_Set2_Rapier_Desc" rel_version="Feature_Artifacts_S7">Heavy melee attacks on both weapons cause {[-0.100000 * -100]}% burning for {[6.000000]}s (Max 3 stacks).</string>
+	<string key="PerkID_Artifact_Set2_IceGauntlet_Name" rel_version="Feature_Artifacts_S7">Frozen Tomb</string>
+	<string key="PerkID_Artifact_Set2_IceGauntlet_Desc" rel_version="Feature_Artifacts_S7">Hitting a target with entomb's break will inflict them with frostburn, slowing their move speed by {[-0.100000 * -100]}%, and dealing {[-0.100000 * -100]}% of your weapon damage every second for {[5.000000]}s.</string>
+	<string key="PerkID_Artifact_Set2_VoidGauntlet_Name" rel_version="Feature_Artifacts_S7">Mending Rupture</string>
+	<string key="PerkID_Artifact_Set2_VoidGauntlet_Desc" rel_version="Feature_Artifacts_S7">Overflowing Essence heals for 100% more health and Essence Rupture does {[0.500000 * 100]}% more damage on hit.</string>
 	<string key="PerkID_Artifact_Set2_Greatsword_Name" rel_version="Feature_Artifacts_S6">Offensive Speed</string>
 	<string key="PerkID_Artifact_Set2_Greatsword_Desc" rel_version="Feature_Artifacts_S6">When you enter offensive stance gain {[6.000000]}s of +{[0.200000 * 100]}% move speed</string>
 	<string key="PerkID_Artifact_Set2_Flail_Name" rel_version="Feature_Artifacts_S6">Heavy Burden</string>
@@ -2718,7 +2734,61 @@
 	<string key="PerkID_Artifact_Set2_Ring1_Desc" rel_version="Feature_Artifacts_S6">When you hit a target with an elemental damage attack (does not trigger on damage over time or attunements), gain {[0.040000 * 100]}% empower for {[6.000000]}s. ({[10.000000]}s cooldown per damage type, max 1 stack per type.)</string>
 	<string key="PerkID_Artifact_Set2_Amulet1_Name" rel_version="Feature_Artifacts_S5">Phoenix Vengeance</string>
 	<string key="PerkID_Artifact_Set2_Amulet1_Desc" rel_version="Feature_Artifacts_S5">When you receive lethal damage, avoid death and regain {[1.000000 * 100]}% of your max health. Then become inflicted with Vengeance, reducing healing by {[-2.000000 * -100]}% and taking damage equal to {[-0.100000 * -200]}% of your max health every second until you die or get a kill. ({[180.000000]}s cooldown).</string>
+	<string key="PerkID_Artifact_Set2_Earring1_Name" rel_version="Feature_Artifacts_S7">Alchemist's Ward</string>
+	<string key="PerkID_Artifact_Set2_Earring1_Desc" rel_version="Feature_Artifacts_S7">When you get hit {[20.000000]} times, gain a Potion Surge that will recharge your next healing potion instantly. ({[90.000000]}s cooldown) (Can't use multiple potion surges within {[75.000000]}s of each other)</string>
 	<string key="PerkID_Flail_RabbitFlail_Name" rel_version="Event_RabbitSeasonPerm2024">Rabbits Revenge</string>
 	<string key="PerkID_Flail_RabbitFlail_Description" rel_version="Event_RabbitSeasonPerm2024">Not even Stanley can withstand the corruptive power of this weapon.</string>
+	<string key="PerkID_Conqueror_Bow_PoisonAOE_Name" rel_version="PvPServerConquerorsItems">Contagion</string>
+	<string key="PerkID_Conqueror_Bow_PoisonAOE_Desc" rel_version="PvPServerConquerorsItems">Direct hits with Poison shot will trigger vortex pulling in nearby targets then spawning a {[5.000000]}m infected cloud that follows the target hit for 10s, inflicting all nearby targets with {[-0.500000 * -100]}% poison damage every second while inside.</string>
+	<string key="PerkID_Conqueror_Warhammer_Knockback_Name" rel_version="PvPServerConquerorsItems">Yeet</string>
+	<string key="PerkID_Conqueror_Warhammer_Knockback_Desc" rel_version="PvPServerConquerorsItems">+{[4.000000 * 100]}% push distance and +{[0.300000 * 100]}% base damage to all War Hammer knockbacks. Clear out will ignite the first target hit, turning them into a projectile causing {[-1.500000 * -100]}% weapon damage to all targets they pass through along their path.</string>
+	<string key="PerkID_Conqueror_Shield_TankAura_Name" rel_version="PvPServerConquerorsItems">Altruism</string>
+	<string key="PerkID_Conqueror_Shield_TankAura_Desc" rel_version="PvPServerConquerorsItems">All allies around you gain {[0.500000 * 100]}% armor and you gain {[0.250000 * 100]}% increased incoming healing. However, your armor is also reduced by {[-0.250000 * -100]}%.</string>
+	<string key="PerkID_Conqueror_IceGauntlet_FrostAura_Name" rel_version="PvPServerConquerorsItems">Frostborn</string>
+	<string key="PerkID_Conqueror_IceGauntlet_FrostAura_Desc" rel_version="PvPServerConquerorsItems">You and all allies within {[8.500000]}m gain {[0.300000 * 100]}% fire damage absorption and base damage of Ice attacks is increased by {[0.200000 * 100]}%. Hitting targets within the frost aura inflicts them with a stacking {[-0.050000 * -100]}% slow for {[3.000000]}s. (Max {[6.000000]} stacks)</string>
+	<string key="PerkID_Conqueror_FireStaff_BurnAura_Name" rel_version="PvPServerConquerorsItems">Charred</string>
+	<string key="PerkID_Conqueror_FireStaff_BurnAura_Desc" rel_version="PvPServerConquerorsItems">Spawn a {[8.500000]}m aura around you that inflicts {[-0.200000 * -100]}% burn to enemies inside. Hitting targets in the aura will increase the potency of the burn by 5% per stack for {[4.000000]}s (Max {[20.000000]} stacks).</string>
+	<string key="PerkID_Conqueror_Hatchet_CombustibleCombustion_Name" rel_version="PvPServerConquerorsItems">Combustion</string>
+	<string key="PerkID_Conqueror_Hatchet_CombustibleCombustion_Desc" rel_version="PvPServerConquerorsItems">Hitting a target with a ranged hatchet attack will inflict combustible, at {[3.000000]} stacks, the next ranged hit will trigger an explosion consuming the stacks and dealing a burst of damage to all targets nearby targets, dealing {[-2.500000 * -100]}% weapon damage.</string>
+	<string key="PerkID_Conqueror_Spear_Embiggen_Name" rel_version="PvPServerConquerorsItems">Embiggen</string>
+	<string key="PerkID_Conqueror_Spear_Embiggen_Desc" rel_version="PvPServerConquerorsItems">Spear's melee abilities cause you to grow in size to cover more area with the attacks, your crit damage is increased by {[0.130000 * 100]}%, and Vault Kick is extra kicky and knocks down targets.</string>
+	<string key="PerkID_Conqueror_MeleeWeapon_DodgeSuppressant_Name" rel_version="PvPServerConquerorsItems">Dodge Suppressant</string>
+	<string key="PerkID_Conqueror_MeleeWeapon_DodgeSuppressant_Desc" rel_version="PvPServerConquerorsItems">Melee ability hits against a target that is below {[50.000000]}% health will inflict them with Sluggish, preventing them from dodging for {[2.000000]}s or until they hit a target. ({[20.000000]}s cooldown per target)</string>
+	<string key="PerkID_Conqueror_Greatsword_CrescentWave_Name" rel_version="PvPServerConquerorsItems">Crescent Wave</string>
+	<string key="PerkID_Conqueror_Greatsword_CrescentWave_Desc" rel_version="PvPServerConquerorsItems">While above 50% health, heavy attacks cast a projectile forward dealing {[1.500000 * 100]}% weapon damage. Each wave costs {[20.000000]} mana.</string>
+	<string key="PerkID_Conqueror_HolyShield_Blocking_Name" rel_version="PvPServerConquerorsItems">Holy Shield</string>
+	<string key="PerkID_Conqueror_HolyShield_Blocking_Desc" rel_version="PvPServerConquerorsItems">Blocking a ranged attack will spawn a bubble shield for {[10000.000000 / 1000]}s at the player's location that will block all projectiles while active ({[30.000000]}s Cooldown)</string>
+	<string key="PerkID_Conqueror_DodgeCorruptionBall_Name" rel_version="PvPServerConquerorsItems">Corrupted Dodge</string>
+	<string key="PerkID_Conqueror_DodgeCorruptionBall_Desc" rel_version="PvPServerConquerorsItems">When dodging through an enemy melee attack, trigger a ball of corruption that explodes, dealing {[-0.600000 * -100]}% void damage to all targets within {[3.000000]}m and causing your next hit within {[4.000000]}s to gain {[0.300000 * 100]}% Empower. ({[6.000000]}s Cooldown)</string>
+	<string key="PerkID_Conqueror_Longsword_ShieldlessAgility_Name" rel_version="PvPServerConquerorsItems">Unfettered Agility</string>
+	<string key="PerkID_Conqueror_Longsword_ShieldlessAgility_Desc" rel_version="PvPServerConquerorsItems">While in light or medium equip load without a shield, dodge cost is reduced by 20% for the first dodge within {[1.000000]}s after hitting a target. Dodging a melee attack grants {[0.200000 * 100]}% haste for {[2.000000]}s and {[0.500000 * 100]}% slash damage empower for your next attack within {[2.000000]}s. However, you always take {[-0.200000 * -100]}% more damage.</string>
+	<string key="PerkID_Conqueror_Armor_SwarmDefense_Name" rel_version="PvPServerConquerorsItems">Swarm Defense</string>
+	<string key="PerkID_Conqueror_Armor_SwarmDefense_Desc" rel_version="PvPServerConquerorsItems">When {[3.000000]} or more enemies are nearby, Increase armor by {[0.100000 * 100]}% per nearby enemy, but your healing is also reduced by {[-0.020000 * -100]}% per nearby enemy ({[10.000000]} enemies max)</string>
+	<string key="PerkID_Conqueror_Musket_LimbDebilitation_Name" rel_version="PvPServerConquerorsItems">Appendage's Detriment</string>
+	<string key="PerkID_Conqueror_Musket_LimbDebilitation_Desc" rel_version="PvPServerConquerorsItems">Headshots inflict {[-0.200000 * -100]}% Exhaust for {[3.000000]}s. For {[3.000000]}s after a leg shot, the target will deal {[-0.100000 * -100]}% of their max health worth of damage to themselves whenever they dodge.</string>
+	<string key="PerkID_Conqueror_Flail_Disease_Name" rel_version="PvPServerConquerorsItems">Plagued Quarrel</string>
+	<string key="PerkID_Conqueror_Flail_Disease_Desc" rel_version="PvPServerConquerorsItems">Attacks inflict a stack of {[-0.050000 * -100]}% incoming and {[-0.025000 * -100]}% outgoing disease for {[4.000000]}s (Max {[5.000000]} Stacks). Attacking a blocking target will consume {[1.000000]} stack, dealing {[-0.300000 * -100]}% weapon damage for each consumed stack.</string>
+	<string key="PerkID_Conqueror_Greataxe_UndeadLostMonarch_Name" rel_version="PvPServerConquerorsItems">Rampage</string>
+	<string key="PerkID_Conqueror_Greataxe_UndeadLostMonarch_Desc" rel_version="PvPServerConquerorsItems">Hitting a target with a heavy attack will transform you into a hulking Lost Monarch. ({[15.000000]}s cooldown). While tranformed you gain {[0.350000 * 100]}% armor for {[10.000000]}s, and your abilities trigger a void chain that bounces between close targets and deals {[-0.300000 * -100]}% weapon damage ({[2.000000]}s cooldown).</string>
+	<string key="PerkID_Conqueror_LifeStaff_SupportiveHeals_Name" rel_version="PvPServerConquerorsItems">Life Support</string>
+	<string key="PerkID_Conqueror_LifeStaff_SupportiveHeals_Desc" rel_version="PvPServerConquerorsItems">Life Staff outgoing healing is increased by {[0.350000 * 100]}% when not affected by any Life Staff HoTs. You also spawn a persistent healing aura around yourself that will persistently heal nearby allies, excluding self. When light attacks pass through allies, their stamina and mana regen rate is increased by {[0.250000 * 100]}% for {[3.000000]}s.</string>
+	<string key="PerkID_Conqueror_VoidGauntlet_HarvestDamage_Name" rel_version="PvPServerConquerorsItems">Harvester's Retribution</string>
+	<string key="PerkID_Conqueror_VoidGauntlet_HarvestDamage_Desc" rel_version="PvPServerConquerorsItems">While using Harvest Essence, deal periodic pulses of damage to all enemies within {[5.000000]}m, dealing {[-0.400000 * -100]}% base weapon damage and triggering {[0.500000 * 100]}% lifesteal based on the damage dealt.</string>
+	<string key="PerkID_Conqueror_Rapier_HasteWhenFacingTarget_Name" rel_version="PvPServerConquerorsItems">Scramble</string>
+	<string key="PerkID_Conqueror_Rapier_HasteWhenFacingTarget_Desc" rel_version="PvPServerConquerorsItems">Gain {[0.150000 * 100]}% haste while facing a target within {[6.000000 * 2]}m, and abilities that propel the player forward gain increased movement distance when facing an enemy. At 200 DEX, the distance is increased.</string>
+	<string key="PerkID_EtherealWeapon_Name" rel_version="PvPServerConquerorsItems">Ethereal Weapon</string>
+	<string key="PerkID_EtherealWeapon_Description" rel_version="PvPServerConquerorsItems">This weapon is Drop on Death and grants you access to special materials when completing Darkness Events.</string>
+	<string key="PerkID_EtherealArmor_Name" rel_version="PvPServerConquerorsItems">Ethereal Armor</string>
+	<string key="PerkID_EtherealArmor_Description" rel_version="PvPServerConquerorsItems">This armor is Drop on Death and grants you access to special materials when looting containers while inside elite POIs.</string>
+	<string key="PerkID_EtherealJewelry_Name" rel_version="PvPServerConquerorsItems">Ethereal Jewelry</string>
+	<string key="PerkID_EtherealJewelry_Description" rel_version="PvPServerConquerorsItems">This jewelry is Drop on Death and grants you access to special materials when killing enemies inside Elite POIs.</string>
+	<string key="PerkID_EtherealMining_Name" rel_version="PvPServerConquerorsItems">Ethereal Mining</string>
+	<string key="PerkID_EtherealMining_Description" rel_version="PvPServerConquerorsItems">This pickaxe is Drop on Death and grants you access to special materials when mining.</string>
+	<string key="PerkID_EtherealLogging_Name" rel_version="PvPServerConquerorsItems">Ethereal Logging</string>
+	<string key="PerkID_EtherealLogging_Description" rel_version="PvPServerConquerorsItems">This logging axe is Drop on Death and grants you access to special materials when logging.</string>
+	<string key="PerkID_EtherealHarvesting_Name" rel_version="PvPServerConquerorsItems">Ethereal Harvesting</string>
+	<string key="PerkID_EtherealHarvesting_Description" rel_version="PvPServerConquerorsItems">This sickle is Drop on Death and grants you access to special materials when harvesting.</string>
+	<string key="PerkID_EtherealSkinning_Name" rel_version="PvPServerConquerorsItems">Ethereal Skinning</string>
+	<string key="PerkID_EtherealSkinning_Description" rel_version="PvPServerConquerorsItems">This skinning knife is Drop on Death and grants you access to special materials when skinning.</string>
 </resources>
 

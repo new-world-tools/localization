@@ -174,6 +174,7 @@
 	<string key="mm_csdkerr_registration_unmarshal_error">Server data error. Please check for a patch.</string>
 	<string key="mm_csdkerr_disconnect">Unexpectedly disconnected from the server. Reconnecting...</string>
 	<string key="mm_csdkerr_replicate_timeout">Timed out while waiting for state synchronization. Please check your network settings and verify you have enough bandwidth to play.</string>
+	<string key="mm_csdkerr_server_requires_anticheat">World requires EAC to play. Please make sure you launched the game with EAC.</string>
 	<string key="mm_csdkerr_registration_failed_retry">Failed to connect to server</string>
 	<string key="mm_connerr_rep_registration_timeout">Unable to connect to the server. Please check your internet access and network settings to verify you have enough bandwidth to play and try again.</string>
 	<string key="mm_connerr_game_timeout">Timed out while waiting for gameplay on the server. Please check your network settings to verify you have enough bandwidth to play.</string>
@@ -207,8 +208,8 @@
 	<string key="mm_rejected_Free_Session_Expired">Your free play time has come to an end. You will be returned to the Main Menu.</string>
 	<string key="mm_rejected_Client_Kicked_Login_Ticket_Error">Login ticket is not valid for the world</string>
 	<string key="mm_rejected_Player_Not_Entitled_To_World">Access denied: Not entitled to this game world.</string>
-	<string key="mm_rejected_Character_Temporarily_Unavailable">Your character is temporarily unavailable.</string>
-	<string key="mm_rejected_Destination_World_Unavailable">Server error: Destination world unavailable.</string>
+	<string key="mm_rejected_Character_Temporarily_Unavailable">Your character is temporarily unavailable. Reconnecting...</string>
+	<string key="mm_rejected_Destination_World_Unavailable">Server error: Destination world unavailable. Reconnecting...</string>
 	<string key="mm_rejected_Matchmaking_Login">Log back in to join the match.</string>
 	<string key="mm_rejected_Client_Kicked_Title">Kicked</string>
 	<string key="mm_rejected_Client_Kicked_NoMessage">You have been kicked from the game.</string>
@@ -242,7 +243,8 @@
 	<string key="mm_rejected_Client_Kicked_Partial_Ban">You have received a partial ban.</string>
 	<string key="mm_rejected_Client_Kicked_Partial_Ban_Muted">You have been muted.</string>
 	<string key="mm_rejected_Client_Kicked_Unknown">You have been kicked from the game.</string>
-	<string key="mm_rejected_Client_Expansion2023_Ownership">Your character is currently locked. &lt;font color="#506AD0"&gt;&lt;a action="OpenRegionalUrl" data="@url_expansion2023_purchase"&gt;Purchase Expansion.&lt;/a&gt;&lt;/font&gt;</string>
+	<string key="mm_rejected_Client_Expansion2023_Ownership">Your character is currently locked. &lt;font color="#506AD0"&gt;&lt;a action="OpenLanguageSpecificUrl" data="@url_expansion2023_purchase"&gt;Purchase Expansion.&lt;/a&gt;&lt;/font&gt;</string>
+	<string key="mm_rejected_Client_Kicked_Server_Error">You have been disconnected due to a temporary server error.</string>
 	<string key="mm_authresult_Authorized">Success</string>
 	<string key="mm_characterCreateDisabled">Character creation is temporarily disabled because this world is full. Please try a different world.</string>
 	<string key="mm_characterTransferDisabled">Character transfers are temporarily disabled because this world is full. Please try a different world.</string>
@@ -370,6 +372,7 @@
 	<string key="ui_cantDropCursedItem" rel_version="Territory_CutlassKeys_Rework">Cannot drop cursed items</string>
 	<string key="ui_destroyCursedItem" rel_version="Territory_CutlassKeys_Rework">Destroy Cursed Item</string>
 	<string key="ui_destroyCursedItemDrop" rel_version="Territory_CutlassKeys_Rework">All Cursed Items will be Destroyed.\nDo you wish to continue?</string>
+	<string key="ui_cantDropPvpServer" rel_version="PvPServerConquerorsItems">Cannot drop Conquerors or Ethereal items</string>
 	<string key="ui_navmenu_progression">CHARACTER</string>
 	<string key="ui_bio">Bio</string>
 	<string key="ui_attributes">Attributes</string>
@@ -544,7 +547,7 @@
 	<string key="ui_weaving">Weaving</string>
 	<string key="ui_stonecutting">Stonecutting</string>
 	<string key="ui_masonry">Stonecutting Table</string>
-	<string key="ui_masonry_desc">Refine stone and gems here.</string>
+	<string key="ui_masonry_desc">Refine stone here.</string>
 	<string key="ui_smelter">Smelter</string>
 	<string key="ui_smelter_desc">Refine metal here.</string>
 	<string key="ui_building">Coming Soon</string>
@@ -751,7 +754,7 @@
 	<string key="error_banned">{message}\n\nReason:[{reason}]</string>
 	<string key="error_perm_ban">Permanent Ban</string>
 	<string key="error_temp_ban">Temporary Ban</string>
-	<string key="error_world_select_server_down">You cannot select a world while it is in maintenance.</string>
+	<string key="error_world_select_server_down">The world is under maintenance. Please try again later.</string>
 	<string key="error_loading_assets_title">Game Asset Loading Error</string>
 	<string key="error_loading_assets_message">Error loading game assets! Please check your installation.</string>
 	<string key="ui_musician" rel_version="Feature_MusicalPerformances">Musician</string>
@@ -769,7 +772,7 @@
 	<string key="ui_crossplay_popup_prompt_title" rel_version="Feature_Crossplay">CROSS-PLAY</string>
 	<string key="ui_crossplay_popup_prompt_message" rel_version="Feature_Crossplay">Your console has been set to disable cross-play functionality!\n\nPlease change this through your console settings to enjoy:\n\nCross-world activities\nIncreased server options and faster queue times\nEncountering players and friends on other game platforms</string>
 	<string key="ui_gena_onoff">Toggle Narration</string>
-	<string key="ui_entered_crossplay_world_notification" rel_version="Feature_Crossplay">You have entered a cross-play world</string>
+	<string key="ui_entered_crossplay_world_notification" rel_version="Feature_Crossplay">You have entered a cross-play world.</string>
 	<string key="ui_scan_qr_code">Scan QR Code</string>
 	<string key="ui_scan_qr_code_instructions">Scan the QR code using your device's camera.</string>
 	<string key="ui_scan_qr_code_help_label">New World: Aeternum Support</string>

@@ -68,6 +68,8 @@
 	<string key="objective_darkness_invasion_waves_title">DEFEND THE FORT</string>
 	<string key="objective_darkness_invasion_waves_desc">WAVE &lt;font color="#ebe3d6"&gt;&lt;font face="lyshineui/fonts/Pica_Regular.font"&gt;{currentWave}&lt;/font&gt;&lt;/font&gt; OF &lt;font face="lyshineui/fonts/Pica_Regular.font"&gt;{totalWaves}&lt;/font&gt;</string>
 	<string key="objective_darkness_invasion_waves_desc_final">FINAL WAVE</string>
+	<string key="ui_summermedley_maudlinbugwaltz">Maudlinbug Swarm</string>
+	<string key="ui_summermedley_maudlinbugwaltz_description">A swarm of Maudlinbugs has formed! Grab a guitar and perform the entrancing melody of the Maudlinbug Haze to capitivate and catch those bumbling bugs!</string>
 	<string key="ui_summermedley_shredlyfair" rel_version="Event_Summer2023_Perm">Concert Stage</string>
 	<string key="ui_preddieu_farm_attack" rel_version="Quest_MSQ2_Revamp">Sneed's Revenge</string>
 	<string key="ui_preddieu_farm_attack_description" rel_version="Quest_MSQ2_Revamp">Farmer Sneed still thinks this land is his and will stop at nothing to reclaim it. Protect the farms and drive him away.</string>
@@ -95,12 +97,10 @@
 	<string key="objective_lostattack_piscarianfishery_desc">Investigate the Ancient Device on the boardwalk.</string>
 	<string key="objective_lostattack_piscarianfishery_wave_01">Defend Ancient Device: {remainingCount}/1 \nTime Remaining:</string>
 	<string key="event_completed">Event Completed</string>
-	<string key="ui_winterconv_worldboss_winterwarrior" rel_version="Event_WinterConvergence_Temp">The Forever Winter</string>
-	<string key="ui_winterconv_worldboss_winterwarrior_description" rel_version="Event_WinterConvergence_Temp">The Winter Warrior and his legion of Frigid Folk are spreading the beginnings of the Forever Winter across Aeternum!</string>
-	<string key="objective_worldboss_task_destroylink_title" rel_version="Event_WinterConvergence_Temp">Deactivate the Emanating Tempest</string>
-	<string key="objective_worldboss_task_destroylink_desc" rel_version="Event_WinterConvergence_Temp">Frostrime Pillar Aura's Remaining: {remainingCount}</string>
-	<string key="objective_worldboss_task_winterwarrior_title" rel_version="Event_WinterConvergence_Temp">Defeat the Winter Warrior</string>
-	<string key="objective_worldboss_task_winterwarrior_desc" rel_version="Event_WinterConvergence_Temp">Stop the Spread of the Forever Winter!</string>
+	<string key="ui_nightveil_worldboss_baalphazu">Baalphazu's Rising</string>
+	<string key="ui_nightveil_worldboss_baalphazu_description">Nightveil Hallow has brought with it the dark entity Baalphazu, the Marquis of Terror and lord of his legion of Pumpkinites!</string>
+	<string key="ui_winterconv_worldboss_winterwarrior">The Forever Winter</string>
+	<string key="ui_winterconv_worldboss_winterwarrior_description">The Winter Warrior and his legion of Frigid Folk are spreading the beginnings of the Forever Winter across Aeternum!</string>
 	<string key="ui_legion_outpost_attack" rel_version="Territory_Brimstone_Sands">Brimstone Under Siege</string>
 	<string key="ui_legion_outpost_attack_description" rel_version="Territory_Brimstone_Sands">The Legion are advancing! Stop them before they reach the outpost of Wikala al-Waha!</string>
 	<string key="objective_legion_outpost_attack_title" rel_version="Territory_Brimstone_Sands">Stop the Legion's Advance</string>
@@ -159,6 +159,7 @@
 	<string key="objective_thornhall_medea_title" rel_version="Quest_MSQ2_Revamp">Medea</string>
 	<string key="objective_thornhall_medea_desc" rel_version="Quest_MSQ2_Revamp">Release the crystal energy to stun enemies</string>
 	<string key="06A_Encounter_Medea_Boss_Obj_Enc_Title" rel_version="Quest_MSQ2_Revamp">Path of Thorns</string>
+	<string key="06A_Encounter_Medea_Boss_Obj_Enc_Title_description" rel_version="Quest_MSQ2_Revamp">Release the crystal energy to stun enemies</string>
 	<string key="04A_Encounter_Remnant_Boss_Obj_Enc_Title" rel_version="Quest_MSQ2_Revamp">The Final Trial</string>
 	<string key="04A_Encounter_Remnant_Boss_Obj_Enc_Title_description" rel_version="Quest_MSQ2_Revamp">Overcome the Remnant.</string>
 	<string key="04A_Encounter_Remnant_Boss_Obj_Enc_task_defeat" rel_version="Quest_MSQ2_Revamp">Defeat the Remnant</string>
@@ -178,7 +179,7 @@
 	<string key="ui_worldboss_defeated" rel_version="Event_February_Perm">{objective} Defeated</string>
 	<string key="ui_worldboss_daily_reset" rel_version="Event_February_Perm">Daily Reward Resets At {time}</string>
 	<string key="ui_worldboss_legacyofcrassus" rel_version="Event_Legacy_Of_Crassus2024">Legacy of Crassus</string>
-	<string key="ui_worldboss_legacyofcrassus_description" rel_version="Event_Legacy_Of_Crassus2024">The might of Rome threatens Aeternum! Hunt down Crassus's monstrous captains, Decimus and Lucanus, and banish the shadow of Roman tyranny. Collect daily rewards in addition to rewards for striking down these vicious brutes in Brightwood, Weavers Fen, Mourningdale, Ebonscale Reach, and Edengrove.\n\nContains &lt;font color="#edc63e"&gt;1&lt;/font&gt; Daily Reward. Resets at {time}</string>
+	<string key="ui_worldboss_legacyofcrassus_description" rel_version="Event_Legacy_Of_Crassus2024">The might of Rome threatens Aeternum! Hunt down Crassus's monstrous captains, Decimus and Lucanus, and banish the shadow of Roman tyranny. Collect daily rewards in addition to rewards for striking down these vicious brutes in Brightwood, Weavers Fen, Mourningdale, and Ebonscale Reach.\n\nContains &lt;font color="#edc63e"&gt;3&lt;/font&gt; Daily Rewards. Resets at {time}</string>
 	<string key="objective_worldboss_task_legacyofcrassus_wave1_title" rel_version="Event_Legacy_Of_Crassus2024">Legacy of Crassus: Stage 1/2</string>
 	<string key="objective_worldboss_task_legacyofcrassus_wave1_desc" rel_version="Event_Legacy_Of_Crassus2024">Defeat the invaders: {remainingCount} remaining.</string>
 	<string key="objective_worldboss_task_legacyofcrassus_wave2_title" rel_version="Event_Legacy_Of_Crassus2024">Legacy of Crassus: Stage 2/2</string>
@@ -253,6 +254,7 @@
 	<string key="objective_enc_darkness_Hunt_Razro_Lotus_wave_02_description" rel_version="Territory_FirstLight">Finish The Hunt</string>
 	<string key="objective_enc_darkness_Hunt_description" rel_version="Territory_FirstLight">Complete The Wild Hunt</string>
 	<string key="14AC_Edengrove_Malev3_01_Title">Shadows of Malevolence</string>
+	<string key="14AC_Edengrove_Malev3_01_Title_description">End the angry shadows of Malevolence</string>
 	<string key="ui_malev03_wave_start_title">Disrupt nature's rage</string>
 	<string key="ui_malev03_wave_00_title">Disband the Dryad faithful</string>
 	<string key="ui_malev03_wave_00_desc">Faithful remaining: {remainingCount}</string>
@@ -270,5 +272,9 @@
 	<string key="99A_MSQ_03_Enc_Stage_02" rel_version="Quest_MSQ2_Revamp">End the Torment</string>
 	<string key="99A_MSQ_03_Enc_Stage_01_description" rel_version="Quest_MSQ2_Revamp">Defeat the echoes of\nYonas' fellow Soulwardens</string>
 	<string key="99A_MSQ_03_Enc_Stage_02_description" rel_version="Quest_MSQ2_Revamp">Defeat the Torment of the Soulwardens</string>
+	<string key="04A_Side02_02_Encounter_01" rel_version="Quest_MSQ2_Revamp">Perseus Stellar Research</string>
+	<string key="04A_Side02_02_Encounter_01_description" rel_version="Quest_MSQ2_Revamp">Investigate the Ancient sphere at Perseus.</string>
+	<string key="04A_Side02_02_Encounter_02" rel_version="Quest_MSQ2_Revamp">Lupus Stellar Research</string>
+	<string key="04A_Side02_02_Encounter_02_description" rel_version="Quest_MSQ2_Revamp">Investigate the Ancient sphere at Lupus.</string>
 </resources>
 

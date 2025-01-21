@@ -21,6 +21,9 @@
 	<string key="data_season_06_desc" rel_version="Season_6_Perm">Carve your destiny through the depths of Aeternum to uncover seasonal armor and weapon skins, transmog tokens, and other treasures long lost to the outside world. Welcome to the cursed isle.\n\n• Mysterious Artifacts of unknown origin continue to tempt even the most ambitious Adventurers. Wear the &lt;font color="#edc63e"&gt;Cowl of Power&lt;/font&gt; to turn the tide of battle when your mana is low or wield the &lt;font color="#edc63e"&gt;Grace Greatsword&lt;/font&gt; for greater offensive speed.\n\n• Plunge into your next quest with &lt;font color="#edc63e"&gt;Nautical Gladiator armor and weapon skins&lt;/font&gt; and serenade your fellow Adventurers with one of the &lt;font color="#edc63e"&gt;Seafarers Musical Instruments&lt;/font&gt;.\n\n• You can also look forward to acquiring the &lt;font color="#edc63e"&gt;Seafarers Camp skin&lt;/font&gt;, plus unique emotes like &lt;font color="#edc63e"&gt;Finger Guns&lt;/font&gt;.\n\n
 Discover the full collection of rewards, including &lt;font color="#edc63e"&gt;7,500 Marks of Fortune&lt;/font&gt; and &lt;font color="#edc63e"&gt;7 Transmog Tokens&lt;/font&gt;, through the in-game Season Pass menu.
 </string>
+	<string key="data_season_07_name" rel_version="Season_7_Perm">Season 7: Season of Conquerors</string>
+	<string key="data_season_07_display_name" rel_version="Season_7_Perm">Season 7</string>
+	<string key="data_season_07_desc" rel_version="Season_7_Perm">REPLACEME</string>
 	<string key="seasons_rewards_categorical_progression_id" rel_version="Feature_Seasons_Rewards">Season Pass</string>
 	<string key="seasons_rewards_tab_battlepass" rel_version="Feature_Seasons_Rewards">Battle Pass</string>
 	<string key="seasons_rewards_tab_journey" rel_version="Feature_Seasons_Rewards">Journey</string>
@@ -28,12 +31,18 @@ Discover the full collection of rewards, including &lt;font color="#edc63e"&gt;7
 	<string key="seasons_rewards_journey_frame_header" rel_version="Feature_Seasons_Rewards">Journey</string>
 	<string key="seasons_rewards_chapter_title" rel_version="Feature_Seasons_Rewards">Chapter {chapter}</string>
 	<string key="seasons_rewards_challenges_title" rel_version="Feature_Seasons_Rewards">Challenges</string>
+	<string key="seasons_rewards_seasonal_server_chapter_title" rel_version="Feature_Seasonal_Servers">Seasonal World Chapter {chapter}</string>
+	<string key="seasons_rewards_seasonal_server_challenges_title" rel_version="Feature_Seasonal_Servers">Seasonal World Bonus</string>
+	<string key="seasons_rewards_seasonal_server_chapter_title_icon" rel_version="Feature_Seasonal_Servers">Seasonal World Chapter {chapter} &lt;img src="lyshineui/images/SeasonsRewards/SeasonalServer/Icon_season_server" scale="1.5" yOffset="3"&gt;&lt;/img&gt;</string>
+	<string key="seasons_rewards_seasonal_server_challenges_title_icon" rel_version="Feature_Seasonal_Servers">Seasonal World Bonus &lt;img src="lyshineui/images/SeasonsRewards/SeasonalServer/Icon_season_server" scale="1.5" yOffset="3"&gt;&lt;/img&gt;</string>
 	<string key="seasons_rewards_reward_title" rel_version="Feature_Seasons_Rewards">{title} Reward</string>
 	<string key="seasons_rewards_tasks_label" rel_version="Feature_Seasons_Rewards">Tasks</string>
 	<string key="seasons_rewards_tasks_progress_text" rel_version="Feature_Seasons_Rewards">{value}/{count}</string>
 	<string key="seasons_rewards_chapters_label" rel_version="Feature_Seasons_Rewards">Chapters</string>
 	<string key="seasons_rewards_chapters_info_label" rel_version="Feature_Seasons_Rewards">Complete {count} Objectives from Chapter {chapter} to Claim this Reward</string>
 	<string key="seasons_rewards_chapters_claimed_info_label" rel_version="Feature_Seasons_Rewards">Complete {count} Objectives from Chapter {chapter} and Claim the Chapter {prevChapter} Reward to Claim this Reward</string>
+	<string key="seasons_rewards_seasonal_chapters_info_label" rel_version="Feature_Seasonal_Servers">Complete {count} Objectives from Seasonal World Chapter {chapter} to Claim this Reward</string>
+	<string key="seasons_rewards_seasonal_chapters_claimed_info_label" rel_version="Feature_Seasonal_Servers">Complete {count} Objectives from Seasonal World Chapter {chapter} and Claim the Seasonal World Chapter {prevChapter} Reward to Claim this Reward</string>
 	<string key="seasons_rewards_challenges_info_label" rel_version="Feature_Seasons_Rewards">Complete {count} Challenges</string>
 	<string key="seasons_rewards_journey_chapter_xp_label" rel_version="Feature_Seasons_Rewards">+{xp} Season XP &lt;img src="lyshineui/images/SeasonsRewards/Icon_BXP_Tiny"&gt;&lt;/img&gt;</string>
 	<string key="seasons_rewards_claim_previous_chapter" rel_version="Feature_Seasons_Rewards">Must claim previous chapter</string>
@@ -51,9 +60,9 @@ Discover the full collection of rewards, including &lt;font color="#edc63e"&gt;7
 	<string key="ui_seasons_chaptercomplete" rel_version="Feature_Seasons_Rewards">Chapter Complete</string>
 	<string key="ui_seasons_challengescomplete" rel_version="Feature_Seasons_Rewards">Challenges Complete</string>
 	<string key="ui_seasons_progressbar_complete" rel_version="Feature_Seasons_Rewards">Complete!</string>
-	<string key="seasons_rewards_level_requirement_notification" rel_version="Feature_Seasons_Rewards">You must be level {minlevel} to access Seasons</string>
-	<string key="seasons_token_feature_disabled_notification_text" rel_version="Feature_Seasons_Consumable_Tokens">Seasons Consumable Tokens are currently disabled</string>
-	<string key="seasons_leveling_guide_tooltip_text" rel_version="Feature_Seasons_Rewards">Unlocks access to the Seasons Rewards Track</string>
+	<string key="seasons_rewards_level_requirement_notification" rel_version="Feature_Seasons_Rewards">You must be level {minlevel} to access Seasons.</string>
+	<string key="seasons_token_feature_disabled_notification_text" rel_version="Feature_Seasons_Consumable_Tokens">Seasons Consumable Tokens are currently disabled.</string>
+	<string key="seasons_leveling_guide_tooltip_text" rel_version="Feature_Seasons_Rewards">Unlocks access to the Seasons Rewards Track.</string>
 	<string key="ui_activities" rel_version="Feature_Seasons_Rewards">Activities</string>
 	<string key="ui_totalcardscompleted" rel_version="Feature_Seasons_Rewards">Cards Finished: {total}</string>
 	<string key="ui_stampcardbonus" rel_version="Feature_Seasons_Rewards">&lt;img src="LyShineUI/Images/SeasonsRewards/pip" yOffset="2"&gt;&lt;/img&gt;  Stamp the card to earn {bxp} Season XP</string>
@@ -100,6 +109,14 @@ Discover the full collection of rewards, including &lt;font color="#edc63e"&gt;7
 	<string key="ui_hiw_journey_sect2_pt1" rel_version="Feature_Seasons_Rewards">&lt;img src="LyShineUI/Images/SeasonsRewards/pip" yOffset="1"&gt;&lt;/img&gt;  Each Chapter has a completion goal.</string>
 	<string key="ui_hiw_journey_sect2_pt2" rel_version="Feature_Seasons_Rewards">&lt;img src="LyShineUI/Images/SeasonsRewards/pip" yOffset="1"&gt;&lt;/img&gt;  Claim enough objectives to reach the goal.</string>
 	<string key="ui_hiw_journey_sect2_pt3" rel_version="Feature_Seasons_Rewards">&lt;img src="LyShineUI/Images/SeasonsRewards/pip" yOffset="1"&gt;&lt;/img&gt;  Unlock the Chapter reward when its goal is reached.</string>
+	<string key="ui_hiw_seasonal_server_sect1_header" rel_version="Feature_Seasonal_Servers">CHAPTERS &amp; CHALLENGES</string>
+	<string key="ui_hiw_seasonal_server_sect1_desc" rel_version="Feature_Seasonal_Servers">Complete Chapters and Challenges to earn Season XP and claim rewards.</string>
+	<string key="ui_hiw_seasonal_server_sect1_pt1" rel_version="Feature_Seasonal_Servers">&lt;img src="LyShineUI/Images/SeasonsRewards/pip" yOffset="1"&gt;&lt;/img&gt;  Complete the unique objectives to claim its reward and progress toward a Chapter's goal.</string>
+	<string key="ui_hiw_seasonal_server_sect1_pt2" rel_version="Feature_Seasonal_Servers">&lt;img src="LyShineUI/Images/SeasonsRewards/pip" yOffset="1"&gt;&lt;/img&gt;  Reach the goal in each Chapter to unlock that Chapter's reward.</string>
+	<string key="ui_hiw_seasonal_server_sect2_header" rel_version="Feature_Seasonal_Servers">SEASONAL WORLD JOURNEY</string>
+	<string key="ui_hiw_seasonal_server_sect2_desc" rel_version="Feature_Seasonal_Servers">Unlock rewards for the Seasonal World Journey by purchasing a Premium Battle Pass through the store.</string>
+	<string key="ui_hiw_seasonal_server_sect2_pt1" rel_version="Feature_Seasonal_Servers">&lt;img src="LyShineUI/Images/SeasonsRewards/pip" yOffset="1"&gt;&lt;/img&gt;  The Seasonal World Journey can only be progressed on Seasonal Worlds &lt;img src="lyshineui/images/SeasonsRewards/SeasonalServer/Icon_season_server" scale="1.5" yOffset="3"&gt;&lt;/img&gt;.</string>
+	<string key="ui_hiw_seasonal_server_sect2_pt2" rel_version="Feature_Seasonal_Servers">&lt;img src="LyShineUI/Images/SeasonsRewards/pip" yOffset="1"&gt;&lt;/img&gt;  Progress the Journey without a Premium Battle Pass, but rewards require purchase.</string>
 	<string key="ui_seasons_task_ObtainLevel_name" rel_version="Feature_Seasons_Rewards">Just Getting Started</string>
 	<string key="ui_seasons_task_ObtainLevel_desc" rel_version="Feature_Seasons_Rewards">Obtain level {level}</string>
 	<string key="ui_seasons_task_CompleteExpedition_name" rel_version="Feature_Seasons_Rewards">Expedition Exploration I</string>
@@ -361,6 +378,7 @@ Discover the full collection of rewards, including &lt;font color="#edc63e"&gt;7
 	<string key="SeasonsRewardTrack_ClaimError_PlayerHasNoFaction" rel_version="Feature_Seasons_Rewards">Unable to claim this reward. Must belong to a faction.</string>
 	<string key="SeasonsRewardTrack_ClaimError_Generic" rel_version="Feature_Seasons_Rewards">Unable to claim this reward. Please try again later.</string>
 	<string key="SeasonsRewardTrack_ClaimError_AlreadyClaimingReward" rel_version="Feature_Seasons_Rewards">You are already attempting to claim a reward. Please try again later.</string>
+	<string key="SeasonsRewardTrack_ClaimError_RewardRequiresPremium" rel_version="Feature_Seasonal_Servers">This reward requires owning a Premium Pass.</string>
 	<string key="SeasonsRewardTrack_TransactionError" rel_version="Feature_Seasons_Rewards">Unable to process this transaction. Please try again later.</string>
 	<string key="SeasonsRewardTrack_PartialClaimWarning" rel_version="Feature_Seasons_Rewards">One or more of the items in this reward are already claimed on this account.</string>
 	<string key="SeasonsRewardTrack_LevelsPrice" rel_version="Feature_Seasons_Rewards">&lt;img src="LyShineUI/Images/mtx/icon_mtx_currency" scale="0.78125"&gt;&lt;/img&gt;{price}</string>
@@ -474,7 +492,7 @@ Discover the full collection of rewards, including &lt;font color="#edc63e"&gt;7
 	<string key="ui_seasons_task_name_CatchBrimstoneLegendaryFish" rel_version="Season_2_Perm">Desert Angler</string>
 	<string key="ui_seasons_task_description_CatchBrimstoneLegendaryFish" rel_version="Season_2_Perm">Catch the Brimstone Sands Legendary fish</string>
 	<string key="ui_seasons_task_name_CatchLbsOfFish_1" rel_version="Season_2_Perm">Half-Ton Hauler</string>
-	<string key="ui_seasons_task_description_CatchLbsOfFish" rel_version="Season_2_Perm">Catch {maxCount/100} pounds of Fish</string>
+	<string key="ui_seasons_task_description_CatchLbsOfFish" rel_version="Season_2_Perm">Catch 500 pounds of Fish</string>
 	<string key="ui_seasons_task_name_CraftGypsumOrbs_1" rel_version="Season_2_Perm">Gypsum Orb Enthusiast</string>
 	<string key="ui_seasons_task_description_CraftGypsumOrbs" rel_version="Season_2_Perm">Craft {maxCount} Gypsum Orbs</string>
 	<string key="ui_seasons_task_name_LootEliteSulfurChests_1" rel_version="Season_2_Perm">Sulfuric Spoils I</string>
@@ -867,6 +885,113 @@ Discover the full collection of rewards, including &lt;font color="#edc63e"&gt;7
 	<string key="ui_seasons_task_description_Challenge_HercyneBossBow" rel_version="Season_6_Perm">Kill Broodmother Medusa in the Hive of Gorgons with a Bow</string>
 	<string key="ui_seasons_task_name_Challenge_Doubloons" rel_version="Season_6_Perm">Drowning in Doubloons</string>
 	<string key="ui_seasons_task_description_Challenge_Doubloons" rel_version="Season_6_Perm">Gather {maxCount} Cursed Doubloons from Cursed Chests in the Cutlass Keys Free-For-All Zone</string>
+	<string key="ui_seasons_task_name_KillAncient" rel_version="Season_7_Perm">Bane of Ancient</string>
+	<string key="ui_seasons_task_description_KillAncient" rel_version="Season_7_Perm">Kill {maxCount} Ancient Enemies</string>
+	<string key="ui_seasons_task_name_TerritoryStanding_1" rel_version="Season_7_Perm">Territorial I</string>
+	<string key="ui_seasons_task_name_TerritoryStanding_2" rel_version="Season_7_Perm">Territorial II</string>
+	<string key="ui_seasons_task_description_TerritoryStanding" rel_version="Season_7_Perm">Gain {maxCount} Territory Standing</string>
+	<string key="ui_seasons_task_name_KillEliteBrimstone" rel_version="Season_7_Perm">Brimstone Brigadier</string>
+	<string key="ui_seasons_task_description_KillEliteBrimstone" rel_version="Season_7_Perm">Kill {maxCount} Elite Enemies in Brimstone Sands</string>
+	<string key="ui_seasons_task_name_CraftWeaponT5" rel_version="Season_7_Perm">Wealthy Weaponsmith</string>
+	<string key="ui_seasons_task_description_CraftWeaponT5" rel_version="Season_7_Perm">Craft {maxCount} T5+ Weapons</string>
+	<string key="ui_seasons_task_name_CraftFoodT3" rel_version="Season_7_Perm">Champion Chef</string>
+	<string key="ui_seasons_task_description_CraftFoodT3" rel_version="Season_7_Perm">Craft {maxCount} T3+ Foods</string>
+	<string key="ui_seasons_task_name_CraftGearT4" rel_version="Season_7_Perm">Gallant Gearsmith</string>
+	<string key="ui_seasons_task_description_CraftGearT4" rel_version="Season_7_Perm">Craft {maxCount} T4+ Gear</string>
+	<string key="ui_seasons_task_name_Challenge_FlawlessM3" rel_version="Season_7_Perm">Meticulous Mutator</string>
+	<string key="ui_seasons_task_description_Challenge_FlawlessM3" rel_version="Season_7_Perm">Complete {maxCount} M3 Expeditions Flawlessly</string>
+	<string key="ui_seasons_task_name_Challenge_KillNamed65" rel_version="Season_7_Perm">Named Butcher</string>
+	<string key="ui_seasons_task_description_Challenge_KillNamed65" rel_version="Season_7_Perm">Kill {maxCount} Named L65+ Enemies</string>
+	<string key="ui_seasons_task_name_Challenge_S6Completionist" rel_version="Season_7_Perm">Strife Completionist</string>
+	<string key="ui_seasons_task_description_Challenge_S6Completionist" rel_version="Season_7_Perm">Complete all of this Season's Journey Tasks</string>
+	<string key="ui_seasons_task_name_Challenge_GatheringPostCap" rel_version="Season_7_Perm">Grand Gatherer</string>
+	<string key="ui_seasons_task_description_Challenge_GatheringPostCap" rel_version="Season_7_Perm">Gain {maxCount} Aptitude levels in Gathering Trade Skills</string>
+	<string key="ui_seasons_task_name_Challenge_NamedUpgrade" rel_version="Season_7_Perm">Ultimate Upgrader</string>
+	<string key="ui_seasons_task_description_Challenge_NamedUpgrade" rel_version="Season_7_Perm">Upgrade {maxCount} Named items at a Gypsum Kiln</string>
+	<string key="ui_seasons_task_name_Challenge_ArenaDamageHeal" rel_version="Season_7_Perm">Arena All-Star</string>
+	<string key="ui_seasons_task_description_Challenge_ArenaDamageHeal" rel_version="Season_7_Perm">Deal or heal {maxCount} in the Arena</string>
+	<string key="ui_seasons_task_name_Challenge_ArenaFlawless" rel_version="Season_7_Perm">Flawless Fighter</string>
+	<string key="ui_seasons_task_description_Challenge_ArenaFlawless" rel_version="Season_7_Perm">Get {maxCount} Flawless Victories in the Arena</string>
+	<string key="ui_seasons_task_name_Challenge_CaptureFCP" rel_version="Season_7_Perm">Control Freak</string>
+	<string key="ui_seasons_task_description_Challenge_CaptureFCP" rel_version="Season_7_Perm">Capture {maxCount} Faction Control Points</string>
+	<string key="ui_seasons_task_name_Challenge_ActivityCards" rel_version="Season_7_Perm">Highly Active</string>
+	<string key="ui_seasons_task_description_Challenge_ActivityCards" rel_version="Season_7_Perm">Complete {maxCount} Activity Cards</string>
+	<string key="ui_seasons_task_name_Challenge_MajorBreaches" rel_version="Season_7_Perm">Corruption Clearer</string>
+	<string key="ui_seasons_task_description_Challenge_MajorBreaches" rel_version="Season_7_Perm">Close {maxCount} Major Corrupted Breaches</string>
+	<string key="ui_seasons_task_name_WinDuelS7" rel_version="Season_7_Perm">Master Duelist</string>
+	<string key="ui_seasons_task_description_WinDuelS7" rel_version="Season_7_Perm">Win {maxCount} Duels</string>
+	<string key="ui_seasons_task_name_CraftTrophy" rel_version="Season_7_Perm">Know Your Enemy</string>
+	<string key="ui_seasons_task_description_CraftTrophy" rel_version="Season_7_Perm">Craft {maxCount} Trophies</string>
+	<string key="ui_seasons_task_name_CompleteInvasions" rel_version="Season_7_Perm">You Shall Not Pass</string>
+	<string key="ui_seasons_task_name_WinInfluenceRace_1" rel_version="Season_7_Perm">Venii, Vidii, Vicii 1</string>
+	<string key="ui_seasons_task_name_WinInfluenceRace_2" rel_version="Season_7_Perm">Venii, Vidii, Vicii 2</string>
+	<string key="ui_seasons_task_name_KillEliteFirstLight" rel_version="Season_7_Perm">Top of the Food Chain</string>
+	<string key="ui_seasons_task_description_KillEliteFirstLight" rel_version="Season_7_Perm">Kill {maxCount} Elite Enemies in Elysian Wilds</string>
+	<string key="ui_seasons_task_name_CompleteAnyArtifact" rel_version="Season_7_Perm">Magnum Opus</string>
+	<string key="ui_seasons_task_description_CompleteAnyArtifact" rel_version="Season_7_Perm">Complete {maxCount} Artifact Quest(s)</string>
+	<string key="ui_seasons_task_name_CompleteTownProjects" rel_version="Season_7_Perm">Keeper of the City</string>
+	<string key="ui_seasons_task_name_KillPlayerCutlassKeys" rel_version="Season_7_Perm">Keep What You Kill</string>
+	<string key="ui_seasons_task_description_KillPlayerCutlassKeys" rel_version="Season_7_Perm">Kill {maxCount} players in the Cutlass Keys FFA zone</string>
+	<string key="ui_seasons_task_name_CompleteCutlassKeysRaid" rel_version="Season_7_Perm">Hero of the Hive</string>
+	<string key="ui_seasons_task_description_CompleteCutlassKeysRaid" rel_version="Season_7_Perm">Complete the Hive of Gorgons Raid {maxCount} time(s)</string>
+	<string key="ui_seasons_task_name_KillRaidBoss" rel_version="Season_7_Perm">Weed Whacker</string>
+	<string key="ui_seasons_task_description_KillRaidBoss" rel_version="Season_7_Perm">Kill {maxCount} Bosses in the Hive of Gorgons Raid</string>
+	<string key="ui_seasons_task_name_CraftGS725" rel_version="Season_7_Perm">Top Gear</string>
+	<string key="ui_seasons_task_description_CraftGS725" rel_version="Season_7_Perm">Craft {maxCount} GS 725 item(s).</string>
+	<string key="ui_seasons_task_name_CraftPrismaticResources" rel_version="Season_7_Perm">All That Glitters</string>
+	<string key="ui_seasons_task_description_CraftPrismaticResources" rel_version="Season_7_Perm">Craft {maxCount} Prismatic resources</string>
+	<string key="ui_seasons_task_name_CraftWithApex" rel_version="Season_7_Perm">Master Crafted</string>
+	<string key="ui_seasons_task_description_CraftWithApex" rel_version="Season_7_Perm">Craft {maxCount} item(s) using Apex Crafting resources</string>
+	<string key="ui_seasons_task_name_GatherCKPvPDoubloon" rel_version="Season_7_Perm">Prolific Pilferer</string>
+	<string key="ui_seasons_task_description_GatherCKPvPDoubloon" rel_version="Season_7_Perm">Loot {maxCount} Cursed Doubloons from chests and containers in the Cutlass Keys FFA Zone</string>
+	<string key="ui_seasons_task_name_GatherCKPvPBuriedTreasure" rel_version="Season_7_Perm">X Marks the Spot</string>
+	<string key="ui_seasons_task_description_GatherCKPvPBuriedTreasure" rel_version="Season_7_Perm">Loot Doubloons from {maxCount} Buried Elite Doubloon Caches in the Cutlass Keys FFA Zone</string>
+	<string key="ui_seasons_task_name_KillEliteSeasonalBoss" rel_version="Season_7_Perm">Titan Slayer</string>
+	<string key="ui_seasons_task_description_KillEliteSeasonalBoss" rel_version="Season_7_Perm">Kill {maxCount} Elite or Seasonal Trial Bosses</string>
+	<string key="ui_seasons_task_name_CompleteSeasonalChallenge" rel_version="Feature_Seasons_Rewards">Deeds Worthy of Legend</string>
+	<string key="ui_seasons_task_name_Challenge_DamageOrHealRaid" rel_version="Season_7_Perm">Broodmother's Bane</string>
+	<string key="ui_seasons_task_description_Challenge_DamageOrHealRaid" rel_version="Season_7_Perm">Deal or Heal {maxCount} damage in the Hive of Gorgons Raid</string>
+	<string key="ui_seasons_task_name_ReachLevel25SS" rel_version="Feature_Seasonal_Servers">Beginning Anew I</string>
+	<string key="ui_seasons_task_description_ReachLevel25SS" rel_version="Feature_Seasonal_Servers">Reach level 25 on a Seasonal Server</string>
+	<string key="ui_seasons_task_name_ReachLevel35SS" rel_version="Feature_Seasonal_Servers">Beginning Anew II</string>
+	<string key="ui_seasons_task_description_ReachLevel35SS" rel_version="Feature_Seasonal_Servers">Reach level 35 on a Seasonal Server</string>
+	<string key="ui_seasons_task_name_ReachLevel45SS" rel_version="Feature_Seasonal_Servers">Beginning Anew III</string>
+	<string key="ui_seasons_task_description_ReachLevel45SS" rel_version="Feature_Seasonal_Servers">Reach level 45 on a Seasonal Server</string>
+	<string key="ui_seasons_task_name_ReachLevel55SS" rel_version="Feature_Seasonal_Servers">Beginning Anew IV</string>
+	<string key="ui_seasons_task_description_ReachLevel55SS" rel_version="Feature_Seasonal_Servers">Reach level 55 on a Seasonal Server</string>
+	<string key="ui_seasons_task_name_ReachLevel65SS" rel_version="Feature_Seasonal_Servers">Beginning Anew V</string>
+	<string key="ui_seasons_task_description_ReachLevel65SS" rel_version="Feature_Seasonal_Servers">Reach level 65 on a Seasonal Server</string>
+	<string key="ui_seasons_task_name_KillPlayerOpenWorldSS_1" rel_version="Feature_Seasonal_Servers">Open World Warrior I</string>
+	<string key="ui_seasons_task_name_KillPlayerOpenWorldSS_2" rel_version="Feature_Seasonal_Servers">Open World Warrior II</string>
+	<string key="ui_seasons_task_name_KillPlayerOpenWorldSS_3" rel_version="Feature_Seasonal_Servers">Open World Warrior III</string>
+	<string key="ui_seasons_task_name_KillPlayerOpenWorldSS_4" rel_version="Feature_Seasonal_Servers">Open World Warrior IV</string>
+	<string key="ui_seasons_task_name_KillPlayerOpenWorldSS_5" rel_version="Feature_Seasonal_Servers">Open World Warrior V</string>
+	<string key="ui_seasons_task_description_KillPlayerOpenWorldSS" rel_version="Feature_Seasonal_Servers">Kill {maxCount} Players for Azoth Salt in the Open World on a Seasonal Server</string>
+	<string key="ui_seasons_task_name_CaptureFactionControlPointsSS_1" rel_version="Feature_Seasonal_Servers">Neighborhood Nemesis I</string>
+	<string key="ui_seasons_task_name_CaptureFactionControlPointsSS_2" rel_version="Feature_Seasonal_Servers">Neighborhood Nemesis II</string>
+	<string key="ui_seasons_task_name_CaptureFactionControlPointsSS_3" rel_version="Feature_Seasonal_Servers">Neighborhood Nemesis III</string>
+	<string key="ui_seasons_task_name_CaptureFactionControlPointsSS_4" rel_version="Feature_Seasonal_Servers">Neighborhood Nemesis IV</string>
+	<string key="ui_seasons_task_name_CaptureFactionControlPointsSS_5" rel_version="Feature_Seasonal_Servers">Neighborhood Nemesis V</string>
+	<string key="ui_seasons_task_description_CaptureFactionControlPointsSingleSS" rel_version="Feature_Seasonal_Servers">Capture a Faction Control Point on a Seasonal Server</string>
+	<string key="ui_seasons_task_description_CaptureFactionControlPointsSS" rel_version="Feature_Seasonal_Servers">Capture {maxCount} Faction Control Points on a Seasonal Server</string>
+	<string key="ui_seasons_task_name_CraftEtherealSS_1" rel_version="Feature_Seasonal_Servers">Ethereal Expert I</string>
+	<string key="ui_seasons_task_name_CraftEtherealSS_2" rel_version="Feature_Seasonal_Servers">Ethereal Expert II</string>
+	<string key="ui_seasons_task_name_CraftEtherealSS_3" rel_version="Feature_Seasonal_Servers">Ethereal Expert III</string>
+	<string key="ui_seasons_task_name_CraftEtherealSS_4" rel_version="Feature_Seasonal_Servers">Ethereal Expert IV</string>
+	<string key="ui_seasons_task_name_CraftEtherealSS_5" rel_version="Feature_Seasonal_Servers">Ethereal Expert V</string>
+	<string key="ui_seasons_task_description_CraftEtherealSS" rel_version="Feature_Seasonal_Servers">Craft {maxCount} Ethereal recipes on a Seasonal Server</string>
+	<string key="ui_seasons_task_name_InfluenceRaceSS_1" rel_version="Feature_Seasonal_Servers">Seasonal Soldier I</string>
+	<string key="ui_seasons_task_name_InfluenceRaceSS_2" rel_version="Feature_Seasonal_Servers">Seasonal Soldier II</string>
+	<string key="ui_seasons_task_name_InfluenceRaceSS_3" rel_version="Feature_Seasonal_Servers">Seasonal Soldier III</string>
+	<string key="ui_seasons_task_description_ParticipateInfluenceRaceSS" rel_version="Feature_Seasonal_Servers">Participate in {maxCount} Influence Races on a Seasonal Server</string>
+	<string key="ui_seasons_task_name_CatchNonFishSS" rel_version="Feature_Seasonal_Servers">How'd That Get There?</string>
+	<string key="ui_seasons_task_description_CatchNonFishSS" rel_version="Feature_Seasonal_Servers">Catch {maxCount} non-Fish on a Seasonal Server</string>
+	<string key="ui_seasons_task_name_KillStubblesMeleeSS" rel_version="Feature_Seasonal_Servers">Hail to the King</string>
+	<string key="ui_seasons_task_description_KillStubblesMeleeSS" rel_version="Feature_Seasonal_Servers">Kill Stubbles the Goat-King on a Seasonal Server</string>
+	<string key="ui_seasons_task_name_KillGoatSS" rel_version="Feature_Seasonal_Servers">Cult of the Kid</string>
+	<string key="ui_seasons_task_description_KillGoatSS" rel_version="Feature_Seasonal_Servers">Kill {maxCount} Goats on a Seasonal Server</string>
+	<string key="ui_seasons_task_name_KillNamedBeastSpearSS" rel_version="Feature_Seasonal_Servers">Man vs Wild</string>
+	<string key="ui_seasons_task_description_KillNamedBeastSpearSS" rel_version="Feature_Seasonal_Servers">Kill {maxCount} Named Beasts with a Spear on a Seasonal Server</string>
 	<string key="ui_seasons_wild_stamp_count" rel_version="Feature_Seasons_Rewards">&lt;img src="LyShineUI/Images/SeasonsRewards/Wild-Stamp-Icon-Small" scale="2" yOffset="7"&gt;&lt;/img&gt; Wild Stamps: {count}</string>
 	<string key="ui_seasons_wild_stamp_count_and_max" rel_version="Feature_Seasons_Rewards">&lt;img src="LyShineUI/Images/SeasonsRewards/Wild-Stamp-Icon-Small" scale="2" yOffset="7"&gt;&lt;/img&gt; Wild Stamps: {count}/{max}</string>
 	<string key="ui_seasons_wild_stamp_awarded_header" rel_version="Feature_Seasons_Rewards">Wild Stamp Bonus</string>
@@ -908,6 +1033,8 @@ Discover the full collection of rewards, including &lt;font color="#edc63e"&gt;7
 	<string key="SeasonsActivities_Heal5k" rel_version="Season_6_Perm">Heal Damage</string>
 	<string key="SeasonsActivities_CompleteAnyQuest" rel_version="Season_6_Perm">Complete a Quest</string>
 	<string key="SeasonsActivities_KillNamedCutlassKeys" rel_version="Season_6_Perm">Kill a Named Enemy in Cutlass Keys</string>
+	<string key="SeasonsActivities_KillPlayerMelee" rel_version="Season_7_Perm">Kill a Player with a Melee Weapon</string>
+	<string key="SeasonsActivities_KillNamedExpedition" rel_version="Season_7_Perm">Kill a Named Enemy in an Expedition</string>
 	<string key="ui_seasons_task_placeholder_name" rel_version="Feature_Seasons_Rewards">PLACEHOLDER</string>
 	<string key="ui_seasons_task_placeholder_desc" rel_version="Feature_Seasons_Rewards">PLACEHOLDER</string>
 </resources>

@@ -1,5 +1,9 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<string key="hidehelmet_TransmogName">Hide Headgear</string>
+	<string key="hidechest_TransmogName">Hide Chestwear</string>
+	<string key="hidehands_TransmogName">Hide Handwear</string>
+	<string key="hidelegs_TransmogName">Hide Legwear</string>
+	<string key="hidefeet_TransmogName">Hide Footwear</string>
 	<string key="1hBrokenOarT1_TransmogName">Broken Oar</string>
 	<string key="Conquistador_Helm_T1_TransmogName">Iron Explorer's Heavy Headwear</string>
 	<string key="Conquistador_Chest_T1_TransmogName">Iron Explorer's Heavy Chestwear</string>
@@ -1812,6 +1816,23 @@
 	<string key="2hBlunderbussUnholyDepthsFireT5_TransmogName" rel_version="EmpyreanForge_Dungeon_Rewards">Unholy Fire Blunderbuss</string>
 	<string key="2hGreatswordUnholyDepthsFireT5_TransmogName" rel_version="EmpyreanForge_Dungeon_Rewards">Unholy Fire Greatsword</string>
 	<string key="1hFlailUnholyDepthsFireT5_TransmogName" rel_version="Weapon_Flail">Unholy Fire Flail</string>
+	<string key="2hBowCasualWarT5_TransmogName" rel_version="Casual_War_Weapons">Silver Skirmish Bow</string>
+	<string key="2hGreatAxeCasualWarT5_TransmogName" rel_version="Casual_War_Weapons">Silver Skirmish Great Axe</string>
+	<string key="1hKiteShieldCasualWarT5_TransmogName" rel_version="Casual_War_Weapons">Silver Skirmish Kite Shield</string>
+	<string key="1hSwordCasualWarT5_TransmogName" rel_version="Casual_War_Weapons">Silver Skirmish Longsword</string>
+	<string key="2hMusketCasualWarT5_TransmogName" rel_version="Casual_War_Weapons">Silver Skirmish Musket</string>
+	<string key="1hRapierCasualWarT5_TransmogName" rel_version="Casual_War_Weapons">Silver Skirmish Rapier</string>
+	<string key="1hRoundShieldCasualWarT5_TransmogName" rel_version="Casual_War_Weapons">Silver Skirmish Round Shield</string>
+	<string key="2hSpearCasualWarT5_TransmogName" rel_version="Casual_War_Weapons">Silver Skirmish Spear</string>
+	<string key="1hHatchetCasualWarT5_TransmogName" rel_version="Casual_War_Weapons">Silver Skirmish Hatchet</string>
+	<string key="2hWarhammerCasualWarT5_TransmogName" rel_version="Casual_War_Weapons">Silver Skirmish War Hammer</string>
+	<string key="2hFireStaffCasualWarT5_TransmogName" rel_version="Casual_War_Weapons">Silver Skirmish Fire Staff</string>
+	<string key="2hLifeStaffCasualWarT5_TransmogName" rel_version="Casual_War_Weapons">Silver Skirmish Life Staff</string>
+	<string key="1hTowerShieldCasualWarT5_TransmogName" rel_version="Casual_War_Weapons">Silver Skirmish Tower Shield</string>
+	<string key="2hIceGauntletCasualWarT5_TransmogName" rel_version="Casual_War_Weapons">Silver Skirmish Ice Gauntlet</string>
+	<string key="2hVoidGauntletCasualWarT5_TransmogName" rel_version="Casual_War_Weapons">Silver Skirmish Void Gauntlet</string>
+	<string key="2hBlunderbussCasualWarT5_TransmogName" rel_version="Casual_War_Weapons">Silver Skirmish Blunderbuss</string>
+	<string key="2hGreatswordCasualWarT5_TransmogName" rel_version="Casual_War_Weapons">Silver Skirmish Greatsword</string>
 	<string key="2hBowCondemedSacrariumT5_TransmogName" rel_version="EmpyreanForge_Mutator_Rewards">Condemned Sacrarium Bow</string>
 	<string key="2hGreatAxeCondemedSacrariumT5_TransmogName" rel_version="EmpyreanForge_Mutator_Rewards">Condemned Sacrarium Great Axe</string>
 	<string key="1hKiteShieldCondemedSacrariumT5_TransmogName" rel_version="EmpyreanForge_Mutator_Rewards">Condemned Sacrarium Kite Shield</string>
@@ -3116,7 +3137,7 @@
 	<string key="2hicegauntletGlassT3_TransmogName">Glass Steel Ice Gauntlet</string>
 	<string key="2hMusketGlassT3_TransmogName">Glass Steel Musket</string>
 	<string key="2hBowGlassT3_TransmogName">Glass Steel Bow</string>
-	<string key="2hWarhammerGlassT3_TransmogName">Glass Steel War Hammer</string>
+	<string key="2hWarhammerGlassT3_TransmogName">Gilded Steel War Hammer</string>
 	<string key="1hThrowingAxeGlassT3_TransmogName">Glass Steel Hatchet</string>
 	<string key="2hStaffLifeGlassT3_TransmogName">Glass Steel Life Staff</string>
 	<string key="2hStaffFireGlassT3_TransmogName">Glass Steel Fire Staff</string>
@@ -3126,8 +3147,8 @@
 	<string key="2hicegauntletGlassT4_TransmogName">Glass Starmetal Ice Gauntlet</string>
 	<string key="2hMusketGlassT4_TransmogName">Glass Starmetal Musket</string>
 	<string key="2hBowGlassT4_TransmogName">Glass Starmetal Bow</string>
-	<string key="2hWarhammerGlassT4_TransmogName">Glass Starmetal War Hammer</string>
-	<string key="2hgreatswordGlassT4_TransmogName">Glass Starmetal Greatsword</string>
+	<string key="2hWarhammerGlassT4_TransmogName">Gilded Starmetal War Hammer</string>
+	<string key="2hgreatswordGlassT4_TransmogName">Gilded Starmetal Greatsword</string>
 	<string key="2hGreatAxeGlassT4_TransmogName">Glass Starmetal Great Axe</string>
 	<string key="1hThrowingAxeGlassT4_TransmogName">Glass Starmetal Hatchet</string>
 	<string key="2hStaffLifeGlassT4_TransmogName">Glass Starmetal Life Staff</string>
@@ -3141,8 +3162,8 @@
 	<string key="2hMusketGlassT5_TransmogName">Glass Orichalcum Musket</string>
 	<string key="2hBowGlassT5_TransmogName">Glass Orichalcum Bow</string>
 	<string key="2hWarhammerAureateGlassT5_TransmogName" comment="UNUSED">Blown Glass War Hammer</string>
-	<string key="2hWarhammerGlassT5_TransmogName">Glass Orichalcum War Hammer</string>
-	<string key="2hgreatswordGlassT5_TransmogName">Glass Orichalcum Greatsword</string>
+	<string key="2hWarhammerGlassT5_TransmogName">Gilded Orichalcum War Hammer</string>
+	<string key="2hgreatswordGlassT5_TransmogName">Gilded Orichalcum Greatsword</string>
 	<string key="1hRoundShieldGlassT5_TransmogName">Glass Orichalcum Round Shield</string>
 	<string key="2hGreatAxeGlassT5_TransmogName">Glass Orichalcum Great Axe</string>
 	<string key="1hThrowingAxeGlassT5_TransmogName">Glass Orichalcum Hatchet</string>
@@ -5004,7 +5025,7 @@
 	<string key="1hFlailEtherealT4_TransmogName">Ethereal Starmetal Flail</string>
 	<string key="1hFlailElegantT4_TransmogName">Elegant Starmetal Flail</string>
 	<string key="1hFlailFaeT4_TransmogName">Fae Starmetal Flail</string>
-	<string key="1hFlailGlassT4_TransmogName">Glass Starmetal Flail</string>
+	<string key="1hFlailGlassT4_TransmogName">Gilded Starmetal Flail</string>
 	<string key="1hFlailImmolatedT4_TransmogName">Immolated Starmetal Flail</string>
 	<string key="1hFlailViciousT4_TransmogName">Vicious Starmetal Flail</string>
 	<string key="1hFlailVinespunT4_TransmogName">Vinespun Starmetal Flail</string>
@@ -5013,7 +5034,7 @@
 	<string key="1hFlailEtherealT5_TransmogName">Ethereal Orichalcum Flail</string>
 	<string key="1hFlailElegantT5_TransmogName">Elegant Orichalcum Flail</string>
 	<string key="1hFlailFaeT5_TransmogName">Fae Orichalcum Flail</string>
-	<string key="1hflailGlassT5_TransmogName">Glass Orichalcum Flail</string>
+	<string key="1hflailGlassT5_TransmogName">Gilded Orichalcum Flail</string>
 	<string key="1hFlailImmolatedT5_TransmogName">Immolated Orichalcum Flail</string>
 	<string key="1hFlailViciousT5_TransmogName">Vicious Orichalcum Flail</string>
 	<string key="1hFlailVinespunT5_TransmogName">Vinespun Orichalcum Flail</string>

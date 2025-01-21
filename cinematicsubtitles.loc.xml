@@ -220,7 +220,7 @@
 	<string key="DarkCommand06" start="35" end="43" speaker="Captain Thorpe" dialogue-next="DarkCommand07">Embracing inhuman toil and suffering as the path to my return.</string>
 	<string key="DarkCommand07" start="43" end="49" speaker="Captain Thorpe" dialogue-next="DarkCommand08">Time came when I could again prove my prowess in battle.</string>
 	<string key="DarkCommand08" start="49" end="56" speaker="Captain Thorpe" dialogue-next="DarkCommand09">No man nor demon could withstand my newfound might.</string>
-	<string key="DarkCommand09" start="56" end="61" speaker="Captain Thorpe" dialogue-next="DarkCommand10">My dominion established, a new destiny earned...</string>
+	<string key="DarkCommand09" start="56" end="61" speaker="Captain Thorpe" dialogue-next="DarkCommand10">My domination established, a new destiny earned...</string>
 	<string key="DarkCommand10" start="62" end="69" speaker="Captain Thorpe" dialogue-next="DarkCommand11">The voice of truth pronounced ME as champion of our righteous cause.</string>
 	<string key="DarkCommand11" start="69" end="75" speaker="Captain Thorpe" dialogue-next="DarkCommand12">And I led our armies to victory again and again...</string>
 	<string key="DarkCommand12" start="75" end="81" speaker="Captain Thorpe" dialogue-next="DarkCommand13">The remnants of ragged humanity crushed along the way...</string>
@@ -410,6 +410,16 @@
 	<string key="Ritual_01" start="3.3" end="4.9" speaker="Yonas Alazar" dialogue-next="Ritual_02">Be still.</string>
 	<string key="Ritual_02" start="23.8" end="27" speaker="Yonas Alazar" dialogue-next="Ritual_03">The ritual is complete.</string>
 	<string key="Ritual_03" start="27.1" end="34.2" speaker="Yonas Alazar">For better or worse, you are now a true Soulwarden.</string>
+	<string key="NewElysianIntro01" start="0" end="4.5" speaker="Morgaine" dialogue-next="NewElysianIntro02">The furious vengeance of the Angry Earth has ravaged First Light.</string>
+	<string key="NewElysianIntro02" start="5" end="7.2" speaker="Morgaine" dialogue-next="NewElysianIntro03">We should have seen this coming...</string>
+	<string key="NewElysianIntro03" start="7.8" end="10.6" speaker="Morgaine" dialogue-next="NewElysianIntro04">I... should have seen this coming.</string>
+	<string key="NewElysianIntro04" start="11.2" end="19" speaker="Taurus" dialogue-next="NewElysianIntro05">Eternity... wasted on human ambition.</string>
+	<string key="NewElysianIntro05" start="23.2" end="30" speaker="Taurus" dialogue-next="NewElysianIntro06">Time has no claim on the Eternal Isle.</string>
+	<string key="NewElysianIntro06" start="34.7" end="38.6" speaker="Taurus" dialogue-next="NewElysianIntro07">Nature must rise and reign.</string>
+	<string key="NewElysianIntro07" start="40.3" end="44.7" speaker="Artemis" dialogue-next="NewElysianIntro08">Mighty Lords, let us cleanse these lands.</string>
+	<string key="NewElysianIntro08" start="52" end="55.1" speaker="Taurus" dialogue-next="NewElysianIntro09">Change will come.</string>
+	<string key="NewElysianIntro09" start="60" end="62" speaker="Artemis" dialogue-next="NewElysianIntro10">End them.</string>
+	<string key="NewElysianIntro10" start="65.1" end="71.7" speaker="Taurus">But the future is fixed for neither man nor beast.</string>
 	<string key="FinalCinePlaceholderSub01" start="1" end="15">Placeholder video for the final version.</string>
 </resources>
 

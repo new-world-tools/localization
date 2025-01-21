@@ -40,6 +40,7 @@
 	<string key="ui_or_capture_point_contests" comment="Total amount of time spent contesting a capture point by player">Objective Points</string>
 	<string key="ui_or_total_resources_deposited" comment="Total of all resources contributed by player">Total Resources Contributed</string>
 	<string key="ui_or_player_damage_blocked" comment="Total amount of damage blocked by the player">Damage Blocked</string>
+	<string key="ui_or_kills_deaths_assists" comment="Replacement string for the 3 stats">{kills}/{deaths}/{assists}</string>
 	<string key="ui_war_eom_overview_tab">Overview</string>
 	<string key="ui_war_eom_performance_tab">Performance</string>
 	<string key="ui_war_eom_rankings_tab">Rankings</string>
@@ -54,13 +55,15 @@
 	<string key="ui_war_eom_sort_button_assists">Assists</string>
 	<string key="ui_war_eom_sort_button_healing">Healing</string>
 	<string key="ui_war_eom_sort_button_damage">Damage</string>
+	<string key="ui_war_eom_sort_button_kda">K/D/A</string>
+	<string key="ui_war_eom_sort_button_damage_blocked">Damage Blocked</string>
 	<string key="ui_war_eom_sort_button_player_kills">PLAYER KILLS</string>
 	<string key="ui_war_eom_sort_button_npc_kills">NPC KILLS</string>
 	<string key="ui_war_eom_sort_button_ore_deposited">ORE</string>
 	<string key="ui_war_eom_sort_button_wood_deposited">WOOD</string>
 	<string key="ui_war_eom_sort_button_hide_deposited">HIDE</string>
 	<string key="ui_war_eom_sort_button_azoth_deposited">AZOTH</string>
-	<string key="ui_war_eom_sort_button_total_resources_deposited">RESOURCES</string>
+	<string key="ui_war_eom_sort_button_total_resources_deposited">RESOURCES USED</string>
 	<string key="ui_war_eom_performance_weapon_damage">Weapon Damage</string>
 	<string key="ui_war_eom_performance_weapon_takedown">Weapon Kills</string>
 	<string key="ui_war_eom_performance_siege_damage">Siege Damage</string>

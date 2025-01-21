@@ -984,6 +984,81 @@
 	<string key="MTX_PreOrder_Deluxe_Legs_Name" rel_version="ConsoleLaunch">The Seat of Malice</string>
 	<string key="MTX_PreOrder_Deluxe_Feet_Name" rel_version="ConsoleLaunch">The Tread of Malice</string>
 	<string key="MTX_PreOrder_Deluxe_Desc" rel_version="ConsoleLaunch">Where Corruption blooms, Malice follows.</string>
+	<string key="Skin_MTX_Valkyrie_Feathered_chest_Name" rel_version="Armor_Valkyrie">Proud Wings of the Valkyrie</string>
+	<string key="Skin_MTX_Valkyrie_Feathered_head_Name" rel_version="Armor_Valkyrie">Noble Heart of the Valkyrie</string>
+	<string key="Skin_MTX_Valkyrie_Feathered_legs_Name" rel_version="Armor_Valkyrie">Guiding Hand of the Valkyrie</string>
+	<string key="Skin_MTX_Valkyrie_Feathered_feet_Name" rel_version="Armor_Valkyrie">Honored Seat of the Valkyrie</string>
+	<string key="Skin_MTX_Valkyrie_Feathered_hands_Name" rel_version="Armor_Valkyrie">Leading Steps of the Valkyrie</string>
+	<string key="Skin_MTX_Valkyrie_Feathered_Desc" rel_version="Armor_Valkyrie">From the halls of Odin to the fields of Aeternum flies she who knows only victory.</string>
+	<string key="Skin_MTX_Valkyrie_Coiled_chest_Name" rel_version="Armor_Valkyrie">Valhallan Fallen's Hjálmr</string>
+	<string key="Skin_MTX_Valkyrie_Coiled_head_Name" rel_version="Armor_Valkyrie">Valhallan Fallen's Brjóst</string>
+	<string key="Skin_MTX_Valkyrie_Coiled_legs_Name" rel_version="Armor_Valkyrie">Valhallan Fallen's Baugr</string>
+	<string key="Skin_MTX_Valkyrie_Coiled_feet_Name" rel_version="Armor_Valkyrie">Valhallan Fallen's Brók</string>
+	<string key="Skin_MTX_Valkyrie_Coiled_hands_Name" rel_version="Armor_Valkyrie">Valhallan Fallen's Skór</string>
+	<string key="Skin_MTX_Valkyrie_Coiled_Desc" rel_version="Armor_Valkyrie">There are those who believe Aeternum to be the true immortal battlefield.</string>
+	<string key="Skin_MTX_2hGreatAxe_Valkyrie_Name" rel_version="Weapons_Valkyrie">Nordic Bolox</string>
+	<string key="Skin_MTX_2hGreatAxe_Valkyrie_Desc" rel_version="Weapons_Valkyrie">May the Allfather guide your strike.</string>
+	<string key="Skin_MTX_2hGreatsword_Valkyrie_Name" rel_version="Weapons_Valkyrie">Nordic Hjorr</string>
+	<string key="Skin_MTX_2hGreatsword_Valkyrie_Desc" rel_version="Weapons_Valkyrie">May the Allfather guide your blade.</string>
+	<string key="Skin_MTX_2hBow_Valkyrie_Name" rel_version="Weapons_Valkyrie">Nordic Bogi</string>
+	<string key="Skin_MTX_2hBow_Valkyrie_Desc" rel_version="Weapons_Valkyrie">May the Allfather guide your shot.</string>
+	<string key="Skin_MTX_2hLifeStaff_Valkyrie_Name" rel_version="Weapons_Valkyrie">Nordic Heillgandr</string>
+	<string key="Skin_MTX_2hLifeStaff_Valkyrie_Desc" rel_version="Weapons_Valkyrie">May the Allfather guide your hand.</string>
+	<string key="Jan2025_Container_Name" rel_version="Entitlements_Valkyrie">Spoils of Eternal War</string>
+	<string key="Jan2025_Container_Desc" rel_version="Entitlements_Valkyrie">A boon granted unto those who faught valiantely on the eternal battlefield.</string>
+	<string key="Mar2025_Container_Name" rel_version="Entitlements_ThickThieves">Privateer's Personal Lockbox</string>
+	<string key="Mar2025_Container_Desc" rel_version="Entitlements_ThickThieves">Stacked to the brim with a privateer's bountiful profit.</string>
+	<string key="MTX_ThickAsThieves_Noble_chest_Name" rel_version="Armor_ThickThieves">Roguish Privateer's Elaborate Jerkin</string>
+	<string key="MTX_ThickAsThieves_Noble_head_Name" rel_version="Armor_ThickThieves">Roguish Privateer's Posh Cowl</string>
+	<string key="MTX_ThickAsThieves_Noble_legs_Name" rel_version="Armor_ThickThieves">Roguish Privateer's Fitted Chaps</string>
+	<string key="MTX_ThickAsThieves_Noble_feet_Name" rel_version="Armor_ThickThieves">Roguish Privateer's Leather Jockeys</string>
+	<string key="MTX_ThickAsThieves_Noble_hands_Name" rel_version="Armor_ThickThieves">Roguish Privateer's Lace Ruffles</string>
+	<string key="MTX_ThickAsThieves_Noble_Desc" rel_version="Armor_ThickThieves">One cannot recant a developed taste for refinery, no matter their code or conduct.</string>
+	<string key="MTX_1hRapier_ThickAsThieves_Name" rel_version="Weapons_ThickThieves">Privateer's Needlepoint</string>
+	<string key="MTX_1hRapier_ThickAsThieves_Desc" rel_version="Weapons_ThickThieves">Cuts like a thread through silk.</string>
+	<string key="MTX_2hSpear_ThickAsThieves_Name" rel_version="Weapons_ThickThieves">Privateer's Anchor Point</string>
+	<string key="MTX_2hSpear_ThickAsThieves_Desc" rel_version="Weapons_ThickThieves">Once it digs in, there's no letting go.</string>
+	<string key="MTX_1hHatchet_ThickAsThieves_Name" rel_version="Weapons_ThickThieves">Privateer's Boarding Axe</string>
+	<string key="MTX_1hHatchet_ThickAsThieves_Desc" rel_version="Weapons_ThickThieves">Ahoy!</string>
+	<string key="MTX_2hGreatsword_ThickAsThieves_Name" rel_version="Weapons_ThickThieves">Privateer's Greathook</string>
+	<string key="MTX_2hGreatsword_ThickAsThieves_Desc" rel_version="Weapons_ThickThieves">Used for more than catching whales.</string>
+	<string key="MTX_2hBow_ThickAsThieves_Name" rel_version="Weapons_ThickThieves">Privateer's Hookshot</string>
+	<string key="MTX_2hBow_ThickAsThieves_Desc" rel_version="Weapons_ThickThieves">Perfect for firing boarding hooks.</string>
+	<string key="MTX_2hMusket_ThickAsThieves_Name" rel_version="Weapons_ThickThieves">Privateer's Volley</string>
+	<string key="MTX_2hMusket_ThickAsThieves_Desc" rel_version="Weapons_ThickThieves">Don't expect a warning shot.</string>
+	<string key="Feb2025_Container_Name" rel_version="Entitlements_Barbarian">Hoard of the Mountain Chief</string>
+	<string key="Feb2025_Container_Desc" rel_version="Entitlements_Barbarian">Everything neccesary for a pre-battle feast.</string>
+	<string key="MTX_Barbarian_Apparel1_chest_Name" rel_version="Entitlements_Barbarian">Barbaric Warlord's Ivory Mantle</string>
+	<string key="MTX_Barbarian_Apparel1_head_Name" rel_version="Entitlements_Barbarian">Barbaric Warlord's Rearing Horns</string>
+	<string key="MTX_Barbarian_Apparel1_legs_Name" rel_version="Entitlements_Barbarian">Barbaric Warlord's Iron Plates</string>
+	<string key="MTX_Barbarian_Apparel1_feet_Name" rel_version="Entitlements_Barbarian">Barbaric Warlord's Padded Boots</string>
+	<string key="MTX_Barbarian_Apparel1_hands_Name" rel_version="Entitlements_Barbarian">Barbaric Warlord's Gauntlets</string>
+	<string key="MTX_Barbarian_Apparel1_Armor_Desc" rel_version="Entitlements_Barbarian">Violence is inevitable. Hatred is eternal. Yield now or forever be broken.</string>
+	<string key="MTX_2hSpear_Barbarian_Name" rel_version="Entitlements_Barbarian">Barbaric Impaler</string>
+	<string key="MTX_2hSpear_Barbarian_Desc" rel_version="Entitlements_Barbarian">Point taken.</string>
+	<string key="MTX_1hHatchet_Barbarian_Name" rel_version="Entitlements_Barbarian">Barbaric Chopper</string>
+	<string key="MTX_1hHatchet_Barbarian_Desc" rel_version="Entitlements_Barbarian">This hatchet will definitely never be buried.</string>
+	<string key="MTX_2hGreatsword_Barbarian_Name" rel_version="Entitlements_Barbarian">Barbaric Cleaver</string>
+	<string key="MTX_2hGreatsword_Barbarian_Desc" rel_version="Entitlements_Barbarian">You do not want to get hit by this thing.</string>
+	<string key="MTX_2hWarhammer_Barbarian_Name" rel_version="Entitlements_Barbarian">Barbaric Pulverizer</string>
+	<string key="MTX_2hWarhammer_Barbarian_Desc" rel_version="Entitlements_Barbarian">Savored to the last drop.</string>
+	<string key="MTX_CatEar_FunnyHat_Name" rel_version="Season_7_Perm">Feline Headband</string>
+	<string key="MTX_CatEar_FunnyHat_Desc" rel_version="Season_7_Perm">You look paw-sitively ridiculous.</string>
+	<string key="MTX_TopHat_FunnyHat_Name" rel_version="Season_7_Perm">Spiffing Tophat</string>
+	<string key="MTX_TopHat_FunnyHat_Desc" rel_version="Season_7_Perm">You're looking quite dapper, indeed!</string>
+	<string key="MTX_Bucket_FunnyHat_Name" rel_version="Season_7_Perm">Literal Bucket Helmet</string>
+	<string key="MTX_Bucket_FunnyHat_Desc" rel_version="Season_7_Perm">Although it's on your head, the bucket is somehow still empty.</string>
+	<string key="MTX_Beanie_FunnyHat_Name" rel_version="Season_7_Perm">Woolen Cap</string>
+	<string key="MTX_Beanie_FunnyHat_Desc" rel_version="Season_7_Perm">Warm and stylish!</string>
+	<string key="MTX_Frog_FunnyHat_Name" rel_version="Season_7_Perm">Knitted Frog Hat</string>
+	<string key="MTX_Frog_FunnyHat_Desc" rel_version="Season_7_Perm">Ribbit.</string>
+	<string key="PrimeGenericCache1_Container_Name" rel_version="Season_7_Perm">Tier 1 Prime Reward Cache</string>
+	<string key="PrimeGenericCache2_Container_Name" rel_version="Season_7_Perm">Tier 2 Prime Reward Cache</string>
+	<string key="PrimeGenericCache3_Container_Name" rel_version="Season_7_Perm">Tier 3 Prime Reward Cache</string>
+	<string key="TwitchGenericCache1_Container_Name" rel_version="Season_7_Perm">Tier 1 Twitch Reward Cache</string>
+	<string key="TwitchGenericCache2_Container_Name" rel_version="Season_7_Perm">Tier 2 Twitch Reward Cache</string>
+	<string key="TwitchGenericCache3_Container_Name" rel_version="Season_7_Perm">Tier 3 Twitch Reward Cache</string>
+	<string key="GenericCache_Container_Desc" rel_version="Season_7_Perm">Full of powerful goodies to aid in your journey through Aeternum.</string>
 	<string key="Dec2024_Container_Name" rel_version="Entitlements_WinterHoliday">Freshly-Wrapped Holiday Gift</string>
 	<string key="Dec2024_Container_Desc" rel_version="Entitlements_WinterHoliday">Stuffed with all kinds of festive goodies. Happy holidays!</string>
 	<string key="MTX_Nutcracker_Apparel1_chest_Name" rel_version="Entitlements_WinterHoliday">Nutcracker's Wooden Coatee</string>

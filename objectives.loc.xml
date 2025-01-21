@@ -416,6 +416,10 @@
 	<string key="Objective_Kill_Forged" rel_version="Feature_Expansion_1">Defeat Forged Varangians</string>
 	<string key="Objective_Kill_in_CK_Raid" rel_version="Feature_Artifacts_S6">Defeat {targetName} in the Gorgon's Hive</string>
 	<string key="Objective_CraftArtifact" rel_version="Feature_Expansion_1">Upgrade at the Gypsum Kiln</string>
+	<string key="LNY_tribute_table">Tribute to the Dragon</string>
+	<string key="LNY_tribute_table_description">Retrieve Heirlooms from the corrupted and cook a traditional tribute dish to call for the Dragon's Blessing. This event rotates between locations in Ebonscale Reach.</string>
+	<string key="LNY_settlement_firework">Lunar New Year Firework</string>
+	<string key="LNY_settlement_firework_description">Fireworks to celebrate the new year.</string>
 	<string key="Objective_Artifact_Set2_HeavyChest" rel_version="Feature_Artifacts_S6">Artifact: Survivor's Coat</string>
 	<string key="Objective_Artifact_Set2_HeavyHands" rel_version="Feature_Artifacts_S5">Artifact: Gilli's Gravity Gauntlets</string>
 	<string key="Objective_Artifact_Set2_HeavyLegs" rel_version="Feature_Artifacts_S5">Artifact: Ironheart</string>
@@ -427,9 +431,17 @@
 	<string key="Objective_Artifact_Set2_1hThrowingAxe" rel_version="Feature_Artifacts_S5">Artifact: Sin</string>
 	<string key="Objective_Artifact_Set2_2hWarhammer" rel_version="Feature_Artifacts_S6">Artifact: Trsna</string>
 	<string key="Objective_Artifact_Set2_2hGreatAxe" rel_version="Feature_Artifacts_S5">Artifact: Tempest Fury</string>
+	<string key="Objective_Artifact_Set2_2hBow" rel_version="Feature_Artifacts_S7">Artifact: Aconite</string>
+	<string key="Objective_Artifact_Set2_2hMusket" rel_version="Feature_Artifacts_S7">Artifact: Shrapnel</string>
+	<string key="Objective_Artifact_Set2_2hStaffFire" rel_version="Feature_Artifacts_S7">Artifact: Burnanator</string>
+	<string key="Objective_Artifact_Set2_2hStaffLife" rel_version="Feature_Artifacts_S7">Artifact: Heceta</string>
 	<string key="Objective_Artifact_Set2_2hSpear" rel_version="Feature_Artifacts_S5">Artifact: Venom</string>
+	<string key="Objective_Artifact_Set2_1hRapier" rel_version="Feature_Artifacts_S7">Artifact: Dorgort's Blade</string>
+	<string key="Objective_Artifact_Set2_1hGauntletIce" rel_version="Feature_Artifacts_S7">Artifact: Otzi</string>
+	<string key="Objective_Artifact_Set2_1hGauntletVoid" rel_version="Feature_Artifacts_S7">Artifact: Fracture</string>
 	<string key="Objective_Artifact_Set2_2hGreatSword" rel_version="Feature_Artifacts_S6">Artifact: Grace</string>
 	<string key="Objective_Artifact_Set2_1hFlail" rel_version="Feature_Artifacts_S6">Artifact: Power Stone</string>
+	<string key="Objective_Artifact_Set2_Earring1" rel_version="Feature_Artifacts_S7">Artifact: Justice</string>
 	<string key="Objective_Artifact_Set2_Ring1" rel_version="Feature_Artifacts_S6">Artifact: Elemental Band</string>
 	<string key="Objective_Artifact_Set2_Amulet1" rel_version="Feature_Artifacts_S5">Artifact: Phoenix</string>
 	<string key="99F_Enc_Liang_Objective_Title_description" rel_version="Quest_MSQ3_Ebonscale">The Prince of Ebonscale Reach is sealed within the confines of the Wood Temple, for the protection of the people and Liang himself.</string>

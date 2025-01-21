@@ -217,6 +217,7 @@
 	<string key="ui_raid_max_roster_changed_tooltip" comment="">Wars have a maximum of {maxRosterMembers} players. You cannot add any more players.</string>
 	<string key="ui_raid_member_empty" comment="">Empty</string>
 	<string key="ui_raid_leave_button" comment="">Leave</string>
+	<string key="ui_raid_leave_disabled_trial" comment="">You cannot leave a Raid during a Trial.</string>
 	<string key="ui_raid_leave_standby_button" comment="">Leave</string>
 	<string key="ui_raid_fill_button" comment="">Fill Roster</string>
 	<string key="ui_raid_signup_button" comment="">Sign Up</string>
@@ -243,7 +244,7 @@
 	<string key="ui_demote_disabled_min_tooltip" comment="">Can't demote this player any further.</string>
 	<string key="ui_remove_army" comment="">Remove from army</string>
 	<string key="ui_kick_raid_member_cooldown" comment="">Unable to kick from army for another {secRemaining} seconds.</string>
-	<string key="ui_kick_army" comment="">Kick and ban from war</string>
+	<string key="ui_kick_army" comment="">Kick and Ban (War)</string>
 	<string key="ui_kicked_from_army" comment="">You have been kicked from the army.</string>
 	<string key="ui_invasion_at" comment="">Invasion at</string>
 	<string key="ui_army_menu" comment="">Raid menu</string>

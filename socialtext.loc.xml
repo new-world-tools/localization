@@ -129,7 +129,7 @@
 	<string key="ui_leave_group">Leave Group</string>
 	<string key="ui_voice_chat">Voice Chat</string>
 	<string key="ui_blocked">Blocked</string>
-	<string key="ui_blocked_player">Successfully blocked player</string>
+	<string key="ui_blocked_player_notification">Successfully blocked player</string>
 	<string key="ui_unblocked_player">Successfully unblocked player</string>
 	<string key="ui_muted">Muted</string>
 	<string key="ui_muted_player">Successfully muted player</string>
@@ -241,6 +241,7 @@
 	<string key="ui_noOnline_group_body">You can search for a player by their player name.</string>
 	<string key="ui_noOnline_guild_header">You have no friends to invite to the company.</string>
 	<string key="ui_noOnline_guild_body">You can search for a player by their player name.</string>
+	<string key="ui_guild_motd_changed">{guildName}'s Message of the Day has been updated:\n{message}</string>
 	<string rel_version="Feature_Raid_Groups" key="ui_noOnline_raid_header">You have no online friends to invite to raid.</string>
 	<string rel_version="Feature_Raid_Groups" key="ui_noOnline_raid_body">You can search for a player by their player name.</string>
 	<string key="ui_reporter_make_good_title">Thank you for your player report!</string>
@@ -369,6 +370,9 @@
 	<string key="ui_notification_pvp_track_flagging_message">While flagged for PvP, you can attack and be attacked by other PvP flagged players. &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;Successful kills can get you Azoth Salt and PvP XP.&lt;/font&gt; \nYou also receive the following bonuses: &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;+10% XP, +3% Gathering Luck, +1% Global Luck&lt;/font&gt; for large/elite chests. \n\nWhen you leave the Sanctuary, you will have &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;{duration} of protection.&lt;/font&gt;</string>
 	<string key="ui_notification_pvp_checkpoint_unlocked">Checkpoint Unlocked</string>
 	<string key="ui_notification_pvp_reward_options">View Reward Options</string>
+	<string key="ui_notification_pvp_always_on_notification">PvP flag cannot be turned off in this world.</string>
+	<string key="ui_notification_pvp_always_on_leave_group_title">Flagging for PvP</string>
+	<string key="ui_notification_pvp_always_on_leave_group_text">Any group, raid, or queues you are in will be exited</string>
 	<string key="ui_notification_ffa_flagging_message" rel_version="Territory_CutlassKeys_Rework">While flagged for Free-For-All, you can attack all other Free-For-All flagged players. \n\nWhen you leave the Free-For-All area, you will have all your &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;Cursed Doubloons and Resources&lt;/font&gt; cleansed of the cursed status.</string>
 	<string key="ui_notification_ffa_flagged" rel_version="Territory_CutlassKeys_Rework">Flagged for Free-For-All.</string>
 	<string key="ui_notification_ffa_flagged_left_group" rel_version="Territory_CutlassKeys_Rework">Flagged for Free-For-All: Left Group</string>
@@ -382,9 +386,9 @@
 	<string key="ui_notification_ffa_dispersal_title" rel_version="Territory_CutlassKeys_Rework">Teleporting</string>
 	<string key="ui_notification_ffa_dispersal_desc" rel_version="Territory_CutlassKeys_Rework">Disperse From Other Players</string>
 	<string key="ui_notification_ffa_exit_title" rel_version="Territory_CutlassKeys_Rework">Cleansing Curse</string>
-	<string key="ui_notification_ffa_exit" rel_version="Territory_CutlassKeys_Rework">Free-For-All deactivating and cleansing any cursed items in your inventory</string>
+	<string key="ui_notification_ffa_exit" rel_version="Territory_CutlassKeys_Rework">Free-For-All deactivating and cleansing any cursed items in your inventory.</string>
 	<string key="ui_notification_ffa_items_converted_title" rel_version="Territory_CutlassKeys_Rework">Cleansing Complete</string>
-	<string key="ui_notification_ffa_items_converted" rel_version="Territory_CutlassKeys_Rework">All cursed items have been cleansed in your inventory</string>
+	<string key="ui_notification_ffa_items_converted" rel_version="Territory_CutlassKeys_Rework">All cursed items have been cleansed in your inventory.</string>
 	<string key="ui_pvp_rank_name_0">Recruit</string>
 	<string key="ui_pvp_rank_name_1">Steel</string>
 	<string key="ui_pvp_rank_name_2">Bronze</string>
@@ -457,6 +461,7 @@
 	<string key="ui_request_unfriend_failed">Unfriend request failed.</string>
 	<string key="ui_social">Social</string>
 	<string key="ui_social_friends">Friends</string>
+	<string key="ui_social_platform_friends">Xbox Friends</string>
 	<string key="ui_social_group">Group</string>
 	<string key="ui_social_twitch">Twitch</string>
 	<string key="ui_streamermode_enabled">Do Not Disturb mode enabled.</string>
@@ -490,6 +495,7 @@
 	<string rel_version="Feature_Shards" key="social_phasing_invite_fast_travel_failed">Invite to shard failed due to fast travel in progress.</string>
 	<string rel_version="Feature_Shards" key="social_phasing_invite_message_throttled">Invite to shard message throttled. Please try again.</string>
 	<string rel_version="Feature_Shards" key="social_phasing_invite_recipient_pvp_flagged">Player is flagged for PvP and cannot change shards.</string>
+	<string rel_version="Feature_Shards" key="social_phasing_invite_recipient_in_combat">Player is in combat and cannot change shards.</string>
 	<string rel_version="Feature_Shards" key="social_phasing_not_currently_in_a_shard">You are currently not in a sharded area.</string>
 	<string rel_version="Feature_Shards" key="social_phasing_remote_player_not_in_shard">This player is not in a shard you can join.</string>
 	<string rel_version="Feature_Shards" key="social_phasing_different_sectors">You are not in the same sharded area as this player.</string>
@@ -777,9 +783,11 @@
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_daily_bonus">Daily Bonus</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_fastest_experience">Fastest Experience</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_remaining_attempts">Remaining Attempts</string>
-	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_highest_shared_dificutly_label">M1 and M2 Only</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_highest_shared_dificutly_label">Queues All Mutator Levels</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_highest_shared_dificutly_description">Queues your group for all difficulties (M1-M3) that you have in common. You will receive a Carry Bonus if you are matched into a lower difficulty and complete it. \n\n Daily Limit: {currentCount}/{dailyLimit}   &lt;img src="LyShineUI/Images/Icons/Misc/icon_hourglass.png" scale="1.5" yOffset="3.5"&gt;&lt;/img&gt; Resets In: {resetTime}</string>
-	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_highest_shared_dificutly_description_M1_M2_Only">This button enters you into the cross-server queue for M1 + M2. If you’ve unlocked a higher difficulty than where you are placed, you’ll receive a Carry Bonus upon completion of the expedition.\n\nDaily Limit: {currentCount}/{dailyLimit}   &lt;img src="LyShineUI/Images/Icons/Misc/icon_hourglass.png" scale="1.5" yOffset="3.5"&gt;&lt;/img&gt; Resets In: {resetTime}</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_highest_shared_dificutly_no_carry_bonus_description">Queues your group for all difficulties (M1-M3) that you have in common.</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_highest_shared_dificutly_description_M1_M2_Only">Queues your group for any M1 or M2 that you have in common. If you’ve unlocked a higher difficulty than where you are placed, you’ll receive a Carry Bonus upon completion of the expedition.\n\nDaily Limit: {currentCount}/{dailyLimit}   &lt;img src="LyShineUI/Images/Icons/Misc/icon_hourglass.png" scale="1.5" yOffset="3.5"&gt;&lt;/img&gt; Resets In: {resetTime}</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_highest_shared_dificutly_no_carry_bonus_description_M1_M2_Only">Queues your group for any M1 or M2 that you have in common.</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_join_in_progress_label">Allow Join In-Progress?</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_button_random">Random</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_button_queue">Queue</string>
@@ -799,7 +807,9 @@
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_lobby_tooltip">There are {lobbyCount} Groups recruiting for this Activity in the Group Finder. Select View Lobbies on the Activity's info screen to browse them.</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_lobby_tooltip_single">There is 1 Group recruiting for this Activity in the Group Finder. Select View Lobbies on the Activity's info screen to browse them.</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_your_mutation_level">Your Mutation Level:</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_your_mutation_level_numbers">Your Mutation Level: {currentNumber} / {maxNumber}</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_daily_run_completed">Daily Run Completed:</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_daily_run_completed_numbers">Daily Run Completed: {currentNumber} / {maxNumber}</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_Mutated_Click_To_Enter_With_Local_Group" comment="">Click here for option to ENTER WITH GROUP</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_Mutated_Click_To_Enter_With_Local_Group_M1_M2_Only" comment="">Click here to join M3s using ENTER WITH GROUP</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_available_rewards">Available Rewards</string>
@@ -885,7 +895,7 @@
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_role_recommended_tank">- Sword and Shield, Great Axe, War Hammer\n- Heavy Armor\n- Carnelian Gems\n- Crowd Control (stun, root, flatten)</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_ready_check_decline_popup_title">Confirm Decline</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_ready_check_decline_popup_message">Are you sure you want to decline the Ready Check? You or your group will be removed from the queue and will need to re-queue.</string>
-	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_exit_dungeon_desc">Are you sure you want to leave? You will be teleported outside of the Expedition and will not be able to rejoin.\n\n&lt;font color={penaltyColor}&gt;Using Leave applies a Deserter Penalty (20 minutes) if used within the first 10 minutes of the expedition.&lt;/font&gt;\n\nTo guarantee you won't receive the Deserter Penalty, use the Abandon Activity option from the Map or in Group Settings.</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_exit_dungeon_desc">Are you sure you want to leave? You will be teleported outside of the Expedition and will not be able to rejoin.\n\n&lt;font color={penaltyColor}&gt;Using Leave applies a Deserter Penalty of {deserterPenalty} minutes if used within the first {minTimeInDungeon} minutes of the expedition.&lt;/font&gt;\n\nTo guarantee you won't receive the Deserter Penalty, use the Abandon Activity option from the Map or in Group Settings.</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_exit_dungeon_desc_no_penalty">Are you sure you want to leave? You will be teleported outside of the Expedition and will not be able to rejoin.</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_expedition_activity_disabled">Expedition matchmaking is currently disabled. Please try again later.</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_mutation_activity_disabled">Mutated Expedition matchmaking is currently disabled. Please try again later.</string>

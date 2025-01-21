@@ -549,7 +549,7 @@
 	<string key="BoostVoidAbs_GroupName">Void Defense Potions</string>
 	<string key="bounty_GroupName">Talisman</string>
 	<string key="bountymagic_GroupName">Vacant Animus</string>
-	<string key="BowA_GroupDesc">A versatile ranged weapon that can rapidly fire arrows or be fully drawn to achieve maximum damage. Great for maintaining distance while utilizing a variety of attacks to hinder and damage enemies.\n\n•Hip-Fire: Deals {[0.600000 * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage.\n•Short Draw: Deals {[1.000000 * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage.\n•Long Draw: Deals {[1.500000 * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage. \n\nThe Bow, along with all other ranged weapons, has a persistent {[0.200000 * 100]}% increase to base damage.</string>
+	<string key="BowA_GroupDesc">A versatile ranged weapon that can rapidly fire arrows or be fully drawn to achieve maximum damage. Great for maintaining distance while utilizing a variety of attacks to hinder and damage enemies.\n\n•Hip-Fire: Deals {[0.600000 * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage.\n•Short Draw: Deals {[1.000000 * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage.\n•Long Draw: Deals {[1.500000 * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage. \n\nThe Bow, along with all other ranged weapons, has a persistent 20% damage multiplier.</string>
 	<string key="BowA_GroupName">Bows</string>
 	<string key="BowA2_GroupName">Bows</string>
 	<string key="BowB_GroupDesc">2-Handed. A ranged weapon that uses arrows. Arrows must be fully drawn before loosing to achieve maximum damage.</string>
@@ -857,7 +857,7 @@
 	<string key="DungeonReplicas_GroupName">Expedition Replicas</string>
 	<string key="DungeonReps1_GroupName">Amrine Excavation Replicas</string>
 	<string key="DungeonReps10_GroupName">Empyrean Forge Replicas</string>
-	<string key="DungeonReps2_GroupName">Shattered Obelisk Replicas</string>
+	<string key="DungeonReps2_GroupName">Starstone Barrows Replicas</string>
 	<string key="DungeonReps3_GroupName">NAME PENDING</string>
 	<string key="DungeonReps4_GroupName">The Depths Replicas</string>
 	<string key="DungeonReps5_GroupName">Dynasty Shipyard Replicas</string>
@@ -1413,8 +1413,8 @@
 	<string key="MoonstoneCut_GroupDesc">Cut and polished Moonstone Gemstones. Can be crafted into jewelry to increase Strength and Focus, or socketed into equipment to provide the Exhilarate and Slash Ward perks.</string>
 	<string key="MoonstoneCut_GroupName">Cut Moonstone</string>
 	<string key="Mounts_GroupName" rel_version="Feature_Mounts">Mounts</string>
-	<string key="MusketA_GroupDesc">A ranged weapon that fires high-damage cartridges. Ideal for keeping targets at a distance with a high payoff for precision.\n\n•Standard Attack: Deals {[1.000000 * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage. \n\nThe Musket, along with all other ranged weapons, has a persistent {[0.200000 * 100]}% increase to base damage.</string>
-	<string key="Blunderbuss_GroupDesc" rel_version="Weapon_Blunderbuss">A close quarters ranged weapon that fires 6 pellets in a single blast. Ideal for keeping pressure on melee targets and getting up close and personal with ranged targets.\n\n•Standard Attack: Deals {[0.190000 * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage per pellet. ({[1.140000 * 100]}% total of all 6 pellets.) \n\nThe Blunderbuss, along with all other ranged weapons, has a persistent {[0.200000 * 100]}% increase to base damage.</string>
+	<string key="MusketA_GroupDesc">A ranged weapon that fires high-damage cartridges. Ideal for keeping targets at a distance with a high payoff for precision.\n\n•Standard Attack: Deals {[1.000000 * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage. \n\nThe Musket, along with all other ranged weapons, has a persistent 20% damage multiplier.</string>
+	<string key="Blunderbuss_GroupDesc" rel_version="Weapon_Blunderbuss">A close quarters ranged weapon that fires 6 pellets in a single blast. Ideal for keeping pressure on melee targets and getting up close and personal with ranged targets.\n\n•Standard Attack: Deals {[0.190000 * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage per pellet. ({[1.140000 * 100]}% total of all 6 pellets.) \n\nThe Blunderbuss, along with all other ranged weapons, has a persistent 20% damage multiplier.</string>
 	<string key="MusketA_GroupName">Musket</string>
 	<string key="Muskets_GroupName">Muskets</string>
 	<string key="nut_GroupName">Nut</string>
@@ -1474,6 +1474,7 @@
 	<string key="PotionPurifyB_GroupName">Corruption Tincture</string>
 	<string key="PotionRegen_GroupDesc">Potions that restore both Health and Mana.</string>
 	<string key="PotionRegen_GroupName">Regeneration Potion</string>
+	<string key="PotionSurvival_GroupName" rel_version="PotionUpdate_S7">Survival Potion</string>
 	<string key="PotionStalwart_GroupDesc">Increases Blocking Absorption for 60 seconds.</string>
 	<string key="PotionStalwart_GroupName">Stalwart Potion</string>
 	<string key="PotionVoidAbs_GroupName">Void Absorption Potions</string>
@@ -1925,7 +1926,7 @@
 	<string key="DungeonNamedReplicas_GroupName">Unique Expedition Replicas</string>
 	<string key="UniqueDungeonReps1_GroupName">Unique Amrine Excavation Replicas</string>
 	<string key="UniqueDungeonReps10_GroupName">Unique Empyrean Forge Replicas</string>
-	<string key="UniqueDungeonReps2_GroupName">Unique Shattered Obelisk Replicas</string>
+	<string key="UniqueDungeonReps2_GroupName">Unique Starstone Barrows Replicas</string>
 	<string key="UniqueDungeonReps3_GroupName">NAME PENDING</string>
 	<string key="UniqueDungeonReps4_GroupName">Unique The Depths Replicas</string>
 	<string key="UniqueDungeonReps5_GroupName">Unique Dynasty Shipyard Replicas</string>
@@ -2047,5 +2048,11 @@
 	<string key="HercyneMateria_GroupName" rel_version="Raid_CutlassKeys_00">Gorgon's Hive Named Replicas</string>
 	<string key="RaidCrafting_GroupName" rel_version="Raid_CutlassKeys_00">Raid Crafting</string>
 	<string key="725EndgameUpgradeResource_GroupName" rel_version="Raid_CutlassKeys_00">Apex Crafting</string>
+	<string key="EtherealGear_GroupName" comment="DO NOT TRANSLATE" rel_version="PvPServerConquerorsItems">Ethereal Armaments</string>
+	<string key="ConquerorsGear_GroupName" comment="DO NOT TRANSLATE" rel_version="PvPServerConquerorsItems">Conquerors Armaments</string>
+	<string key="DungeonMaterialMinor_GroupName" rel_version="Raid_CutlassKeys_00">Common Expedition Materials</string>
+	<string key="DungeonMaterialMajor_GroupName" rel_version="Raid_CutlassKeys_00">Rare Expedition Materials</string>
+	<string key="EtherealRefinement_GroupName" comment="DO NOT TRANSLATE" rel_version="PvPServerConquerorsItems">Ethereal Dust Refining</string>
+	<string key="EtherealDust_GroupName" comment="DO NOT TRANSLATE" rel_version="PvPServerConquerorsItems">Ethereal Dust XP Conversion</string>
 </resources>
 

@@ -2,8 +2,10 @@
 	<string key="inv_DroppedItems">Dropped Items</string>
 	<string key="inv_Dropped">Items</string>
 	<string key="inv_Storage">Storage</string>
-	<string key="inv_itemDamaged">{num} item(s) are heavily damaged. You should repair it soon.</string>
-	<string key="inv_itemBroken">{num} item(s) have been broken</string>
+	<string key="inv_itemDamaged_single">{itemName} is heavily damaged. You should repair it soon.</string>
+	<string key="inv_itemDamaged_multiple">{num} items are heavily damaged. You should repair them soon.</string>
+	<string key="inv_itemBroken_single">{itemName} has been broken</string>
+	<string key="inv_itemBroken_multiple">{num} items have been broken</string>
 	<string key="inv_broken">BROKEN</string>
 	<string key="inv_unequip">Unequip</string>
 	<string key="inv_dropTargetMessage">Drop items</string>
@@ -74,13 +76,13 @@
 	\n• Block Stability: -10%
 	\n• Your dodge is a quick roll. 
 	\n• Dodge Stamina Cost: {[50.000000]}
-	\n• For {[1.000000]}s after taking a melee hit, dodge distance is reduced by 20% and you cannot run.
+	\n• For {[0.850000]}s after taking a melee hit, dodge distance is reduced by 20% and you cannot run.
 	\n• [PvP] Crit Damage Taken: -{[0.150000 * 100]}%	
 	</string>
 	<string key="inv_equipLoadNormalTooltip">• Your dodge is a quick hop.
 	\n• Dodge Stamina Cost: {[50.000000]}
 	\n• Incoming Crowd Control Duration: -10%
-	\n• For {[0.750000]}s after taking a melee hit, dodge distance is reduced by 20% and you cannot run.
+	\n• For {[0.650000]}s after taking a melee hit, dodge distance is reduced by 20% and you cannot run.
 	\n• [PvP] Crit Damage Taken: -{[0.200000 * 100]}%
 	</string>
 	<string key="inv_equipLoadSlowTooltip">• Base Damage: -{[-0.150000 * -100]}% 

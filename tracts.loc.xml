@@ -1,286 +1,286 @@
-<resources>
-	<string key="coast" comment="">Coast</string>
-	<string key="coast_spri01" comment="">Coast</string>
-	<string key="coast_fall01" comment="">Coast</string>
-	<string key="coast_fall02" comment="">Coast</string>
-	<string key="coast_wint01" comment="">Coast</string>
-	<string key="coast_resources" comment="">Flint</string>
-	<string key="coast_spri01_resources" comment="">Flint</string>
-	<string key="coast_fall01_resources" comment="">Flint</string>
-	<string key="coast_fall02_resources" comment="">Flint</string>
-	<string key="coast_wint01_resources" comment="">Flint</string>
-	<string key="coastalhills" comment="">Coastal Hills</string>
-	<string key="coastalhills_spri01" comment="">Coastal Hills</string>
-	<string key="coastalhills_fall01" comment="">Coastal Hills</string>
-	<string key="coastalhills_fall02" comment="">Coastal Hills</string>
-	<string key="coastalhills_wint01" comment="">Coastal Hills</string>
-	<string key="coastalhills_resources" comment="">Flint, Bushes</string>
-	<string key="coastalhills_fall01_resources" comment="">Flint, Bushes</string>
-	<string key="coastalhills_fall02_resources" comment="">Flint, Bushes</string>
-	<string key="coastalhills_spri01_resources" comment="">Flint, Bushes</string>
-	<string key="coastalhills_wint01_resources" comment="">Flint, Bushes</string>
-	<string key="damned" comment="">Damned</string>
-	<string key="damned_wint01" comment="">Damned</string>
-	<string key="damned_barrens" comment="">Damned</string>
-	<string key="damned_barrens_wint01" comment="">Damned</string>
-	<string key="damned_resources" comment="">Trees, Hemp, Herbs</string>
-	<string key="damned_wint01_resources" comment="">Trees, Hemp, Herbs</string>
-	<string key="damned_barrens_resources" comment="">Trees, Hemp, Herbs</string>
-	<string key="damned_barrens_wint01_resources" comment="">Trees, Hemp, Herbs</string>
-	<string key="desert_sands" comment="">Desert Dunes</string>
-	<string key="desert_sands_wint01" comment="">Desert Dunes</string>
-	<string key="desert_hills" comment="">Desert</string>
-	<string key="desert_hills_wint01" comment="">Desert</string>
-	<string key="desert_highlands" comment="">Desert</string>
-	<string key="desert_highlands_wint01" comment="">Desert</string>
-	<string key="desert_oasis" comment="">Desert</string>
-	<string key="desert_oasis_wint01" comment="">Desert</string>
-	<string key="desert_sands_resources" comment="">Cactus, Sulfur, Sand</string>
-	<string key="desert_sands_wint01_resources" comment="">Cactus, Sulfur, Sand</string>
-	<string key="desert_hills_resources" comment="">Trees, Flint, Bushes</string>
-	<string key="desert_hills_wint01_resources" comment="">Trees, Flint, Bushes</string>
-	<string key="desert_highlands_resources" comment="">Trees, Flint, Bushes</string>
-	<string key="desert_highlands_wint01_resources" comment="">Trees, Flint, Bushes</string>
-	<string key="desert_oasis_resources" comment="">Trees, Flint, Bushes</string>
-	<string key="desert_oasis_wint01_resources" comment="">Trees, Flint, Bushes</string>
-	<string key="forest" comment="">Forest</string>
-	<string key="forest_spri01" comment="">Forest</string>
-	<string key="forest_fall01" comment="">Forest</string>
-	<string key="forest_fall02" comment="">Forest</string>
-	<string key="forest_wint01" comment="">Forest</string>
-	<string key="forest_poplar" comment="">Forest</string>
-	<string key="forest_poplar_spri01" comment="">Forest</string>
-	<string key="forest_poplar_fall01" comment="">Forest</string>
-	<string key="forest_poplar_fall02" comment="">Forest</string>
-	<string key="forest_poplar_wint01" comment="">Forest</string>
-	<string key="forest_poplar_resources" comment="">Trees, Hemp, Herbs</string>
-	<string key="forest_poplar_spri01_resources" comment="">Trees, Hemp, Herbs</string>
-	<string key="forest_poplar_fall01_resources" comment="">Trees, Hemp, Herbs</string>
-	<string key="forest_poplar_fall02_resources" comment="">Trees, Hemp, Herbs</string>
-	<string key="forest_poplar_wint01_resources" comment="">Trees, Hemp, Herbs</string>
-	<string key="forest_poplar_sparse" comment="">Forest</string>
-	<string key="forest_poplar_sparse_spri01" comment="">Forest</string>
-	<string key="forest_poplar_sparse_fall01" comment="">Forest</string>
-	<string key="forest_poplar_sparse_fall02" comment="">Forest</string>
-	<string key="forest_poplar_sparse_wint01" comment="">Forest</string>
-	<string key="forest_poplar_sparse_resources" comment="">Trees, Hemp, Herbs</string>
-	<string key="forest_poplar_sparse_spri01_resources" comment="">Trees, Hemp, Herbs</string>
-	<string key="forest_poplar_sparse_fall01_resources" comment="">Trees, Hemp, Herbs</string>
-	<string key="forest_poplar_sparse_fall02_resources" comment="">Trees, Hemp, Herbs</string>
-	<string key="forest_poplar_sparse_wint01_resources" comment="">Trees, Hemp, Herbs</string>
-	<string key="forest_beech" comment="">Forest</string>
-	<string key="forest_beech_spri01" comment="">Forest</string>
-	<string key="forest_beech_fall01" comment="">Forest</string>
-	<string key="forest_beech_fall02" comment="">Forest</string>
-	<string key="forest_beech_wint01" comment="">Forest</string>
-	<string key="forest_beech_resources" comment="">Trees, Hemp, Herbs</string>
-	<string key="forest_beech_spri01_resources" comment="">Trees, Hemp, Herbs</string>
-	<string key="forest_beech_fall01_resources" comment="">Trees, Hemp, Herbs</string>
-	<string key="forest_beech_fall02_resources" comment="">Trees, Hemp, Herbs</string>
-	<string key="forest_beech_wint01_resources" comment="">Trees, Hemp, Herbs</string>
-	<string key="forest_dead01" comment="">Forest</string>
-	<string key="forest_poplar_dead01" comment="">Forest</string>
-	<string key="forest_resources" comment="">Trees, Hemp, Herbs</string>
-	<string key="forest_spri01_resources" comment="">Trees, Hemp, Herbs</string>
-	<string key="forest_fall01_resources" comment="">Trees, Hemp, Herbs</string>
-	<string key="forest_fall02_resources" comment="">Trees, Hemp, Herbs</string>
-	<string key="forest_wint01_resources" comment="">Trees, Hemp, Herbs</string>
-	<string key="forest_erosion" comment="">Forest</string>
-	<string key="forest_erosion_spri01" comment="">Forest</string>
-	<string key="forest_erosion_fall01" comment="">Forest</string>
-	<string key="forest_erosion_fall02" comment="">Forest</string>
-	<string key="forest_erosion_wint01" comment="">Forest</string>
-	<string key="forest_erosion_resources" comment="">Trees, Hemp, Herbs</string>
-	<string key="forest_erosion_spri01_resources" comment="">Trees, Hemp, Herbs</string>
-	<string key="forest_erosion_fall01_resources" comment="">Trees, Hemp, Herbs</string>
-	<string key="forest_erosion_fall02_resources" comment="">Trees, Hemp, Herbs</string>
-	<string key="forest_erosion_wint01_resources" comment="">Trees, Hemp, Herbs</string>
-	<string key="forest_dead01_resources" comment="">Trees, Hemp, Herbs</string>
-	<string key="forest_poplar_dead01_resources" comment="">Trees, Hemp, Herbs</string>
-	<string key="forest_sparse" comment="">Forest</string>
-	<string key="forest_sparse_spri01" comment="">Forest</string>
-	<string key="forest_sparse_fall01" comment="">Forest</string>
-	<string key="forest_sparse_fall02" comment="">Forest</string>
-	<string key="forest_sparse_wint01" comment="">Forest</string>
-	<string key="forest_sparse_resources" comment="">Trees, Hemp, Herbs</string>
-	<string key="forest_sparse_spri01_resources" comment="">Trees, Hemp, Herbs</string>
-	<string key="forest_sparse_fall01_resources" comment="">Trees, Hemp, Herbs</string>
-	<string key="forest_sparse_fall02_resources" comment="">Trees, Hemp, Herbs</string>
-	<string key="forest_sparse_wint01_resources" comment="">Trees, Hemp, Herbs</string>
-	<string key="forest_dense" comment="">Forest</string>
-	<string key="forest_dense_spri01" comment="">Forest</string>
-	<string key="forest_dense_fall01" comment="">Forest</string>
-	<string key="forest_dense_fall02" comment="">Forest</string>
-	<string key="forest_dense_wint01" comment="">Forest</string>
-	<string key="forest_dense_resources" comment="">Trees, Hemp, Herbs</string>
-	<string key="forest_dense_spri01_resources" comment="">Trees, Hemp, Herbs</string>
-	<string key="forest_dense_fall01_resources" comment="">Trees, Hemp, Herbs</string>
-	<string key="forest_dense_fall02_resources" comment="">Trees, Hemp, Herbs</string>
-	<string key="forest_dense_wint01_resources" comment="">Trees, Hemp, Herbs</string>
-	<string key="forest_clearing" comment="">Forest</string>
-	<string key="forest_clearing_spri01" comment="">Forest</string>
-	<string key="forest_clearing_fall01" comment="">Forest</string>
-	<string key="forest_clearing_fall02" comment="">Forest</string>
-	<string key="forest_clearing_wint01" comment="">Forest</string>
-	<string key="forest_clearing_resources" comment="">Trees, Hemp, Herbs</string>
-	<string key="forest_clearing_spri01_resources" comment="">Trees, Hemp, Herbs</string>
-	<string key="forest_clearing_fall01_resources" comment="">Trees, Hemp, Herbs</string>
-	<string key="forest_clearing_fall02_resources" comment="">Trees, Hemp, Herbs</string>
-	<string key="forest_clearing_wint01_resources" comment="">Trees, Hemp, Herbs</string>
-	<string key="forest_oak" comment="">Forest</string>
-	<string key="forest_oak_spri01" comment="">Forest</string>
-	<string key="forest_oak_fall01" comment="">Forest</string>
-	<string key="forest_oak_fall02" comment="">Forest</string>
-	<string key="forest_oak_wint01" comment="">Forest</string>
-	<string key="forest_oak_resources" comment="">Trees, Hemp, Herbs</string>
-	<string key="forest_oak_spri01_resources" comment="">Trees, Hemp, Herbs</string>
-	<string key="forest_oak_fall01_resources" comment="">Trees, Hemp, Herbs</string>
-	<string key="forest_oak_fall02_resources" comment="">Trees, Hemp, Herbs</string>
-	<string key="forest_oak_wint01_resources" comment="">Trees, Hemp, Herbs</string>
-	<string key="grassland" comment="">Grassland</string>
-	<string key="grassland_spri01" comment="">Grassland</string>
-	<string key="grassland_fall01" comment="">Grassland</string>
-	<string key="grassland_fall02" comment="">Grassland</string>
-	<string key="grassland_wint01" comment="">Grassland</string>
-	<string key="grassland_resources" comment="">Herbs, Hemp</string>
-	<string key="grassland_spri01_resources" comment="">Herbs, Hemp</string>
-	<string key="grassland_fall01_resources" comment="">Herbs, Hemp</string>
-	<string key="grassland_fall02_resources" comment="">Herbs, Hemp</string>
-	<string key="grassland_wint01_resources" comment="">Herbs, Hemp</string>
-	<string key="grassland_beech_fall01_resources" comment="">Herbs, Hemp</string>
-	<string key="highland" comment="">Highland</string>
-	<string key="highland_spri01" comment="">Highland</string>
-	<string key="highland_fall01" comment="">Highland</string>
-	<string key="highland_fall02" comment="">Highland</string>
-	<string key="highland_wint01" comment="">Highland</string>
-	<string key="highland_resources" comment="">Precious Minerals, Boulders</string>
-	<string key="highland_spri01_resources" comment="">Precious Minerals, Boulders</string>
-	<string key="highland_fall01_resources" comment="">Precious Minerals, Boulders</string>
-	<string key="highland_fall02_resources" comment="">Precious Minerals, Boulders</string>
-	<string key="highland_wint01_resources" comment="">Precious Minerals, Boulders</string>
-	<string key="lakes" comment="">Lakes</string>
-	<string key="lakes_spri01" comment="">Lakes</string>
-	<string key="lakes_fall01" comment="">Lakes</string>
-	<string key="lakes_fall02" comment="">Lakes</string>
-	<string key="lakes_wint01" comment="">Lakes</string>
-	<string key="lakes_resources" comment="">Water</string>
-	<string key="lakes_spri01_resources" comment="">Water</string>
-	<string key="lakes_fall01_resources" comment="">Water</string>
-	<string key="lakes_fall02_resources" comment="">Water</string>
-	<string key="lakes_wint01_resources" comment="">Water</string>
-	<string key="rivers" comment="">Lakes</string>
-	<string key="rivers_spri01" comment="">Lakes</string>
-	<string key="rivers_fall01" comment="">Lakes</string>
-	<string key="rivers_fall02" comment="">Lakes</string>
-	<string key="rivers_wint01" comment="">Lakes</string>
-	<string key="rivers_resources" comment="">Water</string>
-	<string key="rivers_spri01_resources" comment="">Water</string>
-	<string key="rivers_fall01_resources" comment="">Water</string>
-	<string key="rivers_fall02_resources" comment="">Water</string>
-	<string key="rivers_wint01_resources" comment="">Water</string>
-	<string key="marsh" comment="">Marsh</string>
-	<string key="marsh_spri01" comment="">Marsh</string>
-	<string key="marsh_fall01" comment="">Marsh</string>
-	<string key="marsh_fall02" comment="">Marsh</string>
-	<string key="marsh_wint01" comment="">Marsh</string>
-	<string key="marsh_resources" comment="">Oil</string>
-	<string key="marsh_spri01_resources" comment="">Oil</string>
-	<string key="marsh_fall01_resources" comment="">Oil</string>
-	<string key="marsh_fall02_resources" comment="">Oil</string>
-	<string key="marsh_wint01_resources" comment="">Oil</string>
-	<string key="waterbed_marsh" comment="">Marsh</string>
-	<string key="waterbed_marsh_spri01" comment="">Marsh</string>
-	<string key="waterbed_marsh_fall01" comment="">Marsh</string>
-	<string key="waterbed_marsh_fall02" comment="">Marsh</string>
-	<string key="waterbed_marsh_wint01" comment="">Marsh</string>
-	<string key="waterbed_marsh_resources" comment="">Oil</string>
-	<string key="waterbed_marsh_spri01_resources" comment="">Oil</string>
-	<string key="waterbed_marsh_fall01_resources" comment="">Oil</string>
-	<string key="waterbed_marsh_fall02_resources" comment="">Oil</string>
-	<string key="waterbed_marsh_wint01_resources" comment="">Oil</string>
-	<string key="mountain" comment="">Mountain</string>
-	<string key="mountain_spri01" comment="">Mountain</string>
-	<string key="mountain_fall01" comment="">Mountain</string>
-	<string key="mountain_fall02" comment="">Mountain</string>
-	<string key="mountain_wint01" comment="">Mountain</string>
-	<string key="mountain_resources" comment="">Stone, Flint</string>
-	<string key="mountain_spri01_resources" comment="">Stone, Flint</string>
-	<string key="mountain_fall01_resources" comment="">Stone, Flint</string>
-	<string key="mountain_fall02_resources" comment="">Stone, Flint</string>
-	<string key="mountain_wint01_resources" comment="">Stone, Flint</string>
-	<string key="mountain_poplar" comment="">Mountain</string>
-	<string key="mountain_poplar_spri01" comment="">Mountain</string>
-	<string key="mountain_poplar_fall01" comment="">Mountain</string>
-	<string key="mountain_poplar_fall02" comment="">Mountain</string>
-	<string key="mountain_poplar_wint01" comment="">Mountain</string>
-	<string key="mountain_poplar_resources" comment="">Stone, Flint</string>
-	<string key="mountain_poplar_spri01_resources" comment="">Stone, Flint</string>
-	<string key="mountain_poplar_fall01_resources" comment="">Stone, Flint</string>
-	<string key="mountain_poplar_fall02_resources" comment="">Stone, Flint</string>
-	<string key="mountain_poplar_wint01_resources" comment="">Stone, Flint</string>
-	<string key="mystic_forest" comment="">Forest</string>
-	<string key="mystic_forest_resources" comment="">Trees, Hemp, Herbs</string>
-	<string key="cursed_forest" comment="">Forest</string>
-	<string key="cursed_forest_resources" comment="">Trees, Hemp, Herbs</string>
-	<string key="forest_aspen" comment="">Forest</string>
-	<string key="forest_aspen_resources" comment="">Trees, Hemp, Herbs</string>
-	<string key="shrubland" comment="">Shrubland</string>
-	<string key="shrubland_spri01" comment="">Shrubland</string>
-	<string key="shrubland_fall01" comment="">Shrubland</string>
-	<string key="shrubland_fall02" comment="">Shrubland</string>
-	<string key="shrubland_wint01" comment="">Shrubland</string>
-	<string key="shrubland_resources" comment="">Berries, Bushes</string>
-	<string key="shrubland_spri01_resources" comment="">Berries, Bushes</string>
-	<string key="shrubland_fall01_resources" comment="">Berries, Bushes</string>
-	<string key="shrubland_fall02_resources" comment="">Berries, Bushes</string>
-	<string key="shrubland_wint01_resources" comment="">Berries, Bushes</string>
-	<string key="shrubland_beech" comment="">Shrubland</string>
-	<string key="shrubland_beech_spri01" comment="">Shrubland</string>
-	<string key="shrubland_beech_fall01" comment="">Shrubland</string>
-	<string key="shrubland_beech_fall02" comment="">Shrubland</string>
-	<string key="shrubland_beech_wint01" comment="">Shrubland</string>
-	<string key="shrubland_beech_resources" comment="">Bushes</string>
-	<string key="shrubland_beech_spri01_resources" comment="">Berries, Bushes</string>
-	<string key="shrubland_beech_fall01_resources" comment="">Berries, Bushes</string>
-	<string key="shrubland_beech_fall02_resources" comment="">Berries, Bushes</string>
-	<string key="shrubland_beech_wint01_resources" comment="">Berries, Bushes</string>
-	<string key="woodedhills" comment="">Wooded Hills</string>
-	<string key="woodedhills_spri01" comment="">Wooded Hills</string>
-	<string key="woodedhills_fall01" comment="">Wooded Hills</string>
-	<string key="woodedhills_fall02" comment="">Wooded Hills</string>
-	<string key="woodedhills_wint01" comment="">Wooded Hills</string>
-	<string key="woodedhills_poplar" comment="">Wooded Hills</string>
-	<string key="woodedhills_poplar_spri01" comment="">Wooded Hills</string>
-	<string key="woodedhills_poplar_fall01" comment="">Wooded Hills</string>
-	<string key="woodedhills_poplar_fall02" comment="">Wooded Hills</string>
-	<string key="woodedhills_poplar_wint01" comment="">Wooded Hills</string>
-	<string key="woodedhills_dead01" comment="">Wooded Hills</string>
-	<string key="woodedhills_poplar_dead01" comment="">Wooded Hills</string>
-	<string key="woodedhills_resources" comment="">Trees, Hemp</string>
-	<string key="woodedhills_spri01_resources" comment="">Trees, Hemp</string>
-	<string key="woodedhills_fall01_resources" comment="">Trees, Hemp</string>
-	<string key="woodedhills_fall02_resources" comment="">Trees, Hemp</string>
-	<string key="woodedhills_wint01_resources" comment="">Trees, Hemp</string>
-	<string key="woodedhills_poplar_dead01_resources" comment="">Trees, Hemp</string>
-	<string key="woodedhills_poplar_resources" comment="">Trees, Hemp</string>
-	<string key="woodedhills_poplar_spri01_resources" comment="">Trees, Hemp</string>
-	<string key="woodedhills_poplar_fall01_resources" comment="">Trees, Hemp</string>
-	<string key="woodedhills_poplar_fall02_resources" comment="">Trees, Hemp</string>
-	<string key="woodedhills_poplar_wint01_resources" comment="">Trees, Hemp</string>
-	<string key="woodedhills_dead01_resources" comment="">Trees, Hemp</string>
-	<string key="starterarea" comment="">Starter Area</string>
-	<string key="starterarea_resources" comment="">Noobs</string>
-	<string key="ocean" comment="">Ocean</string>
-	<string key="oceanbed" comment="">Ocean</string>
-	<string key="oceanbed_resources" comment="">Flint</string>
-	<string key="cliffs" comment="">Cliffs</string>
-	<string key="cliffs_resources" comment="">Boulders, Rock, Flint</string>
-	<string key="roads" comment="">Road</string>
-	<string key="roads_resources" comment="">Flint,Branch</string>
-	<string key="impassable" comment="">Impassable Area</string>
-	<string key="beach" comment="">Beach</string>
-	<string key="beach_resources" comment="">Flint</string>
-	<string key="ui_territory_major_resources">A territory in Vitae Aternum. Major resources include {resources}.</string>
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="coast">Coast</string>
+	<string key="coast_spri01">Coast</string>
+	<string key="coast_fall01">Coast</string>
+	<string key="coast_fall02">Coast</string>
+	<string key="coast_wint01">Coast</string>
+	<string key="coast_resources">Flint</string>
+	<string key="coast_spri01_resources">Flint</string>
+	<string key="coast_fall01_resources">Flint</string>
+	<string key="coast_fall02_resources">Flint</string>
+	<string key="coast_wint01_resources">Flint</string>
+	<string key="coastalhills">Coastal Hills</string>
+	<string key="coastalhills_spri01">Coastal Hills</string>
+	<string key="coastalhills_fall01">Coastal Hills</string>
+	<string key="coastalhills_fall02">Coastal Hills</string>
+	<string key="coastalhills_wint01">Coastal Hills</string>
+	<string key="coastalhills_resources">Flint, Bushes</string>
+	<string key="coastalhills_fall01_resources">Flint, Bushes</string>
+	<string key="coastalhills_fall02_resources">Flint, Bushes</string>
+	<string key="coastalhills_spri01_resources">Flint, Bushes</string>
+	<string key="coastalhills_wint01_resources">Flint, Bushes</string>
+	<string key="damned">Damned</string>
+	<string key="damned_wint01">Damned</string>
+	<string key="damned_barrens">Damned</string>
+	<string key="damned_barrens_wint01">Damned</string>
+	<string key="damned_resources">Trees, Hemp, Herbs</string>
+	<string key="damned_wint01_resources">Trees, Hemp, Herbs</string>
+	<string key="damned_barrens_resources">Trees, Hemp, Herbs</string>
+	<string key="damned_barrens_wint01_resources">Trees, Hemp, Herbs</string>
+	<string key="desert_sands">Desert Dunes</string>
+	<string key="desert_sands_wint01">Desert Dunes</string>
+	<string key="desert_hills">Desert</string>
+	<string key="desert_hills_wint01">Desert</string>
+	<string key="desert_highlands">Desert</string>
+	<string key="desert_highlands_wint01">Desert</string>
+	<string key="desert_oasis">Desert</string>
+	<string key="desert_oasis_wint01">Desert</string>
+	<string key="desert_sands_resources">Cactus, Sulfur, Sand</string>
+	<string key="desert_sands_wint01_resources">Cactus, Sulfur, Sand</string>
+	<string key="desert_hills_resources">Trees, Flint, Bushes</string>
+	<string key="desert_hills_wint01_resources">Trees, Flint, Bushes</string>
+	<string key="desert_highlands_resources">Trees, Flint, Bushes</string>
+	<string key="desert_highlands_wint01_resources">Trees, Flint, Bushes</string>
+	<string key="desert_oasis_resources">Trees, Flint, Bushes</string>
+	<string key="desert_oasis_wint01_resources">Trees, Flint, Bushes</string>
+	<string key="forest">Forest</string>
+	<string key="forest_spri01">Forest</string>
+	<string key="forest_fall01">Forest</string>
+	<string key="forest_fall02">Forest</string>
+	<string key="forest_wint01">Forest</string>
+	<string key="forest_poplar">Forest</string>
+	<string key="forest_poplar_spri01">Forest</string>
+	<string key="forest_poplar_fall01">Forest</string>
+	<string key="forest_poplar_fall02">Forest</string>
+	<string key="forest_poplar_wint01">Forest</string>
+	<string key="forest_poplar_resources">Trees, Hemp, Herbs</string>
+	<string key="forest_poplar_spri01_resources">Trees, Hemp, Herbs</string>
+	<string key="forest_poplar_fall01_resources">Trees, Hemp, Herbs</string>
+	<string key="forest_poplar_fall02_resources">Trees, Hemp, Herbs</string>
+	<string key="forest_poplar_wint01_resources">Trees, Hemp, Herbs</string>
+	<string key="forest_poplar_sparse">Forest</string>
+	<string key="forest_poplar_sparse_spri01">Forest</string>
+	<string key="forest_poplar_sparse_fall01">Forest</string>
+	<string key="forest_poplar_sparse_fall02">Forest</string>
+	<string key="forest_poplar_sparse_wint01">Forest</string>
+	<string key="forest_poplar_sparse_resources">Trees, Hemp, Herbs</string>
+	<string key="forest_poplar_sparse_spri01_resources">Trees, Hemp, Herbs</string>
+	<string key="forest_poplar_sparse_fall01_resources">Trees, Hemp, Herbs</string>
+	<string key="forest_poplar_sparse_fall02_resources">Trees, Hemp, Herbs</string>
+	<string key="forest_poplar_sparse_wint01_resources">Trees, Hemp, Herbs</string>
+	<string key="forest_beech">Forest</string>
+	<string key="forest_beech_spri01">Forest</string>
+	<string key="forest_beech_fall01">Forest</string>
+	<string key="forest_beech_fall02">Forest</string>
+	<string key="forest_beech_wint01">Forest</string>
+	<string key="forest_beech_resources">Trees, Hemp, Herbs</string>
+	<string key="forest_beech_spri01_resources">Trees, Hemp, Herbs</string>
+	<string key="forest_beech_fall01_resources">Trees, Hemp, Herbs</string>
+	<string key="forest_beech_fall02_resources">Trees, Hemp, Herbs</string>
+	<string key="forest_beech_wint01_resources">Trees, Hemp, Herbs</string>
+	<string key="forest_dead01">Forest</string>
+	<string key="forest_poplar_dead01">Forest</string>
+	<string key="forest_resources">Trees, Hemp, Herbs</string>
+	<string key="forest_spri01_resources">Trees, Hemp, Herbs</string>
+	<string key="forest_fall01_resources">Trees, Hemp, Herbs</string>
+	<string key="forest_fall02_resources">Trees, Hemp, Herbs</string>
+	<string key="forest_wint01_resources">Trees, Hemp, Herbs</string>
+	<string key="forest_erosion">Forest</string>
+	<string key="forest_erosion_spri01">Forest</string>
+	<string key="forest_erosion_fall01">Forest</string>
+	<string key="forest_erosion_fall02">Forest</string>
+	<string key="forest_erosion_wint01">Forest</string>
+	<string key="forest_erosion_resources">Trees, Hemp, Herbs</string>
+	<string key="forest_erosion_spri01_resources">Trees, Hemp, Herbs</string>
+	<string key="forest_erosion_fall01_resources">Trees, Hemp, Herbs</string>
+	<string key="forest_erosion_fall02_resources">Trees, Hemp, Herbs</string>
+	<string key="forest_erosion_wint01_resources">Trees, Hemp, Herbs</string>
+	<string key="forest_dead01_resources">Trees, Hemp, Herbs</string>
+	<string key="forest_poplar_dead01_resources">Trees, Hemp, Herbs</string>
+	<string key="forest_sparse">Forest</string>
+	<string key="forest_sparse_spri01">Forest</string>
+	<string key="forest_sparse_fall01">Forest</string>
+	<string key="forest_sparse_fall02">Forest</string>
+	<string key="forest_sparse_wint01">Forest</string>
+	<string key="forest_sparse_resources">Trees, Hemp, Herbs</string>
+	<string key="forest_sparse_spri01_resources">Trees, Hemp, Herbs</string>
+	<string key="forest_sparse_fall01_resources">Trees, Hemp, Herbs</string>
+	<string key="forest_sparse_fall02_resources">Trees, Hemp, Herbs</string>
+	<string key="forest_sparse_wint01_resources">Trees, Hemp, Herbs</string>
+	<string key="forest_dense">Forest</string>
+	<string key="forest_dense_spri01">Forest</string>
+	<string key="forest_dense_fall01">Forest</string>
+	<string key="forest_dense_fall02">Forest</string>
+	<string key="forest_dense_wint01">Forest</string>
+	<string key="forest_dense_resources">Trees, Hemp, Herbs</string>
+	<string key="forest_dense_spri01_resources">Trees, Hemp, Herbs</string>
+	<string key="forest_dense_fall01_resources">Trees, Hemp, Herbs</string>
+	<string key="forest_dense_fall02_resources">Trees, Hemp, Herbs</string>
+	<string key="forest_dense_wint01_resources">Trees, Hemp, Herbs</string>
+	<string key="forest_clearing">Forest</string>
+	<string key="forest_clearing_spri01">Forest</string>
+	<string key="forest_clearing_fall01">Forest</string>
+	<string key="forest_clearing_fall02">Forest</string>
+	<string key="forest_clearing_wint01">Forest</string>
+	<string key="forest_clearing_resources">Trees, Hemp, Herbs</string>
+	<string key="forest_clearing_spri01_resources">Trees, Hemp, Herbs</string>
+	<string key="forest_clearing_fall01_resources">Trees, Hemp, Herbs</string>
+	<string key="forest_clearing_fall02_resources">Trees, Hemp, Herbs</string>
+	<string key="forest_clearing_wint01_resources">Trees, Hemp, Herbs</string>
+	<string key="forest_oak">Forest</string>
+	<string key="forest_oak_spri01">Forest</string>
+	<string key="forest_oak_fall01">Forest</string>
+	<string key="forest_oak_fall02">Forest</string>
+	<string key="forest_oak_wint01">Forest</string>
+	<string key="forest_oak_resources">Trees, Hemp, Herbs</string>
+	<string key="forest_oak_spri01_resources">Trees, Hemp, Herbs</string>
+	<string key="forest_oak_fall01_resources">Trees, Hemp, Herbs</string>
+	<string key="forest_oak_fall02_resources">Trees, Hemp, Herbs</string>
+	<string key="forest_oak_wint01_resources">Trees, Hemp, Herbs</string>
+	<string key="grassland">Grassland</string>
+	<string key="grassland_spri01">Grassland</string>
+	<string key="grassland_fall01">Grassland</string>
+	<string key="grassland_fall02">Grassland</string>
+	<string key="grassland_wint01">Grassland</string>
+	<string key="grassland_resources">Herbs, Hemp</string>
+	<string key="grassland_spri01_resources">Herbs, Hemp</string>
+	<string key="grassland_fall01_resources">Herbs, Hemp</string>
+	<string key="grassland_fall02_resources">Herbs, Hemp</string>
+	<string key="grassland_wint01_resources">Herbs, Hemp</string>
+	<string key="grassland_beech_fall01_resources">Herbs, Hemp</string>
+	<string key="highland">Highland</string>
+	<string key="highland_spri01">Highland</string>
+	<string key="highland_fall01">Highland</string>
+	<string key="highland_fall02">Highland</string>
+	<string key="highland_wint01">Highland</string>
+	<string key="highland_resources">Precious Minerals, Boulders</string>
+	<string key="highland_spri01_resources">Precious Minerals, Boulders</string>
+	<string key="highland_fall01_resources">Precious Minerals, Boulders</string>
+	<string key="highland_fall02_resources">Precious Minerals, Boulders</string>
+	<string key="highland_wint01_resources">Precious Minerals, Boulders</string>
+	<string key="lakes">Lakes</string>
+	<string key="lakes_spri01">Lakes</string>
+	<string key="lakes_fall01">Lakes</string>
+	<string key="lakes_fall02">Lakes</string>
+	<string key="lakes_wint01">Lakes</string>
+	<string key="lakes_resources">Water</string>
+	<string key="lakes_spri01_resources">Water</string>
+	<string key="lakes_fall01_resources">Water</string>
+	<string key="lakes_fall02_resources">Water</string>
+	<string key="lakes_wint01_resources">Water</string>
+	<string key="rivers">Lakes</string>
+	<string key="rivers_spri01">Lakes</string>
+	<string key="rivers_fall01">Lakes</string>
+	<string key="rivers_fall02">Lakes</string>
+	<string key="rivers_wint01">Lakes</string>
+	<string key="rivers_resources">Water</string>
+	<string key="rivers_spri01_resources">Water</string>
+	<string key="rivers_fall01_resources">Water</string>
+	<string key="rivers_fall02_resources">Water</string>
+	<string key="rivers_wint01_resources">Water</string>
+	<string key="marsh">Marsh</string>
+	<string key="marsh_spri01">Marsh</string>
+	<string key="marsh_fall01">Marsh</string>
+	<string key="marsh_fall02">Marsh</string>
+	<string key="marsh_wint01">Marsh</string>
+	<string key="marsh_resources">Oil</string>
+	<string key="marsh_spri01_resources">Oil</string>
+	<string key="marsh_fall01_resources">Oil</string>
+	<string key="marsh_fall02_resources">Oil</string>
+	<string key="marsh_wint01_resources">Oil</string>
+	<string key="waterbed_marsh">Marsh</string>
+	<string key="waterbed_marsh_spri01">Marsh</string>
+	<string key="waterbed_marsh_fall01">Marsh</string>
+	<string key="waterbed_marsh_fall02">Marsh</string>
+	<string key="waterbed_marsh_wint01">Marsh</string>
+	<string key="waterbed_marsh_resources">Oil</string>
+	<string key="waterbed_marsh_spri01_resources">Oil</string>
+	<string key="waterbed_marsh_fall01_resources">Oil</string>
+	<string key="waterbed_marsh_fall02_resources">Oil</string>
+	<string key="waterbed_marsh_wint01_resources">Oil</string>
+	<string key="mountain">Mountain</string>
+	<string key="mountain_spri01">Mountain</string>
+	<string key="mountain_fall01">Mountain</string>
+	<string key="mountain_fall02">Mountain</string>
+	<string key="mountain_wint01">Mountain</string>
+	<string key="mountain_resources">Stone, Flint</string>
+	<string key="mountain_spri01_resources">Stone, Flint</string>
+	<string key="mountain_fall01_resources">Stone, Flint</string>
+	<string key="mountain_fall02_resources">Stone, Flint</string>
+	<string key="mountain_wint01_resources">Stone, Flint</string>
+	<string key="mountain_poplar">Mountain</string>
+	<string key="mountain_poplar_spri01">Mountain</string>
+	<string key="mountain_poplar_fall01">Mountain</string>
+	<string key="mountain_poplar_fall02">Mountain</string>
+	<string key="mountain_poplar_wint01">Mountain</string>
+	<string key="mountain_poplar_resources">Stone, Flint</string>
+	<string key="mountain_poplar_spri01_resources">Stone, Flint</string>
+	<string key="mountain_poplar_fall01_resources">Stone, Flint</string>
+	<string key="mountain_poplar_fall02_resources">Stone, Flint</string>
+	<string key="mountain_poplar_wint01_resources">Stone, Flint</string>
+	<string key="mystic_forest">Forest</string>
+	<string key="mystic_forest_resources">Trees, Hemp, Herbs</string>
+	<string key="cursed_forest">Forest</string>
+	<string key="cursed_forest_resources">Trees, Hemp, Herbs</string>
+	<string key="forest_aspen">Forest</string>
+	<string key="forest_aspen_resources">Trees, Hemp, Herbs</string>
+	<string key="shrubland">Shrubland</string>
+	<string key="shrubland_spri01">Shrubland</string>
+	<string key="shrubland_fall01">Shrubland</string>
+	<string key="shrubland_fall02">Shrubland</string>
+	<string key="shrubland_wint01">Shrubland</string>
+	<string key="shrubland_resources">Berries, Bushes</string>
+	<string key="shrubland_spri01_resources">Berries, Bushes</string>
+	<string key="shrubland_fall01_resources">Berries, Bushes</string>
+	<string key="shrubland_fall02_resources">Berries, Bushes</string>
+	<string key="shrubland_wint01_resources">Berries, Bushes</string>
+	<string key="shrubland_beech">Shrubland</string>
+	<string key="shrubland_beech_spri01">Shrubland</string>
+	<string key="shrubland_beech_fall01">Shrubland</string>
+	<string key="shrubland_beech_fall02">Shrubland</string>
+	<string key="shrubland_beech_wint01">Shrubland</string>
+	<string key="shrubland_beech_resources">Bushes</string>
+	<string key="shrubland_beech_spri01_resources">Berries, Bushes</string>
+	<string key="shrubland_beech_fall01_resources">Berries, Bushes</string>
+	<string key="shrubland_beech_fall02_resources">Berries, Bushes</string>
+	<string key="shrubland_beech_wint01_resources">Berries, Bushes</string>
+	<string key="woodedhills">Wooded Hills</string>
+	<string key="woodedhills_spri01">Wooded Hills</string>
+	<string key="woodedhills_fall01">Wooded Hills</string>
+	<string key="woodedhills_fall02">Wooded Hills</string>
+	<string key="woodedhills_wint01">Wooded Hills</string>
+	<string key="woodedhills_poplar">Wooded Hills</string>
+	<string key="woodedhills_poplar_spri01">Wooded Hills</string>
+	<string key="woodedhills_poplar_fall01">Wooded Hills</string>
+	<string key="woodedhills_poplar_fall02">Wooded Hills</string>
+	<string key="woodedhills_poplar_wint01">Wooded Hills</string>
+	<string key="woodedhills_dead01">Wooded Hills</string>
+	<string key="woodedhills_poplar_dead01">Wooded Hills</string>
+	<string key="woodedhills_resources">Trees, Hemp</string>
+	<string key="woodedhills_spri01_resources">Trees, Hemp</string>
+	<string key="woodedhills_fall01_resources">Trees, Hemp</string>
+	<string key="woodedhills_fall02_resources">Trees, Hemp</string>
+	<string key="woodedhills_wint01_resources">Trees, Hemp</string>
+	<string key="woodedhills_poplar_dead01_resources">Trees, Hemp</string>
+	<string key="woodedhills_poplar_resources">Trees, Hemp</string>
+	<string key="woodedhills_poplar_spri01_resources">Trees, Hemp</string>
+	<string key="woodedhills_poplar_fall01_resources">Trees, Hemp</string>
+	<string key="woodedhills_poplar_fall02_resources">Trees, Hemp</string>
+	<string key="woodedhills_poplar_wint01_resources">Trees, Hemp</string>
+	<string key="woodedhills_dead01_resources">Trees, Hemp</string>
+	<string key="starterarea">Starter Area</string>
+	<string key="starterarea_resources">Noobs</string>
+	<string key="ocean">Ocean</string>
+	<string key="oceanbed">Ocean</string>
+	<string key="oceanbed_resources">Flint</string>
+	<string key="cliffs">Cliffs</string>
+	<string key="cliffs_resources">Boulders, Rock, Flint</string>
+	<string key="roads">Road</string>
+	<string key="roads_resources">Flint,Branch</string>
+	<string key="impassable">Impassable Area</string>
+	<string key="beach">Beach</string>
+	<string key="beach_resources">Flint</string>
+	<string key="ui_territory_major_resources">A territory in Vitae Aeternum. Major resources include {resources}.</string>
 	<string key="ui_settlement_major_resources">A Settlement in {territory}. Crafting and refining stations are located in this settlement.</string>
 </resources>
 

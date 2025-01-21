@@ -1,154 +1,18 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<string key="ui_calendar_event_button_ok">Ok</string>
-	<string key="ui_calendar_event_button_next">Next</string>
-	<string key="ui_calendar_event_button_back">Back</string>
-	<string key="ui_calendar_event_button_go">Let's Go!</string>
-	<string key="ui_calendar_event_button_view_details">View Details</string>
-	<string key="ui_rewardtype_event_progress">&lt;img src="{icon}" xPadding="0" scale="1.8" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ebe3d6" &gt; {amount} &lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;{displayName}&lt;/font&gt;</string>
 	<string key="ui_news_button">News and Events</string>
-	<string key="ui_news_button_no_news">No News Stories Available.</string>
-	<string key="ui_event_progress_name">Event Reputation</string>
-	<string key="ui_event">Event</string>
-	<string key="ui_event_rules">Event Highlights</string>
-	<string key="ui_event_rank_0" rel_version="Event_WinterConvergence_Temp">Reveler</string>
-	<string key="ui_event_rank_1" rel_version="Event_WinterConvergence_Temp">Celebrant</string>
-	<string key="ui_event_rank_2" rel_version="Event_WinterConvergence_Temp">Merrymaker</string>
-	<string key="ui_event_rank_3" rel_version="Event_WinterConvergence_Temp">Joybringer</string>
-	<string key="ui_event_rank_4" rel_version="Event_WinterConvergence_Temp">Holiday Regent</string>
-	<string key="ui_event_shop_header" rel_version="Event_WinterConvergence_Temp">Winter Convergence Shop</string>
-	<string key="ui_event_winter_body" rel_version="Event_WinterConvergence_Temp">The biting chill of the Forever Winter looms! The savage Winter Warrior and his icy minions threaten to extinguish warmth and light on Aeternum. Ally with the Winter Wanderer to spread the cheerful Spirit of Convergence, earn a trove of time-limited rewards, and confront the endless cold!</string>
-	<string key="ui_event_winter_bullet1_title" rel_version="Event_WinterConvergence_Temp">Winter Village</string>
-	<string key="ui_event_winter_bullet2_title" rel_version="Event_WinterConvergence_Temp">Winter Warrior</string>
-	<string key="ui_event_winter_bullet3_title" rel_version="Event_WinterConvergence_Temp">Rewards</string>
-	<string key="ui_event_winter_convergence_tabname" rel_version="Event_WinterConvergence_Temp">Winter Convergence</string>
-	<string key="ui_event_winter_button_about" rel_version="Event_WinterConvergence_Temp">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Winter Convergence</string>
-	<string key="ui_event_winter_panel1_title" rel_version="Event_WinterConvergence_Temp">WINTER CONVERGENCE IS HERE</string>
-	<string key="ui_event_winter_panel1_subtitle" rel_version="Event_WinterConvergence_Temp">Event runs from 12:01am PST on &lt;font color="#ebe3d6"&gt;12/14/22&lt;/font&gt; until 12:01am PST on &lt;font color="#ebe3d6"&gt;1/4/23&lt;/font&gt;</string>
-	<string key="ui_event_winter_panel1_bullet1_title" rel_version="Event_WinterConvergence_Temp">Limited Time\nActivities</string>
-	<string key="ui_event_winter_panel1_bullet1_text" rel_version="Event_WinterConvergence_Temp">Mine Gleamite crystals, secure Stolen Presents, collect Winter Tokens, and complete activities for the Winter Convergence that raise your reputation with the mysterious Winter Wanderer and his shop. Participate now while you can!</string>
-	<string key="ui_event_winter_panel1_bullet2_title" rel_version="Event_WinterConvergence_Temp">All-New Winter Themed\nArmor And Weapons</string>
-	<string key="ui_event_winter_panel1_bullet2_text" rel_version="Event_WinterConvergence_Temp">Icy winds bring with them new armors, weapons, furniture, and skins themed off of the wonderful Aeternum holiday of Winter Convergence.</string>
-	<string key="ui_event_winter_panel1_bullet3_title" rel_version="Event_WinterConvergence_Temp">Limited Time NPC\n and Shop</string>
-	<string key="ui_event_winter_panel1_bullet3_text" rel_version="Event_WinterConvergence_Temp">The Winter Wanderer has set up two villages, one in Everfall and one in Monarch's Bluffs, to facilitate the joy and cheer of Winter Convergence. Visit these villages to meet the Winter Wanderer and carry out his holiday quests at level 25.</string>
-	<string key="ui_event_winter_panel2_title" rel_version="Event_WinterConvergence_Temp">WINTER THEMED DROPS AND SHOP ITEMS</string>
-	<string key="ui_event_winter_panel2_subtile" rel_version="Event_WinterConvergence_Temp">Collect exclusive items that reflect the winter holiday season on Aeternum. Check both in-game and in the shop for these new armors, weapons, furniture, and skins.</string>
-	<string key="ui_event_winter_panel3_title" rel_version="Event_WinterConvergence_Temp">CHECK OUT WINTER CONVERGENCE ACTIVITIES, CRAFTING, AND QUESTS</string>
-	<string key="ui_event_winter_panel3_subtile" rel_version="Event_WinterConvergence_Temp">Celebrate Winter Convergence in Aeternum, spreading the holiday spirit to your settlements and companies! There is much to do for both the settlements and the Winter Wanderer in his Winter Villages.</string>
-	<string key="ui_calendar_event_button_about" rel_version="PvP_Rewards_Track">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; About PvP Reward Track</string>
-	<string key="ui_pvp_rewards_panel1_title" rel_version="PvP_Rewards_Track">NEW PVP REWARD TRACK ADDED</string>
-	<string key="ui_pvp_rewards_panel1_subtitle" rel_version="PvP_Rewards_Track">The PvP Reward Track contains PvP-specific rewards for doing PvP activities in the game. The track can be completed and run again to get a different selection of rewards, with more prestigious rewards becoming available as more tracks are completed.</string>
-	<string key="ui_pvp_rewards_panel1_bullet1_title" rel_version="PvP_Rewards_Track">PVP XP</string>
-	<string key="ui_pvp_rewards_panel1_bullet1_text" rel_version="PvP_Rewards_Track">Progress your track by defeating other players and engaging in PvP Missions, War, Outpost Rush, Capturing Forts, and 3v3 Arenas.</string>
-	<string key="ui_pvp_rewards_panel1_bullet2_title" rel_version="PvP_Rewards_Track">AZOTH SALT</string>
-	<string key="ui_pvp_rewards_panel1_bullet2_text" rel_version="PvP_Rewards_Track">Azoth Salt is a currency that allows you to acquire rewards from the PvP Track. You can gain Azoth Salt by engaging in War, Outpost Rush, 3v3 Arenas, PvP Missions, killing players in the open world, and earning XP while flagged.</string>
-	<string key="ui_pvp_rewards_panel1_bullet3_title" rel_version="PvP_Rewards_Track">REWARDS</string>
-	<string key="ui_pvp_rewards_panel1_bullet3_text" rel_version="PvP_Rewards_Track">Choose between unique rewards such as prestige armor and weapons, emotes, currencies, and consumables.</string>
-	<string key="ui_event_summer_progress_name" rel_version="Event_Summer_Perm">Event Reputation</string>
-	<string key="ui_event_halloween_progress_name" rel_version="Event_Halloween_Perm">Event Reputation</string>
-	<string key="ui_event_spring_progress_name" rel_version="Event_SpringtideBloom_Perm">Event Reputation</string>
-	<string key="ui_event_weapon_xp_tabname">XP Event</string>
-	<string key="ui_event_weapon_xp_title">WEAPON XP BONUS EVENT</string>
-	<string key="ui_event_weapon_xp_desc">Active bonuses:</string>
-	<string key="ui_event_gathering_xp_tabname">XP Event</string>
-	<string key="ui_event_gathering_xp_title">GATHERING XP BONUS EVENT</string>
-	<string key="ui_event_gathering_xp_desc">Active bonuses:</string>
-	<string key="ui_event_character_xp_tabname">XP Event</string>
-	<string key="ui_event_character_xp_title">LEVEL XP BONUS EVENT</string>
-	<string key="ui_event_character_xp_desc">Active bonuses:</string>
-	<string key="ui_event_refining_xp_tabname">XP Event</string>
-	<string key="ui_event_refining_xp_title">REFINING XP BONUS EVENT</string>
-	<string key="ui_event_refining_xp_desc">Active bonuses:</string>
-	<string key="ui_event_extravaganza_tabname">XP Event</string>
-	<string key="ui_event_extravaganza_title">XP EXTRAVAGANZA</string>
-	<string key="ui_event_extravaganza_desc">Active bonuses:</string>
-	<string key="ui_news_end_game_tabname">Endgame</string>
-	<string key="ui_news_end_game_description">At level 60, you're now able to&lt;font color="#edc63e"&gt; upgrade your equipment &lt;/font&gt;to higher gear scores. To do this, you'll need to harvest Gypsum from various Level 60 activities and locations. Visit a&lt;font color="#edc63e"&gt; Gypsum Kiln &lt;/font&gt;to learn more.</string>
-	<string key="ui_end_game_panel1_title">ENDGAME ACTIVITIES</string>
-	<string key="ui_end_game_panel1_subtitle">&lt;font color="#ebe3d6" &gt;You've recently achieved Max Level - there's plenty more to do.&lt;/font&gt;</string>
-	<string key="ui_end_game_panel1_bullet1_title">Endgame Expeditions</string>
-	<string key="ui_end_game_panel1_bullet1_text">Endgame Expeditions, including rotating weekly Mutations for the best rewards.</string>
-	<string key="ui_end_game_panel1_bullet2_title">Outpost Rush</string>
-	<string key="ui_end_game_panel1_bullet2_text">Outpost Rush, a 20 v 20 battleground.</string>
-	<string key="ui_end_game_panel1_bullet3_title">Elite Areas</string>
-	<string key="ui_end_game_panel1_bullet3_text">Elite landmarks, Trial Arenas, and open world challenges for groups.</string>
-	<string key="ui_end_game_panel2_title">UPGRADE YOUR GEAR</string>
-	<string key="ui_end_game_panel2_subtitle">At level 60, you're now able to&lt;font color="#edc63e"&gt; upgrade your equipment &lt;/font&gt;to higher gear scores. To do this, you'll need to harvest Gypsum from various Level 60 activities and locations. Visit a&lt;font color="#edc63e"&gt; Gypsum Kiln &lt;/font&gt;to learn more.</string>
-	<string key="ui_end_game_button_about" rel_version="PvP_Rewards_Track">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; About Endgame Activities</string>
-	<string key="ui_event_group_finder_panel1_title" rel_version="Feature_Group_Finder">Expedition Group Finder!</string>
-	<string key="ui_event_group_finder_panel1_subtitle" rel_version="Feature_Group_Finder">Available now from the map! Access all Expeditions (as long as you have visited it once) by selecting the Expedition's icon. From here you can browse or post Group Finder lobbies, or enter the Expedition directly with your existing group.</string>
-	<string key="ui_event_group_finder_button_about" rel_version="Feature_Group_Finder">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Group Finder</string>
-	<string key="ui_event_returnem_panel1_title" rel_version="Feature_FreshStart">So Fresh, So Clean</string>
-	<string key="ui_event_returnem_panel1_subtitle" rel_version="Feature_FreshStart">Fresh worlds. Fresh economy. Fresh start.</string>
-	<string key="ui_event_returnem_panel1_bullet1_title" rel_version="Feature_FreshStart">New Content</string>
-	<string key="ui_event_returnem_panel1_bullet1_text" rel_version="Feature_FreshStart">Arm yourself with the all-new Great Sword and Heartgem and journey to the deserts of Brimstone Sands, or start the new Main Story quest!</string>
-	<string key="ui_event_returnem_panel1_bullet2_title" rel_version="Feature_FreshStart">Twitch Event</string>
-	<string key="ui_event_returnem_panel1_bullet2_text" rel_version="Feature_FreshStart">Begin your journey in a fresh world, and watch your favorite streamers do the same in the Return to Aeternum event on Twitch until 11/18.</string>
-	<string key="ui_event_returnem_panel1_bullet3_title" rel_version="Feature_FreshStart">New Cosmetics</string>
-	<string key="ui_event_returnem_panel1_bullet3_text" rel_version="Feature_FreshStart">Brimstone Sands, Great Sword, and Nightveil Hallow items are now available in the store. Don't forget to pickup your free anniversary skins!</string>
-	<string key="ui_event_returnem_panel2_title" rel_version="Feature_FreshStart">Brimstone Sands</string>
-	<string key="ui_event_returnem_panel2_subtitle" rel_version="Feature_FreshStart">With the new Great Sword and Heartgem ability runes, explore the new Brimstone Sands zone and the Ennead Expedition, or experience the revamped Main Story Quest with new locations, NPCs, challenges, and rewards.\n\nTo access the main storyline quests in Brimstone Sands, players must have completed the quest "A Selfless Nature" in Edengrove and the quest "Strider of the Sands," which can be picked up in multiple locations.</string>
-	<string key="ui_event_returnem_panel3_title" rel_version="Feature_FreshStart">Return to Aeternum</string>
-	<string key="ui_event_returnem_panel3_subtitle" rel_version="Feature_FreshStart">Start a new character on worlds that are certified fresh, or follow your favorite streamers in the Return to Aeternum event on Twitch. Watch as they battle for glory on fresh worlds until 11/18.\n\nhttp://www.twitch.tv/playnewworld</string>
-	<string key="ui_event_returnem_message_title" rel_version="Feature_FreshStart">Fresh Start Worlds</string>
-	<string key="ui_event_returnem_message_description" rel_version="Feature_FreshStart">Fresh Start Worlds are now live! Only new characters can be a part of these worlds.</string>
-	<string key="ui_event_returnem_button_about" rel_version="Feature_FreshStart">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Return to Aeternum</string>
-	<string key="ui_event_battle_for_new_world_panel1_title" rel_version="Feature_BFNW" comment="DO NOT TRANSLATE">Battle For New World Panel 1 Title</string>
-	<string key="ui_event_battle_for_new_world_panel1_subtitle" rel_version="Feature_BFNW" comment="DO NOT TRANSLATE">Battle for New World Subtitle.</string>
-	<string key="ui_event_battle_for_new_world_panel1_bullet1_title" rel_version="Feature_BFNW" comment="DO NOT TRANSLATE">Battle for New World Panel 1, Bullet 1 Title</string>
-	<string key="ui_event_battle_for_new_world_panel1_bullet1_text" rel_version="Feature_BFNW" comment="DO NOT TRANSLATE">Battle for New World Panel 1, Bullet 1 Text.</string>
-	<string key="ui_event_battle_for_new_world_panel1_bullet2_title" rel_version="Feature_BFNW" comment="DO NOT TRANSLATE">Battle for New World Panel 1, Bullet 2 Title</string>
-	<string key="ui_event_battle_for_new_world_panel1_bullet2_text" rel_version="Feature_BFNW" comment="DO NOT TRANSLATE">Battle for New World Panel 1, Bullet 2 Text</string>
-	<string key="ui_event_battle_for_new_world_panel1_bullet3_title" rel_version="Feature_BFNW" comment="DO NOT TRANSLATE">Battle for New World Panel 1, Bullet 3 Title</string>
-	<string key="ui_event_battle_for_new_world_panel1_bullet3_text" rel_version="Feature_BFNW" comment="DO NOT TRANSLATE">Battle for New World Panel 1, Bullet 3 Text</string>
-	<string key="ui_event_battle_for_new_world_panel2_title" rel_version="Feature_BFNW" comment="DO NOT TRANSLATE">Battle for New World Panel 2 Title</string>
-	<string key="ui_event_battle_for_new_world_panel2_subtitle" rel_version="Feature_BFNW" comment="DO NOT TRANSLATE">Battle for New World Panel 2 Subtitle</string>
-	<string key="ui_event_battle_for_new_world_panel3_title" rel_version="Feature_BFNW" comment="DO NOT TRANSLATE">Battle for New World Panel 3 Title</string>
-	<string key="ui_event_battle_for_new_world_panel3_subtitle" rel_version="Feature_BFNW" comment="DO NOT TRANSLATE">Battle for New World Panel 3 Subtitle\n \nhttp://www.twitch.tv/playnewworld</string>
-	<string key="ui_event_battle_for_new_world_button_about" rel_version="Feature_BFNW" comment="DO NOT TRANSLATE">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Battle For New World</string>
+	<string key="ui_news_button_no_news">No news stories available.</string>
+	<string key="ui_news_about">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About The News</string>
 	<string key="ui_news_modal_display_start_date">Starts on {startDate}</string>
 	<string key="ui_news_modal_display_end_date">Ends on {endDate}</string>
 	<string key="ui_news_modal_display_start_datetime">Starts at {startTime} on {startDate}</string>
 	<string key="ui_news_modal_display_end_datetime">Ends at {endTime} on {endDate}</string>
-	<string key="ui_event_free_weekend_event_message_title" rel_version="Feature_FreeWeekend">Free Weekend</string>
-	<string key="ui_event_free_weekend_event_message_description" rel_version="Feature_FreeWeekend">The Free Weekend is in progress.</string>
-	<string key="ui_event_free_weekend_description" rel_version="Feature_FreeWeekend">During this limited-time event, experience the new Brimstone Sands zone, revamped Main Story Quest, and latest updates to New World: Aeternum for free!\n\nTo play with friends, characters must be on the same world. Free players enjoy unlimited session times unless there is a queue for the world (at the end of a session, free players will be asked to requeue).\n\nNew players can also save 50% on the Standard and Deluxe editions of New World: Aeternum when purchased between December 15 at 10AM PT and January 5 at 10AM PT.</string>
-	<string key="ui_event_free_weekend" rel_version="Feature_FreeWeekend">Free Weekend</string>
-	<string key="ui_event_free_weekend_in_progress_panel1_bullet1_title" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend In Progress Panel 1, Bullet 1 Title</string>
-	<string key="ui_event_free_weekend_in_progress_panel1_bullet1_text" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend In Progress Panel 1, Bullet 1 Text</string>
-	<string key="ui_event_free_weekend_in_progress_panel1_bullet2_title" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend In Progress Panel 1, Bullet 2 Title</string>
-	<string key="ui_event_free_weekend_in_progress_panel1_bullet2_text" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend In Progress Panel 1, Bullet 2 Text</string>
-	<string key="ui_event_free_weekend_in_progress_panel1_bullet3_title" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend In Progress Panel 1, Bullet 3 Title</string>
-	<string key="ui_event_free_weekend_in_progress_panel1_bullet3_text" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend In Progress Panel 1, Bullet 3 Text</string>
-	<string key="ui_event_free_weekend_in_progress_panel1_title" rel_version="Feature_FreeWeekend">Free Weekend</string>
-	<string key="ui_event_free_weekend_in_progress_panel1_subtitle" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend In Progress Panel 1 Subtitle</string>
-	<string key="ui_event_free_weekend_in_progress_panel2_title" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend In Progress Panel 2 Title</string>
-	<string key="ui_event_free_weekend_in_progress_panel2_subtitle" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend In Progress Panel 2 Subtitle</string>
-	<string key="ui_event_free_weekend_in_progress_panel3_title" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend In Progress Panel 3 Title</string>
-	<string key="ui_event_free_weekend_in_progress_panel3_subtitle" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend In Progress Panel 3 Subtitle\n \nhttp://www.twitch.tv/playnewworld</string>
-	<string key="ui_event_free_weekend_in_progress_button_about" rel_version="Feature_FreeWeekend">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Free Weekend</string>
-	<string key="ui_event_free_weekend_ending_soon_panel1_title" rel_version="Feature_FreeWeekend">Free Weekend Ends Today!</string>
-	<string key="ui_event_free_weekend_ending_soon_panel1_subtitle" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend Ending Soon Subtitle.</string>
-	<string key="ui_event_free_weekend_ending_soon_panel1_bullet1_title" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend Ending Soon Panel 1, Bullet 1 Title</string>
-	<string key="ui_event_free_weekend_ending_soon_panel1_bullet1_text" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend Ending Soon Panel 1, Bullet 1 Text.</string>
-	<string key="ui_event_free_weekend_ending_soon_panel1_bullet2_title" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend Ending Soon Panel 1, Bullet 2 Title</string>
-	<string key="ui_event_free_weekend_ending_soon_panel1_bullet2_text" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend Ending Soon Panel 1, Bullet 2 Text</string>
-	<string key="ui_event_free_weekend_ending_soon_panel1_bullet3_title" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend Ending Soon Panel 1, Bullet 3 Title</string>
-	<string key="ui_event_free_weekend_ending_soon_panel1_bullet3_text" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend Ending Soon Panel 1, Bullet 3 Text</string>
-	<string key="ui_event_free_weekend_ending_soon_panel2_title" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend Ending Soon Panel 2 Title</string>
-	<string key="ui_event_free_weekend_ending_soon_panel2_subtitle" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend Ending Soon Panel 2 Subtitle</string>
-	<string key="ui_event_free_weekend_ending_soon_panel3_title" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend Ending Soon Panel 3 Title</string>
-	<string key="ui_event_free_weekend_ending_soon_panel3_subtitle" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend Ending Soon Panel 3 Subtitle\n \nhttp://www.twitch.tv/playnewworld</string>
-	<string key="ui_event_free_weekend_ending_soon_button_about" rel_version="Feature_FreeWeekend">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Free Weekend</string>
-	<string key="ui_event_leaderboards_tabname" rel_version="Feature_Leaderboards">Leaderboards</string>
-	<string key="ui_event_leaderboards_title" rel_version="Feature_Leaderboards">Introducing Leaderboards</string>
-	<string key="ui_event_leaderboards_description" rel_version="Feature_Leaderboards">Leaderboards track various New World: Aeternum activities across settlements and factions. Compete with other players in various individual, company, and faction activities to ascend the leaderboards, which reset periodically.\n\n&lt;font color="#edc63e"&gt;Access Leaderboards in the Modes Menu. &lt;/font&gt;</string>
-	<string key="ui_event_leaderboards_bullet1_title" rel_version="Feature_Leaderboards">Rewards</string>
-	<string key="ui_event_leaderboards_button_about" rel_version="Feature_Leaderboards">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Leaderboards</string>
-	<string key="ui_event_dec_mtx_tabname" rel_version="Entitlements_WinterConvergence_MTX">Store</string>
-	<string key="ui_event_dec_mtx_title" rel_version="Entitlements_WinterConvergence_MTX">Winter Convergence</string>
-	<string key="ui_event_dec_mtx_description" rel_version="Entitlements_WinterConvergence_MTX">Protect yourself from the ravages of Forever Winter with new cosmetics available in the store! You'll want to kit yourself out with the latest winter weapons and apparel when the days grow shorter and long nights of terror await. Check the store regularly for free gifts in December and take advantage of our winter sales! Special unvaulted content goes on sale 12/13 and last year's Winter Convergence gear arrives on 12/20!</string>
-	<string key="ui_event_dec_mtx_button_about" rel_version="Entitlements_WinterConvergence_MTX">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Winter Convergence</string>
-	<string key="ui_news_about">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About The News</string>
+	<string key="ui_rewardtype_event_progress">&lt;img src="{icon}" xPadding="0" scale="1.8" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ebe3d6" &gt; {amount} &lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;{displayName}&lt;/font&gt;</string>
+	<string key="ui_event">Event</string>
+	<string key="ui_event_rules">Event Highlights</string>
+	<string key="ui_event_progress_name">Event Reputation</string>
+	<string key="ui_event_summer_progress_name" rel_version="Event_Summer_Perm">Event Reputation</string>
+	<string key="ui_event_halloween_progress_name" rel_version="Event_Halloween_Perm">Event Reputation</string>
+	<string key="ui_event_spring_progress_name" rel_version="Event_SpringtideBloom_Perm">Event Reputation</string>
 	<string key="ui_news_store_tabname">Store</string>
 	<string key="ui_news_expedition_tabname">Expedition</string>
 	<string key="ui_news_expeditions_tabname">Expeditions</string>
@@ -185,6 +49,7 @@
 	<string key="ui_news_bullet_resources">Resources</string>
 	<string key="ui_news_bullet_decor">Decor</string>
 	<string key="ui_news_bullet_mounts" rel_version="Feature_Mounts">Mounts</string>
+	<string key="ui_news_bullet_mount_skin" rel_version="Feature_Mounts">Mount Skin</string>
 	<string key="ui_news_bullet_mount_skins" rel_version="Feature_Mounts">Mount Skins</string>
 	<string key="ui_news_bullet_mount_attachments" rel_version="Feature_Mounts">Mount Attachments</string>
 	<string key="ui_news_bullet_artifact" rel_version="Feature_Artifacts">Artifact</string>
@@ -192,202 +57,30 @@
 	<string key="ui_news_bullet_transmog_tokens" rel_version="Season_2_Perm">Transmog Tokens</string>
 	<string key="ui_news_bullet_instrument_skins">Instrument Skins</string>
 	<string key="ui_news_bullet_housing_trophy">Housing Trophy</string>
-	<string key="ui_event_jan_mtx_title" rel_version="Entitlements_WinterDragon">Winter Dragon</string>
-	<string key="ui_event_jan_mtx_description" rel_version="Entitlements_WinterDragon">Is the shape of winter the shadow of a dragon? Visit the store for new cosmetics kissed by the frosty breath of the serpent! Don't get caught unprepared when less lethal combat breaks out! Pick up the Slap Fight emote or opt for the Tiptoe Walk in order to sneak past any violent squabbles instead!</string>
-	<string key="ui_event_jan_mtx_button_about" rel_version="Entitlements_WinterDragon">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Winter Dragon</string>
-	<string key="ui_event_jan_mtx_bullet1_title" rel_version="Entitlements_WinterDragon">Housing Decor</string>
-	<string key="ui_event_feb_mtx_title" rel_version="Entitlements_OmensOfWinter">Omens Of Winter</string>
-	<string key="ui_event_feb_mtx_description" rel_version="Entitlements_OmensOfWinter">Will winter release its icy grasp upon the land or will spring blossom and bring new hope to Aeternum? Consult your oracle and outfit yourself with the new skins in the Store! New heart emotes can help you find romance amid the long, dark days of winter!</string>
-	<string key="ui_event_feb_mtx_bullet1" rel_version="Entitlements_OmensOfWinter">Skins</string>
-	<string key="ui_event_feb_mtx_bullet2" rel_version="Entitlements_OmensOfWinter">Emotes</string>
-	<string key="ui_event_feb_mtx_button_about" rel_version="Entitlements_OmensOfWinter">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Omens Of Winter</string>
-	<string key="ui_event_empyrean_forge_tabname" rel_version="Expedition_GreatCleave_01">Empyrean Forge</string>
-	<string key="ui_event_empyrean_forge_title" rel_version="Expedition_GreatCleave_01">Empyrean Forge</string>
-	<string key="ui_event_empyrean_forge_description" rel_version="Expedition_GreatCleave_01">Legendary foundry where Ancients forged their devastating engines of war. Those who hunger for power yearn for the eldritch magics unleashed in these colossal ruins.</string>
-	<string key="ui_event_empyrean_forge_about" rel_version="Expedition_GreatCleave_01">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Empyrean Forge</string>
-	<string key="ui_event_season_one_tabname" rel_version="Season_1_Perm">Seasons</string>
-	<string key="ui_event_season_one_title" rel_version="Season_1_Perm">Seasons</string>
-	<string key="ui_event_season_one_description" rel_version="Season_1_Perm">Embark on a new journey with Grace O'Malley as she forms Aeternum's newest mercenary company, the Silver Crows.</string>
-	<string key="ui_event_season_one_about" rel_version="Season_1_Perm">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Seasons</string>
-	<string key="ui_event_season_one_bullet1" rel_version="Season_1_Perm">Season Pass</string>
-	<string key="ui_event_season_one_bullet2" rel_version="Season_1_Perm">The Silver Crows</string>
-	<string key="ui_event_mar_mtx_title" rel_version="Entitlements_FirelightSeason">Firelight</string>
-	<string key="ui_event_mar_mtx_description" rel_version="Entitlements_FirelightSeason">The fires of the Forge burn brightly within this month's new store items! Feel the burn with brand new skins and decor items. Get into the competitive spirit with new emotes that can express your triumph or comfort your poor, humbled enemies! Get them while they're hot!</string>
-	<string key="ui_event_mar_mtx_about" rel_version="Entitlements_FirelightSeason">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Firelight</string>
-	<string key="ui_event_mar_mtx_bullet1" rel_version="Entitlements_FirelightSeason">Armors</string>
-	<string key="ui_event_mar_mtx_bullet2" rel_version="Entitlements_FirelightSeason">Weapons</string>
-	<string key="ui_event_mar_mtx_bullet3" rel_version="Entitlements_FirelightSeason">Emotes</string>
-	<string key="ui_event_apr_mtx_tabname" rel_version="Entitlements_Highwayman">Store</string>
-	<string key="ui_event_apr_mtx_title" rel_version="Entitlements_Highwayman">Highwaymen</string>
-	<string key="ui_event_apr_mtx_description" rel_version="Entitlements_Highwayman">Scoundrels and brigands are on the loose in Aeternum! Outfit yourself in the store with new Highwaymen items and join their ranks. Don the garb of the Ringleader and take charge with three variants of headgear - perfect for whatever level of disguise you require!</string>
-	<string key="ui_event_apr_mtx_bullet1" rel_version="Entitlements_Highwayman">Apparel Skins</string>
-	<string key="ui_event_apr_mtx_bullet2" rel_version="Entitlements_Highwayman">Weapon Skins</string>
-	<string key="ui_event_apr_mtx_bullet3" rel_version="Entitlements_Highwayman">Emotes</string>
-	<string key="ui_event_apr_mtx_about" rel_version="Entitlements_Highwayman">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Highwaymen</string>
-	<string key="ui_event_may_mtx_title" rel_version="Entitlements_MedievalHistoric">Knights Errant</string>
-	<string key="ui_event_may_mtx_description" rel_version="Entitlements_MedievalHistoric">Dost thou hath weapons and armor from the days of Yore? Gothic skins based on real designs from the 16th and 17th centuries are now available to buy in the store. Smite your foes while wearing solid steel fit for a hero of old, or strike terror in your enemies while clad in menacing armor. Regardless of your choice, your rivals will shudder in fear when you brandish thine weapon. With these tried and true armaments, victory on the field of battle is nearly ensured.</string>
-	<string key="ui_event_may_mtx_bullet1" rel_version="Entitlements_MedievalHistoric">Armors</string>
-	<string key="ui_event_may_mtx_bullet2" rel_version="Entitlements_MedievalHistoric">Weapons</string>
-	<string key="ui_event_may_mtx_bullet3" rel_version="Entitlements_MedievalHistoric">Emotes</string>
-	<string key="ui_event_may_mtx_about" rel_version="Entitlements_MedievalHistoric">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Knights Errant</string>
-	<string key="ui_event_jun_mtx_title" rel_version="Entitlements_WastelandFrontier">Wasteland Frontier</string>
-	<string key="ui_event_jun_mtx_description" rel_version="Entitlements_WastelandFrontier">There's riches to be had on Aeternum for those willing to take them. Outlaws and brigands should head to the store for new apparel and weapon skins. Don't wander the wasteland unprepared!</string>
-	<string key="ui_event_jun_mtx_bullet1" rel_version="Entitlements_WastelandFrontier">Armor Skins</string>
-	<string key="ui_event_jun_mtx_bullet2" rel_version="Entitlements_WastelandFrontier">Weapon Skins</string>
-	<string key="ui_event_jun_mtx_bullet3" rel_version="Entitlements_WastelandFrontier">Housing</string>
-	<string key="ui_event_jun_mtx_about" rel_version="Entitlements_WastelandFrontier">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Wasteland Frontier</string>
-	<string key="ui_event_transmog_title" rel_version="Season_2_Perm">Transmog Tokens</string>
-	<string key="ui_event_transmog_description" rel_version="Season_2_Perm">Using the power of Transmog Tokens, Stylemancers can change the appearance of your weapons and gear to look like any others you've already obtained.\n\nBe fashionably early to the party and start earning them from the Season 2 pass now before the Stylemancers arrive in August!</string>
-	<string key="ui_event_transmog_about" rel_version="Season_2_Perm">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Transmog</string>
-	<string key="ui_event_transmog_live_title" rel_version="Season_2_Perm">Transmog is live</string>
-	<string key="ui_event_transmog_live_description" rel_version="Season_2_Perm">Using the power of Transmog Tokens, Stylemancers in every city can change the appearance of your weapons and armors to look like any that you've collected. These skins can then be dyed to fit your desired fashion!\n\nCollect Transmog Tokens from Elite Chest Runs, the Season Pass, or the Store and start your stylish journey today!</string>
-	<string key="ui_event_crossworld_opr_title" rel_version="Feature_Cross_World_Social">Cross World Outpost Rush</string>
-	<string key="ui_event_crossworld_opr_description2" rel_version="Feature_Cross_World_Social">ThisIsATest</string>
-	<string key="ui_event_crossworld_opr_description" rel_version="Feature_Cross_World_Social">Outpost Rush now supports cross world play! Eliminate enemies, collect resources and fortify defenses with players from anywhere in your region.</string>
-	<string key="ui_event_crossworld_opr_descriptionbullet1" rel_version="Feature_Cross_World_Social">&lt;b&gt;Scoring:&lt;/b&gt; More points for defending, capturing, and tanking.</string>
-	<string key="ui_event_crossworld_opr_descriptionbullet2" rel_version="Feature_Cross_World_Social">&lt;b&gt;Fort:&lt;/b&gt; Stronger turrets and gates.</string>
-	<string key="ui_event_crossworld_opr_descriptionbullet3" rel_version="Feature_Cross_World_Social">&lt;b&gt;Death:&lt;/b&gt; OPR resources dropped reduced by 50%.</string>
-	<string key="ui_event_crossworld_opr_descriptionbullet4" rel_version="Feature_Cross_World_Social">&lt;b&gt;Summon Stones:&lt;/b&gt; Removed Azoth costs. Close the portal for the Demon Stone, and slay the Alpha Wolf for the Bear Stone.</string>
-	<string key="ui_event_crossworld_opr_descriptionbullet5" rel_version="Feature_Cross_World_Social">&lt;b&gt;Baroness:&lt;/b&gt; New barriers added to its arena.</string>
-	<string key="ui_event_crossworld_opr_about" rel_version="Feature_Cross_World_Social">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Cross-World Outpost Rush</string>
-	<string key="ui_event_first_light_fallen_title" rel_version="Territory_FirstLightRetraction">First Light has Fallen!</string>
-	<string key="ui_event_first_light_fallen_description" rel_version="Territory_FirstLightRetraction">The Angry Earth have overrun Old First Light. Answering the sinister call of the Ancient huntress Adiana, they've destroyed homes and taken our friends captive, now subjecting them to unknown horrors behind a wall of thorns barring entry to any adventurers.</string>
-	<string key="ui_event_first_light_fallen_descriptionbullet1" rel_version="Territory_FirstLightRetraction">&lt;b&gt;Quests:&lt;/b&gt; All regional quests from Old First Light have been canceled.</string>
-	<string key="ui_event_first_light_fallen_descriptionbullet2" rel_version="Territory_FirstLightRetraction">&lt;b&gt;Storage:&lt;/b&gt; Once all items are claimed, Old First Light storage will be closed.</string>
-	<string key="ui_event_first_light_fallen_descriptionbullet3" rel_version="Territory_FirstLightRetraction">&lt;b&gt;Trading Post:&lt;/b&gt; Any pending transactions are accessible from other territories.</string>
-	<string key="ui_event_first_light_fallen_descriptionbullet4" rel_version="Territory_FirstLightRetraction">&lt;b&gt;Housing:&lt;/b&gt; A compensation for the loss of housing has been made. All furniture from your home has been placed in the storage.</string>
-	<string key="ui_event_first_light_fallen_descriptionbullet5" rel_version="Territory_FirstLightRetraction">&lt;b&gt;Governing Company:&lt;/b&gt; A one-time deposit has been paid into your treasury for the loss of the territory.</string>
-	<string key="ui_event_first_light_fallen_about" rel_version="Territory_FirstLightRetraction">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About First Light Has Fallen</string>
-	<string key="ui_event_summer_medleyfaire_2023_title" rel_version="Event_Summer2023_Perm">Reel fun awaits at the Medleyfaire!</string>
-	<string key="ui_event_summer_medleyfaire_2023_description" rel_version="Event_Summer2023_Perm">Aeternum's summer festival returns! Unlock a new jam by completing Event Activities; then strum away to collect Medleyfaire tokens and a new title. Celebrate at the festival grounds in Monarch's Bluff, Everfall, Brightwood, and Weaver's Fen.</string>
-	<string key="ui_event_summer_medleyfaire_2023_bullet1" rel_version="Event_Summer2023_Perm">Maestro Hat</string>
-	<string key="ui_event_summer_medleyfaire_2023_bullet2" rel_version="Event_Summer2023_Perm">Weapon Skins</string>
-	<string key="ui_event_summer_medleyfaire_2023_bullet3" rel_version="Event_Summer2023_Perm">Emotes</string>
-	<string key="ui_event_summer_medleyfaire_2023_about" rel_version="Event_Summer2023_Perm">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Summer Medleyfaire</string>
-	<string key="ui_event_arena_shah_neshen_title" rel_version="Trial_Brimstone_Sandworm">Arena of Shah Neshen</string>
-	<string key="ui_event_arena_shah_neshen_description" rel_version="Trial_Brimstone_Sandworm">The rekindled fires of Ennead called the primal terror from the deep beneath the sands. Now the Great Devourer stalks the dunes of Brimstone once again. Gather your bravest warriors at the Ambuscade. Can you defeat the spawn of the Titans? \n\n&lt;font color="#edc63e"&gt;Requires 20 person raid group.&lt;/font&gt;</string>
-	<string key="ui_event_arena_shah_neshen_bullet1" rel_version="Trial_Brimstone_Sandworm">Armor Skins</string>
-	<string key="ui_event_arena_shah_neshen_bullet2" rel_version="Trial_Brimstone_Sandworm">Weapon Skins</string>
-	<string key="ui_event_arena_shah_neshen_about" rel_version="Trial_Brimstone_Sandworm">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Arena of Shah Neshen</string>
-	<string key="ui_event_dunewalker_trial_title" rel_version="Season_2_Trial">The Hatchery</string>
-	<string key="ui_event_dunewalker_trial_description" rel_version="Season_2_Trial">Dark forces have unearthed The Hatchery, a long-forgotten chamber, buried deep beneath the sands of Neapolis. There, they conspire to rip Aeternum asunder with a horde of sandwurms.\n\nRally with up to nine other adventurers to crush wave after wave of enemies in this high stakes, high reward trial. Stand victorious, and walk away with unique riches.</string>
-	<string key="ui_event_dunewalker_trial_bullet1" rel_version="Season_2_Trial">Armor Skins</string>
-	<string key="ui_event_dunewalker_trial_bullet2" rel_version="Season_2_Trial">Weapon Skins</string>
-	<string key="ui_event_dunewalker_trial_about" rel_version="Season_2_Trial">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About The Hatchery</string>
-	<string key="ui_event_jul_mtx_title" comment="DO NOT TRANSLATE" rel_version="Entitlements_DeepSea">Deep Sea</string>
-	<string key="ui_event_jul_mtx_description" comment="DO NOT TRANSLATE" rel_version="Entitlements_DeepSea">Deep Sea</string>
-	<string key="ui_event_jul_mtx_bullet1" comment="DO NOT TRANSLATE" rel_version="Entitlements_DeepSea">Apparel Skins</string>
-	<string key="ui_event_jul_mtx_bullet2" comment="DO NOT TRANSLATE" rel_version="Entitlements_DeepSea">Weapon Skins</string>
-	<string key="ui_event_jul_mtx_bullet3" comment="DO NOT TRANSLATE" rel_version="Entitlements_DeepSea">Emotes</string>
-	<string key="ui_event_jul_mtx_about" comment="DO NOT TRANSLATE" rel_version="Entitlements_DeepSea">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Deep Sea</string>
-	<string key="ui_event_season_two_title" rel_version="Season_2_Perm">Blood of the Sands</string>
-	<string key="ui_event_season_two_description" rel_version="Season_2_Perm">A new epic adventure awaits you and the Silver Crows in the sweltering heat of Brimstone Sands.\n\nMalek, a man claiming to be with the ancient order Blood of the Sands, is willing to pay you handsomely for primordial artifacts - Sandwurm eggs.\nJoin Grace O'Malley, Zander, and a new cast of characters as you discover the ancient power that has awakened beneath the shifting dunes.\n\n&lt;font color="#edc63e"&gt;Level 60 players&lt;/font&gt; can start their adventure by visiting any Crow's Nest location found in Edengrove, Shattered Mountain, and Brimstone Sands.</string>
-	<string key="ui_event_season_two_about" rel_version="Season_2_Perm">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Season Two</string>
-	<string key="ui_event_pvp_arena_map_2_title" rel_version="Feature_PVP_Arena02">New 3v3 Arena Map!</string>
-	<string key="ui_event_pvp_arena_map_2_description" rel_version="Feature_PVP_Arena02">The fight promoter, Maximus Marcellus, is spreading word of a ruined gladiatorial pit in Brimstone Sands.\n\nGather your team and your wits to master this new arena of varying heights!</string>
-	<string key="ui_event_pvp_arena_map_2_about" rel_version="Feature_PVP_Arena02">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About New 3v3 Arena Map</string>
-	<string key="ui_event_aug_mtx_title" rel_version="Entitlements_Balance">Balance</string>
-	<string key="ui_event_aug_mtx_description" rel_version="Entitlements_Balance">There is a constant swirl in the balance between light and shadow, the real and the void. Do you take sides in this eternal conflict? Or do you remain committed to neutrality? Take a stand and look for new apparel skins, weapon skins, and emote bundles in the store throughout the month!</string>
-	<string key="ui_event_aug_mtx_about" rel_version="Entitlements_Balance">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Balance</string>
-	<string key="ui_event_call_of_the_wilds_title" rel_version="Season_3_Perm">Call of the Wilds</string>
-	<string key="ui_event_call_of_the_wilds_description" rel_version="Season_3_Perm">Ride mounts through the lush greenery of Elysian Wilds or follow your favorite streamers in the Call of the Wilds event on Twitch. Watch as they experience new Influence Races, encounter primordial Beast Lords, and explore powerful new combat options until 10/09/2023.\n\nAnswer the Call!</string>
-	<string key="ui_event_call_of_the_wilds_about" rel_version="Season_3_Perm">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Call of the Wilds</string>
-	<string key="ui_event_rise_of_the_angry_earth_title" rel_version="Feature_Expansion_1">Rise of the Angry Earth</string>
-	<string key="ui_event_rise_of_the_angry_earth_description" rel_version="Feature_Expansion_1">A new threat arises in the dark jungles of the Elysian Wilds, and only you can rise to face it.\n\nRumors are spreading of the terrors that await unwary travelers beyond the borders of the forest. Delve into the unknown to brave the Wilds and put a stop to Artemis' ancient and powerful magics — before her primal army wipes out all humanity from the face of Aeternum.\n\n&lt;font color="#edc63e"&gt;&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Purchase the Rise of the Angry Earth DLC&lt;/font&gt;&lt;/font&gt; to unlock the Elysian Wilds, as well as exclusive content such as the brand-new Flail, powerful Artifacts, exclusive craftables, and Mounts!</string>
-	<string key="ui_event_rise_of_the_angry_earth_about" rel_version="Feature_Expansion_1">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Rise of the Angry Earth</string>
-	<string key="ui_event_season_three_title" rel_version="Season_3_Perm">Season 3</string>
-	<string key="ui_event_season_three_description" rel_version="Season_3_Perm">The scourge of the Angry Earth has risen! Complete Season 3 Activities and Journey Challenges to claim new, exclusive prizes — from all-new gear unearthed in the savage depths of the Elysian Wilds to mysterious Artifacts more powerful than anything seen before. </string>
-	<string key="ui_event_season_three_bullet1" rel_version="Season_3_Perm">Mount Attachments</string>
-	<string key="ui_event_season_three_bullet2" rel_version="Season_3_Perm">Artifacts</string>
-	<string key="ui_event_season_three_bullet3" rel_version="Season_3_Perm">Transmog Tokens</string>
-	<string key="ui_event_season_three_about" rel_version="Season_3_Perm">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Season Three</string>
-	<string key="ui_event_savage_divide_title" rel_version="Expedition_FirstLight_01">Savage Divide</string>
-	<string key="ui_event_savage_divide_description" rel_version="Expedition_FirstLight_01">Two wild Beast Lords have retreated to the ancient caverns beneath the Elysian Wilds. There, they lie in wait, amassing their strength as elemental rage twists them and their tribes into savage creatures. Rally together with your fellow fighters and delve into the dark miasma of the Savage Divide to face the ferocious Beast Lords and stem the onslaught of Medusa’s foul magics!\n\n&lt;font color="#edc63e"&gt;&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Requires Rise of the Angry Earth.&lt;/font&gt;&lt;/font&gt;</string>
-	<string key="ui_event_savage_divide_about" rel_version="Expedition_FirstLight_01">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Savage Divide</string>
-	<string key="ui_event_mounts_title" rel_version="Feature_Mounts">Mounts</string>
-	<string key="ui_event_mounts_description" rel_version="Feature_Mounts">In Northern Everfall, the son of a legendary warlord has long been searching for a way to put his prowess as a horse trainer to use, and he wants you to assist him! Find Jochi in Everfall to begin your journey as a trainer, befriend three species of Mounts, and level up your loyal four-legged friends by feeding them and taking part in timed races and rallies!\n\n&lt;font color="#edc63e"&gt;&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Requires Rise of the Angry Earth.&lt;/font&gt;&lt;/font&gt;</string>
-	<string key="ui_event_mounts_bullet1" rel_version="Feature_Mounts">Mount Skins</string>
-	<string key="ui_event_mounts_bullet2" rel_version="Feature_Mounts">Races</string>
-	<string key="ui_event_mounts_bullet3" rel_version="Feature_Mounts">Attachments</string>
-	<string key="ui_event_mounts_about" rel_version="Feature_Mounts">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Mounts</string>
-	<string key="ui_event_first_light_mtx_title" rel_version="Entitlements_FirstLightMTX">Opulent Verdure</string>
-	<string key="ui_event_first_light_mtx_description" rel_version="Entitlements_FirstLightMTX">What do you see in the early dawn at first light? The elegant beauty and raw power of nature? Or the flash of ancient steel, the flex of a finely crafted bow? New elegant and deadly implements are in the Store now!</string>
-	<string key="ui_event_first_light_mtx_bullet1" rel_version="Entitlements_FirstLightMTX">Armor Skins</string>
-	<string key="ui_event_first_light_mtx_bullet2" rel_version="Entitlements_FirstLightMTX">Weapon Skins</string>
-	<string key="ui_event_first_light_mtx_bullet3" rel_version="Entitlements_FirstLightMTX">Emotes</string>
-	<string key="ui_event_first_light_mtx_about" rel_version="Entitlements_FirstLightMTX">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Opulent Verdure</string>
-	<string key="ui_event_flail_tabname" rel_version="Weapon_Flail">Weapon</string>
-	<string key="ui_event_flail_title" rel_version="Weapon_Flail">Flail</string>
-	<string key="ui_event_flail_description" rel_version="Weapon_Flail">Take up arms against the Angry Earth scourge with the all-new Flail! Craft your own or slay your enemies in search of one, then swing your way to victory using both magic and might!\n\n&lt;font color="#edc63e"&gt;&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Requires Rise of the Angry Earth.&lt;/font&gt;&lt;/font&gt;</string>
-	<string key="ui_event_flail_about" rel_version="Weapon_Flail">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About the Flail</string>
-	<string key="ui_event_artifacts_tabname" rel_version="Feature_Artifacts">Artifacts</string>
-	<string key="ui_event_artifacts_title" rel_version="Feature_Artifacts">Artifacts</string>
-	<string key="ui_event_artifacts_description" rel_version="Feature_Artifacts">Mysterious Artifacts have been unearthed across Aeternum, each bearing unique and powerful abilities waiting to be harnessed! Begin the search for yours today, then embark on unique quests to strengthen and attune your artifact until it — and you — are more powerful than ever!\n\n&lt;font color="#edc63e"&gt;&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Requires Rise of the Angry Earth.&lt;/font&gt;&lt;/font&gt;</string>
-	<string key="ui_event_artifacts_about" rel_version="Feature_Artifacts">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Artifacts</string>
-	<string key="ui_event_influence_2_tabname" rel_version="Feature_Influence_V2">Influence</string>
-	<string key="ui_event_influence_2_title" rel_version="Feature_Influence_V2">Influence</string>
-	<string key="ui_event_influence_2_description" rel_version="Feature_Influence_V2">Join forces with friends to conquer Watch Towers and spread your faction’s influence across the lands of Aeternum! Battle for the right to lay siege to enemy territories by taking part in daily influence races — or hold your own against invading forces to prove your mettle to those who would try to usurp your lands.</string>
-	<string key="ui_event_influence_2_about" rel_version="Feature_Influence_V2">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Influence</string>
-	<string key="ui_event_oct_mtx_title" rel_version="Entitlements_DeepSea">Umbral Rites</string>
-	<string key="ui_event_oct_mtx_description" rel_version="Entitlements_DeepSea">The barrier between the spirit world and the physical world is thin on Aeternum. Be careful what spirits you summon! They just may stay longer than you planned. Visit the Shop today for nightmarish new visions!</string>
-	<string key="ui_event_oct_mtx_about" rel_version="Entitlements_DeepSea">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Umbral Rites</string>
-	<string key="ui_event_nov_mtx_title" rel_version="Entitlements_Gothknight">Knightsbane Legion</string>
-	<string key="ui_event_nov_mtx_description" rel_version="Entitlements_Gothknight">Beware the threat on the horizon! The Dark Legion invades the store this month! Special item skins for those who have abandoned the code of chivalry are now available. Arm yourself for battle and smile as your opponents' blood runs cold at the sight of you!</string>
-	<string key="ui_event_nov_mtx_about" rel_version="Entitlements_Gothknight">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Knightsbane Legion</string>
-	<string key="ui_event_black_friday_2023_mtx_title" rel_version="Entitlements_Gothknight">Black Friday Deals!</string>
-	<string key="ui_event_black_friday_2023_mtx_description" rel_version="Entitlements_Gothknight">Do you bash your way through mobs or do you prefer to stand back and set them aflame? Or perhaps draw the perfect aim with your bow? Whatever your style, visit the store for special promo bundles featuring unvaulted content and brand new skins! Select housing items and tool skins are 50% for a limited time!</string>
-	<string key="ui_event_black_friday_2023_mtx_about" rel_version="Entitlements_Gothknight">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Black Friday Deals</string>
-	<string key="ui_event_black_friday_2023_mtx_bullet1" rel_version="Entitlements_Gothknight">Maulers &amp; Brawlers</string>
-	<string key="ui_event_black_friday_2023_mtx_bullet2" rel_version="Entitlements_Gothknight">Gladekeeper</string>
-	<string key="ui_event_black_friday_2023_mtx_bullet3" rel_version="Entitlements_Gothknight">Hunter's Instinct</string>
-	<string key="ui_event_dec_2023_mtx_title" rel_version="Entitlements_Ronin">Ronin</string>
-	<string key="ui_event_dec_2023_mtx_description" rel_version="Entitlements_Ronin">In a ravaged and uncertain place like Aeternum, it is rare to find one fully committed to honor and loyalty. If you walk the warrior's path, visit the Store for new Ronin's Shadow items!</string>
-	<string key="ui_event_dec_2023_mtx_about" rel_version="Entitlements_Ronin">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About December MTX Placeholder</string>
-	<string key="ui_event_season_four_title" rel_version="Season_4_Perm">Eternal Frost</string>
-	<string key="ui_event_season_four_description" rel_version="Season_4_Perm">The time of Frozen Wrath is nigh upon us! Complete Season 4 Activities and Journey Challenges to claim new, exclusive prizes — chill your bones in all-new gear unearthed from the icy depths of the Glacial Tarn, and gather unique artifacts as you lead the Silver Crows to battle the full might of Winter.</string>
-	<string key="ui_event_season_four_about" rel_version="Season_4_Perm">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Eternal Frost</string>
-	<string key="ui_event_winter_convergence_2023_title" rel_version="Event_WinterConvergence2023_Perm">Winter Convergence</string>
-	<string key="ui_event_winter_convergence_2023_description" rel_version="Event_WinterConvergence2023_Perm">The Winter Warrior and his glacial minions have descended upon Aeternum once again, bringing with them the icy threat of the forever Winter! Gather your friends and spread the warmth and cheer of the Convergence to fight back the bitter chill, then seek out the jolly Winter Wanderer in Winter Villages across Aeternum to earn a bounty of limited-time rewards!</string>
-	<string key="ui_event_winter_convergence_2023_about" rel_version="Event_WinterConvergence2023_Perm">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Winter Convergence</string>
-	<string key="ui_event_glacial_tarn_title" rel_version="Expedition_GreatCleave_00">Glacial Tarn</string>
-	<string key="ui_event_glacial_tarn_description" rel_version="Expedition_GreatCleave_00">Icy primordial forces have been unearthed within Great Cleave, summoned forth by the twisted experiments of Ser Loth! Delve into the freezing depths of the Glacial Tarn, where ancient and powerful elemental magicks await. Harness the power of the Empyrean Flame to battle your way through the glacial onslaught, and put an end to the dark mage’s plot once and for all!</string>
-	<string key="ui_event_glacial_tarn_about" rel_version="Expedition_GreatCleave_00">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Glacial Tarn</string>
-	<string key="ui_event_controller_tabname" comment="DO NOT TRANSLATE" rel_version="Feature_Controller">Controller</string>
-	<string key="ui_event_controller_title" comment="DO NOT TRANSLATE" rel_version="Feature_Controller">Controller Title Placeholder</string>
-	<string key="ui_event_controller_description" comment="DO NOT TRANSLATE" rel_version="Feature_Controller">Controller Description Placeholder</string>
-	<string key="ui_event_controller_about" comment="DO NOT TRANSLATE" rel_version="Feature_Controller">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Controller</string>
-	<string key="ui_event_legacy_of_crassus_2024_title" rel_version="Event_Legacy_Of_Crassus2024">Legacy of Crassus</string>
-	<string key="ui_event_legacy_of_crassus_2024_description" rel_version="Event_Legacy_Of_Crassus2024">Crassus returns with his monstrous legion in tow! Rally your forces and battle the brutish captains Decimus and Lucanus in Brightwood, Mourningdale, Weaver’s Fen, Edengrove, and Ebonscale Reach. Fight back the Roman onslaught and defeat the dark grasp of Corruption for honor, glory, and limited-time rewards!</string>
-	<string key="ui_event_legacy_of_crassus_2024_bullet1" rel_version="Event_Legacy_Of_Crassus2024">Legion Pickaxe</string>
-	<string key="ui_event_legacy_of_crassus_2024_bullet2" rel_version="Event_Legacy_Of_Crassus2024">Decimus Statue</string>
-	<string key="ui_event_legacy_of_crassus_2024_bullet3" rel_version="Event_Legacy_Of_Crassus2024">Lucanus Statue</string>
-	<string key="ui_event_legacy_of_crassus_2024_about" rel_version="Event_Legacy_Of_Crassus2024">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Legacy of Crassus</string>
-	<string key="ui_event_jan_2024_mtx_title" rel_version="Entitlements_Ronin">Ronin Part II</string>
-	<string key="ui_event_jan_2024_mtx_description" rel_version="Entitlements_Ronin">Ronin's Shadow stretches longer over the land! Visit the shop for new samurai-themed items!</string>
-	<string key="ui_event_jan_2024_mtx_about" rel_version="Entitlements_Ronin">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Ronin Part II</string>
-	<string key="ui_event_year_of_the_dragon_title" rel_version="Event_Lunar_NewYear2024_Perm">Year of the Dragon</string>
-	<string key="ui_event_year_of_the_dragon_description" rel_version="Event_Lunar_NewYear2024_Perm">Celebrate the Lunar New Year with the denizens of Ebonscale Reach. Cook up delicious food at the hot pot, take in the spectacular fireworks in the evening, and complete tribute runs to gain the Dragon's blessing during the Year of the Dragon.</string>
-	<string key="ui_event_year_of_the_dragon_bullet2" rel_version="Event_Lunar_NewYear2024_Perm">Dark Matter</string>
-	<string key="ui_event_year_of_the_dragon_bullet3" rel_version="Event_Lunar_NewYear2024_Perm">Hotpot</string>
-	<string key="ui_event_year_of_the_dragon_about" rel_version="Event_Lunar_NewYear2024_Perm">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Year of the Dragon</string>
-	<string key="ui_event_feb_2024_mtx_title" rel_version="Entitlements_WinterMerc">Winter Mercenary</string>
-	<string key="ui_event_feb_2024_mtx_description" rel_version="Entitlements_WinterMerc">With a heart as cold as the frozen landscape and a willingness to fight in conditions unbearable for others, the Winter Mercenary is a fearsome foe! Outfit yourself for the winter months with new items available in the Store!</string>
-	<string key="ui_event_feb_2024_mtx_about" rel_version="Entitlements_WinterMerc">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Winter Mercenary</string>
-	<string key="ui_event_activity_finder_tabname" rel_version="Feature_PUG_Finder">Activities</string>
-	<string key="ui_event_activity_finder_title" rel_version="Feature_PUG_Finder">Activity Finder</string>
-	<string key="ui_event_activity_finder_description" rel_version="Feature_PUG_Finder">The new Activity Finder adds Cross World Expeditions alongside an improved Group Finding experience. Check out the new Activities Menu to find it.\n\nNew stuff includes:</string>
-	<string key="ui_event_activity_finder_description_bullet1" rel_version="Feature_PUG_Finder">Cross World Expedition Finder</string>
-	<string key="ui_event_activity_finder_description_bullet2" rel_version="Feature_PUG_Finder">Cross World matchmaker will fill groups for Normal and Mutated Expeditions (M1 and M2 only)</string>
-	<string key="ui_event_activity_finder_description_bullet3" rel_version="Feature_PUG_Finder">Bonus rewards when queuing for Random and for playing as healer or tank</string>
-	<string key="ui_event_activity_finder_description_bullet4" rel_version="Feature_PUG_Finder">Automatic backfill of Cross-World groups</string>
-	<string key="ui_event_activity_finder_about" rel_version="Feature_PUG_Finder">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Activities</string>
-	<string key="ui_event_season_five_tabname" rel_version="Season_5_Perm">Season 5</string>
-	<string key="ui_event_season_five_title" rel_version="Season_5_Perm">Season of Trials</string>
-	<string key="ui_event_season_five_description" rel_version="Season_5_Perm">The Season of Trials has arrived! Revisit old foes and chase exciting, new artifacts. Venture into the Winter Rune Forge and fight all that await with ten of your closest friends. Earn incredible rewards including skins, artifacts, and more with the Season of Trials reward track.</string>
-	<string key="ui_event_season_five_about" rel_version="Season_5_Perm">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Season 5</string>
-	<string key="ui_event_mar_2024_mtx_title" rel_version="Entitlements_Reaper">Reaper's Embrace</string>
-	<string key="ui_event_mar_2024_mtx_description" rel_version="Entitlements_Reaper">It's no joke when Death knocks on your door! Visit the store for new Grim Reaper items available for a limited time! You might as well look sharp on your way to the Underworld!</string>
-	<string key="ui_event_mar_2024_mtx_about" rel_version="Entitlements_Reaper">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Reaper's Embrace</string>
+	<string key="ui_news_bullet_apparel_skin">Apparel Skin</string>
+	<string key="ui_news_bullet_apparel_skins">Apparel Skins</string>
+	<string key="ui_event_weapon_xp_tabname">XP Event</string>
+	<string key="ui_event_weapon_xp_title">WEAPON XP BONUS EVENT</string>
+	<string key="ui_event_weapon_xp_desc">Active bonuses:</string>
+	<string key="ui_event_gathering_xp_tabname">XP Event</string>
+	<string key="ui_event_gathering_xp_title">GATHERING XP BONUS EVENT</string>
+	<string key="ui_event_gathering_xp_desc">Active bonuses:</string>
+	<string key="ui_event_character_xp_tabname">XP Event</string>
+	<string key="ui_event_character_xp_title">LEVEL XP BONUS EVENT</string>
+	<string key="ui_event_character_xp_desc">Active bonuses:</string>
+	<string key="ui_event_refining_xp_tabname">XP Event</string>
+	<string key="ui_event_refining_xp_title">REFINING XP BONUS EVENT</string>
+	<string key="ui_event_refining_xp_desc">Active bonuses:</string>
+	<string key="ui_event_extravaganza_tabname">XP Event</string>
+	<string key="ui_event_extravaganza_title">XP EXTRAVAGANZA</string>
+	<string key="ui_event_extravaganza_desc">Active bonuses:</string>
+	<string key="ui_news_end_game_tabname">Endgame</string>
+	<string key="ui_news_end_game_description">At level 60, you're now able to&lt;font color="#edc63e"&gt; upgrade your equipment &lt;/font&gt;to higher gear scores. To do this, you'll need to harvest Gypsum from various Level 60 activities and locations. Visit a&lt;font color="#edc63e"&gt; Gypsum Kiln &lt;/font&gt;to learn more.</string>
+	<string key="ui_end_game_panel1_title">ENDGAME ACTIVITIES</string>
+	<string key="ui_end_game_panel1_bullet1_title">Endgame Expeditions</string>
+	<string key="ui_end_game_panel1_bullet2_title">Outpost Rush</string>
+	<string key="ui_end_game_panel1_bullet3_title">Elite Areas</string>
+	<string key="ui_end_game_button_about" rel_version="PvP_Rewards_Track">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; About Endgame Activities</string>
 	<string key="ui_event_console_beta_preorder_tabname">Pre-Order</string>
 	<string key="ui_event_console_beta_preorder_title">Pre-Order for the Azoth Stalker Wolf Mount</string>
 	<string key="ui_event_console_beta_preorder_description">Pre-order New World: Aeternum Standard or Deluxe Edition and receive the Azoth Stalker Wolf Mount when the game launches on October 15th!</string>
@@ -401,36 +94,9 @@
 	<string key="ui_event_console_beta_preorder_news_bullet_azoth_stalker">Azoth Stalker</string>
 	<string key="ui_event_console_beta_preorder_news_bullet_mount_skins_deluxe">Mount Skins\n(Deluxe)</string>
 	<string key="ui_event_console_beta_preorder_news_bullet_armor_skins_deluxe">Armor Skins\n(Deluxe)</string>
-	<string key="ui_event_console_beta_rewards_tabname">Open Beta</string>
-	<string key="ui_event_console_beta_rewards_title">Play in the Open Beta September 6 - 9</string>
-	<string key="ui_event_console_beta_rewards_description">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;ARRIVE. SURVIVE. THRIVE.&lt;/font&gt;\n\nRegister for the Open Beta and experience the thrilling open-world action RPG on the supernatural Island of Aeternum. Participating in the Open Beta will earn you exclusive rewards to use on your adventure when you purchase the full game.</string>
-	<string key="ui_event_console_beta_rewards_news_bullet1">Level 10</string>
-	<string key="ui_event_console_beta_rewards_news_bullet2">Level 15</string>
-	<string key="ui_event_console_beta_rewards_news_bullet3">Level 20</string>
-	<string key="ui_event_console_beta_rewards_news_bullet4">Level 25</string>
-	<string key="ui_event_apr_2024_mtx_title" comment="DO NOT TRANSLATE" rel_version="Entitlements_BattleMage">Battle Mage Placeholder</string>
-	<string key="ui_event_apr_2024_mtx_description" comment="DO NOT TRANSLATE" rel_version="Entitlements_BattleMage">Why get your hands dirty swinging a sword or hammer when you can stand back and launch balls of fire into the battle? Even better, why not look good while doing it? New cosmetics have teleported into the Store, perfect for the discerning Battle Mage!</string>
-	<string key="ui_event_apr_2024_mtx_about" comment="DO NOT TRANSLATE" rel_version="Entitlements_BattleMage">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Battle Mage Placeholder</string>
-	<string key="ui_event_season_six_tabname" rel_version="Season_5_Perm">Season 6</string>
-	<string key="ui_event_season_six_title" rel_version="Season_6_Perm">Season of Opportunity</string>
-	<string key="ui_event_season_six_description" rel_version="Season_6_Perm">Carve your destiny through the depths of Aeternum to uncover seasonal armor and weapon skins, transmog tokens, and other treasures long lost to the outside world. Welcome to the cursed isle.</string>
-	<string key="ui_event_season_six_about" rel_version="Season_6_Perm">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Season 6</string>
-	<string key="ui_event_hercyne_raid_title" rel_version="Raid_CutlassKeys_00">Gorgon's Hive</string>
-	<string key="ui_event_hercyne_raid_description" rel_version="Raid_CutlassKeys_00">Beware Gorgon's Hive, our new 10 player Raid starting from Cutlass Keys. With three bosses, Gorgon's Hive will feature the highest Gear Score items in the game, ranging up to 725 GS. These rewards come with a weekly loot lockout.\n\nWe look forward to your first impressions and feedback!</string>
-	<string key="ui_event_hercyne_raid_about" rel_version="Raid_CutlassKeys_00">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Hercyne Raid</string>
-	<string key="ui_event_bear_mount_title" rel_version="Feature_Mounts_Bear">Bear Mounts</string>
-	<string key="ui_event_bear_mount_description" rel_version="Feature_Mounts_Bear">As Man's bond with the beasts has become stronger, the creatures of the wild have taken note. Horse, Wolf, and Lion alike have found adventure and harmony with the heroes of Aeternum. Now a new beast comes to bear humans onwards and forwards. Venture forth and meet the new mount: Bears!\n\n&lt;font color="#edc63e"&gt;&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Requires Rise of the Angry Earth.&lt;/font&gt;&lt;/font&gt;</string>
-	<string key="ui_event_bear_mount_about" rel_version="Feature_Mounts_Bear">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Bear Mounts</string>
-	<string key="ui_news_bear_mount_bullet1" rel_version="Feature_Mounts_Bear">Renboga</string>
-	<string key="ui_news_bear_mount_bullet2" rel_version="Feature_Mounts_Bear">Goliath</string>
-	<string key="ui_news_bear_mount_bullet3" rel_version="Feature_Mounts_Bear">Morti</string>
-	<string key="ui_event_ffa_title" rel_version="Territory_CutlassKeys_Rework">Curse of Cutlass Keys</string>
-	<string key="ui_event_ffa_description" rel_version="Territory_CutlassKeys_Rework">A Curse has descended upon the Cutlass Keys, and only you can lift it. Rumors are spreading of a vile fog, turning treasure seeking pirates into the maddened Goldcursed. Beware, as you plunder the uncharted islands of the Cutlass Keys. There, the greed for treasure takes hold. Your allies will succumb to the mists, and become your foes. Within the Cursed Mists, you are on your own. The Free-for-All PVP game mode is now available. Some Cutlass Keys quests have been abandoned.</string>
-	<string key="ui_event_ffa_about" rel_version="Territory_CutlassKeys_Rework">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Curse of Cutlass Keys</string>
-	<string key="ui_event_ffa_bullet1" rel_version="Territory_CutlassKeys_Rework">Doubloons</string>
-	<string key="ui_event_aug_2024_mtx_title" rel_version="Season_6_Perm">Reaper</string>
-	<string key="ui_event_aug_2024_mtx_description" rel_version="Season_6_Perm">Death stalks Aeternum in this momentous time. Check the store for new Reaper skins and classics from the vault like the Assassin's Whisper set! Silence your enemies and claim their souls!</string>
-	<string key="ui_event_aug_2024_mtx_about" rel_version="Season_6_Perm">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Reaper</string>
+	<string key="ui_event_season_seven_title" rel_version="Season_7_Perm">Season of Conquerors</string>
+	<string key="ui_event_season_seven_description" rel_version="Season_7_Perm">Seek a new beginning and fight for dominance in a unique Seasonal Server encouraging player vs. player combat. Earn a bounty of new artifacts, skins, and more on the Season of Conquerors reward track.</string>
+	<string key="ui_event_season_seven_about" comment="DO NOT TRANSLATE" rel_version="Season_7_Perm">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Season 7 Placeholder</string>
 	<string key="ui_news_rise_of_the_angry_earth_expansion_title">Experience all Aeternum has to Offer</string>
 	<string key="ui_news_rise_of_the_angry_earth_expansion_description">Get the complete New World: Aeternum experience.\n\nPC players who have the Rise of the Angry Earth expansion get access to all of the features in New World: Aeternum, include major additions like:</string>
 	<string key="ui_news_rise_of_the_angry_earth_expansion_about">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Rise of the Angry Earth</string>
@@ -438,8 +104,23 @@
 	<string key="ui_news_rise_of_the_angry_earth_expansion_icon2">Flail</string>
 	<string key="ui_news_rise_of_the_angry_earth_expansion_icon3">10-Player Raid</string>
 	<string key="ui_news_rise_of_the_angry_earth_expansion_purchase_button">Buy Now</string>
+	<string key="ui_event_siege_of_sulfur_title_2025">Siege of Sulfur</string>
+	<string key="ui_event_siege_of_sulfur_description_2025">Sharif's Blood of the Sands mages are under attack! While transporting valuable Sandwurm Eggs to secure locations around Aeternum, these mages have been assaulted by the forces of Adiana. Enraged Sulfur Elementals are attempting to destroy the eggs and eradicate the wurms from Aeternum. Defend the eggs and earn valuable rewards including powerful gear and sizzling housing items and cosmetics.</string>
+	<string key="ui_event_legacy_of_crassus_title_2025">Legacy of Crassus</string>
+	<string key="ui_event_legacy_of_crassus_description_2025">Crassus returns with his monstrous legion in tow! Rally your forces and battle the brutish captains Decimus and Lucanus in Brightwood, Mourningdale, Weaver’s Fen, and Ebonscale Reach. Fight back the Roman onslaught and defeat the dark grasp of Corruption for honor, glory, and limited-time rewards!</string>
+	<string key="ui_event_rabbits_revenge_title_2025">Rabbit's Revenge!</string>
+	<string key="ui_event_rabbits_revenge_description_2025">Corrupted Rabbits have taken over Aeternum! Cull the corruption and earn ferocious rewards.</string>
+	<string key="ui_event_valkyrie_title" rel_version="Entitlements_Valkyrie">Valkyrie</string>
+	<string key="ui_event_valkyrie_description" rel_version="Entitlements_Valkyrie">New Valkyrie-themed content has arrived! Bare the armor who chooses those who may die in battle and those who may live.</string>
+	<string key="ui_event_valkyrie_about" rel_version="Entitlements_Valkyrie">About Valkyrie</string>
+	<string key="ui_event_barbarian_title" rel_version="Entitlements_Barbarian">Barbarian</string>
+	<string key="ui_event_barbarian_description" rel_version="Entitlements_Barbarian">New Barbarian-themed content has arrived! Apply the axe directly to the problem and repeat as needed.</string>
+	<string key="ui_event_barbarian_about" rel_version="Entitlements_Barbarian">About Barbarian</string>
+	<string key="ui_event_thick_as_thieves_title" rel_version="Entitlements_ThickThieves">Thick as Thieves</string>
+	<string key="ui_event_thick_as_thieves_description" rel_version="Entitlements_ThickThieves">Only the trusted enter the shadows; only the skilled leave unscathed. Embrace apparel forged for those as thick as thieves. New Thick as Thieves-themed content has arrived!</string>
+	<string key="ui_event_thick_as_thieves_about" rel_version="Entitlements_ThickThieves">About Thick as Thieves</string>
 	<string key="ui_event_legacy_of_crassus_title">Legacy of Crassus</string>
-	<string key="ui_event_legacy_of_crassus_description">Crassus returns with his monstrous legion in tow! Rally your forces and battle the brutish captains Decimus and Lucanus in Brightwood, Mourningdale, Weaver’s Fen, Edengrove, and Ebonscale Reach. Fight back the Roman onslaught and defeat the dark grasp of Corruption for honor, glory, and limited-time rewards!</string>
+	<string key="ui_event_legacy_of_crassus_description">Crassus returns with his monstrous legion in tow! Rally your forces and battle the brutish captains Decimus and Lucanus in Brightwood, Mourningdale, Weaver’s Fen, and Ebonscale Reach. Fight back the Roman onslaught and defeat the dark grasp of Corruption for honor, glory, and limited-time rewards!</string>
 	<string key="ui_event_legacy_of_crassus_bullet1">Legion Pickaxe</string>
 	<string key="ui_event_legacy_of_crassus_bullet2">Decimus Statue</string>
 	<string key="ui_event_legacy_of_crassus_bullet3">Lucanus Statue</string>

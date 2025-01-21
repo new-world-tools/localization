@@ -53,9 +53,9 @@
 	<string key="C10A_Table_Fei" rel_version="Territory_CutlassKeys_Rework">Fei's Collecting Station</string>
 	<string key="C10A_DoubloonGuard" rel_version="Territory_CutlassKeys_Rework">Settlement Guard</string>
 	<string key="C10A_DoubloonGuard_Title" rel_version="Territory_CutlassKeys_Rework">Doubloon Station Guard</string>
-	<string key="Dungeon_CutlassKeys00_Scalleywag" rel_version="Expedition_CutlassKeys_00">Antonio</string>
-	<string key="Dungeon_CutlassKeys00_Scalleywag_title" rel_version="Expedition_CutlassKeys_00">Scalleywag</string>
-	<string key="Dungeon_CutlassKeys00_Mariner" rel_version="Expedition_CutlassKeys_00">Tye</string>
+	<string key="Dungeon_CutlassKeys00_Scalleywag" rel_version="Expedition_CutlassKeys_00">Antonio Diego</string>
+	<string key="Dungeon_CutlassKeys00_Scalleywag_title" rel_version="Expedition_CutlassKeys_00">Scallywag</string>
+	<string key="Dungeon_CutlassKeys00_Mariner" rel_version="Expedition_CutlassKeys_00">Llewellyn Tye</string>
 	<string key="Dungeon_CutlassKeys00_Mariner_title" rel_version="Expedition_CutlassKeys_00">Mariner</string>
 	<string key="10_InnName">Buss's Blunder Inn</string>
 </resources>

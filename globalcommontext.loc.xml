@@ -225,7 +225,7 @@
 	<string key="ui_afflicted_insane">insane</string>
 	<string key="ui_afflicted_inspired">inspired</string>
 	<string key="ui_afflicted_poison">Acid Burn</string>
-	<string key="ui_afflicted_poison_tooltip">While suffering acid burn, you take 500% more damage from acid. You can remove Acid Burn with Acid Tnctures which can be crafted at an arcane station.</string>
+	<string key="ui_afflicted_poison_tooltip">While suffering acid burn, you take 500% more damage from acid. You can remove Acid Burn with Acid Tinctures which can be crafted at an arcane station.</string>
 	<string key="ui_afflicted_weakness">weak</string>
 	<string key="ui_afflicted_drowning">drowning</string>
 	<string key="ui_afflicted_drowning_tooltip">You have drowned to death.</string>
@@ -590,7 +590,7 @@
 	<string key="ui_craftingnearitemlimit">Near inventory item limit. Crafted items may be dropped.</string>
 	<string key="ui_inventory_warning_toofullforrewards">Too many items in inventory to receive rewards.</string>
 	<string key="ui_inventoryslotsremaining">Unique inventory item slots left: {count}</string>
-	<string key="ui_inventoryweightremaining">{Weight} remaining</string>
+	<string key="ui_inventoryweightremaining">&lt;img xPadding="2" src="LyShineUI/Images\Icons\Misc\Icon_weight.png"&gt;&lt;/img&gt;{Weight} remaining</string>
 	<string key="ui_inventoryMaxWeight">Overencumbered</string>
 	<string key="ui_inventoryweight">WEIGHT</string>
 	<string key="ui_inventoryslots">UNIQUE ITEMS</string>
@@ -898,6 +898,11 @@
 	<string key="ui_sampletooltipnthistool">Sample tooltip\nThis tooltip is a simple box with a frame that just displays text.</string>
 	<string key="ui_save">Save</string>
 	<string key="ui_se">SE</string>
+	<string key="ui_dodgesuppressed_exhausted">Dodge Suppressed - Exhausted</string>
+	<string key="ui_dodgesuppressed_stunned">Dodge Suppressed - Stunned</string>
+	<string key="ui_dodgesuppressed_staggered">Dodge Suppressed - Staggered</string>
+	<string key="ui_dodgesuppressed_sluggish" rel_version="PvPServerConquerorsItems">Dodge Suppressed - Sluggish, Attack Enemy to Remove Effect</string>
+	<string key="ui_unabletoBlock">Block - Suppressed</string>
 	<string key="ui_shift_modifier_toggle_popup_title" rel_version="Feature_Controller">Update Binding</string>
 	<string key="ui_shift_modifier_toggle_popup_message" rel_version="Feature_Controller">Modifier inputs are unique in this mode and cannot be used by any other action. Enabling modifier toggle will unbind any action with the same input. Continue?</string>
 	<string key="ui_binding_controller_success" rel_version="Feature_Controller">{action} was successfully rebound.</string>
@@ -1271,6 +1276,7 @@
 	<string key="ui_murderer_start_notification_message">You have been marked as a Murderer!</string>
 	<string key="ui_giveup_wait_for_revive">You can still be revived</string>
 	<string key="ui_giveup_deaths_door_header">At Death's Door</string>
+	<string key="ui_deathsdoortimer">Remaining time until you can Give Up: {DeathQueueNumber}</string>
 	<string key="ui_giveup_dungeon_revival_header">Revivals Remaining</string>
 	<string key="ui_giveup">Give Up</string>
 	<string key="ui_use_sacrifice">Use Sacrifice</string>
@@ -1867,6 +1873,7 @@
 	<string key="ui_repair_all_not_needed_equipment">No items to be repaired.</string>
 	<string key="ui_repair_all_confirmation">Repair costs:</string>
 	<string key="ui_repair_all_equipment_confirmation">Repair costs:</string>
+	<string key="ui_equipment_damaged">Equipment damaged</string>
 	<string key="ui_chat_mention_self_markup">&lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font" color="#ebe3d6"&gt;@{name}&lt;/font&gt;</string>
 	<string key="ui_and">and</string>
 	<string key="ui_or">Or</string>
@@ -2038,7 +2045,7 @@
 	<string key="ui_resource_quantity">{resourceName} {qtyHave} / {qtyNeeded}</string>
 	<string key="ui_escapemenu_proceed_to_new_world">Skip Tutorial</string>
 	<string key="ui_proceed_to_new_world_popup_title">Skip Tutorial</string>
-	<string key="ui_proceed_to_new_world_popup_message">Are you sure you want to skip the tutorial?\nYou will leave any coin, items, or experience behind.</string>
+	<string key="ui_proceed_to_new_world_popup_message">Are you sure you want to skip the tutorial?</string>
 	<string key="ui_milestone_correction_popup_title">Milestone Updated</string>
 	<string key="ui_milestone_correction_popup_message">Main Story Milestones have changed!\n\nAeternum is ever-evolving and you've been relocated to better experience the brand new stories and quests.</string>
 	<string key="ui_ffa_movement_popup_title" rel_version="Territory_CutlassKeys_Rework">Free-For-All Disabled</string>
@@ -2444,8 +2451,10 @@
 	<string key="ui_destroyBoundItemMessage">This item is bound to you, dropping it will destroy it. Do you want to destroy this item?</string>
 	<string key="ui_destroyBoundItems">Destroy Items?</string>
 	<string key="ui_destroyBoundItemsMessage">These items are bound to you, dropping them will destroy them. Do you want to destroy these items?</string>
-	<string key="ui_bindOnPickup">Bind On Pickup</string>
-	<string key="ui_bindOnEquip">Bind On Equip</string>
+	<string key="ui_dropOnDeath">Drop on Death</string>
+	<string key="ui_cannotBeRepaired">Cannot Be Repaired</string>
+	<string key="ui_bindOnPickup">Bind on Pickup</string>
+	<string key="ui_bindOnEquip">Bind on Equip</string>
 	<string key="ui_bindOnEquip_title">Bind Item</string>
 	<string key="ui_bindOnEquip_body">Bound items can only be used by you and cannot be traded.\n\nDo you want to equip this item?</string>
 	<string key="ui_boundToPlayer">Bound To Player</string>
@@ -2490,7 +2499,7 @@
 	<string key="hwm_loot_flail">Expertise Flail</string>
 	<string key="ui_time_display">&lt;font face="lyshineui/fonts/Pica_Regular.font"&gt;{time}&lt;/font&gt; ({timezone})</string>
 	<string key="ui_clusterwarning_title">ENTERING: {worldName}</string>
-	<string key="ui_clusterwarning_region">&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; Region: {regionName}\n</string>
+	<string key="ui_clusterwarning_region">&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; Region: {regionName}</string>
 	<string key="ui_clusterwarning_warning">&lt;font color={colorHex1}&gt;You can only have 1 character in the &lt;/font&gt; &lt;font face="lyshineui/fonts/nimbus_bold.font"&gt;&lt;font color={colorHex2}&gt;{worldSetName} World Set&lt;/font&gt;&lt;/font&gt;&lt;font color={colorHex1}&gt;.&lt;/font&gt;</string>
 	<string key="ui_clusterwarning_description1">If you want to play in another {worldSetName} World, you will need to delete this character in {worldName}</string>
 	<string key="ui_clusterwarning_description2">If you have friends playing in other {worldSetName} Worlds, you will not be able to play with them.</string>
@@ -2501,6 +2510,7 @@
 	<string key="ui_clusterwarning_transferoutonly">&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; Characters cannot transfer to this world.\n&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; Characters may transfer from this world.</string>
 	<string key="ui_clusterwarning_transferinonly">&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; Characters may transfer to this world.\n&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; Characters cannot transfer from this world.</string>
 	<string key="ui_clusterwarning_cannottransferinnorout">&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; Characters cannot transfer to this world.\n&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; Characters cannot transfer from this world.</string>
+	<string key="ui_clusterwarning_transferwarning">&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; Friends List, Company, Town projects, Faction missions, and Trading Post contracts will not carry over.</string>
 	<string key="ui_character_world_info">{worldName}</string>
 	<string key="ui_cannotPin_atMax">Cannot pin any more objectives.</string>
 	<string key="ui_clusterwarning_body">&lt;font color="#ebe3d6"&gt;You can only have 1 character in the {worldSetName} world group.&lt;/font&gt;\n\nIf you ever want to play on a different {worldSetName} world, you will need to delete your character on {worldName} and create a new one on a different world.\n\nIf you have friends playing on other {worldSetName} worlds, you will not be able to play with them.</string>
@@ -2642,7 +2652,7 @@
 	<string key="ui_faction_cant_cooldown">Cannot change factions while on cooldown.\n{cooldown}</string>
 	<string key="ui_change_faction_warning">Once you change your faction, you won't be able to change it again for 30 days. Changing factions resets faction rank and tokens.</string>
 	<string key="ui_change_faction">Change Faction</string>
-	<string key="ui_select_faction" rel_version="Feature_Faction_Selection">Change Faction</string>
+	<string key="ui_select_faction" rel_version="Feature_Faction_Selection">Select Faction</string>
 	<string key="ui_change_faction_cooldown">Change Faction\n{cooldown}</string>
 	<string key="ui_change_faction_azoth_cost">Change Faction {azothcost}</string>
 	<string key="ui_change_faction_desc">Are you sure you want to change your faction to {factionname}?\nChanging faction will reset your faction rank and tokens.\n\nOnce it's changed, you won't be able to change your faction again for 30 days.</string>
@@ -2818,6 +2828,7 @@
 	<string key="ui_itemtypedescription_dye">Dye</string>
 	<string key="ui_itemtypedescription_bag">Bag</string>
 	<string key="ui_itemtypedescription_consumable">Consumable</string>
+	<string key="ui_itemtypedescription_consumable_survivalpotion">Consumable - Survival Potion</string>
 	<string key="ui_itemtypedescription_quest_item">Quest Item</string>
 	<string key="ui_itemtypedescription_Key_item">Event Key</string>
 	<string key="ui_itemtypedescription_furniture">Furniture</string>
@@ -2875,7 +2886,7 @@
 	<string key="ui_cannot_chat_global_blocked">Can't chat in this channel until your account is older than {hoursNeeded} hours and your playtime is greater than {playtimeNeeded}</string>
 	<string key="ui_complete_quests_to_unlock">Complete quests in settlement to unlock</string>
 	<string key="ui_interact_required_level">You must be level {level} to use</string>
-	<string key="ui_cannot_chat_trading_blocked">Channel access requires {playtimeNeeded} hours of play, account age of {hoursNeeded} hours, and an unlocked trading post.</string>
+	<string key="ui_cannot_chat_trading_blocked">Channel access requires {playtimeNeeded} of play, account age of {hoursNeeded} hours, and an unlocked trading post.</string>
 	<string key="ui_averageexpertise">Expertise</string>
 	<string key="ui_averageexpertisetooltip">&lt;font color={headerColor} face="lyshineui/fonts/Nimbus_Bold.font"&gt;EXPERTISE&lt;/font&gt;\nExpertise is used to measure the maximum power of an item when you have it equipped.\n\n&lt;font color={subHeaderColor} face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;Max Expertise that you can reach&lt;/font&gt;\n&lt;font color={highlightColor} face="lyshineui/fonts/Nimbus_Bold.font"&gt;{maximum}&lt;/font&gt;\n\n\n&lt;font color={headerColor} face="lyshineui/fonts/Nimbus_Bold.font"&gt;HOW TO INCREASE EXPERTISE&lt;/font&gt;\n\n&lt;font color={subHeaderColor} face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;Elite POIs and Expeditions&lt;/font&gt;\nDrops from creatures or chests in level 60+ areas have a chance to increase this value.\n\n&lt;font color={subHeaderColor} face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;Crafting&lt;/font&gt;\nCrafting a 600 GS item will increase Expertise of this item type.\n\n&lt;font color={subHeaderColor} face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;Gypsum Cast&lt;/font&gt;\nOpening a Gypsum Cast will increase Expertise.\n\n&lt;font color={subHeaderColor} face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;Item Upgrade (with Umbral Shards)&lt;/font&gt;\nAfter you reach 600 Expertise, the only way to increase Expertise is via upgrading items with Umbral Shards.</string>
 	<string key="ui_itemtypedescription_shield_only">Shield</string>
@@ -2985,6 +2996,7 @@
 	<string key="attribution_Season_4" rel_version="Season_4_Perm">Season 4</string>
 	<string key="attribution_Season_5" rel_version="Season_5_Perm">Season 5</string>
 	<string key="attribution_Season_Pass" rel_version="Season_6_Perm">Season Pass</string>
+	<string key="attribution_Seasonal_Item" rel_version="Feature_Seasonal_Servers">Seasonal World Item</string>
 	<string key="ui_reset_daily_time">Resets daily at {time}</string>
 	<string key="ui_reset_weekly_time">Resets weekly each {time}</string>
 	<string key="ui_buy_new_world">Buy New World: Aeternum</string>
@@ -3057,6 +3069,7 @@
 	<string key="ui_expansion_name_expansion2023" comment="DO NOT TRANSLATE">[TMP] Expansion 2023</string>
 	<string key="ui_required_expansion_missing_tooltip" comment="DO NOT TRANSLATE">[TMP] Missing expansion: {expansion}</string>
 	<string key="ui_learn_more_about_required_expansion_buttontext">Learn More</string>
+	<string key="ui_learn_more">Learn More</string>
 	<string key="ui_horse_slot_unlock" rel_version="Feature_Mounts">Mount Unlock</string>
 	<string key="ui_horse_slot_unlock_description" rel_version="Feature_Mounts">Unlocks the ability to equip and summon a mount.</string>
 	<string key="ui_ridingxp_description" rel_version="Feature_Mounts">Experience for the Riding skill.\n\nHigher levels unlock rewards and faster mount speeds.</string>
@@ -3093,8 +3106,10 @@
 	<string key="ui_sort_by_end_date">Sort by End Date</string>
 	<string key="ui_sort_by_price_low">Sort by Price: Low to High</string>
 	<string key="ui_sort_by_price_high">Sort by Price: High to Low</string>
+	<string key="ui_sort_by_type">Sort by Type</string>
 	<string key="ui_requirements">Requirements</string>
 	<string key="ui_external_rewards">External Rewards</string>
+	<string key="ui_external_rewards_no_tooltip">No rewards available.</string>
 	<string key="ui_ability_minimum_cooldown">{baseCooldown} ({minimumCooldown} minimum)</string>
 	<string key="ui_ability_supports_smartcast" rel_version="Feature_Smartcast">This ability supports Smartcast.</string>
 	<string key="ui_transfer_world">Transfer World</string>
@@ -3112,5 +3127,23 @@
 	<string key="ui_console_privacy_enabled">Due to your console privacy settings, you cannot perform this action.</string>
 	<string key="ui_blocked_player">Blocked Player</string>
 	<string key="ui_blocked_company">Blocked Company</string>
+	<string key="ui_mount_unlock" rel_version="Feature_Mounts">Mount Unlocked</string>
+	<string key="ui_mount_unlock_acquisition" rel_version="Feature_Mounts">Completion of "My Kingdom for a Horse"</string>
+	<string key="ui_seasonal_worlds" rel_version="Feature_Seasonal_Servers">Seasonal Worlds</string>
+	<string key="ui_seasonal_worlds_popup_header" rel_version="Feature_Seasonal_Servers">Choose World Type</string>
+	<string key="ui_seasonal_worlds_about_popup_description" rel_version="Feature_Seasonal_Servers">Seasonal Worlds provide a new way to experience Aeternum and earn unique rewards for a limited time each Season.\n\nIn Season 7’s Seasonal World - all players will flag for PvP automatically at level {level}. Craft or kill for Conqueror's gear - uniquely powerful weapons and equipment that change the rules of the battlefield.\n\nA special Seasonal Journey can be progressed on Seasonal Worlds. Unlock the Rewards earned through the Seasonal Journey by purchasing a Premium Battle Pass in the store.</string>
+	<string key="ui_regular_character" rel_version="Feature_Seasonal_Servers">Standard</string>
+	<string key="ui_seasonal_character" rel_version="Feature_Seasonal_Servers">Seasonal</string>
+	<string key="ui_regular_character_button_description" rel_version="Feature_Seasonal_Servers">Experience Aeternum as intended. Create a character on a standard persistent world.</string>
+	<string key="ui_seasonal_character_button_description" rel_version="Feature_Seasonal_Servers">Create a character on a limited-time Seasonal World with unique rules and rewards.</string>
+	<string key="ui_seasonal_worlds_unavailable" rel_version="Feature_Seasonal_Servers">Seasonal Worlds unavailable</string>
+	<string key="ui_seasonal_worlds_available" rel_version="Feature_Seasonal_Servers">Seasonal Worlds available</string>
+	<string key="ui_seasonal_worlds_avaialble_until" rel_version="Feature_Seasonal_Servers">Season ends at {date} {time}</string>
+	<string key="ui_seasonal_worlds_ended" rel_version="Feature_Seasonal_Servers">Season ended at {date} {time}</string>
+	<string key="ui_seasonal_worlds_available_24h" rel_version="Feature_Seasonal_Servers">Season ends in &lt;img src="LyShineUI/Images/PUGFinder/Pugfinder_hourglass" xPadding="-4" scale="2.25" yOffset="8"&gt;&lt;/img&gt;{time}</string>
+	<string key="ui_seasonal_worlds_duration" rel_version="Feature_Seasonal_Servers">{timeStart} - {timeEnd}</string>
+	<string key="ui_seasonal_worlds_server_description" rel_version="Feature_Seasonal_Servers">&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; You will permanently flag for PvP at level {level} in this World.\n&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; Only new characters can be created in {worldName}.\n&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; Characters cannot transfer to this Seasonal World.</string>
+	<string key="ui_seasonal_worlds_server_duration" rel_version="Feature_Seasonal_Servers">Available from {dateStart} {timeStart} - {dateEnd} {timeEnd}</string>
+	<string key="ui_seasonal_worlds_tooltip" rel_version="Feature_Seasonal_Servers">In this PvP world, your faction decides which players you can group and form Companies with. Choose the same faction as your friends to play together.\n\nYou may change faction in game.</string>
 </resources>
 

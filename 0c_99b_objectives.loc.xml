@@ -299,7 +299,7 @@
 	<string key="99B_MSQ_07_cursedcemetery_burn_caskets" speaker="UI" rel_version="Quest_MSQ2_Brightwood">Burn the Bright Vigil's unused caskets</string>
 	<string key="99B_MSQ_07_cursedcemetery_cleanse_darkness" speaker="UI" rel_version="Quest_MSQ2_Brightwood">Cleanse darkness of Vigil's atrocities</string>
 	<string key="99B_MSQ_07_cursedcemetery_get_item_from_target" speaker="UI" rel_version="Quest_MSQ2_Brightwood">Defeat {targetName} and recover his Sigil</string>
-	<string key="99B_MSQ_07_cursedcemetery_dig_moira" speaker="UI" rel_version="Quest_MSQ2_Brightwood">Search for Vigilant's Sigil in the grave</string>
+	<string key="99B_MSQ_07_cursedcemetery_dig_moira" speaker="UI" rel_version="Quest_MSQ2_Brightwood">(Optional) Search for Vigilant's Sigil in the grave</string>
 	<string key="99B_MSQ_07_cursedcemetery_defeat_moira" speaker="UI" rel_version="Quest_MSQ2_Brightwood">Defeat Vigilant Moira</string>
 	<string key="99B_MSQ_07_cursedcemetery_lore_note" speaker="UI" rel_version="Quest_MSQ2_Brightwood">Read Vigilant Moira's letter, "Dissension in the Ranks"</string>
 	<string key="99B_MSQ_07_cursedcemetery_goto_eastShrine" speaker="UI" rel_version="Quest_MSQ2_Brightwood">Meet Ser Galahad at the Pennine Shrine near Weaver's Fen</string>

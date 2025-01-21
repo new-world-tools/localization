@@ -186,6 +186,7 @@
 	<string key="ui_mounts_MTX_4_horse_name" rel_version="Feature_Mounts">Snow</string>
 	<string key="ui_mounts_MTX_4_wolf_name" rel_version="Feature_Mounts">Blanca</string>
 	<string key="ui_mounts_MTX_4_lion_name" rel_version="Feature_Mounts">Albus</string>
+	<string key="ui_mounts_MTX_4_bear_name" rel_version="Entitlements_Valkyrie">Stooge</string>
 	<string key="ui_mounts_MTX_5_horse_name" rel_version="Feature_Mounts">Midnight</string>
 	<string key="ui_mounts_MTX_5_wolf_name" rel_version="Feature_Mounts">Blake</string>
 	<string key="ui_mounts_MTX_5_lion_name" rel_version="Feature_Mounts">Kumba</string>
@@ -202,6 +203,10 @@
 	<string key="ui_mounts_MTX_8_wolf_name" rel_version="Season_5_Perm">Malum</string>
 	<string key="ui_mounts_MTX_8_lion_name" rel_version="Season_5_Perm">Sicarius</string>
 	<string key="ui_mounts_MTX_8_bear_name" rel_version="Feature_Mounts_Bear">Morti</string>
+	<string key="ui_mounts_MTX_9_horse_name" rel_version="Entitlements_Valkyrie">Pegasus</string>
+	<string key="ui_mounts_MTX_9_wolf_name" rel_version="Entitlements_Valkyrie">Gunnhildr</string>
+	<string key="ui_mounts_MTX_9_lion_name" rel_version="Entitlements_Valkyrie">Skörungr</string>
+	<string key="ui_mounts_MTX_9_bear_name" rel_version="Entitlements_Valkyrie">Minerva</string>
 	<string key="ui_mounts_MTX_10_wolf_name" rel_version="Feature_Mounts_Bear">Azoth Stalker</string>
 	<string key="ui_mounts_MTX_bear_hippo_name" rel_version="Season_6_Perm" comment="This is a homophonic pun, made to sound like 'hyperbole' which means 'not to be taken seriously'.">Hippo Burley</string>
 	<string key="ui_mounts_horse_description_7" rel_version="Season_4_Perm">Felix wears his horned helm proudly. It boasts his might and majesty.</string>
@@ -213,10 +218,14 @@
 	<string key="ui_mounts_bear_description_2" rel_version="Feature_Mounts_Bear">Titan's size betrays the element of surprise. They will hear him coming and, when they do, they run.</string>
 	<string key="ui_mounts_bear_description_7" rel_version="Feature_Mounts_Bear">Goliath is as loyal to his friends as he is to his appetite. His good nature ensures he takes care of both.</string>
 	<string key="ui_mounts_bear_description_8" rel_version="Feature_Mounts_Bear">Apparently there's a trick to making Morti relent, however anyone that's tried is no longer around to tell the tale.</string>
+	<string key="ui_mounts_bear_description_9" rel_version="Entitlements_Valkyrie">Has both the brains and the brawl to make her the toughest of adversaries.</string>
+	<string key="ui_mounts_bear_description_4" rel_version="Entitlements_Valkyrie">Stooge's penchant for the taste of fish has propelled him into the nightmares of many a salmon.</string>
 	<string key="ui_mounts_bear_description_5" rel_version="Feature_Mounts_Bear">Humphrey's coat helps disguise him at night. Beware, he may be the last thing you see.</string>
 	<string key="ui_mounts_bear_description_6" rel_version="Feature_Mounts_Bear">Renboga may look like a circus bear but, trust me, there's nothing funny about his temper.</string>
 	<string key="ui_mounts_bear_description_3" rel_version="Feature_Mounts_Bear">Contrary to his name, Behemoth is mostly a gentle and placid soul. Mostly.</string>
-	<string key="ui_mounts_lion_description_9" rel_version="Feature_Mounts_Bear">Valkyrie placeholder description.</string>
+	<string key="ui_mounts_horse_description_9" rel_version="Entitlements_Valkyrie">To Valhalla are the souls of the fallen carried upon his strong back.</string>
+	<string key="ui_mounts_wolf_description_9" rel_version="Entitlements_Valkyrie">Loyal without compare and would even follow you into the afterlife.</string>
+	<string key="ui_mounts_lion_description_9" rel_version="Feature_Mounts_Bear">A proud beast that carries both himself and his partner with the dignity of a king.</string>
 	<string key="ui_mounts_wolf_description_10" rel_version="Feature_Mounts_Bear">Azoth Stalker is a cunning pack leader. Fearless, savvy and iron-willed by nature, these qualities has overseen their rise to the top.</string>
 	<string key="ui_mounts_bear_hippo_description" rel_version="Season_6_Perm" comment="This is a pun, using 'barely' to represent that actual bear part of the mount.">Wow, a real hippo! I can bearly believe we found one in just under 1,000 days.</string>
 	<string key="ui_mounts_horse_name_1" rel_version="Feature_Mounts">Mighty Gregorious</string>
@@ -254,7 +263,7 @@
 	<string key="ui_mount_selection_screen_unlock_level_markup" rel_version="Feature_Mounts">Reach &lt;font color={color}&gt;Level {level}&lt;/font&gt; and complete &lt;font color={color}&gt;"{questName}"&lt;/font&gt; to unlock mounts</string>
 	<string key="ui_mount_expansion_header" rel_version="Feature_Mounts">Expansion:</string>
 	<string key="ui_mount_expansion_not_owned" rel_version="Feature_Mounts">Purchase Rise of the Angry Earth to access Mounts</string>
-	<string key="ui_mount_expansion_owned_requirements_not_met" rel_version="Feature_Mounts">Reach Level 20 and complete "My Kingdom For a Horse"</string>
+	<string key="ui_mount_expansion_owned_requirements_not_met" rel_version="Feature_Mounts">Reach Level {^i|javelin.mount-min-level-requirement^} and complete "My Kingdom For a Horse"</string>
 	<string key="ui_mount_no_mount_equipped" rel_version="Feature_Mounts">No Mount Equipped</string>
 	<string key="ui_mount_previewing" rel_version="Feature_Mounts">Previewing</string>
 	<string key="ui_mount_map_icon_description" rel_version="Feature_Mounts">Buy Mounts to explore Aeternum.</string>
@@ -296,11 +305,17 @@
 	<string key="Mount_Lion_PatternA10_description" rel_version="Feature_Mounts">Godfrey's always been lucky even as a cub. May their good fortune rub off on you.</string>
 	<string key="Mount_Bear_PatternA1_Name" rel_version="Feature_Mounts_Bear">Corrupted Mauler</string>
 	<string key="Mount_Wolf_PatternA11_Name" rel_version="Feature_Mounts_Bear">Azoth Stalker</string>
-	<string key="ui_mounts_MTX_1_turkey_name" rel_version="Feature_Mounts_Turkey">Drumstick</string>
-	<string key="ui_mounts_MTX_1_turkey_description" rel_version="Feature_Mounts_Turkey">A turkey for riding, not eating.\n\nNOTE: This mount cannot be dyed, and it does not display attachments.</string>
+	<string key="ui_mounts_MTX_horse_Barbarian_name" rel_version="Entitlements_Barbarian">Harbinger of War</string>
+	<string key="ui_mounts_horse_Barbarian_desc" rel_version="Entitlements_Barbarian">The end is nigh.</string>
+	<string key="ui_mounts_MTX_wolf_Barbarian_name" rel_version="Entitlements_Barbarian">Feral Fury</string>
+	<string key="ui_mounts_wolf_Barbarian_desc" rel_version="Entitlements_Barbarian">A brutal companion for bloody battle.</string>
 	<string key="ui_mounts_MTX_horse_Rudolph_name" rel_version="Entitlements_WinterHoliday">Rudy</string>
 	<string key="ui_mounts_horse_Rudolph_desc" rel_version="Entitlements_WinterHoliday">That glowing nose is caused by Holiday Cheer and, thankfully, not Corruption.</string>
 	<string key="ui_mounts_MTX_bear_winter_name" rel_version="Entitlements_WinterHoliday">Nisse</string>
 	<string key="ui_mounts_bear_winter_description" rel_version="Entitlements_WinterHoliday">Has worn her hat and scarf ever since she was a cub.</string>
+	<string key="ui_mounts_MTX_bear_Panda_name" rel_version="Season_7_Perm">Mei Lan</string>
+	<string key="ui_mounts_bear_Panda_description" rel_version="Season_7_Perm">No matter how big she grows, she always loves to cuddle. And eat bamboo.</string>
+	<string key="ui_mounts_MTX_1_turkey_name" rel_version="Feature_Mounts_Turkey">Drumstick</string>
+	<string key="ui_mounts_MTX_1_turkey_description" rel_version="Feature_Mounts_Turkey">A turkey for riding, not eating.\n\nNOTE: This mount cannot be dyed, and it does not display attachments.</string>
 </resources>
 

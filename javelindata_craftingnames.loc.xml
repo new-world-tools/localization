@@ -1898,9 +1898,6 @@
 	<string key="Procedural_GauntletVoidT3_WC" rel_version="Event_WinterConvergence_Perm">Bitter Shadow</string>
 	<string key="Procedural_GauntletVoidT4_WC" rel_version="Event_WinterConvergence_Perm">Bitter Shadow</string>
 	<string key="Procedural_GauntletVoidT5_WC" rel_version="Event_WinterConvergence_Perm">Bitter Shadow</string>
-	<string key="PresentToken" rel_version="Event_WinterConvergence_Temp">Winter Token - Presents</string>
-	<string key="GleamiteToken" rel_version="Event_WinterConvergence_Temp">Winter Token - Gleamite</string>
-	<string key="WarriorToken" rel_version="Event_WinterConvergence_Temp">Winter Token - Warrior Hailspike</string>
 	<string key="ScrapExtractMetalT2">Extract Metal - Iron</string>
 	<string key="ScrapExtractMetalT3">Extract Metal - Steel</string>
 	<string key="ScrapExtractMetalT4">Extract Metal - Starmetal</string>
@@ -2042,12 +2039,22 @@
 	<string key="CraftArtifact_Set2_1hThrowingAxe_Name" rel_version="Feature_Artifacts_S5">Sin Upgrade At the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set2_2hWarhammer_Name" rel_version="Feature_Artifacts_S6">Trsna Upgrade At the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set2_2hGreatAxe_Name" rel_version="Feature_Artifacts_S5">Tempest Fury Upgrade At the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set2_2hBow_Name" rel_version="Feature_Artifacts_S7">Aconite Upgrade At the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set2_2hMusket_Name" rel_version="Feature_Artifacts_S7">Shrapnel Upgrade At the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set2_2hStaffFire_Name" rel_version="Feature_Artifacts_S7">Burnanator Upgrade At the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set2_2hStaffLife_Name" rel_version="Feature_Artifacts_S7">Heceta Upgrade At the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set2_2hSpear_Name" rel_version="Feature_Artifacts_S5">Venom Upgrade At the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set2_1hRapier_Name" rel_version="Feature_Artifacts_S7">Dorgort's Blade Upgrade At the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set2_1hGauntletIce_Name" rel_version="Feature_Artifacts_S7">Otzi Upgrade At the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set2_1hGauntletVoid_Name" rel_version="Feature_Artifacts_S7">Fracture Upgrade At the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set2_2hGreatSword_Name" rel_version="Feature_Artifacts_S6">Grace Upgrade At the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set2_1hFlail_Name" rel_version="Feature_Artifacts_S6">Power Stone Upgrade At the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set2_Earring1_Name" rel_version="Feature_Artifacts_S7">Justice Upgrade At the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set2_Ring1_Name" rel_version="Feature_Artifacts_S6">Elemental Band Upgrade At the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set2_Amulet1_Name" rel_version="Feature_Artifacts_S5">Phoenix Upgrade At the Gypsum Kiln</string>
 	<string key="AquaeRejya" rel_version="Raid_CutlassKeys_00">Aquae Rejya</string>
 	<string key="GorgonEssence" rel_version="Raid_CutlassKeys_00">Gorgon's Essence</string>
+	<string key="AzeritFocus" rel_version="Raid_CutlassKeys_00">Azerit Focus</string>
+	<string key="HercyneMutator_Combo" rel_version="Raid_CutlassKeys_00">Hive of Gorgons and Mutations Reward Cache</string>
 </resources>
 

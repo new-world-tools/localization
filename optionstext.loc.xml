@@ -245,6 +245,7 @@
 	<string key="ui_language_desc">Set the text language</string>
 	<string key="ui_language_audio">Audio Language</string>
 	<string key="ui_language_audio_desc">Visit the New World: Aeternum support website to find out how to change the audio language</string>
+	<string key="system-language" comment="Use the language set on the platform's OS.">Use System Language</string>
 	<string key="en-US">English</string>
 	<string key="fr-FR">Français</string>
 	<string key="it-IT">Italiano</string>
@@ -287,7 +288,7 @@
 	<string key="ui_subtitles_speakername_color">Speaker Name Color</string>
 	<string key="ui_subtitles_speakername_color_desc">Set the color of speaker's name</string>
 	<string key="ui_subtitles_backing_opacity">Backing Opacity</string>
-	<string key="ui_subtitles_backing_opacity_desc">Set the opacity of subtitle backing (zero is off)</string>
+	<string key="ui_subtitles_backing_opacity_desc">Set the opacity of subtitle backing</string>
 	<string key="ui_subtitles_sample_speaker">Speaker</string>
 	<string key="ui_subtitles_sample" speaker="@ui_subtitles_sample_speaker">This is a sample subtitle.</string>
 	<string key="ui_dialogue_autoprogress">Dialogue Auto Progress</string>
@@ -329,8 +330,8 @@
 	<string key="ui_textSize_desc">Set the size of Nameplates and Interact hints</string>
 	<string key="ui_diegeticPinSize">Quest Helper Pin Size</string>
 	<string key="ui_diegeticPinSize_desc">Set the size of in-game Quest Helper pins</string>
-	<string key="ui_diegeticPinOpacity">Quest Helper Pin Transparency</string>
-	<string key="ui_diegeticPinOpacity_desc">Set the transparency of in-game Quest Helper pins</string>
+	<string key="ui_diegeticPinOpacity">Quest Helper Pin Opacity</string>
+	<string key="ui_diegeticPinOpacity_desc">Set the opacity of in-game Quest Helper pins</string>
 	<string key="ui_section_map">Map</string>
 	<string key="ui_options_map">Auto-Zoom</string>
 	<string key="ui_options_map_desc">Set whether to automatically zoom in the Map when opening it in a Settlement or Outpost</string>
@@ -419,8 +420,8 @@
 	<string key="ui_enable_camera_lock_sticky_lock">Sticky Lock</string>
 	<string key="ui_enable_camera_lock_sticky_lock_description">Set whether to enable maintaining target after performing heals</string>
 	<string key="ui_enable_camera_lock_when_starting_healing">Lock camera to target when healing</string>
-	<string key="ui_enable_camera_lock_when_starting_healing_description">Set whether to enable camera target locking when starting a LifeStaff healing ability</string>
-	<string key="ui_enable_camera_lock_swap_toggle" rel_version="Feature_Controller">Swap Enemy and Ally Target Lock input with Lifestaff</string>
+	<string key="ui_enable_camera_lock_when_starting_healing_description">Set whether to enable camera target locking when starting a Life Staff healing ability</string>
+	<string key="ui_enable_camera_lock_swap_toggle" rel_version="Feature_Controller">Swap Enemy and Ally Target Lock input with Life Staff</string>
 	<string key="ui_enable_camera_lock_swap_toggle_description" rel_version="Feature_Controller">Set whether to swap bindings for ally and enemy target lock while using the Life Staff</string>
 	<string key="ui_enable_camera_lock_group_mode">Group Mode</string>
 	<string key="ui_enable_camera_lock_group_mode_description">Set whether to cycle only through group or raid members while targeting with a Life Staff (this option is disabled if Raid Targeting via Hotkeys (Keyboard &amp; Mouse) is set to On)</string>
@@ -597,6 +598,8 @@
 	<string key="ui_reset_tutorials" rel_version="Feature_Player_Tutorials">Reset Tutorials</string>
 	<string key="ui_reset_tutorials_desc" rel_version="Feature_Player_Tutorials">Resets all tutorials, allowing you to see tutorials you have already seen before</string>
 	<string key="ui_reset_tutorials_confirmation" rel_version="Feature_Player_Tutorials">Are you sure you want to reset all of the tutorials?</string>
+	<string key="ui_enable_network_status_icons">Enable Network Stability Icons</string>
+	<string key="ui_enable_network_status_icons_desc">Set whether to display HUD icons when poor network conditions are detected</string>
 	<string key="ui_hud_layout">HUD Layout</string>
 	<string key="ui_hud_layout_desc">Choose different positioning for HUD elements</string>
 	<string key="ui_hud_layout_1">Default</string>

@@ -148,8 +148,8 @@
 	<string key="ui_outpost_rush_battle_tokens_with_value">Battle Tokens {value}</string>
 	<string key="ui_outpost_rush_outpost_under_attack">{value} is under attack</string>
 	<string key="ui_outpost_rush_boss_killed">SCORE FROZEN</string>
-	<string key="ui_outpost_rush_ally_buff">The enemy team's score is frozen for &lt;font color="#edc63e"&gt;2 minutes and 30 seconds&lt;/font&gt;!</string>
-	<string key="ui_outpost_rush_enemy_buff">Your team's score is frozen for &lt;font color="#edc63e"&gt;2 minutes and 30 seconds&lt;/font&gt;!</string>
+	<string key="ui_outpost_rush_ally_buff">The enemy team's score is frozen for &lt;font color="#edc63e"&gt;{time}&lt;/font&gt;!</string>
+	<string key="ui_outpost_rush_enemy_buff">Your team's score is frozen for &lt;font color="#edc63e"&gt;{time}&lt;/font&gt;!</string>
 	<string key="ui_outpost_rush_armory_built">Armory in {value} has been built</string>
 	<string key="ui_outpost_rush_command_post_built">Command Post in {value} has been built</string>
 	<string key="ui_outpost_rush_command_post_upgrade">Command Post in {value} has been upgraded to Tier {tier}</string>
@@ -306,17 +306,37 @@
 	<string key="ui_influence_tutorial_desc4" rel_version="Feature_Influence_V2">Participating players will earn rewards. Bonus war cache for defenders winning the war. </string>
 	<string key="ui_pvp_balance_tooltip" rel_version="Feature_PvP_PvE_Split">PvP balancing is in effect.</string>
 	<string key="ui_pvp_balance_header" rel_version="Feature_PvP_PvE_Split">PvP balance modifiers in effect:</string>
+	<string key="or_outpost_rush_map_name" rel_version="Season_7_Perm">Nauthynos Island</string>
+	<string key="or_outpost_rush_trench_map_name" rel_version="OPR_004_Trench">Coral Divide</string>
+	<string key="arena_3v3_map_name" rel_version="Feature_PVP_Arenas">Ancient Sanctum</string>
+	<string key="arena_3v3_02_map_name" rel_version="Feature_PVP_Arenas">Gladiator's Ring</string>
+	<string key="ui_activity_finder_tooltip_current_map_rotation_text" rel_version="Season_7_Perm">Current map on rotation</string>
+	<string key="ui_activity_finder_tooltip_next_map_rotation_text" rel_version="Season_7_Perm">Next map on rotation</string>
+	<string key="ui_activity_finder_tooltip_current_map_rotation" rel_version="Season_7_Perm">{currentRotationText} : {mapName}</string>
+	<string key="ui_activity_finder_tooltip_next_map_rotation" rel_version="Season_7_Perm">{nextRotationText} : {mapName}</string>
 	<string key="ui_pvp_balance_global_disabled_weapon" rel_version="Feature_PvP_PvE_Split">PvP balancing is currently disabled for this weapon.</string>
 	<string key="ui_pvp_balance_global_disabled_mode" rel_version="Feature_PvP_PvE_Split">PvP balancing is currently disabled for this game mode.</string>
 	<string key="ui_pvp_balance_open_world_disabled" rel_version="Feature_PvP_PvE_Split">PvP balancing is currently disabled for Open World.</string>
 	<string key="ui_pvp_balance_damage_header" rel_version="Feature_PvP_PvE_Split">PvP Base Damage Modifiers:\n• Magic/Ranged values increased globally, but are tuned for balance in PvP.</string>
 	<string key="ui_pvp_balance_global_base_damage" rel_version="Feature_PvP_PvE_Split">Global:</string>
-	<string key="ui_pvp_balance_affix_stats" rel_version="Feature_PvP_PvE_Split">Affix Stat Damage Modifier:</string>
-	<string key="ui_pvp_balance_ability_damage_bonuses" rel_version="Feature_PvP_PvE_Split">Ability Damage Bonus Modifier:</string>
-	<string key="ui_pvp_balance_healing_category" rel_version="Feature_PvP_PvE_Split">Healing Modifiers:</string>
-	<string key="ui_pvp_balance_status_effect_potencies" rel_version="Feature_PvP_PvE_Split">Status Effect Potency:</string>
-	<string key="ui_pvp_balance_status_effect_durations" rel_version="Feature_PvP_PvE_Split">Status Effect Duration:</string>
+	<string key="ui_pvp_balance_column_base_damage" rel_version="Feature_PvP_PvE_Split">Damage</string>
+	<string key="ui_pvp_balance_column_affix_stats_damage" rel_version="Feature_PvP_PvE_Split">Damage</string>
+	<string key="ui_pvp_balance_column_ability_damage_bonuses" rel_version="Feature_PvP_PvE_Split">Damage</string>
+	<string key="ui_pvp_balance_column_status_effect_potencies" rel_version="Feature_PvP_PvE_Split">Potency</string>
+	<string key="ui_pvp_balance_column_status_effect_durations" rel_version="Feature_PvP_PvE_Split">Duration</string>
+	<string key="ui_pvp_balance_column_cooldown_adjustment" rel_version="Feature_PvP_PvE_Split">Duration</string>
+	<string key="ui_pvp_balance_category_ability_damage_bonuses" rel_version="Feature_PvP_PvE_Split">Ability Adjustments</string>
+	<string key="ui_pvp_balance_category_affix_stats" rel_version="Feature_PvP_PvE_Split">Affix Stat Adjustments</string>
+	<string key="ui_pvp_balance_category_cooldown_adjustment" rel_version="Feature_PvP_PvE_Split">Cooldown Adjustments</string>
+	<string key="ui_pvp_balance_category_healing" rel_version="Feature_PvP_PvE_Split">Healing Adjustments</string>
+	<string key="ui_pvp_balance_category_weapons" rel_version="Feature_PvP_PvE_Split">Weapon Adjustments</string>
+	<string key="ui_pvp_balance_category_status_effects" rel_version="Feature_PvP_PvE_Split">Status Effect Adjustments</string>
 	<string key="ui_gamemodeinvitedeclinesentmessage">Invite for &lt;font color="#ebe3d6"&gt;{gameModeName}&lt;/font&gt; declined.</string>
 	<string key="ui_gamemodeinvitedeclinesentmessage_withsource">Invite for &lt;font color="#ebe3d6"&gt;{gameModeName}&lt;/font&gt; declined by &lt;font color="#ebe3d6"&gt;{sourcePlayerName}&lt;/font&gt;.</string>
+	<string key="ui_gamemode_timeout">Activity Ending</string>
+	<string key="ui_gamemode_timeout_description">Approaching maximum time allowed in this activity</string>
+	<string key="ui_ready_up_ready_choice">Ready</string>
+	<string key="ui_ready_up_unready_choice">Unready</string>
+	<string key="ui_ready_up_waiting_message">Ready!\nWaiting For Players ({numReady}/{numTotal})</string>
 </resources>
 

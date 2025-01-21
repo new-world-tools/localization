@@ -156,7 +156,6 @@
 	<string key="ui_trading_tax_description">Trades within this territory are subject to a fee</string>
 	<string key="ui_crafting_fee_description">Crafting items in this territory costs a fee per item</string>
 	<string key="ui_refining_fee_description">Refining resources in this territory costs a fee per resource</string>
-	<string key="ui_edit">Edit</string>
 	<string key="ui_can_edit_in_time">Can edit in {time}</string>
 	<string key="ui_can_pay_in_time">Next payment in {time}</string>
 	<string key="ui_units_units">{units} units</string>
@@ -440,16 +439,16 @@
 	<string key="ui_upgrade_desc_BlacksmithProjectId">Unlock additional Tier 3 crafts and an Azoth Discount.</string>
 	<string key="ui_upgrade_desc_BlacksmithProjectId2">Unlock additional Tier 4 crafts and an Azoth Discount.</string>
 	<string key="ui_upgrade_desc_BlacksmithProjectId3">Unlock additional Tier 5 crafts and an Azoth Discount.</string>
-	<string key="ui_upgrade_desc_SmeltingProjectId">Craft &lt;font color="#edc63e"&gt;Orichalcum ingots&lt;/font&gt;.</string>
-	<string key="ui_upgrade_desc_SmeltingProjectId2">Craft &lt;font color="#edc63e"&gt;Asmodeum ingots&lt;/font&gt;.</string>
-	<string key="ui_upgrade_desc_CarpentryProjectId">Craft &lt;font color="#edc63e"&gt;Ironwood planks&lt;/font&gt;.</string>
-	<string key="ui_upgrade_desc_CarpentryProjectId2">Craft &lt;font color="#edc63e"&gt;Glittering ebony&lt;/font&gt;.</string>
-	<string key="ui_upgrade_desc_MasonryProjectId">Craft &lt;font color="#edc63e"&gt;Obsidian voidstone&lt;/font&gt;.</string>
-	<string key="ui_upgrade_desc_MasonryProjectId2">Craft &lt;font color="#edc63e"&gt;Runestone&lt;/font&gt;.</string>
-	<string key="ui_upgrade_desc_WeavingProjectId">Craft &lt;font color="#edc63e"&gt;Infused Silk&lt;/font&gt;.</string>
-	<string key="ui_upgrade_desc_WeavingProjectId2">Craft &lt;font color="#edc63e"&gt;Phoenixweave&lt;/font&gt;.</string>
-	<string key="ui_upgrade_desc_TanningProjectId">Craft &lt;font color="#edc63e"&gt;Infused Leather&lt;/font&gt;.</string>
-	<string key="ui_upgrade_desc_TanningProjectId2">Craft&lt;font color="#edc63e"&gt;Runic leather&lt;/font&gt;.</string>
+	<string key="ui_upgrade_desc_SmeltingProjectId">Upgrade your Smelter.</string>
+	<string key="ui_upgrade_desc_SmeltingProjectId2">Upgrade your Smelter.</string>
+	<string key="ui_upgrade_desc_CarpentryProjectId">Upgrade your Woodshop.</string>
+	<string key="ui_upgrade_desc_CarpentryProjectId2">Upgrade your Woodshop.</string>
+	<string key="ui_upgrade_desc_MasonryProjectId">Upgrade your Stonecutting Station.</string>
+	<string key="ui_upgrade_desc_MasonryProjectId2">Upgrade your Stonecutting Station.</string>
+	<string key="ui_upgrade_desc_WeavingProjectId">Upgrade your Loom.</string>
+	<string key="ui_upgrade_desc_WeavingProjectId2">Upgrade your Loom.</string>
+	<string key="ui_upgrade_desc_TanningProjectId">Upgrade your Tannery.</string>
+	<string key="ui_upgrade_desc_TanningProjectId2">Upgrade your Tannery.</string>
 	<string key="ui_upgrade_desc_EngineeringProjectId">Unlock additional Tier 3 crafts and an Azoth Discount.</string>
 	<string key="ui_upgrade_desc_EngineeringProjectId2">Unlock additional Tier 4 crafts and an Azoth Discount.</string>
 	<string key="ui_upgrade_desc_EngineeringProjectId3">Unlock additional Tier 5 crafts and an Azoth Discount.</string>
@@ -459,9 +458,9 @@
 	<string key="ui_upgrade_desc_AlchemistProjectId">Unlock additional Tier 3 crafts and an Azoth Discount.</string>
 	<string key="ui_upgrade_desc_AlchemistProjectId2">Unlock additional Tier 4 crafts and an Azoth Discount.</string>
 	<string key="ui_upgrade_desc_AlchemistProjectId3">Unlock additional Tier 5 crafts and an Azoth Discount.</string>
-	<string key="ui_upgrade_desc_CookingProjectId">Craft &lt;font color="#edc63e"&gt;Tier 3 meals&lt;/font&gt;.</string>
-	<string key="ui_upgrade_desc_CookingProjectId2">Craft &lt;font color="#edc63e"&gt;Tier 4 meals&lt;/font&gt;.</string>
-	<string key="ui_upgrade_desc_CookingProjectId3">Craft &lt;font color="#edc63e"&gt;Tier 5 meals&lt;/font&gt;.</string>
+	<string key="ui_upgrade_desc_CookingProjectId">Upgrade your Kitchen.</string>
+	<string key="ui_upgrade_desc_CookingProjectId2">Upgrade your Kitchen.</string>
+	<string key="ui_upgrade_desc_CookingProjectId3">Upgrade your Kitchen.</string>
 	<string key="ui_upgrade_desc_FortGatesProjectId">Increase health of gates.</string>
 	<string key="ui_upgrade_desc_FortGatesProjectId2">Increase health of gates.</string>
 	<string key="ui_upgrade_desc_FortHardPointsProjectId">Unlocks an additional point to deploy an emplacement (Ballista, Burning Oil Vat, etc.)</string>
@@ -476,21 +475,6 @@
 	<string key="ui_upgrade_desc_HornProjectId2">Also upgrades any existing Warhorns.</string>
 	<string key="ui_upgrade_desc_ExplosiveProjectId">Also upgrades any existing Explosives.</string>
 	<string key="ui_upgrade_desc_ExplosiveProjectId2">Also upgrades any existing Explosives.</string>
-	<string key="event_station" rel_version="Event_WinterConvergence_Temp">Tree of Light</string>
-	<string key="ui_upgrade_title_EventProjectId" rel_version="Event_WinterConvergence_Temp">Tier 2 Upgrade</string>
-	<string key="ui_upgrade_title_EventProjectId2" rel_version="Event_WinterConvergence_Temp">Tier 3Upgrade</string>
-	<string key="ui_upgrade_title_EventProjectId3" rel_version="Event_WinterConvergence_Temp">Tree of Light Upgrades Complete!</string>
-	<string key="ui_upgrade_titleNoMarkup_EventProjectId" rel_version="Event_WinterConvergence_Temp">Tier 2 Upgrade</string>
-	<string key="ui_upgrade_titleNoMarkup_EventProjectId2" rel_version="Event_WinterConvergence_Temp">Tier 3 Upgrade</string>
-	<string key="ui_upgrade_button_EventProjectId3" rel_version="Event_WinterConvergence_Temp">Tree of Light Upgrades Complete!</string>
-	<string key="ui_upgrade_button_EventProjectId" rel_version="Event_WinterConvergence_Temp">Tree of Light Tier 1</string>
-	<string key="ui_upgrade_button_EventProjectId2" rel_version="Event_WinterConvergence_Temp">Tree of Light Tier 2</string>
-	<string key="ui_upgrade_desc_EventProjectId" rel_version="Event_WinterConvergence_Temp">Upgrade Tree of Light to Tier 2 to surround it with &lt;font color="#edc63e"&gt;Beautifully Wrapped Presents!&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_EventProjectId2" rel_version="Event_WinterConvergence_Temp">Upgrade Tree of Light to Tier 3 to surround it with &lt;font color="#edc63e"&gt;Exquisitely Wrapped Presents!&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_EventProjectId3" rel_version="Event_WinterConvergence_Temp">Complete Winter Convergence Town Projects to earn Event Reputation!</string>
-	<string key="ui_upgradebutton_label_event" rel_version="Event_WinterConvergence_Temp">Upgrade Tree of Light</string>
-	<string key="ui_event_project_complete" rel_version="Event_WinterConvergence_Temp">Tree of Light Project Complete</string>
-	<string key="ui_event_details_WinterConvergence" rel_version="Event_WinterConvergence_Temp">&lt;font color="#edc63e"&gt;Complete Winter Convergence Quests and Activities&lt;/font&gt; to earn Event Reputation and Winter Tokens to gain access to a bounty of event rewards! \n\n&lt;font color="#edc63e"&gt;Recover Lost Presents, mine Gleamites, and defeat the Winter Warrior &lt;/font&gt; to maintain the spirit of Convergence and stave off the looming Forever Winter!\n\n&lt;font color="#edc63e"&gt;Collect daily rewards from each villages Bountiful Gift Sack and Settlement’s Tree of Light Centerpiece! &lt;/font&gt; Completing an endless supply of Convergence Town Projects upgrades the splendor and rewards earned from the centerpiece!</string>
 	<string key="ui_event_project_endless">Endless</string>
 	<string key="ui_territory_level">Territory Level: {level}</string>
 	<string key="ui_enter_house">View House</string>

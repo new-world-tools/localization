@@ -127,6 +127,7 @@
 	<string key="ui_dungeon_closed_raidtrial">Elite Trial closed</string>
 	<string key="ui_dungeon_closed_seasontrial" rel_version="Season_2_Perm">Seasonal Trial closed</string>
 	<string key="ui_dungeon_closed_dailysolotrial" rel_version="DailySoloTrials">Daily Soul Trial closed</string>
+	<string key="ui_dungeon_long_timeout">Reached maximum time allowed in the activity</string>
 	<string key="ui_dungeon_required_item">{quantity} {item} (consumed once you join)</string>
 	<string key="ui_dungeon_required_item_started">{item}</string>
 	<string key="ui_dungeon_required_item_tooltip">{quantity} {item} required</string>

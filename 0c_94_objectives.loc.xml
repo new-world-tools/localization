@@ -227,7 +227,7 @@
 	<string key="9405_Tour_incomplete" speaker="Race Board" cutsceneCameraPresetId="NSR_BBD_WID_OTSP">(There is a muddied claw print on the signpost. you can make out an 'X' mark at ___ for the starting line and another for the end at _____ &lt;par time&gt;). (Rec. Riding Level 200)</string>
 	<string key="9405_Tour_complete" speaker="Race Board" cutsceneCameraPresetId="NSR_BBD_WID_OTSP">n/a</string>
 	<string key="9401_BeastMuralCommune" speaker="UI - Quest Description">Commune with the Beast Lords</string>
-	<string key="9401_Oats" speaker="UI - Quest Description">Harvest azoth infused oats</string>
+	<string key="9401_Oats" speaker="UI - Quest Description">Harvest Azoth infused oats</string>
 	<string key="9401_ApproachHorse" speaker="UI - Quest Description">Search for horse to bond with</string>
 	<string key="9401_FirstHorse_00_Dialogue">This appears to be a horse. One can never be sure though…</string>
 	<string key="9401_FirstHorse_01_Dialogue">The horse is calmly licking its lips looking for a snack. Perhaps if you offer it something…..</string>

@@ -95,7 +95,7 @@
 	<string key="ui_musical_performance_failmessage_system_error" rel_version="Feature_MusicalPerformances">An unknown error occured inviting that player.</string>
 	<string key="ui_musical_performance_failmessage_cancelled" rel_version="Feature_MusicalPerformances">The invite was cancelled.</string>
 	<string key="ui_musical_performance_failmessage_blocked" rel_version="Feature_MusicalPerformances">That player is automatically declining invites.</string>
-	<string key="ui_musical_performance_failmessage_fasttravelchanneling" rel_version="Feature_MusicalPerformances">That player that is fast traveling.</string>
+	<string key="ui_musical_performance_failmessage_fasttravelchanneling" rel_version="Feature_MusicalPerformances">That player is fast traveling.</string>
 	<string key="ui_musical_performance_failmessage_declined" rel_version="Feature_MusicalPerformances">That player declined your invite.</string>
 	<string key="ui_musical_performance_failmessage_throttled" rel_version="Feature_MusicalPerformances">Your invite was throttled.</string>
 	<string key="ui_musical_performance_invite_sent" rel_version="Feature_MusicalPerformances">Performance invite sent.</string>
@@ -121,7 +121,7 @@
 	<string key="MusicBuff_LucksLabor_Name" rel_version="Feature_MusicalPerformances">Luck's Labor</string>
 	<string key="MusicBuff_DecidedlyDexterous_Name" rel_version="Feature_MusicalPerformances">Decidedly Dexterous</string>
 	<string key="MusicBuff_NeverStopLearning_Name" rel_version="Feature_MusicalPerformances">Never Stop Learning</string>
-	<string key="MusicBuff_SongInYourStep_Desc" rel_version="Feature_MusicalPerformances">Reduces player encumberance.</string>
+	<string key="MusicBuff_SongInYourStep_Desc" rel_version="Feature_MusicalPerformances">Increases max player encumbrance.</string>
 	<string key="MusicBuff_TerritorialTriumph_Desc" rel_version="Feature_MusicalPerformances">Increases territory standing bonus.</string>
 	<string key="MusicBuff_AllTogetherNow_Desc" rel_version="Feature_MusicalPerformances">Increases group XP sharing bonus.</string>
 	<string key="MusicBuff_FortunesFavor_Desc" rel_version="Feature_MusicalPerformances">Increases yield when gathering.</string>
@@ -147,9 +147,9 @@
 	<string key="PerkID_MusicalInstrument_OpeningNotesPerfect_Description" rel_version="Feature_MusicalPerformances">The first three notes played are always perfect.</string>
 	<string key="PerkID_MusicalInstrument_IgnoreMissedNotes_Description" rel_version="Feature_MusicalPerformances">The first missed note is ignored.</string>
 	<string key="PerkID_MusicalInstrument_RakeReduction_Description" rel_version="Feature_MusicalPerformances">The performer now receives the full tip amount.</string>
-	<string key="PerkID_MusicalInstrument_FinalNotePerfectXPBonus_Description" rel_version="Feature_MusicalPerformances">Hitting perfect on the final note rewards the player with a 10% Music XP Boost</string>
-	<string key="PerkID_MusicalInstrument_GroupXPBonus_Description" rel_version="Feature_MusicalPerformances">Playing in a group rewards the player with a 10% Music XP Boost</string>
-	<string key="PerkID_MusicalInstrument_SoloXPBonus_Description" rel_version="Feature_MusicalPerformances">Playing solo rewards the player with a 15% Music XP Boost</string>
+	<string key="PerkID_MusicalInstrument_FinalNotePerfectXPBonus_Description" rel_version="Feature_MusicalPerformances">Hitting perfect on the final note rewards the player with a 10% Music XP Boost.</string>
+	<string key="PerkID_MusicalInstrument_GroupXPBonus_Description" rel_version="Feature_MusicalPerformances">Playing in a group rewards the player with a 10% Music XP Boost.</string>
+	<string key="PerkID_MusicalInstrument_SoloXPBonus_Description" rel_version="Feature_MusicalPerformances">Playing solo rewards the player with a 15% Music XP Boost.</string>
 	<string key="ui_music_guitar_part_1" rel_version="Feature_MusicalPerformances">Guitar (Part 1)</string>
 	<string key="ui_music_guitar_part_2" rel_version="Feature_MusicalPerformances">Guitar (Part 2)</string>
 	<string key="ui_music_guitar_part_3" rel_version="Feature_MusicalPerformances">Guitar (Part 3)</string>

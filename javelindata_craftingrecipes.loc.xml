@@ -1602,5 +1602,172 @@
 	<string key="TerritoryStandingSuppliesT4_SGITitle">Supplies Contribution</string>
 	<string key="TerritoryStandingSuppliesT4_SGIBody">You have contributed supplies to your current territory.</string>
 	<string key="DoubloonAntiquesArtifact_MasterName" rel_version="Territory_CutlassKeys_Rework">Antiques Artifact Exchange</string>
+	<string key="Ethereal_PlateHeadT2_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Plate Helm</string>
+	<string key="Ethereal_PlateHeadT3_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Plate Helm</string>
+	<string key="Ethereal_PlateHeadT4_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Plate Helm</string>
+	<string key="Ethereal_PlateHeadT5_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Plate Helm</string>
+	<string key="Ethereal_PlateChestT2_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Plate Chest</string>
+	<string key="Ethereal_PlateChestT3_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Plate Chest</string>
+	<string key="Ethereal_PlateChestT4_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Plate Chest</string>
+	<string key="Ethereal_PlateChestT5_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Plate Chest</string>
+	<string key="Ethereal_PlateHandsT2_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Plate Gauntlets</string>
+	<string key="Ethereal_PlateHandsT3_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Plate Gauntlets</string>
+	<string key="Ethereal_PlateHandsT4_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Plate Gauntlets</string>
+	<string key="Ethereal_PlateHandsT5_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Plate Gauntlets</string>
+	<string key="Ethereal_PlateLegsT2_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Plate Leggings</string>
+	<string key="Ethereal_PlateLegsT3_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Plate Leggings</string>
+	<string key="Ethereal_PlateLegsT4_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Plate Leggings</string>
+	<string key="Ethereal_PlateLegsT5_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Plate Leggings</string>
+	<string key="Ethereal_PlateFeetT2_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Plate Boots</string>
+	<string key="Ethereal_PlateFeetT3_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Plate Boots</string>
+	<string key="Ethereal_PlateFeetT4_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Plate Boots</string>
+	<string key="Ethereal_PlateFeetT5_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Plate Boots</string>
+	<string key="Ethereal_LeatherHeadT2_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Leather Helm</string>
+	<string key="Ethereal_LeatherHeadT3_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Leather Helm</string>
+	<string key="Ethereal_LeatherHeadT4_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Leather Helm</string>
+	<string key="Ethereal_LeatherHeadT5_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Leather Helm</string>
+	<string key="Ethereal_LeatherChestT2_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Leather Chest</string>
+	<string key="Ethereal_LeatherChestT3_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Leather Chest</string>
+	<string key="Ethereal_LeatherChestT4_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Leather Chest</string>
+	<string key="Ethereal_LeatherChestT5_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Leather Chest</string>
+	<string key="Ethereal_LeatherHandsT2_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Leather Gloves</string>
+	<string key="Ethereal_LeatherHandsT3_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Leather Gloves</string>
+	<string key="Ethereal_LeatherHandsT4_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Leather Gloves</string>
+	<string key="Ethereal_LeatherHandsT5_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Leather Gloves</string>
+	<string key="Ethereal_LeatherLegsT2_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Leather Leggings</string>
+	<string key="Ethereal_LeatherLegsT3_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Leather Leggings</string>
+	<string key="Ethereal_LeatherLegsT4_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Leather Leggings</string>
+	<string key="Ethereal_LeatherLegsT5_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Leather Leggings</string>
+	<string key="Ethereal_LeatherFeetT2_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Leather Boots</string>
+	<string key="Ethereal_LeatherFeetT3_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Leather Boots</string>
+	<string key="Ethereal_LeatherFeetT4_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Leather Boots</string>
+	<string key="Ethereal_LeatherFeetT5_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Leather Boots</string>
+	<string key="Ethereal_ClothHeadT2_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Cloth Helm</string>
+	<string key="Ethereal_ClothHeadT3_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Cloth Helm</string>
+	<string key="Ethereal_ClothHeadT4_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Cloth Helm</string>
+	<string key="Ethereal_ClothHeadT5_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Cloth Helm</string>
+	<string key="Ethereal_ClothChestT2_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Cloth Chest</string>
+	<string key="Ethereal_ClothChestT3_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Cloth Chest</string>
+	<string key="Ethereal_ClothChestT4_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Cloth Chest</string>
+	<string key="Ethereal_ClothChestT5_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Cloth Chest</string>
+	<string key="Ethereal_ClothHandsT2_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Cloth Gloves</string>
+	<string key="Ethereal_ClothHandsT3_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Cloth Gloves</string>
+	<string key="Ethereal_ClothHandsT4_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Cloth Gloves</string>
+	<string key="Ethereal_ClothHandsT5_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Cloth Gloves</string>
+	<string key="Ethereal_ClothLegsT2_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Cloth Leggings</string>
+	<string key="Ethereal_ClothLegsT3_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Cloth Leggings</string>
+	<string key="Ethereal_ClothLegsT4_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Cloth Leggings</string>
+	<string key="Ethereal_ClothLegsT5_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Cloth Leggings</string>
+	<string key="Ethereal_ClothFeetT2_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Cloth Boots</string>
+	<string key="Ethereal_ClothFeetT3_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Cloth Boots</string>
+	<string key="Ethereal_ClothFeetT4_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Cloth Boots</string>
+	<string key="Ethereal_ClothFeetT5_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Cloth Boots</string>
+	<string key="Ethereal_LongswordT2_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Sword</string>
+	<string key="Ethereal_LongswordT3_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Sword</string>
+	<string key="Ethereal_LongswordT4_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Sword</string>
+	<string key="Ethereal_LongswordT5_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Sword</string>
+	<string key="Ethereal_RapierT2_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Rapier</string>
+	<string key="Ethereal_RapierT3_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Rapier</string>
+	<string key="Ethereal_RapierT4_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Rapier</string>
+	<string key="Ethereal_RapierT5_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Rapier</string>
+	<string key="Ethereal_WarhammerT2_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Warhammer</string>
+	<string key="Ethereal_WarhammerT3_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Warhammer</string>
+	<string key="Ethereal_WarhammerT4_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Warhammer</string>
+	<string key="Ethereal_WarhammerT5_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Warhammer</string>
+	<string key="Ethereal_GreatAxeT2_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Great Axe</string>
+	<string key="Ethereal_GreatAxeT3_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Great Axe</string>
+	<string key="Ethereal_GreatAxeT4_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Great Axe</string>
+	<string key="Ethereal_GreatAxeT5_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Great Axe</string>
+	<string key="Ethereal_ShieldRoundT2_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Round Shield</string>
+	<string key="Ethereal_ShieldRoundT3_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Round Shield</string>
+	<string key="Ethereal_ShieldRoundT4_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Round Shield</string>
+	<string key="Ethereal_ShieldRoundT5_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Round Shield</string>
+	<string key="Ethereal_ShieldKiteT3_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Kite Shield</string>
+	<string key="Ethereal_ShieldKiteT4_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Kite Shield</string>
+	<string key="Ethereal_ShieldKiteT5_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Kite Shield</string>
+	<string key="Ethereal_ShieldTowerT4_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Tower Shield</string>
+	<string key="Ethereal_ShieldTowerT5_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Tower Shield</string>
+	<string key="Ethereal_GreatSwordT2_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Great Sword</string>
+	<string key="Ethereal_GreatSwordT3_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Great Sword</string>
+	<string key="Ethereal_GreatSwordT4_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Great Sword</string>
+	<string key="Ethereal_GreatSwordT5_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Great Sword</string>
+	<string key="Ethereal_SpearT2_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Spear</string>
+	<string key="Ethereal_SpearT3_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Spear</string>
+	<string key="Ethereal_SpearT4_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Spear</string>
+	<string key="Ethereal_SpearT5_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Spear</string>
+	<string key="Ethereal_HatchetT2_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Hatchet</string>
+	<string key="Ethereal_HatchetT3_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Hatchet</string>
+	<string key="Ethereal_HatchetT4_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Hatchet</string>
+	<string key="Ethereal_HatchetT5_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Hatchet</string>
+	<string key="Ethereal_BowT2_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Bow</string>
+	<string key="Ethereal_BowT3_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Bow</string>
+	<string key="Ethereal_BowT4_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Bow</string>
+	<string key="Ethereal_BowT5_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Bow</string>
+	<string key="Ethereal_MusketT2_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Musket</string>
+	<string key="Ethereal_MusketT3_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Musket</string>
+	<string key="Ethereal_MusketT4_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Musket</string>
+	<string key="Ethereal_MusketT5_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Musket</string>
+	<string key="Ethereal_BlunderbussT2_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Blunderbuss</string>
+	<string key="Ethereal_BlunderbussT3_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Blunderbuss</string>
+	<string key="Ethereal_BlunderbussT4_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Blunderbuss</string>
+	<string key="Ethereal_BlunderbussT5_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Blunderbuss</string>
+	<string key="Ethereal_StaffFireT2_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Fire Staff</string>
+	<string key="Ethereal_StaffFireT3_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Fire Staff</string>
+	<string key="Ethereal_StaffFireT4_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Fire Staff</string>
+	<string key="Ethereal_StaffFireT5_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Fire Staff</string>
+	<string key="Ethereal_StaffLifeT2_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Life Staff</string>
+	<string key="Ethereal_StaffLifeT3_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Life Staff</string>
+	<string key="Ethereal_StaffLifeT4_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Life Staff</string>
+	<string key="Ethereal_StaffLifeT5_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Life Staff</string>
+	<string key="Ethereal_GauntletIceT2_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Ice Gauntlet</string>
+	<string key="Ethereal_GauntletIceT3_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Ice Gauntlet</string>
+	<string key="Ethereal_GauntletIceT4_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Ice Gauntlet</string>
+	<string key="Ethereal_GauntletIceT5_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Ice Gauntlet</string>
+	<string key="Ethereal_GauntletVoidT2_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Void Gauntlet</string>
+	<string key="Ethereal_GauntletVoidT3_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Void Gauntlet</string>
+	<string key="Ethereal_GauntletVoidT4_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Void Gauntlet</string>
+	<string key="Ethereal_GauntletVoidT5_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Void Gauntlet</string>
+	<string key="Ethereal_FlailT2_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Flail</string>
+	<string key="Ethereal_FlailT3_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Flail</string>
+	<string key="Ethereal_FlailT4_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Flail</string>
+	<string key="Ethereal_FlailT5_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Flail</string>
+	<string key="Ethereal_AmuletT2_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Amulet</string>
+	<string key="Ethereal_AmuletT3_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Amulet</string>
+	<string key="Ethereal_AmuletT4_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Amulet</string>
+	<string key="Ethereal_AmuletT5_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Amulet</string>
+	<string key="Ethereal_RingT2_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Ring</string>
+	<string key="Ethereal_RingT3_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Ring</string>
+	<string key="Ethereal_RingT4_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Ring</string>
+	<string key="Ethereal_RingT5_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Ring</string>
+	<string key="Ethereal_EarringT2_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Earring</string>
+	<string key="Ethereal_EarringT3_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Earring</string>
+	<string key="Ethereal_EarringT4_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Earring</string>
+	<string key="Ethereal_EarringT5_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Earring</string>
+	<string key="Ethereal_LoggingAxeT2_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Logging Axe</string>
+	<string key="Ethereal_LoggingAxeT3_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Logging Axe</string>
+	<string key="Ethereal_LoggingAxeT4_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Logging Axe</string>
+	<string key="Ethereal_LoggingAxeT5_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Logging Axe</string>
+	<string key="Ethereal_MiningPickT2_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Mining Pick</string>
+	<string key="Ethereal_MiningPickT3_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Mining Pick</string>
+	<string key="Ethereal_MiningPickT4_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Mining Pick</string>
+	<string key="Ethereal_MiningPickT5_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Mining Pick</string>
+	<string key="Ethereal_SkinningKnifeT2_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Skinning Knife</string>
+	<string key="Ethereal_SkinningKnifeT3_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Skinning Knife</string>
+	<string key="Ethereal_SkinningKnifeT4_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Skinning Knife</string>
+	<string key="Ethereal_SkinningKnifeT5_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Skinning Knife</string>
+	<string key="Ethereal_SickleT2_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Sickle</string>
+	<string key="Ethereal_SickleT3_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Sickle</string>
+	<string key="Ethereal_SickleT4_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Sickle</string>
+	<string key="Ethereal_SickleT5_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Sickle</string>
+	<string key="EtherealDust_Ore_RecipeName" rel_version="PvPServerConquerorsItems">Convert Ore to Ethereal Dust</string>
+	<string key="EtherealDust_OrePrecious_RecipeName" rel_version="PvPServerConquerorsItems">Convert Precious Ore to Ethereal Dust</string>
+	<string key="EtherealDust_Wood_RecipeName" rel_version="PvPServerConquerorsItems">Convert Wood to Ethereal Dust</string>
+	<string key="EtherealDust_Fiber_RecipeName" rel_version="PvPServerConquerorsItems">Convert Fiber to Ethereal Dust</string>
+	<string key="EtherealDust_Rawhide_RecipeName" rel_version="PvPServerConquerorsItems">Convert Hide to Ethereal Dust</string>
+	<string key="EtherealDust_Stone_RecipeName" rel_version="PvPServerConquerorsItems">Convert Stone to Ethereal Dust</string>
+	<string key="EtherealDust_PlayerXPBox_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Expertise Animus</string>
+	<string key="Ethereal_StarterMount_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Mount Box</string>
+	<string key="Ethereal_MountFood_RecipeName" rel_version="PvPServerConquerorsItems">Ethereal Mount Food</string>
+	<string key="Ethereal_AzothStaffBox_RecipeName" comment="DO NOT TRANSLATE" rel_version="PvPServerConquerorsItems">Ethereal Azoth Staff Box</string>
 </resources>
 

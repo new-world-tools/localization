@@ -89,6 +89,7 @@
 	<string key="ui_guildnameinusemessage">The name '{guildName}' is already in use.</string>
 	<string key="ui_guildmessageofthedayhere">Company Message of the Day Here</string>
 	<string key="ui_guildmessageofthedaytitle">Message of the Day</string>
+	<string key="ui_guild_motd_time">Updated {time}</string>
 	<string key="ui_guildofficer">Consul</string>
 	<string key="ui_guildownershipchangemessage">Company ownership has been transferred to &lt;font color="#b2aea1"&gt;{playerName}&lt;/font&gt;.</string>
 	<string key="ui_guildownershipchangetitle">Company Ownership Change</string>
@@ -120,7 +121,7 @@
 	<string key="ui_treasury_popup_fromcompanytreasury">From Company Treasury</string>
 	<string key="ui_treasury_popup_dailylimit">Daily Withdrawal Limit:</string>
 	<string key="ui_treasury_popup_availablelimit">Available Withdrawal Limit:</string>
-	<string key="ui_treasury_popup_newtreasurybalance">New Company Treasury Balance:</string>
+	<string key="ui_treasury_popup_newtreasurybalance">New Company Treasury Balance</string>
 	<string key="ui_treasury_popup_setdailylimit_title">Daily Withdrawal Limit</string>
 	<string key="ui_treasury_popup_setdailylimit_current">Current Limit</string>
 	<string key="ui_treasury_popup_setdailylimit_new">New Limit</string>
@@ -460,6 +461,7 @@
 	<string key="ui_trade_failure_no_deposit">You do not have permissions to deposit into this structure</string>
 	<string key="ui_trade_failure_not_enough_space">Item cannot be transferred because of maximum unique item or weight restrictions.</string>
 	<string key="ui_trade_failure_not_in_ffa_state">Item cannot be transferred because the player is not in the Free-for-all state.</string>
+	<string key="ui_trade_failure_not_in_pvp_state">Item cannot be transferred because you are not PVP flagged.</string>
 	<string key="ui_trade_failure_global_storage_not_enough_currency">You do not have enough funds to cover the withdrawal fee for remotely stored items.</string>
 	<string key="ui_trade_failure_global_storage_wrong_faction">Withdrawing requires both territories to be in your faction and be current on their upkeep.</string>
 	<string key="ui_trade_failure_global_storage_invalid_deposit">You can only deposit items to the storage shed at your current location.</string>
