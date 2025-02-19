@@ -2715,7 +2715,7 @@
 	<string key="PerkID_Artifact_Set2_Musket_Name" rel_version="Feature_Artifacts_S7">Shrapnel Shot</string>
 	<string key="PerkID_Artifact_Set2_Musket_Desc" rel_version="Feature_Artifacts_S7">Head shots on enemies cause {[-0.100000*-100]}% Bleed for {[6.000000]}s.</string>
 	<string key="PerkID_Artifact_Set2_FireStaff_Name" rel_version="Feature_Artifacts_S7">Burnanation</string>
-	<string key="PerkID_Artifact_Set2_FireStaff_Desc" rel_version="Feature_Artifacts_S7">All fire staff skills and heavy attacks deal {[-0.330000 * -100]}% less damage, but cause {[-0.150000 * -100]}% burning for {[5.000000]}s. (Max 5 stacks).</string>
+	<string key="PerkID_Artifact_Set2_FireStaff_Desc" rel_version="Feature_Artifacts_S7">All fire staff skills and heavy attacks deal {[-0.330000 * -100]}% less damage, but cause {[-0.100000 * -100]}% burning for {[5.000000]}s. (Max 5 stacks).</string>
 	<string key="PerkID_Artifact_Set2_LifeStaff_Name" rel_version="Feature_Artifacts_S7">Light Touch</string>
 	<string key="PerkID_Artifact_Set2_LifeStaff_Desc" rel_version="Feature_Artifacts_S7">For {[5.000000]}s after casting a life staff ability, the next heavy attack that passes through an ally will grant Reinforced, giving them {[0.300000 * 100]}% damage absorption for the next hit taken within {[7.000000]}s.</string>
 	<string key="PerkID_Artifact_Set2_Spear_Name" rel_version="Feature_Artifacts_S5">Poison Tipped</string>
