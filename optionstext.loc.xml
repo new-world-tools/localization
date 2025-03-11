@@ -226,6 +226,8 @@
 	<string key="ui_vocalsvolume_desc">Set the volume of vocals</string>
 	<string key="ui_vovolume">Voice-Over Volume</string>
 	<string key="ui_vovolume_desc">Set the volume of voice-over</string>
+	<string key="ui_targetLock_volume">Target Lock Volume</string>
+	<string key="ui_targetLock_volume_desc">Set the target lock indicator volume</string>
 	<string key="ui_musicvolume">Music Volume</string>
 	<string key="ui_musicvolume_desc">Set the volume of the music</string>
 	<string key="ui_ambientmusicvolume">Ambient Music Volume</string>

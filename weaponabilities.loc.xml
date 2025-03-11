@@ -452,7 +452,7 @@
 	<string key="Upgrade_Sword_FinalStand_ArmorAboveHalf_description" comment="SHIELD + MOD">Grants a bonus to Defender's Resolve based on what &lt;font face="lyshineui/fonts/Nimbus_SemiBold.font" color="#edc63e"&gt;shield type&lt;/font&gt; is equipped:
 	\n\n•&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font" color="#edc63e"&gt;Round Shield&lt;/font&gt; - Base damage increased by &lt;font face="lyshineui/fonts/Nimbus_SemiBold.font" color="#edc63e"&gt;{[0.200000 * 100]}%&lt;/font&gt; while Defender's Resolve is active. 
 	\n•&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font" color="#edc63e"&gt;Kite Shield&lt;/font&gt; - Potency of slows on you are reduced by &lt;font face="lyshineui/fonts/Nimbus_SemiBold.font" color="#edc63e"&gt;30%&lt;/font&gt; while Defender's Resolve is active. 
-	\n•&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font" color="#edc63e"&gt;Tower Shield&lt;/font&gt; - Base damage reduction is increased by &lt;font face="lyshineui/fonts/Nimbus_SemiBold.font" color="#edc63e"&gt;{[0.200000 * 100]}%&lt;/font&gt;.</string>
+	\n•&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font" color="#edc63e"&gt;Tower Shield&lt;/font&gt; - Gain &lt;font face="lyshineui/fonts/Nimbus_SemiBold.font" color="#edc63e"&gt;{[0.200000 * 100]}% Fortify&lt;/font&gt; while Defender's Resolve is active.</string>
 	<string key="Upgrade_Sword_FinalStand_Heal" comment="SHIELD + MOD">Restoration</string>
 	<string key="Upgrade_Sword_FinalStand_Heal_description" comment="SHIELD + MOD">When Defender's Resolve ends, heal for &lt;font face="lyshineui/fonts/Nimbus_SemiBold.font" color="#edc63e"&gt;{[0.300000 * 100]}%&lt;/font&gt; of your base health.</string>
 	<string key="Passive_Sword_Defender_Armor" comment="SHIELD + PASSIVE">Sturdy Shield</string>

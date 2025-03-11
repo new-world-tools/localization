@@ -362,7 +362,7 @@
 	<string key="ui_purchase_slot_button">Purchase Slot</string>
 	<string key="ui_convertitem">Convert {numItems} Items</string>
 	<string key="ui_copperaxehead">copper axe head</string>
-	<string key="ui_copyright">Copyright © 2024, Amazon.com, Inc. or its affiliates. All rights reserved.</string>
+	<string key="ui_copyright">Copyright © 2025, Amazon.com, Inc. or its affiliates. All rights reserved.</string>
 	<string key="ui_craft">Craft</string>
 	<string key="ui_craft_fee">{territoryName} Fee: &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="0.9" yOffset="0.7"&gt;&lt;/img&gt; &lt;font face="lyshineui/fonts/Pica_Regular.font"&gt; {fee}&lt;/font&gt;</string>
 	<string key="ui_crafting_carried">&lt;font face="lyshineui/fonts/Pica_Regular.font"&gt;{amount}&lt;/font&gt; Carried</string>

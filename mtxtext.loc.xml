@@ -1303,7 +1303,7 @@
 	<string key="StoreItem_Bundle_Valentines_ApparelWeapon_desc" rel_version="Season_7_Perm">True love can't be tainted by Corruption… or can it?</string>
 	<string key="StoreItem_Bundle_Valkyrie_Coiled_name" rel_version="Season_7_Perm">Jörmungandr's Fate Bundle</string>
 	<string key="StoreItem_Bundle_Valkyrie_Coiled_description" rel_version="Season_7_Perm">When this world ends, will I see you when we begin anew?</string>
-	<string key="StoreItem_Bundle_Valkyrie_Feathered_name" rel_version="Season_7_Perm">Hræsvelgr's Feathers Bundle</string>
+	<string key="StoreItem_Bundle_Valkyrie_Feathered_name" rel_version="Season_7_Perm">Hræsvelgr's Feathers Bundle</string>
 	<string key="StoreItem_Bundle_Valkyrie_Feathered_description" rel_version="Season_7_Perm">Take your seat at heaven's end.</string>
 	<string key="mtx_valkyrie_store" rel_version="Season_7_Perm">Valkyrie Store</string>
 	<string key="UI_EVENT_1" rel_version="Season_7_Perm">New!</string>

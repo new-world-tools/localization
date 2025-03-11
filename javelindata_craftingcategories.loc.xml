@@ -2054,5 +2054,7 @@
 	<string key="DungeonMaterialMajor_GroupName" rel_version="Raid_CutlassKeys_00">Rare Expedition Materials</string>
 	<string key="EtherealRefinement_GroupName" comment="DO NOT TRANSLATE" rel_version="PvPServerConquerorsItems">Ethereal Dust Refining</string>
 	<string key="EtherealDust_GroupName" comment="DO NOT TRANSLATE" rel_version="PvPServerConquerorsItems">Ethereal Dust XP Conversion</string>
+	<string key="BetaRewards_GroupName">Beta Rewards</string>
+	<string key="OPRBetas_GroupName">OPR betas</string>
 </resources>
 

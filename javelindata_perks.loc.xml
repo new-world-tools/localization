@@ -1411,7 +1411,7 @@
 	<string key="PerkID_Amulet_HP_Name">Health</string>
 	<string key="PerkID_Amulet_HP_Description">Increase max health by {[0.030000 * 100 * {perkMultiplier}]}% of the base value.</string>
 	<string key="PerkID_Amulet_StamOnLow_Name">Stamina Recovery</string>
-	<string key="PerkID_Amulet_StamOnLow_Description">When you are hit while below 50% Health, gain {[30.000000 * {perkMultiplier}]} Stamina ({[45.000000]}s cooldown. Does not trigger off persistent damage, DoT effects, or blocked attacks).</string>
+	<string key="PerkID_Amulet_StamOnLow_Description">When you are hit while below 50% Health, gain {[30.000000 * {perkMultiplier}]} Stamina ({[60.000000]}s cooldown. Does not trigger off persistent damage, DoT effects, or blocked attacks).</string>
 	<string key="PerkID_Amulet_ManaOnLow_Name">Mana Recovery</string>
 	<string key="PerkID_Amulet_ManaOnLow_Description">When you are hit while below 50% Health, gain {[0.500000 * 100 * {perkMultiplier}]} Mana ({[30.000000]}s cooldown. Does not trigger off persistent damage, DoT effects, or blocked attacks).</string>
 	<string key="PerkID_Amulet_RemoveOnLow_Name">Purify</string>
@@ -1741,7 +1741,7 @@
 	<string key="PerkID_Head_OnCritTaken_CritChance_Name" rel_version="MorePerksV2">Critical Retribution</string>
 	<string key="PerkID_Head_OnCritTaken_CritChance_Description" rel_version="MorePerksV2">PvP Only: Gain {[0.030000 * 100 * {perkMultiplier}]}% critical chance for {[7.000000]}s when taking a critical hit ({[20.000000]}s cooldown).</string>
 	<string key="PerkID_Chest_OnBlockedHitTaken_StaminaRegen_Name" rel_version="MorePerksV2">Sturdy Energy</string>
-	<string key="PerkID_Chest_OnBlockedHitTaken_StaminaRegen_Description" rel_version="MorePerksV2">When blocking a hit while below {[30.000000]}% Stamina, gain {[0.200000 * 100 * {perkMultiplier}]}% Stamina regeneration for {[6.000000]}s (Effect is removed if player becomes Exhausted).</string>
+	<string key="PerkID_Chest_OnBlockedHitTaken_StaminaRegen_Description" rel_version="MorePerksV2">When blocking a hit while below {[30.000000]}% Stamina, gain {[0.200000 * 100 * {perkMultiplier}]}% Stamina regeneration for {[6.000000]}s ({[15.000000]}s Cooldown. Effect is removed if player becomes Exhausted).</string>
 	<string key="PerkID_Hands_OnBlockedHit_EmpowerStack_Name" rel_version="MorePerksV2">Empowering Breaker</string>
 	<string key="PerkID_Hands_OnBlockedHit_EmpowerStack_Description" rel_version="MorePerksV2">When your attacks are blocked, gain a stack of Empower, increasing damage by {[0.020000 * 100 * {perkMultiplier}]}% for {[5.000000]}s (Max {[5.000000]} stacks).</string>
 	<string key="PerkID_Legs_DodgeSuccess_Stamina_Name" rel_version="MorePerksV2">Shirking Energy</string>

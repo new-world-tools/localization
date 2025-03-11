@@ -41,5 +41,16 @@
 	<string key="freetrial_timeremaining_title">Free Trial</string>
 	<string key="freetrial_timeremaining_desc">You have {timeRemaining} remaining in your free trial.</string>
 	<string key="freetrial_complete_desc">You have completed the Free Trial</string>
+	<string key="agid_link_modal_title">Link Account</string>
+	<string key="agid_link_modal_explanation_text">Link your platform account to Amazon Games iD to earn 2 Transmog Tokens, 5 Prime Blue Dyes, 2 Season XP Boosters, 2 Gathering XP Boosters, and 2 Weapon XP Boosters!\n\nUse the QR code or go to {url}\n\n&lt;font color="#ffdb7a"&gt;Please note that linking your account will permanently tie all game progress and purchases to your Amazon Games iD.&lt;/font&gt;</string>
+	<string key="agid_link_modal_verification_code">VERIFICATION CODE</string>
+	<string key="agid_link_modal_share_warning">Do not share your verification code with anyone.</string>
+	<string key="infomodal_agid_generate_code_button_text">Generate</string>
+	<string key="infomodal_agid_expiration_text">Code expires in &lt;img src="LyShineUI/Images/Icons/Misc/icon_hourglass_tan.png" xPadding="0" scale="1.1" yOffset="1"&gt;&lt;/img&gt;{expirationTime}</string>
+	<string key="infomodal_agid_expired_text">Code has expired. Please generate a new one.</string>
+	<string key="infomodal_agid_error">An error has occurred. Please generate a new code and try again.</string>
+	<string key="infomodal_agid_rate_limited_tooltip">You can generate a new code in {timeRemaining}</string>
+	<string key="agid_link_complete_title">Account Linked</string>
+	<string key="agid_link_complete_message">Amazon Games iD has been successfully linked!\n\n2 Transmog Tokens, 5 Prime Blue Dyes, 2 Season XP Boosters, 2 Gathering XP Boosters, and 2 Weapon XP Boosters dues have been added to your account</string>
 </resources>
 

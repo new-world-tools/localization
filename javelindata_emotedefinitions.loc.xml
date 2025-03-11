@@ -300,7 +300,7 @@
 	<string key="emote_MicDrop_SHE" rel_version="Emote_MicDrop">{playerName} drops her projecting device with finality.</string>
 	<string key="emote_MicDrop_THEY" rel_version="Emote_MicDrop">{playerName} drops their projecting device with finality.</string>
 	<string key="ui_emote_DrinkCheer_name" rel_version="Emote_DrinkCheers">Cheers!</string>
-	<string key="ui_emote_DrinkCheer_description" rel_version="Emote_DrinkCheers">"Drink to the health to your fine companions."</string>
+	<string key="ui_emote_DrinkCheer_description" rel_version="Emote_DrinkCheers">"The only thing better than a refreshing drink, is friends to share it with."</string>
 	<string key="emote_DrinkCheer" rel_version="Emote_DrinkCheers">{playerName} toasts to good health.</string>
 	<string key="ui_emote_HearNoEvil_name" rel_version="Emote_HearNoEvil">Hear No Evil</string>
 	<string key="ui_emote_SeeNoEvil_name" rel_version="Emote_SeeNoEvil">See No Evil</string>
@@ -444,8 +444,8 @@
 	<string key="Emote_ArmWaveDance_SHE" rel_version="Emote_BreakdanceArmwave">{playerName} makes a wave with her arms.</string>
 	<string key="Emote_ArmWaveDance_THEY" rel_version="Emote_BreakdanceArmwave">{playerName} makes a wave with their arms.</string>
 	<string key="ui_emote_Walk_Drunk_name" rel_version="Emote_Stumbling_Walk">Stumble Home Walk</string>
-	<string key="ui_emote_Walk_Drunk_description" rel_version="Emote_Stumbling_Walk">A walk suitable for traveling between the tavern and your house, if you can remember where it is.</string>
-	<string key="Emote_Walk_Drunk" rel_version="Emote_Stumbling_Walk">{playerName} walks drunkenly.</string>
+	<string key="ui_emote_Walk_Drunk_description" rel_version="Emote_Stumbling_Walk">A few too many staggers from Outpost Rush will have you wondering which way is the Inn.</string>
+	<string key="Emote_Walk_Drunk" rel_version="Emote_Stumbling_Walk">{playerName} walks in a stupor.</string>
 	<string key="ui_emote_HipTwistDance_name" rel_version="Emote_Dance_HipTwist">Hip Twist</string>
 	<string key="ui_emote_HipTwistDance_description" rel_version="Emote_Dance_HipTwist">The dance craze that is sweeping across Aeternum!</string>
 	<string key="Emote_HipTwistDance" rel_version="Emote_Dance_HipTwist">{playerName} twists his hips rhythmically.</string>

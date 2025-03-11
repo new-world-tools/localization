@@ -212,7 +212,7 @@ Discover the full collection of rewards, including &lt;font color="#edc63e"&gt;7
 	<string key="ui_seasons_task_Close25MajorBreaches_name" rel_version="Feature_Seasons_Rewards">Breach Bustin' II</string>
 	<string key="ui_seasons_task_CloseMajorBreaches_desc" rel_version="Feature_Seasons_Rewards">Close {maxCount} Major Corrupted Breaches</string>
 	<string key="ui_seasons_task_Complete3Trials_name" rel_version="Feature_Seasons_Rewards">Trio of Trials</string>
-	<string key="ui_seasons_task_CompleteTrials_desc" rel_version="Feature_Seasons_Rewards">Complete {maxCount} Trials</string>
+	<string key="ui_seasons_task_CompleteTrials_desc" rel_version="Feature_Seasons_Rewards">Defeat Zygoramet, Avarice, or the Siren Queen {maxCount} times.</string>
 	<string key="ui_seasons_task_CommitResourcesInOutpostRush_name" rel_version="Feature_Seasons_Rewards">Building the Base</string>
 	<string key="ui_seasons_task_CommitResourcesInOutpostRush_desc" rel_version="Feature_Seasons_Rewards">Deposit {maxCount} resources in Outpost Rush</string>
 	<string key="ui_seasons_task_Win3PvPMatches_name" rel_version="Feature_Seasons_Rewards">Gladiator I</string>
