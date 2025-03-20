@@ -2048,6 +2048,7 @@
 	<string key="HercyneMateria_GroupName" rel_version="Raid_CutlassKeys_00">Gorgon's Hive Named Replicas</string>
 	<string key="RaidCrafting_GroupName" rel_version="Raid_CutlassKeys_00">Raid Crafting</string>
 	<string key="725EndgameUpgradeResource_GroupName" rel_version="Raid_CutlassKeys_00">Apex Crafting</string>
+	<string key="GoldenCoconut_GroupName" rel_version="Raid_CutlassKeys_00">Goldcursed Coconut</string>
 	<string key="EtherealGear_GroupName" comment="DO NOT TRANSLATE" rel_version="PvPServerConquerorsItems">Ethereal Armaments</string>
 	<string key="ConquerorsGear_GroupName" comment="DO NOT TRANSLATE" rel_version="PvPServerConquerorsItems">Conquerors Armaments</string>
 	<string key="DungeonMaterialMinor_GroupName" rel_version="Raid_CutlassKeys_00">Common Expedition Materials</string>

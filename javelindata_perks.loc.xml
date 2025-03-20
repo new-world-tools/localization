@@ -1268,7 +1268,7 @@
 	<string key="PerkID_Common_CDR_Name">Refreshing</string>
 	<string key="PerkID_Common_CDR_Description">Reduce max cooldowns by {[-0.024000 * -100 * {perkMultiplier}]}%.</string>
 	<string key="PerkID_Common_CDRonHit_Name">Refreshing Ward</string>
-	<string key="PerkID_Common_CDRonHit_Description">Reduce active cooldowns by {[-0.005000 * -100 * {perkMultiplier}]}% after being hit 4 times (Does not trigger off persistent damage, DoT effects, or blocked attacks).</string>
+	<string key="PerkID_Common_CDRonHit_Description">Reduce active cooldowns by {[-0.001000 * -100 * {perkMultiplier}]}% after being hit 4 times (Does not trigger off persistent damage, DoT effects, or blocked attacks).</string>
 	<string key="PerkID_Common_CDRonDodge_Name">Refreshing Evasion</string>
 	<string key="PerkID_Common_CDRonDodge_Description">Reduce active cooldowns by {[-0.005000 * -100 * {perkMultiplier}]}% after exiting the dodge animation.</string>
 	<string key="PerkID_Common_Luck_Name">Luck</string>
@@ -2598,7 +2598,7 @@
 	<string key="PerkID_Artifact_Set1_TowerShield_Name">Shield Wall</string>
 	<string key="PerkID_Artifact_Set1_TowerShield_Desc">Gain {[0.050000 * 100]}% base damage reduction\nYou cannot dodge, but have {[0.330000 * 100]}% more stamina. (While active or sheathed)</string>
 	<string key="PerkID_Artifact_Set1_TowerShieldPerk_Name">Chromatic Ward</string>
-	<string key="PerkID_Artifact_Set1_TowerShieldPerk_Desc">You take {[0.250000 * 100]}% less damage from all elemental sources.</string>
+	<string key="PerkID_Artifact_Set1_TowerShieldPerk_Desc">You take {[0.130000 * 100]}% less damage from all elemental sources.</string>
 	<string key="PerkID_Artifact_Set1_Firestaff_Name">Inner Power</string>
 	<string key="PerkID_Artifact_Set1_Firestaff_Desc">If your strength attribute is higher, replace your base weapon scaling with strength. +{[0.150000 * 100]}% damage when you hit a target within {[15.000000]}m.</string>
 	<string key="PerkID_Artifact_Set1_FirestaffPerk_Desc">+{[0.150000 * 100]}% damage when you hit a target within {[15.000000]}m. </string>
