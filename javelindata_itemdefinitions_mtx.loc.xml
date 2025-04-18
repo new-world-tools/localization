@@ -1084,5 +1084,15 @@
 	<string key="MTX_FunnyHat_ElfHat_Name" rel_version="Entitlements_WinterHoliday">Holiday Helper Hat</string>
 	<string key="MTX_FunnyHat_ElfHat_Desc" rel_version="Entitlements_WinterHoliday">Donning this cap fills you with confidence in crafting without actually improving your ability.</string>
 	<string key="StoreItem_Apparel_Winter_Nutcracker_name" rel_version="Entitlements_WinterHoliday">Winter Prince</string>
+	<string key="Apr2025_TwitchPrime_Box_MasterName" rel_version="Feature_RabbitSeasonPerm">Hearty Twitch Cache</string>
+	<string key="Apr2025_TwitchPrime_Box_Description" rel_version="Feature_RabbitSeasonPerm">This object contains a gift for watching your favorite streamer.\n\nIncludes the following:\n&lt;font color="#b2aea1"&gt;
+5x Vial of Suspended Azoth\n
+25x Dark Matter\n
+3x Gypsum Orbs\n
+15x Infused Health Potion\n
+5x Infused Regeneration Potion\n
+5x Banana Parfait\n
+5x Powerful Honing Stone\n
+5x Powerful Gemstone Dust&lt;/font&gt;</string>
 </resources>
 

@@ -51,6 +51,6 @@
 	<string key="infomodal_agid_error">An error has occurred. Please generate a new code and try again.</string>
 	<string key="infomodal_agid_rate_limited_tooltip">You can generate a new code in {timeRemaining}</string>
 	<string key="agid_link_complete_title">Account Linked</string>
-	<string key="agid_link_complete_message">Amazon Games iD has been successfully linked!\n\n2 Transmog Tokens, 5 Prime Blue Dyes, 2 Season XP Boosters, 2 Gathering XP Boosters, and 2 Weapon XP Boosters dues have been added to your account</string>
+	<string key="agid_link_complete_message">Amazon Games iD has been successfully linked!\n\n2 Transmog Tokens, 5 Prime Blue Dyes, 2 Season XP Boosters, 2 Gathering XP Boosters, and 2 Weapon XP Boosters have been added to your account</string>
 </resources>
 
