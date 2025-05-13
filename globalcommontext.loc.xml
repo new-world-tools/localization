@@ -353,6 +353,7 @@
 	<string key="ui_abilities_in_combat">In Combat</string>
 	<string key="ui_componentname">Component Name</string>
 	<string key="ui_confirm">Confirm</string>
+	<string key="ui_add_more">Add More</string>
 	<string key="ui_confirm_delete_character_placeholder">Type the character's name</string>
 	<string key="ui_connect">CONNECT</string>
 	<string key="ui_connecttogame">Connect to Game</string>
@@ -709,8 +710,8 @@
 	<string key="ui_play">Play</string>
 	<string key="ui_playername">Player Name</string>
 	<string key="ui_playername_with_platformicon" rel_version="ConsoleLaunch">&lt;font color={playerNameColor} face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{playerName}  &lt;/font&gt; &lt;img src="{platformIcon}" scale="1.3" yOffset="3"&gt;&lt;/img&gt;</string>
-	<string key="ui_playername_with_platformname_with_platformicon" rel_version="ConsoleLaunch">&lt;font color={platformNameColor} face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{platformName}  &lt;/font&gt; &lt;img src="{platformIcon}" scale="1.3" yOffset="3"&gt;&lt;/img&gt;&lt;font color={playerNameColor} face="lyshineui/fonts/Nimbus_medium.font" &gt; | {playerName}&lt;/font&gt;</string>
-	<string key="ui_playername_with_platformname_with_platformicon_platformfriend" rel_version="ConsoleLaunch">&lt;font color={platformNameColor} face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{platformName}  &lt;/font&gt; &lt;img src="{platformIcon}" scale="1.3" yOffset="3"&gt;&lt;/img&gt; &lt;img src="{platformFriendIcon}" scale="1.3" yOffset="3"&gt;&lt;/img&gt;&lt;font color={playerNameColor} face="lyshineui/fonts/Nimbus_medium.font" &gt; | {playerName}&lt;/font&gt;</string>
+	<string key="ui_playername_with_platformname_with_platformicon" rel_version="ConsoleLaunch">&lt;font color={playerNameColor} face="lyshineui/fonts/Nimbus_Semibold.font" &gt;{playerName} &lt;/font&gt;&lt;font color={platformNameColor} face="lyshineui/fonts/Nimbus_medium.font"&gt;| &lt;img src="{platformIcon}" scale="1.3" yOffset="3"&gt;&lt;/img&gt; {platformName}&lt;/font&gt;</string>
+	<string key="ui_playername_with_platformname_with_platformicon_platformfriend" rel_version="ConsoleLaunch">&lt;font color={playerNameColor} face="lyshineui/fonts/Nimbus_Semibold.font" &gt;{playerName} &lt;/font&gt;&lt;font color={platformNameColor} face="lyshineui/fonts/Nimbus_medium.font"&gt;| &lt;img src="{platformIcon}" scale="1.3" yOffset="3"&gt;&lt;/img&gt; &lt;img src="{platformFriendIcon}" scale="1.3" yOffset="3"&gt;&lt;/img&gt; {platformName}&lt;/font&gt;</string>
 	<string key="ui_playernamehassentyouag">Playername has sent you a group invite. Hold [H] to join.</string>
 	<string key="ui_pressanykeytocontinue">Press Any Key to Continue</string>
 	<string key="ui_presskeytoassign">Select an input to assign this ability to.</string>
@@ -732,6 +733,8 @@
 	<string key="ui_out">Out</string>
 	<string key="ui_zoom_in">Zoom In</string>
 	<string key="ui_zoom_out">Zoom Out</string>
+	<string key="ui_cycle_pvpspectator_next" rel_version="Feature_SpectatorCam">Spectate next</string>
+	<string key="ui_cycle_pvpspectator_prev" rel_version="Feature_SpectatorCam">Spectate previous</string>
 	<string key="ui_freelook">Free Look</string>
 	<string key="ui_rangedcombat">Ranged Combat</string>
 	<string key="ui_shoot">Shoot</string>
@@ -906,22 +909,7 @@
 	<string key="ui_shift_modifier_toggle_popup_title" rel_version="Feature_Controller">Update Binding</string>
 	<string key="ui_shift_modifier_toggle_popup_message" rel_version="Feature_Controller">Modifier inputs are unique in this mode and cannot be used by any other action. Enabling modifier toggle will unbind any action with the same input. Continue?</string>
 	<string key="ui_binding_controller_success" rel_version="Feature_Controller">{action} was successfully rebound.</string>
-	<string key="ui_binding_controller_reserved_key_blocked" rel_version="Feature_Controller">&lt;img src="{path}" gpBtn="{key}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt; is a reserved input and cannot be used.</string>
-	<string key="ui_binding_controller_confirmation_message" rel_version="Feature_Controller">Bind &lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{actionName}&lt;/font&gt; to &lt;img src="{path}" gpBtn="{key}" isHoldBtn="{isStaticHold}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt;?</string>
-	<string key="ui_binding_controller_double_size_confirmation_message" rel_version="Feature_Controller">Bind &lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{actionName}&lt;/font&gt; to &lt;img src="{path}" gpBtn="{key}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt; / &lt;img src="{path}" gpBtn="{key}" isHoldBtn="1" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt;?</string>
-	<string key="ui_binding_controller_combo_confirmation_message" rel_version="Feature_Controller">Bind &lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{actionName}&lt;/font&gt; to &lt;img src="{firstPath}" gpBtn="{firstKey}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt; + &lt;img src="{secondPath}" gpBtn="{secondKey}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt;?</string>
-	<string key="ui_binding_controller_shift_modifier_child_confirmation_message" rel_version="Feature_Controller">The parent modifier is &lt;img src="{shiftModifierPath}" gpBtn="{shiftModifierKey}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt;.\n\nBind &lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{actionName}&lt;/font&gt; to &lt;img src="{shiftModifierPath}" gpBtn="{shiftModifierKey}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt; + &lt;img src="{path}" gpBtn="{key}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt;?</string>
-	<string key="ui_binding_controller_shift_modifier_combo_child_confirmation_message" rel_version="Feature_Controller">The parent modifier is &lt;img src="{shiftModifierPath}" gpBtn="{shiftModifierKey}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt;.\n\nBind &lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{actionName}&lt;/font&gt; to &lt;img src="{shiftModifierPath}" gpBtn="{shiftModifierKey}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt; + &lt;img src="{firstPath}" gpBtn="{firstKey}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt; + &lt;img src="{secondPath}" gpBtn="{secondKey}" isHoldBtn="{isStaticHold}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt;?</string>
-	<string key="ui_binding_controller_shift_modifier_confirmation_message" rel_version="Feature_Controller">Binding &lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{actionName}&lt;/font&gt; to &lt;img src="{path}" gpBtn="{key}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt; will add &lt;img src="{path}" gpBtn="{key}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt; to any existing children mappings. If there are any incompatible children, they will be overridden and left blank.\n\nBind &lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{actionName}&lt;/font&gt; to &lt;img src="{path}" gpBtn="{key}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt;?</string>
 	<string key="ui_binding_controller_reserved_key_title" rel_version="Feature_Controller">Change Binding</string>
-	<string key="ui_binding_controller_reserved_key_message" rel_version="Feature_Controller">&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{oldAction}&lt;/font&gt; is currently using &lt;img src="{path}" gpBtn="{key}" isHoldBtn="{isStaticHold}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt;.\n\nOverride and bind &lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{newAction}&lt;/font&gt; to &lt;img src="{path}" gpBtn="{key}" isHoldBtn="{newIsStaticHold}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt;?</string>
-	<string key="ui_binding_controller_double_old_reserved_key_message" rel_version="Feature_Controller">&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{oldAction}&lt;/font&gt; is currently using &lt;img src="{path}" gpBtn="{key}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt; / &lt;img src="{path}" gpBtn="{key}" isHoldBtn="1" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt;.\n\nOverride and bind &lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{newAction}&lt;/font&gt; to &lt;img src="{path}" gpBtn="{key}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt;?</string>
-	<string key="ui_binding_controller_double_new_reserved_key_message" rel_version="Feature_Controller">&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{oldAction}&lt;/font&gt; is currently using &lt;img src="{path}" gpBtn="{key}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt;.\n\nOverride and bind &lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{newAction}&lt;/font&gt; to &lt;img src="{path}" gpBtn="{key}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt; / &lt;img src="{path}" gpBtn="{key}" isHoldBtn="1" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt;?</string>
-	<string key="ui_binding_controller_double_both_reserved_key_message" rel_version="Feature_Controller">&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{oldAction}&lt;/font&gt; is currently using &lt;img src="{path}" gpBtn="{key}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt; / &lt;img src="{path}" gpBtn="{key}" isHoldBtn="1" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt;.\n\nOverride and bind &lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{newAction}&lt;/font&gt; to &lt;img src="{path}" gpBtn="{key}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt; / &lt;img src="{path}" gpBtn="{key}" isHoldBtn="1" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt;?</string>
-	<string key="ui_binding_controller_reserved_combo_message" rel_version="Feature_Controller">&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{oldAction}&lt;/font&gt; is currently using &lt;img src="{firstPath}" gpBtn="{firstKey}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt; + &lt;img src="{secondPath}" gpBtn="{secondKey}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt;.\n\nOverride and bind &lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{newAction}&lt;/font&gt; to &lt;img src="{firstPath}" gpBtn="{firstKey}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt; + &lt;img src="{secondPath}" gpBtn="{secondKey}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt;?</string>
-	<string key="ui_binding_controller_reserved_key_multiple" rel_version="Feature_Controller">Bind &lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{newAction}&lt;/font&gt; to &lt;img src="{path}" gpBtn="{key}" isHoldBtn="{newIsStaticHold}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt;?\n\nThe following actions will no longer be bound to any key:\n\n&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{oldAction}&lt;/font&gt;</string>
-	<string key="ui_binding_controller_double_reserved_key_multiple" rel_version="Feature_Controller">Bind &lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{newAction}&lt;/font&gt; to &lt;img src="{path}" gpBtn="{key}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt; / &lt;img src="{path}" gpBtn="{key}" isHoldBtn="1" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt;?\n\nThe following actions will no longer be bound to any key:\n\n&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{oldAction}&lt;/font&gt;</string>
-	<string key="ui_binding_controller_reserved_shift_modifier_message" rel_version="Feature_Controller">&lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{shiftModifierAction}&lt;/font&gt; is currently using &lt;img src="{path}" gpBtn="{key}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt;.\n\nOverriding this modifier will clear the &lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{shiftModifierAction}&lt;/font&gt; and all children input bindings.\n\nOverride and bind &lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{newAction}&lt;/font&gt; to &lt;img src="{path}" gpBtn="{key}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt;?</string>
 	<string key="ui_binding_controller_reserved_shift_modifier_blocked" rel_version="Feature_Controller">{key} is bound to the parent modifier and cannot be used.</string>
 	<string key="ui_binding_controller_reset_shift_modifier_toggle_accessibility" rel_version="Feature_Controller">Disabling modifier toggle accessibility.</string>
 	<string key="ui_binding_reserved_key_blocked">{key} is bound to &lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{actionName}&lt;/font&gt;, which cannot be unbound.</string>
@@ -1130,6 +1118,7 @@
 	<string key="ui_world_leave_world_confirm_message_company_membership">Your Company membership and any funds in the treasury will not carry over</string>
 	<string key="ui_world_leave_world_confirm_message_town_projects">Your Town Project missions will not carry over</string>
 	<string key="ui_world_leave_world_confirm_message_faction_missions">Your Faction missions will not carry over</string>
+	<string key="ui_world_leave_world_confirm_message_makegoods">Your Compensations will not carry over</string>
 	<string key="ui_world_leave_world_confirm_message_trading_post">Your Trading Post contracts will not carry over and will be cancelled</string>
 	<string key="ui_world_leave_world_confirm_message_season_pass">Your Season Pass progress and rewards will carry over</string>
 	<string key="ui_world_leave_world_confirm_message_houses">Your Houses will carry over</string>
@@ -1540,6 +1529,7 @@
 	<string key="ui_buildmode_error_not_in_line_of_sight">No Line of Sight</string>
 	<string key="ui_buildmode_error_camping_restricted">Cannot Camp Near Landmarks</string>
 	<string key="ui_buildmode_error_war_attackers_restricted">War Attackers cannot build here</string>
+	<string key="ui_buildmode_error_pvp_camp_obstruction">Too close to another PvP camp</string>
 	<string key="ui_camp_unlock_skins_tooltip">Unlock Camp (Tier 1)\nPlacing a Tier 1 camp allows you to craft various Tier 1 items, heal your character, and respawn at the camp.\nTo unlock, you must be Level 5 and have completed the starting survivalist quest.\nNote: You must complete the preceding starting settlement and beach quests before undertaking this quest.</string>
 	<string key="ui_buildmode_error_outside_of_war">Cannot build this outside of war</string>
 	<string key="ui_buildmode_error_war_attackers_only">Structure restricted to attackers only</string>
@@ -1547,11 +1537,18 @@
 	<string key="ui_bind_to_camp_disabled">Binding to camp disabled.</string>
 	<string key="ui_bind_to_camp">Set Camp Recall Point</string>
 	<string key="ui_camping_error_poi_restricted_outpost_rush">Camping restricted in Outpost Rush.</string>
+	<string key="ui_camping_error_poi_restricted_gamemode">Camping restricted in this activity.</string>
 	<string key="ui_camping_error_poi_restricted">Cannot camp in landmarks.</string>
 	<string key="ui_camping_error_poi_restricted_ffa" rel_version="Territory_CutlassKeys_Rework">Camping restricted near or in\nFree-For-All area.</string>
 	<string key="ui_camp_obstructed">Move back to complete.</string>
 	<string key="ui_camping_restricted">Camping Restricted</string>
 	<string key="ui_camping_available">Camping Available</string>
+	<string key="ui_camp_unbind_on_pvp_toggle_warning" rel_version="Feature_PvP_Camps">Changing your PvP flagging will unbind you from your camp.\n\nAre you sure you want to change your PvP flag?</string>
+	<string key="ui_camp_under_attack" rel_version="Feature_PvP_Camps">Your camp is under attack!</string>
+	<string key="ui_camp_placement_unavailable_under_attack" rel_version="Feature_PvP_Camps">Camp placement is unavailable while your camp is under attack.</string>
+	<string key="ui_bind_to_camp_disabled_under_attack" rel_version="Feature_PvP_Camps">Bound Camp Under Attack</string>
+	<string key="ui_camp_placement_unavailable_on_cooldown" rel_version="Feature_PvP_Camps">Camp placement unavailable for {time}</string>
+	<string key="ui_camp_icon_tooltip" rel_version="Feature_PvP_Camps">While not flagged for PvP, you can place or bind to a non-destructible &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;non-PvP camp&lt;/font&gt; to create a respawn point.\n\nWhile flagged for PvP, you can place or bind to destructible &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;PvP camps&lt;/font&gt; of the same faction.\n\nYou cannot place or bind to another PvP camp while your PvP camp is under attack, or within &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;{placementCooldown}s&lt;/font&gt; of placing, &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;{bindCooldown}s&lt;/font&gt; of binding, or &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;{destructionCooldown}s&lt;/font&gt; of your PvP camp being destroyed.</string>
 	<string key="ui_notification_nameplate_hidden">Nameplate Hidden</string>
 	<string key="ui_notification_nameplate_visible">Nameplate Visible</string>
 	<string key="ui_confirm_before_use_title">Consume Item</string>
@@ -1632,6 +1629,8 @@
 	<string key="currency_UYU">$U{amount}</string>
 	<string key="currency_VND">{amount}₫</string>
 	<string key="currency_HUF">{amount} Ft</string>
+	<string key="currency_DKK">{amount} kr.</string>
+	<string key="currency_SEK">{amount} kr</string>
 	<string key="WoodsmanArmor_EntName">Woodsman Set</string>
 	<string key="WoodsmanThrowingAxe_EntName">Woodsman Hatchet</string>
 	<string key="AugustEmoteBundle">Opposable Thumbs Bundle</string>
@@ -1889,6 +1888,7 @@
 	<string key="ui_tooltip_perks_info_text_gem_plural">Attach to any item's gem socket to add one of the following effects:</string>
 	<string key="ui_tooltip_perks_info_text_craft_singular">Use this resource when crafting to add the following effect:</string>
 	<string key="ui_tooltip_perks_info_text_craft_plural">Use this resource when crafting to add one of the following effects:</string>
+	<string key="ui_perks_disabled_for_game_mode" rel_version="Feature_DisabledPerkGameModes">Perks are disabled in this mode.</string>
 	<string key="ui_tooltip_refinedat">Refined at:</string>
 	<string key="ui_tooltip_derivedfrom">Source:</string>
 	<string key="ui_tooltip_repair_requires">Repair with</string>
@@ -2026,6 +2026,7 @@
 	<string key="ui_skin_available_single">1 Skin Available</string>
 	<string key="ui_skin_available_count">{count} Skins Available</string>
 	<string key="ui_skin_change_skin">Change Skin</string>
+	<string key="ui_skin_change_skin_desc">Change this item's skin</string>
 	<string key="ui_skin_change_skins">Change Skins</string>
 	<string key="ui_added_to_inventory">Added to &lt;font color="#b2aea1"&gt;Inventory&lt;/font&gt;</string>
 	<string key="ui_currency_added">Currency Added</string>
@@ -2156,6 +2157,10 @@
 	<string key="ui_exit_dungeon_incombat_dailysolotrial" rel_version="DailySoloTrials">You cannot leave a Soul Trial when you have recently been in-combat. \nYou can leave in &lt;font color="#edc63e"&gt;[{timeremaining}]&lt;/font&gt;</string>
 	<string key="ui_enable_newDamageNumbers">Floating Damage Numbers</string>
 	<string key="ui_enable_newDamageNumbers_description">Set whether damage numbers are not docked to the enemy's health bar</string>
+	<string key="ui_options_damage_numbers_display_mode">Damage and Healing Numbers</string>
+	<string key="ui_options_damage_numbers_display_mode_description">Set the presentation for values shown when dealing damage, taking damage, healing others, and receiving healing</string>
+	<string key="ui_options_damage_numbers_display_mode_floating">Floating</string>
+	<string key="ui_options_damage_numbers_display_mode_stacked">Stacked</string>
 	<string key="ui_accept_duel_invites">Accept Duel Invites</string>
 	<string key="ui_accept_duel_invites_description">Allows players to send you Duel invites</string>
 	<string key="ui_auto_traverse">Auto-Traverse</string>
@@ -2363,6 +2368,7 @@
 	<string key="ui_from_focus">Focus (100%)</string>
 	<string key="ui_from_intelligence_and_focus">Intelligence (90%), Focus (65%)</string>
 	<string key="ui_from_focus_and_intelligence">Focus (90%), Intelligence (65%)</string>
+	<string key="ui_from_intelligence_and_strength">Intelligence (90%), Strength (65%)</string>
 	<string key="ui_abilities">Abilities</string>
 	<string key="ui_ability_available" comment="tooltip message when a weapon mastery node is available to buy">Select and assign points to unlock.</string>
 	<string key="ui_ability_unavailable_nopoints" comment="tooltip message for a weapon mastery node that can't be purchased due to lack of points">No points available.</string>
@@ -2464,6 +2470,7 @@
 	<string key="ui_sickle">Sickle</string>
 	<string key="ui_skinningknife">Skinning Knife</string>
 	<string key="ui_camp_reconnect_failed">Your camp was abandoned. Place a new one.</string>
+	<string key="ui_camp_reconnect_failed_destroyed" rel_version="Feature_PvP_Camps">Your camp has been destroyed!</string>
 	<string key="ui_weapon_mastery_respec_warning">Are you sure you want to respec this weapon?\n\n Cost: &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.4" yOffset="1"&gt;&lt;/img&gt; {azoth}</string>
 	<string key="ui_weapon_mastery_insufficient_azoth">You have insufficient Azoth.</string>
 	<string key="ui_you_have_unlocked">Unlocked</string>
@@ -2845,6 +2852,7 @@
 	<string key="ui_itemtooltiptitle_heartgem_rune_fire_storm" rel_version="Feature_Heartgems_FireStorm">Fire Storm</string>
 	<string key="ui_itemtooltiptitle_heartgem_rune_sand_worm" rel_version="Feature_Heartgems_Sandworm">The Devourer</string>
 	<string key="ui_itemtooltiptitle_heartgem_rune_beast_mode" rel_version="Feature_Heartgems_BeastMode">Primal Fury</string>
+	<string key="ui_itemtooltiptitle_heartgem_rune_spinning_swords" rel_version="Feature_Heartgems_SpinningSwords">Phantom Blades</string>
 	<string key="ui_cannot_perform_action_at_this_time">You cannot perform this action at this time</string>
 	<string key="ui_cannot_use_shield_abilities">No Shield Equipped</string>
 	<string key="ui_tooltip_effect_duration">&lt;font face="lyshineui/fonts/Nimbus_Bold.font" color="#ebe3d6"&gt;{value}&lt;/font&gt; Effect Duration</string>
@@ -2855,27 +2863,29 @@
 	<string key="ui_gathering_disabled">Gathering is Currently Disabled</string>
 	<string key="ui_linktochat_disabled">Link to Chat is Currently Disabled</string>
 	<string key="ui_autopinObjectivesMain">Auto-pin Main Story Quests</string>
-	<string key="ui_autopinobjectivesMain_desc">Set whether to automatically pin main story quests to the HUD when they are accepted</string>
+	<string key="ui_autopinobjectivesMain_desc">Set whether to automatically pin main story quests to the HUD when they are accepted.</string>
 	<string key="ui_autopinObjectivesFactionStory">Auto-pin Faction Story Quests</string>
-	<string key="ui_autopinobjectivesFactionStory_desc">Set whether to automatically pin faction story quests to the HUD when they are accepted</string>
+	<string key="ui_autopinobjectivesFactionStory_desc">Set whether to automatically pin faction story quests to the HUD when they are accepted.</string>
 	<string key="ui_autopinObjectivesSkillProgression">Auto-pin Skill Progression Quests</string>
-	<string key="ui_autopinobjectivesSkillProgression_desc">Set whether to automatically pin skill progression quests to the HUD when they are accepted</string>
+	<string key="ui_autopinobjectivesSkillProgression_desc">Set whether to automatically pin skill progression quests to the HUD when they are accepted.</string>
 	<string key="ui_autopinObjectivesMountQuest">Auto-pin Mount Quests</string>
-	<string key="ui_autopinobjectivesMountQuest_desc">Set whether to automatically pin mount quests to the HUD when they are accepted</string>
+	<string key="ui_autopinobjectivesMountQuest_desc">Set whether to automatically pin mount quests to the HUD when they are accepted.</string>
 	<string key="ui_autopinObjectivesEpicEquipment">Auto-pin Epic Equipment Quests</string>
-	<string key="ui_autopinobjectivesEpicEquipment_desc">Set whether to automatically pin epic equipment quests to the HUD when they are accepted</string>
+	<string key="ui_autopinobjectivesEpicEquipment_desc">Set whether to automatically pin epic equipment quests to the HUD when they are accepted.</string>
 	<string key="ui_autopinObjectivesSeasonQuest">Auto-pin Season Story Objectives</string>
-	<string key="ui_autopinobjectivesSeasonQuest_desc">Set whether to automatically pin season story quests to the HUD when they are accepted</string>
+	<string key="ui_autopinobjectivesSeasonQuest_desc">Set whether to automatically pin season story quests to the HUD when they are accepted.</string>
 	<string key="ui_autopinObjectivesSide">Auto-pin Side Story Quests</string>
-	<string key="ui_autopinobjectivesSide_desc">Set whether to automatically pin side story quests to the HUD when they are accepted</string>
+	<string key="ui_autopinobjectivesSide_desc">Set whether to automatically pin side story quests to the HUD when they are accepted.</string>
 	<string key="ui_autopinObjectivesFaction">Auto-pin Faction Missions</string>
-	<string key="ui_autopinobjectivesFaction_desc">Set whether to automatically pin faction missions to the HUD when they are accepted</string>
+	<string key="ui_autopinobjectivesFaction_desc">Set whether to automatically pin faction missions to the HUD when they are accepted.</string>
 	<string key="ui_autopinobjectivesEvent">Auto-pin Event Quests</string>
-	<string key="ui_autopinobjectivesEvent_desc">Set whether to automatically pin event quests to the HUD when they are accepted</string>
+	<string key="ui_autopinobjectivesEvent_desc">Set whether to automatically pin event quests to the HUD when they are accepted.</string>
 	<string key="ui_autopinObjectivesComm">Auto-pin Town Projects</string>
-	<string key="ui_autopinobjectivesComm_desc">Set whether to automatically pin town projects to the HUD when they are accepted</string>
+	<string key="ui_autopinobjectivesComm_desc">Set whether to automatically pin town projects to the HUD when they are accepted.</string>
 	<string key="ui_autopinObjectivesCrafting">Auto-pin Recipes</string>
 	<string key="ui_autopinobjectivesCrafting_desc">Set whether to automatically pin recipes to the HUD when a recipe is pinned from any crafting station.</string>
+	<string key="ui_autopinObjectivesArtifact">Auto-pin Artifact</string>
+	<string key="ui_autopinobjectivesArtifact_desc">Set whether to automatically pin an artifact's tasks to the HUD when it is equipped.</string>
 	<string key="ui_auto_pin_toggle_on">Auto-Pin On</string>
 	<string key="ui_auto_pin_toggle_off">Auto-Pin Off</string>
 	<string key="ui_auto_pin_toggle_label">Auto-Pin</string>
@@ -2885,7 +2895,7 @@
 	<string key="ui_treasury_purchase_nw">Purchase New World: Aeternum to use the company treasury</string>
 	<string key="ui_cannot_chat_global_blocked">Can't chat in this channel until your account is older than {hoursNeeded} hours and your playtime is greater than {playtimeNeeded}</string>
 	<string key="ui_complete_quests_to_unlock">Complete quests in settlement to unlock</string>
-	<string key="ui_interact_required_level">You must be level {level} to use</string>
+	<string key="ui_interact_required_level">Requires level {level}</string>
 	<string key="ui_cannot_chat_trading_blocked">Channel access requires {playtimeNeeded} of play, account age of {hoursNeeded} hours, and an unlocked trading post.</string>
 	<string key="ui_averageexpertise">Expertise</string>
 	<string key="ui_averageexpertisetooltip">&lt;font color={headerColor} face="lyshineui/fonts/Nimbus_Bold.font"&gt;EXPERTISE&lt;/font&gt;\nExpertise is used to measure the maximum power of an item when you have it equipped.\n\n&lt;font color={subHeaderColor} face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;Max Expertise that you can reach&lt;/font&gt;\n&lt;font color={highlightColor} face="lyshineui/fonts/Nimbus_Bold.font"&gt;{maximum}&lt;/font&gt;\n\n\n&lt;font color={headerColor} face="lyshineui/fonts/Nimbus_Bold.font"&gt;HOW TO INCREASE EXPERTISE&lt;/font&gt;\n\n&lt;font color={subHeaderColor} face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;Elite POIs and Expeditions&lt;/font&gt;\nDrops from creatures or chests in level 60+ areas have a chance to increase this value.\n\n&lt;font color={subHeaderColor} face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;Crafting&lt;/font&gt;\nCrafting a 600 GS item will increase Expertise of this item type.\n\n&lt;font color={subHeaderColor} face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;Gypsum Cast&lt;/font&gt;\nOpening a Gypsum Cast will increase Expertise.\n\n&lt;font color={subHeaderColor} face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;Item Upgrade (with Umbral Shards)&lt;/font&gt;\nAfter you reach 600 Expertise, the only way to increase Expertise is via upgrading items with Umbral Shards.</string>
@@ -2973,10 +2983,11 @@
 	<string key="ui_transmog_guide_body2" rel_version="Feature_Transmog">Go to the Transmog Station &lt;img src="lyshineui/images/map/icon/pois/transmog" xPadding="-10" scale="3.5" yOffset="14"&gt;&lt;/img&gt;, find the item, and use Transmog Tokens &lt;img src="lyshineui/images/icons/items/currency/transmogtokensmall" xPadding="0" scale="2.2" yOffset="6.0"&gt;&lt;/img&gt; to create a skin.\n\nTransmog skins are account-wide (able to use on any of your characters).</string>
 	<string key="ui_mount_guide_title1" rel_version="Feature_Mounts">How It Works</string>
 	<string key="ui_mount_guide_body1" rel_version="Feature_Mounts">You can summon your mount with {$ui.mount_summon_description$}. Walk with {$ui.walk_mount_description$}, sprint with {$player.mount_dash$}, and jump with {$movement.jump$}. Sprinting costs mount stamina. Falling from great heights and being hit by enemies reduces its stamina and may result in being dismounted.</string>
-	<string key="ui_event_token_disappears">&lt;font face="lyshineui/fonts/Nimbus_Medium.font" color="#edc63e"&gt;Tokens will disappear at the end of the event.&lt;/font&gt;</string>
-	<string key="ui_event_item_disappears">&lt;font face="lyshineui/fonts/Nimbus_Medium.font" color="#edc63e"&gt;This item will disappear at the end of the event.&lt;/font&gt;</string>
-	<string key="ui_event_time_left">&lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;Event ends in: &lt;font color="#edc63e"&gt;{timeLeft} &lt;img src="LyShineUI/Images/Icons/Misc/icon_hourglass_yellow.png" xPadding="0" scale="1.1" yOffset="1"&gt;&lt;/img&gt;&lt;/font&gt;&lt;/font&gt;</string>
+	<string key="ui_event_token_disappears">Tokens will disappear at the end of the event.</string>
+	<string key="ui_event_item_disappears">This item will disappear at the end of the event.</string>
+	<string key="ui_event_time_left">Event ends in: {timeLeft} &lt;img src="LyShineUI/Images/Icons/Misc/icon_hourglass_yellow.png" xPadding="0" scale="1.1" yOffset="1"&gt;&lt;/img&gt;</string>
 	<string key="ui_event_time_left_compass">Event ends in &lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{timeLeft}&lt;/font&gt;</string>
+	<string key="ui_event_item_disabled">The event associated with this item has ended. Item is disabled and will be removed next login.</string>
 	<string key="attribution_WinterConvergence_2021" rel_version="Event_WinterConvergence_Perm">Winter Convergence</string>
 	<string key="attribution_WinterConvergence_2022" rel_version="Event_WinterConvergence_Perm">Winter Convergence</string>
 	<string key="attribution_SummerMedleyfaire_2022" rel_version="Event_Summer_Perm">Summer Medleyfaire</string>
@@ -3059,12 +3070,24 @@
 	<string key="ui_transmog_error_apply_skin_pending">Transmog failed: Pending appearance change on item.</string>
 	<string key="ui_transmog_error_generic">Transmog Error</string>
 	<string key="ui_transmog_npc_name">Stylemancer</string>
-	<string key="ui_transmog_npc_tooltip">Create skins from items you've collected by using &lt;img src="lyshineui/images/icons/items/currency/transmogtokensmall" xPadding="0" scale="2.2" yOffset="6.0"&gt;&lt;/img&gt; Transmog Tokens.</string>
+	<string key="ui_transmog_npc_tooltip">Use &lt;img src="lyshineui/images/icons/items/currency/appearancetokensmall" scale="2.2" yOffset="6"&gt;&lt;/img&gt; Barbershop Tokens to change your appearance and &lt;img src="lyshineui/images/icons/items/currency/transmogtokensmall" xPadding="0" scale="2.2" yOffset="6.0"&gt;&lt;/img&gt; Transmog Tokens to create skins from items you've collected.</string>
 	<string key="ui_transmog_dyeing_error">Error applying dye. Please try again.</string>
 	<string key="ui_transmog_dyeing_previews_disabled">Can't Dye Previewed Skins.</string>
 	<string key="ui_transmog_services_unavailable_title">Transmog Services Unavailable</string>
 	<string key="ui_transmog_services_unavailable_tooltip">Transmog Unavailable</string>
 	<string key="ui_transmog_services_unavailable_message">Transmog is currently unavailable. Please try again later.</string>
+	<string key="ui_barbershop_open_menu" rel_version="Feature_Barbershop">Update My Appearance</string>
+	<string key="ui_barbershop_change_appearance" rel_version="Feature_Barbershop">Change Appearance</string>
+	<string key="ui_barbershop_unavailable_message" rel_version="Feature_Barbershop">Barbershop is currently unavailable. Please try again later.</string>
+	<string key="ui_barbershop_changes_warning" rel_version="Feature_Barbershop">Changes will be saved until game is closed.</string>
+	<string key="ui_barbershop_changes_disclaimer" rel_version="Feature_Barbershop">Barbershop Tokens are account bound (non-tradable) and non-refundable.</string>
+	<string key="ui_barbershop_reload_title" rel_version="Feature_Barbershop">Load Appearance</string>
+	<string key="ui_barbershop_reload_prompt" rel_version="Feature_Barbershop">Load your changes from last visit?</string>
+	<string key="ui_barbershop_purchase_title" rel_version="Feature_Barbershop">Confirm Appearance</string>
+	<string key="ui_barbershop_purchase_body_cost" rel_version="Feature_Barbershop">Save character appearance for &lt;font face="lyshineui/fonts/Pica_Regular.font"&gt;{amount}&lt;/font &gt;&lt;img src="lyshineui/images/icons/items/currency/appearancetokensmall" scale="1.8" xPadding="5" yOffset="5"&gt;&lt;/img&gt;?\n\nAppearance changes cannot be reversed after confirmation without purchasing another Barbershop Token.</string>
+	<string key="ui_barbershop_tokens" rel_version="Feature_Barbershop">Barbershop Tokens</string>
+	<string key="ui_barbershop_add_more_tokens" rel_version="Feature_Barbershop">Add More &lt;img src="lyshineui/images/icons/items/currency/appearancetokensmall" scale="1.5" yOffset="10"&gt;&lt;/img&gt;</string>
+	<string key="ui_barbershop_services_unavailable_message" rel_version="Feature_Barbershop">Barbershop is currently unavailable. Please try again later.</string>
 	<string key="ui_unclaimed_seasons_rewards">Unclaimed Season Rewards</string>
 	<string key="ui_expansion_name_expansion2023" comment="DO NOT TRANSLATE">[TMP] Expansion 2023</string>
 	<string key="ui_required_expansion_missing_tooltip" comment="DO NOT TRANSLATE">[TMP] Missing expansion: {expansion}</string>
@@ -3129,21 +3152,23 @@
 	<string key="ui_blocked_company">Blocked Company</string>
 	<string key="ui_mount_unlock" rel_version="Feature_Mounts">Mount Unlocked</string>
 	<string key="ui_mount_unlock_acquisition" rel_version="Feature_Mounts">Completion of "My Kingdom for a Horse"</string>
+	<string key="ui_consumables_shared_cooldowns_survival">survival potions</string>
+	<string key="ui_consumables_shared_cooldown_text">\n\nUsing this will put all other {consumableType} on {cooldown}% cooldown.</string>
 	<string key="ui_seasonal_worlds" rel_version="Feature_Seasonal_Servers">Seasonal Worlds</string>
 	<string key="ui_seasonal_worlds_popup_header" rel_version="Feature_Seasonal_Servers">Choose World Type</string>
-	<string key="ui_seasonal_worlds_about_popup_description" rel_version="Feature_Seasonal_Servers">Seasonal Worlds provide a new way to experience Aeternum and earn unique rewards for a limited time each Season.\n\nIn Season 7’s Seasonal World - all players will flag for PvP automatically at level {level}. Craft or kill for Conqueror's gear - uniquely powerful weapons and equipment that change the rules of the battlefield.\n\nA special Seasonal Journey can be progressed on Seasonal Worlds. Unlock the Rewards earned through the Seasonal Journey by purchasing a Premium Battle Pass in the store.</string>
+	<string key="ui_seasonal_worlds_about_popup_description" rel_version="Feature_Seasonal_Servers">Seasonal Worlds provide a new way to experience Aeternum and earn unique rewards for a limited time each Season.\n\nIn Season 8’s Seasonal World, power is the name of the game. Characters on this server can equip as many artifacts as they like, and every time they die, the character gets extra attribute points. Grow stronger faster, and take on challenges you've never been able to attempt before.\n\nA new Seasonal Journey can be progressed on this server focused around how many times your character has died. Completing these goals will give you some new crafting materials as well for non-seasonal worlds. Use these to craft any artifact or T3 trophy of your choosing on a non-seasonal character (up to those released in Season 8). Note: Some of the rewards on the seasonal world journey require purchasing a Premium Battle Pass in the store.</string>
 	<string key="ui_regular_character" rel_version="Feature_Seasonal_Servers">Standard</string>
 	<string key="ui_seasonal_character" rel_version="Feature_Seasonal_Servers">Seasonal</string>
-	<string key="ui_regular_character_button_description" rel_version="Feature_Seasonal_Servers">Experience Aeternum as intended. Create a character on a standard persistent world.</string>
-	<string key="ui_seasonal_character_button_description" rel_version="Feature_Seasonal_Servers">Create a character on a limited-time Seasonal World with unique rules and rewards.</string>
+	<string key="ui_regular_character_button_description" rel_version="Feature_Seasonal_Servers">Experience Aeternum as intended. Create a standard character on a persistent world.</string>
+	<string key="ui_seasonal_character_button_description" rel_version="Feature_Seasonal_Servers">Create a limited-time character on a Seasonal World with unique rules and rewards.</string>
 	<string key="ui_seasonal_worlds_unavailable" rel_version="Feature_Seasonal_Servers">Seasonal Worlds unavailable</string>
 	<string key="ui_seasonal_worlds_available" rel_version="Feature_Seasonal_Servers">Seasonal Worlds available</string>
-	<string key="ui_seasonal_worlds_avaialble_until" rel_version="Feature_Seasonal_Servers">Season ends at {date} {time}</string>
+	<string key="ui_seasonal_worlds_avaialble_until" rel_version="Feature_Seasonal_Servers">Season ends at {date} {time}\n\nThis character will need to be deleted at the end of the season.</string>
 	<string key="ui_seasonal_worlds_ended" rel_version="Feature_Seasonal_Servers">Season ended at {date} {time}</string>
-	<string key="ui_seasonal_worlds_available_24h" rel_version="Feature_Seasonal_Servers">Season ends in &lt;img src="LyShineUI/Images/PUGFinder/Pugfinder_hourglass" xPadding="-4" scale="2.25" yOffset="8"&gt;&lt;/img&gt;{time}</string>
+	<string key="ui_seasonal_worlds_available_24h" rel_version="Feature_Seasonal_Servers">Season ends in &lt;img src="LyShineUI/Images/PUGFinder/Pugfinder_hourglass" xPadding="-4" scale="2.25" yOffset="8"&gt;&lt;/img&gt;{time}\n\nThis character will need to be deleted at the end of the season.</string>
 	<string key="ui_seasonal_worlds_duration" rel_version="Feature_Seasonal_Servers">{timeStart} - {timeEnd}</string>
-	<string key="ui_seasonal_worlds_server_description" rel_version="Feature_Seasonal_Servers">&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; You will permanently flag for PvP at level {level} in this World.\n&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; Only new characters can be created in {worldName}.\n&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; Characters cannot transfer to this Seasonal World.</string>
+	<string key="ui_seasonal_worlds_server_description" rel_version="Feature_Seasonal_Servers">&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; For this seasonal server, players will experience an expedited main story questline and a unique seasonal world journey with special rewards for completing difficult content without dying. Each time a character on this world dies, they gain a stack of the Fallen status effect, which increases attributes with each stack, to a maximum of 5 stacks.\n&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; Characters on this world can equip an artifact in each equipment slot.\n&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; Crossworld matchmaking and activity finder are disabled on {worldName}. Players will need to use group finder for expeditions.\n&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; Characters cannot transfer to or from this world.\n&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; Characters on this world will need to be deleted at the end of the season.</string>
 	<string key="ui_seasonal_worlds_server_duration" rel_version="Feature_Seasonal_Servers">Available from {dateStart} {timeStart} - {dateEnd} {timeEnd}</string>
-	<string key="ui_seasonal_worlds_tooltip" rel_version="Feature_Seasonal_Servers">In this PvP world, your faction decides which players you can group and form Companies with. Choose the same faction as your friends to play together.\n\nYou may change faction in game.</string>
+	<string key="ui_seasonal_worlds_tooltip" rel_version="Feature_Seasonal_Servers">In this seasonal world, your faction decides which players you can group and form Companies with. Choose the same faction as your friends to play together.\n\nYou may change faction in game.</string>
 </resources>
 

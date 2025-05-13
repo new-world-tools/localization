@@ -293,20 +293,20 @@
 	<string key="ElysianIntro07" start="94" end="96" speaker="Artemis" dialogue-next="ElysianIntro08">End them.</string>
 	<string key="ElysianIntro08" start="103" end="108" speaker="Taurus">Change is coming for us all.</string>
 	<string key="EmptyThrone01" start="1" end="9" speaker="Sage Moira" dialogue-next="EmptyThrone02">King Artorius arrived on Aeternum 700 years ago to discover a people scattered and divided.</string>
-	<string key="EmptyThrone02" start="10.6" end="17" speaker="Sage Moira" dialogue-next="EmptyThrone03">Promising order, he united Southern Aeternum for the first time since the era of the Ancients.</string>
+	<string key="EmptyThrone02" start="10.6" end="17.7" speaker="Sage Moira" dialogue-next="EmptyThrone03">Promising order, he united Southern Aeternum for the first time since the era of the Ancients.</string>
 	<string key="EmptyThrone03" start="20.2" end="25.2" speaker="Sage Moira" dialogue-next="EmptyThrone04">The king's rule was built upon the armor-clad shoulders of his sworn knights:</string>
-	<string key="EmptyThrone04" start="26" end="32" speaker="Sage Moira" dialogue-next="EmptyThrone05">Courageous Ser Gawain, fierce Ser Lancelot, and the loyal Ser Galahad.</string>
-	<string key="EmptyThrone05" start="34.2" end="38.2" speaker="Sage Moira" dialogue-next="EmptyThrone06">Their valor was tested when hordes of Corrupted attacked from the north...</string>
-	<string key="EmptyThrone06" start="39" end="46" speaker="Sage Moira" dialogue-next="EmptyThrone07">Guided by none other than the king's fallen advisor, the wizard Myrddin.</string>
-	<string key="EmptyThrone07" start="50.2" end="56.8" speaker="Sage Moira" dialogue-next="EmptyThrone08">In the wake of the conflict, King Artorius was gone, fate unknown as the kingdom crumbled.</string>
-	<string key="EmptyThrone08" start="57.5" end="63" speaker="Sage Moira" dialogue-next="EmptyThrone09">Lancelot left seeking vengeance and Galahad to create a new life...</string>
-	<string key="EmptyThrone09" start="64" end="71" speaker="Sage Moira" dialogue-next="EmptyThrone10">But Ser Gawain was heir to the throne - he departed seeking only divine blessing for his rule.</string>
-	<string key="EmptyThrone10" start="73.2" end="77.5" speaker="Sage Moira" dialogue-next="EmptyThrone11">Prydwen was in a dire state, ravaged by war, its people demoralized.</string>
-	<string key="EmptyThrone11" start="79.5" end="85" speaker="Sage Moira" dialogue-next="EmptyThrone12">It was Minister Lochnir who held the town together, safeguarding the throne for Gawain's return.</string>
-	<string key="EmptyThrone12" start="88.2" end="93" speaker="Sage Moira" dialogue-next="EmptyThrone13">But Ser Jin Jae of Ebonscale Reach captured the hearts of the people.</string>
-	<string key="EmptyThrone13" start="94.2" end="101.2" speaker="Sage Moira" dialogue-next="EmptyThrone14">After so many dark years, she emerged as a beacon of hope, and was appointed Knight-Regent.</string>
-	<string key="EmptyThrone14" start="103" end="106.6" speaker="Sage Moira" dialogue-next="EmptyThrone15">Now the Minister informs us he's spotted Ser Gawain's sails on the horizon...</string>
-	<string key="EmptyThrone15" start="109.8" end="115.6" speaker="Sage Moira">And we prepare for the true heir to finally come home and claim his throne.</string>
+	<string key="EmptyThrone04" start="26" end="32.7" speaker="Sage Moira" dialogue-next="EmptyThrone05">Courageous Ser Gawain, fierce Ser Lancelot, and the loyal Ser Galahad.</string>
+	<string key="EmptyThrone05" start="34.2" end="38.7" speaker="Sage Moira" dialogue-next="EmptyThrone06">Their valor was tested when hordes of Corrupted attacked from the north...</string>
+	<string key="EmptyThrone06" start="39" end="46.7" speaker="Sage Moira" dialogue-next="EmptyThrone07">Guided by none other than the king's fallen advisor, the wizard Myrddin.</string>
+	<string key="EmptyThrone07" start="50.2" end="57.1" speaker="Sage Moira" dialogue-next="EmptyThrone08">In the wake of the conflict, King Artorius was gone, fate unknown as the kingdom crumbled.</string>
+	<string key="EmptyThrone08" start="57.5" end="63.5" speaker="Sage Moira" dialogue-next="EmptyThrone09">Lancelot left seeking vengeance and Galahad to create a new life...</string>
+	<string key="EmptyThrone09" start="64" end="71.7" speaker="Sage Moira" dialogue-next="EmptyThrone10">But Ser Gawain was heir to the throne - he departed seeking only divine blessing for his rule.</string>
+	<string key="EmptyThrone10" start="73.2" end="78" speaker="Sage Moira" dialogue-next="EmptyThrone11">Prydwen was in a dire state, ravaged by war, its people demoralized.</string>
+	<string key="EmptyThrone11" start="79.5" end="85.7" speaker="Sage Moira" dialogue-next="EmptyThrone12">It was Minister Lochnir who held the town together, safeguarding the throne for Gawain's return.</string>
+	<string key="EmptyThrone12" start="88.2" end="93.6" speaker="Sage Moira" dialogue-next="EmptyThrone13">But Ser Jin Jae of Ebonscale Reach captured the hearts of the people.</string>
+	<string key="EmptyThrone13" start="94.2" end="101.8" speaker="Sage Moira" dialogue-next="EmptyThrone14">After so many dark years, she emerged as a beacon of hope, and was appointed Knight-Regent.</string>
+	<string key="EmptyThrone14" start="103" end="107.3" speaker="Sage Moira" dialogue-next="EmptyThrone15">Now the Minister informs us he's spotted Ser Gawain's sails on the horizon...</string>
+	<string key="EmptyThrone15" start="109.8" end="116" speaker="Sage Moira">And we prepare for the true heir to finally come home and claim his throne.</string>
 	<string key="AncientAeternum01" start="0.5" end="7" speaker="Sage Moira" dialogue-next="AncientAeternum02">Aeternum's ruins tell the tale of a magnificent civilization that once dominated the island.</string>
 	<string key="AncientAeternum02" start="8" end="15" speaker="Sage Moira" dialogue-next="AncientAeternum03">Its architects, the Ancients, discovered - or possibly created - the energy we call Azoth.</string>
 	<string key="AncientAeternum03" start="16" end="26" speaker="Sage Moira" dialogue-next="AncientAeternum04">In the millennia that followed, humanity came from countless prehistoric cultures - Sumeria, China, Egypt, and more.</string>

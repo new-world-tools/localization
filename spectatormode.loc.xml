@@ -1,5 +1,5 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<string key="ui_spectate_heading" comment="">Spectator Mode</string>
+	<string key="ui_spectate_heading" comment="">Spectating</string>
 	<string key="ui_spectate" comment="">Spectate</string>
 	<string key="ui_spectate_ghost" comment="">Spectate Mode: Ghost</string>
 	<string key="ui_spectate_follow" comment="">Spectate Mode: Follow</string>
@@ -10,5 +10,9 @@
 	<string key="ui_spectate_privacytitle" comment="">Privacy</string>
 	<string key="ui_spectate_allowtitle" comment="">Allow Being Spectated</string>
 	<string key="ui_spectate_allowdescription" comment="">Allow other players in your group to spectate you when they are dead</string>
+	<string key="ui_pvp_spectate_currplayer" comment="">SPECTATING &lt;font color="#ebe3d6"&gt;{playerName}&lt;/font&gt;</string>
+	<string key="ui_pvp_spectate_nextplayer" comment="">Next</string>
+	<string key="ui_pvp_spectate_prevplayer" comment="">Previous</string>
+	<string key="ui_pvp_spectate_exit" comment="">Exit Spectate</string>
 </resources>
 

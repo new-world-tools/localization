@@ -199,6 +199,7 @@
 	<string key="ui_guildranksettler_and_above">Settler and above</string>
 	<string key="ui_guildrankpublic_and_above">Public, full access</string>
 	<string key="ui_guildrank_no_permissions">Your Company rank ({rank}) is not high enough.</string>
+	<string key="ui_guildrank_security_label">&lt;img src="lyshineui/images/markers/marker_textDivider" xPadding="0" scale="1" yOffset="0"&gt;&lt;/img&gt;  {rankText}</string>
 	<string key="ui_guildsystemerror">A system error occured.</string>
 	<string key="ui_invitebuttontooltip">Invite someone into your Company.</string>
 	<string key="ui_invitetime" comment="timeType refers to seconds, minutes, hours, days, etc.">{timeValue} {timeType} ago</string>
@@ -328,11 +329,17 @@
 	<string key="ui_defendercounterattacknow">Defender can now &lt;font color="#ff7171"&gt;counter attack.&lt;/font&gt;</string>
 	<string key="ui_counterattacknotavailable">Counter attack has already been used.</string>
 	<string key="ui_counterattacknotavailable_wartab">Counter attack used</string>
+	<string key="ui_wardeclarationpopup_declare">Declare</string>
+	<string key="ui_wardeclarationpopup_wallet">Wallet</string>
+	<string key="ui_wardeclarationpopup_wallet_personal">Personal</string>
+	<string key="ui_wardeclarationpopup_wallet_company">Company</string>
+	<string key="ui_wardeclarationpopup_attacking">Attacking</string>
+	<string key="ui_wardeclarationpopup_defending">Defending</string>
 	<string key="ui_wardeclarationpopup_cost">Cost:</string>
 	<string key="ui_wardeclarationpopup_title">Declaration of War</string>
 	<string key="ui_wardeclarationpopup_target">vs {guildName}</string>
 	<string key="ui_wardeclarationpopup_message">During a war, the attacking company tries to claim the defending company's territory by capturing its fort within the Siege window.</string>
-	<string key="ui_wardeclarationpopup_declarebutton">Declare War! {coinImage} {cost}</string>
+	<string key="ui_wardeclarationpopup_declarebutton">{coinImage} {cost}</string>
 	<string key="ui_wardeclarationpopup_mywallet" comment="When presented to the user, the name for currency is always Coin">Coin</string>
 	<string key="ui_wardeclarationpopup_extendtitle">Counter attack</string>
 	<string key="ui_wardeclarationpopup_extendmessage" comment="This will have a time below it for how long the war will last after the extension">Are you sure you want to counter attack {guildName}?\nBoth Companies will be able to attack each other without being flagged as a criminal for:</string>
@@ -360,7 +367,7 @@
 	<string key="ui_wardeclarationpopup_siege_time_title">Next Available Siege Window</string>
 	<string key="ui_wardeclarationpopup_siege_selection_title">Select Your War Camp</string>
 	<string key="ui_wardeclarationpopup_siege_selection_action">Select War Camp</string>
-	<string key="ui_wardeclarationpopup_confirmation_title">War is Declared!</string>
+	<string key="ui_wardeclarationpopup_confirmation_title">War Declared!</string>
 	<string key="ui_wardeclarationpopup_confirmation_message">A war camp is placed near the fortress.\nYour company will be able to use the camp when the war starts!</string>
 	<string key="ui_wardeclarationpopup_item_gate_strength">Gate Strength</string>
 	<string key="ui_wardeclarationpopup_item_deployment_limit">Siege Weapon Limit</string>
@@ -682,7 +689,7 @@
 	<string key="ui_war_schedule_adjustment_message">{warType} in {territoryName} was {scheduleAdjustmentType}.</string>
 	<string key="ui_war_schedule_adjustment_cancelled">cancelled</string>
 	<string key="ui_war_schedule_adjustment_rescheduled">rescheduled</string>
-	<string key="ui_war_camp_tier">Tier &lt;font face="lyshineui/fonts/Pica_Regular.font"&gt;{value}&lt;/font&gt;</string>
+	<string key="ui_war_camp_tier">Tier {value}</string>
 	<string key="ui_war_camp_weapons_tier">Siege Weapon Tier</string>
 </resources>
 

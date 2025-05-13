@@ -2213,6 +2213,8 @@
 	<string key="ui_poi_Varangian_Keep_53002_description" rel_version="AI_Evil_Knights_P3">A stronghold erected by the Varikulaki, the brutal vassals of the Varangian warlord determined to conquer Aeternum.</string>
 	<string key="ui_poi_Crystal_Cave_53003" rel_version="AI_Evil_Knights_P3">Brocéliande Cave</string>
 	<string key="ui_poi_Crystal_Cave_53003_description" rel_version="AI_Evil_Knights_P3">Sanctuary of a once-powerful sorceror… Or perhaps it is his prison.</string>
+	<string key="springtide_wispybloom_field" rel_version="Event_SpringtideBloom_Temp">Wispybloom Field</string>
+	<string key="springtide_wispybloom_field_description" rel_version="Event_SpringtideBloom_Temp">Some say the mysterious, &lt;font color="#edc63e"&gt;Springtide blooms&lt;/font&gt; that emerge in Aeternum's lush grasslands are the key to enlightenment. Just be sure to bring &lt;font color="#edc63e"&gt;Wispy Spritzes&lt;/font&gt; to keep angry &lt;font color="#edc63e"&gt;Wispy Wasps&lt;/font&gt; at bay!</string>
 	<string key="ui_poi_spiritshrine_03_40353" rel_version="Season_1_Perm">Empyrean Shrine</string>
 	<string key="ui_poi_spiritshrine_03_53004">Orgulous Weald</string>
 	<string key="ui_poi_spiritshrine_05_50258" rel_version="Quest_MSQ2_WeaversFen">Richmire Shrine</string>
@@ -2551,5 +2553,8 @@
 	<string key="ui_poi_pirate_camp_30085" rel_version="Territory_CutlassKeys_Rework">Cutthroat Camps</string>
 	<string key="ui_poi_pirate_camp_30085_description" rel_version="Territory_CutlassKeys_Rework">The pirate's took over these camps during the gold rush caused by the newly exposed islands to the West, all demanding a cut of your purse.</string>
 	<string key="ui_poi_spiritshrine_30164">Hiraeth Shrine</string>
+	<string key="ui_poi_spiritshrine_50159">Edgeflow Shrine</string>
+	<string key="ui_poi_spiritshrine_50160">Tricorne Shrine</string>
+	<string key="ui_poi_spiritshrine_50161">Peninsula Shrine</string>
 </resources>
 

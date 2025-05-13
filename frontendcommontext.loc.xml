@@ -210,6 +210,7 @@
 	<string key="mm_rejected_Player_Not_Entitled_To_World">Access denied: Not entitled to this game world.</string>
 	<string key="mm_rejected_Character_Temporarily_Unavailable">Your character is temporarily unavailable. Reconnecting...</string>
 	<string key="mm_rejected_Destination_World_Unavailable">Server error: Destination world unavailable. Reconnecting...</string>
+	<string key="mm_rejected_Banned_Location">Exiting Game, Error 451</string>
 	<string key="mm_rejected_Matchmaking_Login">Log back in to join the match.</string>
 	<string key="mm_rejected_Client_Kicked_Title">Kicked</string>
 	<string key="mm_rejected_Client_Kicked_NoMessage">You have been kicked from the game.</string>

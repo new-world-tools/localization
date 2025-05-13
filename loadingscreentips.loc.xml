@@ -579,5 +579,43 @@
 	<string key="tip_trial_sandworm_general03-content" rel_version="Season_2_Perm">The Devourer will become more difficult the longer the fight takes!</string>
 	<string key="tip_trial_sandworm_general04-title" rel_version="Season_2_Perm">Party Matters</string>
 	<string key="tip_trial_sandworm_general04-content" rel_version="Season_2_Perm">Bringing a tank - or two - matters.</string>
+	<string key="tip_dungeon_ennead_general01-title">Split the Difference</string>
+	<string key="tip_dungeon_ennead_general01-content">The power of the Ennead prevents Anpu and Heru from being defeated so long as one still remains. Try to divide your efforts between Anpu and Heru so they can be taken down at the same time!</string>
+	<string key="tip_dungeon_ennead_general02-title">Fight in the Shade</string>
+	<string key="tip_dungeon_ennead_general02-content">When facing Godling Khepri Supernal, use the pillars of the Ennead to avoid his Ancient Sun Beams.</string>
+	<string key="tip_dungeon_ennead_general03-title">General Advice</string>
+	<string key="tip_dungeon_ennead_general03-content">When General Crassus summons his Corrupted Cyclopes, keep your focus on defeating him!</string>
+	<string key="tip_dungeon_empyreanForge_general01-title">Locked In</string>
+	<string key="tip_dungeon_empyreanForge_general01-content">The Azoth-powered locks of the Empyrean Forge will reconfigure their combinations each time their mechanisms are activated, so try not to move while your allies enter the combination!</string>
+	<string key="tip_dungeon_empyreanForge_general02-title">Pinch Point</string>
+	<string key="tip_dungeon_empyreanForge_general02-content">The Forge's massive Azoth Pistons spell certain death for anyone who steps underneath one.  Wait for the piston to fall, then run under it while it's rising to stay safe.</string>
+	<string key="tip_dungeon_empyreanForge_general03-title">Hit the Deck</string>
+	<string key="tip_dungeon_empyreanForge_general03-content">When all else fails, you can go prone to avoid Ifrit's fireball barrage.  Just don't try it while Ifrit is breathing fire.</string>
+	<string key="tip_dungeon_empyreanForge_general04-title">Cloudy with a Chance of Marius</string>
+	<string key="tip_dungeon_empyreanForge_general04-content">While fighting Commander Marius, flaming balls of lava rock will fall from the sky.  These boulders always fall in a specific order.</string>
+	<string key="tip_dungeon_barnacles_general01-title">Ready Aim Fire</string>
+	<string key="tip_dungeon_barnacles_general01-content">When Admiral BlackPowder escapes to the upper deck, load the cannons with cannonballs and fire them at the Admiral to get him back in the fight.</string>
+	<string key="tip_dungeon_barnacles_general02-title">Dont Touch That</string>
+	<string key="tip_dungeon_barnacles_general02-content">Watch out! If you touch cursed treasure, you will be damaged and slowed.</string>
+	<string key="tip_dungeon_barnacles_general03-title">Into Position</string>
+	<string key="tip_dungeon_barnacles_general03-content">Tanks should face Nereid away from the group to prevent the rest of the party from being hit by her Lunge and Water Wave abilities.</string>
+	<string key="tip_dungeon_tempestsHeart_general01-title">Hidden Treasure</string>
+	<string key="tip_dungeon_tempestsHeart_general01-content">Keep an eye out for Antiquated Coffers on your journey throughout Tempest's Heart. Find them all and return their contents to the statues in the City of Darkness for bonus treasure.</string>
+	<string key="tip_dungeon_tempestsHeart_general02-title">The Chosen One</string>
+	<string key="tip_dungeon_tempestsHeart_general02-content">The carrier of the Reliquary provides an area of protection against the corruption while dealing significant damage to foes. Use it to safely cross the Sea of Corruption.</string>
+	<string key="tip_dungeon_tempestsHeart_general03-title">Patience</string>
+	<string key="tip_dungeon_tempestsHeart_general03-content">When Isabella summons a Monolith, don't go near the Monolith until the corrupted vines spinning around it have disappeared. Then use your Azoth Staff to destroy it.</string>
+	<string key="tip_dungeon_savageDivide_general01-title">Hands Full, Can't Lose</string>
+	<string key="tip_dungeon_savageDivide_general01-content">Adventurers carrying Ancient Orbs cannot defend themselves. Don't forget to help your friends!</string>
+	<string key="tip_dungeon_savageDivide_general02-title">Extreme Elements</string>
+	<string key="tip_dungeon_savageDivide_general02-content">Kurok and Mahantaram wield the power of the elements against their foes. Be ready for anything!</string>
+	<string key="tip_dungeon_savageDivide_general03-title">Come Prepared</string>
+	<string key="tip_dungeon_savageDivide_general03-content">Beasts are weak to Thrust damage. Don't forget to bring Coatings and Ward Potions!</string>
+	<string key="tip_catacombs_general01-title">Better with Friends</string>
+	<string key="tip_catacombs_general01-content">Grouping up in Catacombs will give the biggest yield!</string>
+	<string key="tip_catacombs_general02-title">Head On</string>
+	<string key="tip_catacombs_general02-content">Bosses are often just after a challenge</string>
+	<string key="tip_catacombs_general03-title">Dance of Death</string>
+	<string key="tip_catacombs_general03-content">Dodging and blocking will prevent Erosion</string>
 </resources>
 

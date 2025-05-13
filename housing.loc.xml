@@ -9,7 +9,7 @@
 	<string key="ui_house_abandon_this_popup_desc" comment="Abandon House">{percent}% of the original purchase cost will be refunded. All trophies and furniture in this house will be moved to the storage shed.\n\nTo continue, type {territoryName} below.</string>
 	<string key="ui_house_abandon_this_popup_title" comment="Abandon House">Abandon House</string>
 	<string key="ui_house_abandon_no_storage_warning" comment="Abandon House">You must have at least one free slot of Settlement storage before you can remove all items from your house.</string>
-	<string key="ui_cannot_reset_travel_currency" comment="Fast Travel">Pay &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; {coin} to reset cooldown.</string>
+	<string key="ui_cannot_reset_travel_currency" comment="Fast Travel">Pay &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.5" yOffset="2.5"&gt;&lt;/img&gt; {coin} to reset cooldown.</string>
 	<string key="ui_cannot_travel_currency" comment="Fast Travel">&lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; {coin} is required to fast travel</string>
 	<string key="ui_cannot_travel_currency_azoth" comment="Fast Travel">&lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.2" yOffset="0"&gt;&lt;/img&gt; {coin} is required to fast travel</string>
 	<string key="ui_cannot_travel_dead" comment="Fast Travel">You cannot recall or fast travel when you are dead.</string>
@@ -34,7 +34,7 @@
 	<string key="ui_fast_travel_error_noDestination_outpost" comment="Fast Travel">You have not discovered this location.</string>
 	<string key="ui_fast_travel_error_noDestination_shrine" comment="Fast Travel">You have not discovered this location.</string>
 	<string key="ui_fast_travel_failed" comment="Fast Travel">Fast Travel Failed</string>
-	<string key="ui_fast_travel_mission_abandon_confirm" comment="Fast Travel">WARNING: Fast traveling will reset the active timed race and abandon all PvP faction missions.\n{timedRaceCount} timed race will be reset and {missionCount} mission will be abandoned.\n\nContinue?</string>
+	<string key="ui_fast_travel_mission_abandon_confirm" comment="Fast Travel">WARNING: Fast traveling will reset the active timed race, abandon all PvP faction missions and disable your PvP flag.\n{timedRaceCount} timed race will be reset and {missionCount} mission will be abandoned.\n\nContinue?</string>
 	<string key="ui_fast_travel_popup_confirm" comment="Fast Travel">Would you like to fast travel to this location?</string>
 	<string key="ui_fast_travel_reset_popup" comment="Fast Travel">Reset cooldown?</string>
 	<string key="ui_fast_travel_reset_popup_confirm" comment="Fast Travel">Would you like to reset cooldown?</string>
@@ -47,7 +47,7 @@
 	<string key="ui_house_travel_cooldown_remaining" comment="Fast Travel">Can Fast Travel again in {time}</string>
 	<string key="ui_housing_fast_travel" comment="Fast Travel">Fast Travel</string>
 	<string key="ui_housing_fast_travel_desc" comment="Fast Travel">From anywhere to here</string>
-	<string key="ui_need_reset_travel_currency" comment="Fast Travel">You need &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; {coin} to reset cooldown.</string>
+	<string key="ui_need_reset_travel_currency" comment="Fast Travel">You need &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.5" yOffset="2.5"&gt;&lt;/img&gt; {coin} to reset cooldown.</string>
 	<string key="ui_recall_not_available_server_error" comment="Fast Travel">Recall is not available due to server error.</string>
 	<string key="ui_recall_to" comment="Fast Travel">Recall to</string>
 	<string key="ui_recall_to_house" comment="Fast Travel">Recall to House</string>

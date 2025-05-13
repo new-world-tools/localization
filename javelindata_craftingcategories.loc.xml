@@ -1115,6 +1115,8 @@
 	<string key="GemOnyx_CategoryName">Onyx Gemstones</string>
 	<string key="GemOpal_CategoryName">Opal Gemstones</string>
 	<string key="GemPearl_CategoryName">Pearl Gemstones</string>
+	<string key="GemJade_CategoryName">Jade Gemstones</string>
+	<string key="GemTurq_CategoryName">Turquoise Gemstones</string>
 	<string key="gemPouch_GroupName">Gem Pouch</string>
 	<string key="GemRuby_CategoryName">Ruby Gemstones</string>
 	<string key="GemSapp_CategoryName">Sapphire Gemstones</string>
@@ -1746,7 +1748,7 @@
 	<string key="SurvivalTools_GroupName">Survival Tools</string>
 	<string key="SwordA_GroupDesc">A pairing of melee-focused weapons that, when combined, offer solid offensive and defensive capabilities. Utilizes a combination of arcing swings and lunges for the offensive attacks and a shield to maximize defenses.\n\n•Light Attack: Deals {[1.000000 * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_slash_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage.\n•Light Ender: Deals {[1.050000 * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_slash_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage.\n•Heavy Attack: Deals {[1.200000 * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage.\n•Charged Heavy: Deals {[1.600000 * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage.\n\nTaunt Gem Compatible: Heavy attacks with a sword attached with a Carnelian gem taunt for {[0.500000]}s. (Taunt causes monsters to focus only on you.)</string>
 	<string key="SwordA_GroupName">Straight Sword</string>
-	<string key="SwordB_GroupDesc">A speed oriented melee weapon with a variety of quick lunge attacks. Excels at precise timing and outmaneuvering opponents while applying bleeds that gradually drain the target’s health.\n\n•Light Attack: Deals {[1.000000 * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage.\n•Light Middle Swipes: Deals {[0.660000 * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage.\n•Heavy Attack: Deals {[1.330000 * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage.\n\nTaunt Gem Compatible: Heavy attacks with a rapier attached with a Carnelian gem taunt for {[0.500000]}s. (Taunt causes monsters to focus only on you.)</string>
+	<string key="SwordB_GroupDesc">A speed oriented melee weapon with a variety of quick lunge attacks. Excels at precise timing and outmaneuvering opponents while applying bleeds that gradually drain the target’s health.\n\n•Light Attack: Deals {[1.000000 * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage.\n•Light Middle Swipes: Deals {[0.660000 * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage.\n•Heavy Attack: Deals {[1.660000 * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage.\n\nTaunt Gem Compatible: Heavy attacks with a rapier attached with a Carnelian gem taunt for {[0.500000]}s. (Taunt causes monsters to focus only on you.)</string>
 	<string key="SwordB_GroupName">Rapier</string>
 	<string key="SwordC_GroupDesc">1-Handed.</string>
 	<string key="SwordC_GroupName">Saber</string>
@@ -1767,6 +1769,7 @@
 	<string key="Tokens_GroupName">Event Tokens</string>
 	<string key="TokenCreation_GroupName">Token Creation</string>
 	<string key="TokenConversion_GroupName">Token Conversion</string>
+	<string key="SB_WispySpritzCraft" rel_version="Event_SpringtideBloom_Temp">Wispy Spritz</string>
 	<string key="ToolHatchet_GroupDesc">1-Handed. Gathers wood.</string>
 	<string key="ToolHatchet_GroupName">Hatchet</string>
 	<string key="ToolsGathering_GroupName">Gathering Tools</string>
@@ -2057,5 +2060,18 @@
 	<string key="EtherealDust_GroupName" comment="DO NOT TRANSLATE" rel_version="PvPServerConquerorsItems">Ethereal Dust XP Conversion</string>
 	<string key="BetaRewards_GroupName">Beta Rewards</string>
 	<string key="OPRBetas_GroupName">OPR betas</string>
+	<string key="ReekwaterUplevelRare_GroupName" rel_version="Season_8_Perm">Rare</string>
+	<string key="ReekwaterUplevelCommon_GroupName" rel_version="Season_8_Perm">Common</string>
+	<string key="AdventurerCaches_GroupName" rel_version="Seasonal_server_2">Adventurer's Caches</string>
+	<string key="AdventurersEquipment_GroupName" rel_version="Seasonal_server_2">Equipment</string>
+	<string key="AdventurersConsumables_GroupName" rel_version="Seasonal_server_2">Consumables</string>
+	<string key="AdventurersItems_GroupName" rel_version="Seasonal_server_2">Items</string>
+	<string key="S8CacheCraft_GroupName" rel_version="Seasonal_server_2">Season 8 Crafting</string>
+	<string key="OrichalciteRecipes_GroupName" rel_version="Seasonal_server_2">Orichalcite Recipes</string>
+	<string key="OrichalciteArmors_GroupName" rel_version="Seasonal_server_2">Orichalcite Armors</string>
+	<string key="OrichalciteWeapons_GroupName" rel_version="Seasonal_server_2">Orichalcite Weapons</string>
+	<string key="OrichalciteJewelry_GroupName" rel_version="Seasonal_server_2">Orichalcite Jewelry</string>
+	<string key="RuneResinRecipes_GroupName" rel_version="Seasonal_server_2">Runewood Resin Recipes</string>
+	<string key="RuneResinTrophies_GroupName" rel_version="Seasonal_server_2">Runewood Resin Trophies</string>
 </resources>
 

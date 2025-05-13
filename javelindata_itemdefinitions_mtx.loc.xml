@@ -183,8 +183,12 @@
 	<string key="House_HousingItem_Firelight_MTX_Rug_Description" rel_version="Housing_Firelight_MTX_Pack_2023">The fibers of this rug are particularly warm, like if it had soaked in all the warmth of the setting sun.</string>
 	<string key="CampSkin_Firelight01_A_MasterName" rel_version="CampSkin_Firelight_1">Lantern-lit Yurt</string>
 	<string key="CampSkin_Firelight01_A_Description" rel_version="CampSkin_Firelight_1">Illuminate the night from within this cozy yurt capable of repelling even the harshest Aeternum winds.</string>
+	<string key="CampSkin_Firelight01_A_PVP_MasterName" rel_version="Feature_PvP_Camps">PVP Lantern-lit Yurt</string>
+	<string key="CampSkin_Firelight01_A_PVP_Description" rel_version="Feature_PvP_Camps">Illuminate the night from within this cozy yurt capable of repelling even the harshest Aeternum winds.</string>
 	<string key="CampSkin_Firelight01_B_MasterName" rel_version="CampSkin_Firelight_2">Ring of Fire</string>
 	<string key="CampSkin_Firelight01_B_Description" rel_version="CampSkin_Firelight_2">Light shines in from all directions, filling its space with an inviting glow.</string>
+	<string key="CampSkin_Firelight01_B_PVP_MasterName" rel_version="Feature_PvP_Camps">PVP Ring of Fire</string>
+	<string key="CampSkin_Firelight01_B_PVP_Description" rel_version="Feature_PvP_Camps">Light shines in from all directions, filling its space with an inviting glow.</string>
 	<string key="Apr2023_Container_MasterName" rel_version="Entitlements_Highwayman">Rusty Cracked Safe</string>
 	<string key="Apr2023_Container_Description" rel_version="Entitlements_Highwayman">Where these items came from isn't important. What matters is they're yours now!</string>
 	<string key="Skin_Chest_Apr2023_HighwaymanPrickleRust_MasterName" rel_version="Apparel_Highwayman_3">Gaunt Tarnished Spaulders</string>
@@ -530,6 +534,8 @@
 	<string key="Skin_Oct2023_Greatsword_Description" rel_version="Entitlements_Seance">Titans in life and beyond. May they rest in peace.</string>
 	<string key="CampSkin_Seance01_A_MasterName" rel_version="Entitlements_Seance">Ritual Hut</string>
 	<string key="CampSkin_Seance01_A_Description" rel_version="Entitlements_Seance">Many enter with visions of fortune. Few leave, transformed into little more than bone and dust.</string>
+	<string key="CampSkin_Seance01_A_PVP_MasterName" rel_version="Feature_PvP_Camps">PVP Ritual Hut</string>
+	<string key="CampSkin_Seance01_A_PVP_Description" rel_version="Feature_PvP_Camps">Many enter with visions of fortune. Few leave, transformed into little more than bone and dust.</string>
 	<string key="Sep2023_Container_PrimaryName" rel_version="Entitlements_FirstLightMTX">Gilded Verdure Cache</string>
 	<string key="Sep2023_Container_PrimaryDesc" rel_version="Entitlements_FirstLightMTX">All that glitters is not gold, but can be equally precious.</string>
 	<string key="Skin_FirstLightElven_ShieldR_PrimaryName" rel_version="Entitlements_FirstLightMTX">Ironwood Rondel</string>
@@ -577,6 +583,8 @@
 	<string key="Bundle_PR_DeepSeaGothic_Weapon_description" rel_version="Entitlements_FirstLightMTX">Long have you known fathoms below contain unspeakable wonders - and now, they rest in your palms.</string>
 	<string key="CampSkin_FrontierWaste01_A_MasterName" rel_version="Entitlements_WastelandFrontier">Rugged Respite</string>
 	<string key="CampSkin_FrontierWaste01_A_Description" rel_version="Entitlements_WastelandFrontier">Take shelter from the storms of dust and blood alike.</string>
+	<string key="CampSkin_FrontierWaste01_A_PVP_MasterName" rel_version="Feature_PvP_Camps">PVP Rugged Respite</string>
+	<string key="CampSkin_FrontierWaste01_A_PVP_Description" rel_version="Feature_PvP_Camps">Take shelter from the storms of dust and blood alike.</string>
 	<string key="Skin_Head_FirstLightElvenFlowingSilver_PrimaryName" rel_version="Entitlements_FirstLightMTX">Timbersworn Helm</string>
 	<string key="Skin_Chest_FirstLightElvenFlowingSilver_PrimaryName" rel_version="Entitlements_FirstLightMTX">Timbersworn Spaulder</string>
 	<string key="Skin_Hands_FirstLightElvenFlowingSilver_PrimaryName" rel_version="Entitlements_FirstLightMTX">Timbersworn Mitts</string>
@@ -861,6 +869,8 @@
 	<string key="MTX_WinterMerc_Musket_Desc" rel_version="Entitlements_WinterMerc">Forged in frostburned flames, strike forth with wintry vengeance</string>
 	<string key="CampSkin_Ronin_01_Name" rel_version="Entitlements_WinterMerc">Serene Teahouse</string>
 	<string key="CampSkin_Ronin_01_Description" rel_version="Entitlements_WinterMerc">Puns aside, this remains one of the most peaceful spots to enjoy Aeternum from.</string>
+	<string key="CampSkin_Ronin_01_PVP_Name" rel_version="Feature_PvP_Camps">PVP Serene Teahouse</string>
+	<string key="CampSkin_Ronin_01_PVP_Description" rel_version="Feature_PvP_Camps">Puns aside, this remains one of the most peaceful spots to enjoy Aeternum from.</string>
 	<string key="MTX_WinterMerc_Medic_Name" rel_version="Entitlements_WinterMerc">Snowbound Savior</string>
 	<string key="MTX_WinterMerc_Deluxe_Name" rel_version="Entitlements_WinterMerc">Stag-hearted Warrior</string>
 	<string key="MTX_Ronin_Shinobi_Name" rel_version="Entitlements_Ronin">Shadow's Reach</string>
@@ -964,6 +974,8 @@
 	<string key="May2024_Container_Desc">Don't ask how the pudding stays fresh in the crate. It just does.</string>
 	<string key="CampSkin_Reaper01_A_MasterName">Final Testament</string>
 	<string key="CampSkin_Reaper01_A_Description">The reaper has no hold on Aeternum - why rest, when you can rise from the ashes?</string>
+	<string key="CampSkin_Reaper01_A_PVP_MasterName" rel_version="Feature_PvP_Camps">PVP Final Testament</string>
+	<string key="CampSkin_Reaper01_A_PVP_Description" rel_version="Feature_PvP_Camps">The reaper has no hold on Aeternum - why rest, when you can rise from the ashes?</string>
 	<string key="Aug2024_Container_Name" rel_version="Season_6_Perm">Grim Cache</string>
 	<string key="Aug2024_Container_Desc" rel_version="Season_6_Perm">Something about it is just unsettling...</string>
 	<string key="Sep2024_Container_Name" rel_version="Season_6_Perm">Harvesting Season Cache</string>
@@ -1084,6 +1096,15 @@
 	<string key="MTX_FunnyHat_ElfHat_Name" rel_version="Entitlements_WinterHoliday">Holiday Helper Hat</string>
 	<string key="MTX_FunnyHat_ElfHat_Desc" rel_version="Entitlements_WinterHoliday">Donning this cap fills you with confidence in crafting without actually improving your ability.</string>
 	<string key="StoreItem_Apparel_Winter_Nutcracker_name" rel_version="Entitlements_WinterHoliday">Winter Prince</string>
+	<string key="Skin_MTX_Coquette_2hVoidGauntlet_MasterName" rel_version="Season_8_Perm">Evanescent Touch</string>
+	<string key="Skin_MTX_Coquette_1hFlail_MasterName" rel_version="Season_8_Perm">Evanescent Star</string>
+	<string key="MTX_Coquette_Weapon_Desc" rel_version="Season_8_Perm">A most elegant weapon from a more macabre era, perfect for the aspiring dark witch.</string>
+	<string key="Skin_MTX_Coquette_chest_MasterName" rel_version="Season_8_Perm">Elegant Sorceress's Frilled Dress</string>
+	<string key="Skin_MTX_Coquette_head_MasterName" rel_version="Season_8_Perm">Elegant Sorceress's Victorian Hat</string>
+	<string key="Skin_MTX_Coquette_legs_MasterName" rel_version="Season_8_Perm">Elegant Sorceress's Silk Stockings</string>
+	<string key="Skin_MTX_Coquette_feet_MasterName" rel_version="Season_8_Perm">Elegant Sorceress's Heeled Boots</string>
+	<string key="Skin_MTX_Coquette_gloves_MasterName" rel_version="Season_8_Perm">Elegant Sorceress's Fingerless Gloves</string>
+	<string key="MTX_Coquette_Armor_Desc" rel_version="Season_8_Perm">A touch of silk, a dash of witchcraft, and style straight from Weaver's Fen.</string>
 	<string key="Apr2025_TwitchPrime_Box_MasterName" rel_version="Feature_RabbitSeasonPerm">Hearty Twitch Cache</string>
 	<string key="Apr2025_TwitchPrime_Box_Description" rel_version="Feature_RabbitSeasonPerm">This object contains a gift for watching your favorite streamer.\n\nIncludes the following:\n&lt;font color="#b2aea1"&gt;
 5x Vial of Suspended Azoth\n
@@ -1094,5 +1115,30 @@
 5x Banana Parfait\n
 5x Powerful Honing Stone\n
 5x Powerful Gemstone Dust&lt;/font&gt;</string>
+	<string key="May2025_TwitchPrime_Box_MasterName" rel_version="Feature_RabbitSeasonPerm">Nimble Twitch Cache</string>
+	<string key="May2025_TwitchPrime_Box_Description" rel_version="Feature_RabbitSeasonPerm">This object contains a gift for watching your favorite streamer.\n\nIncludes the following:\n&lt;font color="#b2aea1"&gt;
+5x Vial of Suspended Azoth\n
+25x Dark Matter\n
+3x Gypsum Orbs\n
+15x Infused Health Potion\n
+10x Banana Pudding\n
+5x Powerful Honing Stone\n&lt;/font&gt;</string>
+	<string key="Jun2025_TwitchPrime_Box_MasterName" rel_version="Feature_RabbitSeasonPerm">Clever Twitch Cache</string>
+	<string key="Jun2025_TwitchPrime_Box_Description" rel_version="Feature_RabbitSeasonPerm">This object contains a gift for watching your favorite streamer.\n\nIncludes the following:\n&lt;font color="#b2aea1"&gt;
+5x Vial of Suspended Azoth\n
+25x Dark Matter\n
+3x Gypsum Orbs\n
+10x Infused Health Potion\n
+5x Infused Mana Potion\n
+5x Fruit Salad\n
+5x Tostones\n
+5x Powerful Oakflesh Balm\n
+5x Powerful Gemstone Dust&lt;/font&gt;</string>
+	<string key="housing_factionfest_reward_decor_covenant_Description" rel_version="Season_8_Perm">Decorate your house with this mystical stone that channels the essence of the Covenant Faction.</string>
+	<string key="housing_factionfest_reward_decor_covenant_MasterName" rel_version="Season_8_Perm">Covenant Warlight Stone</string>
+	<string key="housing_factionfest_reward_decor_marauder_Description" rel_version="Season_8_Perm">Decorate your house with this mystical stone that channels the essence of the Marauder Faction.</string>
+	<string key="housing_factionfest_reward_decor_marauder_MasterName" rel_version="Season_8_Perm">Marauder Warlight Stone</string>
+	<string key="housing_factionfest_reward_decor_syndicate_Description" rel_version="Season_8_Perm">Decorate your house with this mystical stone that channels the essence of the Syndicate Faction.</string>
+	<string key="housing_factionfest_reward_decor_syndicate_MasterName" rel_version="Season_8_Perm">Syndicate Warlight Stone</string>
 </resources>
 

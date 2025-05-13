@@ -5408,5 +5408,7 @@
 	<string key="2hGreatAxeBlackboneT5_TransmogName" rel_version="Territory_Cutlasskeys_rework">Blackbone Great Axe</string>
 	<string key="1hSwordBlackboneT5_TransmogName" rel_version="Territory_Cutlasskeys_rework">Blackbone Longsword</string>
 	<string key="2hSpearBlackboneT5_TransmogName" rel_version="Territory_Cutlasskeys_rework">Blackbone Spear</string>
+	<string key="LoggingAxeFuryOfTheSprigganT5_MasterName" rel_version="Event_SpringtideBloom_2025_Perm">TEMP NAME</string>
+	<string key="LoggingAxeFuryOfTheSprigganT5_Description" rel_version="Event_SpringtideBloom_2025_Perm">TEMP NAME</string>
 </resources>
 

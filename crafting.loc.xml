@@ -229,6 +229,7 @@
 	<string key="crafting_filter_clear">CLEAR FILTERS</string>
 	<string key="crafting_filter_clear_all">Clear All</string>
 	<string key="crafting_filter_placeholder">Search</string>
+	<string key="crafting_set_max">Max Quantity</string>
 	<string key="crafting_view_filters">Filters</string>
 	<string key="crafting_expand_all">Expand All</string>
 	<string key="crafting_collapse_all">Collapse All</string>

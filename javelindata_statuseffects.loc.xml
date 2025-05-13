@@ -36,7 +36,7 @@
 	<string key="GrandPotionFocus_Tooltip">Provides a significant amount of mana over time</string>
 	<string key="GrandPotionStalwart_DisplayName">Prime Blocking Absorption</string>
 	<string key="GrandPotionEncumbrance_DisplayName">Prime Encumbrance Alleviation</string>
-	<string key="GrandPotionEncumbrance_Tooltip">Increases encumbrance limit by 100.0</string>
+	<string key="GrandPotionEncumbrance_Tooltip">Increases encumbrance limit by 500.0</string>
 	<string key="SerumRegen_DisplayName">Regeneration Serum</string>
 	<string key="SerumRegen_Tooltip">Regenerates health, mana and stamina.</string>
 	<string key="PotionBoostFireAbsT3_DisplayName">Fire Absorption I</string>
@@ -69,6 +69,12 @@
 	<string key="PotionBoostVoidAbsT3_Tooltip">Increases Void Absorption by {[0.090000 * 100]}%.</string>
 	<string key="PotionBoostVoidAbsT4_Tooltip">Increases Void Absorption by {[0.120000 * 100]}%.</string>
 	<string key="PotionBoostVoidAbsT5_Tooltip">Increases Void Absorption by {[0.150000 * 100]}%.</string>
+	<string key="PotionShield_DisplayName" rel_version="PotionUpdate_S8">Shield Potion</string>
+	<string key="PotionShield_Tooltip" rel_version="PotionUpdate_S8">Grants additional armor for the next 3 hits during this effect's duration.</string>
+	<string key="PotionGrit_DisplayName" rel_version="PotionUpdate_S8">Grit Potion</string>
+	<string key="PotionGrit_Tooltip" rel_version="PotionUpdate_S8">You are uninterruptible while this is active.</string>
+	<string key="PotionLifesteal_DisplayName" rel_version="PotionUpdate_S8">Lifesteal Potion</string>
+	<string key="PotionLifesteal_Tooltip" rel_version="PotionUpdate_S8">Increases the power of all lifesteals while active.</string>
 	<string key="eating_DisplayName">Basic Health Recovery</string>
 	<string key="AI_Season_02_Malek_Sandstorm_DisplayName" rel_version="Season_2_Perm">Sandstorm</string>
 	<string key="AI_Season_02_Malek_Sandstorm_Tooltip" rel_version="Season_2_Perm">The fury of the sands rages, damaging you.</string>
@@ -407,6 +413,8 @@
 	<string key="FoodLumberjackT5_Effect_DisplayName">Logging Luck V</string>
 	<string key="PvPArenaDeathFog_MasterName" rel_version="Feature_PVP_Arenas">Flames of Battle</string>
 	<string key="PvPArenaDeathFog_Description" rel_version="Feature_PVP_Arenas">While standing in the flames of battle, lose 10% of your health per second and reduce all healing by 99%.</string>
+	<string key="PvPArenaDeathFog_02_MasterName" rel_version="Feature_PVP_Arenas">Flames of Battle</string>
+	<string key="PvPArenaDeathFog_02_Description" rel_version="Feature_PVP_Arenas">While standing in the flames of battle, lose 10% of your health per second and reduce all healing by 99%.</string>
 	<string key="Mut_Disease_1_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators">Festering I</string>
 	<string key="Mut_Disease_2_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators">Festering II</string>
 	<string key="Mut_Disease_1_DisplayName" rel_version="Feature_Dungeon_Mutators">Minor Disease</string>
@@ -511,16 +519,12 @@
 	<string key="Mut_Ice_DeathFreeze_Root_Tooltip" rel_version="Feature_Dungeon_Mutators_pt3">Frozen in place and unable to move.</string>
 	<string key="Mut_Fir_Curse1_Minor_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators">Unstable Fire</string>
 	<string key="Mut_Fir_Curse1_Minor_Damage_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Unstable Singe</string>
-	<string key="Mut_Fir_Curse1_Minor_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators_pt3">Taking {[0.000000 * -100]}% Fire damage every {[0.000000]} seconds.</string>
 	<string key="Mut_Voi_Curse1_Minor_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators">Unstable Void</string>
 	<string key="Mut_Voi_Curse1_Minor_Damage_DisplayName" rel_version="Feature_Dungeon_Mutators">Unstable Flux</string>
-	<string key="Mut_Voi_Curse1_Minor_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators">Taking {[0.000000 * -100]}% Void damage every {[0.000000]} seconds.</string>
 	<string key="Mut_Nat_Curse1_Minor_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt2">Unstable Nature</string>
 	<string key="Mut_Nat_Curse1_Minor_Damage_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Unstable Sap</string>
-	<string key="Mut_Nat_Curse1_Minor_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators_pt3">Taking {[0.000000 * -100]}% Nature damage every {[0.000000]} seconds.</string>
 	<string key="Mut_Ice_Curse1_Minor_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Unstable Ice</string>
 	<string key="Mut_Ice_Curse1_Minor_Damage_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Unstable Chill</string>
-	<string key="Mut_Ice_Curse1_Minor_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators_pt3">Taking {[0.000000 * -100]}% Ice damage every {[0.000000]} seconds.</string>
 	<string key="Mut_Fir_Curse1_Major_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt2">Overcharged Fire</string>
 	<string key="Mut_Fir_Curse1_Major_Damage_DisplayName" rel_version="Feature_Dungeon_Mutators_pt2">Overcharged Singe</string>
 	<string key="Mut_Fir_Curse1_Major_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators_pt2">Taking {[0.000000 * -100]}% Fire damage every {[1.000000]} seconds.</string>
@@ -866,6 +870,12 @@
 	<string key="AI_SandElementalHeavy_Exhaust_T2_ToolTip" rel_version="Territory_Brimstone_Sands">Stamina regeneration reduced by {[-0.190000 * -100]}%.</string>
 	<string key="AI_SandElemental_Soldier_Vengeance_Rend_DisplayName" rel_version="Territory_Brimstone_Sands">Rend</string>
 	<string key="AI_SandElemental_Soldier_Vengeance_Rend_Tooltip" rel_version="Territory_Brimstone_Sands">You suffer {[-0.200000 * -100]}% increased damage from all sources for {[10.000000]} seconds.</string>
+	<string key="AI_Soulharvester_LeechSlow_DisplayName" rel_version="AI_Ghastly_Horrors">Life Drain</string>
+	<string key="AI_Soulharvester_LeechSlow_Tooltip" rel_version="AI_Ghastly_Horrors">Movement speed reduced by {[-0.470000 * -100]}% while in the area of effect.</string>
+	<string key="AI_Soulharvester_MagicVolleySlow_DisplayName" rel_version="AI_Ghastly_Horrors">Slowing grounds</string>
+	<string key="AI_Soulharvester_MagicVolleySlow_Tooltip" rel_version="AI_Ghastly_Horrors">Movement speed reduced by {[-0.390000 * -100]}% while in the area of effect.</string>
+	<string key="AI_Soulharvester_LeechDamage_DisplayName" rel_version="AI_Ghastly_Horrors">Temp name</string>
+	<string key="AI_Soulharvester_LeechDamage_Tooltip" rel_version="AI_Ghastly_Horrors">Change later.</string>
 	<string key="AI_AdmiralBrute_Blackpowder_DisplayName" rel_version="Expedition_CutlassKeys_00">Black Powder</string>
 	<string key="AI_AdmiralBrute_Blackpowder_Tooltip" rel_version="Expedition_CutlassKeys_00">You're coated in black powder. Taking Fire damage from an enemy will ignite the powder and inflict Burn!</string>
 	<string key="AI_AdmiralBrute_Blackpowder_Burn_DisplayName" rel_version="Expedition_CutlassKeys_00">Black Powder Burn</string>
@@ -1393,6 +1403,8 @@
 	<string key="WeaponCoatingEffect_T4_AngryEarth_Description">Deal {[AngryEarth=.13 * 100]}% more damage to Angry Earth.</string>
 	<string key="WeaponCoatingEffect_T5_Beasts_DisplayName">Infused Beast Weapon Coating</string>
 	<string key="WeaponCoatingEffect_T5_Beasts_Description">Deal {[Beast=.15 * 100]}% more damage to Beasts.</string>
+	<string key="WeaponCoatingEffect_T5_BeastsTurkey_DisplayName" rel_version="Event_TurkeyTerror_Perm">Infused Turkey Weapon Coating</string>
+	<string key="WeaponCoatingEffect_T5_BeastsTurkey_Description" rel_version="Event_TurkeyTerror_Perm">Deal 300% more damage to Turkulon and 15% to Beasts.</string>
 	<string key="WeaponCoatingEffect_T5_Ancient_DisplayName">Infused Ancient Weapon Coating</string>
 	<string key="WeaponCoatingEffect_T5_Ancient_Description">Deal {[Ancient=.15 * 100]}% more damage to Ancients.</string>
 	<string key="WeaponCoatingEffect_T5_Lost_DisplayName">Infused Lost Weapon Coating</string>
@@ -1512,6 +1524,7 @@
 	<string key="Status_Recovery">Recovery</string>
 	<string key="Status_Reinforced">Reinforced</string>
 	<string key="Status_Blessed">Blessed</string>
+	<string key="Status_Anointed">Anointed</string>
 	<string key="Status_Empower_Description">You have an active damage increase buff.</string>
 	<string key="Status_Invulnerability_Description">You are immune to damage.</string>
 	<string key="Status_Fortify_Description">You have an active buff to armor.</string>
@@ -1534,6 +1547,7 @@
 	<string key="Status_Heal_Description_Description">Your healing effects will heal for more.</string>
 	<string key="Status_LifeSteal_Description">Damage dealt while this effect is active will heal you.</string>
 	<string key="Status_Blessed_Description">Outgoing healing is increased while this effect is active.</string>
+	<string key="Status_Anointed_Description">Incoming healing is increased while this effect is active.</string>
 	<string key="Status_GemPerk_Retaliate_Description">Damage bonus from the Retaliate Gem Perk.</string>
 	<string key="Status_CritChanceReduction">Crit Chance Reduction</string>
 	<string key="Status_CritChanceReduction_Description">Your critical hit chance is reduced while this effect is active.</string>
@@ -1629,7 +1643,7 @@
 	<string key="Status_EmpowerHeadshot_Description">Your attacks deal {[0.100000 * 100]}% more damage.</string>
 	<string key="Status_EmpowerOnDebuff_Description">Your attacks deal {[0.050000 * 100]}% more damage.</string>
 	<string key="Musket_Status_DMG_EveryADSShot">Heightened Precision</string>
-	<string key="Musket_Status_DMG_EveryADSShot_Description">Increase damage by 2.5% for every successful shot while aiming down sights.</string>
+	<string key="Musket_Status_DMG_EveryADSShot_Description">Increase damage by 2.5% for every successful shot on a target.</string>
 	<string key="ATB_CritOnDodge_DisplayName">Crit After Dodge Timer</string>
 	<string key="ATB_CritOnDodge_Description">When this timer ends you can use the guaranteed crit after dodge (Dexterity 300) attribute bonus again.</string>
 	<string key="ATB_DRAtFullHP_DisplayName">Damage Reduction at Full HP Timer</string>
@@ -1809,6 +1823,9 @@
 	<string key="Status_Weapon_ChargedHeavyRend_Description" rel_version="MorePerksV1">Your armor is reduced while this is active.</string>
 	<string key="Status_Timer_ChargedHeavyRend_Description" rel_version="MorePerksV1">When this ends, you can trigger the Trenchant Rend perk again.</string>
 	<string key="Wispy_Wasp_Swarm_Tick_DisplayName">Bleeding</string>
+	<string key="Wispy_Wasp_Swarm_Tick_Tooltip" rel_version="Event_SpringtideBloom_Temp">Bleeding for {[-2.5000000000000001E-2 * -100]}% base health Physical damage every {[0.750000]} seconds for {[1.000000]} seconds.</string>
+	<string key="Wispy_Wasp_Swarm_Repellent_DisplayName" rel_version="Event_SpringtideBloom_Temp">Wispy Wasp Repellent</string>
+	<string key="Wispy_Wasp_Swarm_Repellent_Description" rel_version="Event_SpringtideBloom_Temp">Protects against pesky Wispy Wasp stings.</string>
 	<string key="Blunderbuss_ChargeCooldown_Name" rel_version="Weapon_Blunderbuss">Double Down</string>
 	<string key="Blunderbuss_ChargeCooldown_Desc" rel_version="Weapon_Blunderbuss">Your next blunderbuss skill has a shorter cooldown.</string>
 	<string key="Blunderbuss_ChargeCooldownOnCooldown_Desc" rel_version="Weapon_Blunderbuss">When this expires you can use your Double Down passive again.</string>
@@ -1850,6 +1867,13 @@
 	<string key="Status_DodgeStamina_Timer_Description" rel_version="MorePerksV2">When this ends, you can trigger the Shirking Energy perk again.</string>
 	<string key="Status_GatherProc_Heal" rel_version="MorePerksV2">Gathering Heal</string>
 	<string key="Status_GatherProc_Heal_Description" rel_version="MorePerksV2">Regenerating Health from the Gathering Recovery Perk.</string>
+	<string key="Status_BasicBuff" rel_version="Season8Perks">Basic Attack Buff.</string>
+	<string key="Status_BasicBuff_Description" rel_version="Season8Perks">Next hit with a basic attack will deal more damage.</string>
+	<string key="Status_AbilityBuff" rel_version="Season8Perks">Ability Buff</string>
+	<string key="Status_AbilityBuff_Description" rel_version="Season8Perks">Next hit with an ability will deal more damage.</string>
+	<string key="Status_Perk_NextHitCrit_MasterName">Next Hit Critical</string>
+	<string key="Status_Perk_NextHitCrit_Description">Your next attack has a 100% crit chance.</string>
+	<string key="Wispy_Wasp_Swarm_ResetToFlower_DisplayName" rel_version="Event_SpringtideBloom_Temp">Guarding Wispybloom</string>
 	<string key="Status_MothersLove" rel_version="Housing_MothersLove_Memorial">Mother's Love</string>
 	<string key="Status_MothersLove_Description" rel_version="Housing_MothersLove_Memorial">You feel a guiding and motherly presence upon you, increasing Luck by {[500.000000 * 0.01]}% for {[7200.000000 / 60]}m.</string>
 	<string key="Dungeon_RelicBubble" rel_version="Expedition_ShatterMtn_00">Reliquary</string>
@@ -1942,7 +1966,7 @@
 	<string key="Status_Rune_StoneForm">Stoneform</string>
 	<string key="Status_Rune_StoneForm_Desc">Immune to all CC.</string>
 	<string key="Status_Rune_StoneForm_Major_Desc">Your armor is increased by {[0.100000 * 100]}%.</string>
-	<string key="Status_Rune_StoneForm_Survivor_Desc">Immune to all CC and heal for {[0.750000 * 100]}% rune damage per second.</string>
+	<string key="Status_Rune_StoneForm_Survivor_Desc">Immune to all CC and heal for {[0.650000 * 100]}% rune damage per second.</string>
 	<string key="Status_Rune_StoneForm_Greater_Desc">Your armor is increased by {[0.100000 * 100]}%.</string>
 	<string key="Status_Rune_CannonBlast_Major_Desc">Burning for {[-0.100000 * -100]}% rune damage per second.</string>
 	<string key="Status_Rune_Detonate">Detonate</string>
@@ -1976,9 +2000,9 @@
 	<string key="Status_Sandworm_Uninterruptible_Desc" rel_version="Feature_Heartgems_Sandworm">Uninterruptible to staggers and knockdowns while active.</string>
 	<string key="Status_Rune_BeastMode_Greater_Buff_Desc" rel_version="Feature_Heartgems_BeastMode">Uninterruptible to staggers and knockdowns while active.</string>
 	<string key="Status_Rune_BeastMode_Survivor_Buff_Desc" rel_version="Feature_Heartgems_BeastMode">Armor increased by {[0.200000 * 100]}%.</string>
-	<string key="Status_Rune_BeastMode_Survivor_Debuff_Desc" rel_version="Feature_Heartgems_BeastMode">Outgoing damage reduced by {[-0.200000 * -100]}%.</string>
+	<string key="Status_Rune_BeastMode_Survivor_Debuff_Desc" rel_version="Feature_Heartgems_BeastMode">Outgoing damage reduced by {[-0.150000 * -100]}%.</string>
 	<string key="Status_Rune_BeastMode_Dominator_Buff_Desc" rel_version="Feature_Heartgems_BeastMode">Outgoing damage increased by {[0.200000 * 100]}%.</string>
-	<string key="Status_Rune_BeastMode_Dominator_Debuff_Desc" rel_version="Feature_Heartgems_BeastMode">Armor reduced by {[-0.200000 * -100]}%.</string>
+	<string key="Status_Rune_BeastMode_Dominator_Debuff_Desc" rel_version="Feature_Heartgems_BeastMode">Armor reduced by {[-0.150000 * -100]}%.</string>
 	<string key="AI_AnubianGuardian_HorusBoss_InstrumentOfJudgement_Tracking_DisplayName">Judgement of the Gods</string>
 	<string key="AI_AnubianGuardian_HorusBoss_InstrumentOfJudgement_Tracking_Tooltip">The gods of the Ennead are judging your heart.</string>
 	<string key="AI_AnubianGuardian_HorusBoss_InstrumentOfJudgement_Damage_DisplayName">Verdict of the Gods</string>
@@ -2015,12 +2039,20 @@
 	<string key="AI_Medusa_Poison_Tooltip" rel_version="Territory_FirstLight">Damages {[-2.5000000000000001E-2 * -100]}% health.</string>
 	<string key="AI_Medusa_Poison_Pool_DisplayName" rel_version="Territory_FirstLight">Medusa's Poison</string>
 	<string key="AI_Medusa_Poison_Pool_Tooltip" rel_version="Territory_FirstLight">Damages {[-0.03 * -100]}% health.</string>
+	<string key="AI_Ghastly_Sniper_PhantomShot_Fortify_DisplayName" rel_version="AI_Ghastly_Horrors">Steady Foothold</string>
+	<string key="AI_Ghastly_Sniper_PhantomShot_Fortify_Description" rel_version="AI_Ghastly_Horrors">Incoming damage reduced by {[0.300000*100]}% for {[2.000000]} seconds.</string>
+	<string key="AI_Ghastly_Sniper_PhantomShot_Weaken_DisplayName" rel_version="AI_Ghastly_Horrors">Ghastly Enfeeblement</string>
+	<string key="AI_Ghastly_Sniper_PhantomShot_Weaken_Description" rel_version="AI_Ghastly_Horrors">Outgoing damage reduced by {[-0.300000*-100]}% for {[8.000000]} seconds.</string>
 	<string key="PotionBoostIceAbsT3_DisplayName" rel_version="IceAbsorbPot">Ice Absorption I</string>
 	<string key="PotionBoostIceAbsT4_DisplayName" rel_version="IceAbsorbPot">Ice Absorption II</string>
 	<string key="PotionBoostIceAbsT5_DisplayName" rel_version="IceAbsorbPot">Ice Absorption III</string>
 	<string key="PotionBoostIceAbsT3_Tooltip" rel_version="IceAbsorbPot">Increases Ice Absorption by {[0.090000 * 100]}%.</string>
 	<string key="PotionBoostIceAbsT4_Tooltip" rel_version="IceAbsorbPot">Increases Ice Absorption by {[0.120000 * 100]}%.</string>
 	<string key="PotionBoostIceAbsT5_Tooltip" rel_version="IceAbsorbPot">Increases Ice Absorption by {[0.150000 * 100]}%.</string>
+	<string key="AI_MummifiedCorpse_ExhumeLinensRoot_DisplayName" rel_version="AI_Ghastly_Horrors">Entangled</string>
+	<string key="AI_MummifiedCorpse_ExhumeLinensRoot_Description" rel_version="AI_Ghastly_Horrors">Caught in a tangle of linens.</string>
+	<string key="AI_MummifiedCorpse_SharedCremationSelf_DisplayName" rel_version="AI_Ghastly_Horrors">Temp</string>
+	<string key="AI_MummifiedCorpse_SharedCremationSelf_Description" rel_version="AI_Ghastly_Horrors">Change Later.</string>
 	<string key="SporeSickness_Description" rel_version="Territory_FirstLight_Spores">You are Spore Drenched! You feel a strange, tingly effect from inhaling the spores. Maybe there's a potion you should drink for this.</string>
 	<string key="SporeSickness_MasterName" rel_version="Territory_FirstLight_Spores">Spore Drenched</string>
 	<string key="SE_ArtemisBoonPotionD1_T1_Description" rel_version="Territory_FirstLight_Spores">Consumed Potion lasts for {[1200.000000 / 60]} minutes. Upon entering a Spore Cloud and becoming "Spore Drenched," deal 12% more damage and gain increased loot from creatures in the Elysian Wilds for {[45.000000]} seconds.</string>
@@ -2088,6 +2120,12 @@
 	<string key="SE_DemeterBoonSecondaryD5_T5_Description" rel_version="Territory_FirstLight_Spores">You are attuned to the Spores. Take less damage from all sources and receive increased resources from Sporeplants.</string>
 	<string key="SE_DemeterBoonSecondaryD5_T5_MasterName" rel_version="Territory_FirstLight_Spores">Infused Boon of Demeter Effect.</string>
 	<string key="FirstLightLock_DoT_EffectName_For_DeathRecap" rel_version="Territory_FirstLight">Toxic Spores</string>
+	<string key="AI_Cryptkeeper_ReaperEmbrace_DisplayName" rel_version="AI_Ghastly_Horrors">Reaper embrace Effect.</string>
+	<string key="AI_Cryptkeeper_ReaperEmbrace_Description" rel_version="AI_Ghastly_Horrors">Movement speed reduced by {[-0.500000 * -100]}%.</string>
+	<string key="AI_Cryptkeeper_Tombstone_Root_DisplayName" rel_version="AI_Ghastly_Horrors">Undead Territory Effect</string>
+	<string key="AI_Cryptkeeper_Tombstone_Root_Description" rel_version="AI_Ghastly_Horrors">Immobilized for {[1.000000]} second(s).</string>
+	<string key="AI_Cryptkeeper_Tombstone_Fortify_DisplayName" rel_version="AI_Ghastly_Horrors">AI_Cryptkeeper_Tombstone_Fortify_ModifyLater</string>
+	<string key="AI_Cryptkeeper_Tombstone_Fortify_Description" rel_version="AI_Ghastly_Horrors">Temp,Change later.</string>
 	<string key="AI_CorruptedLeviathan_IchorBurn_DisplayName" rel_version="Quest_MSQ2_GreatCleave">Ichor Burn</string>
 	<string key="AI_CorruptedLeviathan_IchorBurn_Tooltip" rel_version="Quest_MSQ2_GreatCleave">Take {[AfflictionCurse=2]} points of corruption every second for {[4.000000]} seconds.</string>
 	<string key="AI_CorruptedLeviathan_IchorCoating_DisplayName" rel_version="Quest_MSQ2_GreatCleave">Ichor Coating</string>
@@ -2101,6 +2139,8 @@
 	<string key="AI_AbominableLiang_Cowering_DisplayName" rel_version="Quest_MSQ3_Ebonscale">Cowering</string>
 	<string key="AI_AbominableLiang_Angered_DisplayName" rel_version="Quest_MSQ3_Ebonscale">Angered</string>
 	<string key="AI_AbominableLiang_Cornered_DisplayName" rel_version="Quest_MSQ3_Ebonscale">Cornered</string>
+	<string key="AI_MutatedNurse_Burn_DisplayName" rel_version="AI_Ghastly_Horrors">Wispfire Burn</string>
+	<string key="AI_MutatedNurse_Burn_Description" rel_version="AI_Ghastly_Horrors">Deals {[-0.05 * -100]}% base Fire damage every {[0.500000]} seconds for {[5.000000]} seconds.</string>
 	<string key="Mammoth_Chain_Lightning_DisplayName" rel_version="Territory_FirstLight">Electrocuted</string>
 	<string key="Mammoth_Chain_Lightning_Tooltip" rel_version="Territory_FirstLight">Shocks 1 ally within range every second for {[10.000000]} seconds.</string>
 	<string key="SE_MeshChange_Adiana_Description" rel_version="Event_Halloween2023_Perm">Visit Treat Baskets while wearing this costume for candy.</string>
@@ -2136,8 +2176,12 @@
 	<string key="AI_Hercyne_Broodmother_MushroomInfection_Active_Tooltip" rel_version="Raid_CutlassKeys_00">Contagious infection. Infection can be cleared with water. Taking a tiny amount of Nature damage every {[0.330000]} seconds.</string>
 	<string key="AI_Hercyne_Broodmother_PlayerEggResistance_DisplayName" rel_version="Raid_CutlassKeys_00">Eggshell Resistance</string>
 	<string key="AI_Hercyne_Broodmother_PlayerEggResistance_Tooltip" rel_version="Raid_CutlassKeys_00">Some of the gunk-resistance from the eggs has wiped off on you. Corrosive Gunk is slowly removed and has a shortened duration.</string>
+	<string key="AI_FeralGhoul_Weaken_Tooltip" rel_version="AI_Ghastly_Horrors">All damage dealt reduced by 10%.</string>
+	<string key="AI_FeralGhoul_Weaken_DisplayName" rel_version="AI_Ghastly_Horrors">Weakened</string>
+	<string key="AI_FeralGhoul_Disease_Tooltip" rel_version="AI_Ghastly_Horrors">Reduces healing taken by {[0.500000 * -100]}%.</string>
 	<string key="Dungeon_CrossWorldPugGroup_DisplayName" rel_version="Feature_PUG_Finder">New Found Friends</string>
 	<string key="Dungeon_CrossWorldPugGroup_Description" rel_version="Feature_PUG_Finder">PvE groups created by Cross World matchmaking gain:\n\n+{[0.000000 *100]}% Health\n+{[0.150000 *100]}% Damage\n+{[ *100]}% Outgoing Healing</string>
+	<string key="AI_FeralGhoul_Disease_DisplayName" rel_version="AI_Ghastly_Horrors">Disease</string>
 	<string key="Mammoth_Boss_IceStorm_Slow_Tooltip" rel_version="Territory_FirstLight">Movement speed reduced by {[-0.050000 * -100]}% per stack.</string>
 	<string key="Mammoth_Boss_IceStorm_Slow_DisplayName" rel_version="Territory_FirstLight">Slowed</string>
 	<string key="Chameleon_Sticky_Slow_6sec_DisplayName" rel_version="Territory_FirstLight">Sticky</string>
@@ -2152,6 +2196,13 @@
 	<string key="Status_Phoenix_Burn_Desc">Phoenix Vegeance will claim your life if you do not get a kill.</string>
 	<string key="IceMagic_Artifact_Freeze_DisplayName">Frostburn</string>
 	<string key="IceMagic_Artifact_Freeze_Description">You are slowed and are taking ice damage over time while this effect is active.</string>
+	<string key="Status_Artifact_Sword_AIDmgRed_DisplayName" rel_version="Feature_Artifacts_S8">Hostile NPC Damage Reduction</string>
+	<string key="Status_Artifact_Sword_AIDmgRed_Description" rel_version="Feature_Artifacts_S8">While this is active, hostile NPC that attack you have their base damage reduced.</string>
+	<string key="Status_Artifact_Shield_TankAura_Name" rel_version="Feature_Artifacts_S8">Tank Aura</string>
+	<string key="Status_Artifact_Shield_TankAura_Desc" rel_version="Feature_Artifacts_S8">All allies around you gain damage absorption and you gain increased incoming healing. However, you also take increased damage.</string>
+	<string key="Status_DoT_Corrosion" rel_version="Feature_Artifacts_S8">Corrosion</string>
+	<string key="Status_DoT_Corrosion_Description" rel_version="Feature_Artifacts_S8">Deals Void damage every second while active.</string>
+	<string key="Status_Perk_Artifact_Set2_LightHands_Cooldown_Description" rel_version="Feature_Artifacts_S8">When this expires the Curse perk on the Lich Gloves Artifact can trigger again.</string>
 	<string key="Raid_CutlassKeys00_MushroomInfection_Dormant_Name" rel_version="Raid_CutlassKeys_00">Dormant Fungal Infection</string>
 	<string key="Raid_CutlassKeys00_MushroomInfection_Dormant_Desc" rel_version="Raid_CutlassKeys_00">Infested with spores. Infection will turn active at {[20.000000]} stacks unless cleared with water. Taking {[-0.005000 * -100]}% health every {[3.000000]} seconds.</string>
 	<string key="Raid_CutlassKeys00_MushroomInfection_Active_Name" rel_version="Raid_CutlassKeys_00">Active Fungal Infection</string>
@@ -2177,7 +2228,7 @@
 	<string key="AI_EchidnaRend_20s_DisplayName" rel_version="Raid_CutlassKeys_00">Rend</string>
 	<string key="AI_EchidnaRend_20s_Tooltip" rel_version="Raid_CutlassKeys_00">You suffer {[-0.100000 * -100]}% increased damage from all sources for {[20.000000]} seconds</string>
 	<string key="Status_PotionRecharge_Name">Potion Surge</string>
-	<string key="Status_PotionRecharge_Desc">Your next healing potion recharges instantly</string>
+	<string key="Status_PotionRecharge_Desc">Your next survival potion recharges instantly</string>
 	<string key="Dungeon_Medusa_Statue_Gaze_Root_DisplayName" rel_version="Raid_CutlassKeys_00">Petrified</string>
 	<string key="Dungeon_Medusa_Statue_Gaze_Root_Description" rel_version="Raid_CutlassKeys_00">Damages {[-0.200000 * -100]}% health and slows {[-1.000000 * -100]}% move speed for {[8.000000]} seconds.</string>
 	<string key="AI_Corrupted_FirstMate_AnchorSlam_AOE_Enemy_DisplayName" rel_version="ConsoleLaunch">Swell of Corruption</string>
@@ -2196,11 +2247,11 @@
 	<string key="AI_Torso_Boss_Attack_Rend_Tooltip" rel_version="ConsoleLaunch">You suffer {[-0.100000 * -100]}% increased damage from all sources per stack for {[20.000000]} seconds.</string>
 	<string key="AI_Torso_Boss_Laser_Rend_DisplayName" rel_version="ConsoleLaunch">Eye of the Ancients</string>
 	<string key="AI_Torso_Boss_Laser_Rend_Tooltip" rel_version="ConsoleLaunch">You suffer {[-0.200000 * -100]}% increased Arcane damage per stack for {[15.000000]} seconds.</string>
-	<string key="CommonBlank"/>
-	<string key="Status_Flail_Slam_Lifesteal_Tracker_Description"/>
-	<string key="Status_Flail_Slam_Lifesteal_Tracker_Displayname">Timer </string>
-	<string key="Status_Flail_BlockingHit_DurStack_Description"/>
-	<string key="Status_Flail_BlockingHit_DurStack_DisplayName">Timer </string>
+	<string key="CommonBlank" xsi:nil="true"/>
+	<string key="Status_Flail_Slam_Lifesteal_Tracker_Description" xsi:nil="true"/>
+	<string key="Status_Flail_Slam_Lifesteal_Tracker_Displayname">Timer</string>
+	<string key="Status_Flail_BlockingHit_DurStack_Description" xsi:nil="true"/>
+	<string key="Status_Flail_BlockingHit_DurStack_DisplayName">Timer</string>
 	<string key="AI_Silence_6sec_DisplayName" rel_version="ConsoleLaunch">Silence</string>
 	<string key="AI_Silence_6sec_Tooltip" rel_version="ConsoleLaunch">You are unable to use abilities for {[6.000000]} seconds.</string>
 	<string key="Root_Forever_DisplayName" rel_version="ConsoleLaunch">Rooted</string>
@@ -2240,5 +2291,34 @@
 	<string key="FoodMacOMal_Effect_Name" rel_version="Season_7_Perm">You're It!</string>
 	<string key="FoodMacOMal_Effect_Desc" rel_version="Season_7_Perm">Tag, you're it! Tag someone else and then they'll be It. Only effective while flagged for PvP.\n\nNo other effects.</string>
 	<string key="FoodMacOMal_EXP_Desc" rel_version="Season_7_Perm">Increase earned Territory and Faction Reputation by 15%.</string>
+	<string key="Status_SeasonalServer_DeathCount_1_DisplayName" rel_version="Season_8_Perm">1 Death Accrued</string>
+	<string key="Status_SeasonalServer_DeathCount_1_Description" rel_version="Season_8_Perm">1 Death Accrued</string>
+	<string key="Status_SeasonalServer_DeathCount_2_DisplayName" rel_version="Season_8_Perm">2 Death Accrued</string>
+	<string key="Status_SeasonalServer_DeathCount_2_Description" rel_version="Season_8_Perm">2 Death Accrued</string>
+	<string key="Status_SeasonalServer_DeathCount_3_DisplayName" rel_version="Season_8_Perm">3 Death Accrued</string>
+	<string key="Status_SeasonalServer_DeathCount_3_Description" rel_version="Season_8_Perm">3 Death Accrued</string>
+	<string key="Status_SeasonalServer_DeathCount_4_DisplayName" rel_version="Season_8_Perm">4 Death Accrued</string>
+	<string key="Status_SeasonalServer_DeathCount_4_Description" rel_version="Season_8_Perm">4 Death Accrued</string>
+	<string key="Status_SeasonalServer_DeathCount_5_DisplayName" rel_version="Season_8_Perm">5 Death Accrued</string>
+	<string key="Status_SeasonalServer_DeathCount_5_Description" rel_version="Season_8_Perm">5 Death Accrued</string>
+	<string key="Status_SeasonalServer_DeathCount_6_DisplayName" rel_version="Season_8_Perm">6 Death Accrued</string>
+	<string key="Status_SeasonalServer_DeathCount_6_Description" rel_version="Season_8_Perm">6 Death Accrued</string>
+	<string key="Status_SeasonalServer_DeathCount_DisplayName" rel_version="Season_8_Perm">Accrued Deaths</string>
+	<string key="Status_SeasonalServer_DeathCount_Description" rel_version="Season_8_Perm">Number of times this character has died.</string>
+	<string key="FFA_PvP_Curse_DisplayName" rel_version="Feature_FFA_PVP_Curse">Scallywag's Curse</string>
+	<string key="FFA_PvP_Curse_Tooltip" rel_version="Feature_FFA_PVP_Curse">For each stack of this curse the damage you take from other players is &lt;font face="lyshineui/fonts/Nimbus_SemiBold.font" color="#edc63e"&gt;{[Player=-0.3 * -100]}%&lt;/font&gt; more and the damage you deal to other players is &lt;font face="lyshineui/fonts/Nimbus_SemiBold.font" color="#edc63e"&gt;{[Player=-0.06 * -100]}%&lt;/font&gt; less.\n\nTo remove the curse quickly, kill other players in the free for all PvP zone. Staying away from other players in the zone, or being outside of the zone will cause it to slowly go away.</string>
+	<string key="AI_SirenQueen_Sleepy_DisplayName" rel_version="Season_8_Perm">Song of Siren</string>
+	<string key="AI_SirenQueen_Sleepy_Tooltip" rel_version="Season_8_Perm">Asleep for 5 seconds unless you get hit by something.</string>
+	<string key="AI_SirenQueen_Asleep_DisplayName" rel_version="Season_8_Perm">Asleep</string>
+	<string key="AI_SirenQueen_Asleep_Tooltip" rel_version="Season_8_Perm">ZZZZZZZ</string>
+	<string key="AI_WorldBoss_Anubian_Lotus_Scarab_Title_DisplayName" rel_version="Season_8_Perm">The Light Reborn</string>
+	<string key="AI_WorldBoss_Mammoth_FL_Mahantaram_Title_DisplayName" rel_version="Season_8_Perm">Beast Lord Aeternal</string>
+	<string key="AI_WorldBoss_Empress_Title_DisplayName" rel_version="Season_8_Perm">Empress of the World</string>
+	<string key="AI_WorldBoss_FireNaga_Title_DisplayName" rel_version="Season_8_Perm">Heart of the Forge</string>
+	<string key="AI_WorldBoss_AdmiralBrute_Title_DisplayName" rel_version="Season_8_Perm">Lethal Landfall</string>
+	<string key="Mammoth_FL_Mahantaram_MagmaBurn_DisplayName" rel_version="Season_8_Perm">Scorched Earth</string>
+	<string key="Mammoth_FL_Mahantaram_MagmaBurn_Tooltip" rel_version="Season_8_Perm">Burning for {[-0.05 * -100]}% base Fire damage per stack every {[2.000000]} seconds for {[10.000000]} seconds.</string>
+	<string key="AI_RW_Siege_Pool_Thornslashing_DisplayName" rel_version="Season_8_Perm">Wallbreaking</string>
+	<string key="AI_RW_Siege_Pool_Invulnerability_DisplayName" rel_version="Season_8_Perm">Invulnerable</string>
 </resources>
 

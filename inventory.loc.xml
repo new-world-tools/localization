@@ -101,10 +101,11 @@
 	<string key="inv_equipLoadNormalNotification">Equip Load is now Medium</string>
 	<string key="inv_equipLoadSlowNotification">Equip Load is now Heavy</string>
 	<string key="inv_equipLoadOverburdenedNotification">Over-Equipped - Cannot dodge or run</string>
-	<string key="inv_equipLoadEncumberedNotification">Encumbered - Cannot dodge, jump, or run</string>
+	<string key="inv_equipLoadEncumberedNotification">Encumbered - Cannot run, dodge, or jump</string>
+	<string key="inv_equipLoadOverEncumberedNotification">Overencumbered - Cannot attack, run, dodge, or jump</string>
 	<string key="inv_encumbranceTooltip">Inventory weight impacts your movement and actions. Upgrade bags to increase its weight limit. If the limit is exceeded, you are encumbered. If it is greatly exceeded, you are overencumbered.</string>
 	<string key="inv_encumbranceUnencumberedTooltip">You can freely perform all actions since you are under the inventory weight limit.</string>
-	<string key="inv_encumbranceEncumberedTooltip">• Encumbered: Cannot run, dodge, or jump.\n• Overencumbered: Cannot move, dodge, jump, or attack.</string>
+	<string key="inv_encumbranceEncumberedTooltip">• Encumbered: Cannot run, dodge, or jump.\n• Overencumbered: Cannot attack, run, dodge, or jump.</string>
 	<string key="inv_does_not_meet_weapon_requirements">Insufficient attributes</string>
 	<string key="inv_encumbranceAttackNotification">Overencumbered - Cannot attack</string>
 	<string key="inv_insufficientManaNotification">Insufficient Mana</string>
@@ -180,7 +181,7 @@
 	<string key="ui_dropall_in_trade">Can't drop items while trading.</string>
 	<string key="ui_transfer_all_filtered">Cannot move all items in this section while items are filtered.</string>
 	<string key="ui_storeall">Move all to storage shed.</string>
-	<string key="ui_filterDescription">&lt;font color={subheaderColor} face="lyshineui/fonts/Nimbus_Bold.font"&gt;HOW TO SEARCH&lt;/font&gt;\n\n&lt;font color={subheaderColor} face="lyshineui/fonts/Nimbus_semibold.font"&gt;Refine&lt;/font&gt;\n• Include: Sword\n• Exclude: -Axe\n• Perks/Gems: [Ward]\n• Minimum Gear Score: 100\n• Minimum Tier: T1\n\n&lt;font color={subheaderColor} face="lyshineui/fonts/Nimbus_semibold.font"&gt;Advanced&lt;/font&gt;\n• Sword -200\n• -Axe -T1\n• Pick -iron\n• Musket [Electrified]</string>
+	<string key="ui_filterDescription">&lt;font color={subHeaderColor} face="lyshineui/fonts/Nimbus_Bold.font"&gt;HOW TO SEARCH&lt;/font&gt;\n\n&lt;font color={subHeaderColor} face="lyshineui/fonts/Nimbus_semibold.font"&gt;Refine&lt;/font&gt;\n• Include: Sword\n• Exclude: -Axe\n• Perks/Gems: [Ward]\n• Minimum Gear Score: 100\n• Minimum Tier: T1\n\n&lt;font color={subHeaderColor} face="lyshineui/fonts/Nimbus_semibold.font"&gt;Advanced&lt;/font&gt;\n• Sword -200\n• -Axe -T1\n• Pick -iron\n• Musket [Electrified]</string>
 	<string key="ui_filterText">Search</string>
 	<string key="ui_filterHeader">Filter item</string>
 	<string key="ui_sort">Sort</string>

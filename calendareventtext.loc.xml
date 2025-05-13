@@ -1,7 +1,6 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<string key="ui_news_button">News and Events</string>
 	<string key="ui_news_button_no_news">No news stories available.</string>
-	<string key="ui_news_about">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About The News</string>
 	<string key="ui_news_modal_display_start_date">Starts on {startDate}</string>
 	<string key="ui_news_modal_display_end_date">Ends on {endDate}</string>
 	<string key="ui_news_modal_display_start_datetime">Starts at {startTime} on {startDate}</string>
@@ -13,6 +12,10 @@
 	<string key="ui_event_summer_progress_name" rel_version="Event_Summer_Perm">Event Reputation</string>
 	<string key="ui_event_halloween_progress_name" rel_version="Event_Halloween_Perm">Event Reputation</string>
 	<string key="ui_event_spring_progress_name" rel_version="Event_SpringtideBloom_Perm">Event Reputation</string>
+	<string key="ui_event_spring_rank_0" rel_version="Event_SpringtideBloom_Temp">Blossom</string>
+	<string key="ui_event_spring_rank_1" rel_version="Event_SpringtideBloom_Temp">Shepard</string>
+	<string key="ui_event_spring_rank_2" rel_version="Event_SpringtideBloom_Temp">Herald</string>
+	<string key="ui_event_spring_shop_header" rel_version="Event_SpringtideBloom_Temp">Springtide Bloom</string>
 	<string key="ui_news_store_tabname">Store</string>
 	<string key="ui_news_expedition_tabname">Expedition</string>
 	<string key="ui_news_expeditions_tabname">Expeditions</string>
@@ -59,21 +62,13 @@
 	<string key="ui_news_bullet_housing_trophy">Housing Trophy</string>
 	<string key="ui_news_bullet_apparel_skin">Apparel Skin</string>
 	<string key="ui_news_bullet_apparel_skins">Apparel Skins</string>
-	<string key="ui_event_weapon_xp_tabname">XP Event</string>
+	<string key="ui_event_xp_tabname">XP Event</string>
 	<string key="ui_event_weapon_xp_title">WEAPON XP BONUS EVENT</string>
-	<string key="ui_event_weapon_xp_desc">Active bonuses:</string>
-	<string key="ui_event_gathering_xp_tabname">XP Event</string>
 	<string key="ui_event_gathering_xp_title">GATHERING XP BONUS EVENT</string>
-	<string key="ui_event_gathering_xp_desc">Active bonuses:</string>
-	<string key="ui_event_character_xp_tabname">XP Event</string>
 	<string key="ui_event_character_xp_title">LEVEL XP BONUS EVENT</string>
-	<string key="ui_event_character_xp_desc">Active bonuses:</string>
-	<string key="ui_event_refining_xp_tabname">XP Event</string>
 	<string key="ui_event_refining_xp_title">REFINING XP BONUS EVENT</string>
-	<string key="ui_event_refining_xp_desc">Active bonuses:</string>
-	<string key="ui_event_extravaganza_tabname">XP Event</string>
 	<string key="ui_event_extravaganza_title">XP EXTRAVAGANZA</string>
-	<string key="ui_event_extravaganza_desc">Active bonuses:</string>
+	<string key="ui_event_xp_description">Active bonuses:</string>
 	<string key="ui_news_end_game_tabname">Endgame</string>
 	<string key="ui_news_end_game_description">At level 60, you're now able to&lt;font color="#edc63e"&gt; upgrade your equipment &lt;/font&gt;to higher gear scores. To do this, you'll need to harvest Gypsum from various Level 60 activities and locations. Visit a&lt;font color="#edc63e"&gt; Gypsum Kiln &lt;/font&gt;to learn more.</string>
 	<string key="ui_end_game_panel1_title">ENDGAME ACTIVITIES</string>
@@ -125,6 +120,9 @@
 	<string key="ui_event_legacy_of_crassus_bullet2">Decimus Statue</string>
 	<string key="ui_event_legacy_of_crassus_bullet3">Lucanus Statue</string>
 	<string key="ui_event_legacy_of_crassus_about">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Legacy of Crassus</string>
+	<string key="ui_event_springtide_bloom_title" rel_version="Event_SpringtideBloom_Temp">Spring has Sprung!</string>
+	<string key="ui_event_springtide_bloom_description" rel_version="Event_SpringtideBloom_Temp">The annual flowering of the Wispyblooms is here! Celebrate this magical time by harvesting their petals, then visit the Springtide Village to collect unique and powerful rewards. Make sure to bring some repellent for those pesky Wispy Wasps!</string>
+	<string key="ui_event_springtide_bloom_about" rel_version="Event_SpringtideBloom_Temp">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Springtide Bloom</string>
 	<string key="ui_event_rabbits_revenge_title">Rabbit's Revenge!</string>
 	<string key="ui_event_rabbits_revenge_description">Corrupted Rabbits have taken over Aeternum! Cull the corruption and earn ferocious rewards.</string>
 	<string key="ui_event_rabbits_revenge_about">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Rabbit's Revenge</string>

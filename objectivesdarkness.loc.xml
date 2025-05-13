@@ -239,6 +239,8 @@
 	<string key="ui_fl_worldboss_beast_05_Obj_Enc_Title_description" rel_version="Territory_FirstLight">A legendary creature was spotted here.</string>
 	<string key="ui_fl_worldboss_beast_06_Obj_Enc_Title_description" rel_version="Territory_FirstLight">A legendary creature was spotted here.</string>
 	<string key="ui_fl_worldboss_beast_07_Obj_Enc_Title_description" rel_version="Territory_FirstLight">A legendary creature was spotted here.</string>
+	<string key="ui_rw_siren_siege_Obj_Enc_Title" rel_version="Territory_FirstLight">Bomb Barrels</string>
+	<string key="ui_rw_siren_siege_Obj_Enc_Title_description" rel_version="Territory_FirstLight">Surely I can use these barrels for something.</string>
 	<string key="objective_enc_darkness_Hunt_armored_dragon_wave_01_title" rel_version="Territory_FirstLight">Defeat Kol Ciron</string>
 	<string key="objective_enc_darkness_Hunt_Fire_Gorilla_wave_01_title" rel_version="Territory_FirstLight">Defeat Bulrok, The Burning</string>
 	<string key="objective_enc_darkness_Hunt_Ice_Gorilla_wave_01_title" rel_version="Territory_FirstLight">Defeat Kondak, The Frigid</string>
@@ -276,5 +278,99 @@
 	<string key="04A_Side02_02_Encounter_01_description" rel_version="Quest_MSQ2_Revamp">Investigate the Ancient sphere at Perseus.</string>
 	<string key="04A_Side02_02_Encounter_02" rel_version="Quest_MSQ2_Revamp">Lupus Stellar Research</string>
 	<string key="04A_Side02_02_Encounter_02_description" rel_version="Quest_MSQ2_Revamp">Investigate the Ancient sphere at Lupus.</string>
+	<string key="ui_worldboss_admiral" rel_version="Season_8_Perm">Admiral Blackpowder</string>
+	<string key="ui_worldboss_admiral_description" rel_version="Season_8_Perm">The infamous Admiral Blackpowder has set his sights on the open coast, seeking to reclaim lost treasures and expand his dominion. With his crew at his side, he dares any who oppose him to face his wrath on the sands.\n\nContains &lt;font color="#edc63e"&gt;3&lt;/font&gt; Daily Rewards.</string>
+	<string key="objective_admiral_wave_01_title" rel_version="Season_8_Perm">The Admiral's crew loiters in the area. Gather allies and repel their attack!</string>
+	<string key="objective_admiral_wave_01_desc" rel_version="Season_8_Perm">{remainingCount} crew remaining</string>
+	<string key="objective_admiral_wave_02_title" rel_version="Season_8_Perm">Face Admiral Blackpowder and end his Assault!</string>
+	<string key="objective_admiral_wave_02_desc" rel_version="Season_8_Perm">Defeat the Admiral</string>
+	<string key="ui_worldboss_empress" rel_version="Season_8_Perm">Zhou Taiying</string>
+	<string key="ui_worldboss_empress_description" rel_version="Season_8_Perm">Empress Zhou channels her corrupted power to wreak havoc on the land. Confront her loyal warriors and face Zhou's might before she consumes all.\n\nContains &lt;font color="#edc63e"&gt;3&lt;/font&gt; Daily Rewards.</string>
+	<string key="objective_empress_wave_00_title" rel_version="Season_8_Perm">Empress Zhou's forces are gathering nearby. Prepare for battle!</string>
+	<string key="objective_empress_wave_00_desc" rel_version="Season_8_Perm">{remainingCount} remaining</string>
+	<string key="objective_empress_wave_01_title" rel_version="Season_8_Perm">Empress Zhou's forces are gathering nearby. Prepare for battle!</string>
+	<string key="objective_empress_wave_01_desc" rel_version="Season_8_Perm">{remainingCount} remaining</string>
+	<string key="objective_empress_wave_02_title" rel_version="Season_8_Perm">The Empress has arrived! Defeat her to end her reign of corruption!</string>
+	<string key="objective_empress_wave_02_desc" rel_version="Season_8_Perm">Defeat Empress Zhou</string>
+	<string key="ui_worldboss_lotusscarab" rel_version="Season_8_Perm">Godling Khepri Supernal</string>
+	<string key="ui_worldboss_lotusscarab_description" rel_version="Season_8_Perm">Godling Khepri Supernal, has abandoned the seat of the adjudicator to spread its influence far and wide. Fight through its defenses to reclaim the land from this ancient threat.\n\nContains &lt;font color="#edc63e"&gt;3&lt;/font&gt; Daily Rewards.</string>
+	<string key="objective_lotusscarab_wave_01_title" rel_version="Season_8_Perm">Godling Khepri Supernal has claimed this land. Gather more allies!</string>
+	<string key="objective_lotusscarab_wave_01_desc" rel_version="Season_8_Perm">{remainingCount} remaining</string>
+	<string key="objective_lotusscarab_wave_02_title" rel_version="Season_8_Perm">Godling Khepri Supernal has risen Prepare for the final battle!</string>
+	<string key="objective_lotusscarab_wave_02_desc" rel_version="Season_8_Perm">Defeat Khepri</string>
+	<string key="ui_worldboss_firenaga" rel_version="Season_8_Perm">Ifrit the Infernal</string>
+	<string key="ui_worldboss_firenaga_description" rel_version="Season_8_Perm">Ifrit has risen from the forge to unleash a tide of fire and destruction. Survive his relentless flames to extinguish his infernal wrath once and for all.\n\nContains &lt;font color="#edc63e"&gt;3&lt;/font&gt; Daily Rewards.</string>
+	<string key="objective_firenaga_wave_01_title" rel_version="Season_8_Perm">Ifrit's legion is gathering. Gather allies and prepare to face the Infernal Warden!</string>
+	<string key="objective_firenaga_wave_01_desc" rel_version="Season_8_Perm">{remainingCount} remaining</string>
+	<string key="objective_firenaga_wave_02_title" rel_version="Season_8_Perm">The Infernal Warden rises from the forge!</string>
+	<string key="objective_firenaga_wave_02_desc" rel_version="Season_8_Perm">Defeat Ifrit</string>
+	<string key="ui_worldboss_mammoth" rel_version="Season_8_Perm">Mahantaram</string>
+	<string key="ui_worldboss_mammoth_description" rel_version="Season_8_Perm">The colossal Mahantaram thunders over the lands, shattering the earth with every step. Protect the land from his rampage and confront the titan before his fury leaves the lands in ruin.\n\nContains &lt;font color="#edc63e"&gt;3&lt;/font&gt; Daily Rewards.</string>
+	<string key="objective_mammoth_wave_00_title" rel_version="Season_8_Perm">Mahantaram's herd is preparing for his return. Gather more allies!</string>
+	<string key="objective_mammoth_wave_00_desc" rel_version="Season_8_Perm">{remainingCount} remaining</string>
+	<string key="objective_mammoth_wave_01_title" rel_version="Season_8_Perm">The herd is enraged! Gather more allies and prepare to face Mahantaram!</string>
+	<string key="objective_mammoth_wave_01_desc" rel_version="Season_8_Perm">{remainingCount} remaining</string>
+	<string key="objective_mammoth_wave_02_title" rel_version="Season_8_Perm">The colossal Mahantaram thunders over the lands!</string>
+	<string key="objective_mammoth_wave_02_desc" rel_version="Season_8_Perm">Defeat Mahantaram</string>
+	<string key="@Enc_RW_Siege_Pool_Wave00_Title" rel_version="Season_8_Perm">Setup</string>
+	<string key="@Enc_RW_Siege_Pool_Wave00_Desc" rel_version="Season_8_Perm">Setup</string>
+	<string key="@Enc_RW_Siege_Pool_Wave01_Title" rel_version="Season_8_Perm">Blighted garden</string>
+	<string key="@Enc_RW_Siege_Pool_Wave01_Desc" rel_version="Season_8_Perm">Cleanse the blighted soil in the lower garden</string>
+	<string key="@Enc_RW_Siege_Pool_Wave02_Title" rel_version="Season_8_Perm">Lower temple</string>
+	<string key="@Enc_RW_Siege_Pool_Wave02_Desc" rel_version="Season_8_Perm">Cleanse the blight in the lower temple</string>
+	<string key="@Enc_RW_Siege_Pool_Wave03_Title" rel_version="Season_8_Perm">Lower temple</string>
+	<string key="@Enc_RW_Siege_Pool_Wave03_Desc" rel_version="Season_8_Perm">Twin portals activating...</string>
+	<string key="@Enc_RW_Siege_Pool_Wave03A_Title" rel_version="Season_8_Perm">Lower temple</string>
+	<string key="@Enc_RW_Siege_Pool_Wave03A_Desc" rel_version="Season_8_Perm">Defeat enemies inbound</string>
+	<string key="@Enc_RW_Siege_Pool_Wave03B_Title" rel_version="Season_8_Perm">Lower temple</string>
+	<string key="@Enc_RW_Siege_Pool_Wave03B_Desc" rel_version="Season_8_Perm">Defeat enemies inbound</string>
+	<string key="@Enc_RW_Siege_Pool_Wave03C_Title" rel_version="Season_8_Perm">Lower temple</string>
+	<string key="@Enc_RW_Siege_Pool_Wave03C_Desc" rel_version="Season_8_Perm">Defeat enemies inbound</string>
+	<string key="@Enc_RW_Siege_Pool_Wave03D_Title" rel_version="Season_8_Perm">Lower temple</string>
+	<string key="@Enc_RW_Siege_Pool_Wave03D_Desc" rel_version="Season_8_Perm">Defeat the Druid</string>
+	<string key="@Enc_RW_Siege_Pool_Wave04_Title" rel_version="Season_8_Perm">Lower temple</string>
+	<string key="@Enc_RW_Siege_Pool_Wave04_Desc" rel_version="Season_8_Perm">Progress upwards and cleanse the blight above the temple</string>
+	<string key="@Enc_RW_Siege_Pool_Wave05_Title" rel_version="Season_8_Perm">Lower temple</string>
+	<string key="@Enc_RW_Siege_Pool_Wave05_Desc" rel_version="Season_8_Perm">Twin portals activating...</string>
+	<string key="@Enc_RW_Siege_Pool_Wave05A_Title" rel_version="Season_8_Perm">Lower temple</string>
+	<string key="@Enc_RW_Siege_Pool_Wave05A_Desc" rel_version="Season_8_Perm">Defeat enemies inbound</string>
+	<string key="@Enc_RW_Siege_Pool_Wave05B_Title" rel_version="Season_8_Perm">Lower temple</string>
+	<string key="@Enc_RW_Siege_Pool_Wave05B_Desc" rel_version="Season_8_Perm">Defeat enemies inbound</string>
+	<string key="@Enc_RW_Siege_Pool_Wave05C_Title" rel_version="Season_8_Perm">Lower temple</string>
+	<string key="@Enc_RW_Siege_Pool_Wave05C_Desc" rel_version="Season_8_Perm">Defeat enemies inbound</string>
+	<string key="@Enc_RW_Siege_Pool_Wave05D_Title" rel_version="Season_8_Perm">Lower temple</string>
+	<string key="@Enc_RW_Siege_Pool_Wave05D_Desc" rel_version="Season_8_Perm">An undefeatable force approaches...</string>
+	<string key="@Enc_RW_Siege_Pool_Wave06_Title" rel_version="Season_8_Perm">Thornslasher, the invulnerable beast</string>
+	<string key="@Enc_RW_Siege_Pool_Wave06_Desc" rel_version="Season_8_Perm">Survive Thornslasher. Use its paws to break the blighted wall.</string>
+	<string key="@Enc_RW_Siege_Pool_Wave07_Title" rel_version="Season_8_Perm">Thornslasher, the invulnerable beast</string>
+	<string key="@Enc_RW_Siege_Pool_Wave07_Desc" rel_version="Season_8_Perm">Break into the upper temple with thornslasher's paws</string>
+	<string key="@Enc_RW_Siege_Pool_Wave08_Title" rel_version="Season_8_Perm">Placeholder</string>
+	<string key="@Enc_RW_Siege_Pool_Wave08_Desc" rel_version="Season_8_Perm">Placeholder</string>
+	<string key="@Enc_RW_Siege_Pool_Wave09_Title" rel_version="Season_8_Perm">Upper temple</string>
+	<string key="@Enc_RW_Siege_Pool_Wave09_Desc" rel_version="Season_8_Perm">Cleanse the blight in the upper temple</string>
+	<string key="@Enc_RW_Siege_Pool_Wave10_Title" rel_version="Season_8_Perm">Upper temple</string>
+	<string key="@Enc_RW_Siege_Pool_Wave10_Desc" rel_version="Season_8_Perm">Twin portals activating...</string>
+	<string key="@Enc_RW_Siege_Pool_Wave10A_Title" rel_version="Season_8_Perm">Upper temple</string>
+	<string key="@Enc_RW_Siege_Pool_Wave10A_Desc" rel_version="Season_8_Perm">Defeat enemies inbound</string>
+	<string key="@Enc_RW_Siege_Pool_Wave10B_Title" rel_version="Season_8_Perm">Upper temple</string>
+	<string key="@Enc_RW_Siege_Pool_Wave10B_Desc" rel_version="Season_8_Perm">Defeat enemies inbound</string>
+	<string key="@Enc_RW_Siege_Pool_Wave10C_Title" rel_version="Season_8_Perm">Upper temple</string>
+	<string key="@Enc_RW_Siege_Pool_Wave10C_Desc" rel_version="Season_8_Perm">Defeat enemies inbound</string>
+	<string key="@Enc_RW_Siege_Pool_Wave10D_Title" rel_version="Season_8_Perm">Upper temple</string>
+	<string key="@Enc_RW_Siege_Pool_Wave10D_Desc" rel_version="Season_8_Perm">Defeat enemies inbound</string>
+	<string key="@Enc_RW_Siege_Pool_Wave11_Title" rel_version="Season_8_Perm">Upper temple</string>
+	<string key="@Enc_RW_Siege_Pool_Wave11_Desc" rel_version="Season_8_Perm">Break free from the upper temple with Thornslasher's paws</string>
+	<string key="@Enc_RW_Siege_Pool_Wave12_Title" rel_version="Season_8_Perm">Avarice's altar</string>
+	<string key="@Enc_RW_Siege_Pool_Wave12_Desc" rel_version="Season_8_Perm">Break into the altar with Thornslasher's paws</string>
+	<string key="@Enc_RW_Siege_Pool_Wave13_Title" rel_version="Season_8_Perm">Avarice's altar</string>
+	<string key="@Enc_RW_Siege_Pool_Wave13_Desc" rel_version="Season_8_Perm">Defeat the spriggan while surviving the blight</string>
+	<string key="@Enc_RW_Siege_Pool_Wave14_Title" rel_version="Season_8_Perm">Blighted guardian of life and death</string>
+	<string key="@Enc_RW_Siege_Pool_Wave14_Desc" rel_version="Season_8_Perm">Avarice is awakening...</string>
+	<string key="@Enc_RW_Siege_Pool_Wave15_Title" rel_version="Season_8_Perm">Blighted guardian of life and death</string>
+	<string key="@Enc_RW_Siege_Pool_Wave15_Desc" rel_version="Season_8_Perm">Defeat Avarice</string>
+	<string key="@Enc_RW_Siege_Pool_Wave16_Title" rel_version="Season_8_Perm">Blighted guardian of life and death</string>
+	<string key="@Enc_RW_Siege_Pool_Wave16_Desc" rel_version="Season_8_Perm">Exit towards Lazarus Shrine</string>
+	<string key="@Enc_RW_Siege_Pool_Wave17_Title" rel_version="Season_8_Perm">Placeholder</string>
+	<string key="@Enc_RW_Siege_Pool_Wave17_Desc" rel_version="Season_8_Perm">Placeholder</string>
 </resources>
 

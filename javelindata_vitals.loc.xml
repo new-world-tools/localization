@@ -259,7 +259,7 @@
 	<string key="AncientGuardian_Mage_Named_16BS11_VitalsName" comment="Named Variant" speaker="Vitals Sheet">High Priest of the Twin Doors</string>
 	<string key="AncientGuardian_Mage_Named_S4_VitalsName" comment="Named Variant" speaker="Vitals Sheet" rel_version="Season_4_Perm">Jehan</string>
 	<string key="AncientGuardian_Mage_Named_DG_Everfall_00_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Alectos the Relentless</string>
-	<string key="AncientGuardian_Mage_Named_DG_Everfall_01_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Erebas</string>
+	<string key="AncientGuardian_Mage_Named_DG_Everfall_01_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Tisiphonos</string>
 	<string key="AncientGuardian_Mage_Named_DG_Reekwater_00_01_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Alcyon</string>
 	<string key="AncientGuardian_Mage_Named_DG_Reekwater_00_02_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Khamruset Arcanist</string>
 	<string key="AncientGuardian_Mage_Named_DG_GreatCleave_00_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Ancient Sanctifier</string>
@@ -6471,7 +6471,7 @@
 	<string key="VC_AncientGuardian_Mage_Named_10WS02" comment="Named Variant" speaker="VitalsCategory Sheet">Atreus The Farsight</string>
 	<string key="VC_AncientGuardian_Mage_Named_10WS04" comment="Named Variant" speaker="VitalsCategory Sheet">Zattu</string>
 	<string key="VC_AncientGuardian_Mage_Named_16BS11" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="Territory_Brimstone_Sands">High Priest of the Twin Doors</string>
-	<string key="VC_AncientGuardian_Mage_Named_DG_Everfall_01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Alectos the Relentless</string>
+	<string key="VC_AncientGuardian_Mage_Named_DG_Everfall_01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Tisiphonos</string>
 	<string key="VC_AncientGuardian_Mage_Named_DG_Everfall_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Alectos the Relentless</string>
 	<string key="VC_AncientGuardian_Mage_Named_DG_GreatCleave_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Gelus</string>
 	<string key="VC_AncientGuardian_Mage_Named_DG_Reekwater_00_01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Alcyon</string>
@@ -13502,6 +13502,7 @@
 	<string key="Waterfowl_60_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Waterfowl</string>
 	<string key="Waterfowl_61_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Waterfowl</string>
 	<string key="Waterfowl_62_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Waterfowl</string>
+	<string key="Wispy_Wasp_Swarm_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Event_SpringtideBloom_Temp">Wispy Wasp</string>
 	<string key="Withered_Beetle_ELITE_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="AI_Variation_Sub_L20">Withered Beetle</string>
 	<string key="Withered_Beetle_Minion_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="AI_Variation_Sub_L20">Minion Beetle</string>
 	<string key="Withered_Beetle_Named_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="AI_Variation_Sub_L20">Withered Beetle</string>
@@ -14151,6 +14152,7 @@
 	<string key="MegaFlora_RazorLotus_Leaves_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_FirstLight">Razor Lotus Leaves</string>
 	<string key="VC_FL_MegaFlora_RazorLotus_Leaves" comment="BASE" speaker="Vitals Category" rel_version="Territory_FirstLight">Razor Lotus Leaves</string>
 	<string key="VC_MegaFlora_RazorLotus_Leaves" comment="BASE" speaker="Vitals Category" rel_version="Territory_FirstLight">Razor Lotus Leaves</string>
+	<string key="Ghastly_Villager_Shovel_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="AI_Ghastly_Horrors">Cursed Tomb Raider</string>
 	<string key="FL_Mammoth_Boss_DG_FirstLight_01_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_FirstLight">Mahantaram</string>
 	<string key="VC_FL_Mammoth_Boss_DG_FirstLight_01" comment="BASE" speaker="VitalsCategory Sheet" rel_version="Territory_FirstLight">Mahantaram</string>
 	<string key="FL_Mammoth_Boss_Earth_Root_Arcane_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_FirstLight">Arcane Conduit</string>
@@ -14158,9 +14160,11 @@
 	<string key="FL_Mammoth_Boss_Earth_Root_Ice_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_FirstLight">Frigid Conduit</string>
 	<string key="FL_Mammoth_Boss_Earth_Root_Lightning_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_FirstLight">Charged Conduit</string>
 	<string key="FL_Mammoth_Boss_Earth_Root_Void_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_FirstLight">Hollow Conduit</string>
+	<string key="Ghastly_Sniper_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="AI_Ghastly_Horrors">Ghastly Sniper</string>
 	<string key="VC_Season_02_Event_Sulfur_Elemental_Soldier">Sulfur Warden</string>
 	<string key="VC_Season_02_Event_Sulfur_Elemental_Shaman">Sulfur Shaman</string>
 	<string key="VC_Season_02_Event_Sulfur_Elemental_Heavy">Sulfur Menace</string>
+	<string key="Ghastly_Villager_Hatchet_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="AI_Ghastly_Horrors">Cursed Woodcutter</string>
 	<string key="Dunewalker_Wanderer_Longsword_Trial_SoloPlus_vitalsname" speaker="Vitals Sheet" rel_version="Season_2_Trial">Hatchery Guardian Scout</string>
 	<string key="Dunewalker_Wanderer_Longsword_Trial_Group_vitalsname" speaker="Vitals Sheet" rel_version="Season_2_Trial">Hatchery Guardian Scout</string>
 	<string key="Dunewalker_Wanderer_Longsword_Trial_Quest_vitalsname" speaker="Vitals Sheet" rel_version="Season_2_Trial">Hatchery Guardian Scout</string>
@@ -14284,6 +14288,7 @@
 	<string key="VC_Season_02_EggGuardian_Huntress" speaker="Vitals Category" rel_version="Season_2_Perm">Sanctum Vigilant Huntress</string>
 	<string key="VC_Season_02_EggGuardianDefeated" speaker="Vitals Category" rel_version="Season_2_Perm">Ruin Guardian</string>
 	<string key="Bog_Monster_Season_02_VitalsName" speaker="Vitals Sheet" rel_version="Season_2_Perm">Surahkdot the Ever Watchful</string>
+	<string key="Undead_Cryptkeeper_VitalsName" speaker="Vitals Category" rel_version="AI_Ghastly_Horrors">Lost Cryptkeeper</string>
 	<string key="FL_RainbowTiger_Named_Elite_09FL12_vitalsname" speaker="Vitals Sheet" rel_version="Territory_FirstLight">Zurvān of Sun's Wing</string>
 	<string key="VC_FL_RainbowTiger_Named_Elite_09FL12" speaker="Vitals Category" rel_version="Territory_FirstLight">Zurvān of Sun's Wing</string>
 	<string key="FL_WingTiger_Named_Elite_09FL12_vitalsname" speaker="Vitals Sheet" rel_version="Territory_FirstLight">Zurvān of Moon's Shadow</string>
@@ -14291,6 +14296,8 @@
 	<string key="FL_Hercyne_Corvid_minion_vitalsname" speaker="Vitals Sheet" rel_version="Territory_FirstLight">Corvid Minion</string>
 	<string key="FL_Hercyne_Boar_minion_vitalsname" speaker="Vitals Sheet" rel_version="Territory_FirstLight">Boar Minion</string>
 	<string key="FL_Hercyne_Reindeer_minion_vitalsname" speaker="Vitals Sheet" rel_version="Territory_FirstLight">Reindeer Minion</string>
+	<string key="Undead_Naga_vitalsname" speaker="Vitals Sheet" rel_version="AI_Ghastly_Horrors">Faceless Ire</string>
+	<string key="Undead_MummifiedCorpse_Vitalsname" speaker="Vitals Sheet" rel_version="AI_Ghastly_Horrors">Ever-charred Witch</string>
 	<string key="VC_FL_Hercyne_Reindeer_WaveEvent" comment="Mission Target Display Name" speaker="VitalsCategory" rel_version="Territory_FirstLight">Wounded Hercyne</string>
 	<string key="FL_Armored_Dragon_Elite_09FL12_vitalsname" speaker="Vitals Sheet" rel_version="Territory_FirstLight">Crowned Drake</string>
 	<string key="VC_FL_Armored_Dragon_Elite_09FL12" speaker="Vitals Sheet" rel_version="Territory_FirstLight">Crowned Drake</string>
@@ -14324,6 +14331,8 @@
 	<string key="VC_Sulfur_Elemental_Heavy_16BS10" speaker="Vitals Category" rel_version="Season_2_Perm">Sulfur Elemental Heavy</string>
 	<string key="VC_Sulfur_Elemental_Soldier_16BS10" speaker="Vitals Category" rel_version="Season_2_Perm">Sulfur Elemental Soldier</string>
 	<string key="VC_Ancient_Guardian_Mage_Named_09A_S7" speaker="Vitals Category" rel_version="Territory_FirstLight">Ancient Plague Crafter</string>
+	<string key="Lost_MutatedNurse_vitalsname" speaker="Vitals Category" rel_version="AI_Ghastly_Horrors">Mutated Nurse</string>
+	<string key="Undead_Cryptkeeper_TombstoneMinion_VitalsName" speaker="Vitals Category" rel_version="AI_Ghastly_Horrors">Tombstone</string>
 	<string key="Ancient_Guardian_Mage_Named_09A_S7_VitalsName" speaker="Vitals Sheet" rel_version="Territory_FirstLight">Ancient Plague Crafter</string>
 	<string key="fl_dryad_beast_named_09fl08_vitalsname" speaker="Vitals Sheet" rel_version="Territory_FirstLight">Adiana's Chosen Beast</string>
 	<string key="vc_fl_dryad_beast_named_09fl08" speaker="Vitals Category" rel_version="Territory_FirstLight">Adiana's Chosen Beast</string>
@@ -14490,6 +14499,8 @@
 	<string key="VC_fl_hercyne_corvid_alpha_named_09fl02" speaker="Vitals Category" rel_version="Territory_FirstLight">Umbralvid</string>
 	<string key="fl_rat_hercynerat_named_09fl02_vitalsname" speaker="Vitals Sheet" rel_version="Territory_FirstLight">Rotgut</string>
 	<string key="VC_fl_rat_hercynerat_named_09fl02" speaker="Vitals Category" rel_version="Territory_FirstLight">Rotgut</string>
+	<string key="Lost_Bloodbeast_VitalsName" speaker="Vitals Category" rel_version="AI_Ghastly_Horrors">Bloodbeast</string>
+	<string key="Lost_SoulHarvester_Vitalsname" speaker="Vitals Category" rel_version="AI_Ghastly_Horrors">Starved Remnant</string>
 	<string key="fl_Poison_polyp_00_vitalsname" speaker="Vitals Category" rel_version="Territory_FirstLight">Noisome Polyp</string>
 	<string key="vc_fl_Poison_polyp_00" speaker="VitalsCategory Sheet" rel_version="Territory_FirstLight">Noisome Polyp</string>
 	<string key="vc_FL_Mammoth_09A_S6_Encounter_VitalsName" speaker="Vitals Category" rel_version="Territory_FirstLight">Migrating Mammoth</string>
@@ -14637,6 +14648,7 @@
 	<string key="Ice_Varangian_Knight_Greataxe_VitalsName" comment="Raid Trial Variant" speaker="Vitals Sheet" rel_version="Season_4_Trial">Runeforge Javlineer</string>
 	<string key="VC_Ice_Varangian_Knight_Greataxe" speaker="Raid Trial Variant" rel_version="Season_4_Trial">Ice Battlemaster</string>
 	<string key="VC_Damned_Villager_Pickaxe_03GC" speaker="Vitals Category" rel_version="Territory_FirstLight">Isabella's Excavator</string>
+	<string key="Lost_FeralGhoul_vitalsname" speaker="Vitals Category" rel_version="AI_Ghastly_Horrors">Feral Ghoul</string>
 	<string key="Hercyne_Echidna_VitalsName" speaker="Vitals Category" rel_version="Raid_CutlassKeys_00">Echidna</string>
 	<string key="VC_Hercyne_Echidna" speaker="VitalsCategory Sheet" rel_version="Raid_CutlassKeys_00">Echidna</string>
 	<string key="Hercyne_Echidna_Missile_VitalsName" speaker="Vitals Category" rel_version="Raid_CutlassKeys_00">Obsidian Crystal</string>
@@ -15666,5 +15678,28 @@
 	<string key="VC_CK_Blackbone_Lost_2hBlunderbuss_10WS04_Ad" speaker="VitalsCategory Sheet" rel_version="Territory_CutlassKeys_Rework">Admiral's Blunderbuss</string>
 	<string key="CK_Blackbone_Lost_2hSpear_10WS04_Ad_VitalsName" speaker="Vitals Sheet" rel_version="Territory_CutlassKeys_Rework">Admiral's Spearman</string>
 	<string key="VC_CK_Blackbone_Lost_2hSpear_10WS04_Ad" speaker="VitalsCategory Sheet" rel_version="Territory_CutlassKeys_Rework">Admiral's Spearman</string>
+	<string key="WB_Mammoth_FL_Mahantaram_VitalsName" speaker="Vitals Sheet" rel_version="Season_8_Perm">Mahantaram, Lord of Mammoths</string>
+	<string key="WB_Mammoth_FL_Mahantaram_Minion_VitalsName" speaker="Vitals Sheet" rel_version="Season_8_Perm">Elysian Mammoth</string>
+	<string key="WB_Mammoth_FL_Mahantaram_Minion_Fire_VitalsName" speaker="Vitals Sheet" rel_version="Season_8_Perm">Elysian Fire Mammoth</string>
+	<string key="WB_Mammoth_FL_Mahantaram_Minion_Ice_VitalsName" speaker="Vitals Sheet" rel_version="Season_8_Perm">Elysian Ice Mammoth</string>
+	<string key="WB_Mammoth_FL_Mahantaram_Minion_Lightning_VitalsName" speaker="Vitals Sheet" rel_version="Season_8_Perm">Elysian Lightning Mammoth</string>
+	<string key="WB_Mammoth_FL_Mahantaram_Minion_Nature_VitalsName" speaker="Vitals Sheet" rel_version="Season_8_Perm">Elysian Nature Mammoth</string>
+	<string key="VC_WorldBoss" speaker="VitalsCategory Sheet" rel_version="Season_8_Perm">Open World Boss</string>
+	<string key="VC_Inquisitor_Flamekeeper_Named_17DW01_20324" speaker="VitalsCategory Sheet">Inquisitor Quixor</string>
+	<string key="VC_Inquisitor_Grunt_17DW01_20324" speaker="VitalsCategory Sheet">Faithripper</string>
+	<string key="VC_Inquisitor_Flamekeeper_17DW01_20321" speaker="VitalsCategory Sheet">Vigilant Flamekeeper</string>
+	<string key="VC_Inquisitor_Cleric_Named_17DW01_20321" speaker="VitalsCategory Sheet">Familiares Mala</string>
+	<string key="VC_Inquisitor_Flamekeeper_17DW01_20332" speaker="VitalsCategory Sheet">Watchman Flamekeeper</string>
+	<string key="VC_Inquisitor_Cleric_17DW01_20332" speaker="VitalsCategory Sheet">Sentinel Cleric</string>
+	<string key="VC_Inquisitor_Warden_Named_17DW01_20332" speaker="VitalsCategory Sheet">Carcero the Custodian</string>
+	<string key="VC_Inquisitor_Flamekeeper_17DW01_20323" speaker="VitalsCategory Sheet">Agonizer Flamekeeper</string>
+	<string key="VC_Inquisitor_Cleric_17DW01_20323" speaker="VitalsCategory Sheet">Tormentor Cleric</string>
+	<string key="VC_Inquisitor_Warden_17DW01_20323" speaker="VitalsCategory Sheet">Pain Warden</string>
+	<string key="VC_Inquisitor_Markswoman_Named_17DW01_20323" speaker="VitalsCategory Sheet">Justicar Avalon</string>
+	<string key="VC_Inquisitor_Flamekeeper_17DW01_20219" speaker="VitalsCategory Sheet">Binding Flamekeeper</string>
+	<string key="VC_Inquisitor_Cleric_17DW01_20219" speaker="VitalsCategory Sheet">Hallowed Cleric</string>
+	<string key="VC_Inquisitor_Warden_17DW01_20219" speaker="VitalsCategory Sheet">Sanctum Warden</string>
+	<string key="VC_Inquisitor_Markswoman_17DW01_20219" speaker="VitalsCategory Sheet">Warded Markswoman</string>
+	<string key="VC_Inquisitor_Enforcer_Named_17DW01_20219" speaker="VitalsCategory Sheet">Azareth</string>
 </resources>
 

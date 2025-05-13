@@ -370,7 +370,7 @@
 	<string key="FactionMission_armorsmith_desc">Forge and deliver &lt;font color="#b2aea1"&gt;{itemName}&lt;/font&gt;.</string>
 	<string key="FactionMission_cooking_title">Cooks Needed</string>
 	<string key="FactionMission_cooking_desc">Cook and deliver &lt;font color="#b2aea1"&gt;{itemName}&lt;/font&gt;.</string>
-	<string key="FactionMission_RAID_title">Raid: {POITags}</string>
+	<string key="FactionMission_RAID_title">Reave: {POITags}</string>
 	<string key="FactionMission_RAID_desc">We've identified a threat to Marauder interests in this region.\n\nGo to {POITags} and defeat every &lt;font color="#b2aea1"&gt;{enemyName}&lt;/font&gt; necessary - with extreme prejudice.</string>
 	<string key="FactionMission_EXPLORE_title">Scout: {POITags}</string>
 	<string key="FactionMission_EXPLORE_desc">Perform reconnaissance at {POITags} to give the Marauders an edge. \n\nYour report is critical to formulate our strategy.</string>
@@ -413,7 +413,7 @@
 	<string key="FactionMission_PRESERVE_title">Preserve (PvP)</string>
 	<string key="FactionMission_PRESERVE_desc">Bless {POITags} with the light of the Spark.</string>
 	<string key="FactionMission_M_EXPEDITIONRAID_desc_singular">Delve into {POITags} for the Marauders and defeat &lt;font color="#b2aea1"&gt;{enemyName}&lt;/font&gt;. \n\n &lt;font color="#b2aea1"&gt;(Expedition)&lt;/font&gt;</string>
-	<string key="FactionMission_EXPEDITIONRAID_title">Raid: {POITags}</string>
+	<string key="FactionMission_EXPEDITIONRAID_title">Reave: {POITags}</string>
 	<string key="FactionMission_EXPEDITIONRAID_desc">Delve into {POITags} for the Marauders and defeat every &lt;font color="#b2aea1"&gt;{enemyName}&lt;/font&gt; necessary. \n\n &lt;font color="#b2aea1"&gt;(Expedition)&lt;/font&gt;</string>
 	<string key="FactionMission_EXPEDITIONRAID_desc_singular">Delve into {POITags} for the Marauders and defeat &lt;font color="#b2aea1"&gt;{enemyName}&lt;/font&gt;. \n\n &lt;font color="#b2aea1"&gt;(Expedition)&lt;/font&gt;</string>
 	<string key="FactionMission_EXPEDITIONLOOT_title">Plunder: {POITags}</string>
@@ -452,7 +452,7 @@
 	<string key="FactionMission_C_ASSASSINATE_ELITE_desc2">The Covenant has identified &lt;font color="#b2aea1"&gt;{enemyName}&lt;/font&gt; to be eliminated.\n\nProve your devotion by tracking them down in {POITags} and destroying them. (Hint: targets appear as part of an event)\n &lt;font color="#b2aea1"&gt;(Elite)&lt;/font&gt;</string>
 	<string key="FactionMission_ASSASSINATE_ELITE_desc2">The Marauders need &lt;font color="#b2aea1"&gt;{enemyName}&lt;/font&gt; removed from the theater.\n\nProve your valor by tracking them down in {POITags} and destroying them. (Hint: targets appear as part of an event)\n&lt;font color="#b2aea1"&gt;(Elite)&lt;/font&gt;</string>
 	<string key="FactionMission_S_ASSASSINATE_ELITE_desc2">The Syndicate has identified &lt;font color="#b2aea1"&gt;{enemyName}&lt;/font&gt; to be a target for elimination.\n\nProve your cunning by tracking them down in {POITags} and destroying them. (Hint: targets appear as part of an event)\n&lt;font color="#b2aea1"&gt;(Elite)&lt;/font&gt;</string>
-	<string key="FactionMission_RAID_ELITE_title">Raid: {POITags} (Elite)</string>
+	<string key="FactionMission_RAID_ELITE_title">Reave: {POITags} (Elite)</string>
 	<string key="FactionMission_RAID_ELITE_desc">We've identified a threat to Marauder interests in this region.\n\nGo to {POITags} and defeat every &lt;font color="#b2aea1"&gt;{enemyName}&lt;/font&gt; necessary - with extreme prejudice.\n &lt;font color="#b2aea1"&gt;(Elite)&lt;/font&gt;</string>
 	<string key="FactionMission_LOOT_ELITE_title">Plunder: {POITags} (Elite)</string>
 	<string key="FactionMission_LOOT_ELITE_desc">There are items at {POITags} that could be valuable to the Marauder campaign. \n\nAcquire each &lt;font color="#b2aea1"&gt;{itemName}&lt;/font&gt; using whatever means necessary.\n &lt;font color="#b2aea1"&gt;(Elite)&lt;/font&gt;</string>
@@ -495,11 +495,11 @@
 	<string key="FactionMission_S_WARCAMP_LOOT_title">Enemy Reconnaissance (PvP)</string>
 	<string key="FactionMission_S_WARCAMP_LOOT_desc">Infiltrate the &lt;font color="#b2aea1"&gt;War Camp&lt;/font&gt; next to &lt;font color="#b2aea1"&gt;Fort {territoryID}&lt;/font&gt; and search for valuable intelligence.</string>
 	<string key="FactionMission_S_CONTROL_POINT_title">Seize (PvP)</string>
-	<string key="FactionMission_S_CONTROL_POINT_desc">Take up arms to help the Syndicate take control of the &lt;font color="#b2aea1"&gt;Fort&lt;/font&gt; at &lt;font color="#b2aea1"&gt;{territoryID}&lt;/font&gt;or any of the three watchtowers.\n\n(This mission may not be completable at all times)</string>
+	<string key="FactionMission_S_CONTROL_POINT_desc">Take up arms to help the Syndicate take control of the &lt;font color="#b2aea1"&gt;Fort&lt;/font&gt; at &lt;font color="#b2aea1"&gt;{territoryID}&lt;/font&gt; or any of the three watchtowers.\n\n(This mission may not be completable at all times)</string>
 	<string key="FactionMission_C_WARCAMP_LOOT_title">Enemy Intelligence (PvP)</string>
 	<string key="FactionMission_C_WARCAMP_LOOT_desc">Infiltrate the &lt;font color="#b2aea1"&gt;War Camp&lt;/font&gt; next to &lt;font color="#b2aea1"&gt;Fort {territoryID}&lt;/font&gt; and search for valuable intelligence.</string>
 	<string key="FactionMission_C_CONTROL_POINT_title">Triumph (PvP)</string>
-	<string key="FactionMission_C_CONTROL_POINT_desc">Take up arms to help the Covenant take control of the &lt;font color="#b2aea1"&gt;Fort&lt;/font&gt; at &lt;font color="#b2aea1"&gt;{territoryID}&lt;/font&gt;or any of the three watchtowers.\n\n(This mission may not be completable at all times)</string>
+	<string key="FactionMission_C_CONTROL_POINT_desc">Take up arms to help the Covenant take control of the &lt;font color="#b2aea1"&gt;Fort&lt;/font&gt; at &lt;font color="#b2aea1"&gt;{territoryID}&lt;/font&gt; or any of the three watchtowers.\n\n(This mission may not be completable at all times)</string>
 	<string key="FactionMission_WARCAMP_SPECIAL_desc">Infiltrate the stronghold at &lt;font color="#b2aea1"&gt;{POITags}&lt;/font&gt; and search for valuable intelligence.</string>
 	<string key="FactionMission_S_WARCAMP_SPECIAL_desc">Infiltrate the stronghold at &lt;font color="#b2aea1"&gt;{POITags}&lt;/font&gt; and search for valuable intelligence.</string>
 	<string key="FactionMission_C_WARCAMP_SPECIAL_desc">Infiltrate the stronghold at &lt;font color="#b2aea1"&gt;{POITags}&lt;/font&gt; and search for valuable intelligence.</string>

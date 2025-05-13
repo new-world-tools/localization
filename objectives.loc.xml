@@ -344,8 +344,8 @@
 	<string key="objective_encounter_stage7">Stage 7:</string>
 	<string key="objective_encounter_stage8">Stage 8:</string>
 	<string key="objective_encounter_stage9">Stage 9:</string>
-	<string key="objective_artifact_equip_to_view" rel_version="Feature_Artifacts">Equip artifact to view objectives.</string>
-	<string key="objective_artifact_max_reminder" rel_version="Feature_Artifacts">Too many artifact objectives in progress. Abandon an existing one to start another.</string>
+	<string key="objective_artifact_equip_to_view" rel_version="Feature_Artifacts">Equip to view task.</string>
+	<string key="objective_artifact_max_reminder" rel_version="Feature_Artifacts">Too many artifact tasks in progress. Abandon an existing one to start another.</string>
 	<string key="objective_artifact_equip_reminder" rel_version="Feature_Artifacts">When Equipped:</string>
 	<string key="Objective_Artifact_PerkTasks" rel_version="Feature_Expansion_1">Each task unlocks a perk</string>
 	<string key="Objective_Artifact_Desc" rel_version="Feature_Expansion_1">Complete the following:</string>
@@ -423,22 +423,29 @@
 	<string key="Objective_Artifact_Set2_HeavyChest" rel_version="Feature_Artifacts_S6">Artifact: Survivor's Coat</string>
 	<string key="Objective_Artifact_Set2_HeavyHands" rel_version="Feature_Artifacts_S5">Artifact: Gilli's Gravity Gauntlets</string>
 	<string key="Objective_Artifact_Set2_HeavyLegs" rel_version="Feature_Artifacts_S5">Artifact: Ironheart</string>
+	<string key="Objective_Artifact_Set2_HeavyFeet" rel_version="Feature_Artifacts_S8">Artifact: Runic Greaves</string>
+	<string key="Objective_Artifact_Set2_MediumHead" rel_version="Feature_Artifacts_S8">Artifact: Old Crown</string>
 	<string key="Objective_Artifact_Set2_MediumChest" rel_version="Feature_Artifacts_S5">Artifact: Nature's Wrath</string>
 	<string key="Objective_Artifact_Set2_MediumHands" rel_version="Feature_Artifacts_S6">Artifact: Ghostly Touch</string>
 	<string key="Objective_Artifact_Set2_MediumLegs" rel_version="Feature_Artifacts_S6">Artifact: Azoth Conductors</string>
 	<string key="Objective_Artifact_Set2_LightHead" rel_version="Feature_Artifacts_S6">Artifact: Cowl of Power</string>
+	<string key="Objective_Artifact_Set2_LightChest" rel_version="Feature_Artifacts_S8">Artifact: Vampire Vestments</string>
+	<string key="Objective_Artifact_Set2_LightHands" rel_version="Feature_Artifacts_S8">Artifact: Lich Gloves</string>
 	<string key="Objective_Artifact_Set2_LightFeet" rel_version="Feature_Artifacts_S5">Artifact: Creed Boots</string>
+	<string key="Objective_Artifact_Set2_1hLongsword" rel_version="Feature_Artifacts_S8">Artifact: Wit</string>
 	<string key="Objective_Artifact_Set2_1hThrowingAxe" rel_version="Feature_Artifacts_S5">Artifact: Sin</string>
 	<string key="Objective_Artifact_Set2_2hWarhammer" rel_version="Feature_Artifacts_S6">Artifact: Trsna</string>
 	<string key="Objective_Artifact_Set2_2hGreatAxe" rel_version="Feature_Artifacts_S5">Artifact: Tempest Fury</string>
 	<string key="Objective_Artifact_Set2_2hBow" rel_version="Feature_Artifacts_S7">Artifact: Aconite</string>
 	<string key="Objective_Artifact_Set2_2hMusket" rel_version="Feature_Artifacts_S7">Artifact: Shrapnel</string>
+	<string key="Objective_Artifact_Set2_1hTowerShield" rel_version="Feature_Artifacts_S8">Artifact: Relentless</string>
 	<string key="Objective_Artifact_Set2_2hStaffFire" rel_version="Feature_Artifacts_S7">Artifact: Burnanator</string>
 	<string key="Objective_Artifact_Set2_2hStaffLife" rel_version="Feature_Artifacts_S7">Artifact: Heceta</string>
 	<string key="Objective_Artifact_Set2_2hSpear" rel_version="Feature_Artifacts_S5">Artifact: Venom</string>
 	<string key="Objective_Artifact_Set2_1hRapier" rel_version="Feature_Artifacts_S7">Artifact: Dorgort's Blade</string>
 	<string key="Objective_Artifact_Set2_1hGauntletIce" rel_version="Feature_Artifacts_S7">Artifact: Otzi</string>
 	<string key="Objective_Artifact_Set2_1hGauntletVoid" rel_version="Feature_Artifacts_S7">Artifact: Fracture</string>
+	<string key="Objective_Artifact_Set2_2hBlunderbuss" rel_version="Feature_Artifacts_S8">Artifact: Chaos</string>
 	<string key="Objective_Artifact_Set2_2hGreatSword" rel_version="Feature_Artifacts_S6">Artifact: Grace</string>
 	<string key="Objective_Artifact_Set2_1hFlail" rel_version="Feature_Artifacts_S6">Artifact: Power Stone</string>
 	<string key="Objective_Artifact_Set2_Earring1" rel_version="Feature_Artifacts_S7">Artifact: Justice</string>

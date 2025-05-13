@@ -3,7 +3,7 @@
 	<string key="ui_factioncontrol_claimed">Claimed</string>
 	<string key="ui_factioncontrol_contested">Contested</string>
 	<string key="ui_factioncontrol_unclaimed">Unclaimed</string>
-	<string key="ui_factioncontrol_reminder">Use\nReminder: You must be flagged for PvP to enter at this time.</string>
+	<string key="ui_factioncontrol_reminder">Use - You must be flagged for PvP.</string>
 	<string key="ui_factioncontrol_reminder_map">Active: You must be flagged for PVP to enter. Outside of an Influence Race, this Control Point will lock for one hour after it is captured.</string>
 	<string key="ui_factioncontrol_reminder_map_inactive">Locked: Control Point locked for one hour once captured. During an Influence Race, the fort will not lock.</string>
 	<string key="ui_factioncontrol_reminder_map_inactive_specific">{siegeType} In Progress: Control Point locked until one hour after the {siegeType2} resolves.</string>

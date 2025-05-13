@@ -1,5 +1,5 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<string key="ui_tutorialization_learn_more" rel_version="Feature_Player_Tutorials">Learn More in Journal</string>
+	<string key="ui_tutorialization_learn_more" rel_version="Feature_Player_Tutorials">Learn More</string>
 	<string key="ui_tutorialization_go_to_tutorials" rel_version="Feature_Player_Tutorials">Tutorials</string>
 	<string key="ui_tutorialization_close_tutorials" rel_version="Feature_Player_Tutorials">Close</string>
 	<string key="temporary_text_delete_me_subtitle" comment="DO NOT TRANSLATE" rel_version="Feature_Player_Tutorials">Temp Subtitle</string>
@@ -371,10 +371,68 @@
 	<string key="tutorial_territory_ownership1_01_subtitle" rel_version="Feature_Player_Tutorials">Own Territory</string>
 	<string key="tutorial_territory_ownership1_01_prompt_body" rel_version="Feature_Player_Tutorials">War for &lt;font color="#edc63e"&gt;territory ownership&lt;/font&gt; with your Company.</string>
 	<string key="tutorial_territory_ownership1_01_dialogue_body" rel_version="Feature_Player_Tutorials">&lt;font color="#edc63e"&gt;Companies&lt;/font&gt; can own and manage territories in Aeternum. When a Company owns a territory, they &lt;font color="#edc63e"&gt;earn a percentage of the fees&lt;/font&gt; paid by other players in Aeternum in return for managing their territory. Companies fight for territories by participating in an &lt;font color="#edc63e"&gt;Influence Race&lt;/font&gt; and going to &lt;font color="#edc63e"&gt;War&lt;/font&gt;.\n\nEarn enough Influence during an &lt;font color="#edc63e"&gt;Influence Race&lt;/font&gt; by completing PvP Missions for an opportunity to declare War if your faction wins. You can declare war from the map. Influence Races are scheduled in various territories daily. Once a &lt;font color="#edc63e"&gt;War&lt;/font&gt; is declared, it will be scheduled the next day according to the defending company's Siege window.\n\nWhen your Company wins a War, you will own the territory. Manage the territory by starting &lt;font color="#edc63e"&gt;Town Projects&lt;/font&gt; in the territory's Town Hall that give Lifestyle Buffs and upgrade the Settlement and Fort.</string>
-	<string key="tutorial_wars_and_invasions1_01_title" rel_version="Feature_Player_Tutorials">Wars And Invasions</string>
-	<string key="tutorial_wars_and_invasions1_01_subtitle" rel_version="Feature_Player_Tutorials">Territory Conflicts</string>
-	<string key="tutorial_wars_and_invasions1_01_prompt_body" rel_version="Feature_Player_Tutorials">Sign up for &lt;font color="#edc63e"&gt;Wars&lt;/font&gt; and &lt;font color="#edc63e"&gt;Invasions&lt;/font&gt;, large scale battles over Territories.</string>
-	<string key="tutorial_wars_and_invasions1_01_dialogue_body" rel_version="Feature_Player_Tutorials">&lt;font color="#edc63e"&gt;Wars&lt;/font&gt; and &lt;font color="#edc63e"&gt;Invasions&lt;/font&gt; are territory events you can sign up for at each territory's war board in town or on the map. Find the schedule in the Conflicts tab while in the Map. \n\n&lt;font color="#edc63e"&gt;Invasions&lt;/font&gt; are large scale battles against the Corrupted.\n\n&lt;font color="#edc63e"&gt;Wars&lt;/font&gt; are large scale PvP events where an attacking company fights for territory control against the defending company.</string>
+	<string key="tutorial_war_01_title" rel_version="Feature_Player_Tutorials">War</string>
+	<string key="tutorial_war_01_subtitle" rel_version="Feature_Player_Tutorials">War</string>
+	<string key="tutorial_war_01_prompt_body" rel_version="Feature_Player_Tutorials">Attackers must take all 3 control points, knock down gates, and take the control point in the fort. If attackers succeed they will win the war.</string>
+	<string key="tutorial_war_01_dialogue_body" rel_version="Feature_Player_Tutorials">&lt;font face="lyshineui/fonts/Pica_Regular.font" color="#c6b694" &gt;CONTROL POINTS&lt;/font&gt;
+	\nAttackers must take all 3 control points before the gates can be damaged. Once they are taken, the control points grant access to Armory and attackers may respawn there.
+	\n\n&lt;font face="lyshineui/fonts/Pica_Regular.font" color="#c6b694" &gt;WIN CONDITION&lt;/font&gt;
+	\nOnce all 3 control points are taken, attackers can try to knock down gates and &lt;font color="#ebe3d6"&gt;take the control point in the fort.&lt;/font&gt; If attackers succeed they will win the war; if attackers fail to claim it, defenders will win the war.
+	\n\n&lt;font face="lyshineui/fonts/Pica_Regular.font" color="#c6b694" &gt;RESPAWNING&lt;/font&gt;
+	\nAs the war goes on, there will be longer and longer Respawn waves. When soldiers are killed, they will respawn in the next Respawn wave.
+	\n\n&lt;font face="lyshineui/fonts/Pica_Regular.font" color="#c6b694" &gt;BATTLE TOKENS&lt;/font&gt;
+	\nPlayers earn Battle Tokens by damaging their enemies. Use Battle Tokens to purchase various items from Armory.</string>
+	<string key="tutorial_invasion_01_title" rel_version="Feature_Player_Tutorials">Invasion</string>
+	<string key="tutorial_invasion_01_subtitle" rel_version="Feature_Player_Tutorials">Invasion</string>
+	<string key="tutorial_invasion_01_prompt_body" rel_version="Feature_Player_Tutorials">The enemies will attack in waves, with each successive wave becoming stronger. Defend the claim point from the invasion.</string>
+	<string key="tutorial_invasion_01_dialogue_body" rel_version="Feature_Player_Tutorials">&lt;font face="lyshineui/fonts/Pica_Regular.font" color="#c6b694" &gt;WAVES&lt;/font&gt;
+	\nThe corrupted enemies will attack the fort in waves, with each successive wave becoming stronger.
+	\n\n&lt;font face="lyshineui/fonts/Pica_Regular.font" color="#c6b694" &gt;WIN CONDITION&lt;/font&gt;
+	\nThe corrupted army will try to knock down the gates and take a control point within the fort. If players successfully defend the claim point from invasion, they will win.
+	\n\n&lt;font face="lyshineui/fonts/Pica_Regular.font" color="#c6b694" &gt;RESPAWNING&lt;/font&gt;
+	\nAs the war goes on, there will be longer and longer Respawn waves. When soldiers are killed, they will respawn in the next Respawn wave.
+	\n\n&lt;font face="lyshineui/fonts/Pica_Regular.font" color="#c6b694" &gt;BATTLE TOKENS&lt;/font&gt;
+	\nPlayers earn Battle Tokens by damaging their enemies. Use Battle Tokens to purchase various items from Armory.</string>
+	<string key="tutorial_outpostrush_01_title" rel_version="Feature_Player_Tutorials">Outpost Rush</string>
+	<string key="tutorial_outpostrush_01_subtitle" rel_version="Feature_Player_Tutorials">Outpost Rush</string>
+	<string key="tutorial_outpostrush_01_prompt_body" rel_version="Feature_Player_Tutorials">Capture outposts and slay the enemy to score points. First team to 1000 points wins.</string>
+	<string key="tutorial_outpostrush_01_dialogue_body" rel_version="Feature_Player_Tutorials">&lt;font face="lyshineui/fonts/Pica_Regular.font" color="#c6b694" &gt;CAPTURE OUTPOSTS&lt;/font&gt;
+	\nCapture outposts and slay the enemy to score points. First team to 1000 points wins!
+	\n\n&lt;font face="lyshineui/fonts/Pica_Regular.font" color="#c6b694" &gt;GATHERING RESOURCES&lt;/font&gt;
+	\nGather infused wood, ore, and hides to upgrade your outposts by building gates and siege weapons. Build a command post to gain powerful offensive and defensive boosts for your team.
+	\n\n&lt;font face="lyshineui/fonts/Pica_Regular.font" color="#c6b694" &gt;SUMMON MONSTROUS ALLIES&lt;/font&gt;
+	\nUse summoning stones to summon powerful allies at summoning circles. Summon a bear by defeating the powerful Alpha Wolf or gain an ultra-powerful brute ally by defeating and closing the corrupted portal.
+	\n\n&lt;font face="lyshineui/fonts/Pica_Regular.font" color="#c6b694" &gt;SLAY THE BOSS&lt;/font&gt;
+	\nBaroness Hain is the ghost of a long dead noble that haunts the island. Slay her to gain a powerful buff that increases the defense of your team and freezes the enemy score!</string>
+	<string key="tutorial_capturetheflag_01_title" rel_version="Gamemode_CTF">Capture The Flag</string>
+	<string key="tutorial_capturetheflag_01_subtitle" rel_version="Gamemode_CTF">Capture The Flag</string>
+	<string key="tutorial_capturetheflag_01_prompt_body" rel_version="Gamemode_CTF">&lt;font color="#edc63e"&gt;Protect&lt;/font&gt; your team's flag while &lt;font color="#edc63e"&gt;capturing the enemy's flag&lt;/font&gt; to score points. &lt;font color="#edc63e"&gt;\n\nHighest&lt;/font&gt; score wins.</string>
+	<string key="tutorial_capturetheflag_01_dialogue_body" rel_version="Gamemode_CTF">&lt;font face="lyshineui/fonts/Pica_Regular.font" color="#c6b694" &gt;RULES&lt;/font&gt;
+	\n• The team with the &lt;font color="#edc63e"&gt;highest score&lt;/font&gt; wins when time is over.
+	\n• If teams are tied when time is up, a short &lt;font color="#edc63e"&gt;sudden death overtime&lt;/font&gt; will immediately start.
+	\n• &lt;font color="#edc63e"&gt;First&lt;/font&gt; to score during overtime wins, otherwise the match will end in a &lt;font color="#edc63e"&gt;draw&lt;/font&gt;.
+	\n• &lt;font color="#edc63e"&gt;In order to score&lt;/font&gt;, your team's flag &lt;font color="#edc63e"&gt;must&lt;/font&gt; be on/returned to its pedestal.
+	
+	\n\n&lt;font face="lyshineui/fonts/Pica_Regular.font" color="#c6b694" &gt;POWER-UPS&lt;/font&gt;
+	\nThere are 3 types of Power-ups scattered around the maps. Once collected, Power-ups will take time to respawn.
+	\n• &lt;font color="#edc63e"&gt;Health&lt;/font&gt;: One time health gain.
+	\n• &lt;font color="#edc63e"&gt;Attack Power&lt;/font&gt;: Increase damage output for a while.
+	\n• &lt;font color="#edc63e"&gt;Speed&lt;/font&gt;: Increase run speed for a short time.
+	\n\n&lt;font face="lyshineui/fonts/Pica_Regular.font" color="#c6b694" &gt;JUMP PADS&lt;/font&gt;
+	\nThere are various types of jump pads scattered throughout the maps. Jump pads require the players to activate them by pressing {$movement.jump$} while on the pads. Players will always jump forwards, but getting a running start will send you further than standing still.</string>
+	<string key="tutorial_jumppad_01_title" rel_version="Gamemode_CTF">Jump Pads</string>
+	<string key="tutorial_jumppad_01_subtitle" rel_version="Gamemode_CTF">Jump Pads</string>
+	<string key="tutorial_jumppad_01_prompt_body" rel_version="Gamemode_CTF">Press {$movement.jump$} while standing on &lt;font color="#edc63e"&gt;Jump Pads&lt;/font&gt;.\n\nJump pads always move you &lt;font color="#edc63e"&gt;forward&lt;/font&gt;, so line yourself up before jumping.</string>
+	<string key="tutorial_influencerace_01_title" rel_version="Feature_Player_Tutorials">Influence Race</string>
+	<string key="tutorial_influencerace_01_subtitle" rel_version="Feature_Player_Tutorials">Influence Race</string>
+	<string key="tutorial_influencerace_01_dialogue_body" rel_version="Feature_Player_Tutorials">&lt;font face="lyshineui/fonts/Pica_Regular.font" color="#c6b694" &gt;PUSH INFLUENCE&lt;/font&gt;
+	\nComplete PvP missions and capture towers to push influence and put the territory into conflict.
+	\n\n&lt;font face="lyshineui/fonts/Pica_Regular.font" color="#c6b694" &gt;FACTION CONTROL POINTS&lt;/font&gt;
+	\nModifies the amount of Influence earned and provide a continuous flow of influence for the controlling faction.
+	\n\n&lt;font face="lyshineui/fonts/Pica_Regular.font" color="#c6b694" &gt;DECLARE WAR&lt;/font&gt;
+	\nQualifying companies will be able to declare war at the end of every Influence Race.
+	\n\n&lt;font face="lyshineui/fonts/Pica_Regular.font" color="#c6b694" &gt;EARN REWARDS&lt;/font&gt;
+	\nParticipating players will earn rewards. Bonus war cache for defenders winning the war.</string>
 	<string key="tutorial_pvp_rewards_track1_01_title" rel_version="Feature_Player_Tutorials">PvP Rewards Track</string>
 	<string key="tutorial_pvp_rewards_track1_01_subtitle" rel_version="Feature_Player_Tutorials">Earn PvP Rewards</string>
 	<string key="tutorial_pvp_rewards_track1_01_prompt_body" rel_version="Feature_Player_Tutorials">Prevail in PvP to earn rewards on the &lt;font color="#edc63e"&gt;PvP Rewards Track&lt;/font&gt;.</string>
@@ -517,7 +575,7 @@
 	\n • Tradeskill food
 	\n • Tradeskill Lifestyle Buff OR Faction Ownership of the Mourningdale Fort
 	\n
-	\n&lt;font color="#edc63e"&gt;Lifestyle Buffs&lt;/font&gt; are territory-based buffs that increase the crafting effectiveness of any crafter who owns a home in that territory. Each Lifestyle Buff affects a particular Tradeskill. They are activated in eacch territory by the company that owns it and are active for a limited time. You can see what Lifestyle Buffs you have by navigating to your Character Screen and selecting the Territories you own homes in.
+	\n&lt;font color="#edc63e"&gt;Lifestyle Buffs&lt;/font&gt; are territory-based buffs that increase the crafting effectiveness of any crafter who owns a home in that territory. Each Lifestyle Buff affects a particular Tradeskill. They are activated in each territory by the company that owns it and are active for a limited time. You can see what Lifestyle Buffs you have by navigating to your Character Screen and selecting the Territories you own homes in.
 	\n
 	\nForts can be captured by Factions. Once they are captured, they provide buffs to that faction as long as they own it. The &lt;font color="#edc63e"&gt;Mourningdale Fort&lt;/font&gt; provides a buff that can take the place of Lifestyle Buffs when crafting maximum gearscore armor and weapons.
 	\n

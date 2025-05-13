@@ -100,7 +100,7 @@
 	<string key="ui_outpost_rush_signup_title">OUTPOST RUSH</string>
 	<string key="ui_outpost_rush_signup_desc">&lt;font color="#edc63e"&gt;Outpost Rush&lt;/font&gt; is a 20v20 match that takes place on a large island with three Outposts that teams compete to capture and hold.</string>
 	<string key="ui_outpost_rush_signup_desc_gearscore">&lt;font color="#edc63e"&gt;Gear Score Scaling&lt;/font&gt; increases the gear score of all equipment below 700 to 700.</string>
-	<string key="ui_outpost_rush_signup_desc_cross_world">Outpost Rush is a 20x20 &lt;font color="#edc63e"&gt;Cross World game mode.&lt;/font&gt;</string>
+	<string key="ui_outpost_rush_signup_desc_cross_world">Outpost Rush is a 20v20 &lt;font color="#edc63e"&gt;Cross World game mode.&lt;/font&gt;\n&lt;font color="#edc63e"&gt;Gear Score Scaling&lt;/font&gt; increases the gear score of all equipment below 700 to 700.</string>
 	<string key="ui_outpost_rush_signup_desc_cross_world_tooltip">&lt;font color="#edc63e"&gt;Cross World&lt;/font&gt; means that you will be playing together with players from all worlds within your region. This can help shorten wait times to find a match.\n\nThings to note:\n\n-When you see a player with &lt;img src="lyshineui/images/icons/crossworld/icon_crossworld_identifier" xPadding="-1" scale="1.8" yOffset="2"&gt;&lt;/img&gt; next to their name, this means they are from another world.\n\n-While in the Cross World match, several social functions will be disabled, including trading, invites, and more.\n\n-The OPR Wins Leaderboard is now a Regional Leaderboard.</string>
 	<string key="ui_outpost_rush_signup_goal1">Capture and hold Outposts to score</string>
 	<string key="ui_outpost_rush_signup_goal2">The first team to score 1,000 points wins</string>
@@ -229,9 +229,9 @@
 	<string key="or_tutorial_rules_portal_title">Defeat and close the Corrupted Portal</string>
 	<string key="or_tutorial_rules_portal_body">Defeat and close the Corrupted Portal to receive a brute summoning stone.</string>
 	<string key="or_tutorial_boss_spawn_title">BARONESS HAIN HAS APPEARED</string>
-	<string key="or_tutorial_boss_spawn_body">Kill her for a powerful defense buff, and freeze the enemy team's score for 3 minutes.</string>
+	<string key="or_tutorial_boss_spawn_body">Kill her for a powerful defense buff, and freeze the enemy team's score for up to 2 minutes and 30 seconds.</string>
 	<string key="or_tutorial_boss_near_title">BARONESS HAIN IS NEAR</string>
-	<string key="or_tutorial_boss_near_body">Kill her for a powerful defense buff, and freeze the enemy team's score for 3 minutes.</string>
+	<string key="or_tutorial_boss_near_body">Kill her for a powerful defense buff, and freeze the enemy team's score for up to 2 minutes and 30 seconds.</string>
 	<string key="or_tutorial_outpost_gates_title">BUILD GATES TO PROTECT OUTPOST</string>
 	<string key="or_tutorial_outpost_gates_body">Collect infused wood and ore, then interact with the gate to build and upgrade it.</string>
 	<string key="or_tutorial_outpost_ward_title">BUILD A PROTECTION WARD</string>
@@ -292,7 +292,7 @@
 	<string key="ui_matchmaking_ready_title">Match Ready</string>
 	<string key="ui_matchmaking_ready_title_dungeon">Group Found</string>
 	<string key="ui_matchmaking_ready_text">Your queued &lt;font color={color}&gt;match is ready to play&lt;/font&gt;. Teleport in now?</string>
-	<string key="ui_matchmaking_ready_text_dungeon">Waiting For Players ({numAccepted}/{numInvited})</string>
+	<string key="ui_matchmaking_ready_text_dungeon">Waiting For Players (&lt;font color={acceptedColor}&gt;{numAccepted}&lt;/font&gt;/{numInvited})</string>
 	<string key="dungeon_how_to_raid">How to Form a Raid</string>
 	<string key="dungeon_entry_requirements">Entry Requirements</string>
 	<string key="ui_influence_tutorial_how_it_works" rel_version="Feature_Influence_V2">How Influence Races Work</string>
@@ -310,6 +310,7 @@
 	<string key="or_outpost_rush_trench_map_name" rel_version="OPR_004_Trench">Coral Divide</string>
 	<string key="arena_3v3_map_name" rel_version="Feature_PVP_Arenas">Ancient Sanctum</string>
 	<string key="arena_3v3_02_map_name" rel_version="Feature_PVP_Arenas">Gladiator's Ring</string>
+	<string key="arena_3v3_04_map_name" rel_version="Arena_3v3_04">Arena Preview</string>
 	<string key="ui_activity_finder_tooltip_current_map_rotation_text" rel_version="Season_7_Perm">Current map on rotation</string>
 	<string key="ui_activity_finder_tooltip_next_map_rotation_text" rel_version="Season_7_Perm">Next map on rotation</string>
 	<string key="ui_activity_finder_tooltip_current_map_rotation" rel_version="Season_7_Perm">{currentRotationText} : {mapName}</string>
@@ -337,6 +338,72 @@
 	<string key="ui_gamemode_timeout_description">Approaching maximum time allowed in this activity</string>
 	<string key="ui_ready_up_ready_choice">Ready</string>
 	<string key="ui_ready_up_unready_choice">Unready</string>
-	<string key="ui_ready_up_waiting_message">Ready!\nWaiting For Players ({numReady}/{numTotal})</string>
+	<string key="ui_ready_up_waiting_message">Waiting for others ({numReady}/{numTotal})</string>
+	<string key="gamemode_type_and_map_name_undefined" rel_version="Gamemode_CTF" comment="DO NOT TRANSLATE">[PH] Undefined Mode - Undefined Name</string>
+	<string key="ui_capture_the_flag_signup_joinsolo" rel_version="Gamemode_CTF">Play</string>
+	<string key="ui_capture_the_flag_title" rel_version="Gamemode_CTF">Capture The Flag</string>
+	<string key="ui_capture_the_flag_pregame_description" rel_version="Gamemode_CTF">Match begins in</string>
+	<string key="ui_capture_the_flag_begin" rel_version="Gamemode_CTF">GO!</string>
+	<string key="ui_capture_the_flag_invite_notification_title" rel_version="Gamemode_CTF">Capture The Flag Invite</string>
+	<string key="ui_capture_the_flag_invite_notification_text" rel_version="Gamemode_CTF">You have been invited to Capture The Flag!</string>
+	<string key="ui_capture_the_flag_leave_queue_title" rel_version="Gamemode_CTF">Leave Queue</string>
+	<string key="ui_capture_the_flag_leave_queue_desc" rel_version="Gamemode_CTF">Are you sure you want to leave the Capture The Flag queue?</string>
+	<string key="ui_capture_the_flag_signup_failgrouppenalty" rel_version="Gamemode_CTF">One or more of your group members have a penalty timer for leaving a previous Capture The Flag match.</string>
+	<string key="ui_capture_the_flag_signup_goal1" rel_version="Gamemode_CTF">Capture the most flags to win the match</string>
+	<string key="ui_capture_the_flag_signup_goal2" rel_version="Gamemode_CTF">Your team's flag must be at home to score</string>
+	<string key="ui_capture_the_flag_signup_goal3" rel_version="Gamemode_CTF">Protect your flag carrier to ensure their safe return</string>
+	<string key="ctf_gamemode_name" rel_version="Gamemode_CTF">Capture The Flag</string>
+	<string key="ctf_gamemode_description" rel_version="Gamemode_CTF">Capture the Flag is a fast paced, team oriented game mode that requires both offensive and defensive tactics. Defend your base while stealing the enemy's flag to win.</string>
+	<string key="ctf_Map_Template_Name" rel_version="Gamemode_CTF" comment="DO NOT TRANSLATE">[PH] CTF - Unnamed Test Map</string>
+	<string key="ctf_Map_Temp_Name" rel_version="Gamemode_CTF" comment="DO NOT TRANSLATE">[PH] CTF - Unnamed Test Map</string>
+	<string key="ctf_002_Wide_Map_Name" rel_version="Gamemode_CTF">CTF Preview</string>
+	<string key="ctf_003_Long_Map_Name" rel_version="Gamemode_CTF">CTF Preview</string>
+	<string key="ctf_flag_carrier_debuff_icon_name" rel_version="Gamemode_CTF">Flag Carrier!</string>
+	<string key="ctf_flag_carrier_debuff_icon_desc" rel_version="Gamemode_CTF">You are the Flag Carrier! You are now more vulnerable to enemy attacks and receive less healing.</string>
+	<string key="CTF_Powerup_Damage_Empower_Name" rel_version="Gamemode_CTF">Attack Power-up</string>
+	<string key="CTF_Powerup_Damage_Empower_Desc" rel_version="Gamemode_CTF">+20% Empowered for 10 seconds. This effect can not be dispelled.</string>
+	<string key="CTF_Powerup_Speed_Name" rel_version="Gamemode_CTF">Haste Power-up</string>
+	<string key="CTF_Powerup_Speed_Desc" rel_version="Gamemode_CTF">+50% Haste for 5 seconds.</string>
+	<string key="CTF_Powerup_Healing_Name" rel_version="Gamemode_CTF">Health Power-up</string>
+	<string key="CTF_Powerup_Healing_Desc" rel_version="Gamemode_CTF">Gains 8000 HP when collected. (Gear can affect the total)</string>
+	<string key="ctf_blue_team" rel_version="Gamemode_CTF">&lt;font color="#45d1ff"&gt;Blue Team&lt;/font&gt;</string>
+	<string key="ctf_red_team" rel_version="Gamemode_CTF">&lt;font color="#f25d5d"&gt;Red Team&lt;/font&gt;</string>
+	<string key="ctf_flag_dropped" rel_version="Gamemode_CTF">Your flag was dropped</string>
+	<string key="ctf_flag_picked_up" rel_version="Gamemode_CTF">Your flag was taken</string>
+	<string key="ctf_flag_returned" rel_version="Gamemode_CTF">Your flag was returned</string>
+	<string key="ctf_wild_flag_dropped" rel_version="Gamemode_CTF">Neutral flag was dropped</string>
+	<string key="ctf_wild_flag_picked_up" rel_version="Gamemode_CTF">Neutral flag was taken</string>
+	<string key="ctf_wild_flag_returned" rel_version="Gamemode_CTF">Neutral flag was returned</string>
+	<string key="ctf_flag_scored" rel_version="Gamemode_CTF">Your team has scored</string>
+	<string key="ctf_flag_you_scored" rel_version="Gamemode_CTF">You Have Scored!</string>
+	<string key="ctf_flag_our_team_scored" rel_version="Gamemode_CTF">Our Team Scored!</string>
+	<string key="ctf_flag_enemy_team_scored" rel_version="Gamemode_CTF">Enemy Team Scored</string>
+	<string key="ctf_flag_away_from_base" rel_version="Gamemode_CTF">Your flag must be returned before scoring</string>
+	<string key="ctf_flag_status_safe" rel_version="Gamemode_CTF">Flag Safe</string>
+	<string key="ctf_flag_status_dropped" rel_version="Gamemode_CTF">Flag Dropped</string>
+	<string key="ctf_flag_status_taken" rel_version="Gamemode_CTF">Flag Taken</string>
+	<string key="ctf_flag_wild_timer" rel_version="Gamemode_CTF">Spawns in {time}</string>
+	<string key="ctf_flag_wild_spawned" rel_version="Gamemode_CTF">Neutral Flag Spawned</string>
+	<string key="ctf_flag_match_completed" rel_version="Gamemode_CTF">Match Completed</string>
+	<string key="ctf_flag_player_count" rel_version="Gamemode_CTF">Players: {count}</string>
+	<string key="ctf_overtime_banner_title" rel_version="Gamemode_CTF">Overtime</string>
+	<string key="ctf_overtime_banner_desc" rel_version="Gamemode_CTF">Next Flag Wins!</string>
+	<string key="ctf_eom_stat_captures" rel_version="Gamemode_CTF">Captures</string>
+	<string key="ctf_eom_stat_captures_team_flags" rel_version="Gamemode_CTF">Team Flags</string>
+	<string key="ctf_eom_stat_captures_neutral_flags" rel_version="Gamemode_CTF">Neutral Flags</string>
+	<string key="ctf_eom_stat_flag_returns" rel_version="Gamemode_CTF">Flags Returned</string>
+	<string key="ctf_eom_stat_flagbearers_killed" rel_version="Gamemode_CTF">Flagbearers Killed</string>
+	<string key="ui_ctf_leave" rel_version="Gamemode_CTF">Leave Activity</string>
+	<string key="ui_cannot_travel_ctf" rel_version="Gamemode_CTF">You cannot fast travel in Capture The Flag.</string>
+	<string key="ui_ctf_leave_desc" rel_version="Gamemode_CTF">Are you sure you want to leave Capture The Flag?</string>
+	<string key="ui_ctf_leave_desc_time" rel_version="Gamemode_CTF">Are you sure you want to leave Capture The Flag?\nYou will be unable to queue for Capture The Flag again for &lt;font color="#edc63e"&gt;[{time}]&lt;/font&gt;.</string>
+	<string key="ui_opr_no_perks_title" rel_version="Feature_DisabledPerkGameModes">Outpost Rush: Barebones</string>
+	<string key="ui_opr_no_perks_signup_desc_cross_world" rel_version="Feature_DisabledPerkGameModes">Best in slot gear not required! Join this new spin on Outpost Rush that disables all gear perks and lifts them to max gear score, leveling the playing field.\n\n&lt;font color="#edc63e"&gt;Gear Score Scaling&lt;/font&gt; increases the gear score of all equipment below 725 to 725.</string>
+	<string key="ui_opr_no_perks_signup_goal1" rel_version="Feature_DisabledPerkGameModes">Capture and hold Outposts to score</string>
+	<string key="ui_opr_no_perks_signup_goal2" rel_version="Feature_DisabledPerkGameModes">The first team to score 1,000 points wins</string>
+	<string key="ui_opr_no_perks_signup_goal3" rel_version="Feature_DisabledPerkGameModes">Utilize special resources to attack &amp; defend</string>
+	<string key="ui_ctf_signup_goal1" rel_version="Gamemode_CTF" comment="DO NOT TRANSLATE">TEMP CTF TIP 1</string>
+	<string key="ui_ctf_signup_goal2" rel_version="Gamemode_CTF" comment="DO NOT TRANSLATE">TEMP CTF TIP 2</string>
+	<string key="ui_ctf_signup_goal3" rel_version="Gamemode_CTF" comment="DO NOT TRANSLATE">TEMP CTF TIP 3</string>
 </resources>
 

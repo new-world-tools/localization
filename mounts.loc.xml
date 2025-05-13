@@ -45,6 +45,8 @@
 	<string key="ui_mount_summon_failed_trial_interrupt" rel_version="Feature_Mounts">Entered Trial</string>
 	<string key="ui_mount_summon_failed_opr" rel_version="Feature_Mounts">Cannot Summon in Outpost Rush</string>
 	<string key="ui_mount_summon_failed_opr_interrupt" rel_version="Feature_Mounts">Entered Outpost Rush</string>
+	<string key="ui_mount_summon_failed_ctf" rel_version="Gamemode_CTF">Cannot Summon in Capture the Flag</string>
+	<string key="ui_mount_summon_failed_ctf_interrupt" rel_version="Gamemode_CTF">Entered Capture The Flag</string>
 	<string key="ui_mount_summon_failed_arena3v3" rel_version="Feature_Mounts">Cannot Summon in 3v3 Arena</string>
 	<string key="ui_mount_summon_failed_arena3v3_interrupt" rel_version="Feature_Mounts">Entered 3v3 Arena</string>
 	<string key="ui_mount_summon_failed_duel" rel_version="Feature_Mounts">Cannot Summon in Duel</string>
@@ -317,5 +319,7 @@
 	<string key="ui_mounts_bear_Panda_description" rel_version="Season_7_Perm">No matter how big she grows, she always loves to cuddle. And eat bamboo.</string>
 	<string key="ui_mounts_MTX_1_turkey_name" rel_version="Feature_Mounts_Turkey">Drumstick</string>
 	<string key="ui_mounts_MTX_1_turkey_description" rel_version="Feature_Mounts_Turkey">A turkey for riding, not eating.\n\nNOTE: This mount cannot be dyed, and it does not display attachments.</string>
+	<string key="Mount_Horse_Gothic_11_Name" rel_version="Season_8_Perm">Abigail</string>
+	<string key="Mount_Horse_Gothic_11_Description" rel_version="Season_8_Perm">A horse with a penchant for drama.</string>
 </resources>
 

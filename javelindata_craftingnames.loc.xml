@@ -1984,6 +1984,10 @@
 	<string key="Procedural_CoatingAeternianT3" rel_version="Season_1_Perm">Strong Human Coating</string>
 	<string key="Procedural_CoatingAeternianT4" rel_version="Season_1_Perm">Powerful Human Coating</string>
 	<string key="Procedural_CoatingAeternianT5" rel_version="Season_1_Perm">Infused Human Coating</string>
+	<string key="SB_WispySpritz" rel_version="Event_SpringtideBloom_Temp">Wispy Spritz</string>
+	<string key="SB_WispybloomToken" rel_version="Event_SpringtideBloom_Temp">Spring Token - Wispybloom Petals</string>
+	<string key="SB_WispygooToken" rel_version="Event_SpringtideBloom_Temp">Premium Token - Wispy Wasp Goo</string>
+	<string key="SB_DowngradePremiumSummerToken" rel_version="Event_SpringtideBloom_Temp">Downgrade Premium to Regular Tokens</string>
 	<string key="Procedural_1hFlailT2" rel_version="Weapon_Flail">Iron Flail</string>
 	<string key="Procedural_1hFlailT3" rel_version="Weapon_Flail">Steel Flail</string>
 	<string key="Procedural_1hFlailT4" rel_version="Weapon_Flail">Starmetal Flail</string>
@@ -2031,22 +2035,29 @@
 	<string key="CraftArtifact_Set2_HeavyChest_Name" rel_version="Feature_Artifacts_S6">Survivor's Coat Upgrade At the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set2_HeavyHands_Name" rel_version="Feature_Artifacts_S5">Gilli's Gravity Gauntlets Upgrade At the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set2_HeavyLegs_Name" rel_version="Feature_Artifacts_S5">Ironheart Upgrade At the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set2_HeavyFeet_Name" rel_version="Feature_Artifacts_S8">Runic Greaves Upgrade At the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set2_MediumHead_Name" rel_version="Feature_Artifacts_S8">Old Crown Upgrade At the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set2_MediumChest_Name" rel_version="Feature_Artifacts_S5">Nature's Wrath Upgrade At the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set2_MediumHands_Name" rel_version="Feature_Artifacts_S6">Ghostly Touch Upgrade At the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set2_MediumLegs_Name" rel_version="Feature_Artifacts_S6">Azoth Conductors Upgrade At the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set2_LightHead_Name" rel_version="Feature_Artifacts_S6">Cowl of Power Upgrade At the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set2_LightChest_Name" rel_version="Feature_Artifacts_S8">Vampire Vestments Upgrade At the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set2_LightHands_Name" rel_version="Feature_Artifacts_S8">Lich Gloves Upgrade At the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set2_LightFeet_Name" rel_version="Feature_Artifacts_S5">Creed Boots Upgrade At the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set2_1hLongsword_Name" rel_version="Feature_Artifacts_S8">Wit Upgrade At the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set2_1hThrowingAxe_Name" rel_version="Feature_Artifacts_S5">Sin Upgrade At the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set2_2hWarhammer_Name" rel_version="Feature_Artifacts_S6">Trsna Upgrade At the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set2_2hGreatAxe_Name" rel_version="Feature_Artifacts_S5">Tempest Fury Upgrade At the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set2_2hBow_Name" rel_version="Feature_Artifacts_S7">Aconite Upgrade At the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set2_2hMusket_Name" rel_version="Feature_Artifacts_S7">Shrapnel Upgrade At the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set2_1hTowerShield_Name" rel_version="Feature_Artifacts_S8">Relentless Upgrade At the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set2_2hStaffFire_Name" rel_version="Feature_Artifacts_S7">Burnanator Upgrade At the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set2_2hStaffLife_Name" rel_version="Feature_Artifacts_S7">Heceta Upgrade At the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set2_2hSpear_Name" rel_version="Feature_Artifacts_S5">Venom Upgrade At the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set2_1hRapier_Name" rel_version="Feature_Artifacts_S7">Dorgort's Blade Upgrade At the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set2_1hGauntletIce_Name" rel_version="Feature_Artifacts_S7">Otzi Upgrade At the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set2_1hGauntletVoid_Name" rel_version="Feature_Artifacts_S7">Fracture Upgrade At the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set2_2hBlunderbuss_Name" rel_version="Feature_Artifacts_S8">Chaos Upgrade At the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set2_2hGreatSword_Name" rel_version="Feature_Artifacts_S6">Grace Upgrade At the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set2_1hFlail_Name" rel_version="Feature_Artifacts_S6">Power Stone Upgrade At the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set2_Earring1_Name" rel_version="Feature_Artifacts_S7">Justice Upgrade At the Gypsum Kiln</string>
@@ -2056,5 +2067,11 @@
 	<string key="GorgonEssence" rel_version="Raid_CutlassKeys_00">Gorgon's Essence</string>
 	<string key="AzeritFocus" rel_version="Raid_CutlassKeys_00">Azerit Focus</string>
 	<string key="HercyneMutator_Combo" rel_version="Raid_CutlassKeys_00">Hive of Gorgons and Mutations Reward Cache</string>
+	<string key="2hWarhammer_MountainShakerT5_V3_Upgrade_Name" rel_version="Event_SpringtideBloom_2025_Perm">Mountain Shaker Upgrade At the Gypsum Kiln</string>
+	<string key="2hMusket_BurnweaverT5_V3_Upgrade_Name" rel_version="Event_SpringtideBloom_2025_Perm">Burnweaver Upgrade At the Gypsum Kiln</string>
+	<string key="2hSpear_BlazingBushHookT5_V3_Upgrade_Name" rel_version="Event_SpringtideBloom_2025_Perm">Blazing Bush Hook Upgrade At the Gypsum Kiln</string>
+	<string key="1hGauntletVoid_ForestsShadowT5_V3_Upgrade_Name" rel_version="Event_SpringtideBloom_2025_Perm">Forest's Shadow Upgrade At the Gypsum Kiln</string>
+	<string key="LightHead_BramblehelmT5_V3_Upgrade_Name" rel_version="Event_SpringtideBloom_2025_Perm">Bramblehelm Upgrade At the Gypsum Kiln</string>
+	<string key="LightLegs_TrailblazersLegGuardsT5_V3_Upgrade_Name" rel_version="Event_SpringtideBloom_2025_Perm">Trailblazer's Legguards Upgrade At the Gypsum Kiln</string>
 </resources>
 

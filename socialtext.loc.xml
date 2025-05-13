@@ -688,6 +688,7 @@
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_dungeon_queue_signup_fail">You cannot enter the Expedition Queue while in a Lobby.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_dungeon_queue_signup_fail_solo">You cannot enter the Soul Trial Queue while in a Lobby.</string>
 	<string rel_version="DailySoloTrials" key="ui_groupfinder_dungeon_queue_signup_fail_dailysolotrial">You cannot enter the Soul Trial Queue while in a Lobby.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_dungeon_queue_signup_fail_raidtrial">You cannot enter the Elite Trial Queue while in a Lobby.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_queue_hud_group_full">Group full</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_queue_hud_open_expedition">Open Expedition</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_queue_hud_min_players">A minimum of {amount} members are required to start this expedition.</string>
@@ -775,15 +776,16 @@
 	<string rel_version="DailySoloTrials" key="ui_pugfinder_activity_solo_trials_desc" comment="">Three random Soul Trials up-leveled and offered daily to provide increased challenge and new rewards. Revisit these pivotal story moments to exact revenge and earn valuable rewards.</string>
 	<string rel_version="DailySoloTrials" key="ui_pugfinder_activity_solo_trials_trialscompleted">Trials Completed</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_activity_elite_trials_name">Elite Trials</string>
-	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_activity_elite_trials_desc" comment="">Battle the colossal "Shah Neshen the Devourer" with up to 20 players in this Elite Trial.\n\nMinimum Of 12 Players\nLocal Groups Only</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_activity_elite_trials_desc" comment="">Battle the colossal "Shah Neshen the Devourer" with up to 20 players in this Elite Trial.</string>
 	<string rel_version="Raid_CutlassKeys_00" key="ui_pugfinder_activity_raids_name">Raids</string>
 	<string rel_version="Raid_CutlassKeys_00" key="ui_pugfinder_activity_raids_desc" comment="">Pursue Broodmother Medusa and stop her plans to dominate Aeternum with Raid Groups up to 10 Players.</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_activity_opr_desc" comment="">Be the first to 1000 points in this fast paced, 20v20 PvP experience. Capture control points while gathering resources to build your defenses and unlock tactical benefits for your team.</string>
+	<string rel_version="Feature_DisabledPerkGameModes" key="ui_pugfinder_activity_opr_no_perks_desc" comment="">Best in slot gear not required! Join this new spin on Outpost Rush that disables all gear perks and lifts them to max gear score, leveling the playing field.</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_activity_pvp_arena_desc" comment="">Battle other players in this 3v3 Arena to earn special PvP rewards.</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_daily_bonus">Daily Bonus</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_fastest_experience">Fastest Experience</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_remaining_attempts">Remaining Attempts</string>
-	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_highest_shared_dificutly_label">Queues All Mutator Levels</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_highest_shared_dificutly_label">Mutated Queue</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_highest_shared_dificutly_description">Queues your group for all difficulties (M1-M3) that you have in common. You will receive a Carry Bonus if you are matched into a lower difficulty and complete it. \n\n Daily Limit: {currentCount}/{dailyLimit}   &lt;img src="LyShineUI/Images/Icons/Misc/icon_hourglass.png" scale="1.5" yOffset="3.5"&gt;&lt;/img&gt; Resets In: {resetTime}</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_highest_shared_dificutly_no_carry_bonus_description">Queues your group for all difficulties (M1-M3) that you have in common.</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_highest_shared_dificutly_description_M1_M2_Only">Queues your group for any M1 or M2 that you have in common. If you’ve unlocked a higher difficulty than where you are placed, you’ll receive a Carry Bonus upon completion of the expedition.\n\nDaily Limit: {currentCount}/{dailyLimit}   &lt;img src="LyShineUI/Images/Icons/Misc/icon_hourglass.png" scale="1.5" yOffset="3.5"&gt;&lt;/img&gt; Resets In: {resetTime}</string>
@@ -852,18 +854,18 @@
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_raid_group_tooltip">You cannot request to join a matchmaking queue while in a Raid Group.</string>
 	<string rel_version="Territory_CutlassKeys_Rework" key="ui_pugfinder_ffa_tooltip">You cannot request to join a matchmaking queue while in Free-For-All PVP.</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_no_azoth_staff">You must equip an azoth staff in order to queue for this game mode.</string>
-	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_no_azoth_staff_simple">&lt;img src="LyShineUI/Images/Icons/Misc/icon_exclamation" scale="1.5" yOffset="3.5"&gt;&lt;/img&gt; &lt;font color={color}&gt; Azoth Staff Not Equipped&lt;/font&gt;</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_no_azoth_staff_simple">&lt;img src="LyShineUI/Images/Icons/Misc/icon_exclamation" scale="1.5" yOffset="3.5"&gt;&lt;/img&gt; &lt;font color={color}&gt;  Azoth Staff Not Equipped&lt;/font&gt;</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_group_full_tooltip">You cannot request to join a matchmaking queue while your group is full.</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_ineligible_unhandled_tooltip">You cannot request to join a matchmaking queue at this time.</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_M3s_disabled_tooltip">Elite Mutations (M3) are only available for Local Groups.</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_button_cancel_queue">Leave Queue</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_button_select_role">Select Role</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_button_decline">Decline</string>
-	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_requirement_azoth_staff">&lt;img src="{icon}" scale="1.5" yOffset="3.5"&gt;&lt;/img&gt; &lt;font color={color}&gt; Azoth Staff Equipped&lt;/font&gt;</string>
-	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_requirement_level">&lt;img src="{icon}" scale="1.5" yOffset="3.5"&gt;&lt;/img&gt; &lt;font color={color}&gt; Reach Level {minLevel}&lt;/font&gt;</string>
-	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_requirement_mutation">&lt;img src="{icon}" scale="1.5" yOffset="3.5"&gt;&lt;/img&gt; &lt;font color={color}&gt; Complete {name}&lt;/font&gt;</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_requirement_azoth_staff">&lt;font color={color}&gt;Azoth Staff Equipped&lt;/font&gt;</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_requirement_level">&lt;font color={color}&gt;Level {minLevel}&lt;/font&gt;</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_requirement_mutation">&lt;font color={color}&gt;Complete {name}&lt;/font&gt;</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_requirement_group_size">&lt;img src="LyShineUI/Images/icons/chat/channelgroup" scale="1.5" yOffset="3.5"&gt;&lt;/img&gt; {minPlayers} - {maxPlayers} Players</string>
-	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_requirement_gear_score_range">&lt;img src="LyShineUI/Images/Icons/Misc/icon_gearscore" scale="1.5" yOffset="3.5"&gt;&lt;/img&gt; {minGearScore} - {maxGearScore}</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_requirement_gear_score_range">&lt;font color={color}&gt;{minGearScore} - {maxGearScore}&lt;/font&gt;</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_requirement_gear_score_mutation">M{difficulty} {gearScore}</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_click_here_join_group">Click here for option to enter M3 with group</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_requirement_gear_score">{gearScore}</string>
@@ -904,6 +906,17 @@
 	<string rel_version="Feature_PUG_Finder" key="matchmaking_mutation_activity">Mutated Expedition(s)</string>
 	<string rel_version="Feature_PUG_Finder" key="matchmaking_requirements_replacement_when_M3s_disabled">Cannot matchmake with M3s. Use Enter With Group above.</string>
 	<string rel_version="Feature_PUG_Finder" key="matchmaking_queue_hud_already_accepted_match_tooltip">You are unable to leave the queue once a match invite has been accepted.</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_requirements_groupsize_range">&lt;font color={color}&gt;Minimum/Maximum Players: {minPlayers}-{maxPlayers}&lt;/font&gt;</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_requirements_local_groups_only">Local Groups Only</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_not_in_raid_group">&lt;font color={color}&gt;Must be in a raid group&lt;/font&gt;</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_in_raid_group">&lt;font color={color}&gt;Raid group&lt;/font&gt;</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_requirements_groupsize_single">&lt;font color={color}&gt;Maximum Players: 1&lt;/font&gt;</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_content_not_active">Content is not active yet</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_content_no_longer_available">Content is no longer available</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_content_disabled">Content is currently disabled</string>
+	<string rel_version="Seasonal_Server_2" key="ui_matchmaking_disabled_in_world">Disabled in this world</string>
+	<string rel_version="Seasonal_Server_2" key="ui_deaths_door_fallen_warning">Stay alive for better rewards.</string>
+	<string rel_version="Seasonal_Server_2" key="ui_respawn_fallen_warning">You've Fallen. You have more power but will earn fewer rewards.</string>
 	<string rel_version="Feature_Crossplay" key="ui_error_whisper_crossplay_communication_off">User is on another platform. Change crossplay communication setting to send whisper</string>
 	<string key="ui_communication_restricted_by_platform">Communication restricted by Platform.</string>
 	<string key="ui_group_invites_restricted_gamemode">Group invites are unavailable while in a matchmade activity.</string>

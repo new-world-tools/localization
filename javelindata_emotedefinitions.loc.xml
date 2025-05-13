@@ -612,5 +612,20 @@
 	<string key="ui_Emote_Mantrum_description" rel_version="Entitlements_Barbarian">When you just have to give the floor what for.</string>
 	<string key="ui_Emote_Mantrum_name" rel_version="Entitlements_Barbarian">One-Man Brawl</string>
 	<string key="Emote_Mantrum" rel_version="Entitlements_Barbarian">{playerName} picks a fight with the ground.</string>
+	<string key="Emote_BarbershopExit" rel_version="Feature_Barbershop">{playerName} checks out their new look.</string>
+	<string key="ui_Emote_BrushShoulder_name" rel_version="Season_8_Perm">Brush Shoulder</string>
+	<string key="ui_Emote_BrushShoulder_description" rel_version="Season_8_Perm">For when you didn't even break a sweat.</string>
+	<string key="Emote_BrushShoulder" rel_version="Season_8_Perm">{playerName} brushes the dust off his shoulder.</string>
+	<string key="Emote_BrushShoulder_SHE" rel_version="Season_8_Perm">{playerName} brushes the dust off her shoulder.</string>
+	<string key="Emote_BrushShoulder_THEY" rel_version="Season_8_Perm">{playerName} brushes the dust off their shoulder.</string>
+	<string key="ui_Emote_Walk_MyrkMarch_name" rel_version="Season_8_Perm">Myrkgard March</string>
+	<string key="ui_Emote_Walk_MyrkMarch_description" rel_version="Season_8_Perm">Legends say Thorpe taught this strange maneuver to only his finest warriors.</string>
+	<string key="Emote_Walk_MyrkMarch" rel_version="Season_8_Perm">{playerName} marches to a bizzare rhythm.</string>
+	<string key="ui_Emote_Walk_NinjaRun_name" rel_version="Season_8_Perm">Ninja Run</string>
+	<string key="ui_Emote_Walk_NinjaRun_description" rel_version="Season_8_Perm">Run with the shadows, swift as the wind.</string>
+	<string key="Emote_Walk_NinjaRun" rel_version="Season_8_Perm">{playerName} runs like a ninja!</string>
+	<string key="ui_Emote_TouchGrass_name" rel_version="Season_8_Perm">Touch Grass</string>
+	<string key="ui_Emote_TouchGrass_description" rel_version="Season_8_Perm">It's good for you.</string>
+	<string key="Emote_TouchGrass" rel_version="Season_8_Perm">{playerName} touches the beautiful, luscious grass.</string>
 </resources>
 

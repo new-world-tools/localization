@@ -38,11 +38,11 @@
 	<string key="ui_dungeon_requirements_recommended">Recommended:</string>
 	<string key="ui_dungeon_requirements_matchmaking_staff" rel_version="Feature_Group_Finder">Azoth Staff</string>
 	<string key="ui_flyout_recommended_groupsize">Recommended Players: {players}</string>
-	<string key="ui_dungeon_requirements_equipment_warning">Your group must have at least &lt;font color="#ebe3d6"&gt;{item}&lt;/font&gt;.</string>
-	<string key="ui_dungeon_requirements_equipment_warning_solo">You must have at least &lt;font color="#ebe3d6"&gt;{item}&lt;/font&gt;.</string>
-	<string key="ui_dungeon_requirements_equipment_warning_dailysolotrial" rel_version="DailySoloTrials">You must have at least &lt;font color="#ebe3d6"&gt;{item}&lt;/font&gt;.</string>
-	<string key="ui_dungeon_requirements_equipment_warning_raidtrial">You must have at least &lt;font color="#ebe3d6"&gt;{item}&lt;/font&gt;.</string>
-	<string key="ui_dungeon_requirements_equipment_warning_seasontrial" rel_version="Season_2_Perm">You must have at least &lt;font color="#ebe3d6"&gt;{item}&lt;/font&gt;.</string>
+	<string key="ui_dungeon_requirements_equipment_warning">Requires {item}</string>
+	<string key="ui_dungeon_requirements_equipment_warning_solo">Requires {item}</string>
+	<string key="ui_dungeon_requirements_equipment_warning_dailysolotrial" rel_version="DailySoloTrials">Requires {item}</string>
+	<string key="ui_dungeon_requirements_equipment_warning_raidtrial">Requires {item}</string>
+	<string key="ui_dungeon_requirements_equipment_warning_seasontrial" rel_version="Season_2_Perm">Requires {item}</string>
 	<string key="ui_dungeon_reward_level">The quality of the overall loot increases as difficulty level increases.\n\nItems you find may vary from the listed items based on their Gear Score.</string>
 	<string key="ui_dungeon_reward_title_regular">Expedition Rewards</string>
 	<string key="ui_dungeon_reward_title_mutation">Mutator Rewards</string>
@@ -179,6 +179,11 @@
 	<string key="ui_dungeon_queued_blocked_raidtrial">Enter</string>
 	<string key="ui_dungeon_queued_blocked_seasontrial" rel_version="Season_2_Perm">Enter</string>
 	<string key="ui_dungeon_outpost_rush">You are already in a queue for Outpost Rush.</string>
+	<string key="ui_dungeon_level_not_met">You do not meet the level requirement for this Expedition.</string>
+	<string key="ui_dungeon_level_not_met_solo">You do not meet the level requirement for this Soul Trial.</string>
+	<string key="ui_dungeon_level_not_met_raidtrial">You do not meet the level requirement for this Elite Trial.</string>
+	<string key="ui_dungeon_level_not_met_seasontrial" rel_version="Season_2_Perm">You do not meet the level requirement for this Seasonal Trial.</string>
+	<string key="ui_dungeon_level_not_met_dailysolotrial" rel_version="DailySoloTrials">You do not meet the level requirement for this Daily Soul Trial.</string>
 	<string key="ui_dungeon_expiring">Leaving in</string>
 	<string key="ui_dungeon_expiring_solo">Leaving in</string>
 	<string key="ui_dungeon_expiring_raidtrial">Leaving in</string>
@@ -290,7 +295,6 @@
 	<string key="ui_dungeon_mutator_special_reward_tooltip" rel_version="Feature_Dungeon_Mutators">Umbral Shards are rewarded based on your rank when the Expedition is completed.\n\nUnlock the next Expedition difficulty with Silver rank or higher.</string>
 	<string key="ui_dungeon_mutator_hud_points_shorthand" rel_version="Feature_Dungeon_Mutators">&lt;font color="#b2aea1" &gt;pt&lt;/font&gt;</string>
 	<string key="ui_dungeon_mutator_difficulty_not_unlocked" rel_version="Feature_Dungeon_Mutators">This difficulty has not been unlocked yet.</string>
-	<string key="ui_dungeon_mutator_level_not_met" rel_version="Feature_Dungeon_Mutators">You do not meet the level requirement for this Expedition.</string>
 	<string key="Mut_Disease_1_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Enemies apply a stacking Disease on hit, reducing incoming healing by {[-0.025000 * -100]}% per stack.</string>
 	<string key="Mut_Disease_2_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Enemies apply a stacking Disease on hit, reducing incoming healing by {[-0.025000 * -100]}/{[-0.050000 * -100]}% per stack.</string>
 	<string key="Mut_RotatingBeam_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Enemies cast slicing beams that deal {[-0.3 * -100]}% base Void damage when touched.</string>
@@ -479,6 +483,8 @@
 	<string key="ui_elitetrial_map_weekly_count" rel_version="Season_2_Perm">{count} / {max} Weekly Reward Collected</string>
 	<string key="ui_elitetrial_banner_daily_count" rel_version="Season_2_Perm">{count}/{max} Daily</string>
 	<string key="ui_elitetrial_banner_weekly_count" rel_version="Season_2_Perm">{count}/{max} Weekly</string>
+	<string key="ui_dungeon_enter_daily_limit_reached">Daily Limit Reached: &lt;img src="lyshineui/images/icons/misc/icon_hourglass" scale="1.1" yOffset="1.0"&gt;&lt;/img&gt; &lt;font color={timeColor} face="lyshineui/fonts/Nimbus_Regular.font"&gt;{timeText}&lt;/font&gt;</string>
+	<string key="ui_dungeon_enter_weekly_limit_reached">Weekly Limit Reached: &lt;img src="lyshineui/images/icons/misc/icon_hourglass" scale="1.1" yOffset="1.0"&gt;&lt;/img&gt; &lt;font color={timeColor} face="lyshineui/fonts/Nimbus_Regular.font"&gt;{timeText}&lt;/font&gt;</string>
 	<string key="Respawn_EntranceNameTrial" rel_version="Trial_Brimstone_Sandworm">Trial Entrance</string>
 </resources>
 

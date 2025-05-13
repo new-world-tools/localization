@@ -318,6 +318,8 @@
 	<string rel_version="Feature_Raid_Groups" key="ui_faction_invite_error_pvp_raid">You cannot invite someone from another faction to a PvP Raid</string>
 	<string rel_version="Feature_Raid_Groups" key="ui_raid_group_screen_header">Manage Raid</string>
 	<string rel_version="Feature_Raid_Groups" key="ui_raid_group_manage_hint">Manage Raid</string>
+	<string rel_version="Seasonal_Server_2" key="ui_group_unfallen">(Unfallen)</string>
+	<string rel_version="Seasonal_Server_2" key="ui_group_fallen">(Fallen)</string>
 	<string rel_version="Feature_Raid_Groups" key="ui_raid_raidgroups">Groups</string>
 	<string rel_version="Feature_Raid_Groups" key="ui_raid_group_status_header">Options</string>
 	<string rel_version="Feature_Raid_Groups" key="ui_raid_group_your_role">Your Role:</string>

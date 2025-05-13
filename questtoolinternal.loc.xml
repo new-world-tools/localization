@@ -86,5 +86,10 @@
 	<string key="ObjectiveTaskType_NONE_tooltip">NONE</string>
 	<string key="ObjectiveTaskType_TASKREPAIRITEM_tooltip">DO NOT USE</string>
 	<string key="ObjectiveTaskType_TASKBUILDSTRUCTURE_tooltip">DO NOT USE</string>
+	<string key="BackupDirectoryKey_0">QuestToolV2/BackupRecoveryData</string>
+	<string key="BackupLocalizationDirectoryKey_0">Localization</string>
+	<string key="BackupLocalizationHistoryKey_0">LocalizationHistory.xml</string>
+	<string key="BackupLocalizationHelperKey_0">LocalizationHelper.txt</string>
+	<string key="BackupLocalizationSafeDirectoryKey_0">UnrecoveredLocalization</string>
 </resources>
 
