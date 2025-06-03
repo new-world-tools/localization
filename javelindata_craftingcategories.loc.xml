@@ -1769,7 +1769,6 @@
 	<string key="Tokens_GroupName">Event Tokens</string>
 	<string key="TokenCreation_GroupName">Token Creation</string>
 	<string key="TokenConversion_GroupName">Token Conversion</string>
-	<string key="SB_WispySpritzCraft" rel_version="Event_SpringtideBloom_Temp">Wispy Spritz</string>
 	<string key="ToolHatchet_GroupDesc">1-Handed. Gathers wood.</string>
 	<string key="ToolHatchet_GroupName">Hatchet</string>
 	<string key="ToolsGathering_GroupName">Gathering Tools</string>
@@ -2062,16 +2061,16 @@
 	<string key="OPRBetas_GroupName">OPR betas</string>
 	<string key="ReekwaterUplevelRare_GroupName" rel_version="Season_8_Perm">Rare</string>
 	<string key="ReekwaterUplevelCommon_GroupName" rel_version="Season_8_Perm">Common</string>
-	<string key="AdventurerCaches_GroupName" rel_version="Seasonal_server_2">Adventurer's Caches</string>
-	<string key="AdventurersEquipment_GroupName" rel_version="Seasonal_server_2">Equipment</string>
-	<string key="AdventurersConsumables_GroupName" rel_version="Seasonal_server_2">Consumables</string>
-	<string key="AdventurersItems_GroupName" rel_version="Seasonal_server_2">Items</string>
-	<string key="S8CacheCraft_GroupName" rel_version="Seasonal_server_2">Season 8 Crafting</string>
-	<string key="OrichalciteRecipes_GroupName" rel_version="Seasonal_server_2">Orichalcite Recipes</string>
-	<string key="OrichalciteArmors_GroupName" rel_version="Seasonal_server_2">Orichalcite Armors</string>
-	<string key="OrichalciteWeapons_GroupName" rel_version="Seasonal_server_2">Orichalcite Weapons</string>
-	<string key="OrichalciteJewelry_GroupName" rel_version="Seasonal_server_2">Orichalcite Jewelry</string>
-	<string key="RuneResinRecipes_GroupName" rel_version="Seasonal_server_2">Runewood Resin Recipes</string>
-	<string key="RuneResinTrophies_GroupName" rel_version="Seasonal_server_2">Runewood Resin Trophies</string>
+	<string key="AdventurerCaches_GroupName" rel_version="Seasonal_Server_2">Adventurer's Caches</string>
+	<string key="AdventurersEquipment_GroupName" rel_version="Seasonal_Server_2">Equipment</string>
+	<string key="AdventurersConsumables_GroupName" rel_version="Seasonal_Server_2">Consumables</string>
+	<string key="AdventurersItems_GroupName" rel_version="Seasonal_Server_2">Items</string>
+	<string key="S8CacheCraft_GroupName" rel_version="Seasonal_Server_2">Season 8 Crafting</string>
+	<string key="OrichalciteRecipes_GroupName" rel_version="Seasonal_Server_2">Orichalcite Recipes</string>
+	<string key="OrichalciteArmors_GroupName" rel_version="Seasonal_Server_2">Orichalcite Armors</string>
+	<string key="OrichalciteWeapons_GroupName" rel_version="Seasonal_Server_2">Orichalcite Weapons</string>
+	<string key="OrichalciteJewelry_GroupName" rel_version="Seasonal_Server_2">Orichalcite Jewelry</string>
+	<string key="RuneResinRecipes_GroupName" rel_version="Seasonal_Server_2">Runewood Resin Recipes</string>
+	<string key="RuneResinTrophies_GroupName" rel_version="Seasonal_Server_2">Runewood Resin Trophies</string>
 </resources>
 

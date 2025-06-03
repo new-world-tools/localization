@@ -967,13 +967,13 @@
 	<string key="PerkID_Amulet_DodgeBurn_DurRed_Name" rel_version="Season8Perks">Stop, Drop, and Roll</string>
 	<string key="PerkID_Amulet_DodgeBurn_DurRed_Description" rel_version="Season8Perks">Dodging will reduce the current duration of all Burn damage over time effects on you by {[-0.250000 * -100]}%.</string>
 	<string key="PerkID_Weapon_RendingStacks_Name" rel_version="Season8Perks">Sundering Stacks</string>
-	<string key="PerkID_Weapon_RendingStacks_Description" rel_version="Season8Perks">Attack inflicts a stack of {[-0.040000 * -100]}% Rend, each stack lasting {[6.000000]}s. (Max {[5.000000]} stacks)</string>
+	<string key="PerkID_Weapon_RendingStacks_Description" rel_version="Season8Perks">Once every {[0.500000]}s, attack inflicts a stack of {[-0.040000 * -100]}% Rend, each stack lasting {[6.000000]}s. (Max {[5.000000]} stacks)</string>
 	<string key="PerkID_Feet_HasteOnVault_Name" rel_version="Season8Perks">Hardcore Parkour</string>
 	<string key="PerkID_Feet_HasteOnVault_Description" rel_version="Season8Perks">Gain {[0.180000 * 100]}% haste for {[5.000000]}s after triggering a traversal action.</string>
 	<string key="PerkID_Weapon_Melee_AlternateAttacks_Name" rel_version="Season8Perks">Alternating Enchantment</string>
 	<string key="PerkID_Weapon_Melee_AlternateAttacks_Description" rel_version="Season8Perks">Hitting with a basic attack will increase the base damage of the next ability hit within {[5.000000]}s by {[0.100000 * 100]}%, and hitting with an ability will increase the base damage of the next basic attack within {[5.000000]}s by {[0.100000 * 100]}%.</string>
 	<string key="PerkID_Chest_HealthStam_Synergy_Name" rel_version="Season8Perks">Vital Synergy</string>
-	<string key="PerkID_Chest_HealthStam_Synergy_Description" rel_version="Season8Perks">While health is below 50%, gain {[0.200000 * 100]}% Stamina regen rate, while stamina is below 50%, incoming healing is increased by {[0.200000 * 100]}%.</string>
+	<string key="PerkID_Chest_HealthStam_Synergy_Description" rel_version="Season8Perks">While health is below 50%, gain {[0.150000 * 100]}% Stamina regen rate, while stamina is below 50%, incoming healing is increased by {[0.150000 * 100]}%.</string>
 	<string key="PerkID_Armor_ConsumableHealing_Name" rel_version="Season8Perks">Anointed Potions</string>
 	<string key="PerkID_Armor_ConsumableHealing_Description" rel_version="Season8Perks">{[0.030000 * 100]}% increased healing from Consumables.</string>
 	<string key="PerkID_Armor_LifestealHealing_Name" rel_version="Season8Perks">Anointed Lifesteal</string>
@@ -1854,7 +1854,7 @@
 	<string key="PerkID_HeartgemRune_StoneForm_Greater_Name">Hardened Form</string>
 	<string key="PerkID_HeartgemRune_StoneForm_Greater_Description">Gain an additional {[0.100000 * 100]}% armor for {[5.000000]}s per hit taken (+{[0.100000 * 3.000000 * 100]}% max).</string>
 	<string key="PerkID_HeartgemRune_StoneForm_Survivor_Name">Mending Form</string>
-	<string key="PerkID_HeartgemRune_StoneForm_Survivor_Description">Heal for {[0.650000 * 100]}% Heartrune damage per second while active. Reduce outgoing damage by {[-0.200000 * -100]}%.</string>
+	<string key="PerkID_HeartgemRune_StoneForm_Survivor_Description">Heal for {[0.520000 * 100]}% Heartrune damage per second while active. Reduce outgoing damage by {[-0.200000 * -100]}%.</string>
 	<string key="PerkID_HeartgemRune_StoneForm_Dominator_Name">Unstable Form</string>
 	<string key="PerkID_HeartgemRune_StoneForm_Dominator_Description">Stoneform explodes when it ends or when you press the Heartrune Ability input again, dealing {[2.000000 * 100]}% Heartrune damage within a {[3.000000]}m radius. Reduce its duration by {[-2.000000 * -1]}s.</string>
 	<string key="PerkID_HeartgemRune_CannonBlast_Major_Name">Burning Blast</string>
@@ -2717,7 +2717,7 @@
 	<string key="PerkID_Artifact_Set1_MediumHands_Desc">When you hit a foe that is below half health, transfer one debuff ({[3.000000]}s cooldown).</string>
 	<string key="PerkID_Artifact_Set1_MediumLegs_Name">+25 Amplify (top 2 attributes):</string>
 	<string key="PerkID_Artifact_Set1_MediumLegs_SecondaryName">Well Rounded</string>
-	<string key="PerkID_Artifact_Set1_MediumLegs_Desc">+{[10.000000]} to all attributes.</string>
+	<string key="PerkID_Artifact_Set1_MediumLegs_Desc">+{[11.000000]} to all attributes.</string>
 	<string key="PerkID_Artifact_Set1_MediumFeet_Name" rel_version="Feature_Artifacts_Set2">Speedy</string>
 	<string key="PerkID_Artifact_Set1_MediumFeet_Desc" rel_version="Feature_Artifacts_Set2">Base duration of hastes on you is increased by {[0.500000 * 100]}%, and deal {[0.100000 * 100]}% more base damage while hasted.</string>
 	<string key="PerkID_Artifact_Set1_LightHead_Name">Brilliance</string>
@@ -2799,15 +2799,15 @@
 	<string key="PerkID_Artifact_Set2_Earring1_Name" rel_version="Feature_Artifacts_S7">Alchemist's Ward</string>
 	<string key="PerkID_Artifact_Set2_Earring1_Desc" rel_version="Feature_Artifacts_S7">When you get hit {[20.000000]} times, gain a Potion Surge that will recharge your next survival potion instantly. ({[90.000000]}s cooldown) (Can't use multiple potion surges within {[75.000000]}s of each other)</string>
 	<string key="PerkID_Artifact_Set2_MediumHead_Name" rel_version="Feature_Artifacts_S8">Royal</string>
-	<string key="PerkID_Artifact_Set2_MediumHead_Desc" rel_version="Feature_Artifacts_S8">+{[10.000000]} to all attributes.</string>
+	<string key="PerkID_Artifact_Set2_MediumHead_Desc" rel_version="Feature_Artifacts_S8">+{[11.000000]} to all attributes.</string>
 	<string key="PerkID_Artifact_Set2_MediumHead_PhysGem_Name" rel_version="Feature_Artifacts_S8">Immaculate Onyx</string>
 	<string key="PerkID_Artifact_Set2_MediumHead_PhysGem_Desc" rel_version="Feature_Artifacts_S8">+{[0.030000 * 100]}% Physical Damage Absorption.</string>
 	<string key="PerkID_Artifact_Set2_MediumHead_ElemGem_Name" rel_version="Feature_Artifacts_S8">Immaculate Opal</string>
 	<string key="PerkID_Artifact_Set2_MediumHead_ElemGem_Desc" rel_version="Feature_Artifacts_S8">+{[0.030000 * 100]}% Elemental Damage Absorption.</string>
 	<string key="PerkID_Artifact_Set2_LightChest_Name" rel_version="Feature_Artifacts_S8">Drain</string>
-	<string key="PerkID_Artifact_Set2_LightChest_Desc" rel_version="Feature_Artifacts_S8">While below {[95.000000]}% health, hitting a target will consume {[-10.000000 *-1]} mana. If you lost mana this way, that attack grants {[0.100000 * 100]}% lifesteal. If using a magic weapon, only abilities trigger lifesteal and basic attacks generate {[10.000000]} mana. ({[0.500000]}s cooldown per activation)</string>
+	<string key="PerkID_Artifact_Set2_LightChest_Desc" rel_version="Feature_Artifacts_S8">While below {[95.000000]}% health, hitting a target will consume {[-10.000000 *-1]} mana. If you lost mana this way, that attack grants {[0.170000 * 100]}% lifesteal. If using a magic weapon, only abilities trigger lifesteal and basic attacks generate {[10.000000]} mana. ({[0.500000]}s cooldown per activation)</string>
 	<string key="PerkID_Artifact_Set2_LightHands_Name" rel_version="Feature_Artifacts_S8">Curse</string>
-	<string key="PerkID_Artifact_Set2_LightHands_Desc" rel_version="Feature_Artifacts_S8">When you activate an ability gain a stack of {[0.060000 *100]}% Empower for {[7.000000]}s (Max {[3.000000]} Stacks). After you hit with a basic attack lose all stacks. (Can't gain Empower stacks for {[5.000000]}s after stacks expire or are removed)</string>
+	<string key="PerkID_Artifact_Set2_LightHands_Desc" rel_version="Feature_Artifacts_S8">When you activate an ability gain a stack of {[0.100000 *100]}% Empower for {[7.000000]}s (Max {[3.000000]} Stacks). After you hit with a basic attack lose all stacks. (Can't gain Empower stacks for {[3.000000]}s after stacks expire or are removed)</string>
 	<string key="PerkID_Artifact_Set2_HeavyFeet_Name" rel_version="Feature_Artifacts_S8">Expeditious</string>
 	<string key="PerkID_Artifact_Set2_HeavyFeet_Desc" rel_version="Feature_Artifacts_S8">Activating a Heartrune will grant {[0.330000 *100]}% move speed for {[6.000000]}s.</string>
 	<string key="PerkID_Artifact_Set2_Blunderbuss_Name" rel_version="Feature_Artifacts_S8">Chaos Blast</string>

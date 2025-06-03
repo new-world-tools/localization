@@ -1338,5 +1338,9 @@
 	<string key="DyeA024_Mounts_MasterName" rel_version="Season_8_Perm">Wraith Black</string>
 	<string key="DyeA025_Mounts_MasterName" rel_version="Season_8_Perm">Virtuous White</string>
 	<string key="DyeA026_Mounts_MasterName" rel_version="Season_8_Perm">Heartrune Red</string>
+	<string key="mtx_sale_store">Sale</string>
+	<string key="mtx_factionfest_store">Faction Fest</string>
+	<string key="mtx_JulyFourth_store">4th of July</string>
+	<string key="mtx_summer_store">Summer</string>
 </resources>
 

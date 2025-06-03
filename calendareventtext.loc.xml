@@ -12,10 +12,6 @@
 	<string key="ui_event_summer_progress_name" rel_version="Event_Summer_Perm">Event Reputation</string>
 	<string key="ui_event_halloween_progress_name" rel_version="Event_Halloween_Perm">Event Reputation</string>
 	<string key="ui_event_spring_progress_name" rel_version="Event_SpringtideBloom_Perm">Event Reputation</string>
-	<string key="ui_event_spring_rank_0" rel_version="Event_SpringtideBloom_Temp">Blossom</string>
-	<string key="ui_event_spring_rank_1" rel_version="Event_SpringtideBloom_Temp">Shepard</string>
-	<string key="ui_event_spring_rank_2" rel_version="Event_SpringtideBloom_Temp">Herald</string>
-	<string key="ui_event_spring_shop_header" rel_version="Event_SpringtideBloom_Temp">Springtide Bloom</string>
 	<string key="ui_news_store_tabname">Store</string>
 	<string key="ui_news_expedition_tabname">Expedition</string>
 	<string key="ui_news_expeditions_tabname">Expeditions</string>
@@ -120,9 +116,6 @@
 	<string key="ui_event_legacy_of_crassus_bullet2">Decimus Statue</string>
 	<string key="ui_event_legacy_of_crassus_bullet3">Lucanus Statue</string>
 	<string key="ui_event_legacy_of_crassus_about">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Legacy of Crassus</string>
-	<string key="ui_event_springtide_bloom_title" rel_version="Event_SpringtideBloom_Temp">Spring has Sprung!</string>
-	<string key="ui_event_springtide_bloom_description" rel_version="Event_SpringtideBloom_Temp">The annual flowering of the Wispyblooms is here! Celebrate this magical time by harvesting their petals, then visit the Springtide Village to collect unique and powerful rewards. Make sure to bring some repellent for those pesky Wispy Wasps!</string>
-	<string key="ui_event_springtide_bloom_about" rel_version="Event_SpringtideBloom_Temp">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Springtide Bloom</string>
 	<string key="ui_event_rabbits_revenge_title">Rabbit's Revenge!</string>
 	<string key="ui_event_rabbits_revenge_description">Corrupted Rabbits have taken over Aeternum! Cull the corruption and earn ferocious rewards.</string>
 	<string key="ui_event_rabbits_revenge_about">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Rabbit's Revenge</string>

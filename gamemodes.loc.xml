@@ -358,14 +358,6 @@
 	<string key="ctf_Map_Temp_Name" rel_version="Gamemode_CTF" comment="DO NOT TRANSLATE">[PH] CTF - Unnamed Test Map</string>
 	<string key="ctf_002_Wide_Map_Name" rel_version="Gamemode_CTF">CTF Preview</string>
 	<string key="ctf_003_Long_Map_Name" rel_version="Gamemode_CTF">CTF Preview</string>
-	<string key="ctf_flag_carrier_debuff_icon_name" rel_version="Gamemode_CTF">Flag Carrier!</string>
-	<string key="ctf_flag_carrier_debuff_icon_desc" rel_version="Gamemode_CTF">You are the Flag Carrier! You are now more vulnerable to enemy attacks and receive less healing.</string>
-	<string key="CTF_Powerup_Damage_Empower_Name" rel_version="Gamemode_CTF">Attack Power-up</string>
-	<string key="CTF_Powerup_Damage_Empower_Desc" rel_version="Gamemode_CTF">+20% Empowered for 10 seconds. This effect can not be dispelled.</string>
-	<string key="CTF_Powerup_Speed_Name" rel_version="Gamemode_CTF">Haste Power-up</string>
-	<string key="CTF_Powerup_Speed_Desc" rel_version="Gamemode_CTF">+50% Haste for 5 seconds.</string>
-	<string key="CTF_Powerup_Healing_Name" rel_version="Gamemode_CTF">Health Power-up</string>
-	<string key="CTF_Powerup_Healing_Desc" rel_version="Gamemode_CTF">Gains 8000 HP when collected. (Gear can affect the total)</string>
 	<string key="ctf_blue_team" rel_version="Gamemode_CTF">&lt;font color="#45d1ff"&gt;Blue Team&lt;/font&gt;</string>
 	<string key="ctf_red_team" rel_version="Gamemode_CTF">&lt;font color="#f25d5d"&gt;Red Team&lt;/font&gt;</string>
 	<string key="ctf_flag_dropped" rel_version="Gamemode_CTF">Your flag was dropped</string>
