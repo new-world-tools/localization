@@ -71,6 +71,8 @@
 	<string key="ui_summermedley_maudlinbugwaltz">Maudlinbug Swarm</string>
 	<string key="ui_summermedley_maudlinbugwaltz_description">A swarm of Maudlinbugs has formed! Grab a guitar and perform the entrancing melody of the Maudlinbug Haze to capitivate and catch those bumbling bugs!</string>
 	<string key="ui_summermedley_shredlyfair" rel_version="Event_Summer2023_Perm">Concert Stage</string>
+	<string key="ui_summermedley_sturgeonhotspot" rel_version="Event_Summer_Temp">Aeternum Sturgeon Fishing Hotspot</string>
+	<string key="ui_summermedley_sturgeonhotspot_description" rel_version="Event_Summer_Temp">A school of glittering Aeternum Sturgeons! Cast a line to land the best catch in all Aeternum and supply the Medleyfaire!</string>
 	<string key="ui_preddieu_farm_attack" rel_version="Quest_MSQ2_Revamp">Sneed's Revenge</string>
 	<string key="ui_preddieu_farm_attack_description" rel_version="Quest_MSQ2_Revamp">Farmer Sneed still thinks this land is his and will stop at nothing to reclaim it. Protect the farms and drive him away.</string>
 	<string key="objective_preddieu_farm_attack_title">Stop Lost from Destroying Supplies</string>

@@ -1898,6 +1898,9 @@
 	<string key="Procedural_GauntletVoidT3_WC" rel_version="Event_WinterConvergence_Perm">Bitter Shadow</string>
 	<string key="Procedural_GauntletVoidT4_WC" rel_version="Event_WinterConvergence_Perm">Bitter Shadow</string>
 	<string key="Procedural_GauntletVoidT5_WC" rel_version="Event_WinterConvergence_Perm">Bitter Shadow</string>
+	<string key="FiletToken" rel_version="Event_Summer_Temp">Medleyfaire Token - Filet</string>
+	<string key="ScaleToken" rel_version="Event_Summer_Temp">Medleyfaire Token - Scale</string>
+	<string key="DustToken" rel_version="Event_Summer_Temp">Medleyfaire Token - Maudlindust</string>
 	<string key="ScrapExtractMetalT2">Extract Metal - Iron</string>
 	<string key="ScrapExtractMetalT3">Extract Metal - Steel</string>
 	<string key="ScrapExtractMetalT4">Extract Metal - Starmetal</string>
@@ -2059,6 +2062,9 @@
 	<string key="CraftArtifact_Set2_Earring1_Name" rel_version="Feature_Artifacts_S7">Justice Upgrade At the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set2_Ring1_Name" rel_version="Feature_Artifacts_S6">Elemental Band Upgrade At the Gypsum Kiln</string>
 	<string key="CraftArtifact_Set2_Amulet1_Name" rel_version="Feature_Artifacts_S5">Phoenix Upgrade At the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set3_MediumHead_Name" rel_version="Feature_Artifacts_S9">Plagueherald Upgrade At the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set3_2hWarhammer_Name" rel_version="Feature_Artifacts_S9">Hammer of YEET Upgrade At the Gypsum Kiln</string>
+	<string key="CraftArtifact_Set3_2hGreatSword_Name" rel_version="Feature_Artifacts_S9">Crescent Wave Upgrade At the Gypsum Kiln</string>
 	<string key="AquaeRejya" rel_version="Raid_CutlassKeys_00">Aquae Rejya</string>
 	<string key="GorgonEssence" rel_version="Raid_CutlassKeys_00">Gorgon's Essence</string>
 	<string key="AzeritFocus" rel_version="Raid_CutlassKeys_00">Azerit Focus</string>

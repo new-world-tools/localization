@@ -10,6 +10,12 @@
 	<string key="ui_event_rules">Event Highlights</string>
 	<string key="ui_event_progress_name">Event Reputation</string>
 	<string key="ui_event_summer_progress_name" rel_version="Event_Summer_Perm">Event Reputation</string>
+	<string key="ui_event_summer_rank_0" rel_version="Event_Summer_Temp">Minstrel</string>
+	<string key="ui_event_summer_rank_1" rel_version="Event_Summer_Temp">Troubadour</string>
+	<string key="ui_event_summer_rank_2" rel_version="Event_Summer_Temp">Bard</string>
+	<string key="ui_event_summer_rank_3" rel_version="Event_Summer_Temp">Virtuoso</string>
+	<string key="ui_event_summer_rank_4" rel_version="Event_Summer_Temp">Maestro</string>
+	<string key="ui_event_summer_shop_header" rel_version="Event_Summer_Temp">Summer Medleyfaire Shop</string>
 	<string key="ui_event_halloween_progress_name" rel_version="Event_Halloween_Perm">Event Reputation</string>
 	<string key="ui_event_spring_progress_name" rel_version="Event_SpringtideBloom_Perm">Event Reputation</string>
 	<string key="ui_news_store_tabname">Store</string>
@@ -85,9 +91,6 @@
 	<string key="ui_event_console_beta_preorder_news_bullet_azoth_stalker">Azoth Stalker</string>
 	<string key="ui_event_console_beta_preorder_news_bullet_mount_skins_deluxe">Mount Skins\n(Deluxe)</string>
 	<string key="ui_event_console_beta_preorder_news_bullet_armor_skins_deluxe">Armor Skins\n(Deluxe)</string>
-	<string key="ui_event_season_seven_title" rel_version="Season_7_Perm">Season of Conquerors</string>
-	<string key="ui_event_season_seven_description" rel_version="Season_7_Perm">Seek a new beginning and fight for dominance in a unique Seasonal Server encouraging player vs. player combat. Earn a bounty of new artifacts, skins, and more on the Season of Conquerors reward track.</string>
-	<string key="ui_event_season_seven_about" comment="DO NOT TRANSLATE" rel_version="Season_7_Perm">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Season 7 Placeholder</string>
 	<string key="ui_news_rise_of_the_angry_earth_expansion_title">Experience all Aeternum has to Offer</string>
 	<string key="ui_news_rise_of_the_angry_earth_expansion_description">Get the complete New World: Aeternum experience.\n\nPC players who have the Rise of the Angry Earth expansion get access to all of the features in New World: Aeternum, include major additions like:</string>
 	<string key="ui_news_rise_of_the_angry_earth_expansion_about">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Rise of the Angry Earth</string>
@@ -110,40 +113,5 @@
 	<string key="ui_event_thick_as_thieves_title" rel_version="Entitlements_ThickThieves">Thick as Thieves</string>
 	<string key="ui_event_thick_as_thieves_description" rel_version="Entitlements_ThickThieves">Only the trusted enter the shadows; only the skilled leave unscathed. Embrace apparel forged for those as thick as thieves. New Thick as Thieves-themed content has arrived!</string>
 	<string key="ui_event_thick_as_thieves_about" rel_version="Entitlements_ThickThieves">About Thick as Thieves</string>
-	<string key="ui_event_legacy_of_crassus_title">Legacy of Crassus</string>
-	<string key="ui_event_legacy_of_crassus_description">Crassus returns with his monstrous legion in tow! Rally your forces and battle the brutish captains Decimus and Lucanus in Brightwood, Mourningdale, Weaver’s Fen, and Ebonscale Reach. Fight back the Roman onslaught and defeat the dark grasp of Corruption for honor, glory, and limited-time rewards!</string>
-	<string key="ui_event_legacy_of_crassus_bullet1">Legion Pickaxe</string>
-	<string key="ui_event_legacy_of_crassus_bullet2">Decimus Statue</string>
-	<string key="ui_event_legacy_of_crassus_bullet3">Lucanus Statue</string>
-	<string key="ui_event_legacy_of_crassus_about">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Legacy of Crassus</string>
-	<string key="ui_event_rabbits_revenge_title">Rabbit's Revenge!</string>
-	<string key="ui_event_rabbits_revenge_description">Corrupted Rabbits have taken over Aeternum! Cull the corruption and earn ferocious rewards.</string>
-	<string key="ui_event_rabbits_revenge_about">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Rabbit's Revenge</string>
-	<string key="ui_event_summer_medleyfaire_title">Reel fun awaits at the Medleyfaire!</string>
-	<string key="ui_event_summer_medleyfaire_description">Aeternum's summer festival returns! Unlock a new jam by completing Event Activities; then strum away to collect Medleyfaire tokens and a new title. Celebrate at the festival grounds in Monarch's Bluff, Everfall, Brightwood, and Weaver's Fen.</string>
-	<string key="ui_event_summer_medleyfaire_bullet1">Maestro Hat</string>
-	<string key="ui_event_summer_medleyfaire_about">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Summer Medleyfaire</string>
-	<string key="ui_event_fury_of_the_spriggan_title">Fury of the Spriggan</string>
-	<string key="ui_event_fury_of_the_spriggan_description">With the Ennead awakened, the Angry Earth are rising up around Aeternum! Put a stop to their rituals as they attempt to awaken furious Spriggans. Earn unique daily rewards for your efforts as you quell these rituals in Brightwood, Weaver's Fen, Mourningdale, and Ebonscale Reach.</string>
-	<string key="ui_event_fury_of_the_spriggan_bullet1">Daily Armor Pieces</string>
-	<string key="ui_event_fury_of_the_spriggan_bullet2">Daily Weapons</string>
-	<string key="ui_event_fury_of_the_spriggan_about">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Fury of the Spriggan</string>
-	<string key="ui_event_siege_of_sulfur_title">Siege of Sulfur</string>
-	<string key="ui_event_siege_of_sulfur_description">Sharif's Blood of the Sands mages are under attack! While transporting valuable Sandwurm Eggs to secure locations around Aeternum, these mages have been assaulted by the forces of Adiana. Enraged Sulfur Elementals are attempting to destroy the eggs and eradicate the wurms from Aeternum. Defend the eggs and earn valuable rewards including powerful gear, the Sandwurm Egg housing item, and the Mini Devourer Sandwurm Hat.</string>
-	<string key="ui_event_siege_of_sulfur_bullet1">Sandwurm Hat</string>
-	<string key="ui_event_siege_of_sulfur_bullet2">Egg</string>
-	<string key="ui_event_siege_of_sulfur_about">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Siege of Sulfur</string>
-	<string key="ui_event_nightveil_hallow_title">Nightveil Hallow</string>
-	<string key="ui_event_nightveil_hallow_description">Nightveil Hallow returns as Baalphazu, Marquis of Terror rises once again! Banish the shadowy demon back to the darkness, then celebrate your victory by donning unique costumes and trick-or-treating for brand new candy rewards in houses across Aeternum!</string>
-	<string key="ui_event_nightveil_hallow_about">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; Nightveil Hallow</string>
-	<string key="ui_event_turkulon_title">Turkulon Returns!</string>
-	<string key="ui_event_turkulon_description">The unpleasant pheasant has hatched anew on the isles of Aeternum! Strike down this foul beast for a bounty of new and returning rewards, including the brand new Drumstick of Death flail skin! Pulverizing the poultry has never been so perfect.</string>
-	<string key="ui_event_turkulon_about">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Turkulon Returns</string>
-	<string key="ui_event_turkulon_bullet1">War Hammer Skin</string>
-	<string key="ui_event_turkulon_bullet2">Flail Skin</string>
-	<string key="ui_event_turkulon_bullet3">Turkuless Housing Item</string>
-	<string key="ui_event_winter_convergence_title">Winter Convergence</string>
-	<string key="ui_event_winter_convergence_description">The Winter Warrior and his glacial minions have descended upon Aeternum once again, bringing with them the icy threat of the forever Winter! Gather your friends and spread the warmth and cheer of the Convergence to fight back the bitter chill, then seek out the jolly Winter Wanderer in Winter Villages across Aeternum to earn a bounty of limited-time rewards!</string>
-	<string key="ui_event_winter_convergence_about">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Winter Convergence</string>
 </resources>
 

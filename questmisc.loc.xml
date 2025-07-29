@@ -1,2 +1,15 @@
-<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="NPC_08012_name" comment="DO NOT TRANSLATE" rel_version="Quest_Console_Release">Debug_NPC_1</string>
+	<string key="NPC_08012_title" comment="DO NOT TRANSLATE" rel_version="Quest_Console_Release">Debug_NPC_Name_1</string>
+	<string key="NPC_08013_name" comment="DO NOT TRANSLATE" rel_version="Quest_Console_Release">Debug_NPC_2</string>
+	<string key="NPC_08013_title" comment="DO NOT TRANSLATE" rel_version="Quest_Console_Release">Debug_NPC_Name_2</string>
+	<string key="Quest_08015_Task_1_Description" comment="DO NOT TRANSLATE" rel_version="Quest_Console_Release">Debug_Q_1_Task_1</string>
+	<string key="Quest_08015_Task_2_Description" comment="DO NOT TRANSLATE" rel_version="Quest_Console_Release">Debug_Q_1_Task_2</string>
+	<string key="Quest_08015_description" comment="DO NOT TRANSLATE" speaker="UI - Quest Description" rel_version="Quest_Console_Release">This is a quest used for debug purposes only.</string>
+	<string key="Quest_08015_title" comment="DO NOT TRANSLATE" speaker="UI - Quest Title" rel_version="Quest_Console_Release">Debug_Quest_1</string>
+	<string key="Quest_08016_Task_1_Description" comment="DO NOT TRANSLATE" rel_version="Quest_Console_Release">Debug_Q_2_Task_1</string>
+	<string key="Quest_08016_Task_2_Description" comment="DO NOT TRANSLATE" rel_version="Quest_Console_Release">Debug_Q_2_Task_2</string>
+	<string key="Quest_08016_description" comment="DO NOT TRANSLATE" speaker="UI - Quest Description" rel_version="Quest_Console_Release">This is a quest used for debug purposes only</string>
+	<string key="Quest_08016_title" comment="DO NOT TRANSLATE" speaker="UI - Quest Title" rel_version="Quest_Console_Release">Debug_Quest_2</string>
+</resources>
 

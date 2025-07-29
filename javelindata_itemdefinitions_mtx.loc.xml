@@ -1140,5 +1140,32 @@
 	<string key="housing_factionfest_reward_decor_marauder_MasterName" rel_version="Season_8_Perm">Marauder Warlight Stone</string>
 	<string key="housing_factionfest_reward_decor_syndicate_Description" rel_version="Season_8_Perm">Decorate your house with this mystical stone that channels the essence of the Syndicate Faction.</string>
 	<string key="housing_factionfest_reward_decor_syndicate_MasterName" rel_version="Season_8_Perm">Syndicate Warlight Stone</string>
+	<string key="July2025_TwitchPrime_Box_MasterName" rel_version="Season_9_Perm">Indomitable Reward Cache</string>
+	<string key="July2025_TwitchPrime_Box_Description" rel_version="Season_9_Perm">This object contains a gift for contributing to events beyond Aeternum's shores.\n\nIncludes the following:\n&lt;font color="#b2aea1"&gt;
+5x Vial of Suspended Azoth\n
+25x Dark Matter\n
+3x Gypsum Orbs\n
+10x Infused Health Potion\n
+5x Infused Lifesteal Potion\n
+5x Banana Parfait\n
+5x Banana Bread&lt;/font&gt;</string>
+	<string key="Aug2025_TwitchPrime_Box_MasterName" rel_version="Season_9_Perm">Elusive Reward Cache</string>
+	<string key="Aug2025_TwitchPrime_Box_Description" rel_version="Season_9_Perm">This object contains a gift for contributing to events beyond Aeternum's shores.\n\nIncludes the following:\n&lt;font color="#b2aea1"&gt;
+5x Vial of Suspended Azoth\n
+25x Dark Matter\n
+3x Gypsum Orbs\n
+10x Infused Health Potion\n
+15x Infused Health Shot Potion\n
+5x Banana Pudding\n
+5x Fruit Salad&lt;/font&gt;</string>
+	<string key="Sep2025_TwitchPrime_Box_MasterName" rel_version="Season_9_Perm">Brazen Reward Cache</string>
+	<string key="Sep2025_TwitchPrime_Box_Description" rel_version="Season_9_Perm">This object contains a gift for contributing to events beyond Aeternum's shores.\n\nIncludes the following:\n&lt;font color="#b2aea1"&gt;
+5x Vial of Suspended Azoth\n
+25x Dark Matter\n
+3x Gypsum Orbs\n
+10x Infused Health Potion\n
+5x Infused Burst Regen Potion\n
+5x Banana Bread\n
+5x Banana Pudding&lt;/font&gt;</string>
 </resources>
 

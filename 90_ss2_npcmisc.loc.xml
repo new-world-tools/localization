@@ -1,218 +1,236 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<string key="NPC_03976_name" rel_version="Seasonal_Server_2" speaker="UI - NPC Name">Aelstrom</string>
-	<string key="NPC_03976_title" rel_version="Seasonal_Server_2" speaker="UI - NPC Title">Fallen King</string>
-	<string key="NPC_04627_name" rel_version="Seasonal_Server_2" speaker="UI - NPC Name">Aelstrom</string>
-	<string key="NPC_04627_title" rel_version="Seasonal_Server_2" speaker="UI - NPC Title">Fallen King</string>
-	<string key="NPC_04628_name" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">DEPRECATED</string>
-	<string key="NPC_04628_title" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">DEPRECATED</string>
-	<string key="NPC_04629_name" rel_version="Seasonal_Server_2" speaker="UI - NPC Name">Aelstrom</string>
-	<string key="NPC_04629_title" rel_version="Seasonal_Server_2" speaker="UI - NPC Title">Fallen King</string>
-	<string key="NPC_04630_name" rel_version="Seasonal_Server_2" speaker="UI - NPC Name">Aelstrom</string>
-	<string key="NPC_04630_title" rel_version="Seasonal_Server_2" speaker="UI - NPC Title">Fallen King</string>
-	<string key="NPC_04631_name" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">DEPRECATED</string>
-	<string key="NPC_04631_title" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">DEPRECATED</string>
-	<string key="NPC_04632_name" rel_version="Seasonal_Server_2" speaker="UI - NPC Name">Aelstrom</string>
-	<string key="NPC_04632_title" rel_version="Seasonal_Server_2" speaker="UI - NPC Title">Fallen King</string>
-	<string key="NPC_04633_name" rel_version="Seasonal_Server_2" speaker="UI - NPC Name">Aelstrom</string>
-	<string key="NPC_04633_title" rel_version="Seasonal_Server_2" speaker="UI - NPC Title">Fallen King</string>
-	<string key="NPC_04634_name" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">DEPRECATED</string>
-	<string key="NPC_04634_title" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">DEPRECATED</string>
-	<string key="NPC_04635_name" rel_version="Seasonal_Server_2" speaker="UI - NPC Name">Aelstrom</string>
-	<string key="NPC_04635_title" rel_version="Seasonal_Server_2" speaker="UI - NPC Title">Fallen King</string>
-	<string key="NPC_04636_name" rel_version="Seasonal_Server_2" speaker="UI - NPC Name">Aelstrom</string>
-	<string key="NPC_04636_title" rel_version="Seasonal_Server_2" speaker="UI - NPC Title">Fallen King</string>
-	<string key="Quest_03189_Task_11_0_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Report to Aelstrom</string>
-	<string key="Quest_03189_Task_11_0_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03189_Task_11_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Speak to Aelstrom</string>
-	<string key="Quest_03189_Task_12_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03189_Task_15_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task Description"/>
-	<string key="Quest_03189_Task_16_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task Description"/>
-	<string key="Quest_03189_Task_16_0_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag">TriggerVol_6_Settlement</string>
-	<string key="Quest_03189_Task_16_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Head to Corinth</string>
-	<string key="Quest_03189_Task_16_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03189_Task_18_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Wood from trees and shrubs</string>
-	<string key="Quest_03189_Task_19_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Stone from breaking boulders</string>
-	<string key="Quest_03189_Task_1_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Logging Axe</string>
-	<string key="Quest_03189_Task_21_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Rawhide from skinning beasts</string>
-	<string key="Quest_03189_Task_26_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03189_Task_27_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task Description"/>
-	<string key="Quest_03189_Task_29_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">(Optional) Collect resources on your way to Corinth</string>
-	<string key="Quest_03189_Task_2_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Skinning Knife</string>
-	<string key="Quest_03189_Task_3_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Pickaxe</string>
-	<string key="Quest_03189_Task_4_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Sickle</string>
-	<string key="Quest_03189_Task_5_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Collect Flint off the ground and Green Wood from bushes to craft the following:</string>
-	<string key="Quest_03189_Task_7_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task Description"/>
-	<string key="Quest_03189_Task_7_0_Description_0" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task Description 0"/>
-	<string key="Quest_03189_Task_7_0_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03189_Task_7_0_TargetTag_0" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag 0"/>
-	<string key="Quest_03189_Task_9_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task Description"/>
-	<string key="Quest_03189_Task_9_0_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03189_description" rel_version="Seasonal_Server_2" speaker="UI - Quest Description">Aelstrom wants to see what you are made of. Prepare yourself by acquiring tools and materials. Meet Aelstrom in Corinth when you are ready to begin.</string>
-	<string key="Quest_03189_title" rel_version="Seasonal_Server_2" speaker="UI - Quest Title">Aelstrom&apos;s Challenge</string>
-	<string key="Quest_03190_Task_12_0_0_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03190_Task_12_0_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Stone from breaking boulders</string>
-	<string key="Quest_03190_Task_12_0_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03190_Task_12_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Wood from trees and shrubs</string>
-	<string key="Quest_03190_Task_13_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Fast travel to Corinth in the Windsward territory</string>
-	<string key="Quest_03190_Task_13_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03190_Task_17_Description_0" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Return to Aelstrom</string>
-	<string key="Quest_03190_Task_18_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Rawhide from skinning beasts</string>
-	<string key="Quest_03190_Task_1_0_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description"/>
-	<string key="Quest_03190_Task_1_0_TargetTag" rel_version="Seasonal_Server_2" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03190_Task_2_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Collect Flint off the ground and Green Wood from bushes to craft the following:</string>
-	<string key="Quest_03190_Task_3_0_0_0_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Sickle</string>
-	<string key="Quest_03190_Task_3_0_0_0_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03190_Task_3_0_0_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Skinning Knife</string>
-	<string key="Quest_03190_Task_3_0_0_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03190_Task_3_0_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Logging Axe</string>
-	<string key="Quest_03190_Task_3_0_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03190_Task_3_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Pickaxe</string>
-	<string key="Quest_03190_Task_6_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Speak to Aelstrom</string>
-	<string key="Quest_03190_Task_8_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task Description"/>
-	<string key="Quest_03190_Task_8_0_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03190_Task_8_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Head to Prydwen</string>
-	<string key="Quest_03190_Task_8_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03190_Task_9_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">(Optional) Collect resources on your way to town</string>
-	<string key="Quest_03190_description" rel_version="Seasonal_Server_2" speaker="UI - Quest Description">Aelstrom wants to see what you are made of. Prepare yourself by acquiring tools and materials. Meet Aelstrom in Corinth when you are ready to begin.</string>
-	<string key="Quest_03190_title" rel_version="Seasonal_Server_2" speaker="UI - Quest Title">Aelstrom&apos;s Challenge</string>
-	<string key="Quest_03192_Task_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task Description"/>
-	<string key="Quest_03192_Task_1_0_0_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Depleted Lavender Azerite Tailings, acquired from gathering resources. High luck improves your chances.</string>
-	<string key="Quest_03192_Task_1_0_0_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03192_Task_1_0_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Depleted Cerulean Azerite Tailings, acquired by looting chests</string>
-	<string key="Quest_03192_Task_1_0_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03192_Task_1_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Depleted Vermilion Azerite Tailings, acquired by defeating enemies</string>
-	<string key="Quest_03192_Task_2_0_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Craft a  Novice&apos;s Armor Cache</string>
-	<string key="Quest_03192_Task_2_0_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03192_Task_2_Description_0" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task Description"/>
-	<string key="Quest_03192_Task_2_Description_1" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Craft a Novice&apos;s Weapon Cache</string>
-	<string key="Quest_03192_Task_3_0_0_0_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task Description"/>
-	<string key="Quest_03192_Task_3_0_0_0_0_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03192_Task_3_0_0_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task Description"/>
-	<string key="Quest_03192_Task_3_0_0_0_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03192_Task_3_0_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task Description"/>
-	<string key="Quest_03192_Task_3_0_0_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03192_Task_3_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task Description"/>
-	<string key="Quest_03192_Task_3_0_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03192_Task_4_0_0_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Craft a Novice&apos;s Tool Cache</string>
-	<string key="Quest_03192_Task_4_0_0_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03192_Task_4_0_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Craft a Novice&apos;s Consumable Cache</string>
-	<string key="Quest_03192_Task_4_0_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03192_Task_4_Description_0" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Craft a Novice&apos;s Jewelry Cache</string>
-	<string key="Quest_03192_Task_5_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Collect the following materials from areas level 5 to 18:</string>
-	<string key="Quest_03192_Task_7_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Check in with Aelstrom</string>
-	<string key="Quest_03192_description" rel_version="Seasonal_Server_2" speaker="UI - Quest Description">To compete with Aelstrom, you will need proper attire. Gather materials and craft caches to gear up for your death-defying adventure.</string>
-	<string key="Quest_03192_title" rel_version="Seasonal_Server_2" speaker="UI - Quest Title">Sweat and Pride</string>
-	<string key="Quest_03194_Task_13_0_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Brag about your accomplishment to Aelstrom</string>
-	<string key="Quest_03194_Task_13_0_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03194_Task_13_1_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Check in with Aelstrom</string>
-	<string key="Quest_03194_Task_13_1_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03194_Task_13_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Find Aelstrom in the tavern</string>
-	<string key="Quest_03194_Task_14_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">(Optional} Reach Level 25</string>
-	<string key="Quest_03194_Task_16_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task Description"/>
-	<string key="Quest_03194_Task_16_0_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03194_Task_16_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Acquire Dampened Celadon Azerite Tailings from Simon Grey</string>
-	<string key="Quest_03194_Task_18_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Craft any 4 Adventurer&apos;s Caches</string>
-	<string key="Quest_03194_Task_1_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Acquire the following items from areas level 19 to 38:</string>
-	<string key="Quest_03194_Task_2_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Head to Cavalry in Brightwood to continue your journey</string>
-	<string key="Quest_03194_Task_6_0_0_0_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Dampened Goldenrod Azerite Tailings, acquired from closing Corrupted Breaches or salvaging fish</string>
-	<string key="Quest_03194_Task_6_0_0_0_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03194_Task_6_0_0_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Dampened Lavender Azerite Tailings, acquired from gathering resources. High luck improves your chances.</string>
-	<string key="Quest_03194_Task_6_0_0_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03194_Task_6_0_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Dampened Cerulean Azerite Tailings, acquired from looting chests</string>
-	<string key="Quest_03194_Task_6_0_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03194_Task_6_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Dampened Vermilion Azerite Tailings, acquired from named enemies</string>
-	<string key="Quest_03194_Task_8_Description_0" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Complete all encounters in the Amrine Excavation Expedition (To find a group, select the expedition icon on the map and press &apos;Find Lobby&apos;)</string>
-	<string key="Quest_03194_Task_9_0_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task Description"/>
-	<string key="Quest_03194_Task_9_0_0_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03194_Task_9_0_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Simon Grey</string>
-	<string key="Quest_03194_Task_9_0_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03194_Task_9_1_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task Description"/>
-	<string key="Quest_03194_Task_9_1_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03194_Task_9_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Foreman Nakashima</string>
-	<string key="Quest_03194_description" rel_version="Seasonal_Server_2" speaker="UI - Quest Description">Pursue more powerful materials in pursuit of your own power. Brave Amrine Expedition for a rare material to aid you on your crafting journey.</string>
-	<string key="Quest_03194_title" rel_version="Seasonal_Server_2" speaker="UI - Quest Title">Written in the Scars</string>
-	<string key="Quest_03196_Task_10_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task Description"/>
-	<string key="Quest_03196_Task_10_0_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03196_Task_10_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task Description"/>
-	<string key="Quest_03196_Task_1_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Head to Warden&apos;s Rise in Great Cleave</string>
-	<string key="Quest_03196_Task_5_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Speak to Aelstrom</string>
-	<string key="Quest_03196_Task_6_0_0_0_0_0_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Charged Celadon Azerite Tailings, acquired by defeating the final boss in Starstone Burrows, The Depths, Lazarus Instrumentalilty, or Tempest Soul</string>
-	<string key="Quest_03196_Task_6_0_0_0_0_0_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03196_Task_6_0_0_0_0_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">(Optional) Charged Celadon Azerite Tailings, acquired by defeating the final boss in Starstone Burrows, The Depths, Lazarus Instrumentalilty, or Tempest Soul</string>
-	<string key="Quest_03196_Task_6_0_0_0_0_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03196_Task_6_0_0_0_1_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task Description"/>
-	<string key="Quest_03196_Task_6_0_0_0_1_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03196_Task_6_0_0_0_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Charged Lavender Azerite Tailings, acquired by gathering resources. High luck improves your chances.</string>
-	<string key="Quest_03196_Task_6_0_0_0_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03196_Task_6_0_0_1_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task Description"/>
-	<string key="Quest_03196_Task_6_0_0_1_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03196_Task_6_0_0_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Charged Cerulean Azerite Tailings, acquired by looting large chests</string>
-	<string key="Quest_03196_Task_6_0_0_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03196_Task_6_0_1_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task Description"/>
-	<string key="Quest_03196_Task_6_0_1_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03196_Task_6_0_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Charged Vermilion Azerite Tailings, acquired by defeating Elite or Named enemies</string>
-	<string key="Quest_03196_Task_6_0_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03196_Task_6_1_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description"/>
-	<string key="Quest_03196_Task_6_1_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03196_Task_6_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Charged Goldenrod Azerite Tailings, acquired by closing Corrupted Breaches or salvaging fish</string>
-	<string key="Quest_03196_Task_7_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task Description"/>
-	<string key="Quest_03196_Task_7_0_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03196_Task_7_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Acquire the following materials from areas level 39 to 58:</string>
-	<string key="Quest_03196_Task_8_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Craft any 4 Soldier&apos;s Caches</string>
-	<string key="Quest_03196_Task_9_Description_0" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Return to Aelstrom</string>
-	<string key="Quest_03196_description" rel_version="Seasonal_Server_2" speaker="UI - Quest Description">Still stronger components for armor and weapons await you in Great Cleave.</string>
-	<string key="Quest_03196_title" rel_version="Seasonal_Server_2" speaker="UI - Quest Title">You Guessed it, More Sweat</string>
-	<string key="Quest_03197_Task_10_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Isabella</string>
-	<string key="Quest_03197_Task_2_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Head to Fortune&apos;s Crossing in Ebonscale Reach</string>
-	<string key="Quest_03197_Task_3_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Speak to Aelstrom</string>
-	<string key="Quest_03197_Task_7_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Complete all encounters within the Dynasty Shipyard Expedition</string>
-	<string key="Quest_03197_Task_8_0_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task Description"/>
-	<string key="Quest_03197_Task_8_0_0_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03197_Task_8_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task Description"/>
-	<string key="Quest_03197_Task_8_0_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03197_Task_8_1_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Empress Zhou</string>
-	<string key="Quest_03197_Task_8_1_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03197_Task_9_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Commander Chen</string>
-	<string key="Quest_03197_description" rel_version="Seasonal_Server_2" speaker="UI - Quest Description">Show Aelstrom how much stronger you have become by defeating Isabella and Empress Zhou in the Dynasty Shipyard expedition.</string>
-	<string key="Quest_03197_title" rel_version="Seasonal_Server_2" speaker="UI - Quest Title">Your Own Immortal Dynasty</string>
-	<string key="Quest_03199_Task_12_0_0_0_0_0_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Enriched Celadon Azerite Tailings, acquired from Mutated Expeditions</string>
-	<string key="Quest_03199_Task_12_0_0_0_0_0_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03199_Task_12_0_0_0_0_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">(Optional) Enriched Celadon Azerite Tailings, acquired from Mutated Expeditions</string>
-	<string key="Quest_03199_Task_12_0_0_0_0_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03199_Task_12_0_0_0_1_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task Description"/>
-	<string key="Quest_03199_Task_12_0_0_0_1_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03199_Task_12_0_0_0_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Enriched Lavender Azerite Tailings, acquired from gathering resources. High luck improves your chances.</string>
-	<string key="Quest_03199_Task_12_0_0_0_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03199_Task_12_0_0_1_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task Description"/>
-	<string key="Quest_03199_Task_12_0_0_1_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03199_Task_12_0_0_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Enriched Goldenrod Azerite Tailings, acquired by closing Corrupted Breaches or salvaging fish</string>
-	<string key="Quest_03199_Task_12_0_0_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03199_Task_12_0_1_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task Description"/>
-	<string key="Quest_03199_Task_12_0_1_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03199_Task_12_0_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Enriched Cerulean Azerite Tailings, acquired from elite chests</string>
-	<string key="Quest_03199_Task_12_0_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03199_Task_12_1_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task Description"/>
-	<string key="Quest_03199_Task_12_1_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03199_Task_12_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Enriched Vermilion Azerite Tailings, acquired from named enemies in Elite strongholds</string>
-	<string key="Quest_03199_Task_18_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task Description"/>
-	<string key="Quest_03199_Task_18_0_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03199_Task_2_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Head to New Corsica in Brimstone Sands</string>
-	<string key="Quest_03199_Task_3_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Speak to Aelstrom</string>
-	<string key="Quest_03199_Task_6_0_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description"/>
-	<string key="Quest_03199_Task_6_0_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03199_Task_6_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Acquire the following items from areas level 59 to 65:</string>
-	<string key="Quest_03199_Task_7_0_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">and EITHER:</string>
-	<string key="Quest_03199_Task_7_0_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03199_Task_7_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description"/>
-	<string key="Quest_03199_Task_8_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Craft any 4 Hero&apos;s Caches</string>
-	<string key="Quest_03199_description" rel_version="Seasonal_Server_2" speaker="UI - Quest Description">You know the drill. Brimstone Sands offers the strongest components yet. Make yourself strong and report to Aelstrom in New Corsica.</string>
-	<string key="Quest_03199_title" rel_version="Seasonal_Server_2" speaker="UI - Quest Title">Even More Sweat and Pride</string>
-	<string key="Quest_03200_Task_2_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Head to Last Light in Elysian Wilds</string>
-	<string key="Quest_03200_Task_5_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Speak to Aelstrom</string>
-	<string key="Quest_03200_Task_7_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task Description"/>
-	<string key="Quest_03200_Task_7_0_TargetTag" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Task TargetTag"/>
-	<string key="Quest_03200_Task_8_Description" rel_version="Seasonal_Server_2" speaker="UI - Quest Task Description">Craft any 5 Max Gear Score Hero&apos;s Caches</string>
-	<string key="Quest_03200_description" rel_version="Seasonal_Server_2" speaker="UI - Quest Description">Continue your journey in Elysian Wilds, where the strongest foes and the greatest rewards await you.</string>
-	<string key="Quest_03200_title" rel_version="Seasonal_Server_2" speaker="UI - Quest Title">Laughing in the Face of Death</string>
+	<string key="NPC_03976_name" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Aelstrom 1</string>
+	<string key="NPC_03976_title" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Windsward Starter Beach</string>
+	<string key="NPC_04627_name" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Aelstrom 2</string>
+	<string key="NPC_04627_title" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Windsward Settlement</string>
+	<string key="NPC_04628_name" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">[DELETE ME]</string>
+	<string key="NPC_04628_title" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE"/>
+	<string key="NPC_04629_name" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Aelstrom 1a</string>
+	<string key="NPC_04629_title" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Monarch&apos;s Starter Beach</string>
+	<string key="NPC_04630_name" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Aelstrom 4</string>
+	<string key="NPC_04630_title" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Brightwood Settlement</string>
+	<string key="NPC_04631_name" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">[DELETE ME]</string>
+	<string key="NPC_04631_title" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE"/>
+	<string key="NPC_04632_name" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Aelstrom 6</string>
+	<string key="NPC_04632_title" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Great Cleave Outpost</string>
+	<string key="NPC_04633_name" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Aelstrom 7</string>
+	<string key="NPC_04633_title" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Ebonscale</string>
+	<string key="NPC_04634_name" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">[DELETE ME]</string>
+	<string key="NPC_04634_title" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE"/>
+	<string key="NPC_04635_name" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Aelstrom 9</string>
+	<string key="NPC_04635_title" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Brimstone</string>
+	<string key="NPC_04636_name" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Aelstrom 10</string>
+	<string key="NPC_04636_title" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Elysian Wilds</string>
+	<string key="Quest_00000_description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Description">This is the quest you get when you log in on seasonal server 2 at the WW starter beach.</string>
+	<string key="Quest_00000_description_0" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Description"/>
+	<string key="Quest_00000_description_1" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Description">kjkjhlkjhkljh</string>
+	<string key="Quest_00000_title" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Title">Quest 01 - WW Starter Beach</string>
+	<string key="Quest_00000_title_0" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Title"/>
+	<string key="Quest_00000_title_1" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Title">jhkjhjk</string>
+	<string key="Quest_00002_description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Description"/>
+	<string key="Quest_00002_title" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Title">Quest 01a - MB Starter Beach</string>
+	<string key="Quest_03189_Task_10_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Kill Boar</string>
+	<string key="Quest_03189_Task_11_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Report to Aelstrom</string>
+	<string key="Quest_03189_Task_11_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Speak to Aelstrom</string>
+	<string key="Quest_03189_Task_12_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Kill and skin a boar for meat</string>
+	<string key="Quest_03189_Task_12_Description_0" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Report to Aelstrom</string>
+	<string key="Quest_03189_Task_13_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Cook Food</string>
+	<string key="Quest_03189_Task_15_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE"/>
+	<string key="Quest_03189_Task_16_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE"/>
+	<string key="Quest_03189_Task_16_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Head to Corinth</string>
+	<string key="Quest_03189_Task_18_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Wood from trees and shrubs</string>
+	<string key="Quest_03189_Task_19_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Stone from breaking boulders</string>
+	<string key="Quest_03189_Task_1_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Logging Axe</string>
+	<string key="Quest_03189_Task_20_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Hemp</string>
+	<string key="Quest_03189_Task_21_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Rawhide from skinning beasts</string>
+	<string key="Quest_03189_Task_23_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Familiarize yourself with the town&apos;s resources</string>
+	<string key="Quest_03189_Task_24_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Visit the Trading Post</string>
+	<string key="Quest_03189_Task_25_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Open Your Storage</string>
+	<string key="Quest_03189_Task_26_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Check in at the Inn</string>
+	<string key="Quest_03189_Task_27_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE"/>
+	<string key="Quest_03189_Task_28_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Crafting Stations 2</string>
+	<string key="Quest_03189_Task_29_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">(Optional) Collect resources on your way to Corinth</string>
+	<string key="Quest_03189_Task_2_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Skinning Knife</string>
+	<string key="Quest_03189_Task_3_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Pickaxe</string>
+	<string key="Quest_03189_Task_4_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Sickle</string>
+	<string key="Quest_03189_Task_5_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Collect Flint off the ground and Green Wood from bushes to craft the following:</string>
+	<string key="Quest_03189_Task_6_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Get Flint</string>
+	<string key="Quest_03189_Task_6_Description_0" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Herbs from harvesting local flora</string>
+	<string key="Quest_03189_Task_7_0_Description"/>
+	<string key="Quest_03189_Task_8_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Get Wood</string>
+	<string key="Quest_03189_Task_9_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE"/>
+	<string key="Quest_03189_description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Description">Placeholder quest description for Windsward starter beach.</string>
+	<string key="Quest_03189_title" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Title">[NYI] Season Journey Quest 1</string>
+	<string key="Quest_03190_Task_12_0_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Herbs from harvesting local flora</string>
+	<string key="Quest_03190_Task_12_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Stone from breaking boulders</string>
+	<string key="Quest_03190_Task_12_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Wood from trees and shrubs</string>
+	<string key="Quest_03190_Task_13_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Fast travel to Corinth in the Windsward territory</string>
+	<string key="Quest_03190_Task_14_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Familiarize yourself with the town&apos;s resources</string>
+	<string key="Quest_03190_Task_15_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Open Your Storage</string>
+	<string key="Quest_03190_Task_15_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Visit the Trading Post</string>
+	<string key="Quest_03190_Task_16_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Check in at the Inn</string>
+	<string key="Quest_03190_Task_17_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Crafting Stations 2</string>
+	<string key="Quest_03190_Task_17_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Crafting Stations 1</string>
+	<string key="Quest_03190_Task_17_Description_0" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Return to Aelstrom</string>
+	<string key="Quest_03190_Task_18_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Rawhide from skinning beasts</string>
+	<string key="Quest_03190_Task_19_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Meet up with Aelstrom</string>
+	<string key="Quest_03190_Task_2_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Collect Flint off the ground and Green Wood from bushes to craft the following:</string>
+	<string key="Quest_03190_Task_3_0_0_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Sickle</string>
+	<string key="Quest_03190_Task_3_0_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Skinning Knife</string>
+	<string key="Quest_03190_Task_3_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Logging Axe</string>
+	<string key="Quest_03190_Task_3_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Pickaxe</string>
+	<string key="Quest_03190_Task_6_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Speak to Aelstrom</string>
+	<string key="Quest_03190_Task_8_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE"/>
+	<string key="Quest_03190_Task_8_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Head to Prydwen</string>
+	<string key="Quest_03190_Task_9_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">(Optional) Collect resources on your way to town</string>
+	<string key="Quest_03190_description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Description">Placeholder quest for the Monarch&apos;s Bluffs starter beach.</string>
+	<string key="Quest_03190_title" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Title">[NYI] Season Journey Quest 1</string>
+	<string key="Quest_03192_Task_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE"/>
+	<string key="Quest_03192_Task_11_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Complete either of the following Soul Trials:</string>
+	<string key="Quest_03192_Task_12_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Gawain, located in Corbenic Castle, Monarch&apos;s Bluffs</string>
+	<string key="Quest_03192_Task_13_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Medea, found in Thornhall, Windsward</string>
+	<string key="Quest_03192_Task_1_0_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Depleted Lavender Azerite Tailings, acquired from gathering resources with high Luck</string>
+	<string key="Quest_03192_Task_1_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Depleted Cerulean Azerite Tailings, acquired by looting chests</string>
+	<string key="Quest_03192_Task_1_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Depleted Vermilion Azerite Tailings, acquired by defeating enemies</string>
+	<string key="Quest_03192_Task_2_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Craft a  Novice&apos;s Armor Cache</string>
+	<string key="Quest_03192_Task_2_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">[NYI] Items, found in chests throughout Windsward</string>
+	<string key="Quest_03192_Task_2_Description_0" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Return to Aelstrom</string>
+	<string key="Quest_03192_Task_2_Description_1" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Craft a Novice&apos;s Weapon Cache</string>
+	<string key="Quest_03192_Task_3_0_0_0_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE"/>
+	<string key="Quest_03192_Task_3_0_0_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE"/>
+	<string key="Quest_03192_Task_3_0_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE"/>
+	<string key="Quest_03192_Task_3_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE"/>
+	<string key="Quest_03192_Task_3_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">[NYI] Items, acquired from defeating enemies throughout Windsward</string>
+	<string key="Quest_03192_Task_4_0_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Craft a tools cache</string>
+	<string key="Quest_03192_Task_4_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Craft a consumables cache</string>
+	<string key="Quest_03192_Task_4_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">[NYI] Craft item caches</string>
+	<string key="Quest_03192_Task_4_Description_0" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Craft a Novice&apos;s Jewelry Cache</string>
+	<string key="Quest_03192_Task_5_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Collect the following materials:</string>
+	<string key="Quest_03192_Task_7_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Check in with Aelstrom</string>
+	<string key="Quest_03192_description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Description">Placeholder quest for Windsward.</string>
+	<string key="Quest_03192_title" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Title">[NYI] Season Journey Quest 2</string>
+	<string key="Quest_03193_Task_17_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">(Optional) Reach Level 25</string>
+	<string key="Quest_03193_Task_17_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">(Optional) Reach Level 25</string>
+	<string key="Quest_03193_Task_19_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE"/>
+	<string key="Quest_03193_Task_19_1_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE"/>
+	<string key="Quest_03193_Task_19_1_Description_0" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE"/>
+	<string key="Quest_03193_Task_19_1_TargetTag_0" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE"/>
+	<string key="Quest_03193_Task_19_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Craft any 5 Tier 3 Adventurer&apos;s Caches</string>
+	<string key="Quest_03193_Task_19_Description_0" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Craft any 5 Tier 3 Adventurer&apos;s Caches</string>
+	<string key="Quest_03193_Task_1_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Head to Oxboro in the Everfall territory</string>
+	<string key="Quest_03193_Task_21_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE"/>
+	<string key="Quest_03193_Task_21_0_Description_0" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE"/>
+	<string key="Quest_03193_Task_21_0_TargetTag_0" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE"/>
+	<string key="Quest_03193_Task_21_1_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE"/>
+	<string key="Quest_03193_Task_21_1_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Simon Grey</string>
+	<string key="Quest_03193_Task_21_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Foreman Nakashima</string>
+	<string key="Quest_03193_Task_23_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Check in with Aelstrom</string>
+	<string key="Quest_03193_Task_24_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Share your progress with Aelstrom</string>
+	<string key="Quest_03193_Task_25_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE"/>
+	<string key="Quest_03193_Task_25_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Complete all encounters in the Amrine Excavation Expedition</string>
+	<string key="Quest_03193_Task_4_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Complete either of the following Soul Trials:</string>
+	<string key="Quest_03193_Task_4_Description_0" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Gather the following materials:</string>
+	<string key="Quest_03193_Task_5_0_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">[Item Name], acquired from gathering resources with high Luck</string>
+	<string key="Quest_03193_Task_5_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">[Item Name], acquired from looting chests</string>
+	<string key="Quest_03193_Task_5_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Medea</string>
+	<string key="Quest_03193_Task_5_Description_0" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">[Item Name], acquired from named enemies</string>
+	<string key="Quest_03193_Task_6_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Gawain</string>
+	<string key="Quest_03193_description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Description"/>
+	<string key="Quest_03193_title" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Title">[DELETE ME]</string>
+	<string key="Quest_03194_Task_11_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Complete all encounters in the Starstone Burrows Expedition</string>
+	<string key="Quest_03194_Task_11_Description_0" rel_version="Seasonal_Server_2">Report your success to Aelstrom</string>
+	<string key="Quest_03194_Task_12_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Greundgul the Regent</string>
+	<string key="Quest_03194_Task_12_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Alectos the Relentless</string>
+	<string key="Quest_03194_Task_13_0_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Brag about your success to Aelstrom</string>
+	<string key="Quest_03194_Task_13_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Return to Aelstrom</string>
+	<string key="Quest_03194_Task_13_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Find Aelstrom in the tavern</string>
+	<string key="Quest_03194_Task_14_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">(Optional} Reach Level 25</string>
+	<string key="Quest_03194_Task_16_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE"/>
+	<string key="Quest_03194_Task_16_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Acquire Dampened Celadon Azerite Tailings from Simon Grey</string>
+	<string key="Quest_03194_Task_17_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">[NYI] Report your success to Aelstrom</string>
+	<string key="Quest_03194_Task_18_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Craft any 5 Adventurer&apos;s Caches</string>
+	<string key="Quest_03194_Task_1_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Acquire the following items to craft caches:</string>
+	<string key="Quest_03194_Task_2_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Head to Cavalry in Brightwood to continue your journey</string>
+	<string key="Quest_03194_Task_6_0_0_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Dampened Goldenrod Azerite Tailings, acquired from Darkness Events</string>
+	<string key="Quest_03194_Task_6_0_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Dampened Lavender Azerite Tailings, acquired from gathering resources with high Luck</string>
+	<string key="Quest_03194_Task_6_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Dampened Cerulean Azerite Tailings, acquired from looting chests</string>
+	<string key="Quest_03194_Task_6_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Dampened Vermilion Azerite Tailings, acquired from named enemies</string>
+	<string key="Quest_03194_Task_8_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Complete the Curse of Caer Dun Soul Trial</string>
+	<string key="Quest_03194_Task_8_Description_0" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Complete all encounters in the Amrine Excavation Expedition</string>
+	<string key="Quest_03194_Task_9_0_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE"/>
+	<string key="Quest_03194_Task_9_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Simon Grey</string>
+	<string key="Quest_03194_Task_9_1_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE"/>
+	<string key="Quest_03194_Task_9_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Foreman Nakashima</string>
+	<string key="Quest_03194_description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Description">Placeholder quest for Brightwood.</string>
+	<string key="Quest_03194_title" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Title">[NYI] Season Journey Quest 3</string>
+	<string key="Quest_03195_Task_1_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Head to the settlement in Weaver&apos;s Fen to continue your journey</string>
+	<string key="Quest_03195_Task_2_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Check in with Aelstrom</string>
+	<string key="Quest_03195_Task_2_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Speak to Aelstrom</string>
+	<string key="Quest_03195_Task_6_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Craft any 5 Tier 3 Adventurer&apos;s Caches</string>
+	<string key="Quest_03195_Task_7_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Complete all encounters in the Depths Expedition</string>
+	<string key="Quest_03195_Task_8_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Commander Thorpe</string>
+	<string key="Quest_03195_Task_8_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Archdeacon Azamela</string>
+	<string key="Quest_03195_description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Description"/>
+	<string key="Quest_03195_title" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Title">[DELETE ME]</string>
+	<string key="Quest_03196_Task_1_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Head to Warden&apos;s Rise in Great Cleave</string>
+	<string key="Quest_03196_Task_5_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Return to Aelstrom</string>
+	<string key="Quest_03196_Task_5_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Speak to Aelstrom</string>
+	<string key="Quest_03196_Task_6_0_0_0_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Charged Celadon Azerite Tailings, acquired by defeating the final boss in Starstone Burrows, The Depths, Lazarus Instrumentalilty, or Tempest Soul</string>
+	<string key="Quest_03196_Task_6_0_0_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Charged Lavender Azerite Tailings, acquired by gathering resources with high Luck</string>
+	<string key="Quest_03196_Task_6_0_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Charged Cerulean Azerite Tailings, acquired by looting large chests</string>
+	<string key="Quest_03196_Task_6_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Charged Vermilion Azerite Tailings, acquired by defeating Elite or Named enemies</string>
+	<string key="Quest_03196_Task_6_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Charged Goldenrod Azerite Tailings, acquired by completing Darkness Events</string>
+	<string key="Quest_03196_Task_7_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Acquire the following materials:</string>
+	<string key="Quest_03196_Task_8_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Craft any 5 Soldier&apos;s Caches</string>
+	<string key="Quest_03196_Task_9_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Complete the Corrupted Leviathan Soul Trial</string>
+	<string key="Quest_03196_Task_9_Description_0" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Return to Aelstrom</string>
+	<string key="Quest_03196_description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Description">Placeholder quest description for Great Cleave.</string>
+	<string key="Quest_03196_title" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Title">[NYI] Season Journey Quest 4</string>
+	<string key="Quest_03197_Task_10_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Isabella</string>
+	<string key="Quest_03197_Task_2_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Head to Fortune&apos;s Crossing in Ebonscale Reach</string>
+	<string key="Quest_03197_Task_3_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Speak to Aelstrom</string>
+	<string key="Quest_03197_Task_3_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Speak to Aelstrom</string>
+	<string key="Quest_03197_Task_6_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">[NYI] Acquire items from defeating enemies within elite strongholds throughout Ebonscale Reach</string>
+	<string key="Quest_03197_Task_7_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Complete all encounters within the Dynasty Shipyard Expedition</string>
+	<string key="Quest_03197_Task_8_0_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE"/>
+	<string key="Quest_03197_Task_8_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE"/>
+	<string key="Quest_03197_Task_8_1_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Empress Zhou</string>
+	<string key="Quest_03197_Task_8_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Isabella</string>
+	<string key="Quest_03197_Task_9_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Commander Chen</string>
+	<string key="Quest_03197_description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Description">Placeholder quest description for Ebonscale Reach</string>
+	<string key="Quest_03197_title" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Title">[NYI] Season Journey Quest 5</string>
+	<string key="Quest_03198_Task_11_0_0_0_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE"/>
+	<string key="Quest_03198_Task_11_0_0_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE"/>
+	<string key="Quest_03198_Task_11_0_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE"/>
+	<string key="Quest_03198_Task_11_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE"/>
+	<string key="Quest_03198_Task_2_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Head to Caliburne in Edengrove</string>
+	<string key="Quest_03198_Task_3_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Speak to Aelstrom</string>
+	<string key="Quest_03198_Task_7_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE"/>
+	<string key="Quest_03198_Task_7_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">[NYI] Craft any 5 Adventurer&apos;s Caches</string>
+	<string key="Quest_03198_Task_9_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">(Optional) Reach Level 60</string>
+	<string key="Quest_03198_description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Description"/>
+	<string key="Quest_03198_title" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Title">[DELETE ME]</string>
+	<string key="Quest_03199_Task_12_0_0_0_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Enriched Celadon Azerite Tailings, acquired from Mutated Expeditions</string>
+	<string key="Quest_03199_Task_12_0_0_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Enriched Lavender Azerite Tailings, acquired from gathering resources with high Luck</string>
+	<string key="Quest_03199_Task_12_0_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Enriched Goldenrod Azerite Tailings, acquired from Darkness Events</string>
+	<string key="Quest_03199_Task_12_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Enriched Cerulean Azerite Tailings, acquired from elite chests</string>
+	<string key="Quest_03199_Task_12_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Enriched Vermilion Azerite Tailings, acquired from named enemies in Elite strongholds</string>
+	<string key="Quest_03199_Task_13_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Complete Darkness Events within Brimstone Sands</string>
+	<string key="Quest_03199_Task_16_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Defeat Apophis within the Necropolis</string>
+	<string key="Quest_03199_Task_18_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE"/>
+	<string key="Quest_03199_Task_2_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Head to New Corsica in Brimstone Sands</string>
+	<string key="Quest_03199_Task_3_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Speak to Aelstrom</string>
+	<string key="Quest_03199_Task_6_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Acquire the following items to craft caches:</string>
+	<string key="Quest_03199_Task_8_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Craft any 5 Hero&apos;s Caches</string>
+	<string key="Quest_03199_description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Description">Placeholder quest description for Brimstone Sands</string>
+	<string key="Quest_03199_title" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Title">[NYI] Season Journey Quest 6</string>
+	<string key="Quest_03200_Task_10_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">[NYI] Complete your season journey</string>
+	<string key="Quest_03200_Task_2_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Head to Last Light in Elysian Wilds</string>
+	<string key="Quest_03200_Task_5_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Speak to Aelstrom</string>
+	<string key="Quest_03200_Task_5_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Speak to Aelstrom</string>
+	<string key="Quest_03200_Task_7_0_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE"/>
+	<string key="Quest_03200_Task_8_Description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Craft any 5 Max Gear Score Heror&apos;s Caches</string>
+	<string key="Quest_03200_description" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Description">Placeholder quest description for Elysian Wilds</string>
+	<string key="Quest_03200_title" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Quest Title">[NYI] Season Journey Quest 7</string>
 </resources>
 

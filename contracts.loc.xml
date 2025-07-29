@@ -6,6 +6,7 @@
 	<string key="ui_buy_order_placed_detail">You placed a Buy Order for {itemName} x {quantity}</string>
 	<string key="ui_sell_order_placed_detail">You placed a Sell Order for {itemName} x {quantity}</string>
 	<string key="ui_order_placed_success_notification">Sell Order Placed</string>
+	<string key="ui_order_placed_possible_delay">(Order may take a few moments to appear in the Trading Post)</string>
 	<string key="ui_acceptsrarity">Accepts This Rarity</string>
 	<string key="ui_acceptscraftsmanship">Accepts This Craftsmanship</string>
 	<string key="ui_howmany">QUANTITY</string>

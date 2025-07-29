@@ -11,6 +11,7 @@
 	<string key="ui_queue_generic_leave_desc">Are you sure you want to leave the current queue?</string>
 	<string key="ui_game_mode_matchmaking_failed">An unexpected matchmaking failure has occurred.</string>
 	<string key="ui_game_mode_disabled">This game mode is currently disabled.</string>
+	<string key="ui_session_ending_label">Session Ending:</string>
 	<string key="ui_dungeon_enter_info">&lt;font color={color}&gt;At least 1 person&lt;/font&gt; must enter to keep the Expedition open. Teleport in now?</string>
 	<string key="ui_dungeon_enter_info_solo">&lt;font color={color}&gt;Soul Trial is ready&lt;/font&gt;. Teleport in now?</string>
 	<string key="ui_dungeon_enter_info_raidtrial">&lt;font color={color}&gt;At least 1 person&lt;/font&gt; must enter to keep the Elite Trial open. Teleport in now?</string>
@@ -253,9 +254,9 @@
 	<string key="or_tutorial_summoning_reminder_title">USE YOUR SUMMONING STONE</string>
 	<string key="or_tutorial_summoning_reminder_body">Get to an unoccupied summoning circle to summon a powerful ally.</string>
 	<string key="or_tutorial_summoning_findstone_title">YOU NEED A SUMMONING STONE</string>
-	<string key="or_tutorial_summoning_findstone_body">Defeat the Alpha Wolf at the wolves den, defeating Ug or Dug at the mines, or defeating and closing the Corrupted Portal.</string>
+	<string key="or_tutorial_summoning_findstone_body">Defeat the Alpha Wolf at the wolves' den, defeat Ug or Dug at the mines, or defeat and close the Corrupted Portal.</string>
 	<string key="or_tutorial_summoning_nostone_title">GET A SUMMONING STONE AND TRY AGAIN</string>
-	<string key="or_tutorial_summoning_nostone_body">Defeat the Alpha Wolf at the wolves den, defeating Ug or Dug at the mines, or defeating and closing the Corrupted Portal.</string>
+	<string key="or_tutorial_summoning_nostone_body">Defeat the Alpha Wolf at the wolves' den, defeat Ug or Dug at the mines, or defeat and close the Corrupted Portal.</string>
 	<string key="or_tutorial_summoning_creature_title">SUMMONING CIRCLE CAN'T BE USED AGAIN YET</string>
 	<string key="or_tutorial_summoning_creature_body">Try a different one, or wait until this one is available again.</string>
 	<string key="emote_unable_to_use_emote">Unable to use Emote in this game mode.</string>
@@ -308,9 +309,10 @@
 	<string key="ui_pvp_balance_header" rel_version="Feature_PvP_PvE_Split">PvP balance modifiers in effect:</string>
 	<string key="or_outpost_rush_map_name" rel_version="Season_7_Perm">Nauthynos Island</string>
 	<string key="or_outpost_rush_trench_map_name" rel_version="OPR_004_Trench">Coral Divide</string>
+	<string key="or_outpost_rush_vertical_map_name" rel_version="OPR_005_Vertical">Tower of Calomel</string>
 	<string key="arena_3v3_map_name" rel_version="Feature_PVP_Arenas">Ancient Sanctum</string>
 	<string key="arena_3v3_02_map_name" rel_version="Feature_PVP_Arenas">Gladiator's Ring</string>
-	<string key="arena_3v3_04_map_name" rel_version="Arena_3v3_04">Arena Preview</string>
+	<string key="arena_3v3_04_map_name" rel_version="Arena_3v3_04">Verdant Court</string>
 	<string key="ui_activity_finder_tooltip_current_map_rotation_text" rel_version="Season_7_Perm">Current map on rotation</string>
 	<string key="ui_activity_finder_tooltip_next_map_rotation_text" rel_version="Season_7_Perm">Next map on rotation</string>
 	<string key="ui_activity_finder_tooltip_current_map_rotation" rel_version="Season_7_Perm">{currentRotationText} : {mapName}</string>
@@ -356,8 +358,8 @@
 	<string key="ctf_gamemode_description" rel_version="Gamemode_CTF">Capture the Flag is a fast paced, team oriented game mode that requires both offensive and defensive tactics. Defend your base while stealing the enemy's flag to win.</string>
 	<string key="ctf_Map_Template_Name" rel_version="Gamemode_CTF" comment="DO NOT TRANSLATE">[PH] CTF - Unnamed Test Map</string>
 	<string key="ctf_Map_Temp_Name" rel_version="Gamemode_CTF" comment="DO NOT TRANSLATE">[PH] CTF - Unnamed Test Map</string>
-	<string key="ctf_002_Wide_Map_Name" rel_version="Gamemode_CTF">CTF Preview</string>
-	<string key="ctf_003_Long_Map_Name" rel_version="Gamemode_CTF">CTF Preview</string>
+	<string key="ctf_002_Wide_Map_Name" rel_version="Gamemode_CTF">Forbidden City</string>
+	<string key="ctf_003_Long_Map_Name" rel_version="Gamemode_CTF">Frozen Pass</string>
 	<string key="ctf_blue_team" rel_version="Gamemode_CTF">&lt;font color="#45d1ff"&gt;Blue Team&lt;/font&gt;</string>
 	<string key="ctf_red_team" rel_version="Gamemode_CTF">&lt;font color="#f25d5d"&gt;Red Team&lt;/font&gt;</string>
 	<string key="ctf_flag_dropped" rel_version="Gamemode_CTF">Your flag was dropped</string>

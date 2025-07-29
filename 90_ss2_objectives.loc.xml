@@ -1,191 +1,165 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<string key="NPC_03976_State_0_DefaultDialogue" rel_version="Seasonal_Server_2" speaker="Aelstrom">Only the gods could defeat Aelstrom, and even then, death was unable to wrestle my soul away!</string>
-	<string key="NPC_03976_State_1_DefaultDialogue" rel_version="Seasonal_Server_2" speaker="Aelstrom">Ahhh… Feels a bit different, no? Let the air fill your lungs, friend. You have been reborn - like a little baby - So weak you are!</string>
-	<string key="NPC_03976_State_1_Topic_0_NPCResponse" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-next="@NPC_03976_State_1_Topic_0_NPCResponse_1">Yes. And by the looks of your puniness, it won’t be the last time either! Ha ha! Lucky for you, in Aeternum the worthy get to keep their souls.</string>
-	<string key="NPC_03976_State_1_Topic_0_NPCResponse_1_prompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">What makes one worthy, exactly?</string>
-	<string key="NPC_03976_State_1_Topic_0_NPCResponse_1" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-next="@NPC_03976_State_1_Topic_0_NPCResponse_2" dialogue-prompt="@NPC_03976_State_1_Topic_0_NPCResponse_1_prompt">You must be like Aelstrom- strong, daring, and the most immortal of all immortals. The more you laugh at death, the stronger your soul becomes!</string>
-	<string key="NPC_03976_State_1_Topic_0_NPCResponse_2_prompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">How many times have you laughed at death?</string>
-	<string key="NPC_03976_State_1_Topic_0_NPCResponse_2" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-next="@NPC_03976_State_1_Topic_0_NPCResponse_3" dialogue-prompt="@NPC_03976_State_1_Topic_0_NPCResponse_2_prompt">Many, MANY times. So many, Aelstrom has lost count. But you- you have only tasted death once. Perhaps you should start by staying alive.</string>
-	<string key="NPC_03976_State_1_Topic_0_NPCResponse_3_prompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">So which is it? Stay alive or die?</string>
-	<string key="NPC_03976_State_1_Topic_0_NPCResponse_3" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-next="@NPC_03976_State_1_Topic_0_NPCResponse_4" dialogue-prompt="@NPC_03976_State_1_Topic_0_NPCResponse_3_prompt">First one, then the other. Is this not clear?</string>
-	<string key="NPC_03976_State_1_Topic_0_NPCResponse_4_prompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">Not really. No.</string>
-	<string key="NPC_03976_State_1_Topic_0_NPCResponse_4" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-next="@NPC_03976_State_1_Topic_0_NPCResponse_5" dialogue-prompt="@NPC_03976_State_1_Topic_0_NPCResponse_4_prompt">I cannot blame you for being confused. You are very small. I offer you this challenge, then. Live in the face of all Aeternum&apos;s might, untouched by death, and I shall reward you.</string>
-	<string key="NPC_03976_State_1_Topic_0_NPCResponse_5_prompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">And THEN I die?</string>
-	<string key="NPC_03976_State_1_Topic_0_NPCResponse_5" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-next="@NPC_03976_State_1_Topic_0_NPCResponse_6" dialogue-prompt="@NPC_03976_State_1_Topic_0_NPCResponse_5_prompt">No! Yes. If you die, this is fine. You may then prove your worth to Aelstrom by dying and finding life again... and again... and again! So long as you do as Aelstrom tells you, your soul shall endure! It will be so!</string>
-	<string key="NPC_03976_State_1_Topic_0_NPCResponse_6_prompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">What do I get out of this?</string>
-	<string key="NPC_03976_State_1_Topic_0_NPCResponse_6" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-prompt="@NPC_03976_State_1_Topic_0_NPCResponse_6_prompt">That is a ridiculous question. Aelstrom tires of this conversation. Get yourself some little tools and practice using them. You will need them for what is to come!</string>
-	<string key="NPC_03976_State_1_Topic_0_PlayerPrompt" rel_version="Seasonal_Server_2" speaker="Aelstrom">Wait, I died?</string>
-	<string key="NPC_03976_State_2_DefaultDialogue" rel_version="Seasonal_Server_2" speaker="Aelstrom">Lifting rocks and breaking twigs, this is good for the circulation. Now, show Aelstrom what you have made.</string>
-	<string key="NPC_03976_State_2_Topic_0_NPCResponse" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-next="@NPC_03976_State_2_Topic_0_NPCResponse_1">Good enough. A little on the small side, but so are you. These will suffice until you can make something to be proud of!</string>
-	<string key="NPC_03976_State_2_Topic_0_NPCResponse_1_prompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">What&apos;s next?</string>
-	<string key="NPC_03976_State_2_Topic_0_NPCResponse_1" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-next="@NPC_03976_State_2_Topic_0_NPCResponse_2" dialogue-prompt="@NPC_03976_State_2_Topic_0_NPCResponse_1_prompt">Eager to taunt death? Aelstrom will hold you back no longer! We will meet in the tavern in Corinth.</string>
-	<string key="NPC_03976_State_2_Topic_0_NPCResponse_2_prompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">Corinth tavern. Got it, see you there!</string>
-	<string key="NPC_03976_State_2_Topic_0_NPCResponse_2" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-prompt="@NPC_03976_State_2_Topic_0_NPCResponse_2_prompt">Perhaps you should take a moment to practice swinging those tools of yours on the journey, yes? Off you go!</string>
-	<string key="NPC_03976_State_2_Topic_0_PlayerPrompt" rel_version="Seasonal_Server_2" speaker="Aelstrom">They are pretty basic...</string>
-	<string key="NPC_04627_State_0_DefaultDialogue" rel_version="Seasonal_Server_2" speaker="Aelstrom">Still surviving, I see! Good. It would be disappointing to win our little competition so soon.</string>
-	<string key="NPC_04627_State_1_DefaultDialogue" rel_version="Seasonal_Server_2" speaker="Aelstrom">You do not look as though you broke a sweat. We should fix this. What is a friendly competition without some exertion?</string>
-	<string key="NPC_04627_State_2_DefaultDialogue" rel_version="Seasonal_Server_2" speaker="Aelstrom">Look how much you’ve grown, friend! You’ve earned a moment to breathe.</string>
-	<string key="NPC_04627_State_5_DefaultDialogue" rel_version="Seasonal_Server_2" speaker="Aelstrom">Ah, you’ve got the goods. Now it’s time to add some sweat and pride! Craft them into something you can use.</string>
-	<string key="NPC_04627_State_5_Topic_0_NPCResponse" rel_version="Seasonal_Server_2" speaker="Aelstrom">Make yourself something to be proud of- eh? Something Powerful! Something from your own two hands! These are the only ingredients that REALLY matter.</string>
-	<string key="NPC_04627_State_5_Topic_0_PlayerPrompt" rel_version="Seasonal_Server_2" speaker="Aelstrom">Sweat and... pride?</string>
-	<string key="NPC_04629_State_0_DefaultDialogue" rel_version="Seasonal_Server_2" speaker="Aelstrom">Only the gods could defeat Aelstrom, and even then, death was unable to wrestle my soul away!</string>
-	<string key="NPC_04629_State_1_DefaultDialogue" rel_version="Seasonal_Server_2" speaker="Aelstrom">Ahhh… Feels a bit different, no? Let the air fill your lungs, friend. You have been reborn - like a little baby - So weak you are!</string>
-	<string key="NPC_04629_State_1_Topic_0_NPCResponse" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-next="@NPC_04629_State_1_Topic_0_NPCResponse_1">Yes. And by the looks of your puniness, it won’t be the last time either! Ha ha! Lucky for you, in Aeternum the worthy get to keep their souls.</string>
-	<string key="NPC_04629_State_1_Topic_0_NPCResponse_1_prompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">What makes one worthy, exactly?</string>
-	<string key="NPC_04629_State_1_Topic_0_NPCResponse_1" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-next="@NPC_04629_State_1_Topic_0_NPCResponse_2" dialogue-prompt="@NPC_04629_State_1_Topic_0_NPCResponse_1_prompt">You must be like Aelstrom- strong, daring, and the most immortal of all immortals. The more you laugh at death, the stronger your soul becomes!</string>
-	<string key="NPC_04629_State_1_Topic_0_NPCResponse_2_prompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">How many times have you laughed at death?</string>
-	<string key="NPC_04629_State_1_Topic_0_NPCResponse_2" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-next="@NPC_04629_State_1_Topic_0_NPCResponse_3" dialogue-prompt="@NPC_04629_State_1_Topic_0_NPCResponse_2_prompt">Many, MANY times. So many, Aelstrom has lost count. But you- you have only tasted death once. Perhaps you should start by staying alive.</string>
-	<string key="NPC_04629_State_1_Topic_0_NPCResponse_3_prompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">So which is it? Stay alive or die?</string>
-	<string key="NPC_04629_State_1_Topic_0_NPCResponse_3" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-next="@NPC_04629_State_1_Topic_0_NPCResponse_4" dialogue-prompt="@NPC_04629_State_1_Topic_0_NPCResponse_3_prompt">FIrst one, then the other. Is this not clear?</string>
-	<string key="NPC_04629_State_1_Topic_0_NPCResponse_4_prompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">Not really. No.</string>
-	<string key="NPC_04629_State_1_Topic_0_NPCResponse_4" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-next="@NPC_04629_State_1_Topic_0_NPCResponse_5" dialogue-prompt="@NPC_04629_State_1_Topic_0_NPCResponse_4_prompt">I cannot blame you for being confused. You are very small. I offer you this challenge, then. Live in the face of all Aeternum&apos;s might, untouched by death, and I shall reward you.</string>
-	<string key="NPC_04629_State_1_Topic_0_NPCResponse_5_prompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">And THEN I die?</string>
-	<string key="NPC_04629_State_1_Topic_0_NPCResponse_5" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-next="@NPC_04629_State_1_Topic_0_NPCResponse_6" dialogue-prompt="@NPC_04629_State_1_Topic_0_NPCResponse_5_prompt">No! Yes. If you die, this is fine. You may then prove your worth to Aelstrom by dying and finding life again... and again... and again! So long as you do as Aelstrom tells you, your soul shall endure! It will be so!</string>
-	<string key="NPC_04629_State_1_Topic_0_NPCResponse_6_prompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">What do I get out of this?</string>
-	<string key="NPC_04629_State_1_Topic_0_NPCResponse_6" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-prompt="@NPC_04629_State_1_Topic_0_NPCResponse_6_prompt">That is a ridiculous question. Aelstrom tires of this conversation. Get yourself some little tools and practice using them. You will need them for what is to come!</string>
-	<string key="NPC_04629_State_1_Topic_0_PlayerPrompt" rel_version="Seasonal_Server_2" speaker="Aelstrom">Wait, I died?</string>
-	<string key="NPC_04629_State_2_DefaultDialogue" rel_version="Seasonal_Server_2" speaker="Aelstrom">Lifting rocks and breaking twigs, this is good for the circulation. Now, show Aelstrom what you have made.</string>
-	<string key="NPC_04629_State_2_Topic_0_NPCResponse" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-next="@NPC_04629_State_2_Topic_0_NPCResponse_1">Good enough. A little on the small side, but so are you. These will suffice until you can make something to be proud of!</string>
-	<string key="NPC_04629_State_2_Topic_0_NPCResponse_1_prompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">What&apos;s next?</string>
-	<string key="NPC_04629_State_2_Topic_0_NPCResponse_1" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-next="@NPC_04629_State_2_Topic_0_NPCResponse_2" dialogue-prompt="@NPC_04629_State_2_Topic_0_NPCResponse_1_prompt">Eager to taunt death? Aelstrom will hold you back no longer! We will meet in the tavern in Corinth.</string>
-	<string key="NPC_04629_State_2_Topic_0_NPCResponse_2_prompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">Corinth tavern. Got it, see you there!</string>
-	<string key="NPC_04629_State_2_Topic_0_NPCResponse_2" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-prompt="@NPC_04629_State_2_Topic_0_NPCResponse_2_prompt">Perhaps you should take a moment to practice swinging those tools of yours on the journey, yes? Off you go!</string>
-	<string key="NPC_04629_State_2_Topic_0_PlayerPrompt" rel_version="Seasonal_Server_2" speaker="Aelstrom">They are pretty basic...</string>
-	<string key="NPC_04630_State_0_DefaultDialogue" rel_version="Seasonal_Server_2" speaker="Aelstrom">Ah, this is the stuff. Only in Brightwood. Misery often makes for excellent ale.</string>
-	<string key="NPC_04630_State_1_DefaultDialogue" rel_version="Seasonal_Server_2" speaker="Aelstrom">This dark corruption doesn&apos;t just twist the body, hmm? It inflates ego too. It takes strong will to not give in. You handled yourself well...</string>
-	<string key="NPC_04630_State_2_DefaultDialogue" rel_version="Seasonal_Server_2" speaker="Aelstrom">Good, you made it. Have a drink! You will need it.</string>
-	<string key="NPC_04630_State_2_Topic_0_NPCResponse" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-next="@NPC_04630_State_2_Topic_0_NPCResponse_1">Here you will find even more powerful materials to craft even more impressive goods! They are, of course, harder to acquire, but Aelstrom has faith in you.</string>
-	<string key="NPC_04630_State_2_Topic_0_NPCResponse_1_prompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">Ah. This again.</string>
-	<string key="NPC_04630_State_2_Topic_0_NPCResponse_1" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-next="@NPC_04630_State_2_Topic_0_NPCResponse_2" dialogue-prompt="@NPC_04630_State_2_Topic_0_NPCResponse_1_prompt">Do not sound so disappointed! Growing one&apos;s strength ordinarily takes years of patience and copious lifting of heavy objects. This is much faster, yes?</string>
-	<string key="NPC_04630_State_2_Topic_0_NPCResponse_2_prompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">You have a point.</string>
-	<string key="NPC_04630_State_2_Topic_0_NPCResponse_2" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-prompt="@NPC_04630_State_2_Topic_0_NPCResponse_2_prompt">Aelstrom is wise AND strong. Maybe one day you will be too. Off with you!</string>
-	<string key="NPC_04630_State_2_Topic_0_PlayerPrompt" rel_version="Seasonal_Server_2" speaker="Aelstrom">Oh? What am I doing next?</string>
-	<string key="NPC_04630_State_3_DefaultDialogue" rel_version="Seasonal_Server_2" speaker="Aelstrom">You return! Confident. Prepared. Flush with shiny things.</string>
-	<string key="NPC_04630_State_3_Topic_0_NPCResponse" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-next="@NPC_04630_State_3_Topic_0_NPCResponse_1">Not yet! There is one more source of power that may interest you. It will be a perilous journey, but I think you are equal to it.</string>
-	<string key="NPC_04630_State_3_Topic_0_NPCResponse_1_prompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">An opportunity to die by the sound of it.</string>
-	<string key="NPC_04630_State_3_Topic_0_NPCResponse_1" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-next="@NPC_04630_State_3_Topic_0_NPCResponse_2" dialogue-prompt="@NPC_04630_State_3_Topic_0_NPCResponse_1_prompt">An opportunity to begin your legend! There is an abandoned mine beneath the Amrine Temple. A brave but sadly weak soul guards what you seek.</string>
-	<string key="NPC_04630_State_3_Topic_0_NPCResponse_2_prompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">So... defeat them. Got it.</string>
-	<string key="NPC_04630_State_3_Topic_0_NPCResponse_2" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-next="@NPC_04630_State_3_Topic_0_NPCResponse_3" dialogue-prompt="@NPC_04630_State_3_Topic_0_NPCResponse_2_prompt">It sounds simple, but the corruption inside is... dark. It endlessly twists and pulls victims... no longer human. Those who seek its truth lose their sanity and never return.</string>
-	<string key="NPC_04630_State_3_Topic_0_NPCResponse_3_prompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">That&apos;s quite a tone shift, Aelstrom.</string>
-	<string key="NPC_04630_State_3_Topic_0_NPCResponse_3" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-next="@NPC_04630_State_3_Topic_0_NPCResponse_4" dialogue-prompt="@NPC_04630_State_3_Topic_0_NPCResponse_3_prompt">There was one - Simon Grey - a scholar. Proud. Curious. Now lost and said to have become a beast of muscle and madness. How could one so curious be consumed?!</string>
-	<string key="NPC_04630_State_3_Topic_0_NPCResponse_4_prompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">Woah.</string>
-	<string key="NPC_04630_State_3_Topic_0_NPCResponse_4" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-prompt="@NPC_04630_State_3_Topic_0_NPCResponse_4_prompt">Lucky for you, strength alone won’t keep you alive. This will test your speed, mind, soul... the parts you cannot forge or hide behind steel. Good luck!</string>
-	<string key="NPC_04630_State_3_Topic_0_PlayerPrompt" rel_version="Seasonal_Server_2" speaker="Aelstrom">Now I make some armor?</string>
-	<string key="NPC_04630_State_4_Topic_0_NPCResponse_0" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-next="@NPC_04630_State_4_Topic_0_NPCResponse_0_1">There is much you can craft with this. A bigger sword, boots with a bit of lift ... and maybe a taller stool.</string>
-	<string key="NPC_04630_State_4_Topic_0_NPCResponse_0_1_prompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">I’m really not that small...</string>
-	<string key="NPC_04630_State_4_Topic_0_NPCResponse_0_1" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-prompt="@NPC_04630_State_4_Topic_0_NPCResponse_0_1_prompt">Small in stature only, my friend. Now use these mighty things you have gathered. Your strength depends on it!</string>
-	<string key="NPC_04630_State_4_Topic_0_PlayerPrompt_0" rel_version="Seasonal_Server_2" speaker="Aelstrom">Sure did.</string>
-	<string key="NPC_04632_State_0_DefaultDialogue" rel_version="Seasonal_Server_2" speaker="Aelstrom">Your confidence has grown. This pleases Aelstrom.</string>
-	<string key="NPC_04632_State_1_DefaultDialogue" rel_version="Seasonal_Server_2" speaker="Aelstrom">Well friend... Aelstrom has given you the wisdom to thrive in this corrupted mess.</string>
-	<string key="NPC_04632_State_2_DefaultDialogue" rel_version="Seasonal_Server_2" speaker="Aelstrom">Welcome to hell, friend! I should have told you to bring a coat! Ha ha! Come, come... There is much work to do.</string>
-	<string key="NPC_04632_State_2_Topic_0_NPCResponse" rel_version="Seasonal_Server_2" speaker="Aelstrom">Think? You should know! Go wrestle power from the land and darkness here. Come back when your pack is heavier than your doubt.</string>
-	<string key="NPC_04632_State_2_Topic_0_PlayerPrompt" rel_version="Seasonal_Server_2" speaker="Aelstrom">Thanks, I think I can handle myself.</string>
-	<string key="NPC_04632_State_3_DefaultDialogue" rel_version="Seasonal_Server_2" speaker="Aelstrom">Let’s see... You seem more sure of yourself now. Grittier. Sweaty, even.</string>
-	<string key="NPC_04632_State_3_Topic_0_NPCResponse_0" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-next="@NPC_04632_State_3_Topic_0_NPCResponse_0_1">Good! Make decisions with confidence... intention. You will survive another day. Now go craft with that same intention, yes?</string>
-	<string key="NPC_04632_State_3_Topic_0_NPCResponse_0_1_prompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">Sweat and pride!</string>
-	<string key="NPC_04632_State_3_Topic_0_NPCResponse_0_1" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-prompt="@NPC_04632_State_3_Topic_0_NPCResponse_0_1_prompt">Haha! Yes!</string>
-	<string key="NPC_04632_State_3_Topic_0_PlayerPrompt_0" rel_version="Seasonal_Server_2" speaker="Aelstrom">How sweet of you to say.</string>
-	<string key="NPC_04633_State_0_DefaultDialogue" rel_version="Seasonal_Server_2" speaker="Aelstrom">Today is probably not the day you die, so fight like it!</string>
-	<string key="NPC_04633_State_1_DefaultDialogue" rel_version="Seasonal_Server_2" speaker="Aelstrom">Well, friend? Is this where your story ends!?</string>
-	<string key="NPC_04633_State_2_DefaultDialogue" rel_version="Seasonal_Server_2" speaker="Aelstrom">You’ve come all this way... Tell me, friend - any doubts still whispering in your ear? Even the brave hear ghosts on the quiet road.</string>
-	<string key="NPC_04633_State_2_Topic_0_NPCResponse" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-next="@NPC_04633_State_2_Topic_0_NPCResponse_1">Your belief is thicker than your armor then. You will need both and plenty of it. The Empress&apos; forces will show you no mercy!</string>
-	<string key="NPC_04633_State_2_Topic_0_NPCResponse_1_prompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">I will try not to die.</string>
-	<string key="NPC_04633_State_2_Topic_0_NPCResponse_1" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-next="@NPC_04633_State_2_Topic_0_NPCResponse_2" dialogue-prompt="@NPC_04633_State_2_Topic_0_NPCResponse_1_prompt">And if you do...</string>
-	<string key="NPC_04633_State_2_Topic_0_NPCResponse_2_prompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">I will return intact.</string>
-	<string key="NPC_04633_State_2_Topic_0_NPCResponse_2" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-prompt="@NPC_04633_State_2_Topic_0_NPCResponse_2_prompt">You make Aelstrom proud. Bring a little tear to his eye.</string>
-	<string key="NPC_04633_State_2_Topic_0_PlayerPrompt" rel_version="Seasonal_Server_2" speaker="Aelstrom">Nope. None.</string>
-	<string key="NPC_04635_State_0_DefaultDialogue" rel_version="Seasonal_Server_2" speaker="Aelstrom">Every fool wants to be a hero. Few are stubborn enough to make the world remember.</string>
-	<string key="NPC_04635_State_1_DefaultDialogue" rel_version="Seasonal_Server_2" speaker="Aelstrom">Have you heard of the Elysian Wilds? Deceptively beautiful lands to the deep south.</string>
-	<string key="NPC_04635_State_2_DefaultDialogue" rel_version="Seasonal_Server_2" speaker="Aelstrom">This... is New Corsica. Built out of spite from the sun and granted shade by the monuments of legends.</string>
-	<string key="NPC_04635_State_2_Topic_0_NPCResponse" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-next="@NPC_04635_State_2_Topic_0_NPCResponse_1">She is... like a drunk noble. Regal, dangerous, may collapse at anytime. And yet... she stands - Like you, yes? Hard to not respect that... but Aelstrom welcomes the challenge. Ha!</string>
-	<string key="NPC_04635_State_2_Topic_0_NPCResponse_1_prompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">... I&apos;ll be going, now.</string>
-	<string key="NPC_04635_State_2_Topic_0_NPCResponse_1" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-prompt="@NPC_04635_State_2_Topic_0_NPCResponse_1_prompt">Aelstrom will be here! Even though there is sand in the ale, he would not miss hearing of your great deeds!</string>
-	<string key="NPC_04635_State_2_Topic_0_PlayerPrompt" rel_version="Seasonal_Server_2" speaker="Aelstrom">I’m speechless.</string>
-	<string key="NPC_04636_State_0_DefaultDialogue" rel_version="Seasonal_Server_2" speaker="Aelstrom">In the Wilds, you either become more than you were... or you cease being anything at all. Go find your truth before the truth finds you unprepared.</string>
-	<string key="NPC_04636_State_2_DefaultDialogue" rel_version="Seasonal_Server_2" speaker="Aelstrom">Aelstrom knows your legend will eclipse his. Eventually.</string>
-	<string key="NPC_04636_State_3_DefaultDialogue" rel_version="Seasonal_Server_2" speaker="Aelstrom">You can feel the ground breath here. This place is alive. The souls of heroes and legends enrich the earth. Do you feel it?</string>
-	<string key="NPC_04636_State_3_Topic_0_NPCResponse" rel_version="Seasonal_Server_2" speaker="Aelstrom">The path you walk from here will show you who you really are. What you are capable of... or maybe a fate you cannot escape.</string>
-	<string key="NPC_04636_State_3_Topic_0_PlayerPrompt" rel_version="Seasonal_Server_2" speaker="Aelstrom">Yeah... it&apos;s eerie, yet beautiful.</string>
-	<string key="NPC_04636_State_4_DefaultDialogue" rel_version="Seasonal_Server_2" speaker="Aelstrom">Mid-quest check in</string>
-	<string key="Quest_03189_PlayerPrompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt"/>
-	<string key="Quest_03189_InProgressResponse" rel_version="Seasonal_Server_2" speaker="Aelstrom">N/A</string>
-	<string key="Quest_03189_DestinationCompletionAvailablePrompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">Complete the Quest</string>
-	<string key="Quest_03189_DestinationCompletionAvailableResponse" rel_version="Seasonal_Server_2" speaker="Aelstrom">You made it in one piece I see! This is good. Aelstrom would be disappointed to have won our little competition so soon.</string>
-	<string key="Quest_03190_PlayerPrompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt"/>
-	<string key="Quest_03190_InProgressResponse" rel_version="Seasonal_Server_2" speaker="Aelstrom">N/A</string>
-	<string key="Quest_03190_DestinationCompletionAvailablePrompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">Complete the Quest</string>
-	<string key="Quest_03190_DestinationCompletionAvailableResponse" rel_version="Seasonal_Server_2" speaker="Aelstrom">You made it in one piece I see! This is good. Aelstrom would be disappointed to have won our little competition so soon.</string>
-	<string key="Quest_03192_PlayerPrompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">What am I competing for?</string>
-	<string key="Quest_03192_ObjectiveProposalResponse" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-next="@Quest_03192_ObjectiveProposalResponse_1">Bragging rights! Stories to tell your admirers! Fame! And the knowledge that your soul is as strong as the mightest soul in Aeternum...!</string>
-	<string key="Quest_03192_ObjectiveProposalResponse_1_prompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">... Yours?</string>
-	<string key="Quest_03192_ObjectiveProposalResponse_1" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-next="@Quest_03192_ObjectiveProposalResponse_2" dialogue-prompt="@Quest_03192_ObjectiveProposalResponse_1_prompt">NOW you understand. A worthy goal and a worthy prize, yes? One should be so lucky! You should begin by girding those loins of yours. You need armor, weapons, perhaps even a little adornment for your skinny neck.</string>
-	<string key="Quest_03192_ObjectiveProposalResponse_2_prompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">Right. I do feel a little exposed.</string>
-	<string key="Quest_03192_ObjectiveProposalResponse_2" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-prompt="@Quest_03192_ObjectiveProposalResponse_2_prompt">You do not have Aelstrom&apos;s physique to protect you. It is understandable. Now. Go and find the materials you will need to make these things. Try not to die during your search, yes?</string>
-	<string key="Quest_03192_InProgressResponse" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-next="@Quest_03192_InProgressResponse_1">Do you need someone to hold your hand? It is very small.</string>
-	<string key="Quest_03192_InProgressResponse_1_prompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">Uh. No thank you.</string>
-	<string key="Quest_03192_InProgressResponse_1" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-prompt="@Quest_03192_InProgressResponse_1_prompt">That&apos;s the spirit! Off you go.</string>
-	<string key="Quest_03192_DestinationCompletionAvailablePrompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">Complete the Quest</string>
-	<string key="Quest_03192_DestinationCompletionAvailableResponse" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-next="@Quest_03192_DestinationCompletionAvailableResponse_1">Feels good, doesn’t it?! Putting in the work, making something real.</string>
-	<string key="Quest_03192_DestinationCompletionAvailableResponse_1_prompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">Yeah, I feel accomplished!</string>
-	<string key="Quest_03192_DestinationCompletionAvailableResponse_1" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-next="@Quest_03192_DestinationCompletionAvailableResponse_2" dialogue-prompt="@Quest_03192_DestinationCompletionAvailableResponse_1_prompt">And did you sweat?</string>
-	<string key="Quest_03192_DestinationCompletionAvailableResponse_2_prompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">Yes?</string>
-	<string key="Quest_03192_DestinationCompletionAvailableResponse_2" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-prompt="@Quest_03192_DestinationCompletionAvailableResponse_2_prompt">Yes! And I see your pride. It is as I told you- two ingredients.</string>
-	<string key="Quest_03194_PlayerPrompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">That sounds nice.</string>
-	<string key="Quest_03194_ObjectiveProposalResponse" rel_version="Seasonal_Server_2" speaker="Aelstrom">Come - there’s a tavern in Brightwood that pours something strong enough even for me. We will find you a new challenge there.</string>
-	<string key="Quest_03194_InProgressResponse" rel_version="Seasonal_Server_2" speaker="Aelstrom">Aelstrom will meet you in Brightwood.</string>
-	<string key="Quest_03194_DestinationCompletionAvailablePrompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">Complete the Quest</string>
-	<string key="Quest_03194_DestinationCompletionAvailableResponse" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-next="@Quest_03194_DestinationCompletionAvailableResponse_1">You return! And better dressed than before.</string>
-	<string key="Quest_03194_DestinationCompletionAvailableResponse_1_prompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">How do I look?</string>
-	<string key="Quest_03194_DestinationCompletionAvailableResponse_1" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-prompt="@Quest_03194_DestinationCompletionAvailableResponse_1_prompt">Like a tiny monarch in the making. You are well on your way to greatness! Your deeds will be sung in ballads through the ages!</string>
-	<string key="Quest_03196_PlayerPrompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">Thanks</string>
-	<string key="Quest_03196_ObjectiveProposalResponse" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-next="@Quest_03196_ObjectiveProposalResponse_1">If you are truly ready to bleed for something bigger... come to Warden’s Rise.</string>
-	<string key="Quest_03196_ObjectiveProposalResponse_1_prompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">What’s out there?</string>
-	<string key="Quest_03196_ObjectiveProposalResponse_1" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-next="@Quest_03196_ObjectiveProposalResponse_2" dialogue-prompt="@Quest_03196_ObjectiveProposalResponse_1_prompt">The Corrupted have grown stronger. More resilient. Greater foes wait to you to test your strength!</string>
-	<string key="Quest_03196_ObjectiveProposalResponse_2_prompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">And I assume they have more materials.</string>
-	<string key="Quest_03196_ObjectiveProposalResponse_2" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-prompt="@Quest_03196_ObjectiveProposalResponse_2_prompt">Well. Yes. I see you are beginning to understand Aelstrom&apos;s method. He does not need to tell you what comes next! Off we go to Great Cleave!</string>
-	<string key="Quest_03196_InProgressResponse" rel_version="Seasonal_Server_2" speaker="Aelstrom">Off to Great Cleave with you!</string>
-	<string key="Quest_03196_DestinationCompletionAvailablePrompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">Complete the Quest</string>
-	<string key="Quest_03196_DestinationCompletionAvailableResponse" rel_version="Seasonal_Server_2" speaker="Aelstrom">You created something that may actually withstand in the elements. It even makes you a little taller.</string>
-	<string key="Quest_03197_PlayerPrompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">I feel good.</string>
-	<string key="Quest_03197_ObjectiveProposalResponse" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-next="@Quest_03197_ObjectiveProposalResponse_1">Now, Aelstrom must follow the Darkness to Ebonscale, where it is no longer safe for child’s play. For this... Aelstrom must go alone.</string>
-	<string key="Quest_03197_ObjectiveProposalResponse_1_prompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">Right.</string>
-	<string key="Quest_03197_ObjectiveProposalResponse_1" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-next="@Quest_03197_ObjectiveProposalResponse_2" dialogue-prompt="@Quest_03197_ObjectiveProposalResponse_1_prompt">Now is when you are meant to argue, yes? Say something... Noble.. or foolish...</string>
-	<string key="Quest_03197_ObjectiveProposalResponse_2_prompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">Oh. Uh.</string>
-	<string key="Quest_03197_ObjectiveProposalResponse_2" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-next="@Quest_03197_ObjectiveProposalResponse_3" dialogue-prompt="@Quest_03197_ObjectiveProposalResponse_2_prompt">Aelstrom will wait.</string>
-	<string key="Quest_03197_ObjectiveProposalResponse_3_prompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">A dull blade... is still lethal... in the hands--</string>
-	<string key="Quest_03197_ObjectiveProposalResponse_3" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-next="@Quest_03197_ObjectiveProposalResponse_4" dialogue-prompt="@Quest_03197_ObjectiveProposalResponse_3_prompt">Giant hands.</string>
-	<string key="Quest_03197_ObjectiveProposalResponse_4_prompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">GIANT hands... of a true warrior!</string>
-	<string key="Quest_03197_ObjectiveProposalResponse_4" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-prompt="@Quest_03197_ObjectiveProposalResponse_4_prompt">Haha! You understand Aelstrom. Come friend. We’ll bring light to the darkness in Ebonscale!</string>
-	<string key="Quest_03197_InProgressResponse" rel_version="Seasonal_Server_2" speaker="Aelstrom">Our adventure continues in Ebonscale Reach!</string>
-	<string key="Quest_03197_DestinationCompletionAvailablePrompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">Complete the Quest</string>
-	<string key="Quest_03197_DestinationCompletionAvailableResponse" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-next="@Quest_03197_DestinationCompletionAvailableResponse_1">History will smile on this moment. Legends will be born from the death of this darkness. &quot;Even Aelstrom was impressed,&quot; they’ll say.</string>
-	<string key="Quest_03197_DestinationCompletionAvailableResponse_1_prompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">I did good, huh?</string>
-	<string key="Quest_03197_DestinationCompletionAvailableResponse_1" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-prompt="@Quest_03197_DestinationCompletionAvailableResponse_1_prompt">Yes! The stories will forget about your puny hands. They’ll make statues of you as big as Simon Grey! Aelstrom will stand taller than Helios in Rhodes!</string>
-	<string key="Quest_03199_PlayerPrompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">Not even close.</string>
-	<string key="Quest_03199_ObjectiveProposalResponse" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-next="@Quest_03199_ObjectiveProposalResponse_1">Aha! Yes! You have come this far. Through darkness, decay and worse. And yet... you live!</string>
-	<string key="Quest_03199_ObjectiveProposalResponse_1_prompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">More or less!</string>
-	<string key="Quest_03199_ObjectiveProposalResponse_1" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-next="@Quest_03199_ObjectiveProposalResponse_2" dialogue-prompt="@Quest_03199_ObjectiveProposalResponse_1_prompt">You have earned the right to go further. As the danger grows, so do you! Every scar avenged. Every doubt extinguished.</string>
-	<string key="Quest_03199_ObjectiveProposalResponse_2_prompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">Where to next?</string>
-	<string key="Quest_03199_ObjectiveProposalResponse_2" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-prompt="@Quest_03199_ObjectiveProposalResponse_2_prompt">To the north is the Jewel in Aeternum’s cracked crown - New Corsica. Where heroes are made! Meet me at the tavern.</string>
-	<string key="Quest_03199_InProgressResponse" rel_version="Seasonal_Server_2" speaker="Aelstrom">Aelstrom cannot wait to taste the ale in New Corsica.</string>
-	<string key="Quest_03199_DestinationCompletionAvailablePrompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">Complete the Quest</string>
-	<string key="Quest_03199_DestinationCompletionAvailableResponse" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-next="@Quest_03199_DestinationCompletionAvailableResponse_1">Your works speak to your accomplishment. Truly strong hands wrought these into being.</string>
-	<string key="Quest_03199_DestinationCompletionAvailableResponse_1_prompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">I think that&apos;s the nicest thing you&apos;ve said to me.</string>
-	<string key="Quest_03199_DestinationCompletionAvailableResponse_1" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-prompt="@Quest_03199_DestinationCompletionAvailableResponse_1_prompt">Praise is earned! And you have more than earned it.</string>
-	<string key="Quest_03200_PlayerPrompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">Deceptive?</string>
-	<string key="Quest_03200_ObjectiveProposalResponse" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-next="@Quest_03200_ObjectiveProposalResponse_1">Where the souls of heroes and the virtuous were at peace. Now, awaken by the corrupted wilds. Nature’s beauty weaponized. A true testing ground for your truth.</string>
-	<string key="Quest_03200_ObjectiveProposalResponse_1_prompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">I&apos;m ready.</string>
-	<string key="Quest_03200_ObjectiveProposalResponse_1" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-prompt="@Quest_03200_ObjectiveProposalResponse_1_prompt">Yes. Aelstrom thinks you are.</string>
-	<string key="Quest_03200_InProgressResponse" rel_version="Seasonal_Server_2" speaker="Aelstrom">The Elysian Wilds call to you, do they not?</string>
-	<string key="Quest_03200_DestinationCompletionAvailablePrompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">Complete the Quest</string>
-	<string key="Quest_03200_DestinationCompletionAvailableResponse" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-next="@Quest_03200_DestinationCompletionAvailableResponse_1">All my life I thought legends were born through bloodline. And yet... you live! Through the odds and against the gods - You live!</string>
-	<string key="Quest_03200_DestinationCompletionAvailableResponse_1_prompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">I live!</string>
-	<string key="Quest_03200_DestinationCompletionAvailableResponse_1" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-next="@Quest_03200_DestinationCompletionAvailableResponse_2" dialogue-prompt="@Quest_03200_DestinationCompletionAvailableResponse_1_prompt">I thought I had seen it all on Aeternum. But you... Through sweat and pride! With your own two hands! Sure... your hands... hmm... had guidance from Aelstrom too...</string>
-	<string key="Quest_03200_DestinationCompletionAvailableResponse_2_prompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">I&apos;m grateful to you.</string>
-	<string key="Quest_03200_DestinationCompletionAvailableResponse_2" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-next="@Quest_03200_DestinationCompletionAvailableResponse_3" dialogue-prompt="@Quest_03200_DestinationCompletionAvailableResponse_2_prompt">You have forged more than a legendary hero in you. You have also forged in Aelstrom something I have forgotten...</string>
-	<string key="Quest_03200_DestinationCompletionAvailableResponse_3_prompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">What is that?</string>
-	<string key="Quest_03200_DestinationCompletionAvailableResponse_3" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-next="@Quest_03200_DestinationCompletionAvailableResponse_4" dialogue-prompt="@Quest_03200_DestinationCompletionAvailableResponse_3_prompt">You have my respect. I am proud to say we stood side by side. When the stories of your journey reach across my table, I will be excited to say...</string>
-	<string key="Quest_03200_DestinationCompletionAvailableResponse_4_prompt" rel_version="Seasonal_Server_2" speaker="UI - Player Prompt">You’re not going to cry... are you?</string>
-	<string key="Quest_03200_DestinationCompletionAvailableResponse_4" rel_version="Seasonal_Server_2" speaker="Aelstrom" dialogue-prompt="@Quest_03200_DestinationCompletionAvailableResponse_4_prompt">.. That Aelstrom... had a BIG hand in your success! Haha! Aelstrom has been wanting to say that since Brightwood... Ha ha ha!</string>
+	<string key="NPC_03976_State_0_DefaultDialogue" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Default starter beach dialogue.</string>
+	<string key="NPC_03976_State_1_DefaultDialogue" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Arrive on Beach</string>
+	<string key="NPC_03976_State_1_Topic_0_NPCResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Done.</string>
+	<string key="NPC_03976_State_1_Topic_0_PlayerPrompt" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Quest Credit Please.</string>
+	<string key="NPC_03976_State_2_DefaultDialogue" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Ready to head to settlement</string>
+	<string key="NPC_03976_State_2_Topic_0_NPCResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Done</string>
+	<string key="NPC_03976_State_2_Topic_0_PlayerPrompt" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Quest credit please.</string>
+	<string key="NPC_04627_State_0_DefaultDialogue" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Default Windsward settlement dialolgue.</string>
+	<string key="NPC_04627_State_1_DefaultDialogue" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Offer Windsward Main quest</string>
+	<string key="NPC_04627_State_2_DefaultDialogue" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Offer quest to Brightwood</string>
+	<string key="NPC_04627_State_3_DefaultDialogue" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Arrival in settlement</string>
+	<string key="NPC_04627_State_3_Topic_0_NPCResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">done</string>
+	<string key="NPC_04627_State_3_Topic_0_PlayerPrompt" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Quest credit please</string>
+	<string key="NPC_04627_State_4_DefaultDialogue" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Arrival in settlement</string>
+	<string key="NPC_04627_State_4_Topic_0_NPCResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Done</string>
+	<string key="NPC_04627_State_4_Topic_0_PlayerPrompt" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Quest credit please</string>
+	<string key="NPC_04627_State_5_DefaultDialogue" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Mid-quest check in</string>
+	<string key="NPC_04627_State_5_Topic_0_NPCResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Done.</string>
+	<string key="NPC_04627_State_5_Topic_0_PlayerPrompt" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Quest credit please.</string>
+	<string key="NPC_04627_State_6_Topic_0_NPCResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Done</string>
+	<string key="NPC_04627_State_6_Topic_0_PlayerPrompt" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Quest credit please.</string>
+	<string key="NPC_04628_State_0_DefaultDialogue" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Default Everfall settlement dialogue.</string>
+	<string key="NPC_04628_State_2_Topic_0_NPCResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Done.</string>
+	<string key="NPC_04628_State_2_Topic_0_PlayerPrompt" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Quest credit please</string>
+	<string key="NPC_04628_State_3_Topic_0_NPCResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Done.</string>
+	<string key="NPC_04628_State_3_Topic_0_PlayerPrompt" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Quest credit please.</string>
+	<string key="NPC_04629_State_0_DefaultDialogue" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Default starter beach dialogue.</string>
+	<string key="NPC_04629_State_1_DefaultDialogue" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Arrive in Monarchs</string>
+	<string key="NPC_04629_State_1_Topic_0_NPCResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Done</string>
+	<string key="NPC_04629_State_1_Topic_0_PlayerPrompt" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Quest credit please.</string>
+	<string key="NPC_04629_State_2_DefaultDialogue" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Ready to head to settlement</string>
+	<string key="NPC_04629_State_2_Topic_0_NPCResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Done</string>
+	<string key="NPC_04629_State_2_Topic_0_PlayerPrompt" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Quest credit please.</string>
+	<string key="NPC_04630_State_0_DefaultDialogue" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Default Brightwood settlement dialogue.</string>
+	<string key="NPC_04630_State_1_DefaultDialogue" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Offer quest to Weavers</string>
+	<string key="NPC_04630_State_2_DefaultDialogue" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Arrival in Brightwood</string>
+	<string key="NPC_04630_State_2_Topic_0_NPCResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Done.</string>
+	<string key="NPC_04630_State_2_Topic_0_PlayerPrompt" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Quest credit please.</string>
+	<string key="NPC_04630_State_3_DefaultDialogue" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Mid Brightwood quest dialogue</string>
+	<string key="NPC_04630_State_3_Topic_0_NPCResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Done.</string>
+	<string key="NPC_04630_State_3_Topic_0_PlayerPrompt" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Quest Credit Please</string>
+	<string key="NPC_04630_State_4_DefaultDialogue" rel_version="Seasonal_Server_2">Send player to dungeon</string>
+	<string key="NPC_04630_State_4_Topic_0_NPCResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Done.</string>
+	<string key="NPC_04630_State_4_Topic_0_NPCResponse_0" rel_version="Seasonal_Server_2">Here you go</string>
+	<string key="NPC_04630_State_4_Topic_0_PlayerPrompt" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Quest Credit Please</string>
+	<string key="NPC_04630_State_4_Topic_0_PlayerPrompt_0" rel_version="Seasonal_Server_2">Quest credit please</string>
+	<string key="NPC_04631_State_0_DefaultDialogue" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Default Weavers settlement dialogue</string>
+	<string key="NPC_04631_State_2_Topic_0_NPCResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Done</string>
+	<string key="NPC_04631_State_2_Topic_0_PlayerPrompt" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Quest Credit Please</string>
+	<string key="NPC_04631_State_3_Topic_0_NPCResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Done</string>
+	<string key="NPC_04631_State_3_Topic_0_PlayerPrompt" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Quest Credit Please</string>
+	<string key="NPC_04632_State_0_DefaultDialogue" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Default Great Cleave outpost dialogue</string>
+	<string key="NPC_04632_State_1_DefaultDialogue" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Offer quest to Ebonscale</string>
+	<string key="NPC_04632_State_2_DefaultDialogue" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Arrival in Great Cleave</string>
+	<string key="NPC_04632_State_2_Topic_0_NPCResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Done</string>
+	<string key="NPC_04632_State_2_Topic_0_PlayerPrompt" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Quest Credit Please</string>
+	<string key="NPC_04632_State_3_DefaultDialogue" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Mid-quest check in</string>
+	<string key="NPC_04632_State_3_Topic_0_NPCResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Done</string>
+	<string key="NPC_04632_State_3_Topic_0_NPCResponse_0" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Done</string>
+	<string key="NPC_04632_State_3_Topic_0_PlayerPrompt" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Quest Credit Please</string>
+	<string key="NPC_04632_State_3_Topic_0_PlayerPrompt_0" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Quest credit please</string>
+	<string key="NPC_04633_State_0_DefaultDialogue" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Default Ebonscale settlement dialogue</string>
+	<string key="NPC_04633_State_1_DefaultDialogue" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Offer Brimstone Quest</string>
+	<string key="NPC_04633_State_2_DefaultDialogue" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Arrive in Ebonscale</string>
+	<string key="NPC_04633_State_2_Topic_0_NPCResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Done</string>
+	<string key="NPC_04633_State_2_Topic_0_PlayerPrompt" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Quest Credit Please</string>
+	<string key="NPC_04633_State_3_Topic_0_NPCResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Done</string>
+	<string key="NPC_04633_State_3_Topic_0_PlayerPrompt" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Quest credit please</string>
+	<string key="NPC_04634_State_0_DefaultDialogue" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Default Edengrove/SM quest dialogue</string>
+	<string key="NPC_04634_State_2_Topic_0_NPCResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Done</string>
+	<string key="NPC_04634_State_2_Topic_0_PlayerPrompt" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Quest credit please</string>
+	<string key="NPC_04635_State_0_DefaultDialogue" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Default Brimstone settlement dialogue</string>
+	<string key="NPC_04635_State_1_DefaultDialogue" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Offer max level quest</string>
+	<string key="NPC_04635_State_2_DefaultDialogue" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Arrive in Brimstone</string>
+	<string key="NPC_04635_State_2_Topic_0_NPCResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Done</string>
+	<string key="NPC_04635_State_2_Topic_0_PlayerPrompt" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Quest credit please</string>
+	<string key="NPC_04636_State_0_DefaultDialogue" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Default Elysian Wilds dialogue</string>
+	<string key="NPC_04636_State_2_DefaultDialogue" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">EW quest complete</string>
+	<string key="NPC_04636_State_3_DefaultDialogue" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Arrive in Elysian Wilds</string>
+	<string key="NPC_04636_State_3_Topic_0_NPCResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Done</string>
+	<string key="NPC_04636_State_3_Topic_0_PlayerPrompt" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Quest Credit Please</string>
+	<string key="NPC_04636_State_4_DefaultDialogue" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Mid-quest check in</string>
+	<string key="NPC_04636_State_4_Topic_0_NPCResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Done</string>
+	<string key="NPC_04636_State_4_Topic_0_PlayerPrompt" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Quest Credit Please</string>
+	<string key="Quest_00000_PlayerPrompt" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Player Prompt"/>
+	<string key="Quest_00000_PlayerPrompt_0" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Player Prompt"/>
+	<string key="Quest_00000_PlayerPrompt_1" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Player Prompt"/>
+	<string key="Quest_00000_ObjectiveProposalResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE"/>
+	<string key="Quest_00000_ObjectiveProposalResponse_0" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE"/>
+	<string key="Quest_00000_InProgressResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE"/>
+	<string key="Quest_00000_InProgressResponse_0" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE"/>
+	<string key="Quest_00000_DestinationCompletionAvailablePrompt" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Player Prompt">I&apos;m done now.</string>
+	<string key="Quest_00000_DestinationCompletionAvailablePrompt_0" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Player Prompt">Complete the Quest</string>
+	<string key="Quest_00000_DestinationCompletionAvailablePrompt_1" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Player Prompt">Complete the Quest</string>
+	<string key="Quest_00000_DestinationCompletionAvailableResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Cool.</string>
+	<string key="Quest_00000_DestinationCompletionAvailableResponse_0" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE"/>
+	<string key="Quest_00000_DestinationCompletionAvailableResponse_1" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE"/>
+	<string key="Quest_00002_PlayerPrompt" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Player Prompt"/>
+	<string key="Quest_00002_ObjectiveProposalResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE"/>
+	<string key="Quest_00002_InProgressResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE"/>
+	<string key="Quest_00002_DestinationCompletionAvailablePrompt" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Player Prompt">Complete the Quest</string>
+	<string key="Quest_00002_DestinationCompletionAvailableResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE"/>
+	<string key="Quest_03189_PlayerPrompt" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Player Prompt"/>
+	<string key="Quest_03189_InProgressResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Done the thing yet?</string>
+	<string key="Quest_03189_DestinationCompletionAvailablePrompt" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Player Prompt">Complete the Quest</string>
+	<string key="Quest_03189_DestinationCompletionAvailableResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">You did the thing.</string>
+	<string key="Quest_03190_PlayerPrompt" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Player Prompt"/>
+	<string key="Quest_03190_InProgressResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Done the thing yet?</string>
+	<string key="Quest_03190_DestinationCompletionAvailablePrompt" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Player Prompt">Complete the Quest</string>
+	<string key="Quest_03190_DestinationCompletionAvailableResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">You did the thing.</string>
+	<string key="Quest_03192_PlayerPrompt" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Player Prompt"/>
+	<string key="Quest_03192_ObjectiveProposalResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">PH</string>
+	<string key="Quest_03192_InProgressResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">PH</string>
+	<string key="Quest_03192_DestinationCompletionAvailablePrompt" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Player Prompt">Complete the Quest</string>
+	<string key="Quest_03192_DestinationCompletionAvailableResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">PH</string>
+	<string key="Quest_03193_PlayerPrompt" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Player Prompt">Gimme Quest</string>
+	<string key="Quest_03193_ObjectiveProposalResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Sure</string>
+	<string key="Quest_03193_InProgressResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Done the thing yet?</string>
+	<string key="Quest_03193_DestinationCompletionAvailablePrompt" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Player Prompt">Complete the Quest</string>
+	<string key="Quest_03193_DestinationCompletionAvailableResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">You did the thing.</string>
+	<string key="Quest_03194_PlayerPrompt" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Player Prompt">Gimme quest</string>
+	<string key="Quest_03194_ObjectiveProposalResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Sure</string>
+	<string key="Quest_03194_InProgressResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Done the thing yet?</string>
+	<string key="Quest_03194_DestinationCompletionAvailablePrompt" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Player Prompt">Complete the Quest</string>
+	<string key="Quest_03194_DestinationCompletionAvailableResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Good job.</string>
+	<string key="Quest_03195_PlayerPrompt" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Player Prompt">Quest please</string>
+	<string key="Quest_03195_ObjectiveProposalResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Here you go</string>
+	<string key="Quest_03195_InProgressResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Do the thing yet?</string>
+	<string key="Quest_03195_DestinationCompletionAvailablePrompt" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Player Prompt">Complete the Quest</string>
+	<string key="Quest_03195_DestinationCompletionAvailableResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Good job</string>
+	<string key="Quest_03196_PlayerPrompt" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Player Prompt">Gimme quest</string>
+	<string key="Quest_03196_ObjectiveProposalResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Done</string>
+	<string key="Quest_03196_InProgressResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Done the thing yet?</string>
+	<string key="Quest_03196_DestinationCompletionAvailablePrompt" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Player Prompt">Complete the Quest</string>
+	<string key="Quest_03196_DestinationCompletionAvailableResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Good job.</string>
+	<string key="Quest_03197_PlayerPrompt" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Player Prompt">Gimme quest</string>
+	<string key="Quest_03197_ObjectiveProposalResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Done</string>
+	<string key="Quest_03197_InProgressResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Done the thing yet?</string>
+	<string key="Quest_03197_DestinationCompletionAvailablePrompt" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Player Prompt">Complete the Quest</string>
+	<string key="Quest_03197_DestinationCompletionAvailableResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Good job.</string>
+	<string key="Quest_03198_PlayerPrompt" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Player Prompt">Gimme quest</string>
+	<string key="Quest_03198_ObjectiveProposalResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Done</string>
+	<string key="Quest_03198_InProgressResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Done the thing yet?</string>
+	<string key="Quest_03198_DestinationCompletionAvailablePrompt" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Player Prompt">Complete the Quest</string>
+	<string key="Quest_03198_DestinationCompletionAvailableResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Good job.</string>
+	<string key="Quest_03199_PlayerPrompt" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Player Prompt">Gimme quest</string>
+	<string key="Quest_03199_ObjectiveProposalResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Done</string>
+	<string key="Quest_03199_InProgressResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Done the thing yet?</string>
+	<string key="Quest_03199_DestinationCompletionAvailablePrompt" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Player Prompt">Complete the Quest</string>
+	<string key="Quest_03199_DestinationCompletionAvailableResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Good job.</string>
+	<string key="Quest_03200_PlayerPrompt" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Player Prompt">Gimme Quest</string>
+	<string key="Quest_03200_ObjectiveProposalResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Done.</string>
+	<string key="Quest_03200_InProgressResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Done the thing yet?</string>
+	<string key="Quest_03200_DestinationCompletionAvailablePrompt" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Player Prompt">Complete the Quest</string>
+	<string key="Quest_03200_DestinationCompletionAvailableResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Good job.</string>
+	<string key="Quest_20000_PlayerPrompt" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Player Prompt">Gimme quest.</string>
+	<string key="Quest_20000_ObjectiveProposalResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" dialogue-next="@Quest_20000_ObjectiveProposalResponse_1">You sure about?</string>
+	<string key="Quest_20000_ObjectiveProposalResponse_1" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" dialogue-prompt="Yeah. Definitely."/>
+	<string key="Quest_20000_ObjectiveProposalResponse_1_prompt" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Player Prompt">...</string>
+	<string key="Quest_20000_InProgressResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">Are you done with the thing?</string>
+	<string key="Quest_20000_DestinationCompletionAvailablePrompt" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE" speaker="UI - Player Prompt">Complete the Quest</string>
+	<string key="Quest_20000_DestinationCompletionAvailableResponse" rel_version="Seasonal_Server_2" comment="DO NOT TRANSLATE">You did the thing. Good job.</string>
 </resources>
 

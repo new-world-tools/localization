@@ -89,6 +89,7 @@
 	<string key="ui_dungeon_pending_activation">Entrance already pending.</string>
 	<string key="ui_dungeon_in_cooldown">Entrance on cooldown.</string>
 	<string key="ui_dungeon_entrance_activation_failure">Failed entrance activation.</string>
+	<string key="ui_dungeon_group_already_in_dungeon">Your group is already in the dungeon.</string>
 	<string key="ui_dungeon_group_timeout">Group timed out.</string>
 	<string key="ui_dungeon_mutation_level_req">Must meet mutation level requirement.</string>
 	<string key="ui_dungeon_mutation_difficulty_req">Must meet mutation rank requirement.</string>
@@ -352,8 +353,8 @@
 	<string key="Mut_Ice_Curse1_Major_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt3">Periodically selects a chosen player. That player emits an aura dealing Ice damage to nearby players and gains greatly increased Ice absorption. (This effect cannot be cleansed by player abilities)</string>
 	<string key="Mut_Nat_Curse1_Major_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt3">Periodically selects a chosen player. That player emits an aura dealing Nature damage to nearby players and gains greatly increased Nature absorption. (This effect cannot be cleansed by player abilities)</string>
 	<string key="Mut_Voi_Curse1_Major_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt3">Periodically selects a chosen player. That player emits an aura dealing Void damage to nearby players and gains greatly increased Void absorption. (This effect cannot be cleansed by player abilities)</string>
-	<string key="Mut_Curse2_Minor_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt2">Periodically applies Weary to players in combat, slowing their movement by {[-0.300000 * -100]}% and increasing all damage they take by {[0.200000 * 100]}%. The effect can be delayed by using abilities. (This effect cannot be cleansed by player abilities)</string>
-	<string key="Mut_Curse2_Minor_SlowRend_Tooltip" rel_version="Feature_Dungeon_Mutators_pt2">Slowed by {[-0.300000 * -100]}% and suffering {[0.200000 * 100]}% increased damage from all sources.</string>
+	<string key="Mut_Curse2_Minor_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt2">Periodically applies Weary to players in combat, slowing their movement by {[-0.3 * -100]}% and increasing all damage they take by {[0.200000 * 100]}%. The effect can be delayed by using abilities. (This effect cannot be cleansed by player abilities)</string>
+	<string key="Mut_Curse2_Minor_SlowRend_Tooltip" rel_version="Feature_Dungeon_Mutators_pt2">Slowed by {[-0.3 * -100]}% and suffering {[0.200000 * 100]}% increased damage from all sources.</string>
 	<string key="Mut_Curse2_Fir_Major_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt2">Using abilities applies a stack of Offering, causing {[-0.045000 * -100]}% max health Fire damage over time to the player, stacking {[3.000000]} times. All player damage has {[0.250000 * 100]}% life steal while affected by Offering. (This effect cannot be cleansed by player abilities)</string>
 	<string key="Mut_Curse2_Ice_Major_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt3">Using abilities applies a stack of Offering, causing {[-0.045000 * -100]}% max health Ice damage over time to the player, stacking {[3.000000]} times. All player damage has {[0.250000 * 100]}% life steal while affected by Offering (This effect cannot be cleansed by player abilities)</string>
 	<string key="Mut_Curse2_Nat_Major_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt2">Using abilities applies a stack of Offering, causing {[-0.045000 * -100]}% max health Nature damage over time to the player, stacking {[3.000000]} times. All player damage has {[0.250000 * 100]}% life steal while affected by Offering (This effect cannot be cleansed by player abilities)</string>
@@ -434,7 +435,7 @@
 	<string key="ui_seasontrial_bonusruns_prefix" rel_version="Season_2_Perm">&lt;img src="lyshineui/images/icons/misc/icon_hourglass" scale="0.80" yOffset="1.0"&gt;&lt;/img&gt;</string>
 	<string key="ui_seasontrial_player_average_gear_score" rel_version="Season_2_Perm">Average Gear Score: &lt;img src="lyshineui/images/icons/misc/icon_gearscore_tan" scale="1.6" yOffset="4.0" &gt;&lt;/img&gt; {gearscore}</string>
 	<string key="ui_seasontrial_player_recommended_gear_score" rel_version="Season_2_Perm">Recommended: &lt;img src="lyshineui/images/icons/misc/icon_gearscore_tan" scale="1.6" yOffset="4.0" &gt;&lt;/img&gt; {gearscoreMin} - {gearscoreMax}</string>
-	<string key="ui_seasontrial_season_ends_prefix" rel_version="Season_2_Perm">Season End in:</string>
+	<string key="ui_seasontrial_season_ends_prefix" rel_version="Season_2_Perm">Season End in: {time}</string>
 	<string key="ui_howtofindraid_title" rel_version="Season_2_Perm">Forming a raid</string>
 	<string key="ui_howtofindraid_bullet1" rel_version="Season_2_Perm">i.</string>
 	<string key="ui_howtofindraid_bullet2" rel_version="Season_2_Perm">ii.</string>

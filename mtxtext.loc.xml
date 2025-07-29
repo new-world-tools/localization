@@ -47,6 +47,8 @@
 	<string key="ui_purchase" rel_version="Feature_MTX">Purchase</string>
 	<string key="ui_purchase_bundle" rel_version="Feature_MTX">Purchase Bundle</string>
 	<string key="ui_confirm_purchase" rel_version="Feature_MTX">Confirm Unlock</string>
+	<string key="ui_confirm_purchase_single_description">Unlock {itemName} for\n{costString}?\n\nNew Balance: {newBalanceString}</string>
+	<string key="ui_confirm_purchase_multiple_description">Unlock {quantity} {itemName} for\n{costString}?\n\nNew Balance: {newBalanceString}</string>
 	<string key="ui_credit_balance" rel_version="Feature_MTX">Credit Balance {balance}</string>
 	<string key="ui_get_credits" rel_version="Feature_MTX">Get Marks of Fortune</string>
 	<string key="reward_type_emote" rel_version="Feature_MTX">Emote</string>
@@ -117,7 +119,7 @@
 	<string key="ui_transfer_requirement_minimum_level" rel_version="Feature_MTX">You must be at least Level {level}</string>
 	<string key="ui_transfer_requirement_no_houses" rel_version="Feature_MTX">You cannot own any Houses</string>
 	<string key="ui_transfer_requirement_cooldown" rel_version="Feature_MTX">You must wait till the end of the cooldown before you may transfer worlds or regions again</string>
-	<string key="ui_transfer_requirement_cooldown_prefix" rel_version="Feature_MTX">&lt;img src="LyShineUI/Images/Icons/Misc/icon_hourglass_yellow.png" xPadding="0" scale="1.1" yOffset="1"&gt;&lt;/img&gt;</string>
+	<string key="ui_transfer_requirement_cooldown_prefix" rel_version="Feature_MTX">&lt;img src="LyShineUI/Images/Icons/Misc/icon_hourglass_yellow.png" xPadding="0" scale="1.1" yOffset="1"&gt;&lt;/img&gt; {time}</string>
 	<string key="ui_transfer_requirement_makegood" rel_version="Feature_Make_Good">You cannot have unclaimed Compensations</string>
 	<string key="ui_transfer_no_transfer_tooltip" rel_version="Feature_MTX">Characters cannot currently transfer from this world.</string>
 	<string key="ui_transfer_no_transfer_tooltip_freshstart" rel_version="Feature_MTX">Characters cannot transfer from Fresh Start Worlds.</string>
@@ -1338,9 +1340,21 @@
 	<string key="DyeA024_Mounts_MasterName" rel_version="Season_8_Perm">Wraith Black</string>
 	<string key="DyeA025_Mounts_MasterName" rel_version="Season_8_Perm">Virtuous White</string>
 	<string key="DyeA026_Mounts_MasterName" rel_version="Season_8_Perm">Heartrune Red</string>
+	<string key="StoreItem_Bundle_Cosmic_Sun_name" rel_version="Season_9_Perm">Solar Conjunction Bundle</string>
+	<string key="StoreItem_Bundle_Cosmic_Sun_description" rel_version="Season_9_Perm">When the stars align, the champions of the cosmos will illuminate the world.</string>
+	<string key="StoreItem_Bundle_Corruption_Hunter_2025_name" rel_version="Season_9_Perm">Corruption Hunter Bundle</string>
+	<string key="StoreItem_Bundle_Corruption_Hunter_2025_description" rel_version="Season_9_Perm">The time of the hunt has come. May evil tremble in fear.</string>
+	<string key="StoreItem_Bundle_Necromancer_Skull_name" rel_version="Season_9_Perm">Walking Tomb Bundle</string>
+	<string key="StoreItem_Bundle_Necromancer_Skull_description" rel_version="Season_9_Perm">There are worst fates than death.</string>
+	<string key="StoreItem_Bundle_CoquetteCottage_name" rel_version="Season_9_Perm">Blossoming Elegance Bundle</string>
+	<string key="StoreItem_Bundle_CoquetteCottage_description" rel_version="Season_9_Perm">With the passage of seasons comes the fruits of beauty.</string>
 	<string key="mtx_sale_store">Sale</string>
 	<string key="mtx_factionfest_store">Faction Fest</string>
 	<string key="mtx_JulyFourth_store">4th of July</string>
 	<string key="mtx_summer_store">Summer</string>
+	<string key="SeasonPass_Premium_Season_9_name" rel_version="Season_9_Perm">Premium Pass - Season 9</string>
+	<string key="SeasonPass_HeadStart_Season_9_name" rel_version="Season_9_Perm">Premium Pass Head Start - Season 9</string>
+	<string key="StoreItem_Apparel_Summerwear_name" rel_version="Season_9_Perm">Sovereign's Swimwear</string>
+	<string key="StoreItem_Apparel_Summerwear_description" rel_version="Season_9_Perm">Let down your crown and have some fun in the sun.</string>
 </resources>
 

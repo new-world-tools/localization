@@ -38,6 +38,36 @@
 	<string key="cc_np_8">Np 8</string>
 	<string key="cc_np_9">Np 9</string>
 	<string key="cc_L">L</string>
+	<string key="cc_tilde">Tilde</string>
+	<string key="cc_minus">Minus</string>
+	<string key="cc_lbracket">LBracket</string>
+	<string key="cc_rbracket">RBracket</string>
+	<string key="cc_capslock">Caps Lock</string>
+	<string key="cc_semicolon">Semicolon</string>
+	<string key="cc_apostrophe">Apostrophe</string>
+	<string key="cc_comma">Comma</string>
+	<string key="cc_period">Period</string>
+	<string key="cc_home">Home</string>
+	<string key="cc_end">End</string>
+	<string key="cc_insert">Ins</string>
+	<string key="cc_delete">Delete</string>
+	<string key="cc_pgup">Page Up</string>
+	<string key="cc_pgdn">Page Down</string>
+	<string key="cc_print">Print</string>
+	<string key="cc_scrolllock">Scroll Lock</string>
+	<string key="cc_pause">Pause</string>
+	<string key="cc_f1">F1</string>
+	<string key="cc_f2">F2</string>
+	<string key="cc_f3">F3</string>
+	<string key="cc_f4">F4</string>
+	<string key="cc_f5">F5</string>
+	<string key="cc_f6">F6</string>
+	<string key="cc_f7">F7</string>
+	<string key="cc_f8">F8</string>
+	<string key="cc_f9">F9</string>
+	<string key="cc_f10">F10</string>
+	<string key="cc_f11">F11</string>
+	<string key="cc_f12">F12</string>
 	<string key="cc_az_dpad_up" rel_version="Feature_Controller">Dpad Up</string>
 	<string key="cc_az_dpad_down" rel_version="Feature_Controller">Dpad Down</string>
 	<string key="cc_az_dpad_left" rel_version="Feature_Controller">Dpad Left</string>
@@ -132,6 +162,7 @@
 	<string key="interact_pickup">Pickup Structure</string>
 	<string key="interact_repair">Repair Structure</string>
 	<string key="interact_takeAll">Take All</string>
+	<string key="interact_fillSlots">Fill Slots</string>
 	<string key="inv_drop">Drop</string>
 	<string key="inv_equip">Equip</string>
 	<string key="inv_repair">Repair</string>
@@ -347,6 +378,7 @@
 	<string key="ui_company_name_input">Name Your Company</string>
 	<string key="ui_customize_company_information">These settings can be changed at any time</string>
 	<string key="ui_no_points_spent">No Points Assigned</string>
+	<string key="ui_disable_points_in_game_mode">Can't Assign Points in This Mode</string>
 	<string key="ui_commit_1_point">Assign 1 Point</string>
 	<string key="ui_commit_points">Assign {points} Points</string>
 	<string key="ui_abilities_on_cooldown">Abilities on Cooldown</string>
@@ -406,6 +438,8 @@
 	<string key="ui_lessthan_day_with_time_short">&lt;1d</string>
 	<string key="ui_hour_with_time">1 hour</string>
 	<string key="ui_hour_with_time_short">1h</string>
+	<string key="ui_lessthan_hour_with_time">less than 1 hour</string>
+	<string key="ui_lessthan_hour_with_time_short">&lt;1h</string>
 	<string key="ui_minute_with_time">1 minute</string>
 	<string key="ui_minute_with_time_short">1m</string>
 	<string key="ui_lessthan_minute_with_time">less than 1 minute</string>
@@ -423,6 +457,7 @@
 	<string key="ui_lessthan_minuteago">less than 1 minute ago</string>
 	<string key="ui_minutesago">{time} minutes ago</string>
 	<string key="ui_hourago">1 hour ago</string>
+	<string key="ui_lessthan_hourago">less than 1 hour ago</string>
 	<string key="ui_hoursago">{time} hours ago</string>
 	<string key="ui_dayago">1 day ago</string>
 	<string key="ui_lessthan_dayago">&gt;Less than 1 day ago</string>
@@ -717,6 +752,7 @@
 	<string key="ui_presskeytoassign">Select an input to assign this ability to.</string>
 	<string key="ui_previous">Previous</string>
 	<string key="ui_progress">Progress</string>
+	<string key="ui_current_progress">&lt;font color={currentProgressColor}&gt;{currentProgress} /&lt;/font&gt;&lt;font color={maxProgressColor}&gt; {maxProgress}&lt;/font&gt;</string>
 	<string key="ui_pronetoggle">Prone</string>
 	<string key="ui_pushtotalk">Push-to-Talk</string>
 	<string key="ui_pushtotalkkey">Push to Talk Key</string>
@@ -1287,6 +1323,7 @@
 	<string key="ui_respec">Respec</string>
 	<string key="ui_respec_attributes">Refund All Attribute Points</string>
 	<string key="ui_cannot_respec_attributes_during_combat">Cannot respec Attributes while in Combat</string>
+	<string key="ui_cannot_respec_attributes_in_game_mode">Cannot Respec Attributes in This Mode</string>
 	<string key="ui_respec_mastery">Refund All Mastery Points</string>
 	<string key="ui_base">Base</string>
 	<string key="ui_health">Health</string>
@@ -2449,6 +2486,9 @@
 	<string key="ui_mastery_selection_warning_title">Confirm Unlock</string>
 	<string key="ui_mastery_selection_warning">Are you sure you would like to learn this ability?\n\n{abilityName}</string>
 	<string key="ui_cooldown">Cooldown</string>
+	<string key="ui_next_cooldown">Next cooldown</string>
+	<string key="ui_rank_locked">Rank not reached</string>
+	<string key="ui_insufficient_funds">Insufficient funds</string>
 	<string key="ui_cooldown_reduction">Cooldown Reduction</string>
 	<string key="ui_abilitynotunlocked">This ability has not been unlocked</string>
 	<string key="ui_gearscore_bonus">Gear Score Bonus</string>
@@ -2985,6 +3025,7 @@
 	<string key="ui_mount_guide_body1" rel_version="Feature_Mounts">You can summon your mount with {$ui.mount_summon_description$}. Walk with {$ui.walk_mount_description$}, sprint with {$player.mount_dash$}, and jump with {$movement.jump$}. Sprinting costs mount stamina. Falling from great heights and being hit by enemies reduces its stamina and may result in being dismounted.</string>
 	<string key="ui_event_token_disappears">Tokens will disappear at the end of the event.</string>
 	<string key="ui_event_item_disappears">This item will disappear at the end of the event.</string>
+	<string key="ui_event_ends">Event ends</string>
 	<string key="ui_event_time_left">Event ends in: {timeLeft} &lt;img src="LyShineUI/Images/Icons/Misc/icon_hourglass_yellow.png" xPadding="0" scale="1.1" yOffset="1"&gt;&lt;/img&gt;</string>
 	<string key="ui_event_time_left_compass">Event ends in &lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{timeLeft}&lt;/font&gt;</string>
 	<string key="ui_event_item_disabled">The event associated with this item has ended. Item is disabled and will be removed next login.</string>
@@ -3153,7 +3194,14 @@
 	<string key="ui_mount_unlock" rel_version="Feature_Mounts">Mount Unlocked</string>
 	<string key="ui_mount_unlock_acquisition" rel_version="Feature_Mounts">Completion of "My Kingdom for a Horse"</string>
 	<string key="ui_consumables_shared_cooldowns_survival">survival potions</string>
+	<string key="ui_consumables_shared_cooldowns_absorption">absorption potions</string>
 	<string key="ui_consumables_shared_cooldown_text">\n\nUsing this will put all other {consumableType} on {cooldown}% cooldown.</string>
+	<string key="ui_toggleGridSnap">Toggle Snap-to-Grid</string>
+	<string key="ui_directionSnap">(Hold) Snap-to-Axis</string>
+	<string key="ui_undo">Undo</string>
+	<string key="ui_saveAndExit">Save and Exit</string>
+	<string key="ui_hud_confirm_save">Save?</string>
+	<string key="ui_hud_confirm_save_body">Commit and save these changes or exit and revert to previous layout?</string>
 	<string key="ui_seasonal_worlds" rel_version="Feature_Seasonal_Servers">Seasonal Worlds</string>
 	<string key="ui_seasonal_worlds_popup_header" rel_version="Feature_Seasonal_Servers">Choose World Type</string>
 	<string key="ui_seasonal_worlds_about_popup_description" rel_version="Feature_Seasonal_Servers">Seasonal Worlds provide a new way to experience Aeternum and earn unique rewards for a limited time each Season.\n\nIn Season 8’s Seasonal World, power is the name of the game. Characters on this server can equip as many artifacts as they like, and every time they die, the character gets extra attribute points. Grow stronger faster, and take on challenges you've never been able to attempt before.\n\nA new Seasonal Journey can be progressed on this server focused around how many times your character has died. Completing these goals will give you some new crafting materials as well for non-seasonal worlds. Use these to craft any artifact or T3 trophy of your choosing on a non-seasonal character (up to those released in Season 8). Note: Some of the rewards on the seasonal world journey require purchasing a Premium Battle Pass in the store.</string>
@@ -3170,5 +3218,26 @@
 	<string key="ui_seasonal_worlds_server_description" rel_version="Feature_Seasonal_Servers">&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; For this seasonal server, players will experience an expedited main story questline and a unique seasonal world journey with special rewards for completing difficult content without dying. Each time a character on this world dies, they gain a stack of the Fallen status effect, which increases attributes with each stack, to a maximum of 5 stacks.\n&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; Characters on this world can equip an artifact in each equipment slot.\n&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; Crossworld matchmaking and activity finder are disabled on {worldName}. Players will need to use group finder for expeditions.\n&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; Characters cannot transfer to or from this world.\n&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; Characters on this world will need to be deleted at the end of the season.</string>
 	<string key="ui_seasonal_worlds_server_duration" rel_version="Feature_Seasonal_Servers">Available from {dateStart} {timeStart} - {dateEnd} {timeEnd}</string>
 	<string key="ui_seasonal_worlds_tooltip" rel_version="Feature_Seasonal_Servers">In this seasonal world, your faction decides which players you can group and form Companies with. Choose the same faction as your friends to play together.\n\nYou may change faction in game.</string>
+	<string key="ui_hud_HealthMeter">Health</string>
+	<string key="ui_hud_StaminaMeter">Stamina</string>
+	<string key="ui_hud_ManaMeter">Mana</string>
+	<string key="ui_hud_MountStaminaMeter">Mount Stamina</string>
+	<string key="ui_hud_ForceDismountTimer">Forced Dismount Timer</string>
+	<string key="ui_hud_AbilityChannel">Channel Meter</string>
+	<string key="ui_hud_XpMeter">XP</string>
+	<string key="ui_hud_ActionBar">Action Bar</string>
+	<string key="ui_hud_ConsumableQuickslots">Consumables</string>
+	<string key="ui_hud_WeaponQuickslots">Weapons</string>
+	<string key="ui_hud_Heartgem">Heartgem</string>
+	<string key="ui_hud_Encumbrance">Inventory</string>
+	<string key="ui_hud_AfflictionsGroup">Afflictions</string>
+	<string key="ui_hud_GlobalAffliction">Mutator Affliction</string>
+	<string key="ui_hud_StatusEffects">Status Effects</string>
+	<string key="ui_hud_Compass">Compass</string>
+	<string key="ui_hud_NotificationsMinorContainer">Notifications</string>
+	<string key="ui_hud_GroupHUD">Group</string>
+	<string key="ui_hud_Banners">Banners</string>
+	<string key="ui_hud_Objectives">Objectives</string>
+	<string key="ui_hud_Chat">Chat</string>
 </resources>
 

@@ -1,2 +1,13 @@
-<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="Quest_08015_PlayerPrompt" rel_version="Quest_Console_Release" comment="DO NOT TRANSLATE" speaker="UI - Player Prompt"/>
+	<string key="Quest_08015_ObjectiveProposalResponse" rel_version="Quest_Console_Release" comment="DO NOT TRANSLATE"/>
+	<string key="Quest_08015_InProgressResponse" rel_version="Quest_Console_Release" comment="DO NOT TRANSLATE"/>
+	<string key="Quest_08015_DestinationCompletionAvailablePrompt" rel_version="Quest_Console_Release" comment="DO NOT TRANSLATE" speaker="UI - Player Prompt">Complete the Quest</string>
+	<string key="Quest_08015_DestinationCompletionAvailableResponse" rel_version="Quest_Console_Release" comment="DO NOT TRANSLATE"/>
+	<string key="Quest_08016_PlayerPrompt" rel_version="Quest_Console_Release" comment="DO NOT TRANSLATE" speaker="UI - Player Prompt"/>
+	<string key="Quest_08016_ObjectiveProposalResponse" rel_version="Quest_Console_Release" comment="DO NOT TRANSLATE"/>
+	<string key="Quest_08016_InProgressResponse" rel_version="Quest_Console_Release" comment="DO NOT TRANSLATE"/>
+	<string key="Quest_08016_DestinationCompletionAvailablePrompt" rel_version="Quest_Console_Release" comment="DO NOT TRANSLATE" speaker="UI - Player Prompt">Complete the Quest</string>
+	<string key="Quest_08016_DestinationCompletionAvailableResponse" rel_version="Quest_Console_Release" comment="DO NOT TRANSLATE"/>
+</resources>
 

@@ -174,7 +174,7 @@
 	<string key="AncientGuardian_Javelineer_58_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Ancient Guardian Regent</string>
 	<string key="AncientGuardian_Javelineer_59_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Ancient Guardian Regent</string>
 	<string key="AncientGuardian_Javelineer_60_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Ancient Guardian Regent</string>
-	<string key="AncientGuardian_Javelineer_61_Elite_Spawn_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Ancient Guardan Javelineer</string>
+	<string key="AncientGuardian_Javelineer_61_Elite_Spawn_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Ancient Guardian Javelineer</string>
 	<string key="AncientGuardian_Javelineer_61_ELITE_VitalsName" comment="Elite Level Variant" speaker="Vitals Sheet">Ancient Guardian Javelineer</string>
 	<string key="AncientGuardian_Javelineer_61_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Ancient Guardian Regent</string>
 	<string key="AncientGuardian_Javelineer_61_WaveEvent_VitalsName" comment="Wave Event Variant" speaker="Vitals Sheet">Ancient Guardian Regent</string>
@@ -292,7 +292,7 @@
 	<string key="AncientGuardian_Reaver_58_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Ancient Guardian Reaver</string>
 	<string key="AncientGuardian_Reaver_59_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Ancient Guardian Reaver</string>
 	<string key="AncientGuardian_Reaver_60_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Ancient Guardian Reaver</string>
-	<string key="AncientGuardian_Reaver_61_Elite_Spawn_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Ancient Guardan Reaver</string>
+	<string key="AncientGuardian_Reaver_61_Elite_Spawn_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Ancient Guardian Reaver</string>
 	<string key="AncientGuardian_Reaver_61_ELITE_VitalsName" comment="Elite Level Variant" speaker="Vitals Sheet">Ancient Guardian Reaver</string>
 	<string key="AncientGuardian_Reaver_61_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Ancient Guardian Reaver</string>
 	<string key="AncientGuardian_Reaver_61_WaveEvent_VitalsName" comment="Wave Event Variant" speaker="Vitals Sheet">Ancient Guardian Reaver</string>
@@ -351,7 +351,7 @@
 	<string key="AncientGuardian_Spearman_59_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Ancient Guardian Taskmaster</string>
 	<string key="AncientGuardian_Spearman_60_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Ancient Guardian Taskmaster</string>
 	<string key="AncientGuardian_Spearman_60_WaveEvent_VitalsName" comment="Wave Event Variant" speaker="Vitals Sheet">Ancient Guardian Taskmaster</string>
-	<string key="AncientGuardian_Spearman_61_ELITE_Spawn_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Ancient Guardan Taskmaster</string>
+	<string key="AncientGuardian_Spearman_61_ELITE_Spawn_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Ancient Guardian Taskmaster</string>
 	<string key="AncientGuardian_Spearman_61_ELITE_VitalsName" comment="Elite Level Variant" speaker="Vitals Sheet">Ancient Guardian Taskmaster</string>
 	<string key="AncientGuardian_Spearman_61_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Ancient Guardian Taskmaster</string>
 	<string key="AncientGuardian_Spearman_62_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Ancient Guardian Taskmaster</string>
@@ -5188,6 +5188,8 @@
 	<string key="FL_Swamp_Dryad_Archer_09FL08_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_FirstLight">Elafry Pyrgo Archer</string>
 	<string key="FL_Swamp_Dryad_Archer_09FL10_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_FirstLight">Spore Addled Archer</string>
 	<string key="Swamp_Dryad_Beast_Arena_Boss_VitalsName" comment="BASE" speaker="Vitals Sheet">Swamp Dryad Beast Arena Boss</string>
+	<string key="Swamp_Dryad_Beast_Arena_Boss_v2_VitalsName" comment="BASE" speaker="Vitals Sheet">Orellani</string>
+	<string key="VC_Swamp_Dryad_Beast_Arena_Boss_v2" comment="Mission Name" speaker="VitalsCategory">Protector of the Source Orellani</string>
 	<string key="Swamp_Dryad_Beast_DG_Edengrove_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Genesis Beast</string>
 	<string key="Swamp_Dryad_Beast_Named_05WC06_WaveEvent_VitalsName" comment="Named Wave Event Variant" speaker="Vitals Sheet">Sufferance of the Elders</string>
 	<string key="Swamp_Dryad_Beast_Named_DG_Edengrove_00_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Taxodius</string>
@@ -12109,6 +12111,7 @@
 	<string key="VC_Trailstall" comment="BASE" speaker="VitalsCategory Sheet">Trailstall</string>
 	<string key="VC_training_dummy" comment="Mission Target Display Name" speaker="VitalsCategory">Training Dummy</string>
 	<string key="VC_Trestle" comment="BASE" speaker="VitalsCategory Sheet">Trestle</string>
+	<string key="VC_Trial_Quest_Seraphim_Boss" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">The Profane Seraphim</string>
 	<string key="VC_Tricorne" comment="BASE" speaker="VitalsCategory Sheet">Tricorne</string>
 	<string key="VC_Tundra_Garrison" comment="BASE" speaker="VitalsCategory Sheet">Tundra Garrison</string>
 	<string key="VC_Turkey" comment="BASE" speaker="VitalsCategory Sheet">Turkey</string>
@@ -15684,21 +15687,22 @@
 	<string key="WB_Mammoth_FL_Mahantaram_Minion_Lightning_VitalsName" speaker="Vitals Sheet" rel_version="Season_8_Perm">Elysian Lightning Mammoth</string>
 	<string key="WB_Mammoth_FL_Mahantaram_Minion_Nature_VitalsName" speaker="Vitals Sheet" rel_version="Season_8_Perm">Elysian Nature Mammoth</string>
 	<string key="VC_WorldBoss" speaker="VitalsCategory Sheet" rel_version="Season_8_Perm">Open World Boss</string>
-	<string key="VC_Inquisitor_Flamekeeper_Named_17DW01_20324" speaker="VitalsCategory Sheet">Inquisitor Quixor</string>
-	<string key="VC_Inquisitor_Grunt_17DW01_20324" speaker="VitalsCategory Sheet">Faithripper</string>
-	<string key="VC_Inquisitor_Flamekeeper_17DW01_20321" speaker="VitalsCategory Sheet">Vigilant Flamekeeper</string>
-	<string key="VC_Inquisitor_Cleric_Named_17DW01_20321" speaker="VitalsCategory Sheet">Familiares Mala</string>
-	<string key="VC_Inquisitor_Flamekeeper_17DW01_20332" speaker="VitalsCategory Sheet">Watchman Flamekeeper</string>
-	<string key="VC_Inquisitor_Cleric_17DW01_20332" speaker="VitalsCategory Sheet">Sentinel Cleric</string>
-	<string key="VC_Inquisitor_Warden_Named_17DW01_20332" speaker="VitalsCategory Sheet">Carcero the Custodian</string>
-	<string key="VC_Inquisitor_Flamekeeper_17DW01_20323" speaker="VitalsCategory Sheet">Agonizer Flamekeeper</string>
-	<string key="VC_Inquisitor_Cleric_17DW01_20323" speaker="VitalsCategory Sheet">Tormentor Cleric</string>
-	<string key="VC_Inquisitor_Warden_17DW01_20323" speaker="VitalsCategory Sheet">Pain Warden</string>
-	<string key="VC_Inquisitor_Markswoman_Named_17DW01_20323" speaker="VitalsCategory Sheet">Justicar Avalon</string>
-	<string key="VC_Inquisitor_Flamekeeper_17DW01_20219" speaker="VitalsCategory Sheet">Binding Flamekeeper</string>
-	<string key="VC_Inquisitor_Cleric_17DW01_20219" speaker="VitalsCategory Sheet">Hallowed Cleric</string>
-	<string key="VC_Inquisitor_Warden_17DW01_20219" speaker="VitalsCategory Sheet">Sanctum Warden</string>
-	<string key="VC_Inquisitor_Markswoman_17DW01_20219" speaker="VitalsCategory Sheet">Warded Markswoman</string>
-	<string key="VC_Inquisitor_Enforcer_Named_17DW01_20219" speaker="VitalsCategory Sheet">Azareth</string>
+	<string key="Lost_SoulHarvester_Boss_Catacombs_Vitalsname" speaker="Vitals Category" rel_version="AI_Ghastly_Horrors">The Souleater</string>
+	<string key="Upyr_10221a" speaker="Vitals Sheet">UnderstoneUpyr 1</string>
+	<string key="Dunwood_Lost_SoulHarvester_10221" speaker="Vitals Sheet">UnderstoneUpyr 4</string>
+	<string key="Upyr_10221b" speaker="Vitals Sheet">UnderstoneUpyr 2</string>
+	<string key="Upyr_10221c" speaker="Vitals Sheet">UnderstoneUpyr 3</string>
+	<string key="WereBear_20211" speaker="Vitals Sheet">SorrowthornBear</string>
+	<string key="Wereraven_20211" speaker="Vitals Sheet">SorrowthornRaven</string>
+	<string key="Werewolf_20211" speaker="Vitals Sheet">Berleaur Berserker</string>
+	<string key="VC_Werewolf_Madmaw_Rabid" speaker="VitalsCategory Sheet">Understone Upyr 1</string>
+	<string key="VC_Upyr_10221a" speaker="VitalsCategory Sheet">Understone Upyr 4</string>
+	<string key="VC_Dunwood_Lost_SoulHarvester_10221" speaker="VitalsCategory Sheet">Understone Upyr 2</string>
+	<string key="VC_Upyr_10221b" speaker="VitalsCategory Sheet">Understone Upyr 3</string>
+	<string key="VC_Upyr_10221c" speaker="VitalsCategory Sheet">Understone Upyr 5</string>
+	<string key="VC_WereBear_20211" speaker="VitalsCategory Sheet">Sorrowthorn Bear</string>
+	<string key="VC_Wereraven_20211" speaker="VitalsCategory Sheet">Sorrowthorn Raven</string>
+	<string key="VC_Werewolf_20211" speaker="VitalsCategory Sheet">Sorrowthorn Wolf</string>
+	<string key="SiegeWeaponLarge_AllyBossBar_VitalsName" speaker="Vitals Sheet">Ally Boss Bar</string>
 </resources>
 

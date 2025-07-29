@@ -28,6 +28,7 @@
 	<string key="ui_leaderboard_category_trial_spriggan" rel_version="Feature_Leaderboards">Monoecious Cleft</string>
 	<string key="ui_leaderboard_category_trial_swampbeast" rel_version="Feature_Leaderboards">Eternal Pools</string>
 	<string key="ui_leaderboard_category_seasonal_world" rel_version="Feature_Seasonal_Servers">Seasonal World</string>
+	<string key="ui_leaderboard_category_capture_the_flag" rel_version="Gamemode_CTF">Capture The Flag</string>
 	<string key="ui_leaderboard_column_rank" rel_version="Feature_Leaderboards">Rank</string>
 	<string key="ui_leaderboard_column_player" rel_version="Feature_Leaderboards">Player</string>
 	<string key="ui_leaderboard_column_players" rel_version="Feature_Leaderboards">Players</string>
@@ -38,6 +39,8 @@
 	<string key="ui_leaderboard_column_days" rel_version="Feature_Leaderboards">Days</string>
 	<string key="ui_leaderboard_column_wins" rel_version="Feature_Leaderboards">Wins</string>
 	<string key="ui_leaderboard_column_kills" rel_version="Feature_Leaderboards">Kills</string>
+	<string key="ui_leaderboard_column_total_kills" rel_version="Gamemode_CTF">Total Kills</string>
+	<string key="ui_leaderboard_column_best_kills" rel_version="Gamemode_CTF">Best Kills</string>
 	<string key="ui_leaderboard_column_ratio" rel_version="Feature_Leaderboards">Ratio</string>
 	<string key="ui_leaderboard_column_heals" rel_version="Feature_Leaderboards">Heals</string>
 	<string key="ui_leaderboard_column_damage" rel_version="Feature_Leaderboards">Damage</string>
@@ -49,6 +52,10 @@
 	<string key="ui_leaderboard_column_crafted" rel_version="Feature_Leaderboards">Crafted</string>
 	<string key="ui_leaderboard_column_caught" rel_version="Feature_Leaderboards">Caught</string>
 	<string key="ui_leaderboard_column_earned" rel_version="Feature_Seasonal_Servers">Earned</string>
+	<string key="ui_leaderboard_column_points" rel_version="Gamemode_CTF">Flag Points</string>
+	<string key="ui_leaderboard_column_returns" rel_version="Gamemode_CTF">Returns</string>
+	<string key="ui_leaderboard_column_kill_death_ratio" rel_version="Gamemode_CTF">K/D Ratio</string>
+	<string key="ui_leaderboard_column_kill_death_assist_ratio" rel_version="Gamemode_CTF">K/D/A Ratio</string>
 	<string key="ui_leaderboard_display_war_damage_taken" rel_version="Feature_Leaderboards">Damage Absorbed</string>
 	<string key="ui_leaderboard_display_war_damage_dealt" rel_version="Feature_Leaderboards">Damage Dealt</string>
 	<string key="ui_leaderboard_display_war_heals" rel_version="Feature_Leaderboards">Heals</string>
@@ -160,8 +167,8 @@
 	<string key="ui_leaderboard_display_elitetrials_sandworm2" rel_version="Trial_Brimstone_Sandworm">Trial of the Devourer</string>
 	<string key="ui_leaderboard_tip_outpostrush_score" rel_version="Feature_Leaderboards">&lt;img src="lyshineui/images/icons/crossworld/icon_crossworld_identifier_tan" scale="2.0" xPadding="2" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ebe3d6"&gt;&lt;font face="lyshineui/fonts/Nimbus_Regular.font"&gt;Regional Leaderboard&lt;/font&gt;&lt;/font&gt;\n\nYour Outpost Rush Score is the top score you've received in a match.</string>
 	<string key="ui_leaderboard_category_raids" rel_version="Season_8_Perm">Raids</string>
-	<string key="ui_leaderboard_display_raids_cutlassKeys1" rel_version="Season_8_Perm">Gorgon's Hive - Clear Time</string>
-	<string key="ui_leaderboard_display_raids_cutlassKeys2" rel_version="Season_8_Perm">Gorgon's Hive</string>
+	<string key="ui_leaderboard_display_raids_cutlassKeys1" rel_version="Season_8_Perm">Hive of Gorgons - Clear Time</string>
+	<string key="ui_leaderboard_display_raids_cutlassKeys2" rel_version="Season_8_Perm">Hive of Gorgons</string>
 	<string key="ui_leaderboard_display_regional">Regional</string>
 	<string key="ui_leaderboard_display_world_archived">World (Archived)</string>
 	<string key="ui_leaderboard_tip_regional_only">&lt;img src="lyshineui/images/icons/crossworld/icon_crossworld_identifier_tan" scale="2.0" xPadding="2" yOffset="5"&gt;&lt;/img&gt; Regional Leaderboards\n\nView stats and compete against players across your region.\n\nConsole worlds will only share regional leaderboards with other console-specific worlds.</string>
@@ -176,5 +183,21 @@
 	<string key="ui_leaderboard_column_assists" rel_version="Season_7_Perm">Assists</string>
 	<string key="ui_leaderboard_display_kda" rel_version="Season_7_Perm">Kill/Death/Assist Ratio</string>
 	<string key="ui_leaderboard_tip_kda" rel_version="Season_7_Perm">Kill/Death/Assist Ratio is calculated by adding kills and assists then dividing by deaths.</string>
+	<string key="ui_leaderboard_display_capture_the_flag_wins" rel_version="Gamemode_CTF">Wins</string>
+	<string key="ui_leaderboard_display_capture_the_flag_score" rel_version="Gamemode_CTF">Score</string>
+	<string key="ui_leaderboard_display_capture_the_flag_points" rel_version="Gamemode_CTF">Flag Points</string>
+	<string key="ui_leaderboard_display_capture_the_flag_returns" rel_version="Gamemode_CTF">Returns</string>
+	<string key="ui_leaderboard_display_capture_the_flag_kills" rel_version="Gamemode_CTF">Kills</string>
+	<string key="ui_leaderboard_display_capture_the_flag_best_kills" rel_version="Gamemode_CTF">Best Kills</string>
+	<string key="ui_leaderboard_display_capture_the_flag_assists" rel_version="Gamemode_CTF">Assists</string>
+	<string key="ui_leaderboard_display_capture_the_flag_heals" rel_version="Gamemode_CTF">Heals</string>
+	<string key="ui_leaderboard_display_capture_the_flag_damage_dealt" rel_version="Gamemode_CTF">Damage Dealt</string>
+	<string key="ui_leaderboard_display_capture_the_flag_kill_death" rel_version="Gamemode_CTF">K/D Ratio</string>
+	<string key="ui_leaderboard_display_capture_the_flag_kill_death_assist" rel_version="Gamemode_CTF">K/D/A Ratio</string>
+	<string key="ui_leaderboard_second_level_category_test" rel_version="Gamemode_CTF">SecondLevelCategory</string>
+	<string key="ui_leaderboard_category_desc" rel_version="Gamemode_CTF">Category Description</string>
+	<string key="ui_leaderboard_tip_flag_points" rel_version="Gamemode_CTF">How many points you earned by stealing the enemy's flag.</string>
+	<string key="ui_leaderboard_tip_flag_returns" rel_version="Gamemode_CTF">How many times you returned a stolen flag back to your base.</string>
+	<string key="ui_leaderboard_tip_kd" rel_version="Gamemode_CTF">Kill/Death Ratio is calculated by dividing the number of kills by the number of deaths.</string>
 </resources>
 

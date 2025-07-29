@@ -10,5 +10,8 @@
 	<string key="platform_activity_main_story" rel_version="ConsoleLaunch">Main Story</string>
 	<string key="platform_activity_main_story_description" rel_version="ConsoleLaunch">Explore and adventure across Aeternum, unlock the mystery of Azoth, and foil foes that seek to conquer humanity… or wipe it from the world.</string>
 	<string key="platform_activity_main_story_task_1" rel_version="ConsoleLaunch">Complete the Shattered Mountain, Brimstone Sands, and Elysian Wilds Story Arcs</string>
+	<string key="platform_activity_ctf" rel_version="Gamemode_CTF">Capture the Flag</string>
+	<string key="platform_activity_ctf_description_a" rel_version="Gamemode_CTF">Capture the Flag is a fast paced, team oriented game mode that requires both offensive and defensive tactics. Defend your base while stealing the enemy's flag to win.</string>
+	<string key="platform_activity_ctf_description_b" rel_version="Gamemode_CTF">Objective: Steal the enemy's flag and return it to your base.</string>
 </resources>
 

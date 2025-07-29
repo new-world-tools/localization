@@ -509,8 +509,8 @@
 	<string key="Mut_Ice_CloseZone_2_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Shiver II</string>
 	<string key="Mut_Ice_CloseZone_1_Damage_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Biting Cold I</string>
 	<string key="Mut_Ice_CloseZone_2_Damage_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Biting Cold II</string>
-	<string key="Mut_Ice_CloseZone_1_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators_pt3">Suffering {[ * -100]}% base Ice damage every {[1.000000]} seconds.</string>
-	<string key="Mut_Ice_CloseZone_2_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators_pt3">Suffering {[ * -100]}% base Ice damage every {[1.000000]} seconds.</string>
+	<string key="Mut_Ice_CloseZone_1_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators_pt3">Suffering {[-0.05 * -100]}% base Ice damage every {[1.000000]} seconds.</string>
+	<string key="Mut_Ice_CloseZone_2_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators_pt3">Suffering {[-0.1 * -100]}% base Ice damage every {[1.000000]} seconds.</string>
 	<string key="Mut_Ice_Death_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Glacial</string>
 	<string key="Mut_Ice_DeathFreeze_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Glacial</string>
 	<string key="Mut_Ice_DeathFreeze_Slow_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Freezing Slow</string>
@@ -1368,7 +1368,7 @@
 	<string key="Cleanse_DisplayName">Cleanse</string>
 	<string key="Cleanse_Tooltip">Removes and provides immunity to debuffs.</string>
 	<string key="HasteElixir_DisplayName">Haste Elixir</string>
-	<string key="HasteElixir_Tooltip">Increases sprint speed by {[0.500000 * 100]}%. Ends when you get hit or perform any combat action.</string>
+	<string key="HasteElixir_Tooltip">Increases sprint speed by {[0.400000 * 100]}%. Ends when you get hit or perform any combat action.</string>
 	<string key="WeaponCoatingEffect_DisplayName">Weapon Coating</string>
 	<string key="WeaponCoatingEffect_Description">Weapon coating status on your active weapon.</string>
 	<string key="WeaponCoatingEffect_T2_Beasts_DisplayName">Common Beast Weapon Coating</string>
@@ -1485,6 +1485,8 @@
 	<string key="Status_StaticCharge_Description">If hit by an enemy wielding Boltcaster with 3 stacks active, you'll trigger a static discharge taking bonus damage.</string>
 	<string key="Status_StaticDischarge">Static Discharge</string>
 	<string key="Status_StaticDischarge_Description">Deals {[-0.800000 * -100]}% of attacker's weapon damage.</string>
+	<string key="Status_LifeStaff_Support_Name" rel_version="Feature_Artifacts_Set2">Life Support</string>
+	<string key="Status_LifeStaff_Support_Description" rel_version="Feature_Artifacts_Set2">Life Staff outgoing healing is increased when you are not affected by any Life Staff heal over time effects.</string>
 	<string key="Status_Artifact_LifeStaff_StackTracker_DisplayName" rel_version="Feature_Artifacts_Set2">Light Amplify</string>
 	<string key="Status_Artifact_LifeStaff_StackTracker_Description" rel_version="Feature_Artifacts_Set2">Having a heavy attack pass through an ally while you have {[3.000000]} stacks of this effect will Reinforce them.</string>
 	<string key="Status_Artifact_LifeStaff_Reinforced_DisplayName" rel_version="Feature_Artifacts_Set2">Reinforced</string>
@@ -1558,9 +1560,9 @@
 	<string key="Status_SlowPotencyReduction_AfterDodgeTimer">Impeded</string>
 	<string key="Status_SlowPotencyReduction_AfterDodgeTimer_Description">The potency of your slows are not reduced from the unimpeded perk while this effect is active.</string>
 	<string key="Status_PoisonDiseaseCombo_Description">You currently have a Poison damage over time effect and disease effect on you, as well as decreased outgoing healing.</string>
-	<string key="Status_Upgrade_Bow_EvasiveShot_Haste_description">Your movement speed is increased by {[0.150000 * 100]}%.</string>
-	<string key="Status_Passive_Bow_Skirmish_HasteOnSwap_description">Your movement speed is increased by {[0.100000 * 100]}%.</string>
-	<string key="Status_Passive_Bow_Skirmish_DodgeHaste_description">Your movement speed is increased by {[0.100000 * 100]}%.</string>
+	<string key="Status_Upgrade_Bow_EvasiveShot_Haste_description">Your movement speed is increased by {[0.120000 * 100]}%.</string>
+	<string key="Status_Passive_Bow_Skirmish_HasteOnSwap_description">Your movement speed is increased by {[0.070000 * 100]}%.</string>
+	<string key="Status_Passive_Bow_Skirmish_DodgeHaste_description">Your movement speed is increased by {[0.070000 * 100]}%.</string>
 	<string key="Status_Ultimate_Bow_Skirmish_DodgeDmg_description">Your damage is increased by {[0.150000 * 100]}%.</string>
 	<string key="Status_Passive_Bow_Skirmish_SlowFull_description">Your movement speed reduced by {[-0.100000 * 100]}%.</string>
 	<string key="Status_Ultimate_Bow_Skirmish_description">Your movement speed reduced by {[-0.100000 * 100]}%.</string>
@@ -1584,7 +1586,7 @@
 	<string key="Status_Passive_Greataxe_Mauler_ArmorWhenFoesNear_description">Your armor is increased by {[0.200000 * 100]}%.</string>
 	<string key="Status_Passive_Greataxe_Mauler_StamVsLowHp_Timer_description">When this expires Maulers Resolve can trigger again.</string>
 	<string key="Hatchet_Berserk_DisplayName">Berserk</string>
-	<string key="Hatchet_Berserk_Description">Berserk Mode for {[12.000000]} seconds.</string>
+	<string key="Hatchet_Berserk_Description">Berserk Mode for {[5.000000]} seconds.</string>
 	<string key="Status_Berserk_Uninterruptible">Uninterruptible Berserk</string>
 	<string key="Status_Berserk_Uninterruptible_Description">Uninterruptible to staggers and knockdowns while active.</string>
 	<string key="Hatchet_Purge_DisplayName">Purge</string>
@@ -1599,8 +1601,8 @@
 	<string key="Hatchet_ImmortalTimer_Description">When this expires Defy Death can trigger again.</string>
 	<string key="Hatchet_Pass_3AtkEmpower_Description">{[0.200000 * 100]}% more damage for {[3.000000]} seconds.</string>
 	<string key="Hatchet_Pass_HeavyEmpower_Description">{[0.150000 * 100]}% more damage for {[5.000000]} seconds.</string>
-	<string key="Status_SocialDist_Haste_Description">Your movement speed is increased by {[0.200000 * 100]}%.</string>
-	<string key="Status_Raging_Haste_Description">Your movement speed is increased by {[0.200000 * 100]}%.</string>
+	<string key="Status_SocialDist_Haste_Description">Your movement speed is increased by {[0.150000 * 100]}%.</string>
+	<string key="Status_Raging_Haste_Description">Your movement speed is increased by {[0.150000 * 100]}%.</string>
 	<string key="Hatchet_Rush_Root_Description">You are Immobilized.</string>
 	<string key="Hatchet_Throw_Rend_Description">Your armor is reduced by {[-0.200000 * -100]}%.</string>
 	<string key="Hatchet_Throw_RendBuff_Description">Your armor is reduced by {[-0.200000 * -100]}%.</string>
@@ -1612,13 +1614,13 @@
 	<string key="InfectedThrow_Weaken_DisplayName">Weaken</string>
 	<string key="InfectedThrow_Weaken_Description">Outgoing damage is reduced by {[-0.100000 * -100]}%.</string>
 	<string key="WarHammer_ArmorBreaker_Rend_Description">Your armor is reduced by {[-0.300000 * -100]}%.</string>
-	<string key="WarHammer_Gavel_Haste_Description">Your movement speed is increased by {[0.300000 * 100]}%.</string>
+	<string key="WarHammer_Gavel_Haste_Description">Your movement speed is increased by {[0.200000 * 100]}%.</string>
 	<string key="WarHammer_HasteOnDebuff_Description">Your movement speed is increased by {[0.150000 * 100]}%.</string>
 	<string key="WarHammer_WreckingBall_Forify_Description">Your armor is increased by {[0.200000 * 100]}%.</string>
 	<string key="WarHammer_HeavyEmpower_Description">{[0.200000 * 100]}% more damage for {[4.000000]} seconds.</string>
 	<string key="WarHammer_ExhaustOnHit_Description">Stamina regen rate decreased by {[-0.200000 * -100]}%.</string>
 	<string key="WarHammer_ClearOut_Fortify_Description">Your armor is increased by {[0.200000 * 100]}%.</string>
-	<string key="WarHammer_ClearOut_Haste_Description">Your movement speed is increased by {[0.300000 * 100]}%.</string>
+	<string key="WarHammer_ClearOut_Haste_Description">Your movement speed is increased by {[0.200000 * 100]}%.</string>
 	<string key="WarHammer_Shockwave_Weaken_Description">Your outgoing damage is reduced by {[-0.100000 * 100]}%.</string>
 	<string key="WarHammer_Shockwave_Stun_Description">Stunned for {[2.000000]} seconds. Removed by damage.</string>
 	<string key="WarHammer_Ult_Slow_DisplayName">Aftershock</string>
@@ -1638,7 +1640,7 @@
 	<string key="PowderBurn_DoT_Description">Deals {[-0.150000 * -100]}% weapon damage converted to Fire every {[1.000000]} second for {[7.000000]} seconds.</string>
 	<string key="PowderBurn_DoT_Extend_DisplayName">Burn</string>
 	<string key="PowderBurn_DoT_Extend_Description">Deals {[-0.150000 * -100]}% weapon damage converted to every {[1.000000]} second for {[13.000000]} seconds.</string>
-	<string key="Status_DodgeHaste_Description">Your movement speed is increased by {[0.100000 * 100]}% after dodging.</string>
+	<string key="Status_DodgeHaste_Description">Your movement speed is increased by {[0.070000 * 100]}% after dodging.</string>
 	<string key="Status_NearbyEnemyHaste_Description">Your walking/strafing movement speed is increased by {[0.100000 * 100]}% while near an enemy.</string>
 	<string key="Status_EmpowerHeadshot_Description">Your attacks deal {[0.100000 * 100]}% more damage.</string>
 	<string key="Status_EmpowerOnDebuff_Description">Your attacks deal {[0.050000 * 100]}% more damage.</string>
@@ -1679,7 +1681,7 @@
 	<string key="Status_Passive_Firestaff_FireMage_DmgFullMana_description">Your damage is increased by {[0.050000 * 100]}% while mana is above 50%.</string>
 	<string key="Status_Passive_Firestaff_FireMage_DmgNoDmg_Timer_description">When this expires you can gain Clear Casting.</string>
 	<string key="Status_Passive_Firestaff_FireMage_DmgNoDmg_description">Your damage is increased by {[0.050000 * 100]}%. This ends if you take damage.</string>
-	<string key="Status_Passive_Firestaff_Pyro_Haste_description">Your movement speed is increased by {[0.100000 * 100]}%.</string>
+	<string key="Status_Passive_Firestaff_Pyro_Haste_description">Your movement speed is increased by {[0.070000 * 100]}%.</string>
 	<string key="Status_Passive_Firestaff_Pyro_Haste_Timer_description">When this expires you can trigger Combat Speed again.</string>
 	<string key="Status_Passive_Firestaff_Pyro_Ultimate_Timer_description">When this expires you gain Reheat.</string>
 	<string key="Status_Passive_Firestaff_Pyro_Ultimate_description">Gain {[4.000000 * 100]}% mana regeneration</string>
@@ -1690,7 +1692,7 @@
 	<string key="Status_Upgrade_Sword_LeapingStrike_Slow_description">Your movement speed reduced by {[-0.300000 * 100]}%.</string>
 	<string key="Status_Passive_Sword_Swordmaster_DmgOnHeavy_description">Your damage is increased by {[0.300000 * 100]}%.</string>
 	<string key="Status_Passive_Sword_Swordmaster_HasteWhileBlock_description">Your movement speed while blocking is increased by {[0.330000 * 100]}%.</string>
-	<string key="Status_Passive_Sword_Swordmaster_HasteOnCrit_description">Your movement speed is increased by {[0.200000 * 100]}%.</string>
+	<string key="Status_Passive_Sword_Swordmaster_HasteOnCrit_description">Your movement speed is increased by {[0.150000 * 100]}%.</string>
 	<string key="Status_Passive_Sword_Defender_FortWhileBlock_description">Your armor is increased by {[0.200000 * 100]}%.</string>
 	<string key="Status_Passive_Sword_Swordmaster_SlowOnFinal_description">Your movement speed reduced by {[-0.200000 * 100]}%.</string>
 	<string key="Status_Upgrade_Sword_Rush_Weak_description">Your outgoing damage is reduced by {[-0.200000 * 100]}%.</string>
@@ -1712,9 +1714,10 @@
 	<string key="Status_Ability_Lifestaff_SacredGround_description">You heal for {[0.160000 * 100]}% casters weapon damage.</string>
 	<string key="Status_Ability_Lifestaff_SacredGround_Upgrade_description">You heal for {[0.000000 * 100]}% casters weapon damage. You regenerate stamna and mana 100% faster.</string>
 	<string key="Status_Ability_Lifestaff_SacredGround_Upgrade2_description">You heal for {[0.000000 * 100]}% casters weapon damage. You regenerate stamna and mana 100% faster. You are healed for 20% more health from all heals.</string>
-	<string key="Status_Upgrade_Lifestaff_Protection_AddHaste_description">Your movement speed is increased by {[0.200000 * 100]}%.</string>
+	<string key="Status_Upgrade_Lifestaff_Protection_AddHaste_description">Your movement speed is increased by {[0.150000 * 100]}%.</string>
 	<string key="Status_Ability_Lifestaff_Beacon_description">You heal for {[0.160000 * 100]}% casters weapon damage.</string>
 	<string key="Status_Timer_HealingCDROnLow_Description">When this timer is over, Life Staff's Desperate Speed can be triggered again.</string>
+	<string key="Status_Upgrade_Dagger_DoubleNeckStab_Weaken_Description" comment="DAGGER + DO NOT TRANSLATE">Your outgoing damage is reduced by {[-0.200000 * 100]}%.</string>
 	<string key="Status_Perk_Amulet_StamOnLow_Timer_description">When this ends your Amulet Stamina Recovery can trigger again.</string>
 	<string key="Status_Perk_Amulet_ManaOnLow_Timer_description">When this ends your Amulet Mana Recovery can trigger again.</string>
 	<string key="Status_Perk_Amulet_RemoveOnLow_Timer_description">When this ends your Amulet Purify can trigger again.</string>
@@ -1967,9 +1970,9 @@
 	<string key="Status_Rune_CannonBlast_Major_Desc">Burning for {[-0.100000 * -100]}% rune damage per second.</string>
 	<string key="Status_Rune_Detonate">Detonate</string>
 	<string key="Status_Rune_Detonate_Desc">Charge for {[3.000000]}s and then detonate, dealing major rune damage within a {[5.000000]}m radius.</string>
-	<string key="Status_Rune_Detonate_Major_Desc">Charge for {[3.000000]}s, gaining {[0.300000 * 100]}% move speed and then detonate, dealing major rune damage within a {[5.000000]}m radius.</string>
-	<string key="Status_Rune_Detonate_Greater_Desc">Charge for {[3.000000]}s, gaining {[0.300000 * 100]}% move speed and {[0.150000 * 100]}% increased damage and then detonate, dealing reduced damage within a {[5.000000]}m radius.</string>
-	<string key="Status_Rune_Detonate_Dominator_Desc">Charge for {[3.000000]}s, gaining {[0.300000 * 100]}% move speed but gaining rend, reducing armor by {[-0.500000 * -100]}% until the detonation occurs, dealing huge rune damage within a {[5.000000]}m radius.</string>
+	<string key="Status_Rune_Detonate_Major_Desc">Charge for {[3.000000]}s, gaining {[0.200000 * 100]}% move speed and then detonate, dealing major rune damage within a {[5.000000]}m radius.</string>
+	<string key="Status_Rune_Detonate_Greater_Desc">Charge for {[3.000000]}s, gaining {[0.200000 * 100]}% move speed and {[0.150000 * 100]}% increased damage and then detonate, dealing reduced damage within a {[5.000000]}m radius.</string>
+	<string key="Status_Rune_Detonate_Dominator_Desc">Charge for {[3.000000]}s, gaining {[0.200000 * 100]}% move speed but gaining rend, reducing armor by {[-0.500000 * -100]}% until the detonation occurs, dealing huge rune damage within a {[5.000000]}m radius.</string>
 	<string key="Status_Rune_GraspingVines_Major_Desc">Outgoing damage reduced by {[-0.200000 * -100]}%.</string>
 	<string key="Status_Rune_GraspingVines_Survivor_Desc">Your armor is increased by {[0.200000 * 100]}%.</string>
 	<string key="Status_Rune_GraspingVines_Dominator_Rend_Desc">Your armor is reduced by {[-0.200000 * -100]}%.</string>
@@ -1986,7 +1989,7 @@
 	<string key="Status_FireStorm_Survivor__DoT_Desc" rel_version="Feature_Heartgems_FireStorm">Burning for {[-0.150000 * -100]}% heartrune damage per second.</string>
 	<string key="Status_Rune_FireStorm_Empower_Desc" rel_version="Feature_Heartgems_FireStorm">Outgoing damage increased by {[0.100000 * 100]}%.</string>
 	<string key="Status_FireStorm_Major_Desc" rel_version="Feature_Heartgems_FireStorm">Outgoing damage reduced by {[-0.150000 * -100]}%.</string>
-	<string key="Status_FireStorm_Greater_Desc" rel_version="Feature_Heartgems_FireStorm">Movement speed increased by {[0.150000 * 100]}%.</string>
+	<string key="Status_FireStorm_Greater_Desc" rel_version="Feature_Heartgems_FireStorm">Movement speed increased by {[0.120000 * 100]}%.</string>
 	<string key="Status_Rune_Sandworm_Major_Desc" rel_version="Feature_Heartgems_Sandworm">Movement speed reduced by {[-0.200000 * -100]}%.</string>
 	<string key="Status_Sandworm_DoT_Name" rel_version="Feature_Heartgems_Sandworm">Poisoned</string>
 	<string key="Status_Rune_Sandworm_DoT_Desc" rel_version="Feature_Heartgems_Sandworm">Poisoned for {[-0.150000 * -100]}% heartrune damage per second.</string>
@@ -2226,7 +2229,7 @@
 	<string key="Status_PotionRecharge_Name">Potion Surge</string>
 	<string key="Status_PotionRecharge_Desc">Your next survival potion recharges instantly</string>
 	<string key="Dungeon_Medusa_Statue_Gaze_Root_DisplayName" rel_version="Raid_CutlassKeys_00">Petrified</string>
-	<string key="Dungeon_Medusa_Statue_Gaze_Root_Description" rel_version="Raid_CutlassKeys_00">Damages {[-0.200000 * -100]}% health and slows {[-1.000000 * -100]}% move speed for {[8.000000]} seconds.</string>
+	<string key="Dungeon_Medusa_Statue_Gaze_Root_Description" rel_version="Raid_CutlassKeys_00">Damages {[-0.200000 * -100]}% health and slows {[-1 * -100]}% move speed for {[8.000000]} seconds.</string>
 	<string key="AI_Corrupted_FirstMate_AnchorSlam_AOE_Enemy_DisplayName" rel_version="ConsoleLaunch">Swell of Corruption</string>
 	<string key="AI_Corrupted_FirstMate_AnchorSlam_AOE_Enemy_Tooltip" rel_version="ConsoleLaunch">You suffer {[-0.05 * -100]}% health Corruption damage every {[1.000000]} seconds.</string>
 	<string key="AI_Corrupted_FirstMate_AnchorSlam_AOE_Friendly_DisplayName" rel_version="ConsoleLaunch">Empowering Corruption</string>
@@ -2302,7 +2305,7 @@
 	<string key="Status_SeasonalServer_DeathCount_DisplayName" rel_version="Season_8_Perm">Accrued Deaths</string>
 	<string key="Status_SeasonalServer_DeathCount_Description" rel_version="Season_8_Perm">Number of times this character has died.</string>
 	<string key="FFA_PvP_Curse_DisplayName" rel_version="Feature_FFA_PVP_Curse">Scallywag's Curse</string>
-	<string key="FFA_PvP_Curse_Tooltip" rel_version="Feature_FFA_PVP_Curse">For each stack of this curse the damage you take from other players is &lt;font face="lyshineui/fonts/Nimbus_SemiBold.font" color="#edc63e"&gt;{[Player=-0.3 * -100]}%&lt;/font&gt; more and the damage you deal to other players is &lt;font face="lyshineui/fonts/Nimbus_SemiBold.font" color="#edc63e"&gt;{[Player=-0.06 * -100]}%&lt;/font&gt; less.\n\nTo remove the curse quickly, kill other players in the free for all PvP zone. Staying away from other players in the zone, or being outside of the zone will cause it to slowly go away.</string>
+	<string key="FFA_PvP_Curse_Tooltip" rel_version="Feature_FFA_PVP_Curse">For each stack of this curse the damage you take from other players is &lt;font face="lyshineui/fonts/Nimbus_SemiBold.font" color="#edc63e"&gt;{[Player=-0.3 * -100]}%&lt;/font&gt; more and the damage you deal to other players is &lt;font face="lyshineui/fonts/Nimbus_SemiBold.font" color="#edc63e"&gt;{[Player=-0.06 * -100]}%&lt;/font&gt; less. Additionally, each stack decreases your outgoing block stamina damage by &lt;font face="lyshineui/fonts/Nimbus_SemiBold.font" color="#edc63e"&gt;{[-0.040000 * -100]}%&lt;/font&gt;, and increases the attacker's block stamina damage dealt to you by &lt;font face="lyshineui/fonts/Nimbus_SemiBold.font" color="#edc63e"&gt;{[-0.100000 * -100]}%&lt;/font&gt;.\n\nTo remove the curse quickly, kill other players in the free for all PvP zone. Staying away from other players in the zone, or being outside of the zone will cause it to slowly go away.</string>
 	<string key="AI_SirenQueen_Sleepy_DisplayName" rel_version="Season_8_Perm">Song of Siren</string>
 	<string key="AI_SirenQueen_Sleepy_Tooltip" rel_version="Season_8_Perm">Asleep for 5 seconds unless you get hit by something.</string>
 	<string key="AI_SirenQueen_Asleep_DisplayName" rel_version="Season_8_Perm">Asleep</string>
@@ -2317,12 +2320,12 @@
 	<string key="AI_RW_Siege_Pool_Thornslashing_DisplayName" rel_version="Season_8_Perm">Wallbreaking</string>
 	<string key="AI_RW_Siege_Pool_Invulnerability_DisplayName" rel_version="Season_8_Perm">Invulnerable</string>
 	<string key="ctf_flag_carrier_debuff_icon_name" rel_version="Gamemode_CTF">Flag Carrier!</string>
-	<string key="ctf_flag_carrier_debuff_icon_desc" rel_version="Gamemode_CTF">You are the Flag Carrier! You are now more vulnerable to enemy attacks and receive less healing.</string>
-	<string key="CTF_Powerup_Damage_Empower_Name" rel_version="Gamemode_CTF">Attack Power-up</string>
-	<string key="CTF_Powerup_Damage_Empower_Desc" rel_version="Gamemode_CTF">Gain {[0.200000 * 100]}% Empowered with all damage types for {[30.000000]} seconds.</string>
+	<string key="ctf_flag_carrier_debuff_icon_desc" rel_version="Gamemode_CTF">You are the Flag Carrier! Each stack makes you slower and more vulnerable.</string>
+	<string key="CTF_Powerup_Damage_Empower_Name" rel_version="Gamemode_CTF">Damage Power-up</string>
+	<string key="CTF_Powerup_Damage_Empower_Desc" rel_version="Gamemode_CTF">Boosts all damage types by {[0.200000 * 100]}% for {[25.000000]} seconds.</string>
 	<string key="CTF_Powerup_Speed_Name" rel_version="Gamemode_CTF">Haste Power-up</string>
 	<string key="CTF_Powerup_Speed_Desc" rel_version="Gamemode_CTF">Gain {[0.500000 * 100]}% Speed for {[7.000000]} seconds.</string>
 	<string key="CTF_Powerup_Healing_Name" rel_version="Gamemode_CTF">Health Power-up</string>
-	<string key="CTF_Powerup_Healing_Desc" rel_version="Gamemode_CTF">Gain Gain {[10000.000000]} Health when collected. (Gear can affect the total)</string>
+	<string key="CTF_Powerup_Healing_Desc" rel_version="Gamemode_CTF">Gain {[10000.000000]} Health when collected.</string>
 </resources>
 

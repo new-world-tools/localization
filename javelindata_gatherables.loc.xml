@@ -359,6 +359,7 @@
 	<string key="LootContainer_Ancient_DisplayName">Ancient Chest</string>
 	<string key="LootContainer_Elite_Ancient_DisplayName">Elite Ancient Chest</string>
 	<string key="LootContainer_Elite_Beast_DisplayName">Elite Beast Hoard</string>
+	<string key="LootContainer_Elite_Tarot_DisplayName">Elite Carnival Cache</string>
 	<string key="LootContainer_Elite_Supplies_DisplayName">Elite Supply Chest</string>
 	<string key="LootContainer_Abandoned_DisplayName">Abandoned Supplies</string>
 	<string key="LootContainer_Farmland_DisplayName">Farming Supplies</string>
@@ -464,6 +465,7 @@
 	<string key="Catacombs_Health">Healing Azoth</string>
 	<string key="Catacombs_Def">Armor Enchantment</string>
 	<string key="Catacombs_Lifesteal">Lifesteal Enchantment</string>
+	<string key="Catacombs_ShirkingBlessing">Shirking Blessing Enchantment</string>
 	<string key="FishingHotspotBroad_DisplayName">Hotspot (Broad)</string>
 	<string key="FishingHotspotRare_DisplayName">Hotspot (Rare)</string>
 	<string key="FishingHotspotSecret_DisplayName">Hotspot (Secret)</string>
@@ -803,6 +805,17 @@
 	<string key="AnubianBrute_Base_DisplayName" rel_version="Territory_Brimstone_Sands">Anubian Automaton</string>
 	<string key="AnubianPanther_Base_DisplayName" rel_version="Territory_Brimstone_Sands">Sphinx Automaton</string>
 	<string key="16BS_LootContainer_Elite_LegionStoneTomb_DisplayName" rel_version="Territory_Brimstone_Sands">Elite Grave Offerings</string>
+	<string key="SummerMedley_Settlement_Stage_Master_DisplayName" rel_version="Event_Summer_Temp">Medleyfaire Stage Centerpiece</string>
+	<string key="SummerMedley_Settlement_Stage_T1_DisplayName" rel_version="Event_Summer_Temp">Dismal Bestowment</string>
+	<string key="SummerMedley_Settlement_Stage_T2_DisplayName" rel_version="Event_Summer_Temp">Grand Bestowment</string>
+	<string key="SummerMedley_Settlement_Stage_T3_DisplayName" rel_version="Event_Summer_Temp">Opulent Bestowment</string>
+	<string key="SummerMedley_Settlement_Stage_Description" rel_version="Event_Summer_Temp">Compete Medleyfaire Town Projects to upgrade the glory and rewards bestowed by the stage!</string>
+	<string key="SummerMedley_Village_BonfireBlast_DisplayName" rel_version="Event_Summer_Temp">Medleyfaire Pyre</string>
+	<string key="SummerMedley_Village_BonfireBlast_Description" rel_version="Event_Summer_Temp">Toss an Aeternum Sturgeon Magic Fishbone into the fires to receive a tremendous reward!</string>
+	<string key="SummerMedley_Maudlindust_DisplayName" rel_version="Event_Summer_Temp">Maudlindust</string>
+	<string key="SummerMedley_Maudlindust_Particle_DisplayName" rel_version="Event_Summer_Temp">Maudlindust Particle</string>
+	<string key="SummerMedley_Village_Dancefloor_DisplayName" rel_version="Event_Summer_Temp">Medleyfaire Dance Floor</string>
+	<string key="SummerMedley_Village_Dancefloor_Description" rel_version="Event_Summer_Temp">Polish up and show off your best moves on the Medleyfaire Dance Floor to earn Event Reputation!</string>
 	<string key="Season_04_IceGuardian_Icicle_DisplayName" rel_version="Season_4_Trial">Throwable Icicle</string>
 	<string key="Season_04_IceGuardian_BrokenRune_DisplayName" rel_version="Season_4_Trial">Gain Ancient Flame Empowerment</string>
 	<string key="FM_PVP_War_Camp_Loot_Box_DisplayName">War Camp Chest</string>
@@ -1564,5 +1577,11 @@
 	<string key="05wc_ReekwaterUplevelChest_Medium_DisplayName" rel_version="Season_8_Perm">Soulwarden Cache</string>
 	<string key="05wc_ReekwaterUplevelChest_Large_DisplayName" rel_version="Season_8_Perm">Soulwarden Hoard</string>
 	<string key="RW_Siege_Pool_Blighted_Totem_DisplayName" rel_version="Season_8_Perm">Restore Totem</string>
+	<string key="17_MSQ_StackCrates_DisplayName">Collect Scattered Supplies</string>
+	<string key="17_MSQ_BoardWindow_DisplayName">Board Up Window</string>
+	<string key="17_MSQ_BatteryPost_DisplayName">Reconnect Battery</string>
+	<string key="17_MSQ_ShieldDevice_DisplayName">Activate Shield</string>
+	<string key="17_MSQ_BerlaurCage_DisplayName">Unlock Cage</string>
+	<string key="17_MSQ_BoxOfPotions_DisplayName">Collect Red Allium Powder</string>
 </resources>
 

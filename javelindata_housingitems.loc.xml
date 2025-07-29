@@ -2131,5 +2131,7 @@ This is the most solid and sturdy chest you have ever seen.</string>
 	<string key="housing_factionfest_reward_decor_marauder_MasterName" rel_version="Season_8_Perm">Marauder Warlight Stone</string>
 	<string key="housing_factionfest_reward_decor_syndicate_Description" rel_version="Season_8_Perm">Decorate your house with this mystical stone that channels the essence of the Syndicate Faction.</string>
 	<string key="housing_factionfest_reward_decor_syndicate_MasterName" rel_version="Season_8_Perm">Syndicate Warlight Stone</string>
+	<string key="House_HousingItem_Buff_Summer_Season9_T1_Description" rel_version="Season_8_Perm">A wonderful centerpiece to remind you that there's nothing better than a good day fishing.</string>
+	<string key="House_HousingItem_Buff_Summer_Season9_T1_MasterName" rel_version="Season_8_Perm">Tide Master's Collection</string>
 </resources>
 

@@ -627,5 +627,11 @@
 	<string key="ui_Emote_TouchGrass_name" rel_version="Season_8_Perm">Touch Grass</string>
 	<string key="ui_Emote_TouchGrass_description" rel_version="Season_8_Perm">It's good for you.</string>
 	<string key="Emote_TouchGrass" rel_version="Season_8_Perm">{playerName} touches the beautiful, luscious grass.</string>
+	<string key="ui_Emote_CatPaw_name" rel_version="Season_9_Perm">Cat Paws</string>
+	<string key="ui_Emote_CatPaw_description" rel_version="Season_9_Perm">All of the majesty of the glorious feline form. Wait, I feel a hairball coming.</string>
+	<string key="Emote_CatPaw" rel_version="Season_9_Perm">{playerName} plays like a kitten.</string>
+	<string key="ui_Emote_NewspaperBonk_name" rel_version="Season_9_Perm">Newspaper Bonk</string>
+	<string key="ui_Emote_NewspaperBonk_description" rel_version="Season_9_Perm">For when your teammates start making stupid plans in Outpost Rush.</string>
+	<string key="Emote_NewspaperBonk" rel_version="Season_9_Perm">{playerName} whacks some sense into someone.</string>
 </resources>
 

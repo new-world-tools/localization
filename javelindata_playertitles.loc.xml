@@ -1645,5 +1645,57 @@
 	<string key="ui_PlayerTitle_Season8SS_JourneyChapter1_description" rel_version="Season_8_Perm">Earned by completing the Season 8 Unfallen Seasonal World Chapter</string>
 	<string key="ui_PlayerTitle_Season8SS_JourneyChallenge" rel_version="Season_8_Perm">Master of the Divide</string>
 	<string key="ui_PlayerTitle_Season8SS_JourneyChallenge_description" rel_version="Season_8_Perm">Earned by completing the Season 8 Seasonal Journey Challenge: Master of the Divide</string>
+	<string key="ui_playertitle_Season9_battlepass" rel_version="Season_9_Perm">Revenant</string>
+	<string key="ui_playertitle_Season9_battlepass_SHE" rel_version="Season_9_Perm">Revenant</string>
+	<string key="ui_playertitle_Season9_battlepass_THEY" rel_version="Season_9_Perm">Revenant</string>
+	<string key="ui_playertitle_Season9_battlepass_description" rel_version="Season_9_Perm">Earned in the free track for the Season 9 Season Pass.</string>
+	<string key="ui_playertitle_Season9_journeychallenge1" rel_version="Season_9_Perm">Space Oddity</string>
+	<string key="ui_playertitle_Season9_journeychallenge1_SHE" rel_version="Season_9_Perm">Space Oddity</string>
+	<string key="ui_playertitle_Season9_journeychallenge1_THEY" rel_version="Season_9_Perm">Space Oddity</string>
+	<string key="ui_playertitle_Season9_journeychallenge1_description" rel_version="Season_9_Perm">Earned by completing the Season 9 Challenge: Space Oddity</string>
+	<string key="ui_playertitle_Season9_journeychallenge2" rel_version="Season_9_Perm">Herald of Victory</string>
+	<string key="ui_playertitle_Season9_journeychallenge2_SHE" rel_version="Season_9_Perm">Herald of Victory</string>
+	<string key="ui_playertitle_Season9_journeychallenge2_THEY" rel_version="Season_9_Perm">Herald of Victory</string>
+	<string key="ui_playertitle_Season9_journeychallenge2_description" rel_version="Season_9_Perm">Earned by completing the Season 9 Challenge: Herald of Victory</string>
+	<string key="ui_playertitle_Season9_journeychallenge3" rel_version="Season_9_Perm">Aeternum Extractor</string>
+	<string key="ui_playertitle_Season9_journeychallenge3_SHE" rel_version="Season_9_Perm">Aeternum Extractor</string>
+	<string key="ui_playertitle_Season9_journeychallenge3_THEY" rel_version="Season_9_Perm">Aeternum Extractor</string>
+	<string key="ui_playertitle_Season9_journeychallenge3_description" rel_version="Season_9_Perm">Earned by completing the Season 9 Challenge: Aeternum Extractor</string>
+	<string key="ui_playertitle_Season9_journeychallenge4" rel_version="Season_9_Perm">Apex Apothecary</string>
+	<string key="ui_playertitle_Season9_journeychallenge4_SHE" rel_version="Season_9_Perm">Apex Apothecary</string>
+	<string key="ui_playertitle_Season9_journeychallenge4_THEY" rel_version="Season_9_Perm">Apex Apothecary</string>
+	<string key="ui_playertitle_Season9_journeychallenge4_description" rel_version="Season_9_Perm">Earned by completing the Season 9 Challenge: Apex Apothecary</string>
+	<string key="ui_playertitle_Season9_journeychallenge5" rel_version="Season_9_Perm">P-Rank</string>
+	<string key="ui_playertitle_Season9_journeychallenge5_SHE" rel_version="Season_9_Perm">P-Rank</string>
+	<string key="ui_playertitle_Season9_journeychallenge5_THEY" rel_version="Season_9_Perm">P-Rank</string>
+	<string key="ui_playertitle_Season9_journeychallenge5_description" rel_version="Season_9_Perm">Earned by completing the Season 9 Challenge: P-Rank</string>
+	<string key="ui_playertitle_Season9_journeychallenge6" rel_version="Season_9_Perm">Prismatic Processer</string>
+	<string key="ui_playertitle_Season9_journeychallenge6_SHE" rel_version="Season_9_Perm">Prismatic Processer</string>
+	<string key="ui_playertitle_Season9_journeychallenge6_THEY" rel_version="Season_9_Perm">Prismatic Processer</string>
+	<string key="ui_playertitle_Season9_journeychallenge6_description" rel_version="Season_9_Perm">Earned by completing the Season 9 Challenge: Prismatic Processer</string>
+	<string key="ui_playertitle_Season9_journeychallenge7" rel_version="Season_9_Perm">Player Plunderer</string>
+	<string key="ui_playertitle_Season9_journeychallenge7_SHE" rel_version="Season_9_Perm">Player Plunderer</string>
+	<string key="ui_playertitle_Season9_journeychallenge7_THEY" rel_version="Season_9_Perm">Player Plunderer</string>
+	<string key="ui_playertitle_Season9_journeychallenge7_description" rel_version="Season_9_Perm">Earned by completing the Season 9 Challenge: Player Plunderer</string>
+	<string key="ui_playertitle_Season9_journeychallenge8" rel_version="Season_9_Perm">Banner Completionist</string>
+	<string key="ui_playertitle_Season9_journeychallenge8_SHE" rel_version="Season_9_Perm">Banner Completionist</string>
+	<string key="ui_playertitle_Season9_journeychallenge8_THEY" rel_version="Season_9_Perm">Banner Completionist</string>
+	<string key="ui_playertitle_Season9_journeychallenge8_description" rel_version="Season_9_Perm">Earned by completing the Season 9 Challenge: Banner Completionist</string>
+	<string key="ui_playertitle_Season9_journeychallenge9" rel_version="Season_9_Perm">Blinged Out</string>
+	<string key="ui_playertitle_Season9_journeychallenge9_SHE" rel_version="Season_9_Perm">Blinged Out</string>
+	<string key="ui_playertitle_Season9_journeychallenge9_THEY" rel_version="Season_9_Perm">Blinged Out</string>
+	<string key="ui_playertitle_Season9_journeychallenge9_description" rel_version="Season_9_Perm">Earned by completing the Season 9 Challenge: Blinged Out</string>
+	<string key="ui_playertitle_Season9_journeychallenge10" rel_version="Season_9_Perm">Warhawk</string>
+	<string key="ui_playertitle_Season9_journeychallenge10_SHE" rel_version="Season_9_Perm">Warhawk</string>
+	<string key="ui_playertitle_Season9_journeychallenge10_THEY" rel_version="Season_9_Perm">Warhawk</string>
+	<string key="ui_playertitle_Season9_journeychallenge10_description" rel_version="Season_9_Perm">Earned by completing the Season 9 Challenge: Warhawk</string>
+	<string key="ui_playertitle_Season9journey" rel_version="Season_9_Perm">Hellwalker</string>
+	<string key="ui_playertitle_Season9journey_SHE" rel_version="Season_9_Perm">Hellwalker</string>
+	<string key="ui_playertitle_Season9journey_THEY" rel_version="Season_9_Perm">Hellwalker</string>
+	<string key="ui_playertitle_Season9journey_description" rel_version="Season_9_Perm">Earned for completing Chapter 4 of the Season 9 Season Journey</string>
+	<string key="ui_playertitle_hercynetime_top1" rel_version="Season_8_Perm">Hive of Gorgons Speed Victor</string>
+	<string key="ui_playertitle_hercynetime_top1_description" rel_version="Season_8_Perm">Earned by placing top 10 on the Hive of Gorgons Clear Time Leaderboard</string>
+	<string key="ui_playertitle_hercynetime_top10" rel_version="Season_8_Perm">Hive of Gorgons Speed Medalist</string>
+	<string key="ui_playertitle_hercynetime_top10_description" rel_version="Season_8_Perm">Earned by placing top 50 on the Hive of Gorgons Clear Time Leaderboard</string>
 </resources>
 

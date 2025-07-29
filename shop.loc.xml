@@ -1,0 +1,16 @@
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="ui_shop_default_name">Shop</string>
+	<string key="ui_shop_default_reputation_tooltip" comment="DO NOT TRANSLATE">Reputation is rewarded by completing associated quests and activities.</string>
+	<string key="ui_shop_conversation_option">Open {ShopName}</string>
+	<string key="ui_shop_conversation_option_default">Open Shop</string>
+	<string key="ui_shop_syndicate_name">Syndicate Armory</string>
+	<string key="ui_shop_marauders_name">Marauders Armory</string>
+	<string key="ui_shop_covenant_name">Covenant Armory</string>
+	<string key="ui_shop_faction_reputation_tooltip" comment="DO NOT TRANSLATE">Increase your reputation with this faction by doing their missions and activities.</string>
+	<string key="ui_shop_winter_convergence_name" comment="DO NOT TRANSLATE" rel_version="Event_WinterConvergence_Perm">Winter Convergence Shop</string>
+	<string key="ui_shop_summer_medleyfaire_name" comment="DO NOT TRANSLATE" rel_version="Event_Summer_Perm">Summer Medleyfaire Shop</string>
+	<string key="ui_shop_nightveil_hallow_name" comment="DO NOT TRANSLATE" rel_version="Event_Halloween_Perm">Nightveil Hallow Shop</string>
+	<string key="ui_shop_springtide_bloom_name" comment="DO NOT TRANSLATE" rel_version="Event_SpringtideBloom_Perm">Springtide Bloom Shop</string>
+	<string key="ui_shop_seasonal_event_reputation_tooltip" comment="DO NOT TRANSLATE">Increase your Seasonal Event reputation by doing the Event Questline and Event Activities.</string>
+</resources>
+

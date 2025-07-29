@@ -242,6 +242,8 @@
 	<string key="ui_invasion_count" comment="">&lt;font color="#ebe3d6"&gt;{number}&lt;/font&gt; / {total}</string>
 	<string key="ui_promote_disabled_max_tooltip" comment="">Can't promote this player any further.</string>
 	<string key="ui_demote_disabled_min_tooltip" comment="">Can't demote this player any further.</string>
+	<string key="ui_promote_failure_notification" comment="">Can't promote this player any further, they are already at the max rank.</string>
+	<string key="ui_demote_failure_notification" comment="">Can't demote this player any further, they are already at the minimum rank.</string>
 	<string key="ui_remove_army" comment="">Remove from army</string>
 	<string key="ui_kick_raid_member_cooldown" comment="">Unable to kick from army for another {secRemaining} seconds.</string>
 	<string key="ui_kick_army" comment="">Kick and Ban (War)</string>

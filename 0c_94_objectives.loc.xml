@@ -195,9 +195,9 @@
 	<string key="9405_LionRaces_start" speaker="UI - Player Prompt">"I wish to be a peerless rider."</string>
 	<string key="9405_LionRaces_Proposal_a" speaker="Zinnumun" name="BeastLordZinumun" VO="npc_9405_LionRaces_Proposal_a" VO_Status="Recorded" dialogue-next="@9405_LionRaces_Proposal_b" cutsceneCameraPresetId="NSR_MNP_WID_2SHT_CROP_LA_Primary" cameraStateLookAt="-0.1 0.65 0.6" dummyPresetPos="2 2 2">I see… well, as you have proven yourself on many occasions to be a friend of our kind, we will grant you this favor.</string>
 	<string key="9405_LionRaces_Proposal_b" speaker="Zinnumun" name="BeastLordZinumun" VO="npc_9405_LionRaces_Proposal_b" VO_Status="Recorded" dialogue-next="@9405_LionRaces_Proposal1_a" cutsceneCameraPresetId="NSR_MNP_WID_2SHT_CROP_LA_Primary" cameraStateLookAt="-0.1 0.65 0.6" dummyPresetPos="2 2 2">There is no greater teacher than experience, though, and that is what I will give you.</string>
-	<string key="9405_LionRaces_Response" speaker="UI - Player Prompt">"What is it I need to do?"</string>
-	<string key="9405_LionRaces_Proposal1_a" direction="Instructive" context="The player is trying to prove themselves to Zinnumun, Lion Beast Lord, to get the information they need. She is telling the player what she expects in exchange for giving up that knowledge." speaker="Zinnumun" name="BeastLordZinumun" VO="npc_9405_LionRaces_Proposal1_a" VO_Type="npc_" VO_Status="Needs Recording" dialogue-next="@9405_LionRaces_Proposal1_b" dialogue-prompt="@9405_LionRaces_Response" cutsceneCameraPresetId="NSR_MNP_WID_2SHT_CROP_LA_Primary" cameraStateLookAt="-0.1 0.65 0.6" dummyPresetPos="2 2 2">There is a series of courses that we lions use to teach our young to be swift and agile. I will see to it that these are set up on a way that you can understand as a human.</string>
-	<string key="9405_LionRaces_Proposal1_b" direction="Making a pledge" context="Continues explaining what the player must do." speaker="Zinnumun" name="BeastLordZinumun" VO="npc_9405_LionRaces_Proposal1_b" VO_Type="npc_" VO_Status="Needs Recording" cutsceneCameraPresetId="NSR_MNP_WID_2SHT_CROP_LA_Primary" cameraStateLookAt="-0.1 0.65 0.6" dummyPresetPos="2 2 2">Beat those times, and you will learn what you need to.</string>
+	<string key="9405_LionRaces_Response" speaker="UI - Player Prompt" VO_Status="Player Prompt">"What is it I need to do?"</string>
+	<string key="9405_LionRaces_Proposal1_a" speaker="Zinnumun" name="BeastLordZinumun" VO="npc_9405_LionRaces_Proposal1_a" VO_Type="npc_" VO_Status="Needs Recording" dialogue-next="@9405_LionRaces_Proposal1_b" dialogue-prompt="@9405_LionRaces_Response" cutsceneCameraPresetId="NSR_MNP_WID_2SHT_CROP_LA_Primary" cameraStateLookAt="-0.1 0.65 0.6" dummyPresetPos="2 2 2">There is a series of courses that we lions use to teach our young to be swift and agile. I will see to it that these are set up on a way that you can understand as a human.</string>
+	<string key="9405_LionRaces_Proposal1_b" speaker="Zinnumun" name="BeastLordZinumun" VO="npc_9405_LionRaces_Proposal1_b" VO_Type="npc_" VO_Status="Needs Recording" cutsceneCameraPresetId="NSR_MNP_WID_2SHT_CROP_LA_Primary" cameraStateLookAt="-0.1 0.65 0.6" dummyPresetPos="2 2 2">Beat those times, and you will learn what you need to.</string>
 	<string key="9405_LionRaces_Description">Zinnumun has set me to train on the same courses they use to teach their young. I must show I can match or beat the times set by hunting lions.</string>
 	<string key="9405_LionRaces_Incomplete" speaker="Zinnumun" name="BeastLordZinumun" VO="npc_9405_LionRaces_Incomplete" VO_Status="Recorded" cutsceneCameraPresetId="NSR_MNP_WID_2SHT_CROP_LA_Primary" cameraStateLookAt="-0.1 0.65 0.6" dummyPresetPos="2 2 2">We expect much from our young. If you are going to stride alongside lions, you must show you can keep up with the pride.</string>
 	<string key="9405_LionRaces_Complete_a" speaker="Zinnumun" name="BeastLordZinumun" VO="npc_9405_LionRaces_Complete_a" VO_Status="Recorded" dialogue-next="@9405_LionRaces_Complete_b" cutsceneCameraPresetId="NSR_MNP_WID_2SHT_CROP_LA_Primary" cameraStateLookAt="-0.1 0.65 0.6" dummyPresetPos="2 2 2">You're come back, every bit as capable as a member of our tribe.</string>
@@ -486,6 +486,18 @@
 	<string key="9405_Tour_3_Proposal_2" cutsceneCameraPresetId="NSR_BBD_WID_OTSP">Ponder the mysteries of Aeternum through along a route wrought with clandestine whispers. Ends at Syndicate Enclave in Everfall.</string>
 	<string key="9405_Rally_1_Proposal_2" cutsceneCameraPresetId="NSR_BBD_WID_OTSP">Descend into the wild greens of Beast Lord stomping grounds, leap beyond the clutch of hungry teeth, and make your way back to Last Light.</string>
 	<string key="9405_Rally_2_Proposal_2" cutsceneCameraPresetId="NSR_BBD_WID_OTSP">Dash through green rolling hills and the tunnels of Tempestas Custodia for the ultimate test of your agility.</string>
-	<string key="9401_Rally">Rally Board</string>
+	<string key="9401_Rally" cutsceneCameraPresetId="NSR_BBD_WID_OTSP">Rally Board</string>
+	<string key="9405_01_DW_Rally_1_proposal" cutsceneCameraPresetId="NSR_BBD_WID_OTSP">Ride from Castle Dracula to Tularest, fleeing the horrors of Count Dracula and seeking refuge in the white halls of that tranquil tower. Like a cowardly plebian.</string>
+	<string key="9405_01_DW_Rally_2_proposal" cutsceneCameraPresetId="NSR_BBD_WID_OTSP">THIS TEXT DESCRIBES THE COURSE AHEAD</string>
+	<string key="9405_01_DW_Rally_3_proposal" cutsceneCameraPresetId="NSR_BBD_WID_OTSP">THIS TEXT DESCRIBES THE COURSE AHEAD</string>
+	<string key="9405_01_DW_Rally_4_proposal" cutsceneCameraPresetId="NSR_BBD_WID_OTSP">THIS TEXT DESCRIBES THE COURSE AHEAD</string>
+	<string key="9405_01_DW_Rally_5_proposal" cutsceneCameraPresetId="NSR_BBD_WID_OTSP">THIS TEXT DESCRIBES THE COURSE AHEAD</string>
+	<string key="9405_01_DW_Rally_6_proposal">THIS TEXT DESCRIBES THE COURSE AHEAD</string>
+	<string key="DW_Rally_1_title">Devil's Rally</string>
+	<string key="DW_Rally_2_title">Rally of Dusk</string>
+	<string key="DW_Rally_3_title">Bones and Burials Rally</string>
+	<string key="DW_Rally_4_title">Spirits and Scions Rally</string>
+	<string key="DW_Rally_5_title">Fool's Rally</string>
+	<string key="DW_Rally_6_title">Rally of Dawn</string>
 </resources>
 

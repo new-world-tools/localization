@@ -26,6 +26,8 @@ Discover the full collection of rewards, including &lt;font color="#edc63e"&gt;7
 	<string key="data_season_07_desc" rel_version="Season_7_Perm">REPLACEME</string>
 	<string key="data_season_08_name" rel_version="Season_8_Perm">Season 8: Season of the Divide</string>
 	<string key="data_season_08_display_name" rel_version="Season_8_Perm">Season 8</string>
+	<string key="data_season_09_name" rel_version="Season_9_Perm">Season 9: Season of the Banner</string>
+	<string key="data_season_09_display_name" rel_version="Season_9_Perm">Season 9</string>
 	<string key="seasons_rewards_categorical_progression_id" rel_version="Feature_Seasons_Rewards">Season Pass</string>
 	<string key="seasons_rewards_tab_battlepass" rel_version="Feature_Seasons_Rewards">Battle Pass</string>
 	<string key="seasons_rewards_tab_journey" rel_version="Feature_Seasons_Rewards">Journey</string>
@@ -350,6 +352,8 @@ Discover the full collection of rewards, including &lt;font color="#edc63e"&gt;7
 	<string key="SeasonsActivities_PlayMaudlinbugSong" rel_version="Season_2_Perm">Play Maudlinbug Haze</string>
 	<string key="SeasonsActivities_Gather500Resources" rel_version="Season_2_Perm">Gather Resources</string>
 	<string key="SeasonsActivities_Kill5Scorpions" rel_version="Feature_Seasons_Rewards">Kill Scorpions</string>
+	<string key="SeasonsActivities_KillingBlowCTF" rel_version="Season_9_Perm">Get Killing Blows on Enemies in Capture the Flag</string>
+	<string key="SeasonsActivities_ParticipateInCTF" rel_version="Season_9_Perm">Participate in Capture the Flag</string>
 	<string key="SeasonsRewardTrack_Activity" rel_version="Feature_Seasons_Rewards">Activity Card</string>
 	<string key="SeasonsRewardTrack_PurchaseLevels" rel_version="Feature_Seasons_Rewards">Purchase Levels</string>
 	<string key="SeasonsRewardTrack_Free" rel_version="Feature_Seasons_Rewards">Free</string>
@@ -363,7 +367,7 @@ Discover the full collection of rewards, including &lt;font color="#edc63e"&gt;7
 	<string key="SeasonsRewardTrack_HeadStart" rel_version="Feature_Seasons_Rewards">Head Start</string>
 	<string key="SeasonsRewardTrack_PurchaseSeasonLevels" rel_version="Feature_Seasons_Rewards">Purchase Levels</string>
 	<string key="SeasonsRewardTrack_Levels" rel_version="Feature_Seasons_Rewards">Season Levels</string>
-	<string key="SeasonsRewardTrack_Timer" rel_version="Feature_Seasons_Rewards">Ends:</string>
+	<string key="SeasonsRewardTrack_Timer" rel_version="Feature_Seasons_Rewards">Ends: {time}</string>
 	<string key="SeasonsRewardTrack_Header" rel_version="Feature_Seasons_Rewards">Season Pass Rewards</string>
 	<string key="SeasonsRewardTrack_Unclaimed_Rewards" rel_version="Feature_Seasons_Rewards">&lt;font color={color}&gt;{amount}&lt;/font&gt; Unclaimed</string>
 	<string key="SeasonsRewardTrack_Current_Level" rel_version="Feature_Seasons_Rewards">View current level</string>
@@ -1119,5 +1123,64 @@ Discover the full collection of rewards, including &lt;font color="#edc63e"&gt;7
 	<string key="SS8_Journey_Depraved" rel_version="Season_8_Perm">Fallen Seasonal World Chapter &lt;img src="lyshineui/images/SeasonsRewards/SeasonalServer/Icon_season_server" scale="1.5" yOffset="3"&gt;&lt;/img&gt;</string>
 	<string key="SS8_Journey_Casual" rel_version="Season_8_Perm">Casual Seasonal World Chapter &lt;img src="lyshineui/images/SeasonsRewards/SeasonalServer/Icon_season_server" scale="1.5" yOffset="3"&gt;&lt;/img&gt;</string>
 	<string key="SS8_Journey_Bonus" rel_version="Season_8_Perm">Seasonal World Bonus Chapter &lt;img src="lyshineui/images/SeasonsRewards/SeasonalServer/Icon_season_server" scale="1.5" yOffset="3"&gt;&lt;/img&gt;</string>
+	<string key="ui_seasons_task_name_CraftHands_1" rel_version="Season_9_Perm">Master of Arms I</string>
+	<string key="ui_seasons_task_description_CraftT3Hands" rel_version="Season_9_Perm">Craft {maxCount} T3+ Gloves</string>
+	<string key="ui_seasons_task_name_CraftHands_2" rel_version="Season_9_Perm">Master of Arms II</string>
+	<string key="ui_seasons_task_description_CraftT5Hands" rel_version="Season_9_Perm">Craft {maxCount} T5 Gloves</string>
+	<string key="ui_seasons_task_name_KillAngryEarth_1" rel_version="Season_9_Perm">Nature vs Murder I</string>
+	<string key="ui_seasons_task_description_KillAngryEarth" rel_version="Season_9_Perm">Kill {maxCount} Angry Earth enemies</string>
+	<string key="ui_seasons_task_name_KillAngryEarth_2" rel_version="Season_9_Perm">Nature vs Murder II</string>
+	<string key="ui_seasons_task_description_KillAngryEarth60" rel_version="Season_9_Perm">Kill {maxCount} L60+ Angry Earth enemies</string>
+	<string key="ui_seasons_task_name_KillAngryEarth_3" rel_version="Season_9_Perm">Nature vs Murder III</string>
+	<string key="ui_seasons_task_description_KillAngryEarthNamedElite65" rel_version="Season_9_Perm">Kill {maxCount} L65+ Angry Earth Named Elite enemies</string>
+	<string key="ui_seasons_task_name_KillPlayerInOpenWorld_1" rel_version="Season_9_Perm">Open World Menace I</string>
+	<string key="ui_seasons_task_name_KillPlayerInOpenWorld_2" rel_version="Season_9_Perm">Open World Menace II</string>
+	<string key="ui_seasons_task_name_KillPlayerInOpenWorld_3" rel_version="Season_9_Perm">Open World Menace III</string>
+	<string key="ui_seasons_task_name_KillPlayerInOpenWorld_4" rel_version="Season_9_Perm">Open World Menace IV</string>
+	<string key="ui_seasons_task_name_CraftMagicWeaponT4" rel_version="Season_9_Perm">Magic Madness</string>
+	<string key="ui_seasons_task_description_CraftMagicWeaponT4" rel_version="Season_9_Perm">Craft {maxCount} T4+ Magic Weapons (Fire Staff, Life Staff, Void Gauntlet, Ice Gauntlet)</string>
+	<string key="ui_seasons_task_name_KillPlayerMagicWeapon" rel_version="Season_9_Perm">Witching Hour</string>
+	<string key="ui_seasons_task_description_KillPlayerMagicWeapon" rel_version="Season_9_Perm">Kill {maxCount} Players with a Magic Weapon equipped (Fire Staff, Life Staff, Void Gauntlet, Ice Gauntlet)</string>
+	<string key="ui_seasons_task_name_GatherOre_1" rel_version="Season_9_Perm">Goin' Prospectin' I</string>
+	<string key="ui_seasons_task_description_GatherOre" rel_version="Season_9_Perm">Gather {maxCount} Ore</string>
+	<string key="ui_seasons_task_name_GatherOre_2" rel_version="Season_9_Perm">Goin' Prospectin' II</string>
+	<string key="ui_seasons_task_description_GatherOreT4" rel_version="Season_9_Perm">Gather {maxCount} T4+ Ore</string>
+	<string key="ui_seasons_task_name_GatherOre_3" rel_version="Season_9_Perm">Goin' Prospectin' III</string>
+	<string key="ui_seasons_task_description_GatherOreT5" rel_version="Season_9_Perm">Gather {maxCount} T5+ Ore</string>
+	<string key="ui_seasons_task_name_GatherOre_4" rel_version="Season_9_Perm">Goin' Prospectin' IV</string>
+	<string key="ui_seasons_task_description_GatherT52Ore" rel_version="Season_9_Perm">Gather {maxCount} Mythril Ore</string>
+	<string key="ui_seasons_task_name_KillNamedEbonscale" rel_version="Season_9_Perm">Down with the Queen</string>
+	<string key="ui_seasons_task_description_KillNamedEbonscale" rel_version="Season_9_Perm">Kill {maxCount} Named Enemies in Ebonscale Reach</string>
+	<string key="ui_seasons_task_name_KillCorruptedBrimstoneL65" rel_version="Season_9_Perm">Et Tu, Brutus?</string>
+	<string key="ui_seasons_task_description_KillCorruptedBrimstoneL65" rel_version="Season_9_Perm">Kill {maxCount} L65+ Corrupted Enemies in Brimstone sands</string>
+	<string key="ui_seasons_task_name_KillElite65CutlassKeys" rel_version="Season_9_Perm">Honor Among Thieves</string>
+	<string key="ui_seasons_task_description_KillElite65CutlassKeys" rel_version="Season_9_Perm">Kill {maxCount} L65+ Elite enemies in Cutlass Keys</string>
+	<string key="ui_seasons_task_name_CompleteMutGoldRank_1" rel_version="Season_9_Perm">Gold Star I</string>
+	<string key="ui_seasons_task_description_CompleteMutatedExpeditionWithGoldRank" rel_version="Season_9_Perm">Complete a Mutated Expedition with a Gold Rank</string>
+	<string key="ui_seasons_task_name_CompleteMutGoldRank_2" rel_version="Season_9_Perm">Gold Star II</string>
+	<string key="ui_seasons_task_description_CompleteM3ExpeditionWithGoldRank" rel_version="Season_9_Perm">Complete a M3 Mutated Expedition with a Gold Rank</string>
+	<string key="ui_seasons_task_name_CraftMutatorRaidCombo" rel_version="Season_9_Perm">By Your Powers Combined</string>
+	<string key="ui_seasons_task_description_CraftMutatorRaidCombo" rel_version="Season_9_Perm">Craft {maxCount} Mutator and Hive Reward caches</string>
+	<string key="ui_seasons_task_name_PlayCTF_1" rel_version="Season_9_Perm">Fly the Colors I</string>
+	<string key="ui_seasons_task_description_PlayCTF" rel_version="Season_9_Perm">Participate in {maxCount} Capture the Flag matches</string>
+	<string key="ui_seasons_task_description_PlayCTF_single" rel_version="Season_9_Perm">Participate in a Capture the Flag match</string>
+	<string key="ui_seasons_task_name_PlayCTF_2" rel_version="Season_9_Perm">Fly the Colors II</string>
+	<string key="ui_seasons_task_description_WinCTF" rel_version="Season_9_Perm">Win {maxCount} Capture the Flag matches</string>
+	<string key="ui_seasons_task_description_WinCTF_single" rel_version="Season_9_Perm">Win a Capture the Flag match</string>
+	<string key="ui_seasons_task_name_Challenge_S9_CraftWithDarkMatter" rel_version="Season_9_Perm">Space Oddity</string>
+	<string key="ui_seasons_task_description_Challenge_S9_CraftWithDarkMatter" rel_version="Season_9_Perm">Craft {maxCount} items using Dark Matter</string>
+	<string key="ui_seasons_task_name_Challenge_S9_WinCTF" rel_version="Season_9_Perm">Herald of Victory</string>
+	<string key="ui_seasons_task_name_Challenge_S9_GatherResource" rel_version="Season_9_Perm">Aeternum Extractor</string>
+	<string key="ui_seasons_task_description_Challenge_S9_GatherResource" rel_version="Season_9_Perm">Gather {maxCount} Resources</string>
+	<string key="ui_seasons_task_name_Challenge_S9_CompleteTaskAnyChapter" rel_version="Season_9_Perm">Banner Completionist</string>
+	<string key="ui_seasons_task_description_Challenge_S9_CompleteTaskAnyChapter" rel_version="Season_9_Perm">Complete 90% (54) of this Season's Journey Tasks</string>
+	<string key="ui_seasons_task_name_Challenge_S9_CraftConcoctionT5" rel_version="Season_9_Perm">Apex Apothecary</string>
+	<string key="ui_seasons_task_description_Challenge_S9_CraftConcoctionT5" rel_version="Season_9_Perm">Craft {maxCount} T5 Concoctions</string>
+	<string key="ui_seasons_task_name_Challenge_S9_CompleteM3ExpeditionFlawlesslyWithGoldRank" rel_version="Season_9_Perm">P-Rank</string>
+	<string key="ui_seasons_task_description_Challenge_S9_CompleteM3ExpeditionFlawlesslyWithGoldRank" rel_version="Season_9_Perm">Complete {maxCount} M3 Mutated Expeditions Flawlessly with a Gold Rank</string>
+	<string key="ui_seasons_task_name_Challenge_S9_CraftPrismaticResources" rel_version="Season_9_Perm">Prismatic Processor</string>
+	<string key="ui_seasons_task_name_Challenge_S9_KillPlayerCutlassKeys" rel_version="Season_9_Perm">Player Plunderer</string>
+	<string key="ui_seasons_task_name_Challenge_S9_CraftGS725" rel_version="Season_9_Perm">Blinged Out</string>
+	<string key="ui_seasons_task_name_Challenge_S9_WinWar" rel_version="Season_9_Perm">Warhawk</string>
 </resources>
 

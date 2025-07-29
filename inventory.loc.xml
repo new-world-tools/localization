@@ -73,7 +73,6 @@
 	<string key="inv_equipLoadTooltip">The combined weight of your equipped armor and shield determines your equip load. Each equip load offers a unique dodge and other effects.</string>
 	<string key="inv_equipLoadFastTooltip">• Base Damage: +{[0.150000 * 100]}%
 	\n• Outgoing Healing: +30%
-	\n• Block Stability: -10%
 	\n• Your dodge is a quick roll. 
 	\n• Dodge Stamina Cost: {[50.000000]}
 	\n• For {[0.850000]}s after taking a melee hit, dodge distance is reduced by 20% and you cannot run.
@@ -87,7 +86,6 @@
 	</string>
 	<string key="inv_equipLoadSlowTooltip">• Base Damage: -{[-0.150000 * -100]}% 
 	\n• Outgoing Healing: -30%
-	\n• Block Stability: +10%
 	\n• Incoming Crowd Control Duration: -20%
 	\n• Your dodge is a directional step. 
 	\n• Dodge Stamina Cost: {[55.000000]}

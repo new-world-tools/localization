@@ -3917,8 +3917,12 @@
 	<string key="ui_metachievement_leaderboard_streakgoverned_title" rel_version="Feature_Seasonal_Servers">Eternal Conqueror</string>
 	<string key="ui_metachievement_leaderboard_streakgoverned_description" rel_version="Feature_Seasonal_Servers">Earned by ranking in the Governing Streak Leaderboard for Season 7's Seasonal World.</string>
 	<string key="ui_metaachievement_all_territories_leaderboard_top1_trial_hercyneraid_title" rel_version="Season_8_Perm">Hive of Gorgons Victor</string>
-	<string key="ui_metaachievement_all_territories_leaderboard_top10_trial_hercyneraid_title" rel_version="Season_8_Perm">Hive of Gorgons  Medalist</string>
+	<string key="ui_metaachievement_all_territories_leaderboard_top10_trial_hercyneraid_title" rel_version="Season_8_Perm">Hive of Gorgons Medalist</string>
 	<string key="ui_metaachievement_all_territories_leaderboard_top1_trial_hercyneraid_desc" rel_version="Season_8_Perm">Title earned by placing Top 10 on the Hive of Gorgons Raid Leaderboard.</string>
 	<string key="ui_metaachievement_all_territories_leaderboard_top10_trial_hercyneraid_desc" rel_version="Season_8_Perm">Title earned by placing Top 50 on the Hive of Gorgons Raid Leaderboard.</string>
+	<string key="ui_metaachievement_all_territories_leaderboard_top1_trial_hercynetime_title" rel_version="Season_8_Perm">Hive of Gorgons Speed Victor</string>
+	<string key="ui_metaachievement_all_territories_leaderboard_top10_trial_hercynetime_title" rel_version="Season_8_Perm">Hive of Gorgons Speed Medalist</string>
+	<string key="ui_metaachievement_all_territories_leaderboard_top1_trial_hercynetime_desc" rel_version="Season_9_Perm">Title earned by placing Top 10 on the Hive of Gorgons Clear Time Leaderboard.</string>
+	<string key="ui_metaachievement_all_territories_leaderboard_top10_trial_hercynetime_desc" rel_version="Season_9_Perm">Title earned by placing Top 50 on the Hive of Gorgons Clear Time Leaderboard.</string>
 </resources>
 

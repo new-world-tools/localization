@@ -451,6 +451,9 @@
 	<string key="Objective_Artifact_Set2_Earring1" rel_version="Feature_Artifacts_S7">Artifact: Justice</string>
 	<string key="Objective_Artifact_Set2_Ring1" rel_version="Feature_Artifacts_S6">Artifact: Elemental Band</string>
 	<string key="Objective_Artifact_Set2_Amulet1" rel_version="Feature_Artifacts_S5">Artifact: Phoenix</string>
+	<string key="Objective_Artifact_Set3_MediumHead" comment="DO NOT TRANSLATE" rel_version="Feature_Artifacts_S9">Artifact: Plagueherald</string>
+	<string key="Objective_Artifact_Set3_2hWarhammer" comment="DO NOT TRANSLATE" rel_version="Feature_Artifacts_S9">Artifact: Hammer of Yeet</string>
+	<string key="Objective_Artifact_Set3_2hGreatSword" comment="DO NOT TRANSLATE" rel_version="Feature_Artifacts_S9">Artifact: Crescent's Wave</string>
 	<string key="99F_Enc_Liang_Objective_Title_description" rel_version="Quest_MSQ3_Ebonscale">The Prince of Ebonscale Reach is sealed within the confines of the Wood Temple, for the protection of the people and Liang himself.</string>
 	<string key="99F_Enc_Liang_Objective_Title_Phase0" rel_version="Quest_MSQ3_Ebonscale">Save the Tormented Prince</string>
 	<string key="99F_Enc_Liang_Objective_Phase0" rel_version="Quest_MSQ3_Ebonscale">Approach Liang</string>
@@ -467,7 +470,11 @@
 	<string key="objective_hourly_description" speaker="UI">Hourly Quest</string>
 	<string key="objective_minutely_description" speaker="UI">Once-Per-Minute Quest</string>
 	<string key="objective_cooldown_tooltip" speaker="UI">If you complete this quest, you will have to wait until {date} to accept this quest again.</string>
-	<string key="objective_cooldown_availablein" speaker="UI">Available in</string>
+	<string key="objective_cooldown_availablein" speaker="UI">Available in {time}</string>
 	<string key="objective_complete_the_raid" speaker="UI">Complete the Raid</string>
+	<string key="Objective_Artifact_Set3_2hGreatSword_desc" speaker="UI">This great glowing blade seeks out foes from a distance, like a shark in water.</string>
+	<string key="Objective_Artifact_Set3_2hWarhammer_desc">Does what it says on the tin. 100% satisfaction garuanteed or your yeet back.</string>
+	<string key="Objective_Artifact_Set3_MediumHead_desc">This helm is cold in your hands. Toxic thoughts abide within. Seek out others and spread the love.</string>
+	<string key="Objective_Kill_CTF" rel_version="Feature_Expansion_1">Defeat {targetName} enemies in Capture The Flag</string>
 </resources>
 

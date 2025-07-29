@@ -40,6 +40,11 @@
 	<string key="ui_or_capture_point_contests" comment="Total amount of time spent contesting a capture point by player">Objective Points</string>
 	<string key="ui_or_total_resources_deposited" comment="Total of all resources contributed by player">Total Resources Contributed</string>
 	<string key="ui_or_player_damage_blocked" comment="Total amount of damage blocked by the player">Damage Blocked</string>
+	<string key="ui_ctf_team_flag_captures" comment="How many team flags (non-neutral flags) a player has captured">Team Flag Captures</string>
+	<string key="ui_ctf_neutral_flag_captures" comment="How many neutral flags a player has captured">Neutral Flag Captures</string>
+	<string key="ui_ctf_flag_carrier_kills" comment="How many flags (regular flags only) has a player returned to their base by interacting">Flag Carriers Killed</string>
+	<string key="ui_ctf_flags_returned_to_base" comment="How many times this player has killed an enemy player holding a flag (neutral or regular flag)">Flags Returned To Base</string>
+	<string key="ui_ctf_flags_taken" comment="How many flags (regular or neutral flags) a player has picked up">Flags Taken</string>
 	<string key="ui_or_kills_deaths_assists" comment="Replacement string for the 3 stats">{kills}/{deaths}/{assists}</string>
 	<string key="ui_war_eom_overview_tab">Overview</string>
 	<string key="ui_war_eom_performance_tab">Performance</string>
