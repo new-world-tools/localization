@@ -97,7 +97,7 @@
 	<string key="ui_interact_tip_coin" rel_version="Feature_MusicalPerformances">{interactionName} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; {coin}</string>
 	<string key="ui_notification_tip_donated" rel_version="Feature_MusicalPerformances">Tip Donated</string>
 	<string key="ui_any_song_gather">[{keybind}] Perform any song to Gather</string>
-	<string key="ui_song_gather">[{keybind}] Perform {songName} to Gather</string>
+	<string key="ui_song_gather">Perform {songName} to Gather</string>
 	<string key="ui_restriction_learn_song">Learn {songName} to Gather</string>
 	<string key="ui_restriction_equip_instrument">Equip instrument to Gather</string>
 	<string key="ui_reset_available_in">Available in {time}</string>
