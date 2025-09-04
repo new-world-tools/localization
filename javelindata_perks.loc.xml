@@ -2823,7 +2823,7 @@
 	<string key="PerkID_Artifact_Set3_GreatSword_Name" rel_version="Feature_Artifacts_S9">Parallax</string>
 	<string key="PerkID_Artifact_Set3_GreatSword_Desc" rel_version="Feature_Artifacts_S9">+{[0.120000 * 100]}% base damage to targets further than {[10.000000]}m away (Works on both weapons)</string>
 	<string key="PerkID_Artifact_Set3_GreatSwordPerk_Name" rel_version="Feature_Artifacts_S9">Crescent Wave</string>
-	<string key="PerkID_Artifact_Set3_GreatSwordPerk_Desc" rel_version="Feature_Artifacts_S9">While above 50% health, heavy attacks cast a projectile forward dealing {[1.500000 * 100]}% weapon damage, however melee heavy attack damage is reduced by {[-0.500000 * -100]}%. Each wave costs {[20.000000]} mana.</string>
+	<string key="PerkID_Artifact_Set3_GreatSwordPerk_Desc" rel_version="Feature_Artifacts_S9">While above 50% health, heavy attacks cast a projectile forward dealing {[1.650000 * 100]}% weapon damage, however melee heavy attack damage is reduced by {[-0.800000 * -100]}%. Each wave costs {[20.000000]} mana.</string>
 	<string key="PerkID_Flail_RabbitFlail_Name" rel_version="Event_RabbitSeasonPerm2024">Rabbits Revenge</string>
 	<string key="PerkID_Flail_RabbitFlail_Description" rel_version="Event_RabbitSeasonPerm2024">Not even Stanley can withstand the corruptive power of this weapon.</string>
 	<string key="PerkID_Conqueror_Bow_PoisonAOE_Name" rel_version="PvPServerConquerorsItems">Contagion</string>
@@ -2843,7 +2843,7 @@
 	<string key="PerkID_Conqueror_MeleeWeapon_DodgeSuppressant_Name" rel_version="PvPServerConquerorsItems">Dodge Suppressant</string>
 	<string key="PerkID_Conqueror_MeleeWeapon_DodgeSuppressant_Desc" rel_version="PvPServerConquerorsItems">Melee ability hits against a target that is below {[50.000000]}% health will inflict them with Sluggish, preventing them from dodging for {[2.000000]}s or until they hit a target. ({[20.000000]}s cooldown per target)</string>
 	<string key="PerkID_Conqueror_Greatsword_CrescentWave_Name" rel_version="PvPServerConquerorsItems">Crescent Wave</string>
-	<string key="PerkID_Conqueror_Greatsword_CrescentWave_Desc" rel_version="PvPServerConquerorsItems">While above 50% health, heavy attacks cast a projectile forward dealing {[1.500000 * 100]}% weapon damage. Each wave costs {[20.000000]} mana.</string>
+	<string key="PerkID_Conqueror_Greatsword_CrescentWave_Desc" rel_version="PvPServerConquerorsItems">While above 50% health, heavy attacks cast a projectile forward dealing {[1.650000 * 100]}% weapon damage. Each wave costs {[20.000000]} mana.</string>
 	<string key="PerkID_Conqueror_HolyShield_Blocking_Name" rel_version="PvPServerConquerorsItems">Holy Shield</string>
 	<string key="PerkID_Conqueror_HolyShield_Blocking_Desc" rel_version="PvPServerConquerorsItems">Blocking a ranged attack will spawn a bubble shield for {[10000.000000 / 1000]}s at the player's location that will block all projectiles while active ({[30.000000]}s Cooldown)</string>
 	<string key="PerkID_Conqueror_DodgeCorruptionBall_Name" rel_version="PvPServerConquerorsItems">Corrupted Dodge</string>
