@@ -1,5 +1,5 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<string key="legal_codeofconduct_version" comment="This number is data and should not be translated.">4</string>
+	<string key="legal_codeofconduct_version" comment="This number is data and should not be translated.">5</string>
 	<string key="legal_codeofconduct_title">Before you play...</string>
 	<string key="legal_codeofconduct_desc">To enter Aeternum, you must agree to the Amazon Games Code of Conduct and Terms of Use. These guidelines are in place to foster a safe, positive and fun community for everyone. Failure to comply could get you suspended or even banned.</string>
 	<string key="legal_codeofconduct_no_abuse">Protect The Community.</string>

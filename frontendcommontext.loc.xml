@@ -313,7 +313,8 @@
 	<string key="mm_waitingforspawnpoint_message">Searching for capacity, please wait...</string>
 	<string key="mm_world_set_character_limit">You can only have 1 character in a World Set.</string>
 	<string key="mm_world_character_limit">You can only have {characterLimit} character(s) in this World.</string>
-	<string key="mm_press_any_button">Press Any Button</string>
+	<string key="mm_press_any_button">Press Any Button to Continue</string>
+	<string key="mm_hold_any_button">By pressing any button to continue, you're receiving a license to play the game and agreeing to our &lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Terms of Use&lt;/font&gt;.\nHold Any Button to Open &lt;font color="#edc63e" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Terms of Use&lt;/font&gt;.</string>
 	<string key="confirm_buy_unequippable">Cannot equip</string>
 	<string key="confirm_buy_unequippable_body">You currently cannot equip this item. Continue?</string>
 	<string key="lt_1_title">Claiming</string>
