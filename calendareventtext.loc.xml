@@ -10,13 +10,11 @@
 	<string key="ui_event_rules">Event Highlights</string>
 	<string key="ui_event_progress_name">Event Reputation</string>
 	<string key="ui_event_summer_progress_name" rel_version="Event_Summer_Perm">Event Reputation</string>
-	<string key="ui_event_summer_rank_0" rel_version="Event_Summer_Temp">Minstrel</string>
-	<string key="ui_event_summer_rank_1" rel_version="Event_Summer_Temp">Troubadour</string>
-	<string key="ui_event_summer_rank_2" rel_version="Event_Summer_Temp">Bard</string>
-	<string key="ui_event_summer_rank_3" rel_version="Event_Summer_Temp">Virtuoso</string>
-	<string key="ui_event_summer_rank_4" rel_version="Event_Summer_Temp">Maestro</string>
-	<string key="ui_event_summer_shop_header" rel_version="Event_Summer_Temp">Summer Medleyfaire Shop</string>
 	<string key="ui_event_halloween_progress_name" rel_version="Event_Halloween_Perm">Event Reputation</string>
+	<string key="ui_event_halloween_rank_0" rel_version="Event_Halloween_Temp">Fledgling</string>
+	<string key="ui_event_halloween_rank_1" rel_version="Event_Halloween_Temp">Nightveil Sentinel</string>
+	<string key="ui_event_halloween_rank_2" rel_version="Event_Halloween_Temp">Nightveil Ghoul</string>
+	<string key="ui_event_halloween_shop_header" rel_version="Event_Halloween_Temp">Nightveil Hallow</string>
 	<string key="ui_event_spring_progress_name" rel_version="Event_SpringtideBloom_Perm">Event Reputation</string>
 	<string key="ui_news_store_tabname">Store</string>
 	<string key="ui_news_expedition_tabname">Expedition</string>

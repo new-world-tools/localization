@@ -24,6 +24,9 @@
 	<string key="ui_notoolitem_multiple">Requires {count}x {itemName}</string>
 	<string key="ui_notoolitem">Requires {itemName}</string>
 	<string key="ui_requiremultipleplayers">Requires a group of {count} players</string>
+	<string key="ui_required_item_and_quantity" rel_version="Season_10_Perm">{numHeld}/{numRequired} {itemName}</string>
+	<string key="ui_not_enough_items" rel_version="Season_10_Perm" comment="DO NOT TRANSLATE">You do not have enough required items for gathering</string>
+	<string key="ui_not_enough_currency" rel_version="Season_10_Perm" comment="DO NOT TRANSLATE">You do not have enough required currency for gathering</string>
 	<string key="ui_nopermission">No public access.</string>
 	<string key="ui_nopermissionrank">Rank '{rank}' doesn't have permission to '{action}'.</string>
 	<string key="ui_nopermissionpublic">'{action}' not allowed on public structures.</string>
@@ -106,5 +109,7 @@
 	<string key="ui_use_item">Use</string>
 	<string key="ui_requires_available_inventory_space">Requires available inventory space</string>
 	<string key="ui_costume_gather" rel_version="Event_Halloween2023_Perm">Put on a Nightveil Costume to Gather</string>
+	<string key="ui_interact_required_affinity" rel_version="Season_10_Perm" comment="DO NOT TRANSLATE">Requires {affinity} Tier {rank}</string>
+	<string key="ui_free_interact_time_remaining" rel_version="Season_10_Perm" comment="DO NOT TRANSLATE">{time} remaining</string>
 </resources>
 

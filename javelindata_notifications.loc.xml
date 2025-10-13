@@ -52,5 +52,16 @@
 	<string key="ui_teleport_failed">Teleport Failed</string>
 	<string key="ui_notification_teleport_failed">Teleport attempt failed, please try again later.</string>
 	<string key="ui_notification_learn_more">Learn More</string>
+	<string key="Catacombs_Erosion_Lv1_DisplayName">Erosion I</string>
+	<string key="Catacombs_Erosion_Lv1_Description">You are mildly Eroded.</string>
+	<string key="Catacombs_Erosion_Lv2_DisplayName">Erosion II</string>
+	<string key="Catacombs_Erosion_Lv2_Description">You are moderately Eroded.</string>
+	<string key="Catacombs_Erosion_Lv3_DisplayName">Erosion III</string>
+	<string key="Catacombs_Erosion_Lv3_Description">You are severely Eroded.</string>
+	<string key="Catacombs_Erosion_Restored_DisplayName">Erosion Reduced</string>
+	<string key="Catacombs_Erosion_Restored_Description">Erosion buildup has been reduced.</string>
+	<string key="Charm_Slot_Requests_Failed_DisplayName">Charm Slot Requests Failed.</string>
+	<string key="Charm_Slot_Requests_Failed_Description">Charm request failed</string>
+	<string key="Charm_Slot_Requests_Succeeded_DisplayName">Charm Slot Requests Succeeded.</string>
 </resources>
 

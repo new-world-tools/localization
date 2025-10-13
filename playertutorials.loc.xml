@@ -423,6 +423,31 @@
 	<string key="tutorial_jumppad_01_title" rel_version="Gamemode_CTF">Jump Pads</string>
 	<string key="tutorial_jumppad_01_subtitle" rel_version="Gamemode_CTF">Jump Pads</string>
 	<string key="tutorial_jumppad_01_prompt_body" rel_version="Gamemode_CTF">Press {$movement.jump$} while standing on &lt;font color="#edc63e"&gt;Jump Pads&lt;/font&gt;.\n\nJump pads always move you &lt;font color="#edc63e"&gt;forward&lt;/font&gt;, so line yourself up before jumping.</string>
+	<string key="tutorial_battleroyale_01_title" comment="DO NOT TRANSLATE" rel_version="Gamemode_BR">Battle Royale</string>
+	<string key="tutorial_battleroyale_01_subtitle" comment="DO NOT TRANSLATE" rel_version="Gamemode_BR">Battle Royale</string>
+	<string key="tutorial_battleroyale_01_prompt_body" comment="DO NOT TRANSLATE" rel_version="Gamemode_BR">[PLACEHOLDER] Be the last player standing!</string>
+	<string key="tutorial_battleroyale_01_dialogue_body" comment="DO NOT TRANSLATE" rel_version="Gamemode_BR">&lt;font face="lyshineui/fonts/Pica_Regular.font" color="#c6b694" &gt;STARTING THE MATCH&lt;/font&gt;
+	\n• You'll begin with basic equipment: sword, shield, bow, and basic clothing
+	\n• You have 20-30 seconds in pre-game to run to your desired starting location
+	\n\n&lt;font face="lyshineui/fonts/Pica_Regular.font" color="#c6b694" &gt;CORE OBJECTIVES&lt;/font&gt;
+	\n• Be the last player standing among 32 players
+	\n• Survive the closing ring of death
+	\n• Eliminate other players
+	\n• Match duration is approximately 20 minutes
+	\n\n&lt;font face="lyshineui/fonts/Pica_Regular.font" color="#c6b694" &gt;GETTING EQUIPMENT&lt;/font&gt;
+	\n• Loot chests throughout the map for better weapons and armor
+	\n• Defeat other players to claim their dropped equipment
+	\n• Higher tier loot can be found in more dangerous areas
+	\n\n&lt;font face="lyshineui/fonts/Pica_Regular.font" color="#c6b694" &gt;SURVIVAL TIPS&lt;/font&gt;
+	\n• Stay inside the ring of death to avoid taking damage
+	\n• The ring closes in 5 phases, each lasting 2-3 minutes
+	\n• Use jump pads for quick traversal
+	\n• Monitor the player count and ring timer on your HUD
+	\n• Look for power-ups across the map to gain advantages
+	\n\n&lt;font face="lyshineui/fonts/Pica_Regular.font" color="#c6b694" &gt;VICTORY CONDITIONS&lt;/font&gt;
+	\n• Last surviving player wins
+	\n• Players are ranked based on survival order
+	\n• Better rankings earn better rewards\n</string>
 	<string key="tutorial_influencerace_01_title" rel_version="Feature_Player_Tutorials">Influence Race</string>
 	<string key="tutorial_influencerace_01_subtitle" rel_version="Feature_Player_Tutorials">Influence Race</string>
 	<string key="tutorial_influencerace_01_dialogue_body" rel_version="Feature_Player_Tutorials">&lt;font face="lyshineui/fonts/Pica_Regular.font" color="#c6b694" &gt;PUSH INFLUENCE&lt;/font&gt;
@@ -441,15 +466,17 @@
 	<string key="tutorial_itemperks1_01_prompt_body" rel_version="Feature_Player_Tutorials">&lt;font color="#edc63e"&gt;Item perks&lt;/font&gt; modify your gear's power.</string>
 	<string key="tutorial_itemperks1_01_subtitle" rel_version="Feature_Player_Tutorials">Perks</string>
 	<string key="tutorial_itemperks1_01_dialogue_body" rel_version="Feature_Player_Tutorials">Items can have &lt;font color="#edc63e"&gt;perks&lt;/font&gt; that &lt;font color="#edc63e"&gt;modify their power&lt;/font&gt;. Perks can include:
-	\n\n • Additional attributes
-	\n • Gem slot
+	\n\n • Gem slot
+	\n • Charm slot(offensive, defensive, and skill)
 	\n • Attack modifiers
 	\n • Power modifiers
 	\n • Tradeskill modifiers
 	\n • And more!
-	\n\nPerks are listed in the tooltips of items.
+	\n\n&lt;font face="lyshineui/fonts/Pica_Regular.font" color="#c6b694" &gt;SET BONUSES&lt;/font&gt;
+	\nSome gear is part of a set. When you equip enough items from the same set, it will activate additional bonuses and modifiers.
+	\n\nPerks and set bonuses are listed in the tooltips of items.
 	\n\n&lt;font face="lyshineui/fonts/Pica_Regular.font" color="#c6b694" &gt;ITEM RARITY&lt;/font&gt;
-	\nThe rarity of an item shows how many perks an item has. For uncommon and above combat gear, 1 perk will always increase attributes while the remainder can be a mix perk types.
+	\nThe rarity of an item shows how many perks an item has. For uncommon and above combat gear, it can have a mix of perk types.
     \n\n • &lt;font color="#b9b9b9"&gt;Common&lt;/font&gt; no perks
     \n • &lt;font color="#07bf2e"&gt;Uncommon&lt;/font&gt; 1-2 perks
     \n • &lt;font color="#278dda"&gt;Rare&lt;/font&gt; 3 perks
@@ -462,14 +489,19 @@
     \n • &lt;font color="#278dda"&gt;Rare&lt;/font&gt; items have 3 perks: 1 increasing attributes, and 2 that will either be a gem slot or a power or functionality modifying perk. 
     \n • &lt;font color="#ff16f7"&gt;Epic&lt;/font&gt; items have 4 perks: 1 increasing attributes, and 3 that will either be a gem slot or a power or functionality modifying perk. 
     \n • &lt;font color="#edc63e"&gt;Legendary&lt;/font&gt; items have 5 perks: 1 increasing attributes, a gem slot, and 3 power or functionality modifying perks.</string>
-	<string key="tutorial_gemperks1_01_title" rel_version="Feature_Player_Tutorials">Slotted Gem Perks</string>
-	<string key="tutorial_gemperks1_01_subtitle" rel_version="Feature_Player_Tutorials">Slot Gems in Gear</string>
+	<string key="tutorial_gemperks1_01_title" rel_version="Feature_Player_Tutorials">Slotted Gem Perks and Charms</string>
+	<string key="tutorial_gemperks1_01_subtitle" rel_version="Feature_Player_Tutorials">Slot Gems and Charms in Gear</string>
 	<string key="tutorial_gemperks1_01_prompt_body" rel_version="Feature_Player_Tutorials">&lt;font color="#edc63e"&gt;Slot cut gems&lt;/font&gt; in your gear to modify their power.</string>
 	<string key="tutorial_gemperks1_01_dialogue_body" rel_version="Feature_Player_Tutorials">Any equipment, armor or weapon, with a &lt;font color="#edc63e"&gt;Gem Slot&lt;/font&gt; perk can be affixed with a cut gem of either &lt;font color="#edc63e"&gt;Flawed&lt;/font&gt;, &lt;font color="#edc63e"&gt;Standard&lt;/font&gt;, &lt;font color="#edc63e"&gt;Brilliant&lt;/font&gt;, or &lt;font color="#edc63e"&gt;Pristine&lt;/font&gt; quality. Raw gemstones can be &lt;font color="#edc63e"&gt;fused&lt;/font&gt; into higher tier gemstones and any uncut gems can be refined at an &lt;font color="#edc63e"&gt;Outfitting Station&lt;/font&gt;.
 	\n\nTo slot a gem, select the equipment you want to socket to and choose the "&lt;font color="#edc63e"&gt;Attach Gem&lt;/font&gt;" option. You can &lt;font color="#edc63e"&gt;replace the gem&lt;/font&gt; of a filled Gem Slot by affixing a new gem to the item; however, the old gem will be &lt;font color="#edc63e"&gt;destroyed&lt;/font&gt;. Some equipment, such as many trinkets, can't have their gem replaced.
 	\n\n&lt;font color="#edc63e"&gt;Gems have two conditional perks&lt;/font&gt;: One applies when slotted into a weapon, the other when slotted into armor and trinkets. You can check a cut gem's item description for details on its perk options.
 	\n&lt;font color="#edc63e"&gt;Note&lt;/font&gt; - Gems that grant the same bonus as an existing perk cannot be socketed into that item. For example, a Fire Staff cannot use a Ruby which grants fire damage.
-	\n\n&lt;img src="LyShineUI/Images/Icons/PlayerTutorials/icon_title_tip.png" scale="3.5" yOffset="15"&gt;&lt;/img&gt; Armor gem perks are always active while Weapon gem perks are only active while unsheathed.</string>
+	\n\nEquipment that has a gear score above 725 has &lt;font color="#edc63e"&gt;Charm Slots&lt;/font&gt;. There are different kinds of slots:
+	\n\n • &lt;font color="#edc63e"&gt;Offense&lt;/font&gt; - charms that can go into this slot type will increase your offensive capabilities
+	\n • &lt;font color="#edc63e"&gt;Defense&lt;/font&gt; - charms that can go into this slot type will increase your defense and survivability
+	\n • &lt;font color="#edc63e"&gt;Skill&lt;/font&gt; - charms that can go into this slot type will modify active weapon Abilities
+	\n\n&lt;img src="LyShineUI/Images/Icons/PlayerTutorials/icon_title_tip.png" scale="3.5" yOffset="15"&gt;&lt;/img&gt; Armor gem perks and charms are always active while Weapon gem perks and charms are only active while unsheathed.
+	</string>
 	<string key="tutorial_gemperks1_02_subtitle" rel_version="Feature_Player_Tutorials">Perk Summaries</string>
 	<string key="tutorial_gemperks1_02_dialogue_body" comment="Deleted page from journal until lead approval. Check with Rachel Barnum before translating further." rel_version="Feature_Player_Tutorials">\n&lt;img src="LyShineUI/Images/Icons/PlayerTutorials/icon_title_tip.png" scale="3.5" yOffset="15"&gt;&lt;/img&gt; You can't slot a gem of an elemental type into a weapon of the same type. For example, Fire Staffs can't be socketed with a Ruby.
 	\n\n • &lt;img src="LyShineUI/Images/Icons/Items/Resource/AmberCutT4.png" scale="2.5"&gt;&lt;/img&gt; Amber: Bonus Nature Damage (Weapon) or Damage Absorption (Armor).
@@ -674,7 +706,7 @@
 	\n\nThere is always a chance for loot biasing to impact your rewards when loot is dropped, and the chance is increased or even guaranteed for some activities such as Mutators and Outpost Rush.</string>
 	<string key="tutorial_attributes1_01_title" rel_version="Feature_Player_Tutorials">Attributes</string>
 	<string key="tutorial_attributes1_01_subtitle" rel_version="Feature_Player_Tutorials">Apply Attributes</string>
-	<string key="tutorial_attributes1_01_dialogue_body" rel_version="Feature_Player_Tutorials">There are five &lt;font color="#edc63e"&gt;attributes&lt;/font&gt; you can assign points to in the &lt;font color="#edc63e"&gt;Character&lt;/font&gt; screen that can improve your weapons or increase your health. Each weapon has a &lt;font color="#edc63e"&gt;primary attribute&lt;/font&gt;, and some weapons have a &lt;font color="#edc63e"&gt;secondary attribute&lt;/font&gt;. Assign points to their primary and secondary attributes to increase their damage or healing effectiveness. Earn additional bonuses at various thresholds of each attribute.\n\n&lt;img src="LyShineUI/Images/Icons/PlayerTutorials/icon_title_tip.png" scale="3.5" yOffset="15"&gt;&lt;/img&gt;&lt;font color="#edc63e"&gt;Hover over &lt;img src="lyshineui/images/icons/misc/icon_question_orange.png" scale="1.5" yOffset="6"&gt;&lt;/img&gt; next to each attribute in the character screen to learn more.&lt;/font&gt;\n\nYou can respec attributes for free until level 60.\n\n&lt;font face="lyshineui/fonts/Pica_Regular.font" color="#c6b694" &gt;PRIMARY ATTRIBUTES&lt;/font&gt;\nEvery weapon has a primary attribute. A primary attribute will have the most impact on the weapon’s damage scaling.\n\n&lt;font face="lyshineui/fonts/Pica_Regular.font" color="#c6b694" &gt;SECONDARY ATTRIBUTES&lt;/font&gt;\nMany weapons have a &lt;font color="#edc63e"&gt;secondary attribute&lt;/font&gt; that increases weapon damage at a reduced scale compared to its primary attribute. For example, the &lt;font color="#edc63e"&gt;primary attribute&lt;/font&gt; for the Spear is Dexterity which scales its damage by 90%. The &lt;font color="#edc63e"&gt;secondary attribute&lt;/font&gt; for the Spear is Strength which scales its damage by 65%.\n\n&lt;font color="#edc63e"&gt;Discover primary and secondary attributes by hovering over the information icon next to each Attribute in the Character Screen.&lt;/font&gt;\n\n&lt;font face="lyshineui/fonts/Pica_Regular.font" color="#c6b694" &gt;FOCUS AND HEALING&lt;/font&gt;\nHealing is exclusively scaled by &lt;font color="#edc63e"&gt;Focus&lt;/font&gt;. For example, if you use a &lt;font color="#edc63e"&gt;Void Gauntlet&lt;/font&gt; and only apply attributes in its primary attribute, Intelligence, you will miss out increased Healing effects you could receive from applying attributes in Focus.\n\n&lt;font face="lyshineui/fonts/Pica_Regular.font" color="#c6b694" &gt;ATTRIBUTE THRESHOLD BONUSES&lt;/font&gt;\nEach attribute has &lt;font color="#edc63e"&gt;bonuses&lt;/font&gt; that are activated by raising the attribute to a &lt;font color="#edc63e"&gt;threshold&lt;/font&gt;. Hover over the circles in each attribute’s progress bar to learn more.</string>
+	<string key="tutorial_attributes1_01_dialogue_body" rel_version="Feature_Player_Tutorials">There are five &lt;font color="#edc63e"&gt;attributes&lt;/font&gt; you can assign points to in the &lt;font color="#edc63e"&gt;Character&lt;/font&gt; screen that can improve your weapons or increase your health. Each weapon has a &lt;font color="#edc63e"&gt;primary attribute&lt;/font&gt; and a &lt;font color="#edc63e"&gt;secondary attribute&lt;/font&gt;. Assign points to their primary and secondary attributes to increase their damage or healing effectiveness. Earn additional bonuses at various thresholds of each attribute.\n\n&lt;img src="LyShineUI/Images/Icons/PlayerTutorials/icon_title_tip.png" scale="3.5" yOffset="15"&gt;&lt;/img&gt;&lt;font color="#edc63e"&gt;Hover over &lt;img src="lyshineui/images/icons/misc/icon_question_orange.png" scale="1.5" yOffset="6"&gt;&lt;/img&gt; next to each attribute in the character screen to learn more.&lt;/font&gt;\n\nYou can respec attributes for free until level 60.\n\n&lt;font face="lyshineui/fonts/Pica_Regular.font" color="#c6b694" &gt;PRIMARY ATTRIBUTES&lt;/font&gt;\nEvery weapon has a primary attribute. A primary attribute will have the most impact on the weapon’s damage scaling.\n\n&lt;font face="lyshineui/fonts/Pica_Regular.font" color="#c6b694" &gt;SECONDARY ATTRIBUTES&lt;/font&gt;\nWeapons also have a &lt;font color="#edc63e"&gt;secondary attribute&lt;/font&gt; that increases weapon damage at a reduced scale compared to its primary attribute, though some weapons have balance scaling with both attributes. For example, the &lt;font color="#edc63e"&gt;primary attribute&lt;/font&gt; for the Spear is Dexterity, it has A tier scaling for this attribute. The &lt;font color="#edc63e"&gt;secondary attribute&lt;/font&gt; for the Spear is Strength which C tier scaling.\n\n&lt;font color="#edc63e"&gt;Discover primary and secondary attributes by hovering over the information icon next to each Attribute in the Character Screen.&lt;/font&gt;\n\n&lt;font face="lyshineui/fonts/Pica_Regular.font" color="#c6b694" &gt;FOCUS AND HEALING&lt;/font&gt;\nHealing is exclusively scaled by &lt;font color="#edc63e"&gt;Focus&lt;/font&gt;. For example, if you use a &lt;font color="#edc63e"&gt;Void Gauntlet&lt;/font&gt; and only apply attributes in its primary attribute, Intelligence, you will miss out increased Healing effects you could receive from applying attributes in Focus.\n\n&lt;font face="lyshineui/fonts/Pica_Regular.font" color="#c6b694" &gt;ATTRIBUTE THRESHOLD BONUSES&lt;/font&gt;\nEach attribute has &lt;font color="#edc63e"&gt;bonuses&lt;/font&gt; that are activated by raising the attribute to a &lt;font color="#edc63e"&gt;threshold&lt;/font&gt;. Hover over the circles in each attribute’s progress bar to learn more.</string>
 	<string key="tutorial_damage_and_enemy_types1_01_title" rel_version="Feature_Player_Tutorials">Damage And Enemy Types</string>
 	<string key="tutorial_damage_and_enemy_types1_01_subtitle" rel_version="Feature_Player_Tutorials">Damage And Enemy Types</string>
 	<string key="tutorial_damage_and_enemy_types1_01_prompt_body" rel_version="Feature_Player_Tutorials">Take advantage of &lt;font color="#edc63e"&gt;enemy weaknesses&lt;/font&gt; &lt;img src="LyShineUI/Images/LoadingScreen/Icons/strongAttack.png" scale="1.5"&gt;&lt;/img&gt; to &lt;font color="#edc63e"&gt;types of damage&lt;/font&gt;.</string>
@@ -764,6 +796,28 @@
 	\nYou can also access &lt;img src="LyShineUI\Images\RadialWheel\iconAugments.png" scale="2.0"&gt;&lt;/img&gt; Augments to use XP Boosters and Permits.
 	</string>
 	<string key="tutorial_inventorymanagement_prompt_body" rel_version="Feature_Player_Tutorials">Learn how to manage your Inventory and '&lt;font color="#edc63e"&gt;Search&lt;/font&gt;, &lt;font color="#edc63e"&gt;Filter&lt;/font&gt;, &lt;font color="#edc63e"&gt;Sort&lt;/font&gt;' items you've picked up in the world in the Journal.</string>
+	<string key="tutorial_catacomb_soul_prompt_subtitle" rel_version="Feature_Catacombs">Souls</string>
+	<string key="tutorial_catacomb_soul_prompt_body" rel_version="Feature_Catacombs">Gain &lt;font color="#edc63e"&gt;Souls&lt;/font&gt; by killing enemies to ascend later.</string>
+	<string key="tutorial_catacomb_powerup_prompt_subtitle" rel_version="Feature_Catacombs">Aspects</string>
+	<string key="tutorial_catacomb_powerup_prompt_body" rel_version="Feature_Catacombs">Select one from six &lt;font color="#edc63e"&gt;Aspects&lt;/font&gt; to equip a unique ability. </string>
+	<string key="tutorial_catacomb_levelup_prompt_subtitle" rel_version="Feature_Catacombs">Ascendency</string>
+	<string key="tutorial_catacomb_levelup_prompt_body" rel_version="Feature_Catacombs">Consume &lt;font color="#edc63e"&gt;Souls&lt;/font&gt; to significantly boost your power at an &lt;font color="#edc63e"&gt;Idol of Ascension.&lt;/font&gt;</string>
+	<string key="tutorial_catacomb_bosstile_prompt_subtitle" rel_version="Feature_Catacombs">Boss Chamber</string>
+	<string key="tutorial_catacomb_bosstile_prompt_body" rel_version="Feature_Catacombs">Defeating a &lt;font color="#edc63e"&gt;Boss&lt;/font&gt; grants major rewards and an &lt;font color="#edc63e"&gt;optional safe exit&lt;/font&gt; from catacombs.</string>
+	<string key="tutorial_catacomb_hazard_prompt_subtitle" rel_version="Feature_Catacombs">Trial of Challengers</string>
+	<string key="tutorial_catacomb_hazard_prompt_body" rel_version="Feature_Catacombs">Take on optional &lt;font color="#edc63e"&gt;Trials of Challengers&lt;/font&gt; to access a hidden Boss.</string>
+	<string key="tutorial_catacomb_erosion_prompt_subtitle" rel_version="Feature_Catacombs">Erosion</string>
+	<string key="tutorial_catacomb_erosion_prompt_body" rel_version="Feature_Catacombs">&lt;font color="#edc63e"&gt;Erosion&lt;/font&gt; accumulates and makes you extremely vulnerable for a period of time.</string>
+	<string key="tutorial_catacomb_erosionpotion_prompt_subtitle" rel_version="Feature_Catacombs">Erosion Tonic</string>
+	<string key="tutorial_catacomb_erosionpotion_prompt_body" rel_version="Feature_Catacombs">&lt;font color="#edc63e"&gt;Erosion Tonic&lt;/font&gt; reduces your Erosion severity.</string>
+	<string key="tutorial_catacomb_difficulty_prompt_subtitle" rel_version="Feature_Catacombs">Difficulty Increase</string>
+	<string key="tutorial_catacomb_difficulty_prompt_body" rel_version="Feature_Catacombs">Defeating each Boss raises the &lt;font color="#edc63e"&gt;difficulty level&lt;/font&gt; of all enemies.</string>
+	<string key="tutorial_catacomb_extraction_prompt_subtitle" rel_version="Feature_Catacombs">Extraction</string>
+	<string key="tutorial_catacomb_extraction_prompt_body" rel_version="Feature_Catacombs">Activate the escpae portal before time runs out. At least one teammate needs to enter the portal to complete Catacombs.</string>
+	<string key="tutorial_catacomb_respawn_prompt_subtitle" rel_version="Feature_Catacombs">Respawn</string>
+	<string key="tutorial_catacomb_respawn_prompt_body" rel_version="Feature_Catacombs">Allies can immediately respawn until &lt;font color="#edc63e"&gt;Resurrection&lt;/font&gt; hits 0.</string>
+	<string key="tutorial_catacomb_fail_prompt_subtitle" rel_version="Feature_Catacombs">Failing</string>
+	<string key="tutorial_catacomb_fail_prompt_body" rel_version="Feature_Catacombs">The game &lt;font color="#edc63e"&gt;fails&lt;/font&gt; when &lt;font color="#edc63e"&gt;Resurrection&lt;/font&gt; runs out and all allies are dead.</string>
 	<string key="tutorial_storageshed_01_title" rel_version="Feature_Player_Tutorials">Storage</string>
 	<string key="tutorial_storageshed_01_subtitle" rel_version="Feature_Player_Tutorials">Store Your Extra Items</string>
 	<string key="tutorial_storageshed_01_body" rel_version="Feature_Player_Tutorials">Aeternum has a &lt;font color="#edc63e"&gt;Storage Shed&lt;/font&gt; in each settlement and outpost.
@@ -933,5 +987,7 @@
 	<string key="tutorial_pvpwarning_seasonalserver_s7_prompt_body" rel_version="Feature_Seasonal_Servers">Reminder: You will &lt;font color="#edc63e"&gt;permanently flag for PvP at level {^u|javelin.pvp-always-on-min-level^}&lt;/font&gt;.</string>
 	<string key="tutorial_pvpenabled_seasonalserver_s7_prompt_subtitle" rel_version="Feature_Seasonal_Servers">PvP Flagged</string>
 	<string key="tutorial_pvpenabled_seasonalserver_s7_prompt_prompt_body" rel_version="Feature_Seasonal_Servers">You are now &lt;font color="#edc63e"&gt;permanently flagged for PvP&lt;/font&gt; on this world. Good luck!</string>
+	<string key="tutorial_mirrorrespawn_01_subtitle" rel_version="Territory_Dunwood">Altar of Chronos</string>
+	<string key="tutorial_mirrorrespawn_01_prompt_body" rel_version="Territory_Dunwood">A magical clock that captures an imprint of your soul. Respawn at &lt;font color="#edc63e"&gt;Altars of Chronos&lt;/font&gt; scattered throughout Nighthaven.</string>
 </resources>
 

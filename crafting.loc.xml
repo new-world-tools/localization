@@ -186,6 +186,7 @@
 	<string key="crafting_azothbonus_perk4">Perk 4</string>
 	<string key="crafting_azothbonus_perk5">Perk 5</string>
 	<string key="crafting_azothbonus_gemslot">Gem Slot</string>
+	<string key="crafting_azothbonus_inherent" rel_version="ProgressionOverhaul2025">Inherent</string>
 	<string key="crafting_guaranteed_perk">&lt;img src="{perkImage}" xPadding="2" scale="2" yOffset="8"&gt;&lt;/img&gt; {perkName}</string>
 	<string key="crafting_lowchance">&lt;font color="#ff7171"&gt;Low&lt;/font&gt; Chance</string>
 	<string key="crafting_medchance">&lt;font color="#f67817"&gt;Medium&lt;/font&gt; Chance</string>

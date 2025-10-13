@@ -48,6 +48,8 @@
 	<string key="inv_tradeskillfood">Trade Skill Food</string>
 	<string key="inv_basicfood">Basic Food</string>
 	<string key="inv_instruments">Instruments</string>
+	<string key="inv_catacombs">Catacombs</string>
+	<string key="inv_charms">Charms and Gems</string>
 	<string key="inv_giveGold" comment="Currency name is Coin">Give Coin</string>
 	<string key="inv_tooltipMessageAxeActive">This tool is currently your active logging axe.</string>
 	<string key="inv_tooltipMessageAxeInactive">Select to make this your active logging axe.</string>
@@ -74,12 +76,12 @@
 	<string key="inv_equipLoadFastTooltip">• Base Damage: +{[0.150000 * 100]}%
 	\n• Outgoing Healing: +30%
 	\n• Your dodge is a quick roll. 
-	\n• Dodge Stamina Cost: {[50.000000]}
+	\n• Dodge Stamina Cost: {[45.000000]}
 	\n• For {[0.850000]}s after taking a melee hit, dodge distance is reduced by 20% and you cannot run.
 	\n• [PvP] Crit Damage Taken: -{[0.150000 * 100]}%	
 	</string>
 	<string key="inv_equipLoadNormalTooltip">• Your dodge is a quick hop.
-	\n• Dodge Stamina Cost: {[50.000000]}
+	\n• Dodge Stamina Cost: {[45.000000]}
 	\n• Incoming Crowd Control Duration: -10%
 	\n• For {[0.650000]}s after taking a melee hit, dodge distance is reduced by 20% and you cannot run.
 	\n• [PvP] Crit Damage Taken: -{[0.200000 * 100]}%
@@ -88,7 +90,7 @@
 	\n• Outgoing Healing: -30%
 	\n• Incoming Crowd Control Duration: -20%
 	\n• Your dodge is a directional step. 
-	\n• Dodge Stamina Cost: {[55.000000]}
+	\n• Dodge Stamina Cost: {[50.000000]}
 	\n• For {[0.500000]}s after taking a melee hit, you cannot run.
 	\n• [PvP] Crit Damage Taken: -{[0.250000 * 100]}%
 	</string>
@@ -232,12 +234,12 @@
 	<string key="loadout_toggle_show_hint" rel_version="Feature_Gear_Set_Storage">Show Gear Sets</string>
 	<string key="loadout_toggle_hide_hint" rel_version="Feature_Gear_Set_Storage">Hide Gear Sets</string>
 	<string key="loadout_store_button" rel_version="Feature_Gear_Set_Storage">Open Store</string>
-	<string key="loadout_import_current" rel_version="Feature_Gear_Set_Storage">Import equipped items</string>
+	<string key="loadout_import_current" rel_version="Feature_Gear_Set_Storage">Import attributes and equipped items</string>
 	<string key="loadout_unequipall_tooltip" rel_version="Feature_Gear_Set_Storage">Remove all items</string>
 	<string key="loadout_unequipall_title" rel_version="Feature_Gear_Set_Storage">Remove Items</string>
 	<string key="loadout_unequipall_message" rel_version="Feature_Gear_Set_Storage">Are you sure you want to return all items in this Gear Set to your Inventory?</string>
 	<string key="loadout_importall_title" rel_version="Feature_Gear_Set_Storage">Import All</string>
-	<string key="loadout_importall_message" rel_version="Feature_Gear_Set_Storage">Are you sure you want add all equipped items to this Gear Set?</string>
+	<string key="loadout_importall_message" rel_version="Feature_Gear_Set_Storage">Are you sure you want add all equipped items and attributes to this Gear Set?</string>
 	<string key="loadout_locked_message" rel_version="Feature_Gear_Set_Storage">Unlocks at level {level}</string>
 	<string key="loadout_wheel_locked_message" rel_version="Feature_Gear_Set_Storage">Gear Sets Wheel unlocks at level {level}.</string>
 	<string key="loadout_currently_equipped" rel_version="Feature_Gear_Set_Storage">Gear Set: {loadoutName}</string>
@@ -260,6 +262,7 @@
 	<string key="loadout_tutorial" rel_version="Feature_Gear_Set_Storage">Gear Sets Available!\nQuickly create and swap Gear Sets for any activity.</string>
 	<string key="loadout_notification_itemremove_space_failure" rel_version="Feature_Gear_Set_Storage">Couldn't return gear set items to inventory due to inadequate space.</string>
 	<string key="loadout_notification_return_space_fail" rel_version="Feature_Gear_Set_Storage">Couldn't return gear set items to inventory due to inadequate space. Please clear space and log out for several minutes to retry.</string>
+	<string key="ui_gss_attribute_text" rel_version="ProgressionOverhaul2025">&lt;font color={labelColor} &gt;STR &lt;/font&gt; &lt;font color={valueColor} face="lyshineui/fonts/Pica_Regular.font"&gt;{strAttr}   &lt;/font&gt;  &lt;font color={labelColor} &gt;DEX &lt;/font&gt; &lt;font color={valueColor} face="lyshineui/fonts/Pica_Regular.font"&gt;{dexAttr}   &lt;/font&gt;  &lt;font color={labelColor} &gt;INT &lt;/font&gt; &lt;font color={valueColor} face="lyshineui/fonts/Pica_Regular.font"&gt;{intAttr}   &lt;/font&gt;  &lt;font color={labelColor} &gt;FOC &lt;/font&gt; &lt;font color={valueColor} face="lyshineui/fonts/Pica_Regular.font"&gt;{focAttr}   &lt;/font&gt;  &lt;font color={labelColor} &gt;CON &lt;/font&gt; &lt;font color={valueColor} face="lyshineui/fonts/Pica_Regular.font"&gt;{conAttr}&lt;/font&gt;</string>
 	<string key="incompatible_elemental_perk">Incompatible elemental perk</string>
 	<string key="incompatible_socket_item">This cannot be socketed into an item of this type</string>
 	<string key="ui_effect_failed_Invalid">Unable to apply effect</string>
@@ -277,5 +280,29 @@
 	<string key="perktooltips_stacks_over_limit">(over max)</string>
 	<string key="perktooltips_stacks_over_limit_disabled">(disabled)</string>
 	<string key="perktooltips_max_stacks">Perk Max Stacks: </string>
+	<string key="charmfilter_hatchet">Hatchets</string>
+	<string key="charmfilter_rapier">Rapiers</string>
+	<string key="charmfilter_sword">Swords</string>
+	<string key="charmfilter_flail">Flails</string>
+	<string key="charmfilter_spear">Spears</string>
+	<string key="charmfilter_greataxe">Great Axes</string>
+	<string key="charmfilter_warhammer">War Hammers</string>
+	<string key="charmfilter_greatsword">Greatswords</string>
+	<string key="charmfilter_bow">Bows</string>
+	<string key="charmfilter_musket">Muskets</string>
+	<string key="charmfilter_blunderbuss">Blunderbusses</string>
+	<string key="charmfilter_firestaff">Fire Staff</string>
+	<string key="charmfilter_lifestaff">Life Staffs</string>
+	<string key="charmfilter_icegauntlet">Ice Gauntlets</string>
+	<string key="charmfilter_voidgauntlet">Void Gauntlets</string>
+	<string key="charmfilter_shield">Shields</string>
+	<string key="charmfilter_amulet">Amulets</string>
+	<string key="charmfilter_ring">Rings</string>
+	<string key="charmfilter_earring">Earrings</string>
+	<string key="charmfilter_chest">Chest</string>
+	<string key="charmfilter_head">Head</string>
+	<string key="charmfilter_legs">Legs</string>
+	<string key="charmfilter_feet">Feet</string>
+	<string key="charmfilter_hands">Hands</string>
 </resources>
 

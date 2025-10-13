@@ -373,6 +373,92 @@
 	<string key="tip_overworld_zone_weaversFen_lore01-content">[Placeholder]</string>
 	<string key="tip_overworld_zone_weaversFen_eliteStronghold01-title">Periville</string>
 	<string key="tip_overworld_zone_weaversFen_eliteStronghold01-content">There are echoes of Periville's citizenry that still haunt the city. Guard against their onslaught, and wait for their anger to dissipate.</string>
+	<string key="tip_overworld_zone_nighthaven_lore01-title">Nighthaven</string>
+	<string key="tip_overworld_zone_nighthaven_lore01-content">Bring a Fire Staff or a Ruby-socketed Weapon when venturing into spider caves. You won't regret it.</string>
+	<string key="tip_overworld_zone_nighthaven_lore02-title">Nighthaven</string>
+	<string key="tip_overworld_zone_nighthaven_lore02-content">Craft a Potion of Fool's Sight at a nearby Arcana station to see invisible secrets all throughout Nighthaven.</string>
+	<string key="tip_overworld_zone_nighthaven_lore03-title">Nighthaven</string>
+	<string key="tip_overworld_zone_nighthaven_lore03-content">The Arcana Cards are an old form of Ancient Magic. Find them hidden in secret places all over Nighthaven.</string>
+	<string key="tip_overworld_zone_nighthaven_lore04-title">Nighthaven</string>
+	<string key="tip_overworld_zone_nighthaven_lore04-content">Annyru the Fortune Mother has traveled all throughout Nighthaven, and left behind caches of supplies for those who know the secret ways.</string>
+	<string key="tip_overworld_zone_nighthaven_lore05-title">Nighthaven</string>
+	<string key="tip_overworld_zone_nighthaven_lore05-content">The Berlaur are a mighty force, but their recent exposure to a new form of golden Azoth has rendered some of them rabid.</string>
+	<string key="tip_overworld_zone_nighthaven_lore06-title">Nighthaven</string>
+	<string key="tip_overworld_zone_nighthaven_lore06-content">The Cursed Trees of the Dunwood seep golden Azoth sap, a substance toxic to local wildlife.</string>
+	<string key="tip_overworld_zone_nighthaven_lore07-title">Nighthaven</string>
+	<string key="tip_overworld_zone_nighthaven_lore07-content">You can find Sorrowthorn growing from the splitting vines and thorned rows of weeds that grow out from the roots of the Dunwood.</string>
+	<string key="tip_overworld_zone_nighthaven_lore08-title">Nighthaven</string>
+	<string key="tip_overworld_zone_nighthaven_lore08-content">Collect all 24 Arcana Cards and you'll have unlimited access to the treasures of Nighthaven.</string>
+	<string key="tip_overworld_zone_nighthaven_lore09-title">Nighthaven</string>
+	<string key="tip_overworld_zone_nighthaven_lore09-content">The Grand Carnival operates in quiet opposition to those in power. Their Ancient Magic has kept them safe for centuries.</string>
+	<string key="tip_overworld_zone_nighthaven_lore10-title">Nighthaven</string>
+	<string key="tip_overworld_zone_nighthaven_lore10-content">The Tarot Towers of Nighthaven feed on your memories, fears, dreams, and desires. The weak-minded should beware.</string>
+	<string key="tip_overworld_zone_nighthaven_lore11-title">Nighthaven</string>
+	<string key="tip_overworld_zone_nighthaven_lore11-content">The Royal City-State of Durevos is the grand capital and crown jewel of Nighthaven.</string>
+	<string key="tip_overworld_zone_nighthaven_lore12-title">Nighthaven</string>
+	<string key="tip_overworld_zone_nighthaven_lore12-content">Castle chandeliers can sometimes break and crash on the ground, stunning and damaging nearby enemies.</string>
+	<string key="tip_overworld_zone_nighthaven_lore13-title">Nighthaven</string>
+	<string key="tip_overworld_zone_nighthaven_lore13-content">The Moonflower Prismabloom, a rare dye resource, only spawns at night in Nighthaven.</string>
+	<string key="tip_overworld_zone_nighthaven_lore14-title">Nighthaven</string>
+	<string key="tip_overworld_zone_nighthaven_lore14-content">The Upyr and Berlaur factions vie for control in Nighthaven.</string>
+	<string key="tip_overworld_zone_nighthaven_lore15-title">Nighthaven</string>
+	<string key="tip_overworld_zone_nighthaven_lore15-content">Visit Tularest to trade with locals and learn more about the ongoing conflict between Upyr and Berlaur.</string>
+	<string key="tip_overworld_zone_nighthaven_lore16-title">Nighthaven</string>
+	<string key="tip_overworld_zone_nighthaven_lore16-content">A great Clock looms over Nighthaven - a testament to the power of its immortal ruler.</string>
+	<string key="tip_overworld_zone_nighthaven_lore17-title">Nighthaven</string>
+	<string key="tip_overworld_zone_nighthaven_lore17-content">The Clocktower's bells mark the passage of time in Nighthaven - listen for their ominous toll.</string>
+	<string key="tip_overworld_zone_nighthaven_lore18-title">Nighthaven</string>
+	<string key="tip_overworld_zone_nighthaven_lore18-content">Spider silk can be gathered from the dangerous spider caves scattered throughout Nighthaven.</string>
+	<string key="tip_overworld_zone_nighthaven_lore19-title">Nighthaven</string>
+	<string key="tip_overworld_zone_nighthaven_lore19-content">The Inquisitors still wage their ancient battle against the dark forces of Nighthaven.</string>
+	<string key="tip_overworld_zone_nighthaven_lore20-title">Nighthaven</string>
+	<string key="tip_overworld_zone_nighthaven_lore20-content">Varlaam Library holds the brightest memories of forgotten souls.</string>
+	<string key="tip_overworld_zone_nighthaven_lore21-title">Nighthaven</string>
+	<string key="tip_overworld_zone_nighthaven_lore21-content">Explore the catacombs beneath Nighthaven to uncover ancient secrets and valuable treasures.</string>
+	<string key="tip_overworld_zone_nighthaven_lore22-title">Nighthaven</string>
+	<string key="tip_overworld_zone_nighthaven_lore22-content">The Archivist distills memories in Varlaam Library - seek them out to learn forgotten tales.</string>
+	<string key="tip_overworld_zone_nighthaven_lore23-title">Nighthaven</string>
+	<string key="tip_overworld_zone_nighthaven_lore23-content">The forests of Nighthaven hold many dangers - beware the cursed Werebeasts that lurk within.</string>
+	<string key="tip_overworld_zone_nighthaven_lore24-title">Nighthaven</string>
+	<string key="tip_overworld_zone_nighthaven_lore24-content">Many books hide in waiting in the darkest corners of Nighthaven. Read them all, and learn the fates of sad and worried souls.</string>
+	<string key="tip_overworld_zone_nighthaven_lore25-title">Nighthaven</string>
+	<string key="tip_overworld_zone_nighthaven_lore25-content">Legend says the Fortune Mother stole the final Arcana card from the King and hid it in a distant, secret place.</string>
+	<string key="tip_overworld_zone_nighthaven_lore26-title">Nighthaven</string>
+	<string key="tip_overworld_zone_nighthaven_lore26-content">The secrets of Nighthaven are myriad.</string>
+	<string key="tip_overworld_zone_nighthaven_lore27-title">Nighthaven</string>
+	<string key="tip_overworld_zone_nighthaven_lore27-content">Have you drank a Potion of Fool's Sight? You might be surprised at what you see.</string>
+	<string key="tip_overworld_zone_nighthaven_lore28-title">Nighthaven</string>
+	<string key="tip_overworld_zone_nighthaven_lore28-content">The Spider Queen Uttu holds court at the crown of Esagila. Uttu is a Beast Lord, and the sole progenitor of all spiders in Aeternum.</string>
+	<string key="tip_overworld_zone_nighthaven_lore29-title">Nighthaven</string>
+	<string key="tip_overworld_zone_nighthaven_lore29-content">Throwable torches may be found scattered around Nighthaven. Grab one and toss it for a fiery display of power!</string>
+	<string key="tip_overworld_zone_nighthaven_lore30-title">Nighthaven</string>
+	<string key="tip_overworld_zone_nighthaven_lore30-content">The Great Houses of Nighthaven are Varlaam, Carmilla, and Bathory. Rumors speak of a fourth House, but they're unsubstantiated.</string>
+	<string key="tip_overworld_zone_nighthaven_lore31-title">Nighthaven</string>
+	<string key="tip_overworld_zone_nighthaven_lore31-content">Pumpkins, sunflowers, and apple orchards are the main export of Nighthaven agriculture.</string>
+	<string key="tip_overworld_zone_nighthaven_lore32-title">Nighthaven</string>
+	<string key="tip_overworld_zone_nighthaven_lore32-content">Black feathers are considered an ill omen by those who are ignorant.</string>
+	<string key="tip_overworld_zone_nighthaven_lore33-title">Nighthaven</string>
+	<string key="tip_overworld_zone_nighthaven_lore33-content">A powerful card reader threatened the King, so the King killed him. But the magic cards kept him barely alive.</string>
+	<string key="tip_overworld_zone_nighthaven_lore34-title">Nighthaven</string>
+	<string key="tip_overworld_zone_nighthaven_lore34-content">A forgotten Great House lies cursed beneath Understone, destroyed by the King.</string>
+	<string key="tip_overworld_zone_nighthaven_lore35-title">Nighthaven</string>
+	<string key="tip_overworld_zone_nighthaven_lore35-content">A dozen evil and twisted things scratch and squeak in the dungeons and sewers of every castle.</string>
+	<string key="tip_overworld_zone_nighthaven_lore36-title">Nighthaven</string>
+	<string key="tip_overworld_zone_nighthaven_lore36-content">A foul and wretched darkness hides beneath the soil of Nighthaven.</string>
+	<string key="tip_overworld_zone_nighthaven_lore37-title">Nighthaven</string>
+	<string key="tip_overworld_zone_nighthaven_lore37-content">Nighthaven's graveyards are famous for their screaming spirits and the valuable spirit-infused dirt that covers the restless dead.</string>
+	<string key="tip_overworld_zone_nighthaven_lore38-title">Nighthaven</string>
+	<string key="tip_overworld_zone_nighthaven_lore38-content">Graveyard dirt can be dug up with a shovel. But why would you ever?</string>
+	<string key="tip_overworld_zone_nighthaven_lore39-title">Nighthaven</string>
+	<string key="tip_overworld_zone_nighthaven_lore39-content">Golden apples are a divine fruit, rare and blessed, that grow on Apple Trees.</string>
+	<string key="tip_overworld_zone_nighthaven_lore40-title">Nighthaven</string>
+	<string key="tip_overworld_zone_nighthaven_lore40-content">Have you bitten into a Golden Apple? They say you will know everything after the first bite.</string>
+	<string key="tip_overworld_zone_nighthaven_lore41-title">Nighthaven</string>
+	<string key="tip_overworld_zone_nighthaven_lore41-content">Got stuck on a Quest? Try pressing the Reset Button in your Objective journal.</string>
+	<string key="tip_overworld_zone_nighthaven_lore42-title">Nighthaven</string>
+	<string key="tip_overworld_zone_nighthaven_lore42-content">The number one lesson of Nighthaven: always look up!</string>
+	<string key="tip_overworld_zone_nighthaven_lore43-title">Nighthaven</string>
+	<string key="tip_overworld_zone_nighthaven_lore43-content">Keep your eyes up; there are a few things that can fall on your head!</string>
 	<string key="tip_overworld_zone_brightwood_lore01-title">Brightwood</string>
 	<string key="tip_overworld_zone_brightwood_lore01-content">[Placeholder]</string>
 	<string key="tip_overworld_zone_brightwood_eliteStronghold01-title">Brightwood Isle</string>
@@ -617,5 +703,11 @@
 	<string key="tip_catacombs_general02-content">Bosses are often just after a challenge</string>
 	<string key="tip_catacombs_general03-title">Dance of Death</string>
 	<string key="tip_catacombs_general03-content">Dodging and blocking will prevent Erosion</string>
+	<string key="tip_raid_isleofnight_general01-title" rel_version="Raid_MonarchsBluffs_00">Proper Ballistae Etiquette</string>
+	<string key="tip_raid_isleofnight_general01-content" rel_version="Raid_MonarchsBluffs_00">Make sure to reload the ballistae after shooting them when facing off against the Twin Jesters. They are essential to interrupt one of his most powerful ability, Interlude.</string>
+	<string key="tip_raid_isleofnight_general02-title" rel_version="Raid_MonarchsBluffs_00">Abyss Unstability</string>
+	<string key="tip_raid_isleofnight_general02-content" rel_version="Raid_MonarchsBluffs_00">You cannot damage a Palatine Guard during Abyss Unstability unless you are inflicted with an Abyss Mark. But if you have an Abyss Mark, you will become a prime target for Queen Dahut's Dance of Death.</string>
+	<string key="tip_raid_isleofnight_general03-title" rel_version="Raid_MonarchsBluffs_00">Situational Awareness</string>
+	<string key="tip_raid_isleofnight_general03-content" rel_version="Raid_MonarchsBluffs_00">Make sure to keep track of and regularly destroy the Enthralled Souls that Lost Overlord Thorpe activates on the outer edge of his arena. If you don't, they will detonate and deal massive damage in a very large area.</string>
 </resources>
 

@@ -242,6 +242,8 @@
 	<string key="ui_affliction_mutcurse4_tooltip" rel_version="Feature_Dungeon_Mutators">If you run out of resistance, a silence zone will be cast on you. The zone will detonate after a time, dealing damage to players. Resistance is shared among all members of your group.</string>
 	<string key="ui_affliction_mutcurse2" rel_version="Feature_Dungeon_Mutators_pt2">weary resistance</string>
 	<string key="ui_affliction_mutcurse2_tooltip" rel_version="Feature_Dungeon_Mutators">If you run out of resistance, a Weary zone will be cast on you, slowing your movement and increasing all damage you take. Using abilities increases resistance. Resistance is shared among all members of your group.</string>
+	<string key="ui_affliction_erosion" rel_version="Feature_Catacombs">erosion buildup</string>
+	<string key="ui_affliction_erosion_tooltip" rel_version="Feature_Catacombs">Erosion builds up when you are injured in Catacombs. Becoming Eroded temporarily reduces your incoming healing. Getting Eroded multiple times increases its severity.</string>
 	<string key="ui_afflicted_bleeding">wounded</string>
 	<string key="ui_afflicted_bleeding_tooltip">While wounded, you regain stamina at a much lower rate.</string>
 	<string key="ui_afflicted_burn">burning</string>
@@ -270,6 +272,8 @@
 	<string key="ui_afflicted_mutcurse3_tooltip" rel_version="Feature_Dungeon_Mutators">When this timer expires, the player with the lowest percent health becomes Combustible.</string>
 	<string key="ui_afflicted_mutcurse4" rel_version="Feature_Dungeon_Mutators">cursed</string>
 	<string key="ui_afflicted_mutcurse4_tooltip" rel_version="Feature_Dungeon_Mutators">Using abilities will fill the bar. Blowback is cast on all players once full.</string>
+	<string key="ui_afflicted_erosion" rel_version="Feature_Catacombs">eroded</string>
+	<string key="ui_afflicted_erosion_tooltip" rel_version="Feature_Catacombs">While Eroded, you receive significantly reduced healing. Being eroded multiple times increases its severity, up to 100%.</string>
 	<string key="ui_agreement">By continuing, you agree to the</string>
 	<string key="ui_ahhhhh">AHHHHH!!!!</string>
 	<string key="ui_aimsensitivity">Aim Sensitivity</string>
@@ -294,7 +298,7 @@
 	<string key="ui_weapon">Weapon</string>
 	<string key="ui_trinket">Trinket</string>
 	<string key="ui_artBook">View Art Book</string>
-	<string key="ui_attach">ATTACH</string>
+	<string key="ui_attach">Attach</string>
 	<string key="ui_attachment">ATTACHMENT</string>
 	<string key="ui_attachments">Attachments</string>
 	<string key="ui_overflow_items_amount">&lt;font color={color}&gt;+{amount} Additional Items&lt;/font&gt;\nHidden items will appear once space is available.</string>
@@ -332,6 +336,9 @@
 	<string key="ui_canvas">Canvas</string>
 	<string key="ui_azoth_currency">Azoth</string>
 	<string key="ui_azoth_desc">Azoth can be used for fast travel between shrines and settlements and to craft more powerful items.\n\nAcquire Azoth by completing Quests and closing Corruption Breaches.\n\n&lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#b2aea1"&gt;Source:&lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#ebe3d6"&gt; Corruption Breaches, Quests&lt;/font&gt;</string>
+	<string key="ui_umbral_currency">Umbral Crystals</string>
+	<string key="ui_umbral_max_title">Umbral Maximum</string>
+	<string key="ui_umbral_desc">Umbral Crystals can be used to upgrade the Gear Score of items that are 700 Gear Score or higher.\n\nWeekly cap: {weeklyAmount} / {weeklyMax}\nLimit resets in: {resetTimeRemaining}\n\n&lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#b2aea1"&gt;Source:&lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#ebe3d6"&gt; Mutations, Raids, Catacombs, Elite Chests, OPR, CTF, 3v3 Arenas, PvP Reward Track &lt;/font&gt;</string>
 	<string key="ui_cards">Cards</string>
 	<string key="ui_leave_arena_coming_soon">Leaving Arena functionality Coming Soon</string>
 	<string key="ui_equipfishingpole">{$player.fishing_activate$} to Fish</string>
@@ -378,13 +385,14 @@
 	<string key="ui_company_name_input">Name Your Company</string>
 	<string key="ui_customize_company_information">These settings can be changed at any time</string>
 	<string key="ui_no_points_spent">No Points Assigned</string>
-	<string key="ui_disable_points_in_game_mode">Can't Assign Points in This Mode</string>
+	<string key="ui_disable_points_in_game_mode">Cannot assign points in this Mode</string>
 	<string key="ui_commit_1_point">Assign 1 Point</string>
 	<string key="ui_commit_points">Assign {points} Points</string>
 	<string key="ui_abilities_on_cooldown">Abilities on Cooldown</string>
 	<string key="ui_abilities_in_combat">In Combat</string>
 	<string key="ui_componentname">Component Name</string>
 	<string key="ui_confirm">Confirm</string>
+	<string key="ui_confirm_changes">Confirm Changes</string>
 	<string key="ui_add_more">Add More</string>
 	<string key="ui_confirm_delete_character_placeholder">Type the character's name</string>
 	<string key="ui_connect">CONNECT</string>
@@ -670,7 +678,7 @@
 	<string key="ui_marchinggame">Marching Game</string>
 	<string key="ui_masterworkcopperaxe">Masterwork Copper Axe (2)</string>
 	<string key="ui_matchthem">Match Them</string>
-	<string key="ui_max">MAX!!!</string>
+	<string key="ui_max">Max</string>
 	<string key="ui_menu_mode">Navigate Menus</string>
 	<string key="ui_microinteractions">Micro Interactions</string>
 	<string key="ui_microphone">Microphone</string>
@@ -781,6 +789,8 @@
 	<string key="ui_ability_cooldown_error">Abilities cannot be changed until off cooldown</string>
 	<string key="ui_ability_combat_error">Abilities cannot be changed while in combat</string>
 	<string key="ui_ability_points_combat_error">Cannot assign points while in combat</string>
+	<string key="ui_ability_disabled_in_game_mode">Disabled</string>
+	<string key="ui_ability_disabled_in_game_mode_tooltip">Cannot assign points in this Mode. Weapons will provide abilities.</string>
 	<string key="ui_respec_cooldown_error">Cannot respec while abilities are on cooldown</string>
 	<string key="ui_respec_combat_error">Cannot respec while in combat</string>
 	<string key="ui_equipment_cooldown_error">Equipment cannot be changed while abilities are on cooldown</string>
@@ -893,6 +903,23 @@
 	<string key="ui_options_contrast_desc">Set the contrast</string>
 	<string key="ui_options_hdrwhitepoint">HDR White Point</string>
 	<string key="ui_options_hdrwhitepoint_desc">Set the HDR white point when running on an HDR display</string>
+	<string key="ui_perk_name_and_description">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{name}:&lt;/font&gt; {description}</string>
+	<string key="ui_offense_charm_slot">Offense Charm Slot</string>
+	<string key="ui_defense_charm_slot">Defense Charm Slot</string>
+	<string key="ui_attach_charm_tooltip">Attach Charms</string>
+	<string key="ui_replace_charm_tooltip">Replace Charms</string>
+	<string key="ui_replace_charm">Replace Charms</string>
+	<string key="ui_attach_charm">Attach Charms</string>
+	<string key="ui_charms_pending_title">Confirm Exit</string>
+	<string key="ui_charms_pending_desc">Unsaved changes will be lost. Are you sure?</string>
+	<string key="charms_header">Attach Charms</string>
+	<string key="ui_charm_not_found">No results found.</string>
+	<string key="ui_charm_added">{perkName} added to {itemName}</string>
+	<string key="ui_charms_added">{charmCount} charms added to {itemName}</string>
+	<string key="ui_gem_charm_slot">Gem Charm Slot</string>
+	<string key="ui_skill_charm_slot">Skill Charm Slot</string>
+	<string key="ui_wildcard_charm_slot">Wildcard Charm Slot</string>
+	<string key="ui_charm_attach_warning_message">&lt;img src="lyshineui/images/icons/misc/icon_exclamation_yellow_small" xPadding="0" scale="1.3" yOffset="1.5"&gt;&lt;/img&gt; Charms can't be removed. Current charms will be lost if replaced.</string>
 	<string key="ui_quit">Exit</string>
 	<string key="ui_randomize">Randomize</string>
 	<string key="ui_receivevolume">Receive Volume</string>
@@ -1174,6 +1201,8 @@
 	<string key="ui_factionreputation">{faction} Reputation</string>
 	<string key="ui_factioninfluence">{faction} Influence</string>
 	<string key="ui_faction_select">Select Your Faction.</string>
+	<string key="ui_progression_currency" rel_version="Season_10_Perm" comment="DO NOT TRANSLATE">{progression} Currency</string>
+	<string key="ui_progression_reputation" rel_version="Season_10_Perm" comment="DO NOT TRANSLATE">{progression} Reputation</string>
 	<string key="ui_character_Select_title">Select Character</string>
 	<string key="ui_character_options">Character Options</string>
 	<string key="ui_character_merge_destination">This world ({worldName}) is being merged into {destinationWorldName} on {date}.</string>
@@ -1320,10 +1349,21 @@
 	<string key="ui_endurance">Endurance</string>
 	<string key="ui_intelligence">Intelligence</string>
 	<string key="ui_constitution">Constitution</string>
+	<string key="ui_tier">Tier</string>
+	<string key="ui_tierS">S</string>
+	<string key="ui_tierA">A</string>
+	<string key="ui_tierB">B</string>
+	<string key="ui_tierC">C</string>
+	<string key="ui_tierD">D</string>
+	<string key="ui_tierE">E</string>
+	<string key="ui_tierF">F</string>
+	<string key="ui_weapon_scales_tier">{attribute} ({tier})</string>
+	<string key="ui_weapon_attribute_scales">{scalePrimary} ({primaryTier}), {scaleSecondary} ({secondaryTier})</string>
+	<string key="ui_weapon_scales_by_category">\n{weapon} = {tier} {tierText}</string>
 	<string key="ui_respec">Respec</string>
 	<string key="ui_respec_attributes">Refund All Attribute Points</string>
 	<string key="ui_cannot_respec_attributes_during_combat">Cannot respec Attributes while in Combat</string>
-	<string key="ui_cannot_respec_attributes_in_game_mode">Cannot Respec Attributes in This Mode</string>
+	<string key="ui_cannot_respec_attributes_in_game_mode">Cannot respec Attributes in this Mode</string>
 	<string key="ui_respec_mastery">Refund All Mastery Points</string>
 	<string key="ui_base">Base</string>
 	<string key="ui_health">Health</string>
@@ -1874,8 +1914,9 @@
 	<string key="ui_attach_gem_tooltip">Attach a gem from your inventory.</string>
 	<string key="ui_replace_gem">Replace Gem</string>
 	<string key="ui_replace_gem_tooltip">Replace the gem currently attached with another one from your inventory. The current gem will be lost.</string>
-	<string key="ui_upgrade_warning_title">Upgrade Item</string>
-	<string key="ui_upgrade_warning_body">Upgrading your {itemName} from Gear Score {baseGearScore} to {targetGearScore} will require {itemCount} {upgradeItemName}.\n\nUpgrading items will bind them to you.\n\nDo you want to upgrade this item?</string>
+	<string key="ui_gear_score_upgrade">Upgrade Gear</string>
+	<string key="ui_upgrade_warning_title">Confirm Upgrade</string>
+	<string key="ui_upgrade_warning_body">Upgrading your {itemName} from &lt;img src="lyshineui/images/icons/misc/icon_filter_gearscore" xPadding="0" scale="1.5" yOffset="2"&gt;&lt;/img&gt;{baseGearScore} to &lt;img src="lyshineui/images/icons/misc/icon_filter_gearscore" xPadding="0" scale="1.5" yOffset="2"&gt;&lt;/img&gt;{targetGearScore} will require {upgradeItemIcon}{itemCount}.\n\nUpgrading items will bind them to you. Do you want to upgrade this item?</string>
 	<string key="ui_upgrade_tooltip_enabled">Upgrade the item by applying &lt;font color="#ebe3d6"&gt;{itemName}&lt;/font&gt;. This will increase the item's &lt;font color="#ebe3d6"&gt;Gear Score&lt;/font&gt;.</string>
 	<string key="ui_upgrade_tooltip_disabled_items">You need at least {quantity} more {itemName} to increase the Gear Score of this item.</string>
 	<string key="ui_upgrade_tooltip_disabled_skill">Requires &lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.2" yOffset="1"&gt;&lt;/img&gt;&lt;font color="#c59dff"&gt;{neededValue}&lt;/font&gt; for {expertiseName} (current: &lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.2" yOffset="1"&gt;&lt;/img&gt;&lt;font color="#c59dff"&gt;{currentValue}&lt;/font&gt;).</string>
@@ -1917,12 +1958,18 @@
 	<string key="ui_question_mark">?</string>
 	<string key="ui_tooltip_ingredient_type">Type:</string>
 	<string key="ui_tooltip_ingredient_types">Types:</string>
-	<string key="ui_tooltip_perks_info_text_armor_singular">Attach to any armor's gem socket to add the following effect:</string>
-	<string key="ui_tooltip_perks_info_text_armor_plural">Attach to any armor's gem socket to add one of the following effects:</string>
-	<string key="ui_tooltip_perks_info_text_weaponarmor_singular">Attach to any weapon or armor's gem socket to add the following effect:</string>
-	<string key="ui_tooltip_perks_info_text_weaponarmor_plural">Attach to any weapon or armor's gem socket to add one of the following effects:</string>
-	<string key="ui_tooltip_perks_info_text_gem_singular">Attach to any item's gem socket to add the following effect:</string>
-	<string key="ui_tooltip_perks_info_text_gem_plural">Attach to any item's gem socket to add one of the following effects:</string>
+	<string key="ui_tooltip_perks_info_text_armor_singular">Attach to any armor's gem slot to add the following effect:</string>
+	<string key="ui_tooltip_perks_info_text_armor_plural">Attach to any armor's gem slot to add one of the following effects:</string>
+	<string key="ui_tooltip_perks_info_text_weaponarmor_singular">Attach to any weapon or armor's gem slot to add the following effect:</string>
+	<string key="ui_tooltip_perks_info_text_weaponarmor_plural">Attach to any weapon or armor's gem slot to add one of the following effects:</string>
+	<string key="ui_tooltip_perks_info_text_gem_singular">Attach to any item's gem slot to add the following effect:</string>
+	<string key="ui_tooltip_perks_info_text_gem_plural">Attach to any item's gem slot to add one of the following effects:</string>
+	<string key="ui_tooltip_perks_info_text_charmdef_singular">Attach to any item's defense slot to add the following effect:</string>
+	<string key="ui_tooltip_perks_info_text_charmdef_plural">Attach to any item's defense slot to add one of the following effects:</string>
+	<string key="ui_tooltip_perks_info_text_charmoff_singular">Attach to any item's offense slot to add the following effect:</string>
+	<string key="ui_tooltip_perks_info_text_charmoff_plural">Attach to any item's offense slot to add one of the following effects:</string>
+	<string key="ui_tooltip_perks_info_text_charmskill_singular">Attach to any item's skill slot to add the following effect:</string>
+	<string key="ui_tooltip_perks_info_text_charmskill_plural">Attach to any item's skill slot to add one of the following effects:</string>
 	<string key="ui_tooltip_perks_info_text_craft_singular">Use this resource when crafting to add the following effect:</string>
 	<string key="ui_tooltip_perks_info_text_craft_plural">Use this resource when crafting to add one of the following effects:</string>
 	<string key="ui_perks_disabled_for_game_mode" rel_version="Feature_DisabledPerkGameModes">Perks are disabled in this mode.</string>
@@ -1959,6 +2006,7 @@
 	<string key="ui_tooltip_setactivetool">Equip Tool</string>
 	<string key="ui_tooltip_dye_equipped">Dye Equipped Armor</string>
 	<string key="ui_tooltip_dye_item">Dye Item</string>
+	<string key="ui_tooltip_equipment_set_title" rel_version="ProgressionOverhaul2025">{title} {equippedInSet}/{highestPerkThreshold}</string>
 	<string key="ui_dye_items">Dye Items</string>
 	<string key="ui_remove_dye">Remove all dye</string>
 	<string key="ui_overwrite_premium_dye_warning_title">Replacing Premium Dye</string>
@@ -2174,6 +2222,7 @@
 	<string key="ui_exit_dungeon_title_raidtrial">Exit Elite Trial?</string>
 	<string key="ui_exit_dungeon_title_seasontrial" rel_version="Season_2_Trial">Exit Seasonal Trial?</string>
 	<string key="ui_exit_dungeon_title_dailysolotrial" rel_version="DailySoloTrials">Exit Daily Soul Trial?</string>
+	<string key="ui_exit_dungeon_title_catacombs" rel_version="Feature_Catacombs">Exit Catacombs?</string>
 	<string key="ui_dungeon_exit">Expedition Exit Portal</string>
 	<string key="ui_dungeon_exit_solo">Soul Trial Exit</string>
 	<string key="ui_dungeon_exit_raidtrial">Elite Trial Exit Portal</string>
@@ -2187,11 +2236,13 @@
 	<string key="ui_exit_dungeon_will_close_desc_raidtrial">You will be teleported out of the Elite Trial and it will be closed.</string>
 	<string key="ui_exit_dungeon_will_close_desc_seasontrial" rel_version="Season_2_Trial">You will be teleported out of the Seasonal Trial and it will be closed.</string>
 	<string key="ui_exit_dungeon_will_close_desc_dailysolotrial" rel_version="DailySoloTrials">You will be teleported out of the Soul Trial and it will be closed.</string>
+	<string key="ui_exit_dungeon_will_close_desc_catacombs" rel_version="Feature_Catacombs">You will be teleported out of the Catacombs and it will be closed. You may incur a Deserter's Penalty.</string>
 	<string key="ui_exit_dungeon_incombat">You cannot leave an Expedition when you have recently been in-combat. \nYou can leave in &lt;font color="#edc63e"&gt;[{timeremaining}]&lt;/font&gt;</string>
 	<string key="ui_exit_dungeon_incombat_solo">You cannot leave a Soul Trial when you have recently been in-combat. \nYou can leave in &lt;font color="#edc63e"&gt;[{timeremaining}]&lt;/font&gt;</string>
 	<string key="ui_exit_dungeon_incombat_raidtrial">You cannot leave an Elite Trial when you have recently been in-combat. \nYou can leave in &lt;font color="#edc63e"&gt;[{timeremaining}]&lt;/font&gt;</string>
 	<string key="ui_exit_dungeon_incombat_seasontrial" rel_version="Season_2_Trial">You cannot leave a Seasonal Trial when you have recently been in-combat. \nYou can leave in &lt;font color="#edc63e"&gt;[{timeremaining}]&lt;/font&gt;</string>
 	<string key="ui_exit_dungeon_incombat_dailysolotrial" rel_version="DailySoloTrials">You cannot leave a Soul Trial when you have recently been in-combat. \nYou can leave in &lt;font color="#edc63e"&gt;[{timeremaining}]&lt;/font&gt;</string>
+	<string key="ui_exit_dungeon_incombat_catacombs" rel_version="Feature_Catacombs">You cannot leave Catacombs when you have recently been in-combat. \nYou can leave in &lt;font color="#edc63e"&gt;[{timeremaining}]&lt;/font&gt;</string>
 	<string key="ui_enable_newDamageNumbers">Floating Damage Numbers</string>
 	<string key="ui_enable_newDamageNumbers_description">Set whether damage numbers are not docked to the enemy's health bar</string>
 	<string key="ui_options_damage_numbers_display_mode">Damage and Healing Numbers</string>
@@ -2906,6 +2957,8 @@
 	<string key="ui_autopinobjectivesMain_desc">Set whether to automatically pin main story quests to the HUD when they are accepted.</string>
 	<string key="ui_autopinObjectivesFactionStory">Auto-pin Faction Story Quests</string>
 	<string key="ui_autopinobjectivesFactionStory_desc">Set whether to automatically pin faction story quests to the HUD when they are accepted.</string>
+	<string key="ui_autopinObjectivesAffinity" rel_version="Season_10_Perm" comment="DO NOT TRANSLATE">Auto-pin Favor Quests</string>
+	<string key="ui_autopinobjectivesAffinity_desc" rel_version="Season_10_Perm" comment="DO NOT TRANSLATE">Set whether to automatically pin favor quests to the HUD when they are accepted.</string>
 	<string key="ui_autopinObjectivesSkillProgression">Auto-pin Skill Progression Quests</string>
 	<string key="ui_autopinobjectivesSkillProgression_desc">Set whether to automatically pin skill progression quests to the HUD when they are accepted.</string>
 	<string key="ui_autopinObjectivesMountQuest">Auto-pin Mount Quests</string>
@@ -3196,6 +3249,10 @@
 	<string key="ui_consumables_shared_cooldowns_survival">survival potions</string>
 	<string key="ui_consumables_shared_cooldowns_absorption">absorption potions</string>
 	<string key="ui_consumables_shared_cooldown_text">\n\nUsing this will put all other {consumableType} on {cooldown}% cooldown.</string>
+	<string key="ui_armor_multiplier" rel_version="ProgressionOverhaul2025">+{multiplier}%</string>
+	<string key="ui_max_health_multiplier" rel_version="ProgressionOverhaul2025">Max Health</string>
+	<string key="ui_base_damage_multiplier" rel_version="ProgressionOverhaul2025">Base Damage</string>
+	<string key="ui_cdr_multiplier" rel_version="ProgressionOverhaul2025">Cooldown Reduction</string>
 	<string key="ui_toggleGridSnap">Toggle Snap-to-Grid</string>
 	<string key="ui_directionSnap">(Hold) Snap-to-Axis</string>
 	<string key="ui_undo">Undo</string>
@@ -3229,15 +3286,23 @@
 	<string key="ui_hud_ConsumableQuickslots">Consumables</string>
 	<string key="ui_hud_WeaponQuickslots">Weapons</string>
 	<string key="ui_hud_Heartgem">Heartgem</string>
+	<string key="ui_hud_ComboPointsMeter" comment="DO NOT TRANSLATE">Combo Points Meter</string>
 	<string key="ui_hud_Encumbrance">Inventory</string>
+	<string key="ui_hud_LootTicker">Loot</string>
 	<string key="ui_hud_AfflictionsGroup">Afflictions</string>
-	<string key="ui_hud_GlobalAffliction">Mutator Affliction</string>
+	<string key="ui_hud_GlobalAfflictionContainer">Mutator Affliction</string>
 	<string key="ui_hud_StatusEffects">Status Effects</string>
 	<string key="ui_hud_Compass">Compass</string>
 	<string key="ui_hud_NotificationsMinorContainer">Notifications</string>
 	<string key="ui_hud_GroupHUD">Group</string>
+	<string key="ui_hud_Queue">Mode Queue</string>
 	<string key="ui_hud_Banners">Banners</string>
 	<string key="ui_hud_Objectives">Objectives</string>
 	<string key="ui_hud_Chat">Chat</string>
+	<string key="ui_hud_HealingTarget">Healing Target</string>
+	<string key="ui_hud_no_options">No options available.</string>
+	<string key="ui_hud_reset_element">Reset Element</string>
+	<string key="ui_hud_confirm_reset_element">Reset Element</string>
+	<string key="ui_hud_confirm_reset_element_body">Are you sure you want to reset {elementName} to default?</string>
 </resources>
 

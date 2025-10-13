@@ -89,6 +89,8 @@
 	<string key="ui_poi_banner_12MB05_Castle">Court of the Heir</string>
 	<string key="ui_poi_banner_12MB06_Boat">The Virtueless</string>
 	<string key="ui_poi_banner_12MB01_Cove">Captain's Rest</string>
+	<string key="ui_poi_banner_17DW_DenMirror">Den of Mirrors</string>
+	<string key="ui_poi_banner_17DW_Reliquary">The Reliquary</string>
 	<string key="ui_poi_banner_16BS10_Pylon" rel_version="Territory_Brimstone_Sands">The Disks of Atum</string>
 	<string key="ui_poi_banner_16BS10_Khepri" rel_version="Territory_Brimstone_Sands">Khepri has returned dormant for the Night.</string>
 	<string key="ui_poi_banner_16BS09_Scorpius" rel_version="Territory_Brimstone_Sands">Scorpio has returned dormant for the Day.</string>
@@ -111,6 +113,55 @@
 	<string key="ui_poi_banner_16BS07_Necropolis10" rel_version="Territory_Brimstone_Sands">Ninth Gate Of The Chained Betrayer</string>
 	<string key="ui_poi_banner_EG_QuestMotherwell_GuardianVictory" rel_version="Quest_MSQ2_Edengrove">The Ritual has been interrupted</string>
 	<string key="ui_poi_banner_ER_QuestLiang_WoodShrine" rel_version="Quest_MSQ3_Ebonscale">Wood Shrine</string>
+	<string key="ui_poi_banner_17DW06_Varlaam_GrandFoyer" rel_version="Territory_Dunwood">Grand Foyer</string>
+	<string key="ui_poi_banner_17DW06_Varlaam_CenterGallery" rel_version="Territory_Dunwood">Center Gallery</string>
+	<string key="ui_poi_banner_17DW06_Varlaam_DiningRoom" rel_version="Territory_Dunwood">Dining Room</string>
+	<string key="ui_poi_banner_17DW06_Varlaam_Hall" rel_version="Territory_Dunwood">Hall</string>
+	<string key="ui_poi_banner_17DW06_Varlaam_Conservatory" rel_version="Territory_Dunwood">Conservatory</string>
+	<string key="ui_poi_banner_17DW06_Varlaam_WestStairHall" rel_version="Territory_Dunwood">West Stair Hall</string>
+	<string key="ui_poi_banner_17DW06_Varlaam_Corridor" rel_version="Territory_Dunwood">Corridor</string>
+	<string key="ui_poi_banner_17DW06_Varlaam_LowerCourt" rel_version="Territory_Dunwood">Lower Court</string>
+	<string key="ui_poi_banner_17DW06_Varlaam_Lobby" rel_version="Territory_Dunwood">Lobby</string>
+	<string key="ui_poi_banner_17DW06_Varlaam_Foyer" rel_version="Territory_Dunwood">Foyer</string>
+	<string key="ui_poi_banner_17DW06_Varlaam_Vestibule" rel_version="Territory_Dunwood">Vestibule</string>
+	<string key="ui_poi_banner_17DW06_Varlaam_Pavilion" rel_version="Territory_Dunwood">Pavilion</string>
+	<string key="ui_poi_banner_17DW06_Varlaam_LockedDoor" rel_version="Territory_Dunwood">The lock is broken.\nI can't open it.</string>
+	<string key="ui_poi_banner_17DW06_Varlaam_OpenedGate" rel_version="Territory_Dunwood">A gate has been opened...</string>
+	<string key="ui_poi_banner_17DW02_Bathory_FeastHall" rel_version="Territory_Dunwood">Feast Hall</string>
+	<string key="ui_poi_banner_17DW02_Bathory_MainHall" rel_version="Territory_Dunwood">Hall of Ceremony</string>
+	<string key="ui_poi_banner_17DW02_Bathory_Study" rel_version="Territory_Dunwood">Study</string>
+	<string key="ui_poi_banner_17DW02_Bathory_Garden" rel_version="Territory_Dunwood">Pleasure Garden</string>
+	<string key="ui_poi_banner_17DW02_Bathory_HoldingCells" rel_version="Territory_Dunwood">Holding Cells</string>
+	<string key="ui_poi_banner_17DW02_Bathory_Torture" rel_version="Territory_Dunwood">Torture Chambers</string>
+	<string key="ui_poi_banner_17DW02_Bathory_Dungeon" rel_version="Territory_Dunwood">Dungeon</string>
+	<string key="ui_poi_banner_17DW02_Bathory_Veranda" rel_version="Territory_Dunwood">Veranda</string>
+	<string key="ui_poi_banner_17DW02_Carmilla_Corridor" rel_version="Territory_Dunwood">Entrance Corridor</string>
+	<string key="ui_poi_banner_17DW02_Carmilla_Central" rel_version="Territory_Dunwood">Grand Central Court</string>
+	<string key="ui_poi_banner_17DW02_Carmilla_Reception" rel_version="Territory_Dunwood">Reception Room</string>
+	<string key="ui_poi_banner_17DW02_Carmilla_Office" rel_version="Territory_Dunwood">Office of the Governor</string>
+	<string key="ui_poi_banner_17DW02_Carmilla_Staircase" rel_version="Territory_Dunwood">Staircase Hall</string>
+	<string key="ui_poi_banner_17DW02_Carmilla_Clerk" rel_version="Territory_Dunwood">Clerk's Office</string>
+	<string key="ui_poi_banner_17DW02_Carmilla_Secretary" rel_version="Territory_Dunwood">Secretary of State</string>
+	<string key="ui_poi_banner_17DW02_Carmilla_Records" rel_version="Territory_Dunwood">Chamber of Records</string>
+	<string key="ui_poi_banner_17DW02_Carmilla_Veranda" rel_version="Territory_Dunwood">Veranda</string>
+	<string key="ui_poi_banner_17DW02_Carmilla_Lobby" rel_version="Territory_Dunwood">Lobby</string>
+	<string key="ui_poi_banner_17DW02_Memora_Gatehouse" rel_version="Territory_Dunwood">Gate House</string>
+	<string key="ui_poi_banner_17DW02_Memora_Entrance" rel_version="Territory_Dunwood">Entrance Lobby</string>
+	<string key="ui_poi_banner_17DW02_Memora_Porch" rel_version="Territory_Dunwood">Porch</string>
+	<string key="ui_poi_banner_17DW02_Memora_LibraryHall" rel_version="Territory_Dunwood">Library Hall</string>
+	<string key="ui_poi_banner_17DW02_Memora_Library" rel_version="Territory_Dunwood">Library of Stolen Memories</string>
+	<string key="ui_poi_banner_17DW02_Memora_LibraryOpen" rel_version="Territory_Dunwood">A magic portal has been revealed...</string>
+	<string key="ui_poi_banner_17DW02_Memora_Magicvoid" rel_version="Territory_Dunwood">The Memory Void</string>
+	<string key="ui_poi_banner_17DW02_Memora_Castletop" rel_version="Territory_Dunwood">Tower Corridor</string>
+	<string key="ui_poi_banner_17DW07_Dracul_Entry" rel_version="Territory_Dunwood">The Bleeding Foyer</string>
+	<string key="ui_poi_banner_17DW07_Dracul_GrandHall" rel_version="Territory_Dunwood">Grand Hall of Dracul</string>
+	<string key="ui_poi_banner_17DW07_Dracul_Chamber" rel_version="Territory_Dunwood">The Dark Lord's Chamber</string>
+	<string key="ui_poi_banner_17DW07_Dracul_Vault" rel_version="Territory_Dunwood">The Resting Vault</string>
+	<string key="ui_poi_banner_17DW07_Dracul_Stair" rel_version="Territory_Dunwood">Staircase of Woes</string>
+	<string key="ui_poi_banner_17DW07_Dracul_Corridor" rel_version="Territory_Dunwood">Corridor of Sorrow</string>
+	<string key="ui_poi_banner_17DW08_NorthHall_Antechamber" rel_version="Territory_Dunwood">Antechamber of Regret</string>
+	<string key="ui_poi_banner_17DW08_NorthHall_Crypt" rel_version="Territory_Dunwood">Tomb of We-ila</string>
+	<string key="ui_poi_banner_17DW08_NorthHall_CryptHall" rel_version="Territory_Dunwood">Crypt of Eternal Regret</string>
 	<string key="ui_poi_bear_den_40225">Pebblepot Cave</string>
 	<string key="ui_poi_bear_den_ramshead_60404">Ramshead Cave</string>
 	<string key="ui_poi_blightcave_50417">Blister Fistula</string>
@@ -2083,6 +2134,8 @@
 	<string key="RestlessShores_Settlement_01_Inn" rel_version="Season_1_Perm">Sunken Compass</string>
 	<string key="Mourningdale_Settlement_01" rel_version="Season_1_Perm">Grayvale</string>
 	<string key="Mourningdale_Settlement_01_Inn" rel_version="Season_1_Perm">Weeping Pillow</string>
+	<string key="Dunwood_Settlement_01" rel_version="Territory_Dunwood">Tularest Abbey</string>
+	<string key="Dunwood_Settlement_01_Inn" rel_version="Territory_Dunwood">Rose Red</string>
 	<string key="ui_area_ebonscalereach_1_inn">Dark Night</string>
 	<string key="ui_area_windswardshores_1_inn">Steadfast Arms</string>
 	<string key="ui_area_firstlight_2_inn">Everlasting Torch</string>
@@ -2216,6 +2269,70 @@
 	<string key="ui_poi_spiritshrine_03_40353" rel_version="Season_1_Perm">Empyrean Shrine</string>
 	<string key="ui_poi_spiritshrine_03_53004">Orgulous Weald</string>
 	<string key="ui_poi_spiritshrine_05_50258" rel_version="Quest_MSQ2_WeaversFen">Richmire Shrine</string>
+	<string key="ui_poi_spider_cave_20319" rel_version="Territory_Dunwood">Silkfoot Crag</string>
+	<string key="ui_poi_spider_cave_20319_description" rel_version="Territory_Dunwood">Unlike the dark and web-choked lairs of other spider nests, this cave system sparkles with crystalline formations that have been transformed by the unique species of spiders dwelling within. Deep in the cave, the spiders cultivate crystal gardens where they breed deadly shimmering shadows that crawl from every crevice.\n\n&lt;font color="#EDC63E"&gt;Source of Spider Silk&lt;/font&gt;\n&lt;font color="#E25822"&gt;Requires Fire Damage&lt;/font&gt;</string>
+	<string key="ui_poi_cemetery_20320" rel_version="Territory_Dunwood">Amurg Cimitir</string>
+	<string key="ui_poi_cemetery_20320_description" rel_version="Territory_Dunwood">Wake not the tombs of the dead here, lest the screams of ghosts claim you.\n\n&lt;font color="#EDC63E"&gt;Source of Grave Dirt&lt;/font&gt;</string>
+	<string key="ui_poi_ruined_castle_20321" rel_version="Territory_Dunwood">Biteback Bivouac</string>
+	<string key="ui_poi_ruined_castle_20321_description" rel_version="Territory_Dunwood">A forsaken bastion of healing now decays under the corruption of the Inquisition as they find new ways to destroy the creatures of this land.</string>
+	<string key="ui_poi_werecrow_20322" rel_version="Territory_Dunwood">Ravenhaven</string>
+	<string key="ui_poi_werecrow_20322_description" rel_version="Territory_Dunwood">The name began as a joke 'mongst peers, but the real joke is that the name could never be unstuck.\n\n&lt;font color="#EDC63E"&gt;Source of Black Feathers&lt;/font&gt;</string>
+	<string key="ui_poi_inquisitor_hall_20323" rel_version="Territory_Dunwood">Algarot Hall</string>
+	<string key="ui_poi_inquisitor_hall_20323_description" rel_version="Territory_Dunwood">Howls of pain echo over the quiet battle planning of the Inquisition in this oppressive fortress ruin.</string>
+	<string key="ui_poi_inquisitor_village_20324" rel_version="Territory_Dunwood">Ashfall Watch</string>
+	<string key="ui_poi_inquisitor_village_20324_description" rel_version="Territory_Dunwood">This camp serves as both a warning and a barrier against the dark forces that plague these territories.</string>
+	<string key="ui_poi_boss_tower_20325" rel_version="Territory_Dunwood">Tower of the Moon</string>
+	<string key="ui_poi_boss_tower_20325_description" rel_version="Territory_Dunwood">Beware which face the moon is showing, but know all faces lead to the night.</string>
+	<string key="ui_poi_wolf_den_20326" rel_version="Territory_Dunwood">Lupinus Antre</string>
+	<string key="ui_poi_wolf_den_20326_description" rel_version="Territory_Dunwood">In the overgrown ruins, Werewolves have made their den in the shadow of rotten stone arches, mossy staircases, and fallen rubble.</string>
+	<string key="ui_poi_werebeast_den_20327" rel_version="Territory_Dunwood">Nightbreak Roost</string>
+	<string key="ui_poi_werebeast_den_20327_description" rel_version="Territory_Dunwood">Elite Stronghold\n\nSurrounded by a natural barrier of sorrowthorn briar, and perched out of reach, it was only a matter of time before the Ravenfolk claimed it.\n\n&lt;font color="#EDC63E"&gt;Source of Black Feathers&lt;/font&gt;</string>
+	<string key="ui_poi_werebeast_den_20328" rel_version="Territory_Dunwood">Madmaw Furrow</string>
+	<string key="ui_poi_werebeast_den_20328_description" rel_version="Territory_Dunwood">Baba always warned to stay away from the woods and the Big Bad Wolf.\n\n&lt;font color="#EDC63E"&gt;Source of Golden Azoth Sap&lt;/font&gt;</string>
+	<string key="ui_poi_werebeast_den_20329" rel_version="Territory_Dunwood">Crâng Sacru</string>
+	<string key="ui_poi_werebeast_den_20329_description" rel_version="Territory_Dunwood">The howls of a den moot in session are enough to scare off the most stalwart hunters.</string>
+	<string key="ui_poi_spider_cave_20330" rel_version="Territory_Dunwood">Huntsman's Grotto</string>
+	<string key="ui_poi_spider_cave_20330_description" rel_version="Territory_Dunwood">Skittering, creeping, the spiders protect their clutch with frightening determination. Take care midst the eggs, for young spiderlings are waiting to hatch.\n\n&lt;font color="#EDC63E"&gt;Source of Spider Silk&lt;/font&gt;\n&lt;font color="#E25822"&gt;Requires Fire Damage&lt;/font&gt;</string>
+	<string key="ui_poi_spider_castle_20331" rel_version="Territory_Dunwood">Ésagila</string>
+	<string key="ui_poi_spider_castle_20331_description" rel_version="Territory_Dunwood">Ésagila stands as a testament to arachnid horror, where thick sheets of webbing drape from every archway and corner like macabre tapestries. This abandoned castle serves as the seat of power for Uttu, the Spider Beast Lord, and the birthplace of all spiders that plague Nighthaven. Cast your phobias aside; for Uttu is not a jealous queen.\n\n&lt;font color="#EDC63E"&gt;Source of Spider Silk&lt;/font&gt;\n&lt;font color="#E25822"&gt;Requires Fire Damage&lt;/font&gt;</string>
+	<string key="ui_poi_inquisitor_camp_20332" rel_version="Territory_Dunwood">Mercy Redoubt</string>
+	<string key="ui_poi_inquisitor_camp_20332_description" rel_version="Territory_Dunwood">The watchful eye of the Inquisition surveys the valley below from this outpost. Despite its name, there is little mercy to be found here.</string>
+	<string key="ui_poi_spider_cave_10301" rel_version="Territory_Dunwood">Harvestman's Creche</string>
+	<string key="ui_poi_spider_cave_10301_description" rel_version="Territory_Dunwood">Deep within the darkest reaches of Nighthaven lies a vast network of spider-infested caverns. The walls pulse with countless arachnids, their webs forming thick, sticky curtains that trap both prey and unwary travelers. The cave system serves as a breeding ground for the spider hordes, with egg sacs dangling from every surface and newly hatched spiderlings skittering through the shadows.\n\n&lt;font color="#EDC63E"&gt;Source of Spider Silk&lt;/font&gt;\n&lt;font color="#E25822"&gt;Requires Fire Damage&lt;/font&gt;</string>
+	<string key="ui_poi_upyr_village_10302" rel_version="Territory_Dunwood">Măr Amar</string>
+	<string key="ui_poi_upyr_village_10302_description" rel_version="Territory_Dunwood">A castle village bound in service to the City-State of Durevos. The village has suddenly been abandoned. Carts are toppled, and red banners litter the mud-soaked ground, and no sign of life can be found.\n\n But the rats..</string>
+	<string key="ui_poi_spider_cave_20210" rel_version="Territory_Dunwood">Shahatu Cavern</string>
+	<string key="ui_poi_spider_cave_20210_description" rel_version="Territory_Dunwood">There is no hope found here. Move on and find peace elsewhere.\n\n&lt;font color="#EDC63E"&gt;Source of Spider Silk&lt;/font&gt;\n&lt;font color="#E25822"&gt;Requires Fire Damage&lt;/font&gt;</string>
+	<string key="ui_poi_werebeast_warren_20211" rel_version="Territory_Dunwood">Sorrowthorn Moot</string>
+	<string key="ui_poi_werebeast_warren_20211_description" rel_version="Territory_Dunwood">A thorn for joy\na thorn for sorrow\na feather for luck\nall lost tomorrow\n\n&lt;font color="#EDC63E"&gt;Source of Sorrowthorn&lt;/font&gt;</string>
+	<string key="ui_poi_graveyard_20212" rel_version="Territory_Dunwood">Qeberu Boneyard</string>
+	<string key="ui_poi_graveyard_20212_description" rel_version="Territory_Dunwood">Never overwork in a boneyard past the fourth bell. A financial curse will stick to you and your kin.\n\n&lt;font color="#EDC63E"&gt;Source of Grave Dirt&lt;/font&gt;</string>
+	<string key="ui_poi_spider_cave_20213" rel_version="Territory_Dunwood">Umbral Qirsu</string>
+	<string key="ui_poi_spider_cave_20213_description" rel_version="Territory_Dunwood">Deep beneath the terrain lies an empire of unknown size and dimension. The caves spread for miles, endless and twisted, like a ball of Baba's yarn.\n\n&lt;font color="#EDC63E"&gt;Source of Spider Silk&lt;/font&gt;\n&lt;font color="#E25822"&gt;Requires Fire Damage&lt;/font&gt;</string>
+	<string key="ui_poi_boss_tower_20214" rel_version="Territory_Dunwood">Tower of the Hermit</string>
+	<string key="ui_poi_boss_tower_20214_description" rel_version="Territory_Dunwood">Disturb the solitude at your peril.</string>
+	<string key="ui_poi_elite_spider_20215" rel_version="Territory_Dunwood">Ordeal of the Spider</string>
+	<string key="ui_poi_elite_spider_20215_description" rel_version="Territory_Dunwood">Elite Overlord\n\nA shadow of Elysian Wilds has stalked these lands. A ghost of troubled past, and a sorrowed memory of Artemis. Shed no tears, for Arachne has no need for them.\n\n&lt;font color="#EDC63E"&gt;Source of Spider Silk&lt;/font&gt;\n&lt;font color="#E25822"&gt;Requires Fire Damage&lt;/font&gt;</string>
+	<string key="ui_poi_ruined_castle_20216" rel_version="Territory_Dunwood">Piatra Antica</string>
+	<string key="ui_poi_ruined_castle_20216_description" rel_version="Territory_Dunwood">Long since abandoned, the walls and towers of this castle weep as if melting in the perpetual rain. Though dead, there still remains a horde of fur, wing, and claw which stalk the ruins, as if yet still picking fresh meat off the castle's bones.</string>
+	<string key="ui_poi_spider_cave_20217" rel_version="Territory_Dunwood">Peşteră Întunecată</string>
+	<string key="ui_poi_spider_cave_20217_description" rel_version="Territory_Dunwood">Light cannot pierce the veil anymore.\nAll hope is lost.\n\n&lt;font color="#EDC63E"&gt;Source of Spider Silk&lt;/font&gt;\n&lt;font color="#E25822"&gt;Requires Fire Damage&lt;/font&gt;</string>
+	<string key="ui_poi_catacomb_20218" rel_version="Territory_Dunwood">Zaqiqu Subterrane</string>
+	<string key="ui_poi_catacomb_20218_description" rel_version="Territory_Dunwood">Each step, another push closer to Hades. Join me in the down deep.\n\n&lt;font color="#EDC63E"&gt;Source of Anima Quartz&lt;/font&gt;</string>
+	<string key="ui_poi_inquisition_hq_20219" rel_version="Territory_Dunwood">Monastery Isle</string>
+	<string key="ui_poi_inquisition_hq_20219_description" rel_version="Territory_Dunwood">The corrupted seat of divine power for the Inquisition. The halls still echo with the mistakes of the righteous.</string>
+	<string key="ui_poi_boss_tower_20220" rel_version="Territory_Dunwood">Tower of the High Priestess</string>
+	<string key="ui_poi_boss_tower_20220_description" rel_version="Territory_Dunwood">Some things should not be revealed.</string>
+	<string key="ui_poi_dunwood_castle_10201" rel_version="Territory_Dunwood">Castle Dracula</string>
+	<string key="ui_poi_dunwood_castle_10201_description" rel_version="Territory_Dunwood">The capital of the realm and seat of the venerated King of Nighthaven.</string>
+	<string key="ui_poi_upyr_archives_10202" rel_version="Territory_Dunwood">Varlaam Library</string>
+	<string key="ui_poi_upyr_archives_10202_description" rel_version="Territory_Dunwood">Elite Stronghold\n\nThe records, archives, libraries, and museums of the Upyr Royalty, where treasures, priceless art, memories, and dreams are kept.</string>
+	<string key="ui_poi_catacomb_10203" rel_version="Territory_Dunwood">Bitu Vesnic</string>
+	<string key="ui_poi_catacomb_10203_description" rel_version="Territory_Dunwood">Buried in the hillside, this royal mausoleum is the final resting place for nobility. A distinction in the architecture suggests it was built by a civilization that predates any ever encountered on Aeternum before.\n\n&lt;font color="#EDC63E"&gt;Source of Anima Quartz&lt;/font&gt;</string>
+	<string key="ui_poi_confused_village_10204" rel_version="Territory_Dunwood">Grivaros</string>
+	<string key="ui_poi_confused_village_10204_description" rel_version="Territory_Dunwood">A place for those to gather in strength, 'neath the shadow of the Lord's lair.</string>
+	<string key="ui_poi_upyr_castle_10205" rel_version="Territory_Dunwood">House Varlaam</string>
+	<string key="ui_poi_upyr_castle_10205_description" rel_version="Territory_Dunwood">“...I had gazed upon the fortifications and ramparts of the castle of my own imagination, but this night, the lightning flashed across the sky, and the castle seemed to burst into a blaze of light.”\n\n- Mary Shelley</string>
 	<string key="ui_poi_hatchery_solo_trial_30336" rel_version="Season_2_Perm">Ancient Hatchery</string>
 	<string key="ui_poi_hatchery_solo_trial_30336_description" rel_version="Season_2_Perm">Soul Trial\n\nTBD DESCRIPTION</string>
 	<string key="ui_poi_malek_solo_trial_30435" rel_version="Season_2_Perm">Legacy of the Sands</string>
@@ -2345,6 +2462,12 @@
 	<string key="ui_poi_spiritshrine_30345">Tiaowen Shan Shrine</string>
 	<string key="ui_poi_factionarea_20221">Dragon Tail Cove</string>
 	<string key="ui_poi_factionarea_20221_description">Contested Area</string>
+	<string key="ui_poi_factionarea_20230" rel_version="Territory_Dunwood">West Dunwood Watch</string>
+	<string key="ui_poi_factionarea_20230_description" rel_version="Territory_Dunwood">Contested Area</string>
+	<string key="ui_poi_factionarea_20231" rel_version="Territory_Dunwood">Central Dunwood Watch</string>
+	<string key="ui_poi_factionarea_20231_description" rel_version="Territory_Dunwood">Contested Area</string>
+	<string key="ui_poi_factionarea_20346" rel_version="Territory_Dunwood">East Dunwood Watch</string>
+	<string key="ui_poi_factionarea_20346_description" rel_version="Territory_Dunwood">Contested Area</string>
 	<string key="ui_poi_factionarea_30035">Salty Marshes South</string>
 	<string key="ui_poi_factionarea_30035_description">Contested Area</string>
 	<string key="ui_poi_factionarea_30036">Salty Foothills</string>
@@ -2504,7 +2627,7 @@
 	<string key="ui_poi_checkpoint_ck_revamp_30080_description" rel_version="Territory_CutlassKeys_Rework">The corpse of this massive sea creature decorates the paths tread by dread pirates, just one footnote in their legacy of battle.</string>
 	<string key="ui_poi_raid_boat_30072" rel_version="Territory_CutlassKeys_Rework">Hive of Gorgons</string>
 	<string key="ui_poi_raid_boat_30072_description" rel_version="Territory_CutlassKeys_Rework">Raid\n\nJames Oxen's crew has reported sightings of Gorgons. Board the Aegis, a battered yet unfaltering vessel, to slay Medusa and bring glory to Aeternum!</string>
-	<string key="ui_poi_raid_port_30082_description" rel_version="Territory_CutlassKeys_Rework">Their hive has been found, but there's no telling what hasn't been uncovered yet. It's best to keep your eyes closed here.</string>
+	<string key="ui_poi_raid_port_30082_description" rel_version="Territory_CutlassKeys_Rework">"Last boat is leaving\nInto the western sea\nBlack shores are calling\nCalling for you and me\nTime's up and time again\nTime will always win\nTime was always Death\nDeath in the very end\nWe will never meet again"\n\n-Nighthaven children's rhyme\nAuthor unknown</string>
 	<string key="ui_poi_raid_port_30082" rel_version="Territory_CutlassKeys_Rework">Gorgon's Landing</string>
 	<string key="ui_poi_ancient_ruins_30074" rel_version="Territory_CutlassKeys_Rework">Cursed Steps</string>
 	<string key="ui_poi_ancient_ruins_30074_description" rel_version="Territory_CutlassKeys_Rework">The Displaced Ancients of Cutlass Keys have gathered at the scattered remains of an ancient city in the shadow of the Lighthouse.</string>
@@ -2512,6 +2635,12 @@
 	<string key="ui_poi_ancient_bridge_30075_description" rel_version="Territory_CutlassKeys_Rework">The Goldcursed only allow the best to proceed down Admiral's Walk, anyone else is met with cutlass and cannon fire.</string>
 	<string key="ui_poi_ancient_tower_30076" rel_version="Territory_CutlassKeys_Rework">Crow's Nest Lighthouse</string>
 	<string key="ui_poi_ancient_tower_30076_description" rel_version="Territory_CutlassKeys_Rework">The Sable Fleet conquered the Lighthouse and shortly after the Goldcursed appeared. What cursed magic takes place within its walls?</string>
+	<string key="ui_poi_belltower_10206" rel_version="Territory_Dunwood">Belltower of Time</string>
+	<string key="ui_poi_belltower_10206_description" rel_version="Territory_Dunwood">&lt;font color="#b2aea1"&gt;Monument&lt;/font&gt;\n\nA great monument and teller of time. At night, the Clocktower signals a warning with a deafening bell for all those still out in the forest after dark. At daybreak, a cascade of chimes spell defeat for those that lurk in the shadows and brings forth a new day.</string>
+	<string key="ui_poi_dungeon_dunwood_10207" rel_version="Territory_Dunwood">Tower of the Archivist</string>
+	<string key="ui_poi_dungeon_dunwood_10207_description" rel_version="Territory_Dunwood">Expedition\n\nHigh atop a windswept tower, the ever-peering Archivist taps into the harvested memories of its victims. There, nestled midst a web-shaped infinitum of memory, as if a spider waiting for its prey to arrive.</string>
+	<string key="ui_poi_upyr_castle_10303" rel_version="Territory_Dunwood">House Dracul</string>
+	<string key="ui_poi_upyr_castle_10303_description" rel_version="Territory_Dunwood">The Fourth House has been found. Like all things once believed as truth, rotted to the core and drenched in betrayal. An eternity of secrets and lies is buried below the facade.</string>
 	<string key="ui_poi_trial_questyonas_40363" rel_version="DailySoloTrials">The Last Soulwarden</string>
 	<string key="ui_poi_trial_questyonas_40363_description" rel_version="DailySoloTrials">Soul Trial\n\nWhispers entwined with corruption have found this faithful heart.</string>
 	<string key="ui_poi_caerdun_40354_DailySoloTrials" rel_version="DailySoloTrials">The Curse of Caer Dun</string>
@@ -2541,7 +2670,7 @@
 	<string key="ui_poi_trialgawain_30162" rel_version="DailySoloTrials">Fall Of The True Heir</string>
 	<string key="ui_poi_trialgawain_30162_description" rel_version="DailySoloTrials">Soul Trial\n\nOnce the castle of the High King's second-in-command.</string>
 	<string key="ui_poi_trialliang_30264" rel_version="DailySoloTrials">The Tormented Prince</string>
-	<string key="ui_poi_trialliang_30264_description" rel_version="DailySoloTrials">Soul Trial\n\nImprisoned for his own protection and the protection of others. The Prince is subdued in the depths of the Wood Shrine… with little hope of ever seeing sunlight again.</string>
+	<string key="ui_poi_trialliang_30264_description" rel_version="DailySoloTrials">Soul Trial\n\nStill imprisoned for his own protection and the protection of others. The Prince is subdued in the depths of the Wood Shrine… with no hope of ever seeing sunlight again.</string>
 	<string key="ui_poi_lost_beach_30081" rel_version="Territory_CutlassKeys_Rework">Playa de la Muerte</string>
 	<string key="ui_poi_lost_beach_30081_description" rel_version="Territory_CutlassKeys_Rework">Elite Stronghold\n\nThe Sable Fleet suffer none to dispute their claim on this pirate-infested stretch of sand.</string>
 	<string key="ui_poi_fortunes_folly_30083" rel_version="Territory_CutlassKeys_Rework">Fortune's Folly</string>
@@ -2551,8 +2680,175 @@
 	<string key="ui_poi_pirate_camp_30085" rel_version="Territory_CutlassKeys_Rework">Cutthroat Camps</string>
 	<string key="ui_poi_pirate_camp_30085_description" rel_version="Territory_CutlassKeys_Rework">The pirate's took over these camps during the gold rush caused by the newly exposed islands to the West, all demanding a cut of your purse.</string>
 	<string key="ui_poi_spiritshrine_30164">Hiraeth Shrine</string>
+	<string key="ui_poi_boss_tower_20224" rel_version="Territory_Dunwood">Tower of Strength</string>
+	<string key="ui_poi_boss_tower_20224_description" rel_version="Territory_Dunwood">True strength is knowing when to give up.</string>
+	<string key="ui_poi_bridge_20225" rel_version="Territory_Dunwood">The Bridge of Lies</string>
+	<string key="ui_poi_bridge_20225_description" rel_version="Territory_Dunwood" xsi:nil="true"/>
+	<string key="ui_poi_bridge_10207" rel_version="Territory_Dunwood">Peles Crossing</string>
+	<string key="ui_poi_bridge_10207_description" rel_version="Territory_Dunwood" xsi:nil="true"/>
+	<string key="ui_poi_bridge_10208" rel_version="Territory_Dunwood">Corvin Passage</string>
+	<string key="ui_poi_bridge_10208_description" rel_version="Territory_Dunwood" xsi:nil="true"/>
+	<string key="ui_poi_bridge_10209" rel_version="Territory_Dunwood">Rasnov Bridge</string>
+	<string key="ui_poi_bridge_10209_description" rel_version="Territory_Dunwood" xsi:nil="true"/>
+	<string key="ui_poi_bridge_10210" rel_version="Territory_Dunwood">Pelisor Pass</string>
+	<string key="ui_poi_bridge_10210_description" rel_version="Territory_Dunwood" xsi:nil="true"/>
+	<string key="ui_poi_bridge_10211" rel_version="Territory_Dunwood">Bran Crossing</string>
+	<string key="ui_poi_bridge_10211_description" rel_version="Territory_Dunwood" xsi:nil="true"/>
+	<string key="ui_poi_gatehouse_10212" rel_version="Territory_Dunwood">Hall of Honor</string>
+	<string key="ui_poi_gatehouse_10212_description" rel_version="Territory_Dunwood">Honor is never rewarded. It is earned, and kept, by trust. There is still honor here hanging on the walls.</string>
+	<string key="ui_poi_gatehouse_10213" rel_version="Territory_Dunwood">The Undercroft</string>
+	<string key="ui_poi_gatehouse_10213_description" rel_version="Territory_Dunwood">The rats own this land. The smell of petrichor reigns. Fleas and ticks and bed bugs are the citizenry. There is no hope below the crust of aristocratic greed.</string>
+	<string key="ui_poi_gatehouse_10214" rel_version="Territory_Dunwood">Belltower Commons</string>
+	<string key="ui_poi_gatehouse_10214_description" rel_version="Territory_Dunwood">The Great Houses of Upyr congregate, and celebrate, in mockery and shadowed dances beneath a twisted Moon. Cavalier officers and mind-numbed lieutenants protect the vestibules from nothing, nothing, nothing ever again. Tick-tock tick-tock. Our time is up.</string>
+	<string key="ui_poi_gatehouse_10215" rel_version="Territory_Dunwood">Archivum Passage</string>
+	<string key="ui_poi_gatehouse_10215_description" rel_version="Territory_Dunwood">Elite Stronghold\n\nWords have always been dangerous, especially when silenced. In Nighthaven, words are lethal.</string>
+	<string key="ui_poi_catacomb_10216" rel_version="Territory_Dunwood">Bitu Suflete</string>
+	<string key="ui_poi_catacomb_10216_description" rel_version="Territory_Dunwood" xsi:nil="true"/>
+	<string key="ui_poi_catacomb_10217" rel_version="Territory_Dunwood">Gloombringer Crypt</string>
+	<string key="ui_poi_catacomb_10217_description" rel_version="Territory_Dunwood">The Gloombringer sighed, and realized there was already a deep sadness upon the land. Their services were unrequired.\n\n&lt;font color="#EDC63E"&gt;Source of Anima Quartz&lt;/font&gt;</string>
+	<string key="ui_poi_upyr_castle_10218" rel_version="Territory_Dunwood">Memora Singur</string>
+	<string key="ui_poi_upyr_castle_10218_description" rel_version="Territory_Dunwood">A magical place, where purple lights shimmer and swirl around the mystical hold. Legends speak of a great Warlock who roosts here, forever spellbound in the silent remembrance of a painful memory.</string>
+	<string key="ui_poi_upyr_castle_10219" rel_version="Territory_Dunwood">House Carmilla</string>
+	<string key="ui_poi_upyr_castle_10219_description" rel_version="Territory_Dunwood">The walls have ears, and the knives have poison.</string>
+	<string key="ui_poi_upyr_castle_10220" rel_version="Territory_Dunwood">Cronewell Cathedral</string>
+	<string key="ui_poi_upyr_castle_10220_description" rel_version="Territory_Dunwood">A thick, impermeable sadness chokes the life out of all hopeful people here.</string>
+	<string key="ui_poi_upyr_castle_10221" rel_version="Territory_Dunwood">Keep Understone</string>
+	<string key="ui_poi_upyr_castle_10221_description" rel_version="Territory_Dunwood">A forgotten Great House lies cursed beneath Understone, destroyed by the King.</string>
+	<string key="ui_poi_upyr_castle_10222" rel_version="Territory_Dunwood">House Báthory</string>
+	<string key="ui_poi_upyr_castle_10222_description" rel_version="Territory_Dunwood">Pay no attention to the screams. Everyone does eventually, once inside.</string>
+	<string key="ui_poi_boss_tower_10223" rel_version="Territory_Dunwood">Tower of the Devil</string>
+	<string key="ui_poi_boss_tower_10223_description" rel_version="Territory_Dunwood">What lies inside is a prison of its own making.</string>
+	<string key="ui_poi_catacomb_20335" rel_version="Territory_Dunwood">Weeping Ossuary</string>
+	<string key="ui_poi_catacomb_20335_description" rel_version="Territory_Dunwood">Baba told me the legend of the Builder-King, a story banned in Nighthaven. The tale persists at the tables of peasants and smallfolk. Baba said he was a master artisan who built monuments and cities. And when time was up, he was brutally torn apart by his friend, and scattered to the four corners of the earth.\n\n&lt;font color="#EDC63E"&gt;Source of Anima Quartz&lt;/font&gt;</string>
+	<string key="ui_poi_catacomb_20336" rel_version="Territory_Dunwood">Adaru Sepulture</string>
+	<string key="ui_poi_catacomb_20336_description" rel_version="Territory_Dunwood">Baba said the architect of this underworld was not given due process. All those of the aristocracy denied their neglect, and the architect suffered. Shame on those involved.\n\n&lt;font color="#EDC63E"&gt;Source of Anima Quartz&lt;/font&gt;</string>
+	<string key="ui_poi_catacomb_20337" rel_version="Territory_Dunwood">Cosmar Aquoris</string>
+	<string key="ui_poi_catacomb_20337_description" rel_version="Territory_Dunwood">The desire of greater knowledge is a double-edge sword, Baba once told me. Hundreds of scholars gathered here to discover the ocean's truth, until all who involved drowned in the monarch's greed.\n\n&lt;font color="#EDC63E"&gt;Source of Anima Quartz&lt;/font&gt;</string>
+	<string key="ui_poi_boss_tower_20338" rel_version="Territory_Dunwood">Tower of the Hierophant</string>
+	<string key="ui_poi_boss_tower_20338_description" rel_version="Territory_Dunwood">Stolen knowledge is best forgotten, when stolen knowledge is taken without consent. The Trickster King knows the truth.</string>
+	<string key="ui_poi_werebear_20339" rel_version="Territory_Dunwood">Wildwood Forge</string>
+	<string key="ui_poi_werebear_20339_description" rel_version="Territory_Dunwood">Nothing here matters. Ursa has forsaken us. Her children have lost their sentience, and now live as beasts of burden for the overseers. Nothing matters anymore.</string>
+	<string key="ui_poi_werebear_20340" rel_version="Territory_Dunwood">Ursa's Sanctum</string>
+	<string key="ui_poi_werebear_20340_description" rel_version="Territory_Dunwood">Her dying words, Baba said that Ursa has abandoned us. That the Bear Beast Lord has receded into myth. There is no hope.</string>
+	<string key="ui_poi_boss_tower_10304" rel_version="Territory_Dunwood">Tower of Justice</string>
+	<string key="ui_poi_boss_tower_10304_description" rel_version="Territory_Dunwood">Justice delayed is justice denied.</string>
+	<string key="ui_poi_boss_tower_10305" rel_version="Territory_Dunwood">Tower of the Star</string>
+	<string key="ui_poi_boss_tower_10305_description" rel_version="Territory_Dunwood">Ice and snow are but a gentle reminder that warmth and closeness are taken for granted.</string>
+	<string key="ui_poi_boss_tower_10306" rel_version="Territory_Dunwood">Tower of the Sun</string>
+	<string key="ui_poi_boss_tower_10306_description" rel_version="Territory_Dunwood">The sun shall never truly rise on Nighthaven. The eternal overcast gray clouds will never cease.</string>
+	<string key="ui_poi_catacomb_10307" rel_version="Territory_Dunwood">Dusty Cinerium</string>
+	<string key="ui_poi_catacomb_10307_description" rel_version="Territory_Dunwood">A bedtime story, the legend of the Builder-King is forbidden by proclamation of the ruling class. I was told the story as a young child, and it's still shared in small circles of commoners. Baba said that he was promised a Crown, and yet on coronation day, it was a folded crown of paper. He was burned alive instead. Dust to dust like Baba says.\n\n&lt;font color="#EDC63E"&gt;Source of Anima Quartz&lt;/font&gt;</string>
+	<string key="ui_poi_catacomb_10308" rel_version="Territory_Dunwood">Ukkulu Barrow</string>
+	<string key="ui_poi_catacomb_10308_description" rel_version="Territory_Dunwood">Baba told me bedtime stories of the legend of the Builder-King. She said it is oft-whispered between the smallfolk. Baba said that like Atlas he held up the world. For all his miracles, a final reward was the taste of blood in his mouth and the smell of ash in his hair, and a thousand knives in his back.\n\n&lt;font color="#EDC63E"&gt;Source of Anima Quartz&lt;/font&gt;</string>
+	<string key="ui_poi_catacomb_10309" rel_version="Territory_Dunwood">Bitu Pagri</string>
+	<string key="ui_poi_catacomb_10309_description" rel_version="Territory_Dunwood">A place of old and terrible things, long-forgotten, aged in memory and time. Like a fine wine, once uncorked you shan't ever return to that memory. Enjoy that taste, that blind-red devotion painted on every wall, while it lasts.\n\n&lt;font color="#EDC63E"&gt;Source of Anima Quartz&lt;/font&gt;</string>
+	<string key="ui_poi_bridge_10310" rel_version="Territory_Dunwood">Bethlen Road</string>
+	<string key="ui_poi_bridge_10310_description" rel_version="Territory_Dunwood" xsi:nil="true"/>
+	<string key="ui_poi_ancient_hall_10311" rel_version="Territory_Dunwood">Hall of the South King</string>
+	<string key="ui_poi_ancient_hall_10311_description" rel_version="Territory_Dunwood">Once called the Athenaeum of the Sage King, time has shorted the name to something easier to pronounce.</string>
+	<string key="ui_poi_ancient_hall_10312" rel_version="Territory_Dunwood">Buru of Irkalla</string>
+	<string key="ui_poi_ancient_hall_10312_description" rel_version="Territory_Dunwood">A legend kept secret from the gentry says there were once three kings. One betrayed the two. The first king's bones were buried in the desert, the second king's severed head tossed into the sea.</string>
+	<string key="ui_poi_graveyard_10313" rel_version="Territory_Dunwood">Mormânt Aurit</string>
+	<string key="ui_poi_graveyard_10313_description" rel_version="Territory_Dunwood">You will only find sadness. Leave.\n\n&lt;font color="#EDC63E"&gt;Source of Grave Dirt&lt;/font&gt;</string>
+	<string key="ui_poi_graveyard_10314" rel_version="Territory_Dunwood">The Forlorn Mausoleum</string>
+	<string key="ui_poi_graveyard_10314_description" rel_version="Territory_Dunwood">Elite Stronghold\n\nTrapped on an elemental leyline of impossible melancholy. All who tread this path, be warned, for cruel ideations may steal your present conscience and years of your life suddenly mean nothing.\n\n&lt;font color="#EDC63E"&gt;Source of Grave Dirt&lt;/font&gt;</string>
+	<string key="ui_poi_spider_cave_10315" rel_version="Territory_Dunwood">Skittering Hollow</string>
+	<string key="ui_poi_spider_cave_10315_description" rel_version="Territory_Dunwood">A treacherous network of narrow tunnels and false passages where every shadow conceals a waiting predator. These cunning spiders have mastered the art of ambush, creating an intricate hunting ground filled with trapdoor burrows and overhead stalking perches. The walls themselves seem alive with hidden hunters, their camouflaged burrow doors blending perfectly with the surrounding stone.\n\n&lt;font color="#EDC63E"&gt;Source of Spider Silk&lt;/font&gt;\n&lt;font color="#E25822"&gt;Requires Fire Damage&lt;/font&gt;</string>
+	<string key="ui_poi_elite_castle_10316" rel_version="Territory_Dunwood">Arcanist's Hold</string>
+	<string key="ui_poi_elite_castle_10316_description" rel_version="Territory_Dunwood">Elite Stronghold Siege\n\nA powerful Arcanist built this castle. He was engaged to a beautiful Princess. The Trickster King annihilated the Arcanist and all his work, yet he remained as a pure essence of thought, a phantosmological memory of rebellion. The Trickster King could never claim his soul, but his soon-to-be bride was forever broken. And so she left for Reekwater to drown in her torment and become the Siren Queen.</string>
+	<string key="ui_poi_bloodmoon_village_10317" rel_version="Territory_Dunwood">Avanpost</string>
+	<string key="ui_poi_bloodmoon_village_10317_description" rel_version="Territory_Dunwood">The Ironwood grows abundantly here! It's a crying shame there is no one left to cut it down.</string>
+	<string key="ui_poi_bloodmoon_village_10318" rel_version="Territory_Dunwood">Pescova</string>
+	<string key="ui_poi_bloodmoon_village_10318_description" rel_version="Territory_Dunwood">Even the fish have all left Nighthaven. There is no hope. There is no end to our suffering.</string>
+	<string key="ui_poi_bloodmoon_village_10319" rel_version="Territory_Dunwood">Crofton</string>
+	<string key="ui_poi_bloodmoon_village_10319_description" rel_version="Territory_Dunwood">Chickens might offer a small reprieve against the yearly doom.</string>
+	<string key="ui_poi_bloodmoon_village_10320" rel_version="Territory_Dunwood">Appletown</string>
+	<string key="ui_poi_bloodmoon_village_10320_description" rel_version="Territory_Dunwood">These orchards were once renowned throughout the land. Now they are all that is left.\n\n&lt;font color="#EDC63E"&gt;Source of Golden Apples&lt;/font&gt;</string>
 	<string key="ui_poi_spiritshrine_50159">Edgeflow Shrine</string>
 	<string key="ui_poi_spiritshrine_50160">Tricorne Shrine</string>
 	<string key="ui_poi_spiritshrine_50161">Peninsula Shrine</string>
+	<string key="ui_poi_spiritshrine_20226" rel_version="Territory_Dunwood">Church of the Last Prayer</string>
+	<string key="ui_poi_spiritshrine_20227" rel_version="Territory_Dunwood">Church of Divinity</string>
+	<string key="ui_poi_spiritshrine_20228" rel_version="Territory_Dunwood">Church of the Dead</string>
+	<string key="ui_poi_spiritshrine_20229" rel_version="Territory_Dunwood">Church of the Living Saint</string>
+	<string key="ui_poi_spiritshrine_10321" rel_version="Territory_Dunwood">Church of Fates</string>
+	<string key="ui_poi_spiritshrine_10322" rel_version="Territory_Dunwood">Church of Revelation</string>
+	<string key="ui_poi_spiritshrine_10323" rel_version="Territory_Dunwood">Church of the Mountain</string>
+	<string key="ui_poi_spiritshrine_10324" rel_version="Territory_Dunwood">Church of Eternal Day</string>
+	<string key="ui_poi_spiritshrine_10325" rel_version="Territory_Dunwood">Church of the Hinterland</string>
+	<string key="ui_poi_spiritshrine_10326" rel_version="Territory_Dunwood">Church of the Meek</string>
+	<string key="ui_poi_spiritshrine_10327" rel_version="Territory_Dunwood">Church of the Frontier</string>
+	<string key="ui_poi_spiritshrine_10328" rel_version="Territory_Dunwood">Church of Perseverance</string>
+	<string key="ui_poi_spiritshrine_10329" rel_version="Territory_Dunwood">Church of the Twelve</string>
+	<string key="ui_poi_spiritshrine_10224" rel_version="Territory_Dunwood">Church of Grivaros</string>
+	<string key="ui_poi_spiritshrine_10225" rel_version="Territory_Dunwood">Church of the Cup</string>
+	<string key="ui_poi_spiritshrine_10226" rel_version="Territory_Dunwood">Church of the Sword</string>
+	<string key="ui_poi_spiritshrine_10227" rel_version="Territory_Dunwood">Royal Church of Durevos</string>
+	<string key="ui_poi_spiritshrine_10228" rel_version="Territory_Dunwood">Church of the Courts</string>
+	<string key="ui_poi_spiritshrine_10229" rel_version="Territory_Dunwood">Church of the Wand</string>
+	<string key="ui_poi_spiritshrine_20341" rel_version="Territory_Dunwood">Abbey Road</string>
+	<string key="ui_poi_spiritshrine_20342" rel_version="Territory_Dunwood">Church of the Last Days</string>
+	<string key="ui_poi_spiritshrine_20343" rel_version="Territory_Dunwood">Church of Contemplation</string>
+	<string key="ui_poi_spiritshrine_20344" rel_version="Territory_Dunwood">Church of Memory</string>
+	<string key="ui_poi_spiritshrine_20345" rel_version="Territory_Dunwood">Church of the Absolute</string>
+	<string key="ui_poi_raid_isleofnight_30165" rel_version="Raid_MonarchsBluffs_00">Isle Of Night</string>
+	<string key="ui_poi_raid_isleofnight_30165_description" rel_version="Raid_MonarchsBluffs_00">Raid\n\nA familiar face has returned from the grave and seeks to control a powerful relic. Stop him before he becomes a threat to all of Aeternum once again!</string>
+	<string key="ui_poi_boss_tower_10230" rel_version="Territory_Dunwood">Tower of the Fool</string>
+	<string key="ui_poi_boss_tower_10230_description" rel_version="Territory_Dunwood">We are all clowns in the circus of our life's work and ambition.</string>
+	<string key="ui_poi_carnivalcamp_10231" rel_version="Territory_Dunwood">The Merry Company</string>
+	<string key="ui_poi_carnivalcamp_10231_description" rel_version="Territory_Dunwood">Chosen family is what separates us from the animals.</string>
+	<string key="ui_poi_fishingcamp_10232" rel_version="Territory_Dunwood">Arcanova</string>
+	<string key="ui_poi_fishingcamp_10232_description" rel_version="Territory_Dunwood">Pick a card. Any card.</string>
+	<string key="ui_poi_boss_tower_10331" rel_version="Territory_Dunwood">Tower of the Emperor</string>
+	<string key="ui_poi_boss_tower_10331_description" rel_version="Territory_Dunwood">Elite Stronghold\n\nThe legends are true. A fifth Seraph lives. A lucent, elegant form, lost to memory. The crusade of the Inquisition must end here.</string>
+	<string key="ui_poi_raid_IoN_10233" rel_version="Territory_Dunwood">Isle of Night</string>
+	<string key="ui_poi_raid_IoN_10233_description" rel_version="Territory_Dunwood">Raid\n\nA familiar face has returned from the grave and seeks to control a powerful relic. Stop him before he becomes a threat to all of Aeternum once again!</string>
+	<string key="ui_poi_mode_catacombs_10234" rel_version="Territory_Dunwood">Catacombs</string>
+	<string key="ui_poi_mode_catacombs_10234_description" rel_version="Territory_Dunwood">Continue deeper into the darkest halls below Nighthaven.</string>
+	<string key="ui_poi_underworld_06">Bitu Tacere</string>
+	<string key="ui_poi_underworld_06A">Bitu Adaru</string>
+	<string key="ui_poi_underworld_06_description">Baba said the architect of this underworld was not given due process. Built to honor the earthen deities, its architects suffered under the aristocracy's neglect, until everything collapsed into a swarm of blight.\n\n&lt;font color="#EDC63E"&gt;Source of Anima Quartz&lt;/font&gt;</string>
+	<string key="ui_poi_underworld_06_1">Terraxa</string>
+	<string key="ui_poi_underworld_06_2">Serpentis</string>
+	<string key="ui_poi_underworld_06_3">Florivar</string>
+	<string key="ui_poi_underworld_06_4">Fungora</string>
+	<string key="ui_poi_underworld_07">Bitu Cosmar</string>
+	<string key="ui_poi_underworld_07A">Cosmar Aquoris</string>
+	<string key="ui_poi_underworld_07A_description">The desire of greater knowledge is a double-edge sword, Baba once told me. Hundreds of scholars gathered here to discover the ocean's truth, until all who involved drowned in the monarch's greed.\n\n&lt;font color="#EDC63E"&gt;Source of Anima Quartz&lt;/font&gt;</string>
+	<string key="ui_poi_underworld_07_1">Cataris</string>
+	<string key="ui_poi_underworld_07_2">Aquoris</string>
+	<string key="ui_poi_underworld_07_3">Neridia</string>
+	<string key="ui_poi_underworld_07_4">Submara</string>
+	<string key="ui_poi_underworld_07_5">Thalass</string>
+	<string key="ui_poi_underworld_08_1">Chasma</string>
+	<string key="ui_poi_underworld_08_2">Pagri</string>
+	<string key="ui_poi_underworld_08_3">Sanctra</string>
+	<string key="ui_poi_underworld_08_4">Nixa</string>
+	<string key="ui_poi_underworld_01">Bitu Mortii</string>
+	<string key="ui_poi_underworld_01A">Bitu Zaqiqu</string>
+	<string key="ui_poi_underworld_01_description">Each step, another push closer to hell on earth. Another soul vanished, another voice disappeared. The builder king's own creation was also his destination.\nWhat's in the Dark?\n\n&lt;font color="#EDC63E"&gt;Source of Anima Quartz&lt;/font&gt;</string>
+	<string key="ui_poi_underworld_01_1">Gravesend</string>
+	<string key="ui_poi_underworld_01_2">Umbrio</string>
+	<string key="ui_poi_underworld_01_3">Nubilum</string>
+	<string key="ui_poi_underworld_01_4">Necrovorn</string>
+	<string key="ui_poi_underworld_09">Bitu Fantoma</string>
+	<string key="ui_poi_underworld_09A">Fantoma Cinerium</string>
+	<string key="ui_poi_underworld_09B">Cinerium Verspertine</string>
+	<string key="ui_poi_underworld_09A_description">Baba told me bedtime stories of the legend of the Builder-King. She said it is oft-whispered between the smallfolk. Baba said that like Atlas he held up the world. For all his miracles, a final reward was the taste of blood in his mouth and the smell of ash in his hair, and a brave soul forever trapped in mercury down below.\n\n&lt;font color="#EDC63E"&gt;Source of Anima Quartz&lt;/font&gt;</string>
+	<string key="ui_poi_underworld_09_1">Vespertine</string>
+	<string key="ui_poi_underworld_09_2">Subterra</string>
+	<string key="ui_poi_underworld_09_3">Tenebris</string>
+	<string key="ui_poi_underworld_09_4">Fantoma</string>
+	<string key="ui_poi_underworld_09_5">Aeris</string>
+	<string key="ui_poi_underworld_09_6">Umbre</string>
+	<string key="ui_poi_underworld_10">Bitu Suferi</string>
+	<string key="ui_poi_underworld_10A">Sanguro Ukkulu</string>
+	<string key="ui_poi_underworld_10_description">The legend of the Builder-King and the giant architects is forbidden by proclamation of the ruling class. Baba said that he was promised a Crown, and yet on coronation day, it was a folded crown of paper. He was burned alive instead. All that legend turned into dust, and the giants were left with eternal silence.\n\n&lt;font color="#EDC63E"&gt;Source of Anima Quartz&lt;/font&gt;</string>
+	<string key="ui_poi_underworld_10_1">Labaris</string>
+	<string key="ui_poi_underworld_10_2">Sanguro</string>
+	<string key="ui_poi_underworld_10_3">Chasmor</string>
+	<string key="ui_poi_underworld_10_4">Suferi</string>
+	<string key="ui_poi_underworld_10_5">Durere</string>
+	<string key="ui_poi_outpost_10330_Inn">Grand Carnival</string>
 </resources>
 

@@ -2438,6 +2438,12 @@
 	<string key="2hBlunderbussAncestralLLT5_TransmogName">Mesolithic Blunderbuss</string>
 	<string key="2hGreatswordAncestralLLT5_TransmogName">Mesolithic Greatsword</string>
 	<string key="1hFlailAncestralLLT5_TransmogName" rel_version="Weapon_Flail">Mesolithic Flail</string>
+	<string key="1hRapierInquisitorT5_TransmogName" rel_version="Season_10_Perm">Inquisitor Rapier</string>
+	<string key="2hSpearInquisitorT5_TransmogName" rel_version="Season_10_Perm">Inquisitor Spear</string>
+	<string key="2hWarhammerInquisitorT5_TransmogName" rel_version="Season_10_Perm">Inquisitor War Hammer</string>
+	<string key="2hFireStaffInquisitorT5_TransmogName" rel_version="Season_10_Perm">Inquisitor Fire Staff</string>
+	<string key="2hVoidGauntletInquisitorT5_TransmogName" rel_version="Season_10_Perm">Inquisitor Void Gauntlet</string>
+	<string key="2hBlunderbussInquisitorT5_TransmogName" rel_version="Season_10_Perm">Inquisitor Blunderbuss</string>
 	<string key="2hBowNagaWitheredT5_TransmogName" rel_version="Entitlements_January_2022">Flotsam Bow</string>
 	<string key="2hGreatAxeNagaWitheredT5_TransmogName" rel_version="Entitlements_January_2022">Flotsam Great Axe</string>
 	<string key="1hKiteShieldNagaWitheredT5_TransmogName" rel_version="Entitlements_January_2022">Flotsam Kite Shield</string>
@@ -4000,6 +4006,16 @@
 	<string key="2hBlunderbussCrystalclawT5_TransmogName" rel_version="Expedition_FirstLight_01">Crystalclaw Blunderbuss</string>
 	<string key="2hGreatswordCrystalclawT5_TransmogName" rel_version="Expedition_FirstLight_01">Crystalclaw Greatsword</string>
 	<string key="1hFlailCrystalclawT5_TransmogName" rel_version="Expedition_FirstLight_01">Crystalclaw Flail</string>
+	<string key="InquisitorWarden_chest_TransmogName" rel_version="Season_10_Perm">Heretic's Cuirass</string>
+	<string key="InquisitorWarden_legs_TransmogName" rel_version="Season_10_Perm">Heretic's Greaves</string>
+	<string key="InquisitorWarden_feet_TransmogName" rel_version="Season_10_Perm">Heretic's Sabatons</string>
+	<string key="InquisitorMarkswoman_chest_TransmogName" rel_version="Season_10_Perm">Heretic's Coat</string>
+	<string key="InquisitorMarkswoman_head_TransmogName" rel_version="Season_10_Perm">Heretic's Cap</string>
+	<string key="InquisitorMarkswoman_legs_TransmogName" rel_version="Season_10_Perm">Heretic's Leggings</string>
+	<string key="InquisitorMarkswoman_feet_TransmogName" rel_version="Season_10_Perm">Heretic's Gloves</string>
+	<string key="InquisitorMarkswoman_gloves_TransmogName" rel_version="Season_10_Perm">Heretic's Boots</string>
+	<string key="InquisitorCleric_head_TransmogName" rel_version="Season_10_Perm">Heretic's Brank</string>
+	<string key="InquisitorCleric_feet_TransmogName" rel_version="Season_10_Perm">Heretic's Treads</string>
 	<string key="robinHood_head_TransmogName">Robin Hood Helm - Light Headwear</string>
 	<string key="robinHood_chest_TransmogName">Robin Hood Coat - Light Chestwear</string>
 	<string key="robinHood_hands_TransmogName">Robin Hood Gloves - Light Handwear</string>
@@ -5408,7 +5424,139 @@
 	<string key="2hGreatAxeBlackboneT5_TransmogName" rel_version="Territory_Cutlasskeys_rework">Blackbone Great Axe</string>
 	<string key="1hSwordBlackboneT5_TransmogName" rel_version="Territory_Cutlasskeys_rework">Blackbone Longsword</string>
 	<string key="2hSpearBlackboneT5_TransmogName" rel_version="Territory_Cutlasskeys_rework">Blackbone Spear</string>
+	<string key="app_Monarch_Bow_Name" rel_version="Raid_MonarchsBluffs_00">Breton Bow</string>
+	<string key="app_Monarch_Greataxe_Name" rel_version="Raid_MonarchsBluffs_00">Breton Greataxe</string>
+	<string key="app_Monarch_KiteShield_Name" rel_version="Raid_MonarchsBluffs_00">Breton Kite Shield</string>
+	<string key="app_Monarch_Flail_Name" rel_version="Raid_MonarchsBluffs_00">Breton Flail</string>
+	<string key="app_Monarch_Sword_Name" rel_version="Raid_MonarchsBluffs_00">Breton Sword</string>
+	<string key="app_Monarch_Musket_Name" rel_version="Raid_MonarchsBluffs_00">Breton Musket</string>
+	<string key="app_Monarch_Rapier_Name" rel_version="Raid_MonarchsBluffs_00">Breton Rapier</string>
+	<string key="app_Monarch_RoundShield_Name" rel_version="Raid_MonarchsBluffs_00">Breton Round Shield</string>
+	<string key="app_Monarch_Spear_Name" rel_version="Raid_MonarchsBluffs_00">Breton Spear</string>
+	<string key="app_Monarch_Hatchet_Name" rel_version="Raid_MonarchsBluffs_00">Breton Hatchet</string>
+	<string key="app_Monarch_Warhammer_Name" rel_version="Raid_MonarchsBluffs_00">Breton Warhammer</string>
+	<string key="app_Monarch_FireStaff_Name" rel_version="Raid_MonarchsBluffs_00">Breton Fire Staff</string>
+	<string key="app_Monarch_LifeStaff_Name" rel_version="Raid_MonarchsBluffs_00">Breton Life Staff</string>
+	<string key="app_Monarch_TowerShield_Name" rel_version="Raid_MonarchsBluffs_00">Breton Tower Shield</string>
+	<string key="app_Monarch_IceGauntlet_Name" rel_version="Raid_MonarchsBluffs_00">Breton Ice Gauntlet</string>
+	<string key="app_Monarch_VoidGauntlet_Name" rel_version="Raid_MonarchsBluffs_00">Breton Void Gauntlet</string>
+	<string key="app_Monarch_Blunderbuss_Name" rel_version="Raid_MonarchsBluffs_00">Breton Blunderbuss</string>
+	<string key="app_Monarch_Greatsword_Name" rel_version="Raid_MonarchsBluffs_00">Breton Greatsword</string>
+	<string key="m_monarch_light_chest_TransmogName" rel_version="Raid_MonarchsBluffs_00">Breton Jacket</string>
+	<string key="m_monarch_light_head_TransmogName" rel_version="Raid_MonarchsBluffs_00">Breton Headwear</string>
+	<string key="m_monarch_light_legs_TransmogName" rel_version="Raid_MonarchsBluffs_00">Breton Leggings</string>
+	<string key="m_monarch_light_feet_TransmogName" rel_version="Raid_MonarchsBluffs_00">Breton Shoes</string>
+	<string key="m_monarch_light_gloves_TransmogName" rel_version="Raid_MonarchsBluffs_00">Breton Handcovers</string>
+	<string key="m_monarch_medium_chest_TransmogName" rel_version="Raid_MonarchsBluffs_00">Breton Coat</string>
+	<string key="m_monarch_medium_head_TransmogName" rel_version="Raid_MonarchsBluffs_00">Breton Hat</string>
+	<string key="m_monarch_medium_legs_TransmogName" rel_version="Raid_MonarchsBluffs_00">Breton Pants</string>
+	<string key="m_monarch_medium_feet_TransmogName" rel_version="Raid_MonarchsBluffs_00">Breton Boots</string>
+	<string key="m_monarch_medium_gloves_TransmogName" rel_version="Raid_MonarchsBluffs_00">Breton Gloves</string>
+	<string key="m_monarch_heavy_chest_TransmogName" rel_version="Raid_MonarchsBluffs_00">Breton Breastplate</string>
+	<string key="m_monarch_heavy_head_TransmogName" rel_version="Raid_MonarchsBluffs_00">Breton Helm</string>
+	<string key="m_monarch_heavy_legs_TransmogName" rel_version="Raid_MonarchsBluffs_00">Breton Leg Guards</string>
+	<string key="m_monarch_heavy_feet_TransmogName" rel_version="Raid_MonarchsBluffs_00">Breton Greaves</string>
+	<string key="m_monarch_heavy_gloves_TransmogName" rel_version="Raid_MonarchsBluffs_00">Breton Gauntlets</string>
 	<string key="LoggingAxeFuryOfTheSprigganT5_MasterName" rel_version="Event_SpringtideBloom_2025_Perm">TEMP NAME</string>
 	<string key="LoggingAxeFuryOfTheSprigganT5_Description" rel_version="Event_SpringtideBloom_2025_Perm">TEMP NAME</string>
+	<string key="ancestralheavy_chest_m_TransmogName">Marauder Ancestral Heavy Chestwear</string>
+	<string key="ancestralheavy_head_m_TransmogName">Marauder Ancestral Heavy Headwear</string>
+	<string key="ancestralheavy_legs_m_TransmogName">Marauder Ancestral Heavy Legwear</string>
+	<string key="ancestralheavy_feet_m_TransmogName">Marauder Ancestral Heavy Footwear</string>
+	<string key="ancestralheavy_gloves_m_TransmogName">Marauder Ancestral Heavy Handwear</string>
+	<string key="ancestralmedium_chest_m_TransmogName">Marauder Ancestral Medium Chestwear</string>
+	<string key="ancestralmedium_head_m_TransmogName">Marauder Ancestral Medium Headwear</string>
+	<string key="ancestralmedium_legs_m_TransmogName">Marauder Ancestral Medium Legwear</string>
+	<string key="ancestralmedium_feet_m_TransmogName">Marauder Ancestral Medium Footwear</string>
+	<string key="ancestralmedium_gloves_m_TransmogName">Marauder Ancestral Medium Handwear</string>
+	<string key="ancestrallight_chest_m_TransmogName">Marauder Ancestral Light Chestwear</string>
+	<string key="ancestrallight_head_m_TransmogName">Marauder Ancestral Light Headwear</string>
+	<string key="ancestrallight_legs_m_TransmogName">Marauder Ancestral Light Legwear</string>
+	<string key="ancestrallight_feet_m_TransmogName">Marauder Ancestral Light Footwear</string>
+	<string key="ancestrallight_gloves_m_TransmogName">Marauder Ancestral Light Handwear</string>
+	<string key="ancestralheavy_chest_c_TransmogName">Covenant Ancestral Heavy Chestwear</string>
+	<string key="ancestralheavy_head_c_TransmogName">Covenant Ancestral Heavy Headwear</string>
+	<string key="ancestralheavy_legs_c_TransmogName">Covenant Ancestral Heavy Legwear</string>
+	<string key="ancestralheavy_feet_c_TransmogName">Covenant Ancestral Heavy Footwear</string>
+	<string key="ancestralheavy_gloves_c_TransmogName">Covenant Ancestral Heavy Handwear</string>
+	<string key="ancestralmedium_chest_c_TransmogName">Covenant Ancestral Medium Chestwear</string>
+	<string key="ancestralmedium_head_c_TransmogName">Covenant Ancestral Medium Headwear</string>
+	<string key="ancestralmedium_legs_c_TransmogName">Covenant Ancestral Medium Legwear</string>
+	<string key="ancestralmedium_feet_c_TransmogName">Covenant Ancestral Medium Footwear</string>
+	<string key="ancestralmedium_gloves_c_TransmogName">Covenant Ancestral Medium Handwear</string>
+	<string key="ancestrallight_chest_c_TransmogName">Covenant Ancestral Light Chestwear</string>
+	<string key="ancestrallight_head_c_TransmogName">Covenant Ancestral Light Headwear</string>
+	<string key="ancestrallight_legs_c_TransmogName">Covenant Ancestral Light Legwear</string>
+	<string key="ancestrallight_feet_c_TransmogName">Covenant Ancestral Light Footwear</string>
+	<string key="ancestrallight_gloves_c_TransmogName">Covenant Ancestral Light Handwear</string>
+	<string key="ancestralheavy_chest_s_TransmogName">Syndicate Ancestral Heavy Chestwear</string>
+	<string key="ancestralheavy_head_s_TransmogName">Syndicate Ancestral Heavy Headwear</string>
+	<string key="ancestralheavy_legs_s_TransmogName">Syndicate Ancestral Heavy Legwear</string>
+	<string key="ancestralheavy_feet_s_TransmogName">Syndicate Ancestral Heavy Footwear</string>
+	<string key="ancestralheavy_gloves_s_TransmogName">Syndicate Ancestral Heavy Handwear</string>
+	<string key="ancestralmedium_chest_s_TransmogName">Syndicate Ancestral Medium Chestwear</string>
+	<string key="ancestralmedium_head_s_TransmogName">Syndicate Ancestral Medium Headwear</string>
+	<string key="ancestralmedium_legs_s_TransmogName">Syndicate Ancestral Medium Legwear</string>
+	<string key="ancestralmedium_feet_s_TransmogName">Syndicate Ancestral Medium Footwear</string>
+	<string key="ancestralmedium_gloves_s_TransmogName">Syndicate Ancestral Medium Handwear</string>
+	<string key="ancestrallight_chest_s_TransmogName">Syndicate Ancestral Light Chestwear</string>
+	<string key="ancestrallight_head_s_TransmogName">Syndicate Ancestral Light Headwear</string>
+	<string key="ancestrallight_legs_s_TransmogName">Syndicate Ancestral Light Legwear</string>
+	<string key="ancestrallight_feet_s_TransmogName">Syndicate Ancestral Light Footwear</string>
+	<string key="ancestrallight_gloves_s_TransmogName">Syndicate Ancestral Light Handwear</string>
+	<string key="2hBowAncient2AncestralT5_M_TransmogName">Marauder Ancestral Bow</string>
+	<string key="2hGreatAxeAncient2AncestralT5_M_TransmogName">Marauder Ancestral Great Axe</string>
+	<string key="1hKiteShieldAncient2AncestralT5_M_TransmogName">Marauder Ancestral Kite Shield</string>
+	<string key="1hFlailAncient2AncestralT5_M_TransmogName">Marauder Ancestral Flail</string>
+	<string key="1hSwordAncient2AncestralT5_M_TransmogName">Marauder Ancestral Sword</string>
+	<string key="2hMusketAncient2AncestralT5_M_TransmogName">Marauder Ancestral Musket</string>
+	<string key="1hRapierAncient2AncestralT5_M_TransmogName">Marauder Ancestral Rapier</string>
+	<string key="1hRoundShieldAncient2AncestralT5_M_TransmogName">Marauder Ancestral Round Shield</string>
+	<string key="2hSpearAncient2AncestralT5_M_TransmogName">Marauder Ancestral Spear</string>
+	<string key="1hHatchetAncient2AncestralT5_M_TransmogName">Marauder Ancestral Hatchet</string>
+	<string key="2hWarhammerAncient2AncestralT5_M_TransmogName">Marauder Ancestral War hammer</string>
+	<string key="2hFireStaffAncient2AncestralT5_M_TransmogName">Marauder Ancestral Fire Staff</string>
+	<string key="2hLifeStaffAncient2AncestralT5_M_TransmogName">Marauder Ancestral Life Staff</string>
+	<string key="1hTowerShieldAncestralT5_M_TransmogName">Marauder Ancestral Tower Shield</string>
+	<string key="2hIceGauntletAncestralT5_M_TransmogName">Marauder Ancestral Ice Gauntlet</string>
+	<string key="2hVoidGauntletAncestralT5_M_TransmogName">Marauder Ancestral Void Gauntlet</string>
+	<string key="2hBlunderbussAncient2AncestralT5_M_TransmogName">Marauder Ancestral Blunderbuss</string>
+	<string key="2hGreatswordAncient2AncestralT5_M_TransmogName">Marauder Ancestral Greatsword</string>
+	<string key="2hBowAncient2AncestralT5_C_TransmogName">Covenant Ancestral Bow</string>
+	<string key="2hGreatAxeAncient2AncestralT5_C_TransmogName">Covenant Ancestral Great Axe</string>
+	<string key="1hKiteShieldAncient2AncestralT5_C_TransmogName">Covenant Ancestral Kite Shield</string>
+	<string key="1hFlailAncient2AncestralT5_C_TransmogName">Covenant Ancestral Flail</string>
+	<string key="1hSwordAncient2AncestralT5_C_TransmogName">Covenant Ancestral Sword</string>
+	<string key="2hMusketAncient2AncestralT5_C_TransmogName">Covenant Ancestral Musket</string>
+	<string key="1hRapierAncient2AncestralT5_C_TransmogName">Covenant Ancestral Rapier</string>
+	<string key="1hRoundShieldAncient2AncestralT5_C_TransmogName">Covenant Ancestral Round Shield</string>
+	<string key="2hSpearAncient2AncestralT5_C_TransmogName">Covenant Ancestral Spear</string>
+	<string key="1hHatchetAncient2AncestralT5_C_TransmogName">Covenant Ancestral Hatchet</string>
+	<string key="2hWarhammerAncient2AncestralT5_C_TransmogName">Covenant Ancestral War hammer</string>
+	<string key="2hFireStaffAncient2AncestralT5_C_TransmogName">Covenant Ancestral Fire Staff</string>
+	<string key="2hLifeStaffAncient2AncestralT5_C_TransmogName">Covenant Ancestral Life Staff</string>
+	<string key="1hTowerShieldAncestralT5_C_TransmogName">Covenant Ancestral Tower Shield</string>
+	<string key="2hIceGauntletAncestralT5_C_TransmogName">Covenant Ancestral Ice Gauntlet</string>
+	<string key="2hVoidGauntletAncestralT5_C_TransmogName">Covenant Ancestral Void Gauntlet</string>
+	<string key="2hBlunderbussAncient2AncestralT5_C_TransmogName">Covenant Ancestral Blunderbuss</string>
+	<string key="2hGreatswordAncient2AncestralT5_C_TransmogName">Covenant Ancestral Greatsword</string>
+	<string key="2hBowAncient2AncestralT5_S_TransmogName">Syndicate Ancestral Bow</string>
+	<string key="2hGreatAxeAncient2AncestralT5_S_TransmogName">Syndicate Ancestral Great Axe</string>
+	<string key="1hKiteShieldAncient2AncestralT5_S_TransmogName">Syndicate Ancestral Kite Shield</string>
+	<string key="1hFlailAncient2AncestralT5_S_TransmogName">Syndicate Ancestral Flail</string>
+	<string key="1hSwordAncient2AncestralT5_S_TransmogName">Syndicate Ancestral Sword</string>
+	<string key="2hMusketAncient2AncestralT5_S_TransmogName">Syndicate Ancestral Musket</string>
+	<string key="1hRapierAncient2AncestralT5_S_TransmogName">Syndicate Ancestral Rapier</string>
+	<string key="1hRoundShieldAncient2AncestralT5_S_TransmogName">Syndicate Ancestral Round Shield</string>
+	<string key="2hSpearAncient2AncestralT5_S_TransmogName">Syndicate Ancestral Spear</string>
+	<string key="1hHatchetAncient2AncestralT5_S_TransmogName">Syndicate Ancestral Hatchet</string>
+	<string key="2hWarhammerAncient2AncestralT5_S_TransmogName">Syndicate Ancestral War hammer</string>
+	<string key="2hFireStaffAncient2AncestralT5_S_TransmogName">Syndicate Ancestral Fire Staff</string>
+	<string key="2hLifeStaffAncient2AncestralT5_S_TransmogName">Syndicate Ancestral Life Staff</string>
+	<string key="1hTowerShieldAncestralT5_S_TransmogName">Syndicate Ancestral Tower Shield</string>
+	<string key="2hIceGauntletAncestralT5_S_TransmogName">Syndicate Ancestral Ice Gauntlet</string>
+	<string key="2hVoidGauntletAncestralT5_S_TransmogName">Syndicate Ancestral Void Gauntlet</string>
+	<string key="2hBlunderbussAncient2AncestralT5_S_TransmogName">Syndicate Ancestral Blunderbuss</string>
+	<string key="2hGreatswordAncient2AncestralT5_S_TransmogName">Syndicate Ancestral Greatsword</string>
 </resources>
 

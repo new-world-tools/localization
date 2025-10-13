@@ -28,6 +28,8 @@ Discover the full collection of rewards, including &lt;font color="#edc63e"&gt;7
 	<string key="data_season_08_display_name" rel_version="Season_8_Perm">Season 8</string>
 	<string key="data_season_09_name" rel_version="Season_9_Perm">Season 9: Season of the Banner</string>
 	<string key="data_season_09_display_name" rel_version="Season_9_Perm">Season 9</string>
+	<string key="data_season_10_name" rel_version="Season_10_Perm">Season 10: Season of Nighthaven</string>
+	<string key="data_season_10_display_name" rel_version="Season_10_Perm">Season 10</string>
 	<string key="seasons_rewards_categorical_progression_id" rel_version="Feature_Seasons_Rewards">Season Pass</string>
 	<string key="seasons_rewards_tab_battlepass" rel_version="Feature_Seasons_Rewards">Battle Pass</string>
 	<string key="seasons_rewards_tab_journey" rel_version="Feature_Seasons_Rewards">Journey</string>
@@ -1182,5 +1184,33 @@ Discover the full collection of rewards, including &lt;font color="#edc63e"&gt;7
 	<string key="ui_seasons_task_name_Challenge_S9_KillPlayerCutlassKeys" rel_version="Season_9_Perm">Player Plunderer</string>
 	<string key="ui_seasons_task_name_Challenge_S9_CraftGS725" rel_version="Season_9_Perm">Blinged Out</string>
 	<string key="ui_seasons_task_name_Challenge_S9_WinWar" rel_version="Season_9_Perm">Warhawk</string>
+	<string key="ui_seasons_task_name_KillLostS10_1" rel_version="Season_10_Perm">Bring Out Your Dead I</string>
+	<string key="ui_seasons_task_name_KillLostS10_2" rel_version="Season_10_Perm">Bring Out Your Dead II</string>
+	<string key="ui_seasons_task_name_KillLostS10_3" rel_version="Season_10_Perm">Bring Out Your Dead III</string>
+	<string key="ui_seasons_task_name_KillLostS10_4" rel_version="Season_10_Perm">Bring Out Your Dead IV</string>
+	<string key="ui_seasons_task_description_KillLost60" rel_version="Season_10_Perm">Kill {maxCount} L60+ Lost Enemies</string>
+	<string key="ui_seasons_task_description_KillLost65Nighthaven" rel_version="Season_10_Perm">Kill {maxCount} L65+ Lost Enemies in Nighthaven</string>
+	<string key="ui_seasons_task_name_KillPlayerInOpenWorld_5" rel_version="Season_10_Perm">Open World Menace V</string>
+	<string key="ui_seasons_task_description_Play3v3_Single" rel_version="Season_10_Perm">Participate in a 3v3 Arena match</string>
+	<string key="ui_seasons_task_description_KillPlayerInOpenWorld_Single" rel_version="Season_10_Perm">Kill a Player in the Open World</string>
+	<string key="ui_seasons_task_description_KillElite65" rel_version="Season_10_Perm">Kill {maxCount} L65+ Elite Enemies</string>
+	<string key="ui_seasons_task_name_CategoricalProgressionUmbral" rel_version="Season_10_Perm">Umbralmonger</string>
+	<string key="ui_seasons_task_description_CategoricalProgressionUmbral" rel_version="Season_10_Perm">Earn {maxCount} Umbral</string>
+	<string key="ui_seasons_task_name_CraftPerkCharms" rel_version="Season_10_Perm">Charmed I'm Sure</string>
+	<string key="ui_seasons_task_description_CraftPerkCharms" rel_version="Season_10_Perm">Craft {maxCount} Perk Charms</string>
+	<string key="ui_seasons_task_name_CategoricalProgressionCrowns" rel_version="Season_10_Perm">Open the Crypts</string>
+	<string key="ui_seasons_task_description_CategoricalProgressionCrowns" rel_version="Season_10_Perm">Earn {maxCount} Cleansed Crowns</string>
+	<string key="ui_seasons_task_name_ReachLevel70" rel_version="Season_10_Perm">The Journey Continues</string>
+	<string key="ui_seasons_task_description_ReachLevel70" rel_version="Season_10_Perm">Reach level 70</string>
+	<string key="ui_seasons_task_name_Challenge_S10_InteractCatacombsPowerup" rel_version="Season_10_Perm">Catacombs Champion</string>
+	<string key="ui_seasons_task_description_Challenge_S10_InteractCatacombsPowerup" rel_version="Season_10_Perm">Activate a Powerup or Idol of Ascension {maxCount} times in Catacombs</string>
+	<string key="ui_seasons_task_name_Challenge_S10_KillCatacombsBoss" rel_version="Season_10_Perm">Dungeon Keeper</string>
+	<string key="ui_seasons_task_description_Challenge_S10_KillCatacombsBoss" rel_version="Season_10_Perm">Kill {maxCount} Bosses in Catacombs for Cursed Crowns</string>
+	<string key="ui_seasons_task_name_Challenge_S10_CompleteTaskAnyChapter" rel_version="Season_10_Perm">Nighthaven Completionist</string>
+	<string key="ui_seasons_task_description_Challenge_S10_CompleteTaskAnyChapter" rel_version="Season_10_Perm">Complete 75% (30) of this Season's Journey Tasks</string>
+	<string key="ui_seasons_task_name_Challenge_S10_KillLost75Nighthaven" rel_version="Season_10_Perm">Castle Mania</string>
+	<string key="ui_seasons_task_description_Challenge_S10_KillLost75Nighthaven" rel_version="Season_10_Perm">Kill {maxCount} L70+ Lost Enemies in Nighthaven</string>
+	<string key="ui_seasons_task_name_Challenge_S10_CategoricalProgressionPvPXP" rel_version="Season_10_Perm">Brow Beater</string>
+	<string key="ui_seasons_task_description_Challenge_S10_CategoricalProgressionPvPXP" rel_version="Season_10_Perm">Earn {maxCount} PvP XP from Killing Players</string>
 </resources>
 

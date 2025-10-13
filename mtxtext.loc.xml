@@ -1270,7 +1270,7 @@
 	<string key="angelicsatin_dye_name" rel_version="Entitlements_December">Angelic Satin</string>
 	<string key="tradewind_dye_name" rel_version="Dyes_Launch">Tradewind</string>
 	<string key="bluedsteel_dye_name" rel_version="MTX_October_Skins">Blued Steel</string>
-	<string key="supremesaphire_dye_name" rel_version="Entitlements_January_2022">Supreme Saphire</string>
+	<string key="supremesaphire_dye_name" rel_version="Entitlements_January_2022">Supreme Sapphire</string>
 	<string key="fiercecobalt_dye_name" rel_version="Entitlements_December">Fierce Cobalt</string>
 	<string key="springgrape_dye_name" rel_version="MTX_October_Skins">Spring Grape</string>
 	<string key="tranquilblossom_dye_name" rel_version="Entitlements_January_2022">Tranquil Blossom</string>
@@ -1289,7 +1289,7 @@
 	<string key="silver_dye_x10_name" rel_version="Entitlements_November">Sharp Silver</string>
 	<string key="blond_dye_x10_name" rel_version="Entitlements_February_2022">Blond</string>
 	<string key="blood_dye_x10_name" rel_version="MTX_October_Skins">Blood</string>
-	<string key="supremesaphire_dye_x10_name" rel_version="Entitlements_January_2022">Supreme Saphire</string>
+	<string key="supremesaphire_dye_x10_name" rel_version="Entitlements_January_2022">Supreme Sapphire</string>
 	<string key="forestgreen_dye_x10_name" rel_version="Dyes_Launch">Forest Green</string>
 	<string key="deepvelvet_dye_x10_name" rel_version="Entitlements_November">Deep Velvet</string>
 	<string key="softcoal_dye_x10_name" rel_version="Entitlements_February_2022">Soft Coal</string>
@@ -1354,7 +1354,23 @@
 	<string key="mtx_summer_store">Summer</string>
 	<string key="SeasonPass_Premium_Season_9_name" rel_version="Season_9_Perm">Premium Pass - Season 9</string>
 	<string key="SeasonPass_HeadStart_Season_9_name" rel_version="Season_9_Perm">Premium Pass Head Start - Season 9</string>
+	<string key="StoreItem_Bundle_EnigmaGreen_name" rel_version="Season_10_Perm">Abyss Dredger Bundle</string>
+	<string key="StoreItem_Bundle_EnigmaGreen_description" rel_version="Season_10_Perm">For on strange isles, even death may die.</string>
 	<string key="StoreItem_Apparel_Summerwear_name" rel_version="Season_9_Perm">Sovereign's Swimwear</string>
 	<string key="StoreItem_Apparel_Summerwear_description" rel_version="Season_9_Perm">Let down your crown and have some fun in the sun.</string>
+	<string key="StoreItem_Apparel_DarkFeminineMage_name" rel_version="Season_10_Perm">Shadesilk Regalia</string>
+	<string key="StoreItem_Apparel_DarkFeminineMage_description" rel_version="Season_10_Perm">When the day goes to sleep, midnight covens waltz the night away.</string>
+	<string key="StoreItem_Bundle_CosmicMoon_name" rel_version="Season_10_Perm">Lunar Solstice Bundle</string>
+	<string key="StoreItem_Bundle_CosmicMoon_description" rel_version="Season_10_Perm">Under the light of the moon, a new hunt begins.</string>
+	<string key="StoreItem_Bundle_CelestialSeraphim_name" rel_version="Season_10_Perm">Dies Irae Bundle</string>
+	<string key="StoreItem_Bundle_CelestialSeraphim_description" rel_version="Season_10_Perm">The wrath of the heavens will descend and wipe away all sins.</string>
+	<string key="reward_type_Mount_Grunt" rel_version="Season_10_Perm">Grunt Mount</string>
+	<string key="reward_type_Mount_Fox" rel_version="Season_10_Perm">Fox Mount</string>
+	<string key="StoreItem_Bundle_ApocalypseRidersDeath_name" rel_version="Season_10_Perm">Pale Horseman Bundle</string>
+	<string key="StoreItem_Bundle_ApocalypseRidersDeath_description" rel_version="Season_10_Perm">And its rider's name was something unknown to the isles of Aeternum.</string>
+	<string key="SeasonPass_Premium_Season_10_name" rel_version="Season_9_Perm">Premium Pass - Season 10</string>
+	<string key="SeasonPass_HeadStart_Season_10_name" rel_version="Season_9_Perm">Premium Pass Head Start - Season 10</string>
+	<string key="StoreItem_Bundle_Hanya_name" rel_version="Season_10_Perm">Vengeful Spirit Bundle</string>
+	<string key="StoreItem_Bundle_Hanya_description" rel_version="Season_10_Perm">Give in to your anger and go get some revenge.</string>
 </resources>
 

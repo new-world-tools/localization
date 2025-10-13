@@ -71,8 +71,6 @@
 	<string key="ui_summermedley_maudlinbugwaltz">Maudlinbug Swarm</string>
 	<string key="ui_summermedley_maudlinbugwaltz_description">A swarm of Maudlinbugs has formed! Grab a guitar and perform the entrancing melody of the Maudlinbug Haze to capitivate and catch those bumbling bugs!</string>
 	<string key="ui_summermedley_shredlyfair" rel_version="Event_Summer2023_Perm">Concert Stage</string>
-	<string key="ui_summermedley_sturgeonhotspot" rel_version="Event_Summer_Temp">Aeternum Sturgeon Fishing Hotspot</string>
-	<string key="ui_summermedley_sturgeonhotspot_description" rel_version="Event_Summer_Temp">A school of glittering Aeternum Sturgeons! Cast a line to land the best catch in all Aeternum and supply the Medleyfaire!</string>
 	<string key="ui_preddieu_farm_attack" rel_version="Quest_MSQ2_Revamp">Sneed's Revenge</string>
 	<string key="ui_preddieu_farm_attack_description" rel_version="Quest_MSQ2_Revamp">Farmer Sneed still thinks this land is his and will stop at nothing to reclaim it. Protect the farms and drive him away.</string>
 	<string key="objective_preddieu_farm_attack_title">Stop Lost from Destroying Supplies</string>
@@ -101,6 +99,10 @@
 	<string key="event_completed">Event Completed</string>
 	<string key="ui_nightveil_worldboss_baalphazu">Baalphazu's Rising</string>
 	<string key="ui_nightveil_worldboss_baalphazu_description">Nightveil Hallow has brought with it the dark entity Baalphazu, the Marquis of Terror and lord of his legion of Pumpkinites!</string>
+	<string key="objective_worldboss_task_clearpumpkinites_title" rel_version="Event_Halloween_Temp">Clear the Field of Pumpkinites!</string>
+	<string key="objective_worldboss_task_clearpumpkinites_desc" rel_version="Event_Halloween_Temp">Pumpkinites Remaining: {remainingCount}</string>
+	<string key="objective_worldboss_task_destroybaalphazu_title" rel_version="Event_Halloween_Temp">Destroy Baalphazu's Physical Form</string>
+	<string key="objective_worldboss_task_destroybaalphazu_desc" rel_version="Event_Halloween_Temp">Weaponize Pumpklin Heads Against Baalphazu to Break His Defenses.</string>
 	<string key="ui_winterconv_worldboss_winterwarrior">The Forever Winter</string>
 	<string key="ui_winterconv_worldboss_winterwarrior_description">The Winter Warrior and his legion of Frigid Folk are spreading the beginnings of the Forever Winter across Aeternum!</string>
 	<string key="ui_legion_outpost_attack" rel_version="Territory_Brimstone_Sands">Brimstone Under Siege</string>
@@ -176,6 +178,22 @@
 	<string key="04A_Encounter_Zane_Boss_Obj_Enc_task_defeat_desc" rel_version="Quest_MSQ2_Revamp">With Centurion Maecia weakened, deal the finishing blow.</string>
 	<string key="04A_Encounter_Zane_Boss_Obj_Enc_task_setup" rel_version="Quest_MSQ2_Revamp">Defeat Centurion Maecia</string>
 	<string key="04A_Encounter_Zane_Boss_Obj_Enc_task_setup_desc" rel_version="Quest_MSQ2_Revamp">Confront Centurion Maecia</string>
+	<string key="DW_Encounter_Arcanist_Enc_Title_Intro" rel_version="Territory_Dunwood">Arcanist's Hold</string>
+	<string key="DW_Encounter_Arcanist_Enc_Title_Intro_description" rel_version="Territory_Dunwood">Elite Stronghold Siege: &lt;font color="#edc63e"&gt;Not Started&lt;/font&gt;\n\nStorm the keep of a mighty Arcanist lost to time.</string>
+	<string key="DW_Encounter_Arcanist_Enc_Title_Active" rel_version="Territory_Dunwood">Arcanist's Hold</string>
+	<string key="DW_Encounter_Arcanist_Enc_Title_Active_description" rel_version="Territory_Dunwood">Elite Stronghold Siege: &lt;font color="#00ff00"&gt;In Progress&lt;/font&gt;\n\nStorm the keep of a mighty Arcanist lost to time.</string>
+	<string key="DW_Encounter_Arcanist_Enc_Title_Inactive" rel_version="Territory_Dunwood">Arcanist's Hold</string>
+	<string key="DW_Encounter_Arcanist_Enc_Title_Inactive_description" rel_version="Territory_Dunwood">Elite Stronghold Siege: &lt;font color="#ff0000"&gt;Completed&lt;/font&gt;\n\nStorm the keep of a mighty Arcanist lost to time.</string>
+	<string key="DW_Encounter_Arcanist_Enc_task_Trial" rel_version="Territory_Dunwood">Arcanist's Trial</string>
+	<string key="DW_Encounter_Arcanist_Enc_task_Trial_desc" rel_version="Territory_Dunwood">Survive the trial to earn the right to confront the Arcanist \nTime Remaining: </string>
+	<string key="DW_Encounter_Arcanist_Enc_task_Enter" rel_version="Territory_Dunwood">Arcanist's Invitation</string>
+	<string key="DW_Encounter_Arcanist_Enc_task_Enter_desc" rel_version="Territory_Dunwood">Enter the room too confront the Arcanist.</string>
+	<string key="DW_Encounter_Arcanist_Enc_task_Fight" rel_version="Territory_Dunwood">Arcanist's Fall</string>
+	<string key="DW_Encounter_Arcanist_Enc_task_Fight_desc" rel_version="Territory_Dunwood">Defeat the Arcanist.</string>
+	<string key="DW_Encounter_Arcanist_Enc_task_Exit" rel_version="Territory_Dunwood">Arcanist's Fall</string>
+	<string key="DW_Encounter_Arcanist_Enc_task_Exit_desc" rel_version="Territory_Dunwood">Arcanist has been defeated. \n&lt;font color="#ff0000"&gt;NOTE: Remaining in the Siege after the alotted time will result in your untimely death.&lt;/font&gt;\nTime remaining until Siege Complete: </string>
+	<string key="DW_Encounter_Arcanist_Enc_task_End" rel_version="Territory_Dunwood">Siege Complete</string>
+	<string key="DW_Encounter_Arcanist_Enc_task_End_desc" rel_version="Territory_Dunwood">The Siege has been completed. Time remaining until the next Siege: </string>
 	<string key="ui_turkeyterror_worldboss_Turkulon">Turkulon's Terror</string>
 	<string key="ui_turkeyterror_worldboss_Turkulon_description">Turkulon has returned to avenge their fallen brethren</string>
 	<string key="ui_worldboss_defeated" rel_version="Event_February_Perm">{objective} Defeated</string>
@@ -314,6 +332,13 @@
 	<string key="objective_mammoth_wave_01_desc" rel_version="Season_8_Perm">{remainingCount} remaining</string>
 	<string key="objective_mammoth_wave_02_title" rel_version="Season_8_Perm">The colossal Mahantaram thunders over the lands!</string>
 	<string key="objective_mammoth_wave_02_desc" rel_version="Season_8_Perm">Defeat Mahantaram</string>
+	<string key="objective_worldevent_varlaam_wave0_title" rel_version="Territory_Dunwood">House Varlaam: Stage 1/3</string>
+	<string key="objective_worldevent_varlaam_wave0_title_desc" rel_version="Territory_Dunwood">Startup Sequence: Turn on the central energy transformer.</string>
+	<string key="objective_worldevent_varlaam_wave1_title" rel_version="Territory_Dunwood">House Varlaam: Stage 2/3</string>
+	<string key="objective_worldevent_varlaam_wave1_title_desc" rel_version="Territory_Dunwood">Energy Transformers: {remainingCount} switches remaining.</string>
+	<string key="objective_worldevent_varlaam_wave2_title" rel_version="Territory_Dunwood">House Varlaam: Stage 3/3</string>
+	<string key="objective_worldevent_varlaam_wave2_title_desc" rel_version="Territory_Dunwood">Throw energy to charge up the malfunctioning devices: {remainingCount} remaining.</string>
+	<string key="objective_worldevent_varlaam_wave3_title_desc" rel_version="Territory_Dunwood">The device is charged! Head upstairs to activate it! \nTime Remaining:</string>
 	<string key="@Enc_RW_Siege_Pool_Wave00_Title" rel_version="Season_8_Perm">Setup</string>
 	<string key="@Enc_RW_Siege_Pool_Wave00_Desc" rel_version="Season_8_Perm">Setup</string>
 	<string key="@Enc_RW_Siege_Pool_Wave01_Title" rel_version="Season_8_Perm">Blighted garden</string>
@@ -374,5 +399,39 @@
 	<string key="@Enc_RW_Siege_Pool_Wave16_Desc" rel_version="Season_8_Perm">Exit towards Lazarus Shrine</string>
 	<string key="@Enc_RW_Siege_Pool_Wave17_Title" rel_version="Season_8_Perm">Placeholder</string>
 	<string key="@Enc_RW_Siege_Pool_Wave17_Desc" rel_version="Season_8_Perm">Placeholder</string>
+	<string key="objective_worldevent_carmilla_wave1_title" rel_version="Territory_Dunwood">House Carmilla: Stage 1/3\nMotion to Silence</string>
+	<string key="objective_worldevent_carmilla_wave1_title_desc" rel_version="Territory_Dunwood">Defeat Vayla Schenk</string>
+	<string key="objective_worldevent_carmilla_wave2_title" rel_version="Territory_Dunwood">House Carmilla: Stage 2/3\nFilibloodster</string>
+	<string key="objective_worldevent_carmilla_wave2_title_desc" rel_version="Territory_Dunwood">Defeat the real Vayla Schenk</string>
+	<string key="objective_worldevent_carmilla_wave3_title" rel_version="Territory_Dunwood">House Carmilla: Stage 3/3\nFinal Vote</string>
+	<string key="objective_worldevent_carmilla_wave3_title_desc" rel_version="Territory_Dunwood">Assassinate the Assassin Vayla Schenk</string>
+	<string key="objective_worldevent_dracul_wave1_title" rel_version="Territory_Dunwood">Midnight Mass: Stage 1/4</string>
+	<string key="objective_worldevent_dracul_wave1_title_desc" rel_version="Territory_Dunwood">Approach the Baroness of Dracul</string>
+	<string key="objective_worldevent_dracul_wave2_title" rel_version="Territory_Dunwood">Midnight Mass: Stage 2/4</string>
+	<string key="objective_worldevent_dracul_wave2_title_desc" rel_version="Territory_Dunwood">Defeat Baroness Mircea</string>
+	<string key="objective_worldevent_dracul_wave3_title" rel_version="Territory_Dunwood">Midnight Mass: Stage 3/4</string>
+	<string key="objective_worldevent_dracul_wave3_title_desc" rel_version="Territory_Dunwood">Time Remaining:</string>
+	<string key="objective_worldevent_dracul_wave4_title" rel_version="Territory_Dunwood">Midnight Mass: Stage 4/4</string>
+	<string key="objective_worldevent_dracul_wave4_title_desc" rel_version="Territory_Dunwood">Defeat the Dracul family: {remainingCount} remaining</string>
+	<string key="objective_worldevent_dracul_wave5_title" rel_version="Territory_Dunwood">Midnight Mass: Stage 5/5</string>
+	<string key="objective_worldevent_dracul_wave5_title_desc" rel_version="Territory_Dunwood">Defeat Baroness Mircea</string>
+	<string key="objective_worldevent_memora_wave1_title" rel_version="Territory_Dunwood">Memora Singur: Stage 1/3</string>
+	<string key="objective_worldevent_memora_wave1_title_desc" rel_version="Territory_Dunwood">Confront Velatrix Avernath</string>
+	<string key="objective_worldevent_memora_wave2_title" rel_version="Territory_Dunwood">Memora Singur: Stage 2/3</string>
+	<string key="objective_worldevent_memora_wave2_title_desc" rel_version="Territory_Dunwood">Defeat the Librarian's minions</string>
+	<string key="objective_worldevent_memora_wave3_title" rel_version="Territory_Dunwood">Memora Singur: Stage 3/3</string>
+	<string key="objective_worldevent_memora_wave3_title_desc" rel_version="Territory_Dunwood">Defeat Velatrix Avernath</string>
+	<string key="objective_worldevent_bathory_wave1_title" rel_version="Territory_Dunwood">House Báthory: Stage 1/2</string>
+	<string key="objective_worldevent_bathory_wave1_title_desc" rel_version="Territory_Dunwood">Rescue victims: {remainingCount} remaining</string>
+	<string key="objective_worldevent_bathory_wave2_title" rel_version="Territory_Dunwood">House Báthory: Stage 2/2</string>
+	<string key="objective_worldevent_bathory_wave2_title_desc" rel_version="Territory_Dunwood">Defeat Lord Báthory</string>
+	<string key="DW_Encounter_MidnightMass_10303" rel_version="Territory_Dunwood">Midnight Mass</string>
+	<string key="DW_Encounter_MidnightMass_10303_description" rel_version="Territory_Dunwood">Midnight Mass</string>
+	<string key="DW_Encounter_17_MSQ" rel_version="Territory_Dunwood">Field of Screams</string>
+	<string key="DW_Encounter_17_MSQ_description" rel_version="Territory_Dunwood">Defend the Farm from an onslaught of beasts.</string>
+	<string key="DW_Encounter_17_MSQ_wave1_title" rel_version="Territory_Dunwood">Investigate the farm.</string>
+	<string key="DW_Encounter_17_MSQ_wave1_title_desc" rel_version="Territory_Dunwood">There seems to be some strange noises nearby.</string>
+	<string key="DW_Encounter_17_MSQ_wave2_title" rel_version="Territory_Dunwood">Defend the Farm.</string>
+	<string key="DW_Encounter_17_MSQ_wave2_title_desc" rel_version="Territory_Dunwood">Fend off the onslaught of beasts.</string>
 </resources>
 

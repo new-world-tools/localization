@@ -1,0 +1,654 @@
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="SetBonus_Enrage_Name" rel_version="ProgressionOverhaul2025">Enrage Set</string>
+	<string key="PerkID_SetBonus_Enrage_Perk1_Name" rel_version="ProgressionOverhaul2025">Enraged 1</string>
+	<string key="PerkID_SetBonus_Enrage_Perk1_Description" rel_version="ProgressionOverhaul2025">Hitting a target within {[13.000000]}m grants stack(s) of Enrage, increasing outgoing damage by {[0.010000 * 100]}% but also increase damage taken by {[0.005000 * 100]}% per stack. (Max {[10.000000]} stacks)</string>
+	<string key="PerkID_SetBonus_Enrage_Perk2_Name" rel_version="ProgressionOverhaul2025">Enraged 2</string>
+	<string key="PerkID_SetBonus_Enrage_Perk2_Description" rel_version="ProgressionOverhaul2025">Increases max Enrage stacks to {[15.000000]}, Heavy attacks generate an additional stack of Enrage. While Enraged and above {[70.000000]}% health, lose {[-0.050000 * -100]}% of your max HP every half second.</string>
+	<string key="PerkID_SetBonus_Enrage_Perk3_Name" rel_version="ProgressionOverhaul2025">Enraged 3</string>
+	<string key="PerkID_SetBonus_Enrage_Perk3_Description" rel_version="ProgressionOverhaul2025">Increases max Enrage stacks to {[25.000000]}, and increase the duration of Enrage by {[0.500000 * 100]}%. While Enraged, all attacks deal an additional {[0.080000 * 100]}% damage while below {[70.000000]}% health.</string>
+	<string key="PerkID_SetInfix_Enrage_Perk_Ring_Name" rel_version="ProgressionOverhaul2025">Enraged Leech</string>
+	<string key="PerkID_SetInfix_Enrage_Perk_Ring_Description" rel_version="ProgressionOverhaul2025">While Enraged, All attacks gain {[0.200000 * 100]}% lifesteal while below {[70.000000]}% health.</string>
+	<string key="PerkID_SetInfix_Enrage_Perk_Gloves_Name" rel_version="ProgressionOverhaul2025">Trenchant Enrage</string>
+	<string key="PerkID_SetInfix_Enrage_Perk_Gloves_Description" rel_version="ProgressionOverhaul2025">While Enraged, Heavy attacks now consume {[3.000000]} stacks to deal {[0.200000 * 100]}% more damage.</string>
+	<string key="PerkID_SetInfix_Enrage_Perk_Legs_Name" rel_version="ProgressionOverhaul2025">Enraged Hunt</string>
+	<string key="PerkID_SetInfix_Enrage_Perk_Legs_Description" rel_version="ProgressionOverhaul2025">Exiting a dodge with more than 20 stamina while Enraged will consume 4 stacks to trigger a 3.5m radius AOE that will pull in nearby enemies.</string>
+	<string key="PerkID_SetInfix_Enrage_Perk_Head_Name" rel_version="ProgressionOverhaul2025">Enraged Refresh</string>
+	<string key="PerkID_SetInfix_Enrage_Perk_Head_Description" rel_version="ProgressionOverhaul2025">Hitting a target with a light or heavy attack while at or above {[15.000000]} stacks of Enrage will consume {[3.000000]} stacks to reduce the cooldown of all active weapon abilities by {[-0.050000 * -100]}%. ({[1.000000]}s cooldown)</string>
+	<string key="PerkID_SetInfix_Enrage_Perk_Feet_Name" rel_version="ProgressionOverhaul2025">Enraged Acceleration</string>
+	<string key="PerkID_SetInfix_Enrage_Perk_Feet_Description" rel_version="ProgressionOverhaul2025">While at or above (15) stacks of Enrage, gain {[0.080000 * 100]}% Haste.</string>
+	<string key="SetBonus_SecondWind_Name" rel_version="ProgressionOverhaul2025">Second Wind Set</string>
+	<string key="PerkID_SetBonus_SecondWind_Perk1_Name" rel_version="ProgressionOverhaul2025">Second Wind 1</string>
+	<string key="PerkID_SetBonus_SecondWind_Perk1_Description" rel_version="ProgressionOverhaul2025">While exhausted, you do {[0.200000 * 100]}% more base damage against enemies within {[5.000000]}m. Hitting an enemy within {[5.000000]}m will remove the slow from becoming exhausted by dodging.</string>
+	<string key="PerkID_SetBonus_SecondWind_Perk2_Name" rel_version="ProgressionOverhaul2025">Second Wind 2</string>
+	<string key="PerkID_SetBonus_SecondWind_Perk2_Description" rel_version="ProgressionOverhaul2025">While exhausted, attacks that hit enemies within {[5.000000]}m have {[0.100000 * 100]}% life steal and grant {[0.030000 * 100]}% empower stacks that last {[5.000000]}s when exiting the exhausted state. (Max {[5.000000]} stacks)</string>
+	<string key="PerkID_SetInfix_SecondWind_Perk_Ring_Name" rel_version="ProgressionOverhaul2025">Relentless Second Wind</string>
+	<string key="PerkID_SetInfix_SecondWind_Perk_Ring_Description" rel_version="ProgressionOverhaul2025">While exhausted, gain uninterruptible.</string>
+	<string key="PerkID_SetInfix_SecondWind_Perk_Gloves_Name" rel_version="ProgressionOverhaul2025">Enervated Accuracy</string>
+	<string key="PerkID_SetInfix_SecondWind_Perk_Gloves_Description" rel_version="ProgressionOverhaul2025">While under {[50.000000]}% stamina, gain {[0.150000 * 100]}% crit chance.</string>
+	<string key="PerkID_SetInfix_SecondWind_Perk_Legs_Name" rel_version="ProgressionOverhaul2025">Cleansing Second Wind</string>
+	<string key="PerkID_SetInfix_SecondWind_Perk_Legs_Description" rel_version="ProgressionOverhaul2025">Cleanse slows and roots on yourself if you become exhausted by dodging.</string>
+	<string key="PerkID_SetInfix_SecondWind_Perk_Feet_Name" rel_version="ProgressionOverhaul2025">Speedy Recovery</string>
+	<string key="PerkID_SetInfix_SecondWind_Perk_Feet_Description" rel_version="ProgressionOverhaul2025">Gain a {[0.100000 * 100]}% haste for {[4.000000]}s after exiting the exhausted state.</string>
+	<string key="SetBonus_ProtectorsBlessing_Name" rel_version="ProgressionOverhaul2025">Protector's Blessing Set</string>
+	<string key="PerkID_SetBonus_ProtectorsBlessing_Perk1_Name" rel_version="ProgressionOverhaul2025">Protector's Blessing 1</string>
+	<string key="PerkID_SetBonus_ProtectorsBlessing_Perk1_Description" rel_version="ProgressionOverhaul2025">When you heal an ally that has more than {[50.000000]}% health, gain a stack of Protector's Blessing({[2.000000]}s cooldown). While at max stacks({[5.000000]}) you are inflicted with {[-0.070000 * -100]}% Rend and healing an ally that has more than {[50.000000]}% health will add {[0.150000 * 100]}% fortification for {[5.000000]}s ({[10.000000]}s cooldown). </string>
+	<string key="PerkID_SetBonus_ProtectorsBlessing_Perk2_Name" rel_version="ProgressionOverhaul2025">Protector's Blessing 2</string>
+	<string key="PerkID_SetBonus_ProtectorsBlessing_Perk2_Description" rel_version="ProgressionOverhaul2025">Gain {[0.030000 * 100]}% base damage per stack of Protector's Blessing. While at max stacks({[5.000000]}), healing a target below {[50.000000]}% health will consume the stacks and heal the target for {[0.100000 * 100]}% weapon damage per second for {[5.000000]}s.</string>
+	<string key="SetBonus_ElementallyCharged_Name" rel_version="ProgressionOverhaul2025">Elementally Charged Set</string>
+	<string key="PerkID_SetBonus_ElementallyCharged_Perk1_Name" rel_version="ProgressionOverhaul2025">Elementally Charged 1</string>
+	<string key="PerkID_SetBonus_ElementallyCharged_Perk1_Description" rel_version="ProgressionOverhaul2025">Magical weapon abilities do {[-0.070000 * -100]}% less base damage but they store a charge of that weapon's element for {[20.000000]}s. Activating an ability of a non-magical weapon will consume the charge and add {[-0.100000 * -100]}% weapon damage as that element to that attack for {[10.000000]}s. ({[3.000000]}s cooldown)</string>
+	<string key="PerkID_SetBonus_ElementallyCharged_Perk2_Name" rel_version="ProgressionOverhaul2025">Elementally Charged 2</string>
+	<string key="PerkID_SetBonus_ElementallyCharged_Perk2_Description" rel_version="ProgressionOverhaul2025">You can now store up to 2 charges of each element. while at 2 charges, gain {[0.100000 * 100]}% resistance to damage of that element.</string>
+	<string key="PerkID_SetInfix_ElementallyCharged_Perk_Chest_Name" rel_version="ProgressionOverhaul2025">Elemental Hunger</string>
+	<string key="PerkID_SetInfix_ElementallyCharged_Perk_Chest_Description" rel_version="ProgressionOverhaul2025">While you have no elemental charges, you take {[0.050000 * 100]}% less elemental damage.</string>
+	<string key="PerkID_SetInfix_ElementallyCharged_Perk_Head_Name" rel_version="ProgressionOverhaul2025">Elemental Mana Battery</string>
+	<string key="PerkID_SetInfix_ElementallyCharged_Perk_Head_Description" rel_version="ProgressionOverhaul2025">For each stored elemental charge, gain {[0.200000 * 100]}% mana regen rate.</string>
+	<string key="PerkID_SetInfix_ElementallyCharged_Perk_Legs_Name" rel_version="ProgressionOverhaul2025">Elementally Energized</string>
+	<string key="PerkID_SetInfix_ElementallyCharged_Perk_Legs_Description" rel_version="ProgressionOverhaul2025">When consuming an elemental charge by using a non-magic weapon ability, gain {[0.200000 * 100]}% stamina regen rate for {[10.000000]}s.</string>
+	<string key="PerkID_SetInfix_ElementallyCharged_Perk_Feet_Name" rel_version="ProgressionOverhaul2025">Elemental Rush</string>
+	<string key="PerkID_SetInfix_ElementallyCharged_Perk_Feet_Description" rel_version="ProgressionOverhaul2025">When consuming an elemental charge by using a non-magic weapon ability, gain {[0.100000 * 100]}% haste for {[5.000000]}s. This also consumes {[-20.000000 * -1]} stamina.</string>
+	<string key="PerkID_Infix_Weapon_Greataxe_ArtifactSet2_Weaker_Name" rel_version="ProgressionOverhaul2025">Exterted Spin</string>
+	<string key="PerkID_Infix_Weapon_Greataxe_ArtifactSet2_Weaker_Description" rel_version="ProgressionOverhaul2025">Whirlwind no longer needs to hit targets to continue spins, and can spin up to 12 times. When the spins end, it consumes all of your stamina and you become exhausted.</string>
+	<string key="SetBonus_Overcharged_Name" rel_version="ProgressionOverhaul2025">Overcharged Set</string>
+	<string key="PerkID_SetBonus_Overcharge_Perk1_Name" rel_version="ProgressionOverhaul2025">Overcharged 1</string>
+	<string key="PerkID_SetBonus_Overcharge_Perk1_Description" rel_version="ProgressionOverhaul2025">Hitting an enemy within {[5.000000]}m or killing an enemy grants an overcharge stack. ({[5.000000]}s cooldown) Each stack increase your base damage by {[0.050000 * 100]}% and affliction resistance by {[0.100000 * 100]}%. You also are inflicted with {[-0.040000 * -100]}% Rend per stack. Getting hit removes all stacks. (Max 3 stacks)</string>
+	<string key="PerkID_SetBonus_Overcharge_Perk2_Name" rel_version="ProgressionOverhaul2025">Overcharged 2</string>
+	<string key="PerkID_SetBonus_Overcharge_Perk2_Description" rel_version="ProgressionOverhaul2025">Max overchrage stacks increased to 5. Overcharge stacks now also increase stamina regen rate by {[0.050000 * 100]}%.</string>
+	<string key="PerkID_Infix_Gloves_Bow_ArtifactSet2_PoisonAffinity_Description" rel_version="ProgressionOverhaul2025">Deal {[0.150000 * 100]}% more damage to poisoned enemies.</string>
+	<string key="PerkID_Infix_Weapon_Blunderbuss_HeavyMortar_Name" rel_version="ProgressionOverhaul2025">Mo' Mortar Mo' Boom</string>
+	<string key="PerkID_Infix_Weapon_Blunderbuss_HeavyMortar_Description" rel_version="ProgressionOverhaul2025">Mortar charge now only fires one canister. It fires immediately and will bounce before exploding if it does not hit an enemy. When this canister explodes it deals {[1.300000 * 100]}% weapon damage in a 5m area.</string>
+	<string key="PerkID_Infix_Shield_BlockCleanse_Name" rel_version="ProgressionOverhaul2025">Cleansing Block</string>
+	<string key="PerkID_Infix_Shield_BlockCleanse_Description" rel_version="ProgressionOverhaul2025">Blocking an attack removes 1 debuff. ({[3.000000]}s cooldown)</string>
+	<string key="PerkID_Infix_Weapon_Lifestaff_Revive_Name" rel_version="ProgressionOverhaul2025">Revive</string>
+	<string key="PerkID_Infix_Weapon_Lifestaff_Revive_Description" rel_version="ProgressionOverhaul2025">Casting Life’s Embrace on a downed player will revive them. Requires 300 Focus. {[45.000000]}s cooldown</string>
+	<string key="SetBonus_Stifling_Name" rel_version="ProgressionOverhaul2025">Stifling Set</string>
+	<string key="PerkID_SetBonus_Stifling_Perk1_Name" rel_version="ProgressionOverhaul2025">Stifling 1</string>
+	<string key="PerkID_SetBonus_Stifling_Perk1_Description" rel_version="ProgressionOverhaul2025">Hitting an enemy with an attack, while all of your active weapon abilities are on cooldown, silences your target for {[2.000000]}s and yourself for {[1.000000]}s. Can occur only once every {[5.000000]}s. (Silence blocks use of abilities. AI don't have abilities.)</string>
+	<string key="PerkID_SetBonus_Stifling_Perk2_Name" rel_version="ProgressionOverhaul2025">Stifling 2</string>
+	<string key="PerkID_SetBonus_Stifling_Perk2_Description" rel_version="ProgressionOverhaul2025">While silenced do {[0.100000 * 100]}% more base damage with basic attacks and hitting a target will reduce ability cooldowns by {[-0.050000 * -100]}%.</string>
+	<string key="PerkID_SetInfix_Stifling_Perk_Feet_Name" rel_version="ProgressionOverhaul2025">Stifling Energy</string>
+	<string key="PerkID_SetInfix_Stifling_Perk_Feet_Description" rel_version="ProgressionOverhaul2025">Gain {[0.500000 * 100]}% increased stamina regen rate while silenced.</string>
+	<string key="PerkID_SetInfix_Stifling_Perk_Gloves_Name" rel_version="ProgressionOverhaul2025">Stifling Danger</string>
+	<string key="PerkID_SetInfix_Stifling_Perk_Gloves_Description" rel_version="ProgressionOverhaul2025">Damage is increased {[0.050000 * 100]}% when hitting a silenced target.</string>
+	<string key="PerkID_SetInfix_Stifling_Perk_Amulet_Name" rel_version="ProgressionOverhaul2025">Stifling Resolve</string>
+	<string key="PerkID_SetInfix_Stifling_Perk_Amulet_Description" rel_version="ProgressionOverhaul2025">Gain {[0.100000 * 100]}% absorb while silenced.</string>
+	<string key="PerkID_SetInfix_Stifling_Perk_Legs_Name" rel_version="ProgressionOverhaul2025">Stifling Evasion</string>
+	<string key="PerkID_SetInfix_Stifling_Perk_Legs_Description" rel_version="ProgressionOverhaul2025">Exiting a dodge while silenced will trigger a {[2.000000]}m AOE that damages nearby targets for {[0.500000 * 100]}% weapon damage.</string>
+	<string key="SetBonus_Tenacity_Name" rel_version="ProgressionOverhaul2025">Tenacity Set</string>
+	<string key="PerkID_SetBonus_Tenacity_Perk1_Name" rel_version="ProgressionOverhaul2025">Tenacity 1</string>
+	<string key="PerkID_SetBonus_Tenacity_Perk1_Description" rel_version="ProgressionOverhaul2025">Get Grit for {[2.000000]}s after getting staggered. However take {[-0.050000 * -100]}% more damage while grit is active.</string>
+	<string key="PerkID_SetBonus_Tenacity_Perk2_Name" rel_version="ProgressionOverhaul2025">Tenacity 2</string>
+	<string key="PerkID_SetBonus_Tenacity_Perk2_Description" rel_version="ProgressionOverhaul2025">Successful light attacks apply Grit for {[3.000000]}s, {[6.000000]}s cooldown. While grit is active gain {[0.050000 * 100]}% lifesteal.</string>
+	<string key="PerkID_SetInfix_Tenacity_Perk_Ring_Name" rel_version="ProgressionOverhaul2025">Tenacity Penetration</string>
+	<string key="PerkID_SetInfix_Tenacity_Perk_Ring_Description" rel_version="ProgressionOverhaul2025">Armor penetration is increased {[0.100000 * 100]}% when hitting a targets with Grit.</string>
+	<string key="PerkID_SetInfix_Tenacity_Perk_Head_Name" rel_version="ProgressionOverhaul2025">Tenacity Critical</string>
+	<string key="PerkID_SetInfix_Tenacity_Perk_Head_Description" rel_version="ProgressionOverhaul2025">Critical chance is increased {[0.100000 * 100]}% while Grit is active.</string>
+	<string key="PerkID_SetInfix_Tenacity_Perk_Chest_Name" rel_version="ProgressionOverhaul2025">Tenacity Rebound</string>
+	<string key="PerkID_SetInfix_Tenacity_Perk_Chest_Description" rel_version="ProgressionOverhaul2025">Enemies receive {[-0.050000 * -100]}% damage when they hit you with a melee attack while Grit is active.</string>
+	<string key="PerkID_SetInfix_Tenacity_Perk_Feet_Name" rel_version="ProgressionOverhaul2025">Tenacity Recovery</string>
+	<string key="PerkID_SetInfix_Tenacity_Perk_Feet_Description" rel_version="ProgressionOverhaul2025">Incoming heals increased {[0.100000 * 100]}% while Grit is active.</string>
+	<string key="SetBonus_Focused_Name" rel_version="ProgressionOverhaul2025">Focused Set</string>
+	<string key="PerkID_SetBonus_Focused_Perk1_Name" rel_version="ProgressionOverhaul2025">Focused 1</string>
+	<string key="PerkID_SetBonus_Focused_Perk1_Description" rel_version="ProgressionOverhaul2025">{[0.150000 * 100]}% increased healing on targets outside of Sacred Gound or Beacon.</string>
+	<string key="PerkID_SetBonus_Focused_Perk2_Name" rel_version="ProgressionOverhaul2025">Focused 2</string>
+	<string key="PerkID_SetBonus_Focused_Perk2_Description" rel_version="ProgressionOverhaul2025">Healing increased {[0.150000 * 100]}% and cooldown reduced {[-0.050000 * -100]}% on heal after holding a weapon for 10 seconds.</string>
+	<string key="PerkID_SetInfix_Focused_Perk_LifeStaff_Name" rel_version="ProgressionOverhaul2025">Focused Cleanse</string>
+	<string key="PerkID_SetInfix_Focused_Perk_LifeStaff_Description" rel_version="ProgressionOverhaul2025">Self Casting Light's Embrace will cleanse player and make them immune to debuff for {[2.000000]}s. Requires 300 Focus. {[15.000000]}s cooldown.</string>
+	<string key="PerkID_SetInfix_Focused_Perk_Head_Name" rel_version="ProgressionOverhaul2025">Focused Determination</string>
+	<string key="PerkID_SetInfix_Focused_Perk_Head_Description" rel_version="ProgressionOverhaul2025">Immune to crowd control debuffs for {[1.000000]}s, {[1.000000 * 3]}s with 300 focus, after a healing cast is interrupted.  {[10.000000]}s cooldown.</string>
+	<string key="PerkID_SetInfix_Focused_Perk_Chest_Name" rel_version="ProgressionOverhaul2025">Focused Fortify</string>
+	<string key="PerkID_SetInfix_Focused_Perk_Chest_Description" rel_version="ProgressionOverhaul2025">Healing targets under {[50.000000]}% health with burst heals will receive a {[1.000000 * 100]}% Fortify for {[5.000000]}s.  {[15.000000]}s cooldown.</string>
+	<string key="PerkID_SetInfix_Focused_Perk_Legs_Name" rel_version="ProgressionOverhaul2025">Focused Speed</string>
+	<string key="PerkID_SetInfix_Focused_Perk_Legs_Description" rel_version="ProgressionOverhaul2025">Healing a target outside of Sacred Ground or Beacon grants {[0.100000 * 100]}% haste for {[4.000000]}s.  {[8.000000]}s cooldown.</string>
+	<string key="PerkID_Infix_Weapon_OnCrit_LightningBolt_Name" rel_version="ProgressionOverhaul2025">Critical Storm</string>
+	<string key="PerkID_Infix_Weapon_OnCrit_LightningBolt_Description" rel_version="ProgressionOverhaul2025">Once every {[0.500000]}s, when you crit a target, gain a stack of storm charge on self, lasting {[13.000000]}s, at {[6.000000]} storm charges, hitting a target with an ability will consume all of the charges and trigger a bolt of lightning, dealing an additional {[-1.000000 * -100]}% damage.</string>
+	<string key="PerkID_Infix_Weapon_Melee_OnTargetGrit_Stun_Name" rel_version="ProgressionOverhaul2025">Thwarting Stun</string>
+	<string key="PerkID_Infix_Weapon_Melee_OnTargetGrit_Stun_Description" rel_version="ProgressionOverhaul2025">Whenever you hit a target with active grit or uninterruptible, deal {[0.050000 * 100]}% increased base damage and gain a stack of Thwart. Melee heavy attacks while at {[10.000000]} stacks consume all stacks and inflict a {[1.000000]}s Stun on the target. ({[10.000000]}s cooldown on stun application)</string>
+	<string key="PerkID_Infix_Ring_GritOnBasic_Name" rel_version="ProgressionOverhaul2025">Unstoppable</string>
+	<string key="PerkID_Infix_Ring_GritOnBasic_Description" rel_version="ProgressionOverhaul2025">Gain GRIT on melee heavy attacks and during the melee light attack start ups. However take {[-0.050000 * -100]}% increased base damage from enemy attacks while Grit is active.</string>
+	<string key="PerkID_Infix_Weapon_Ranged_DamageOnDistance_Name" rel_version="ProgressionOverhaul2025">Close Quarters</string>
+	<string key="PerkID_Infix_Weapon_Ranged_DamageOnDistance_Description" rel_version="ProgressionOverhaul2025">Light and heavy attacks with ranged weapons within {[10.000000]}m deal {[0.200000 * 100]}% extra damage, but you also receive {[-0.050000 * -100]}% increased attacker base damage.</string>
+	<string key="PerkID_Infix_Weapon_Melee_AlternateAttacks_Name" rel_version="ProgressionOverhaul2025">Alternating Enchantment</string>
+	<string key="PerkID_Infix_Weapon_Melee_AlternateAttacks_Description" rel_version="ProgressionOverhaul2025">Hitting with a basic attack will increase the base damage of the next ability hit within {[5.000000]}s by {[0.100000 * 100]}%, and hitting with an ability will increase the base damage of the next basic attack within {[5.000000]}s by {[0.100000 * 100]}%.</string>
+	<string key="PerkID_Infix_Weapon_Magic_ChainLightning" rel_version="ProgressionOverhaul2025">Chain Lightning</string>
+	<string key="PerkID_Infix_Weapon_Magic_ChainLightning_Description" rel_version="ProgressionOverhaul2025">Once every {[10.000000]}s, damaging enemies with a magic weapon ability will cast Chain Lighting that hits up to {[5.000000]} unique targets and deals {[-0.500000 * -100]}% of your weapon damage to each. However, when triggered you take {[-0.300000 * -100]}% lightning damage.</string>
+	<string key="PerkID_Infix_Weapon_Flail_EmpoweringHeal" rel_version="ProgressionOverhaul2025">Empowering Heal</string>
+	<string key="PerkID_Infix_Weapon_Flail_EmpoweringHeal_Description" rel_version="ProgressionOverhaul2025">Healing an ally gives you a stackable buff that increases your damage dealt by {[0.010000 * -100]}% for {[10.000000]}s. Max 20 stacks.</string>
+	<string key="PerkID_Infix_Weapon_LowHealthCrit_Name" rel_version="ProgressionOverhaul2025">Adrenaline Burst</string>
+	<string key="PerkID_Infix_Weapon_LowHealthCrit_Description" rel_version="ProgressionOverhaul2025">When your health drops below {[50.000000]}%, your critical chance is increased by {[0.180000 * 100]}%.</string>
+	<string key="PerkID_Infix_Weapon_Melee_ArmorPenetrationBehind_Name" rel_version="ProgressionOverhaul2025">Shredding Backstabs</string>
+	<string key="PerkID_Infix_Weapon_Melee_ArmorPenetrationBehind_Description" rel_version="ProgressionOverhaul2025">Backstabs penetrate {[0.400000 * 100]}% of your target's armor but your critical hits deal {[-0.200000 * -100]}% less damage.</string>
+	<string key="PerkID_Charm_EmptySkillPerk_Name" rel_version="ProgressionOverhaul2025">Empty Skill Slot</string>
+	<string key="PerkID_Charm_EmptySkillPerk_Description" rel_version="ProgressionOverhaul2025">Attach a skill charm to add its effect.</string>
+	<string key="PerkID_Charm_EmptyDefense_Name" rel_version="ProgressionOverhaul2025">Empty Defense Slot</string>
+	<string key="PerkID_Charm_EmptyDefense_Description" rel_version="ProgressionOverhaul2025">Attach a defense charm to add its effect.</string>
+	<string key="PerkID_Charm_EmptyOffense_Name" rel_version="ProgressionOverhaul2025">Empty Offense Slot</string>
+	<string key="PerkID_Charm_EmptyOffense_Description" rel_version="ProgressionOverhaul2025">Attach a offense charm to add its effect.</string>
+	<string key="PerkID_WeaponMastery_Hatchet_FeralRush_Name" rel_version="ProgressionOverhaul2025">Crippling Feral Rush II</string>
+	<string key="PerkID_WeaponMastery_Hatchet_FeralRush_Description" rel_version="ProgressionOverhaul2025">When Feral Rush hits, cause a {[-0.200000 * -100 * {perkMultiplier}]}% slow for {[3.000000]}s and does +{[0.120000 * 100 * {perkMultiplier}]}% more damage.</string>
+	<string key="PerkID_WeaponMastery_Hatchet_Berserk_Name" rel_version="ProgressionOverhaul2025">Keen Berserk II</string>
+	<string key="PerkID_WeaponMastery_Hatchet_Berserk_Description" rel_version="ProgressionOverhaul2025">Gain +{[0.080000 * 100 * {perkMultiplier}]}% critical chance and +{[0.080000 * 100 * {perkMultiplier}]}% more crit damage while berserk is active.</string>
+	<string key="PerkID_WeaponMastery_Hatchet_RagingTorrent_Name" rel_version="ProgressionOverhaul2025">Compounding Torrent II</string>
+	<string key="PerkID_WeaponMastery_Hatchet_RagingTorrent_Description" rel_version="ProgressionOverhaul2025">Raging Torrent deals {[0.030000 * 100 * {perkMultiplier}]}% increased base damage per successful attack against a target (Max {[4.000000]} stacks)</string>
+	<string key="PerkID_WeaponMastery_Hatchet_Rending_Throw_Name" rel_version="ProgressionOverhaul2025">Empowering Rending Throw II</string>
+	<string key="PerkID_WeaponMastery_Hatchet_Rending_Throw_Description" rel_version="ProgressionOverhaul2025">Ranged Hatchet attacks deal +{[0.200000 * 100 * {perkMultiplier}]}% damage against Rending Throw targets.</string>
+	<string key="PerkID_WeaponMastery_Hatchet_DistancingThrow_Name" rel_version="ProgressionOverhaul2025">Prolonged Distancing Throw II</string>
+	<string key="PerkID_WeaponMastery_Hatchet_DistancingThrow_Description" rel_version="ProgressionOverhaul2025">Hitting a target while Social Distancing's Quick Power Haste is active, will extend the duration of slows on the target by {[0.070000 * 100 * {perkMultiplier}]}%, and increase base damage of attacks by {[0.035000 * 100 * {perkMultiplier}]}%.</string>
+	<string key="PerkID_WeaponMastery_Hatchet_InfectedThrow_Name" rel_version="ProgressionOverhaul2025">Exhausting Infected Throw II</string>
+	<string key="PerkID_WeaponMastery_Hatchet_InfectedThrow_Description" rel_version="ProgressionOverhaul2025">Direct hits with Infected throw causes Exhaustion, reducing target's Stamina regeneration by {[-0.250000 * -100 * {perkMultiplier}]}% for {[7.000000]}s.</string>
+	<string key="PerkID_WeaponMastery_Hammer_ArmorBreaker_Name" rel_version="ProgressionOverhaul2025">Empowering Armor Breaker II</string>
+	<string key="PerkID_WeaponMastery_Hammer_ArmorBreaker_Description" rel_version="ProgressionOverhaul2025">If Armor Breaker breaks a block, the next attack within {[5.000000]}s deals +{[0.200000 * 100 * {perkMultiplier}]}% damage.</string>
+	<string key="PerkID_WeaponMastery_Hammer_MightyGavel_Name" rel_version="ProgressionOverhaul2025">Crippling Mighty Gavel II</string>
+	<string key="PerkID_WeaponMastery_Hammer_MightyGavel_Description" rel_version="ProgressionOverhaul2025">Mighty Gavel hits inflict {[-0.080000 * -100 * {perkMultiplier}]}% slow for {[7.000000]}s, and you deal {[0.025000 * 100 * {perkMultiplier}]}% more damage against slowed targets.</string>
+	<string key="PerkID_WeaponMastery_Hammer_WreckingBall_Name" rel_version="ProgressionOverhaul2025">Penetrating Wrecking Ball II</string>
+	<string key="PerkID_WeaponMastery_Hammer_WreckingBall_Description" rel_version="ProgressionOverhaul2025">Wrecking Ball penetrates {[0.180000 * 100 * {perkMultiplier}]}% of the target's armor.</string>
+	<string key="PerkID_WeaponMastery_Hammer_Shockwave_Name" rel_version="ProgressionOverhaul2025">Sundering Shockwave II</string>
+	<string key="PerkID_WeaponMastery_Hammer_Shockwave_Description" rel_version="ProgressionOverhaul2025">Shockwave inflicts Rend, reducing the target's armor by {[-0.080000 * -100 * {perkMultiplier}]}% for {[8.000000]}s.</string>
+	<string key="PerkID_WeaponMastery_Hammer_ClearOut_Name" rel_version="ProgressionOverhaul2025">Leeching Clear Out II</string>
+	<string key="PerkID_WeaponMastery_Hammer_ClearOut_Description" rel_version="ProgressionOverhaul2025">Heal for {[0.150000 * 100 * {perkMultiplier}]}% of the damage dealt by Clear Out</string>
+	<string key="PerkID_WeaponMastery_Hammer_PathOfDestiny_Name" rel_version="ProgressionOverhaul2025">Sundering Destiny II</string>
+	<string key="PerkID_WeaponMastery_Hammer_PathOfDestiny_Description" rel_version="ProgressionOverhaul2025">Path Of Destiny inflicts Rend, reducing the target's armor by {[-0.100000 * -100 * {perkMultiplier}]}% for {[6.000000]}s</string>
+	<string key="PerkID_WeaponMastery_Musket_PowderBurn_Name" rel_version="ProgressionOverhaul2025">Crippling Powder Burn II</string>
+	<string key="PerkID_WeaponMastery_Musket_PowderBurn_Description" rel_version="ProgressionOverhaul2025">Targets hit with Powder Burn are Slowed by {[-0.100000 * -100 * {perkMultiplier}]}% for {[8.000000]}s.</string>
+	<string key="PerkID_WeaponMastery_Musket_PowerShot_Name" rel_version="ProgressionOverhaul2025">Plagued Power Shot II</string>
+	<string key="PerkID_WeaponMastery_Musket_PowerShot_Description" rel_version="ProgressionOverhaul2025">Power Shot hits inflict {[-0.080000 * -100 * {perkMultiplier}]}% disease for {[8.000000]}s, and hitting a target inflicted with this disease, will increase the base damage dealt by {[0.050000 * 100 * {perkMultiplier}]}%.</string>
+	<string key="PerkID_WeaponMastery_Musket_ShootersStance_Name" rel_version="ProgressionOverhaul2025">Empowering Shooter's Stance II</string>
+	<string key="PerkID_WeaponMastery_Musket_ShootersStance_Description" rel_version="ProgressionOverhaul2025">Hitting a target while in Shooter's Stance grants a stack of Empower, increasing damage by {[0.070000 * 100 * {perkMultiplier}]}% for {[10.000000]}s. Effect is removed when stance is exited (Max {[4.000000]} stacks).</string>
+	<string key="PerkID_WeaponMastery_Musket_StoppingPower_Name" rel_version="ProgressionOverhaul2025">Stopping Powered II</string>
+	<string key="PerkID_WeaponMastery_Musket_StoppingPower_Description" rel_version="ProgressionOverhaul2025">Deal {[0.100000 * 100 * {perkMultiplier}]}% increased base damage to targets inflicted with Stopping Power's Slow or Exhaust debuffs.</string>
+	<string key="PerkID_WeaponMastery_Musket_Traps_Name" rel_version="ProgressionOverhaul2025">Accelerating Traps II</string>
+	<string key="PerkID_WeaponMastery_Musket_Traps_Description" rel_version="ProgressionOverhaul2025">+{[0.080000 * 100 * {perkMultiplier}]}% movement speed for {[5.000000]}s after deploying a trap. Traps now apply Bleed for {[-0.100000 * -100 * {perkMultiplier}]}% of weapon damage for {[3.000000]}s.</string>
+	<string key="PerkID_WeaponMastery_Musket_StickyBomb_Name" rel_version="ProgressionOverhaul2025">Mending Sticky Bombs II</string>
+	<string key="PerkID_WeaponMastery_Musket_StickyBomb_Description" rel_version="ProgressionOverhaul2025">Every hit of Sticky Bomb heals you for {[0.150000 * 100 * {perkMultiplier}]}% of the damage dealt.</string>
+	<string key="PerkID_WeaponMastery_Spear_Sweep_Name" rel_version="ProgressionOverhaul2025">Bleeding Sweep II</string>
+	<string key="PerkID_WeaponMastery_Spear_Sweep_Description" rel_version="ProgressionOverhaul2025">Sweep's Coup De Grace now applies Bleed for {[-0.090000 * -100 * {perkMultiplier}]}% of weapon damage for {[4.000000]}s.</string>
+	<string key="PerkID_WeaponMastery_Spear_Javelin_Name" rel_version="ProgressionOverhaul2025">Sundering Javelin II</string>
+	<string key="PerkID_WeaponMastery_Spear_Javelin_Description" rel_version="ProgressionOverhaul2025">Javelin inflicts Rend to targets above {[50.000000]}% Health, reducing the target's armor by {[-0.170000 * -100 * {perkMultiplier}]}% for {[7.000000]}s.</string>
+	<string key="PerkID_WeaponMastery_Spear_Cyclone_Name" rel_version="ProgressionOverhaul2025">Leeching Cyclone II</string>
+	<string key="PerkID_WeaponMastery_Spear_Cyclone_Description" rel_version="ProgressionOverhaul2025">Cyclone hits heal you for {[0.130000 * 100 * {perkMultiplier}]}% of weapon damage (Max {[3.000000]} targets).</string>
+	<string key="PerkID_WeaponMastery_Spear_Perforate_Name" rel_version="ProgressionOverhaul2025">Compounding Perforate II</string>
+	<string key="PerkID_WeaponMastery_Spear_Perforate_Description" rel_version="ProgressionOverhaul2025">Perforate hits deals {[0.060000 * 100 * {perkMultiplier}]}% increased base damage per successful attack against a target (Max {[2.000000]} stacks)</string>
+	<string key="PerkID_WeaponMastery_Spear_Skewer_Name" rel_version="ProgressionOverhaul2025">Enfeebling Skewer II</string>
+	<string key="PerkID_WeaponMastery_Spear_Skewer_Description" rel_version="ProgressionOverhaul2025">Skewer hits apply Weaken, reducing the target's damage by {[-0.160000 * -100 * {perkMultiplier}]}% for {[8.000000]}s.</string>
+	<string key="PerkID_WeaponMastery_Spear_VaultKick_Name" rel_version="ProgressionOverhaul2025">Keen Vault Kick II</string>
+	<string key="PerkID_WeaponMastery_Spear_VaultKick_Description" rel_version="ProgressionOverhaul2025">Vault Kick increases critical hit chance by {[0.160000 * 100 * {perkMultiplier}]}% for {[7.000000]}s.</string>
+	<string key="PerkID_WeaponMastery_Bow_PoisonShot_Name" rel_version="ProgressionOverhaul2025">Enfeebling Poison Shot II</string>
+	<string key="PerkID_WeaponMastery_Bow_PoisonShot_Description" rel_version="ProgressionOverhaul2025">Poison Shot hits apply Weaken, reducing the target's damage by {[-0.130000 * -100 * {perkMultiplier}]}% for {[8.000000]}s.</string>
+	<string key="PerkID_WeaponMastery_Bow_EvadeShot_Name" rel_version="ProgressionOverhaul2025">Energizing Evade Shot II</string>
+	<string key="PerkID_WeaponMastery_Bow_EvadeShot_Description" rel_version="ProgressionOverhaul2025">Hitting a target with Evade Shot grants {[9.000000 * {perkMultiplier}]} Stamina and increases stamina regen rate by {[0.120000 * 100 * {perkMultiplier}]}% for {[4.000000]}s.</string>
+	<string key="PerkID_WeaponMastery_Bow_RainOfArrows_Name" rel_version="ProgressionOverhaul2025">Lasting Rain of Arrows II</string>
+	<string key="PerkID_WeaponMastery_Bow_RainOfArrows_Description" rel_version="ProgressionOverhaul2025">Slow and Bleed last {[0.170000 * 100 * {perkMultiplier}]}% longer and Rain of Arrows deals {[0.090000 * 100 * {perkMultiplier}]}% more damage to targets {[15.000000]}m or further away.</string>
+	<string key="PerkID_WeaponMastery_Bow_RapidShot_Name" rel_version="ProgressionOverhaul2025">Penetrating Rapid Shot II</string>
+	<string key="PerkID_WeaponMastery_Bow_RapidShot_Description" rel_version="ProgressionOverhaul2025">+{[0.180000 * 100 * {perkMultiplier}]}% armor penetration of all Rapid Shot attacks.</string>
+	<string key="PerkID_WeaponMastery_Bow_PenetratingShot_Name" rel_version="ProgressionOverhaul2025">Shattering Penetrating Shot II</string>
+	<string key="PerkID_WeaponMastery_Bow_PenetratingShot_Description" rel_version="ProgressionOverhaul2025">Penetrating shot deals {[0.170000 * 100 * {perkMultiplier}]}% increased stamina damage to blocking targets and deals {[0.150000 * 100 * {perkMultiplier}]}% increased damage to targets with active Grit.</string>
+	<string key="PerkID_WeaponMastery_Bow_ExplosiveArrow_Name" rel_version="ProgressionOverhaul2025">Empowering Explosive Arrow II</string>
+	<string key="PerkID_WeaponMastery_Bow_ExplosiveArrow_Description" rel_version="ProgressionOverhaul2025">Explosive Arrow hits grant Empower, increasing damage by {[0.200000 * 100 * {perkMultiplier}]}% for {[4.000000]}s or until the next hit.</string>
+	<string key="PerkID_WeaponMastery_Rapier_Tondo_Name" rel_version="ProgressionOverhaul2025">Keen Tondo II</string>
+	<string key="PerkID_WeaponMastery_Rapier_Tondo_Description" rel_version="ProgressionOverhaul2025">+{[0.100000 * 100 * {perkMultiplier}]}% critical chance against targets affected by Tondo's Bleed. If this perk is on a weapon, Tondo also inflicts {[-0.200000 * -100]}% weaken for {[6.000000]}s. </string>
+	<string key="PerkID_WeaponMastery_Rapier_FlourishAndFinish_Name" rel_version="ProgressionOverhaul2025">Deadly Flourish II</string>
+	<string key="PerkID_WeaponMastery_Rapier_FlourishAndFinish_Description" rel_version="ProgressionOverhaul2025">Flourish deals +{[0.350000 * 100 * {perkMultiplier}]}% more base damage. And will cause your next attack to have {[1.000000 * 100]}% crit chance.</string>
+	<string key="PerkID_WeaponMastery_Rapier_Flurry_Name" rel_version="ProgressionOverhaul2025">Leeching Flurry II</string>
+	<string key="PerkID_WeaponMastery_Rapier_Flurry_Description" rel_version="ProgressionOverhaul2025">Heal for {[0.200000 * 100 * {perkMultiplier}]}% of the damage dealt by Flurry. Gain {[0.150000 * 100 * {perkMultiplier}]}% absorption for {[4.000000]}s on Flurry use.</string>
+	<string key="PerkID_WeaponMastery_Rapier_Riposte_Name" rel_version="ProgressionOverhaul2025">Sundering Riposte II</string>
+	<string key="PerkID_WeaponMastery_Rapier_Riposte_Description" rel_version="ProgressionOverhaul2025">Riposte inflicts Rend, reducing armor on the target by {[-0.150000 * -100 * {perkMultiplier}]}% for {[8.000000]}s.</string>
+	<string key="PerkID_WeaponMastery_Rapier_Evade_Name" rel_version="ProgressionOverhaul2025">Omnidirectional Evade II</string>
+	<string key="PerkID_WeaponMastery_Rapier_Evade_Description" rel_version="ProgressionOverhaul2025">+{[0.070000 * 100 * {perkMultiplier}]}% damage for {[2.000000]}s after using Evade. Adagio upgrade is applied when evading in any direction.</string>
+	<string key="PerkID_WeaponMastery_Rapier_Fleche_Name" rel_version="ProgressionOverhaul2025">Rogue Fleche II</string>
+	<string key="PerkID_WeaponMastery_Rapier_Fleche_Description" rel_version="ProgressionOverhaul2025">Hitting a target in the back with Fleche deals {[0.200000 * 100 * {perkMultiplier}]}% increased base damage.</string>
+	<string key="PerkID_WeaponMastery_LifeStaff_DivineEmbrace_Name" rel_version="ProgressionOverhaul2025">Unstoppable Divine Embrace II</string>
+	<string key="PerkID_WeaponMastery_LifeStaff_DivineEmbrace_Description" rel_version="ProgressionOverhaul2025">When Divine Embrace heals an ally above {[70.000000]}% Health, that ally gains Grit for {[1.500000]}s and gains {[0.080000 * 100 * {perkMultiplier}]}% increased stamina regen rate for {[3.000000]}s.</string>
+	<string key="PerkID_WeaponMastery_LifeStaff_SacredGround_Name" rel_version="ProgressionOverhaul2025">Fortifying Sacred Ground II</string>
+	<string key="PerkID_WeaponMastery_LifeStaff_SacredGround_Description" rel_version="ProgressionOverhaul2025">When Sacred Ground heals an ally for the first time, they gain Fortify, increasing armor by {[0.080000 * 100 * {perkMultiplier}]}% for {[5.000000]}s.</string>
+	<string key="PerkID_WeaponMastery_LifeStaff_SplashOfLight_Name" rel_version="ProgressionOverhaul2025">Purity Of Light II</string>
+	<string key="PerkID_WeaponMastery_LifeStaff_SplashOfLight_Description" rel_version="ProgressionOverhaul2025">When Splash of Light removes a debuff from an ally, they are healed for {[0.080000 * 100 * {perkMultiplier}]}% weapon damage every second for {[3.000000]}s.</string>
+	<string key="PerkID_WeaponMastery_LifeStaff_OrbOfProtection_Name" rel_version="ProgressionOverhaul2025">Mending Protection II</string>
+	<string key="PerkID_WeaponMastery_LifeStaff_OrbOfProtection_Description" rel_version="ProgressionOverhaul2025">+{[0.090000 * 100 * {perkMultiplier}]}% outgoing healing power for {[7.000000]}s if Orb of Protection applies a heal to an ally below {[50.000000]}% Health.</string>
+	<string key="PerkID_WeaponMastery_LifeStaff_LightsEmbrace_Name" rel_version="ProgressionOverhaul2025">Accelerating Light's Embrace II</string>
+	<string key="PerkID_WeaponMastery_LifeStaff_LightsEmbrace_Description" rel_version="ProgressionOverhaul2025">Allies healed with Light's Embrace gain Haste, increasing their movement speed by {[0.100000 * 100 * {perkMultiplier}]}% for {[5.000000]}s.</string>
+	<string key="PerkID_WeaponMastery_LifeStaff_Beacon_Name" rel_version="ProgressionOverhaul2025">Keen Beacon II</string>
+	<string key="PerkID_WeaponMastery_LifeStaff_Beacon_Description" rel_version="ProgressionOverhaul2025">When Beacon heals a player for the first time, they gain {[0.060000 * 100 * {perkMultiplier}]}% critical hit damage for {[5.000000]}s.</string>
+	<string key="PerkID_WeaponMastery_FireStaff_PillarOfFire_Name" rel_version="ProgressionOverhaul2025">Crippling Pillar of Fire II</string>
+	<string key="PerkID_WeaponMastery_FireStaff_PillarOfFire_Description" rel_version="ProgressionOverhaul2025">Pillar of Fire inflicts slow on targets, reducing their movement speed by {[-0.100000 * -100 * {perkMultiplier}]}% for {[6.000000]}s</string>
+	<string key="PerkID_WeaponMastery_FireStaff_MeteorShower_Name" rel_version="ProgressionOverhaul2025">Empowering Meteor Shower II</string>
+	<string key="PerkID_WeaponMastery_FireStaff_MeteorShower_Description" rel_version="ProgressionOverhaul2025">When Meteor Shower hits, gain {[0.015000 * 100 * {perkMultiplier}]}% Empower for {[5.000000]}s (Max {[10.000000]} stacks).</string>
+	<string key="PerkID_WeaponMastery_FireStaff_Fireball_Name" rel_version="ProgressionOverhaul2025">Empowering Fireball II</string>
+	<string key="PerkID_WeaponMastery_FireStaff_Fireball_Description" rel_version="ProgressionOverhaul2025">Fireball impact deals +{[0.070000 * 100 * {perkMultiplier}]}% damage, and an additional {[0.090000 * 100 * {perkMultiplier}]}% to targets above {[50.000000]}% Health.</string>
+	<string key="PerkID_WeaponMastery_FireStaff_Incinerate_Name" rel_version="ProgressionOverhaul2025">Fortifying Incinerate II</string>
+	<string key="PerkID_WeaponMastery_FireStaff_Incinerate_Description" rel_version="ProgressionOverhaul2025">Incinerate applies a stack of {[0.080000 * 100 * {perkMultiplier}]}% Fortify for {[6.000000]}s for each target hit (Max {[3.000000]} stacks).</string>
+	<string key="PerkID_WeaponMastery_FireStaff_Flamethrower_Name" rel_version="ProgressionOverhaul2025">Accelerating Flamethrower II</string>
+	<string key="PerkID_WeaponMastery_FireStaff_Flamethrower_Description" rel_version="ProgressionOverhaul2025">Using flamethrower against a target with {[4.000000]} stacks of smolder grants Haste, increasing movement speed by {[0.150000 * 100]}% for {[2.000000]}s. Burn from Flamethrower lasts {[0.080000 * 100 * {perkMultiplier}]}% longer.</string>
+	<string key="PerkID_WeaponMastery_FireStaff_BurnOut_Name" rel_version="ProgressionOverhaul2025">Empowering Burnout II</string>
+	<string key="PerkID_WeaponMastery_FireStaff_BurnOut_Description" rel_version="ProgressionOverhaul2025">Burnout deals +{[0.130000 * 100 * {perkMultiplier}]}% damage to targets with Burn.</string>
+	<string key="PerkID_WeaponMastery_Sword_Upheaval_Name" rel_version="ProgressionOverhaul2025">Contagious Upheaval II</string>
+	<string key="PerkID_WeaponMastery_Sword_Upheaval_Description" rel_version="ProgressionOverhaul2025">Upheaval hits transfers {[2.000000]} active debuffs from yourself to the target and deals +{[0.070000 * 100 * {perkMultiplier}]}% damage.</string>
+	<string key="PerkID_WeaponMastery_Sword_WhirlingBlade_Name" rel_version="ProgressionOverhaul2025">Compounding Whirling Blade II</string>
+	<string key="PerkID_WeaponMastery_Sword_WhirlingBlade_Description" rel_version="ProgressionOverhaul2025">Whirling Blade deals {[0.040000 * 100 * {perkMultiplier}]}% increased base damage per successful attack against a target (Max {[6.000000]} stacks)</string>
+	<string key="PerkID_WeaponMastery_Sword_LeapingStrike_Name" rel_version="ProgressionOverhaul2025">Empowering Leaping Strike II</string>
+	<string key="PerkID_WeaponMastery_Sword_LeapingStrike_Description" rel_version="ProgressionOverhaul2025">All attacks deal +{[0.130000 * 100 * {perkMultiplier}]}% damage to targets Slowed by Leaping Strike's Cowardly Punishment upgrade.</string>
+	<string key="PerkID_WeaponMastery_Shield_ShieldBash_Name" rel_version="ProgressionOverhaul2025">Diminishing Shield Bash II</string>
+	<string key="PerkID_WeaponMastery_Shield_ShieldBash_Description" rel_version="ProgressionOverhaul2025">Reduce non-consumable buff durations on enemies hit by Shield Bash by {[-0.220000 * -100 * {perkMultiplier}]}%.</string>
+	<string key="PerkID_WeaponMastery_Shield_ShieldRush_Name" rel_version="ProgressionOverhaul2025">Fortifying Shield Rush II</string>
+	<string key="PerkID_WeaponMastery_Shield_ShieldRush_Description" rel_version="ProgressionOverhaul2025">After hitting a target with Shield Rush, gain Fortify, increasing armor by {[0.150000 * 100 * {perkMultiplier}]}% for {[6.000000]}s.</string>
+	<string key="PerkID_WeaponMastery_Shield_DefendersResolve_Name" rel_version="ProgressionOverhaul2025">Accelerated Resolve II</string>
+	<string key="PerkID_WeaponMastery_Shield_DefendersResolve_Description" rel_version="ProgressionOverhaul2025">After triggering Defender's Resolve, increase movement speed by {[0.080000 * 100 * {perkMultiplier}]}% and incoming healing by {[0.110000 * 100 * {perkMultiplier}]}% for {[5.000000]}s.</string>
+	<string key="PerkID_WeaponMastery_GreatAxe_Charge_Name" rel_version="ProgressionOverhaul2025">Intangible Charge II</string>
+	<string key="PerkID_WeaponMastery_GreatAxe_Charge_Description" rel_version="ProgressionOverhaul2025">Charge can now pass through allies and enemies when sprinting forward, and will deal {[0.140000 * 100 * {perkMultiplier}]}% increased base damage of the furthest damage threshold range.</string>
+	<string key="PerkID_WeaponMastery_GreatAxe_Reap_Name" rel_version="ProgressionOverhaul2025">Crippling Reap II</string>
+	<string key="PerkID_WeaponMastery_GreatAxe_Reap_Description" rel_version="ProgressionOverhaul2025">Targets hit by Reap are inflicted with {[-0.150000 * -100 * {perkMultiplier}]}% slow for {[5.000000]}s.</string>
+	<string key="PerkID_WeaponMastery_GreatAxe_Execute_Name" rel_version="ProgressionOverhaul2025">Mending Execute II</string>
+	<string key="PerkID_WeaponMastery_GreatAxe_Execute_Description" rel_version="ProgressionOverhaul2025">Heal for {[0.250000 * 100 * {perkMultiplier}]}% of the damage dealt by Execute (Max 1 trigger per ability use).</string>
+	<string key="PerkID_WeaponMastery_GreatAxe_Whirlwind_Name" rel_version="ProgressionOverhaul2025">Fortifying Whirlwind II</string>
+	<string key="PerkID_WeaponMastery_GreatAxe_Whirlwind_Description" rel_version="ProgressionOverhaul2025">Whirlwind hits grant Fortify, increasing armor by {[0.100000 * 100 * {perkMultiplier}]}% and Slash damage by {[0.050000 * 100 * {perkMultiplier}]}% for {[2.000000]}s (Max 5 stacks).</string>
+	<string key="PerkID_WeaponMastery_GreatAxe_Maelstrom_Name" rel_version="ProgressionOverhaul2025">Enfeebling Maelstrom II</string>
+	<string key="PerkID_WeaponMastery_GreatAxe_Maelstrom_Description" rel_version="ProgressionOverhaul2025">Targets hit by Maelstrom's No Reprieve are Weakened, reducing their attack damage by {[-0.130000 * -100 * {perkMultiplier}]}% for {[8.000000]}s.</string>
+	<string key="PerkID_WeaponMastery_GreatAxe_GravityWell_Name" rel_version="ProgressionOverhaul2025">Insatiable Gravity Well II</string>
+	<string key="PerkID_WeaponMastery_GreatAxe_GravityWell_Description" rel_version="ProgressionOverhaul2025">Heal for {[0.250000 * 100 * {perkMultiplier}]}% of the damage dealt by Gravity Well (Limit 1 target). On hit, cast another {[4.000000]}m radius burst around you that deals {[0.500000 * 100]}% weapon damage.</string>
+	<string key="PerkID_WeaponMastery_IceGauntlet_UnbrokenWinds_Name" rel_version="ProgressionOverhaul2025">Unbroken Windchill II</string>
+	<string key="PerkID_WeaponMastery_IceGauntlet_UnbrokenWinds_Description" rel_version="ProgressionOverhaul2025">Wind Chill deals +{[0.200000 * 100 * {perkMultiplier}]}% damage. If Wind Chill hits the same target {[6.000000]} times in a row they become rooted for {[1.000000]}s.</string>
+	<string key="PerkID_WeaponMastery_IceGauntlet_UnendingThaw_Name" rel_version="ProgressionOverhaul2025">Unending Storm II</string>
+	<string key="PerkID_WeaponMastery_IceGauntlet_UnendingThaw_Description" rel_version="ProgressionOverhaul2025">Ice Storm deals +{[0.070000 * 100 * {perkMultiplier}]}% damage. Frost effects remains on enemies for 2s after exiting Ice Storm.</string>
+	<string key="PerkID_WeaponMastery_IceGauntlet_IcedRefresh_Name" rel_version="ProgressionOverhaul2025">Empowered Spike II</string>
+	<string key="PerkID_WeaponMastery_IceGauntlet_IcedRefresh_Description" rel_version="ProgressionOverhaul2025">Ice Spikes deal +{[0.120000 * 100 * {perkMultiplier}]}% more damage to rooted foes and +{[0.080000 * 100 * {perkMultiplier}]}% more damage to slowed foes.</string>
+	<string key="PerkID_WeaponMastery_IceGauntlet_DeadlyFrost_Name" rel_version="ProgressionOverhaul2025">Deadly Shower II</string>
+	<string key="PerkID_WeaponMastery_IceGauntlet_DeadlyFrost_Description" rel_version="ProgressionOverhaul2025">While Ice Shower's Frigid Showers upgrade is active, Frostbite deals {[-0.080000 * -100]}% weapon damage per second to affected enemies. All Ice Gauntlet hits deal {[0.080000 * 100 * {perkMultiplier}]}% increased damage to targets inflicted with this frostbite damage effect.</string>
+	<string key="PerkID_WeaponMastery_IceGauntlet_PylonBurst_Name" rel_version="ProgressionOverhaul2025">Pylon Burst II</string>
+	<string key="PerkID_WeaponMastery_IceGauntlet_PylonBurst_Description" rel_version="ProgressionOverhaul2025">Ice Pylon deals +{[0.070000 * 100 * {perkMultiplier}]}% more damage and triggers a burst dealing {[0.500000 * 100]}% weapon damage to to enemies within a {[3.000000]}m radius every 2s.</string>
+	<string key="PerkID_WeaponMastery_IceGauntlet_HealingTomb_Name" rel_version="ProgressionOverhaul2025">Healing Tomb II</string>
+	<string key="PerkID_WeaponMastery_IceGauntlet_HealingTomb_Description" rel_version="ProgressionOverhaul2025">Heal for {[0.150000 * 100 * {perkMultiplier}]}% of your base Health after Entomb ends.</string>
+	<string key="PerkID_WeaponMastery_VoidGauntlet_VoidBlade_Lifesteal_Name" rel_version="ProgressionOverhaul2025">Voracious Blade II</string>
+	<string key="PerkID_WeaponMastery_VoidGauntlet_VoidBlade_Lifesteal_Description" rel_version="ProgressionOverhaul2025">While below 50% Health, Void Blade Light attacks grant {[0.080000 * 100 * {perkMultiplier}]}% lifesteal and Void blade Heavy attacks grant {[0.130000 * 100 * {perkMultiplier}]}% lifesteal.</string>
+	<string key="PerkID_WeaponMastery_VoidGauntlet_NullChamber_Nullify_Name" rel_version="ProgressionOverhaul2025">Nullifying Oblivion II</string>
+	<string key="PerkID_WeaponMastery_VoidGauntlet_NullChamber_Nullify_Description" rel_version="ProgressionOverhaul2025">When activated, Oblivion removes limited duration buffs from enemies within its radius and increases the duration of limited duration debuffs on targets by {[0.150000 * 100 * {perkMultiplier}]}%.</string>
+	<string key="PerkID_WeaponMastery_VoidGauntlet_Scream_Disease_Name" rel_version="ProgressionOverhaul2025">Putrefying Scream II</string>
+	<string key="PerkID_WeaponMastery_VoidGauntlet_Scream_Disease_Description" rel_version="ProgressionOverhaul2025">Petrifying Scream inflicts Disease on hit, reducing the target's incoming healing by {[-0.200000 * -100 * {perkMultiplier}]}% and outgoing healing by {[-0.100000 * -100 * {perkMultiplier}]}% for {[8.000000]}s.</string>
+	<string key="PerkID_WeaponMastery_VoidGauntlet_DecayingOrb_ReduceBuffs_Name" rel_version="ProgressionOverhaul2025">Diminishing Orb II</string>
+	<string key="PerkID_WeaponMastery_VoidGauntlet_DecayingOrb_ReduceBuffs_Description" rel_version="ProgressionOverhaul2025">Orb of Decay reduces the base duration of the target's non-consumable buffs by {[-0.200000 * -100 * {perkMultiplier}]}% on hit.</string>
+	<string key="PerkID_WeaponMastery_VoidGauntlet_DrainingTether_Slow_Name" rel_version="ProgressionOverhaul2025">Crippling Tether II</string>
+	<string key="PerkID_WeaponMastery_VoidGauntlet_DrainingTether_Slow_Description" rel_version="ProgressionOverhaul2025">Baleful Tether inflicts Slow on hit, reducing the target's movement speed by {[-0.170000 * -100 * {perkMultiplier}]}% for {[5.000000]}s. If this perk is on a weapon, Baleful Tether will inflict Disintegrate on application.</string>
+	<string key="PerkID_WeaponMastery_VoidGauntlet_EssenceRupture_Empower_Name" rel_version="ProgressionOverhaul2025">Sundering Essence II</string>
+	<string key="PerkID_WeaponMastery_VoidGauntlet_EssenceRupture_Empower_Description" rel_version="ProgressionOverhaul2025">Essence Rupture will now inflict Rend, reducing armor on the target by {[-0.080000 * -100 * {perkMultiplier}]}% for {[5.000000]}s.</string>
+	<string key="PerkID_WeaponMastery_Greatsword_DashAttack_Name" rel_version="ProgressionOverhaul2025">Relentless Freedom II</string>
+	<string key="PerkID_WeaponMastery_Greatsword_DashAttack_Description" rel_version="ProgressionOverhaul2025">Activating Relentless Rush removes Root and Slow. Increase Relentless Rush's critical hit chance by {[0.100000 * 100 * {perkMultiplier}]}%.</string>
+	<string key="PerkID_WeaponMastery_Greatsword_Combo_Name" rel_version="ProgressionOverhaul2025">Leeching Crosscut II</string>
+	<string key="PerkID_WeaponMastery_Greatsword_Combo_Description" rel_version="ProgressionOverhaul2025">Each hit of Crosscut gains {[0.060000 * 100 * {perkMultiplier}]}% / {[0.110000 * 100 * {perkMultiplier}]}% / {[0.180000 * 100 * {perkMultiplier}]}% lifesteal respectively (Max 1 trigger per slash)</string>
+	<string key="PerkID_WeaponMastery_Greatsword_DefenseBreak_Name" rel_version="ProgressionOverhaul2025">Skyward Nullification II</string>
+	<string key="PerkID_WeaponMastery_Greatsword_DefenseBreak_Description" rel_version="ProgressionOverhaul2025">Hitting an enemy with Skyward Slash removes one of their buffs. Reduce remaining buffs by {[-0.200000 * -100 * {perkMultiplier}]}% (Only affects non-consumable buffs).</string>
+	<string key="PerkID_WeaponMastery_Greatsword_Counter_Name" rel_version="ProgressionOverhaul2025">Energizing Counter II</string>
+	<string key="PerkID_WeaponMastery_Greatsword_Counter_Description" rel_version="ProgressionOverhaul2025">When Calamity Counter is activated, immediately gain {[25.000000 * {perkMultiplier}]} Stamina. And Calamity Counter hits will grant a stack of {[0.050000 * 100 * {perkMultiplier}]}% Energized for {[3.000000]}s (Max {[3.000000]} stacks)</string>
+	<string key="PerkID_WeaponMastery_Greatsword_DrainAttack_Name" rel_version="ProgressionOverhaul2025">Steadfast Purification II</string>
+	<string key="PerkID_WeaponMastery_Greatsword_DrainAttack_Description" rel_version="ProgressionOverhaul2025">Each attack of Steadfast Strike reduces your debuff durations by {[-0.300000 * -100 * {perkMultiplier}]}% (Max {[1.000000]} reduction per attack).</string>
+	<string key="PerkID_WeaponMastery_Greatsword_Burst_Name" rel_version="ProgressionOverhaul2025">Crippling Rupture II</string>
+	<string key="PerkID_WeaponMastery_Greatsword_Burst_Description" rel_version="ProgressionOverhaul2025">Slow enemies struck with Roaring Rupture by {[-0.040000 * -100 * {perkMultiplier}]}% for {[5.000000]}s.</string>
+	<string key="PerkID_WeaponMastery_Blunderbuss_NetShot_Name" rel_version="ProgressionOverhaul2025">Exhaustive Net Shot II</string>
+	<string key="PerkID_WeaponMastery_Blunderbuss_NetShot_Description" rel_version="ProgressionOverhaul2025">Net Shot inflicts Exhaust, reducing the target's Stamina regeneration by {[-0.200000 * -100 * {perkMultiplier}]}% for {[4.000000]}s.</string>
+	<string key="PerkID_WeaponMastery_Blunderbuss_AzothShrapnelBlast_Name" rel_version="ProgressionOverhaul2025">Leeching Shrapnel Blast II</string>
+	<string key="PerkID_WeaponMastery_Blunderbuss_AzothShrapnelBlast_Description" rel_version="ProgressionOverhaul2025">Heal for {[0.180000 * 100 * {perkMultiplier}]}% of the damage dealt by Azoth Shrapnel Blast.</string>
+	<string key="PerkID_WeaponMastery_Blunderbuss_ClawShot_Name" rel_version="ProgressionOverhaul2025">Venturing Claw Shot II</string>
+	<string key="PerkID_WeaponMastery_Blunderbuss_ClawShot_Description" rel_version="ProgressionOverhaul2025">When Claw Shot connects to a target at least {[8.000000]}m away, gain a {[0.200000 * 100 * {perkMultiplier}]}% Empower for {[3.000000]}s or until next hit.</string>
+	<string key="PerkID_WeaponMastery_Blunderbuss_ScatterGrenade_Name" rel_version="ProgressionOverhaul2025">Plagued Splitting Grenade II</string>
+	<string key="PerkID_WeaponMastery_Blunderbuss_ScatterGrenade_Description" rel_version="ProgressionOverhaul2025">Splitting Grenade hits inflict Disease, reducing healing efficiency on targets by {[-0.120000 * -100 * {perkMultiplier}]}% and outgoing healing by {[-0.060000 * -100 * {perkMultiplier}]}% for {[8.000000]}s.</string>
+	<string key="PerkID_WeaponMastery_Blunderbuss_MortarCharge_Name" rel_version="ProgressionOverhaul2025">Resupplying Mortar Charge II</string>
+	<string key="PerkID_WeaponMastery_Blunderbuss_MortarCharge_Description" rel_version="ProgressionOverhaul2025">Mortar Charge kills reload 1 additional canister (Max 1 reload per shot. Will not trigger after final shot). Hits from Mortar Charge grant a stack of {[0.040000 * 100 * {perkMultiplier}]}% Empower for {[6.000000]}s (Max {[3.000000]} Stacks).</string>
+	<string key="PerkID_WeaponMastery_Blunderbuss_VortexShot_Name" rel_version="ProgressionOverhaul2025">Crippling Blast Shot II</string>
+	<string key="PerkID_WeaponMastery_Blunderbuss_VortexShot_Description" rel_version="ProgressionOverhaul2025">Targets hit by Blast Shot are Slowed, reducing movement speed by {[-0.180000 * -100 * {perkMultiplier}]}% for {[5.000000]}s.</string>
+	<string key="PerkID_WeaponMastery_Flail_Slam_Name" rel_version="ProgressionOverhaul2025">Burdening Smite II</string>
+	<string key="PerkID_WeaponMastery_Flail_Slam_Description" rel_version="ProgressionOverhaul2025">Smite penetrates {[0.080000 * 100 * {perkMultiplier}]}% of the target's armor. PvP Only: Smite hits against players extend their active cooldowns by {[0.100000 * 100 * {perkMultiplier}]}%.</string>
+	<string key="PerkID_WeaponMastery_Flail_Blast_Name" rel_version="ProgressionOverhaul2025">Mending Vortex II</string>
+	<string key="PerkID_WeaponMastery_Flail_Blast_Description" rel_version="ProgressionOverhaul2025">Every {[2.000000]} hits with Vortex will heal you for {[0.180000 * 100 * {perkMultiplier}]}% of the base weapon damage.</string>
+	<string key="PerkID_WeaponMastery_Flail_Burst_Name" rel_version="ProgressionOverhaul2025">Powerful Eruption II</string>
+	<string key="PerkID_WeaponMastery_Flail_Burst_Description" rel_version="ProgressionOverhaul2025">Eruption hits deal {[0.080000 * 100 * {perkMultiplier}]}% increased damage per stack of Impairment on the target.</string>
+	<string key="PerkID_WeaponMastery_Flail_Charge_Name" rel_version="ProgressionOverhaul2025">Accelerating Barrage II</string>
+	<string key="PerkID_WeaponMastery_Flail_Charge_Description" rel_version="ProgressionOverhaul2025">After hitting a target with Barrage's main attack, gain {[0.120000 * 100 * {perkMultiplier}]}% haste for {[6.000000]}s.</string>
+	<string key="PerkID_WeaponMastery_Flail_Trip_Name" rel_version="ProgressionOverhaul2025">Thwarting Trip II</string>
+	<string key="PerkID_WeaponMastery_Flail_Trip_Description" rel_version="ProgressionOverhaul2025">If Trip's first attack hits a target with active grit, the attack deals {[0.300000 * 100 * {perkMultiplier}]}% more base damage.</string>
+	<string key="PerkID_WeaponMastery_Flail_DefensiveStrike_Name" rel_version="ProgressionOverhaul2025">Crowded Bludgeon II</string>
+	<string key="PerkID_WeaponMastery_Flail_DefensiveStrike_Description" rel_version="ProgressionOverhaul2025">If {[2.000000]} or more targets are hit with warding bludgeon, even if the hits are blocked, gain {[0.100000 * 100 * {perkMultiplier}]}% Empower for {[6.000000]}s.</string>
+	<string key="PerkID_Slottable_Common_DurCC_Name" rel_version="ProgressionOverhaul2025">Freedom II</string>
+	<string key="PerkID_Slottable_Common_DurCC_Description" rel_version="ProgressionOverhaul2025">Reduce the base duration of Slow, Stun, and Root by {[-0.117800 * -100 * {perkMultiplier}]}%.</string>
+	<string key="PerkID_Slottable_Common_DurDot_Name" rel_version="ProgressionOverhaul2025">Vigor II</string>
+	<string key="PerkID_Slottable_Common_DurDot_Description" rel_version="ProgressionOverhaul2025">Reduce the base duration of Burn, Bleed, and Poison by {[-0.117800 * -100 * {perkMultiplier}]}%.</string>
+	<string key="PerkID_Slottable_Common_DurDebuff_Name" rel_version="ProgressionOverhaul2025">Invigorated II</string>
+	<string key="PerkID_Slottable_Common_DurDebuff_Description" rel_version="ProgressionOverhaul2025">Reduce the base duration of Weaken, Disease, Exhaust, and Rend by {[-0.117800 * -100 * {perkMultiplier}]}%.</string>
+	<string key="PerkID_Slottable_Common_DoTPotencyRed_Haste_Name" rel_version="ProgressionOverhaul2025">Hasted Vigor II</string>
+	<string key="PerkID_Slottable_Common_DoTPotencyRed_Haste_Description" rel_version="ProgressionOverhaul2025">Potency of incoming damage over time effects reduced by {[-0.071000 * -100 * {perkMultiplier}]}% per armor piece with this perk, and taking a hit while inflicted with a DoT will grant {[0.071000 * 100 * {perkMultiplier}]}% haste for {[5.000000]}s.</string>
+	<string key="PerkID_Slottable_Common_RangeDefense_Physical_Name" rel_version="ProgressionOverhaul2025">Physical Aversion II</string>
+	<string key="PerkID_Slottable_Common_RangeDefense_Physical_Description" rel_version="ProgressionOverhaul2025">Receive {[0.028300 * 100 * {perkMultiplier}]}% less damage from ranged, physical attacks.</string>
+	<string key="PerkID_Slottable_Common_RangeDefense_Elemental_Name" rel_version="ProgressionOverhaul2025">Elemental Aversion II</string>
+	<string key="PerkID_Slottable_Common_RangeDefense_Elemental_Description" rel_version="ProgressionOverhaul2025">Receive {[0.023600 * 100 * {perkMultiplier}]}% less damage from ranged, elemental attacks.</string>
+	<string key="PerkID_Slottable_Common_PvP_DodgeSuccess_Heal_Name" rel_version="ProgressionOverhaul2025">Shirking Heals II</string>
+	<string key="PerkID_Slottable_Common_PvP_DodgeSuccess_Heal_Description" rel_version="ProgressionOverhaul2025">PvP Only: Dodging an attack heals {[157.000000 * {perkMultiplier}]} Health and {[0.009500 * 100 * {perkMultiplier}]}% of your max Health (Each armor piece with this perk adds a stack. Max 1 trigger every {[7.000000]}s).</string>
+	<string key="PerkID_Slottable_Common_DurFortify_Name" rel_version="ProgressionOverhaul2025">Fortified II</string>
+	<string key="PerkID_Slottable_Common_DurFortify_Description" rel_version="ProgressionOverhaul2025">Fortify you apply lasts {[0.078500 * 100 * {perkMultiplier}]}% longer.</string>
+	<string key="PerkID_Slottable_Common_Healing_Name" rel_version="ProgressionOverhaul2025">Divine II</string>
+	<string key="PerkID_Slottable_Common_Healing_Description" rel_version="ProgressionOverhaul2025">+{[0.043200 * 100 * {perkMultiplier}]}% Health from non-consumable or lifesteal healing sources.</string>
+	<string key="PerkID_Slottable_Common_PotionHeal_Name" rel_version="ProgressionOverhaul2025">Alchemist Reprieve II</string>
+	<string key="PerkID_Slottable_Common_PotionHeal_Description" rel_version="ProgressionOverhaul2025">Improves the healing from potions by {[0.055000 * 100 * {perkMultiplier}]}%.</string>
+	<string key="PerkID_Slottable_Common_LifestealHealing_Name" rel_version="ProgressionOverhaul2025">Anointed Lifesteal II</string>
+	<string key="PerkID_Slottable_Common_LifestealHealing_Description" rel_version="ProgressionOverhaul2025">{[0.055000 * 100]}% increased healing from lifesteals.</string>
+	<string key="PerkID_Slottable_Common_DefGrit_Name" rel_version="ProgressionOverhaul2025">Grit Ward II</string>
+	<string key="PerkID_Slottable_Common_DefGrit_Description" rel_version="ProgressionOverhaul2025">{[0.017300 * 100 * {perkMultiplier}]}% reduced damage taken while under the effects of grit.</string>
+	<string key="PerkID_Slottable_Common_DefBasic_Name" rel_version="ProgressionOverhaul2025">Enchanted Ward II</string>
+	<string key="PerkID_Slottable_Common_DefBasic_Description" rel_version="ProgressionOverhaul2025">{[0.016000 * 100 * {perkMultiplier}]}% reduced damage taken from light and heavy attacks.</string>
+	<string key="PerkID_Slottable_Common_EnergizedPotencyInc_Name" rel_version="ProgressionOverhaul2025">Potent Vivacity II</string>
+	<string key="PerkID_Slottable_Common_EnergizedPotencyInc_Description" rel_version="ProgressionOverhaul2025">Increase the potency of all Energized status effects on you by {[0.120000 * 100 * {perkMultiplier}]}%.</string>
+	<string key="PerkID_Slottable_Common_ExhaustPotencyRed_Name" rel_version="ProgressionOverhaul2025">Potent Energy II</string>
+	<string key="PerkID_Slottable_Common_ExhaustPotencyRed_Description" rel_version="ProgressionOverhaul2025">Decrease the potency of all Exhaust status effects on you by {[-0.120000 * -100 * {perkMultiplier}]}%.</string>
+	<string key="PerkID_Slottable_Common_RemoveOnPotion_Name" rel_version="ProgressionOverhaul2025">Purifying Toast II</string>
+	<string key="PerkID_Slottable_Common_RemoveOnPotion_Description" rel_version="ProgressionOverhaul2025">When you drink a survival potion, lose {[1.000000]} debuff.</string>
+	<string key="PerkID_Slottable_Common_Health_Name" rel_version="ProgressionOverhaul2025">Wellness II</string>
+	<string key="PerkID_Slottable_Common_Health_Description" rel_version="ProgressionOverhaul2025">Increase max health by {[0.015700 * 100 * {perkMultiplier}]}%.</string>
+	<string key="PerkID_Slottable_Common_FortifyOnCrit_Name" rel_version="ProgressionOverhaul2025">Keenly Fortified II</string>
+	<string key="PerkID_Slottable_Common_FortifyOnCrit_Description" rel_version="ProgressionOverhaul2025">Gain {[0.150000 * 100 * {perkMultiplier}]}% Fortify for {[5.000000]}s on critical hit ({[7.000000]}s cooldown).</string>
+	<string key="PerkID_Slottable_Common_DmgFire_Name" rel_version="ProgressionOverhaul2025">Fire Harnessing II</string>
+	<string key="PerkID_Slottable_Common_DmgFire_Description" rel_version="ProgressionOverhaul2025">+{[0.023600 * 100 * {perkMultiplier}]}% fire damage.</string>
+	<string key="PerkID_Slottable_Common_DmgIce_Name" rel_version="ProgressionOverhaul2025">Ice Harnessing II</string>
+	<string key="PerkID_Slottable_Common_DmgIce_Description" rel_version="ProgressionOverhaul2025">+{[0.023600 * 100 * {perkMultiplier}]}% ice damage.</string>
+	<string key="PerkID_Slottable_Common_DmgLightning_Name" rel_version="ProgressionOverhaul2025">Lightning Harnessing II</string>
+	<string key="PerkID_Slottable_Common_DmgLightning_Description" rel_version="ProgressionOverhaul2025">+{[0.023600 * 100 * {perkMultiplier}]}% lightning damage.</string>
+	<string key="PerkID_Slottable_Common_DmgVoid_Name" rel_version="ProgressionOverhaul2025">Void Harnessing II</string>
+	<string key="PerkID_Slottable_Common_DmgVoid_Description" rel_version="ProgressionOverhaul2025">+{[0.023600 * 100 * {perkMultiplier}]}% void damage.</string>
+	<string key="PerkID_Slottable_Common_DmgNature_Name" rel_version="ProgressionOverhaul2025">Nature Harnessing II</string>
+	<string key="PerkID_Slottable_Common_DmgNature_Description" rel_version="ProgressionOverhaul2025">+{[0.023600 * 100 * {perkMultiplier}]}% nature damage.</string>
+	<string key="PerkID_Slottable_Common_DmgArcane_Name" rel_version="ProgressionOverhaul2025">Arcane Harnessing II</string>
+	<string key="PerkID_Slottable_Common_DmgArcane_Description" rel_version="ProgressionOverhaul2025">+{[0.023600 * 100 * {perkMultiplier}]}% arcane damage.</string>
+	<string key="PerkID_Slottable_Common_DmgSlash_Name" rel_version="ProgressionOverhaul2025">Slash Harnessing II</string>
+	<string key="PerkID_Slottable_Common_DmgSlash_Description" rel_version="ProgressionOverhaul2025">+{[0.023600 * 100 * {perkMultiplier}]}% slash damage.</string>
+	<string key="PerkID_Slottable_Common_DmgStrike_Name" rel_version="ProgressionOverhaul2025">Strike Harnessing II</string>
+	<string key="PerkID_Slottable_Common_DmgStrike_Description" rel_version="ProgressionOverhaul2025">+{[0.023600 * 100 * {perkMultiplier}]}% strike damage.</string>
+	<string key="PerkID_Slottable_Common_DmgThrust_Name" rel_version="ProgressionOverhaul2025">Thrust Harnessing II</string>
+	<string key="PerkID_Slottable_Common_DmgThrust_Description" rel_version="ProgressionOverhaul2025">+{[0.023600 * 100 * {perkMultiplier}]}% thrust damage.</string>
+	<string key="PerkID_Slottable_Common_HealOutgoing_Name" rel_version="ProgressionOverhaul2025">Sacred II</string>
+	<string key="PerkID_Slottable_Common_HealOutgoing_Description" rel_version="ProgressionOverhaul2025">+{[0.051000 * 100 * {perkMultiplier}]}% outgoing healing efficiency.</string>
+	<string key="PerkID_Slottable_Common_DmgBasic_Name" rel_version="ProgressionOverhaul2025">Enchanted II</string>
+	<string key="PerkID_Slottable_Common_DmgBasic_Description" rel_version="ProgressionOverhaul2025">Light and Heavy attacks deal +{[0.018000 * 100 * {perkMultiplier}]}% damage.</string>
+	<string key="PerkID_Slottable_Common_DmgAbility_Name" rel_version="ProgressionOverhaul2025">Skilled Enchantment II</string>
+	<string key="PerkID_Slottable_Common_DmgAbility_Description" rel_version="ProgressionOverhaul2025">Abilities deal +{[0.012000 * 100 * {perkMultiplier}]}% damage.</string>
+	<string key="PerkID_Slottable_Common_DmgCrit_Name" rel_version="ProgressionOverhaul2025">Vicious II</string>
+	<string key="PerkID_Slottable_Common_DmgCrit_Description" rel_version="ProgressionOverhaul2025">+{[0.023500 * 100 * {perkMultiplier}]}% critical damage.</string>
+	<string key="PerkID_Slottable_Common_CritChance_Name" rel_version="ProgressionOverhaul2025">Keen II</string>
+	<string key="PerkID_Slottable_Common_CritChance_Description" rel_version="ProgressionOverhaul2025">+{[0.031500 * 100 * {perkMultiplier}]}% critical chance.</string>
+	<string key="PerkID_Slottable_Common_DmgHeadshot_Name" rel_version="ProgressionOverhaul2025">Vorpal II</string>
+	<string key="PerkID_Slottable_Common_DmgHeadshot_Description" rel_version="ProgressionOverhaul2025">+{[0.031500 * 100 * {perkMultiplier}]}% headshot damage.</string>
+	<string key="PerkID_Slottable_Common_DmgBack_Name" rel_version="ProgressionOverhaul2025">Rogue II</string>
+	<string key="PerkID_Slottable_Common_DmgBack_Description" rel_version="ProgressionOverhaul2025">+{[0.028000 * 100 * {perkMultiplier}]}% Backstab damage.</string>
+	<string key="PerkID_Slottable_Common_PvP_ArmorPenetration_OnBackstab_Name" rel_version="ProgressionOverhaul2025">Penetrating Backstab II</string>
+	<string key="PerkID_Slottable_Common_PvP_ArmorPenetration_OnBackstab_Description" rel_version="ProgressionOverhaul2025">PvP Only: Backstabs penetrate {[0.063000 * 100 * {perkMultiplier}]}% of a player's armor.</string>
+	<string key="PerkID_Slottable_Common_PvP_ArmorPenetration_OnHeadshot_Name" rel_version="ProgressionOverhaul2025">Penetrating Headshot II</string>
+	<string key="PerkID_Slottable_Common_PvP_ArmorPenetration_OnHeadshot_Description" rel_version="ProgressionOverhaul2025">PvP Only: Headshots penetrate {[0.055000 * 100 * {perkMultiplier}]}% of a player's armor.</string>
+	<string key="PerkID_Slottable_Common_DurPoison_Name" rel_version="ProgressionOverhaul2025">Poisoning II</string>
+	<string key="PerkID_Slottable_Common_DurPoison_Description" rel_version="ProgressionOverhaul2025">Base duration of Poisons you apply lasts {[0.125700 * 100 * {perkMultiplier}]}% longer.</string>
+	<string key="PerkID_Slottable_Common_DurBleed_Name" rel_version="ProgressionOverhaul2025">Blood Letting II</string>
+	<string key="PerkID_Slottable_Common_DurBleed_Description" rel_version="ProgressionOverhaul2025">Base duration of Bleeds you apply lasts {[0.125700 * 100 * {perkMultiplier}]}% longer.</string>
+	<string key="PerkID_Slottable_Common_DurBurning_Name" rel_version="ProgressionOverhaul2025">Burning II</string>
+	<string key="PerkID_Slottable_Common_DurBurning_Description" rel_version="ProgressionOverhaul2025">Base duration of Burns you apply lasts {[0.125700 * 100 * {perkMultiplier}]}% longer.</string>
+	<string key="PerkID_Slottable_Common_DurSlow_Name" rel_version="ProgressionOverhaul2025">Crippling II</string>
+	<string key="PerkID_Slottable_Common_DurSlow_Description" rel_version="ProgressionOverhaul2025">Base duration of Slows you apply lasts {[0.125700 * 100 * {perkMultiplier}]}% longer.</string>
+	<string key="PerkID_Slottable_Common_DurWeaken_Name" rel_version="ProgressionOverhaul2025">Enfeebling II</string>
+	<string key="PerkID_Slottable_Common_DurWeaken_Description" rel_version="ProgressionOverhaul2025">Base duration of Weakens you apply lasts {[0.125700 * 100 * {perkMultiplier}]}% longer.</string>
+	<string key="PerkID_Slottable_Common_DurDisease_Name" rel_version="ProgressionOverhaul2025">Infected II</string>
+	<string key="PerkID_Slottable_Common_DurDisease_Description" rel_version="ProgressionOverhaul2025">Base duration of Diseases you apply lasts {[0.125700 * 100 * {perkMultiplier}]}% longer.</string>
+	<string key="PerkID_Slottable_Common_DurEmpower_Name" rel_version="ProgressionOverhaul2025">Empowered II</string>
+	<string key="PerkID_Slottable_Common_DurEmpower_Description" rel_version="ProgressionOverhaul2025">Empower you apply lasts {[0.094000 * 100 * {perkMultiplier}]}% longer.</string>
+	<string key="PerkID_Slottable_Common_DurHaste_Name" rel_version="ProgressionOverhaul2025">Alacrity II</string>
+	<string key="PerkID_Slottable_Common_DurHaste_Description" rel_version="ProgressionOverhaul2025">Haste you apply lasts {[0.094000 * 100 * {perkMultiplier}]}% longer.</string>
+	<string key="PerkID_Slottable_Common_HealperDmg_Name" rel_version="ProgressionOverhaul2025">Leeching II</string>
+	<string key="PerkID_Slottable_Common_HealperDmg_Description" rel_version="ProgressionOverhaul2025">Heal for {[0.031500 * 100 * {perkMultiplier}]}% of the damage you deal (Does not trigger off persistent damage or DoT effects).</string>
+	<string key="PerkID_Slottable_Common_BleedonCrit_Name" rel_version="ProgressionOverhaul2025">Keenly Jagged II</string>
+	<string key="PerkID_Slottable_Common_BleedonCrit_Description" rel_version="ProgressionOverhaul2025">Inflicts Bleed on critical hit, dealing {[-0.071000 * -100 * {perkMultiplier}]}% weapon damage per second for {[6.000000]}s ({[7.000000]}s cooldown).</string>
+	<string key="PerkID_Slottable_Common_EmpowerOnCrit_Name" rel_version="ProgressionOverhaul2025">Keenly Empowered II</string>
+	<string key="PerkID_Slottable_Common_EmpowerOnCrit_Description" rel_version="ProgressionOverhaul2025">Gain {[0.100000 * 100 * {perkMultiplier}]}% Empower for {[5.000000]}s on critical hit ({[7.000000]}s cooldown).</string>
+	<string key="PerkID_Fixed_Weapon_Disease_Crit_Name" rel_version="ProgressionOverhaul2025">Plagued Crits II</string>
+	<string key="PerkID_Fixed_Weapon_Disease_Crit_Description" rel_version="ProgressionOverhaul2025">Critical strikes against targets inflict Disease for {[6.000000]}s, reducing healing effectiveness on the target by {[-0.196000 * -100 * {perkMultiplier}]}% and outgoing healing by {[-0.098000 * -100 * {perkMultiplier}]}%.</string>
+	<string key="PerkID_Fixed_Weapon_Disease_Heavy_Name" rel_version="ProgressionOverhaul2025">Plagued Strikes II</string>
+	<string key="PerkID_Fixed_Weapon_Disease_Heavy_Description" rel_version="ProgressionOverhaul2025">Heavy attacks inflict Disease for {[8.000000]}s, reducing healing effectiveness on the target by {[-0.196000 * -100 * {perkMultiplier}]}% and outgoing healing by {[-0.098000 * -100 * {perkMultiplier}]}%.</string>
+	<string key="PerkID_Fixed_Weapon_DmgAgainstGrit_Name" rel_version="ProgressionOverhaul2025">Thwarting Counter II</string>
+	<string key="PerkID_Fixed_Weapon_DmgAgainstGrit_Description" rel_version="ProgressionOverhaul2025">+{[0.118000 * 100 * {perkMultiplier}]}% damage against targets with active Grit.</string>
+	<string key="PerkID_Fixed_Weapon_DmgWithGrit_Name" rel_version="ProgressionOverhaul2025">Thwarting Strikes II</string>
+	<string key="PerkID_Fixed_Weapon_DmgWithGrit_Description" rel_version="ProgressionOverhaul2025">+{[0.051000 * 100 * {perkMultiplier}]}% damage while you have active Grit.</string>
+	<string key="PerkID_Fixed_Weapon_Melee_ChargedHeavy_DMG_Name" rel_version="ProgressionOverhaul2025">Trenchant Strikes II</string>
+	<string key="PerkID_Fixed_Weapon_Melee_ChargedHeavy_DMG_Description" rel_version="ProgressionOverhaul2025">Heavy melee attacks deal +{[0.118000 * 100 * {perkMultiplier}]}% damage.</string>
+	<string key="PerkID_Fixed_Weapon_Melee_ChargedHeavy_Crit_Name" rel_version="ProgressionOverhaul2025">Trenchant Crits II</string>
+	<string key="PerkID_Fixed_Weapon_Melee_ChargedHeavy_Crit_Description" rel_version="ProgressionOverhaul2025">Heavy melee attacks deal +{[0.157000 * 100 * {perkMultiplier}]}% critical damage.</string>
+	<string key="PerkID_Fixed_Weapon_Melee_ChargedHeavy_Rend_Name" rel_version="ProgressionOverhaul2025">Trenchant Rend II</string>
+	<string key="PerkID_Fixed_Weapon_Melee_ChargedHeavy_Rend_Description" rel_version="ProgressionOverhaul2025">Heavy melee attacks inflict Rend for {[7.000000]}s, reducing the target's armor by {[-0.157000 * -100 * {perkMultiplier}]}% ({[7.000000]}s cooldown).</string>
+	<string key="PerkID_Fixed_Weapon_Melee_ChargedHeavy_Heal_Name" rel_version="ProgressionOverhaul2025">Trenchant Recovery II</string>
+	<string key="PerkID_Fixed_Weapon_Melee_ChargedHeavy_Heal_Description" rel_version="ProgressionOverhaul2025">Heal for {[0.157000 * 100 * {perkMultiplier}]}% of the damage dealt by heavy melee attacks.</string>
+	<string key="PerkID_Fixed_Weapon_DodgeSuccess_FireDMG_Name" rel_version="ProgressionOverhaul2025">Shirking Flames II</string>
+	<string key="PerkID_Fixed_Weapon_DodgeSuccess_FireDMG_Description" rel_version="ProgressionOverhaul2025">After dodging an attack, your next hit within {[10.000000]}s deals +{[-0.236000 * -100 * {perkMultiplier}]}% base weapon damage as Fire.</string>
+	<string key="PerkID_Fixed_Weapon_DodgeSuccess_NatureDMG_Name" rel_version="ProgressionOverhaul2025">Shirking Nature II</string>
+	<string key="PerkID_Fixed_Weapon_DodgeSuccess_NatureDMG_Description" rel_version="ProgressionOverhaul2025">After dodging an attack, your next hit within {[10.000000]}s deals +{[-0.236000 * -100 * {perkMultiplier}]}% base weapon damage as Nature.</string>
+	<string key="PerkID_Fixed_Weapon_DodgeSuccess_IceDMG_Name" rel_version="ProgressionOverhaul2025">Shirking Frost II</string>
+	<string key="PerkID_Fixed_Weapon_DodgeSuccess_IceDMG_Description" rel_version="ProgressionOverhaul2025">After dodging an attack, your next hit within {[10.000000]}s deals +{[-0.236000 * -100 * {perkMultiplier}]}% base weapon damage as Ice.</string>
+	<string key="PerkID_Fixed_Weapon_DodgeSuccess_LightningDMG_Name" rel_version="ProgressionOverhaul2025">Shirking Shock II</string>
+	<string key="PerkID_Fixed_Weapon_DodgeSuccess_LightningDMG_Description" rel_version="ProgressionOverhaul2025">After dodging an attack, your next hit within {[10.000000]}s deals +{[-0.236000 * -100 * {perkMultiplier}]}% base weapon damage as Lightning.</string>
+	<string key="PerkID_Fixed_Weapon_DodgeSuccess_VoidDMG_Name" rel_version="ProgressionOverhaul2025">Shirking Abyss II</string>
+	<string key="PerkID_Fixed_Weapon_DodgeSuccess_VoidDMG_Description" rel_version="ProgressionOverhaul2025">After dodging an attack, your next hit within {[10.000000]}s deals +{[-0.236000 * -100 * {perkMultiplier}]}% base weapon damage as Void.</string>
+	<string key="PerkID_Fixed_Weapon_DodgeSuccess_ArcaneDMG_Name" rel_version="ProgressionOverhaul2025">Shirking Arcane II</string>
+	<string key="PerkID_Fixed_Weapon_DodgeSuccess_ArcaneDMG_Description" rel_version="ProgressionOverhaul2025">After dodging an attack, your next hit within {[10.000000]}s deals +{[-0.236000 * -100 * {perkMultiplier}]}% base weapon damage as Arcane.</string>
+	<string key="PerkID_Fixed_Weapon_Attunement_Fire_Name" rel_version="ProgressionOverhaul2025">Flame Attunement II</string>
+	<string key="PerkID_Fixed_Weapon_Attunement_Fire_Description" rel_version="ProgressionOverhaul2025">Successful hits deal +{[-0.110000 * -100 * {perkMultiplier}]}% weapon damage as Fire ({[1.500000]}s cooldown)</string>
+	<string key="PerkID_Fixed_Weapon_Attunement_Ice_Name" rel_version="ProgressionOverhaul2025">Frost Attunement II</string>
+	<string key="PerkID_Fixed_Weapon_Attunement_Ice_Description" rel_version="ProgressionOverhaul2025">Successful hits deal +{[-0.110000 * -100 * {perkMultiplier}]}% weapon damage as Ice ({[1.500000]}s cooldown)</string>
+	<string key="PerkID_Fixed_Weapon_Attunement_Lightning_Name" rel_version="ProgressionOverhaul2025">Shock Attunement II</string>
+	<string key="PerkID_Fixed_Weapon_Attunement_lightning_Description" rel_version="ProgressionOverhaul2025">Successful hits deal +{[-0.110000 * -100 * {perkMultiplier}]}% weapon damage as Lightning ({[1.500000]}s cooldown)</string>
+	<string key="PerkID_Fixed_Weapon_Attunement_Nature_Name" rel_version="ProgressionOverhaul2025">Arboreal Attunement II</string>
+	<string key="PerkID_Fixed_Weapon_Attunement_Nature_Description" rel_version="ProgressionOverhaul2025">Successful hits deal +{[-0.110000 * -100 * {perkMultiplier}]}% weapon damage as Nature ({[1.500000]}s cooldown)</string>
+	<string key="PerkID_Fixed_Weapon_Attunement_Void_Name" rel_version="ProgressionOverhaul2025">Abyssal Attunement II</string>
+	<string key="PerkID_Fixed_Weapon_Attunement_Void_Description" rel_version="ProgressionOverhaul2025">Successful hits deal +{[-0.110000 * -100 * {perkMultiplier}]}% weapon damage as Void ({[1.500000]}s cooldown)</string>
+	<string key="PerkID_Fixed_Weapon_Attunement_Arcane_Name" rel_version="ProgressionOverhaul2025">Arcane Attunement II</string>
+	<string key="PerkID_Fixed_Weapon_Attunement_Arcane_Description" rel_version="ProgressionOverhaul2025">Successful hits deal +{[-0.110000 * -100 * {perkMultiplier}]}% weapon damage as Arcane ({[1.500000]}s cooldown)</string>
+	<string key="PerkID_Fixed_Weapon_DoTPotDurInc_Name" rel_version="ProgressionOverhaul2025">Distained Infliction II</string>
+	<string key="PerkID_Fixed_Weapon_DoTPotDurInc_Description" rel_version="ProgressionOverhaul2025">Potency of outgoing DoTs are increased by {[0.118000 * 100 * {perkMultiplier}]}%. Hitting a target inflicted by your DoTs will extend the duration of them by {[0.039000 * 100 * {perkMultiplier}]}% ({[1.500000]}s Cooldown)</string>
+	<string key="PerkID_Fixed_Weapon_PvP_EmpowerPenetrate_Name" rel_version="ProgressionOverhaul2025">Penetrating Empowered II</string>
+	<string key="PerkID_Fixed_Weapon_PvP_EmpowerPenetrate_Description" rel_version="ProgressionOverhaul2025">PvP Only: Critical hits against empowered players will have {[0.080000 * 100 * {perkMultiplier}]}% armor penetration and reduce the duration of empowers on them by {[-0.055000 * -100 * {perkMultiplier}]}%. ({[1.000000]}s reduction cooldown)</string>
+	<string key="PerkID_Fixed_Weapon_OnExhaustDmg_Name" rel_version="ProgressionOverhaul2025">Desperate Empower II</string>
+	<string key="PerkID_Fixed_Weapon_OnExhaustDmg_Description" rel_version="ProgressionOverhaul2025">+{[0.094000 * 100 * {perkMultiplier}]}% damage and {[0.055000 * 100 * {perkMultiplier}]}% haste while exhausted.</string>
+	<string key="PerkID_Fixed_Weapon_RendingStacks_Name" rel_version="ProgressionOverhaul2025">Sundering Stacks II</string>
+	<string key="PerkID_Fixed_Weapon_RendingStacks_Description" rel_version="ProgressionOverhaul2025">Once every {[0.500000]}s, attack inflicts a stack of {[-0.031500 * -100 * {perkMultiplier}]}% Rend, each stack lasting {[6.000000]}s. (Max {[5.000000]} stacks)</string>
+	<string key="PerkID_Fixed_PvP_Weapon_BlockBreak_Rend_Name" rel_version="ProgressionOverhaul2025">Fractured Rend II</string>
+	<string key="PerkID_Fixed_PvP_Weapon_BlockBreak_Rend_Description" rel_version="ProgressionOverhaul2025">PvP Only: When block breaking a player, inflict Rend, reducing armor by {[-0.141500 * -100 * {perkMultiplier}]}% for {[6.000000]}s.</string>
+	<string key="PerkID_Fixed_PvP_Weapon_CleanseBuff_Crits_Name" rel_version="ProgressionOverhaul2025">Purifying Crits II</string>
+	<string key="PerkID_Fixed_PvP_Weapon_CleanseBuff_Crits_Description" rel_version="ProgressionOverhaul2025">PvP Only: Critical hits against players remove {[1.000000]} buff from the target ({[3.000000]}s cooldown).</string>
+	<string key="PerkID_Fixed_PvP_Weapon_ExhaustedTarget_Slow_Name" rel_version="ProgressionOverhaul2025">Exhausted Exploitation II</string>
+	<string key="PerkID_Fixed_PvP_Weapon_ExhaustedTarget_Slow_Description" rel_version="ProgressionOverhaul2025">PvP Only: Hits against Exhausted players inflict Slow, reducing movement speed by {[-0.118000 * -100 * {perkMultiplier}]}% for {[4.000000]}s. If you hit target in the back, inflict Exhaust, reducing stamina regen by {[-0.102000 * -100 * {perkMultiplier}]}% for {[4.000000]}s. </string>
+	<string key="PerkID_Fixed_PvP_WeaponMagic_DmgToHaste_Name" rel_version="ProgressionOverhaul2025">Alacritous Punishment II</string>
+	<string key="PerkID_Fixed_PvP_WeaponMagic_DmgToHaste_Description" rel_version="ProgressionOverhaul2025">PvP Only: +{[0.126000 * 100 * {perkMultiplier}]}% damage to players with Haste.</string>
+	<string key="PerkID_Fixed_LifeStaff_OnLowBonusHeal_Name" rel_version="ProgressionOverhaul2025">Savior II</string>
+	<string key="PerkID_Fixed_LifeStaff_OnLowBonusHeal_Description" rel_version="ProgressionOverhaul2025">Healing is increased by {[0.118000 * 100 * {perkMultiplier}]}% when you heal a target below {[50.000000]}% health.</string>
+	<string key="PerkID_Fixed_LifeStaff_OnRemoveHeal_Name" rel_version="ProgressionOverhaul2025">Purifying Breeze II</string>
+	<string key="PerkID_Fixed_LifeStaff_OnRemoveHeal_Description" rel_version="ProgressionOverhaul2025">Heal for {[0.157000 * 100 * {perkMultiplier}]}% weapon damage every time you remove a debuff from an ally.</string>
+	<string key="PerkID_Fixed_LifeStaff_LowManaBonusHeal_Name" rel_version="ProgressionOverhaul2025">Desperate Prayer II</string>
+	<string key="PerkID_Fixed_LifeStaff_LowManaBonusHeal_Description" rel_version="ProgressionOverhaul2025">When you are below {[50.000000]}% mana your heals are {[0.118000 * 100 * {perkMultiplier}]}% more effective.</string>
+	<string key="PerkID_Fixed_WeaponHeal_OnKillContribution_HealMod_Name" rel_version="ProgressionOverhaul2025">Resurgence II</string>
+	<string key="PerkID_Fixed_WeaponHeal_OnKillContribution_HealMod_Description" rel_version="ProgressionOverhaul2025">Kills and group kills grant stacks of blessed, increasing outgoing healing by {[0.008000 * 100 {perkMultiplier}]}% per stack for {[20.000000]}s. (Personal kills grant 2 stacks, group AI kills grant 1 stack. Max {[15.000000]} stacks)</string>
+	<string key="PerkID_Fixed_WeaponMagic_CritChanceReduction_Name" rel_version="ProgressionOverhaul2025">Critical Suppression II</string>
+	<string key="PerkID_Fixed_WeaponMagic_CritChanceReduction_Description" rel_version="ProgressionOverhaul2025">Hitting a target with a magic weapon light or heavy attack attack will reduce their critical chance by {[-0.020000 * -100 * {perkMultiplier}]}% for {[3.000000]}s (Stacks {[4.000000]} times)</string>
+	<string key="PerkID_Fixed_WeaponMelee_AbilityEnderDmg_Name" rel_version="ProgressionOverhaul2025">End II</string>
+	<string key="PerkID_Fixed_WeaponMelee_AbilityEnderDmg_Description" rel_version="ProgressionOverhaul2025">+{[0.047000 * 100 * {perkMultiplier}]}% ability base damage and +{[0.094000 * 100 * {perkMultiplier}]}% base damage increase to the final attack in a melee light attack chain.</string>
+	<string key="PerkID_Fixed_MeleeShield_BlockingStam_Name" rel_version="ProgressionOverhaul2025">Sturdy II</string>
+	<string key="PerkID_Fixed_MeleeShield_BlockingStam_Description" rel_version="ProgressionOverhaul2025">Receive {[0.078500 * 100 * {perkMultiplier}]}% less Stamina damage while blocking.</string>
+	<string key="PerkID_Fixed_MeleeShield_BlockingMove_Name" rel_version="ProgressionOverhaul2025">Sure Footing II</string>
+	<string key="PerkID_Fixed_MeleeShield_BlockingMove_Description" rel_version="ProgressionOverhaul2025">+{[0.300000 * 100]}% movement speed while blocking. And push and pull distances against you are reduced by {[0.157100 * 100 * {perkMultiplier}]}%.</string>
+	<string key="PerkID_Fixed_Weapon_ThreatAdd_Name" rel_version="ProgressionOverhaul2025">Hatred II</string>
+	<string key="PerkID_Fixed_Weapon_ThreatAdd_Description" rel_version="ProgressionOverhaul2025">Generate {[1.960000 * 100 * {perkMultiplier}]}% more threat and deal {[0.055000 * 100 * {perkMultiplier}]}% more base damage to taunted foes.</string>
+	<string key="PerkID_Fixed_Weapon_HealOnDmg_Name" rel_version="ProgressionOverhaul2025">Lifestealing II</string>
+	<string key="PerkID_Fixed_Weapon_HealOnDmg_Description" rel_version="ProgressionOverhaul2025">Heal for {[0.043000 * 100 * {perkMultiplier}]}% of the damage you deal (Does not trigger off persistent damage or DoT effects).</string>
+	<string key="PerkID_Fixed_Weapon_HasteOnCrit_Name" rel_version="ProgressionOverhaul2025">Keen Speed II</string>
+	<string key="PerkID_Fixed_Weapon_HasteOnCrit_Description" rel_version="ProgressionOverhaul2025">Gain {[0.117800 * 100 * {perkMultiplier}]}% Haste for {[3.000000]}s on critical hit ({[3.000000]}s cooldown).</string>
+	<string key="PerkID_Fixed_Weapon_OnKillBuff_Name" rel_version="ProgressionOverhaul2025">Mortal Aggression II</string>
+	<string key="PerkID_Fixed_Weapon_OnKillBuff_Description" rel_version="ProgressionOverhaul2025">Hits grant {[0.012200 * 100 * {perkMultiplier}]}% lifesteal. Gain {[0.061500 * 100 * {perkMultiplier}]}% of your Max Health, {[6.150000 * {perkMultiplier}]} stamina, and gain {[0.073400 * 100 * {perkMultiplier}]}% fortify and {[0.061500 * 100 * {perkMultiplier}]}% Empower for {[8.000000]}s on kill. ({[2.000000]}s cooldown)</string>
+	<string key="PerkID_Fixed_PvP_Shield_FortifyStackOnBlock_Name" rel_version="ProgressionOverhaul2025">Sturdy Fortification II</string>
+	<string key="PerkID_Fixed_PvP_Shield_FortifyStackOnBlock_Description" rel_version="ProgressionOverhaul2025">PvP Only: Blocking player attacks adds a stack of {[0.063000 * 100 * {perkMultiplier}]}% Fortify to you for {[6.000000]}s for each blocked hit (Max {[5.000000]} stacks).</string>
+	<string key="PerkID_Fixed_Shield_Kite_OnBlockHeal_Name" rel_version="ProgressionOverhaul2025">Healing Defense II</string>
+	<string key="PerkID_Fixed_Shield_Kite_OnBlockHeal_Description" rel_version="ProgressionOverhaul2025">On Block: Heal for {[0.019600 * 100 * {perkMultiplier}]}% base health ({[5.000000]}s cooldown).</string>
+	<string key="PerkID_Fixed_Shield_Kite_OnBlockDmg_Name" rel_version="ProgressionOverhaul2025">Shielded Retaliation II</string>
+	<string key="PerkID_Fixed_Shield_Kite_OnBlockDmg_Description" rel_version="ProgressionOverhaul2025">On Block: Gain a {[0.117800 * 100 * {perkMultiplier}]}% Empower for {[4.000000]}s.</string>
+	<string key="PerkID_Fixed_Stat_Shield_RoundShield_Name" rel_version="ProgressionOverhaul2025">Shield Aggression II</string>
+	<string key="PerkID_Fixed_Stat_Shield_RoundShield_Description" rel_version="ProgressionOverhaul2025">+{[0.031400 * 100 * {perkMultiplier}]}% base damage.</string>
+	<string key="PerkID_Fixed_Stat_Shield_KiteShield_Name" rel_version="ProgressionOverhaul2025">Refreshing Defense II</string>
+	<string key="PerkID_Fixed_Stat_Shield_KiteShield_Description" rel_version="ProgressionOverhaul2025">Gain {[-0.031400 * -100 * {perkMultiplier}]}% cooldown reduction.</string>
+	<string key="PerkID_Fixed_Stat_Shield_TowerShield_Name" rel_version="ProgressionOverhaul2025">Shield Defense II</string>
+	<string key="PerkID_Fixed_Stat_Shield_TowerShield_Description" rel_version="ProgressionOverhaul2025">{[0.031400 * 100 * {perkMultiplier}]}% damage reduction.</string>
+	<string key="PerkID_Fixed_Armor_DodgeSuccess_Fortify_Name" rel_version="ProgressionOverhaul2025">Shirking Fortification II</string>
+	<string key="PerkID_Fixed_Armor_DodgeSuccess_Fortify_Description" rel_version="ProgressionOverhaul2025">After dodging an attack, gain Fortify, increasing armor by {[0.070700 * 100 * {perkMultiplier}]}% for {[6.000000]}s (Each item with this perk stacks)</string>
+	<string key="PerkID_Fixed_Armor_Conditioning_Fire_Name" rel_version="ProgressionOverhaul2025">Flame Conditioning II</string>
+	<string key="PerkID_Fixed_Armor_Conditioning_Fire_Description" rel_version="ProgressionOverhaul2025">+{[0.039000 * 100 * {perkMultiplier}]}% Fire Damage Absorption for {[5.000000]}s after taking Fire damage (Each item with this perk stacks)</string>
+	<string key="PerkID_Fixed_Armor_Conditioning_Ice_Name" rel_version="ProgressionOverhaul2025">Frost Conditioning II</string>
+	<string key="PerkID_Fixed_Armor_Conditioning_Ice_Description" rel_version="ProgressionOverhaul2025">+{[0.039000 * 100 * {perkMultiplier}]}% Ice Damage Absorption for {[5.000000]}s after taking Ice damage (Each item with this perk stacks)</string>
+	<string key="PerkID_Fixed_Armor_Conditioning_Lightning_Name" rel_version="ProgressionOverhaul2025">Shock Conditioning II</string>
+	<string key="PerkID_Fixed_Armor_Conditioning_Lightning_Description" rel_version="ProgressionOverhaul2025">+{[0.039000 * 100 * {perkMultiplier}]}% Lightning Damage Absorption for {[5.000000]}s after taking Lightning damage (Each item with this perk stacks)</string>
+	<string key="PerkID_Fixed_Armor_Conditioning_Nature_Name" rel_version="ProgressionOverhaul2025">Arboreal Conditioning II</string>
+	<string key="PerkID_Fixed_Armor_Conditioning_Nature_Description" rel_version="ProgressionOverhaul2025">+{[0.039000 * 100 * {perkMultiplier}]}% Nature Damage Absorption for {[5.000000]}s after taking Nature damage (Each item with this perk stacks)</string>
+	<string key="PerkID_Fixed_Armor_Conditioning_Void_Name" rel_version="ProgressionOverhaul2025">Abyssal Conditioning II</string>
+	<string key="PerkID_Fixed_Armor_Conditioning_Void_Description" rel_version="ProgressionOverhaul2025">+{[0.039000 * 100 * {perkMultiplier}]}% Void Damage Absorption for {[5.000000]}s after taking Void damage (Each item with this perk stacks)</string>
+	<string key="PerkID_Fixed_Armor_Conditioning_Arcane_Name" rel_version="ProgressionOverhaul2025">Arcane Conditioning II</string>
+	<string key="PerkID_Fixed_Armor_Conditioning_Arcane_Description" rel_version="ProgressionOverhaul2025">+{[0.039000 * 100 * {perkMultiplier}]}% Arcane Damage Absorption for {[5.000000]}s after taking Arcane damage (Each item with this perk stacks)</string>
+	<string key="PerkID_Fixed_Armor_Conditioning_Slash_Name" rel_version="ProgressionOverhaul2025">Slash Conditioning II</string>
+	<string key="PerkID_Fixed_Armor_Conditioning_Slash_Description" rel_version="ProgressionOverhaul2025">+{[0.039000 * 100 * {perkMultiplier}]}% Slash Damage Absorption for {[5.000000]}s after taking Slash damage (Each item with this perk stacks)</string>
+	<string key="PerkID_Fixed_Armor_Conditioning_Thrust_Name" rel_version="ProgressionOverhaul2025">Thrust Conditioning II</string>
+	<string key="PerkID_Fixed_Armor_Conditioning_Thrust_Description" rel_version="ProgressionOverhaul2025">+{[0.039000 * 100 * {perkMultiplier}]}% Thrust Damage Absorption for {[5.000000]}s after taking Thrust damage (Each item with this perk stacks)</string>
+	<string key="PerkID_Fixed_Armor_Conditioning_Strike_Name" rel_version="ProgressionOverhaul2025">Strike Conditioning II</string>
+	<string key="PerkID_Fixed_Armor_Conditioning_Strike_Description" rel_version="ProgressionOverhaul2025">+{[0.039000 * 100 * {perkMultiplier}]}% Strike Damage Absorption for {[5.000000]}s after taking Strike damage (Each item with this perk stacks)</string>
+	<string key="PerkID_Fixed_Armor_PvP_ReflectDmg_Name" rel_version="ProgressionOverhaul2025">Thorny Reflection II</string>
+	<string key="PerkID_Fixed_Armor_PvP_ReflectDmg_Description" rel_version="ProgressionOverhaul2025">PvP Only: Taking a critical hit will reflect nature damage back at the target equal to {[-0.063000 * -100 * {perkMultiplier}]}% of your weapon damage, and reduce the attacker's crit chance by {[-0.078500 * -100 * {perkMultiplier}]}% for {[3.000000]}s. ({[1.000000]}s Cooldown)</string>
+	<string key="PerkID_Fixed_Head_OnCritTaken_CritChance_Name" rel_version="ProgressionOverhaul2025">Critical Retribution II</string>
+	<string key="PerkID_Fixed_Head_OnCritTaken_CritChance_Description" rel_version="ProgressionOverhaul2025">PvP Only: Gain {[0.078500 * 100 * {perkMultiplier}]}% critical chance for {[7.000000]}s when taking a critical hit ({[10.000000]}s cooldown).</string>
+	<string key="PerkID_Fixed_Chest_OnBlockedHitTaken_StaminaRegen_Name" rel_version="ProgressionOverhaul2025">Sturdy Energy II</string>
+	<string key="PerkID_Fixed_Chest_OnBlockedHitTaken_StaminaRegen_Description" rel_version="ProgressionOverhaul2025">When blocking a hit while below {[30.000000]}% Stamina, gain {[0.196400 * 100 * {perkMultiplier}]}% Stamina regeneration for {[5.000000]}s ({[10.000000]}s Cooldown. Effect is removed if player becomes Exhausted)</string>
+	<string key="PerkID_Fixed_Chest_HealthStam_Synergy_Name" rel_version="ProgressionOverhaul2025">Vital Synergy II</string>
+	<string key="PerkID_Fixed_Chest_HealthStam_Synergy_Description" rel_version="ProgressionOverhaul2025">While health is below 50%, gain {[0.150000 * 100]}% Stamina regen rate, while stamina is below 50%, incoming healing is increased by {[0.150000 * 100]}%.</string>
+	<string key="PerkID_Fixed_Hands_OnBlockedHit_EmpowerStack_Name" rel_version="ProgressionOverhaul2025">Empowering Breaker II</string>
+	<string key="PerkID_Fixed_Hands_OnBlockedHit_EmpowerStack_Description" rel_version="ProgressionOverhaul2025">When your attacks are blocked, gain a stack of Empower, increasing damage by {[0.035300 * 100 * {perkMultiplier}]}% for {[5.000000]}s (Max {[5.000000]} stacks).</string>
+	<string key="PerkID_Fixed_Legs_DodgeSuccess_Stamina_Name" rel_version="ProgressionOverhaul2025">Shirking Energy II</string>
+	<string key="PerkID_Fixed_Legs_DodgeSuccess_Stamina_Description" rel_version="ProgressionOverhaul2025">If a hit is avoided by dodging while in a light or medium equip load, gain {[12.570000 * {perkMultiplier}]} Stamina ({[6.000000]}s cooldown).</string>
+	<string key="PerkID_Fixed_Feet_HasteOnVault_Name" rel_version="ProgressionOverhaul2025">Hardcore Parkour II</string>
+	<string key="PerkID_Fixed_Feet_HasteOnVault_Description" rel_version="ProgressionOverhaul2025">Gain {[0.117800 * 100 * {perkMultiplier}]}% haste for {[5.000000]}s after triggering a traversal action.</string>
+	<string key="PerkID_Fixed_Hands_OnAtkBlocked_IncStamDmg_Name" rel_version="ProgressionOverhaul2025">Breaker Bypass II</string>
+	<string key="PerkID_Fixed_Hands_OnAtkBlocked_IncStamDmg_Description" rel_version="ProgressionOverhaul2025">When an attack is blocked, gain a stack of {[0.031400 * 100 * {perkMultiplier}]}% stamina damage increase for {[4.000000]}s. (Max {[10.000000]} Stacks)</string>
+	<string key="PerkID_Fixed_Hands_OnSwap_Cleanse_Name" rel_version="ProgressionOverhaul2025">Purifying Switch II</string>
+	<string key="PerkID_Fixed_Hands_OnSwap_Cleanse_Description" rel_version="ProgressionOverhaul2025">Hitting a target with an ability within {[5.000000]}s of swapping weapons will cleanse {[1.000000]} debuff ({[6.000000]}s cooldown)</string>
+	<string key="PerkID_Fixed_Armor_BuffDurExtention_Name" rel_version="ProgressionOverhaul2025">Prolonged Favor II</string>
+	<string key="PerkID_Fixed_Armor_BuffDurExtention_Description" rel_version="ProgressionOverhaul2025">Increase the duration of limited duration buffs on self by {[0.078600 * 100 * {perkMultiplier}]}%</string>
+	<string key="PerkID_Fixed_Head_QuickRevive_Name" rel_version="ProgressionOverhaul2025">Quick Revive II</string>
+	<string key="PerkID_Fixed_Head_QuickRevive_Description" rel_version="ProgressionOverhaul2025">Gain Grit while reviving, and reduce the time required to revive downed players or be revived while down by {[-0.314200 * -100 * {perkMultiplier}]}%.</string>
+	<string key="PerkID_Fixed_Armor_LifestealNoConsumable_Name" rel_version="ProgressionOverhaul2025">Lifestealer's Draught II</string>
+	<string key="PerkID_Fixed_Armor_LifestealNoConsumable_Description" rel_version="ProgressionOverhaul2025">All hits gain {[0.117800 * 100 * {perkMultiplier}]}% lifesteal and the power of lifesteals is increased by {[0.117800 * 100 * {perkMultiplier}]}% as long as you have not used a survival potion in the last {[13.000000]}s.</string>
+	<string key="PerkID_Fixed_Armor_DamageTradeOff_Name" rel_version="ProgressionOverhaul2025">Sacrificial Empowerment II</string>
+	<string key="PerkID_Fixed_Armor_DamageTradeOff_Description" rel_version="ProgressionOverhaul2025">Increase base damage by {[0.011800 * 100 * {perkMultiplier}]}%, but armor is decreased by {[-0.007900 * -100 * {perkMultiplier}]}% while below 50% health (stacks per armor piece this perk is slotted in)</string>
+	<string key="PerkID_Fixed_Armor_HitsReduceCCSEs_Name" rel_version="ProgressionOverhaul2025">Freeing Aggression II</string>
+	<string key="PerkID_Fixed_Armor_HitsReduceCCSEs_Description" rel_version="ProgressionOverhaul2025">Hitting a target will reduce the duration of active Crowd Control status effects on self by {[-0.039300 * -100 * {perkMultiplier}]}% ({[1.000000]}s Cooldown)</string>
+	<string key="PerkID_Fixed_Legs_DmgPerMissingHP_Name" rel_version="ProgressionOverhaul2025">Terminal Vengeance II</string>
+	<string key="PerkID_Fixed_Legs_DmgPerMissingHP_Description" rel_version="ProgressionOverhaul2025">Gain {[0.039300 * 100 * {perkMultiplier}]}% increased base damage for every 25% of your max health you are missing.</string>
+	<string key="PerkID_Fixed_Amulet_HP_Name" rel_version="ProgressionOverhaul2025">Well-Being II</string>
+	<string key="PerkID_Fixed_Amulet_HP_Description" rel_version="ProgressionOverhaul2025">Increase max health by {[0.039300 * 100 * {perkMultiplier}]}%</string>
+	<string key="PerkID_Fixed_AmuletShield_DefFire_Name" rel_version="ProgressionOverhaul2025">Flame Protection II</string>
+	<string key="PerkID_Fixed_AmuletShield_DefFire_Description" rel_version="ProgressionOverhaul2025">Receive {[0.078500 * 100 * {perkMultiplier}]}% less Fire damage.</string>
+	<string key="PerkID_Fixed_AmuletShield_DefIce_Name" rel_version="ProgressionOverhaul2025">Frozen Protection II</string>
+	<string key="PerkID_Fixed_AmuletShield_DefIce_Description" rel_version="ProgressionOverhaul2025">Receive {[0.078500 * 100 * {perkMultiplier}]}% less Ice damage.</string>
+	<string key="PerkID_Fixed_AmuletShield_DefNature_Name" rel_version="ProgressionOverhaul2025">Nature Protection II</string>
+	<string key="PerkID_Fixed_AmuletShield_DefNature_Description" rel_version="ProgressionOverhaul2025">Receive {[0.078500 * 100 * {perkMultiplier}]}% less Nature damage.</string>
+	<string key="PerkID_Fixed_AmuletShield_DefVoid_Name" rel_version="ProgressionOverhaul2025">Void Protection II</string>
+	<string key="PerkID_Fixed_AmuletShield_DefVoid_Description" rel_version="ProgressionOverhaul2025">Receive {[0.078500 * 100 * {perkMultiplier}]}% less Void damage.</string>
+	<string key="PerkID_Fixed_AmuletShield_DefThrust_Name" rel_version="ProgressionOverhaul2025">Thrust Protection II</string>
+	<string key="PerkID_Fixed_AmuletShield_DefThrust_Description" rel_version="ProgressionOverhaul2025">Receive {[0.078500 * 100 * {perkMultiplier}]}% less Thrust damage.</string>
+	<string key="PerkID_Fixed_AmuletShield_DefSlash_Name" rel_version="ProgressionOverhaul2025">Slash Protection II</string>
+	<string key="PerkID_Fixed_AmuletShield_DefSlash_Description" rel_version="ProgressionOverhaul2025">Receive {[0.078500 * 100 * {perkMultiplier}]}% less Slash damage.</string>
+	<string key="PerkID_Fixed_AmuletShield_DefArcane_Name" rel_version="ProgressionOverhaul2025">Arcane Protection II</string>
+	<string key="PerkID_Fixed_AmuletShield_DefArcane_Description" rel_version="ProgressionOverhaul2025">Receive {[0.078500 * 100 * {perkMultiplier}]}% less Arcane damage.</string>
+	<string key="PerkID_Fixed_AmuletShield_DefLightning_Name" rel_version="ProgressionOverhaul2025">Lightning Protection II</string>
+	<string key="PerkID_Fixed_AmuletShield_DefLightning_Description" rel_version="ProgressionOverhaul2025">Receive {[0.078500 * 100 * {perkMultiplier}]}% less Lightning damage.</string>
+	<string key="PerkID_Fixed_AmuletShield_DefStrike_Name" rel_version="ProgressionOverhaul2025">Strike Protection II</string>
+	<string key="PerkID_Fixed_AmuletShield_DefStrike_Description" rel_version="ProgressionOverhaul2025">Receive {[0.078500 * 100 * {perkMultiplier}]}% less Strike damage.</string>
+	<string key="PerkID_Fixed_Amulet_StamOnLow_Name" rel_version="ProgressionOverhaul2025">Stamina Recovery II</string>
+	<string key="PerkID_Fixed_Amulet_StamOnLow_Description" rel_version="ProgressionOverhaul2025">When you are hit while below 50% Health, gain {[31.400000 * {perkMultiplier}]} Stamina ({[60.000000]}s cooldown. Does not trigger off persistent damage, DoT effects, or blocked attacks).</string>
+	<string key="PerkID_Fixed_Amulet_RemoveOnLow_Name" rel_version="ProgressionOverhaul2025">Purify II</string>
+	<string key="PerkID_Fixed_Amulet_RemoveOnLow_Description" rel_version="ProgressionOverhaul2025">When you are hit while below 50% Health, you lose all debuffs ({[90.000000]}s cooldown. Does not trigger off persistent damage, DoT effects, or blocked attacks).</string>
+	<string key="PerkID_Fixed_Amulet_FortifyOnLow_Name" rel_version="ProgressionOverhaul2025">Fortified Recovery II</string>
+	<string key="PerkID_Fixed_Amulet_FortifyOnLow_Description" rel_version="ProgressionOverhaul2025">When you are hit while below 50% Health, gain {[0.236000 * 100 * {perkMultiplier}]}% Fortify for {[7.000000]}s ({[30.000000]}s cooldown. Does not trigger off persistent damage, DoT effects, or blocked attacks).</string>
+	<string key="PerkID_Fixed_Amulet_DodgeSuccess_Cleanse_Name" rel_version="ProgressionOverhaul2025">Shirking Cleanse II</string>
+	<string key="PerkID_Fixed_Amulet_DodgeSuccess_Cleanse_Description" rel_version="ProgressionOverhaul2025">After dodging an attack in a light or medium equip load, lose 2 DoT/Debilitate debuffs. ({[6.000000]}s cooldown)</string>
+	<string key="PerkID_Fixed_PvP_Amulet_DodgeSuccess_DMG_Name" rel_version="ProgressionOverhaul2025">Shirking Empower II</string>
+	<string key="PerkID_Fixed_PvP_Amulet_DodgeSuccess_DMG_Description" rel_version="ProgressionOverhaul2025">PvP Only: After dodging an attack, gain a stack of Empower, increasing damage dealt by {[0.078600 * 100 * {perkMultiplier}]}% per stack for {[7.000000]}s (Max {[3.000000]} stacks).</string>
+	<string key="PerkID_Fixed_Amulet_DodgeBurn_DurRed_Name" rel_version="ProgressionOverhaul2025">Stop, Drop, and Roll II</string>
+	<string key="PerkID_Fixed_Amulet_DodgeBurn_DurRed_Description" rel_version="ProgressionOverhaul2025">Dodging will reduce the current duration of all Burn damage over time effects on you by {[-0.200000 * -100]}%.</string>
+	<string key="PerkID_Fixed_Amulet_SlowPotencyRed_Name" rel_version="ProgressionOverhaul2025">Unimpeded II</string>
+	<string key="PerkID_Fixed_Amulet_SlowPotencyRed_Description" rel_version="ProgressionOverhaul2025">Potency of slows on you are reduced by {[-0.300000 * -100]}% as long as you have not been exhausted within the last {[10.000000]}s.</string>
+	<string key="PerkID_Fixed_Amulet_DmgTradeOff_Basic_Name" rel_version="ProgressionOverhaul2025">Enchanted Resilience II</string>
+	<string key="PerkID_Fixed_Amulet_DmgTradeOff_Basic_Description" rel_version="ProgressionOverhaul2025">PvP Only: Reduce attacker's basic attack damage dealt to you by {[0.078600 * 100 * {perkMultiplier}]}%, but increase attacker's ability damage dealt to you by {[-0.039300 * -100 * {perkMultiplier}]}% while below 50% health.</string>
+	<string key="PerkID_Fixed_Amulet_DmgTradeOff_Ability_Name" rel_version="ProgressionOverhaul2025">Skilled Resilience II</string>
+	<string key="PerkID_Fixed_Amulet_DmgTradeOff_Ability_Description" rel_version="ProgressionOverhaul2025">PvP Only: Reduce attacker's ability damage dealt to you by {[0.039300 * 100 * {perkMultiplier}]}%, but increase attacker's basic attack damage dealt to you by {[-0.078600 * -100 * {perkMultiplier}]}% while below 50% health.</string>
+	<string key="PerkID_Fixed_Ring_DmgFire_Name" rel_version="ProgressionOverhaul2025">Fire Damage II</string>
+	<string key="PerkID_Fixed_Ring_DmgFire_Description" rel_version="ProgressionOverhaul2025">+{[0.063000 * 100 * {perkMultiplier}]}% Fire damage</string>
+	<string key="PerkID_Fixed_Ring_DmgIce_Name" rel_version="ProgressionOverhaul2025">Ice Damage II</string>
+	<string key="PerkID_Fixed_Ring_DmgIce_Description" rel_version="ProgressionOverhaul2025">+{[0.063000 * 100 * {perkMultiplier}]}% Ice damage</string>
+	<string key="PerkID_Fixed_Ring_DmgNature_Name" rel_version="ProgressionOverhaul2025">Nature Damage II</string>
+	<string key="PerkID_Fixed_Ring_DmgNature_Description" rel_version="ProgressionOverhaul2025">+{[0.063000 * 100 * {perkMultiplier}]}% Nature damage</string>
+	<string key="PerkID_Fixed_Ring_DmgLightning_Name" rel_version="ProgressionOverhaul2025">Lightning Damage II</string>
+	<string key="PerkID_Fixed_Ring_DmgLightning_Description" rel_version="ProgressionOverhaul2025">+{[0.063000 * 100 * {perkMultiplier}]}% Lightning damage</string>
+	<string key="PerkID_Fixed_Ring_DmgVoid_Name" rel_version="ProgressionOverhaul2025">Void Damage II</string>
+	<string key="PerkID_Fixed_Ring_DmgVoid_Description" rel_version="ProgressionOverhaul2025">+{[0.063000 * 100 * {perkMultiplier}]}% Void damage</string>
+	<string key="PerkID_Fixed_Ring_DmgArcane_Name" rel_version="ProgressionOverhaul2025">Arcane Damage II</string>
+	<string key="PerkID_Fixed_Ring_DmgArcane_Description" rel_version="ProgressionOverhaul2025">+{[0.063000 * 100 * {perkMultiplier}]}% Arcane damage</string>
+	<string key="PerkID_Fixed_Ring_DmgThrust_Name" rel_version="ProgressionOverhaul2025">Thrust Damage II</string>
+	<string key="PerkID_Fixed_Ring_DmgThrust_Description" rel_version="ProgressionOverhaul2025">+{[0.063000 * 100 * {perkMultiplier}]}% Thrust damage</string>
+	<string key="PerkID_Fixed_Ring_DmgSlash_Name" rel_version="ProgressionOverhaul2025">Slash Damage II</string>
+	<string key="PerkID_Fixed_Ring_DmgSlash_Description" rel_version="ProgressionOverhaul2025">+{[0.063000 * 100 * {perkMultiplier}]}% Slash damage</string>
+	<string key="PerkID_Fixed_Ring_DmgStrike_Name" rel_version="ProgressionOverhaul2025">Strike Damage II</string>
+	<string key="PerkID_Fixed_Ring_DmgStrike_Description" rel_version="ProgressionOverhaul2025">+{[0.063000 * 100 * {perkMultiplier}]}% Strike damage</string>
+	<string key="PerkID_Fixed_Ring_OnHealHot_Name" rel_version="ProgressionOverhaul2025">Healing Breeze II</string>
+	<string key="PerkID_Fixed_Ring_OnHealHot_Description" rel_version="ProgressionOverhaul2025">When applying a healing effect to a target, Heal the target for {[0.117800 * 100 * {perkMultiplier}]}% weapon damage for {[6.000000]}s. ({[10.000000]}s cooldown per target, potency of heal reduced by {[-0.350000 * -100]}% if applied to self)</string>
+	<string key="PerkID_Fixed_Ring_OnRemoveHeal_Name" rel_version="ProgressionOverhaul2025">Purifying Mend</string>
+	<string key="PerkID_Fixed_Ring_OnRemoveHeal_Description">When you remove a debuff from an ally heal for {[0.157100 * 100 * {perkMultiplier}]}% weapon damage</string>
+	<string key="PerkID_Fixed_Ring_OnHeartRemoveDebuffs_Name" rel_version="ProgressionOverhaul2025">Purifying Heart II</string>
+	<string key="PerkID_Fixed_Ring_OnHeartRemoveDebuffs_Description" rel_version="ProgressionOverhaul2025">On Heartrune: Lose all debuffs</string>
+	<string key="PerkID_Fixed_PvP_Ring_OnKill_EmpowerStack_Name" rel_version="ProgressionOverhaul2025">Mortal Empowerment II</string>
+	<string key="PerkID_Fixed_PvP_Ring_OnKill_EmpowerStack_Description" rel_version="ProgressionOverhaul2025">PvP Only: Player kills grant a stacking {[0.020000 * 100]}% damage bonus that lasts {[120.000000 / 60]}m, until death, or game mode transition (Max {[10.000000]} stacks. Cannot be cleansed. Does not trigger off persistent damage or DoT effects)</string>
+	<string key="PerkID_Fixed_PvP_Ring_DmgPerTargetBuff_Name" rel_version="ProgressionOverhaul2025">Invigorated Punishment II</string>
+	<string key="PerkID_Fixed_PvP_Ring_DmgPerTargetBuff_Description" rel_version="ProgressionOverhaul2025">PvP Only: Abilities hits deal {[0.010000 * 100 * {perkMultiplier}]}% bonus damage per buff on a player (Max {[10.000000]} buffs)</string>
+	<string key="PerkID_Fixed_Ring_DmgTradeOff_Basic_Name" rel_version="ProgressionOverhaul2025">Cursed Enchantment II</string>
+	<string key="PerkID_Fixed_Ring_DmgTradeOff_Basic_Description" rel_version="ProgressionOverhaul2025">Increase basic attack damage dealt by {[0.078600 * 100 * {perkMultiplier}]}%, but decrease ability damage dealt by {[-0.039300 * -100 * {perkMultiplier}]}%.</string>
+	<string key="PerkID_Fixed_Ring_DmgTradeOff_Ability_Name" rel_version="ProgressionOverhaul2025">Cursed Skill II</string>
+	<string key="PerkID_Fixed_Ring_DmgTradeOff_Ability_Description" rel_version="ProgressionOverhaul2025">Increase ability damage dealt by {[0.039300 * 100 * {perkMultiplier}]}%, but decrease basic attack damage dealt by {[-0.078600 * -100 * {perkMultiplier}]}%.</string>
+	<string key="PerkID_Fixed_Ring_OnSwap_CritChanceTilNextHit_Name" rel_version="ProgressionOverhaul2025">Keen Switch II</string>
+	<string key="PerkID_Fixed_Ring_OnSwap_CritChanceTilNextHit_Description" rel_version="ProgressionOverhaul2025">On weapon swap, increase crit chance by {[0.070700 * 100 * {perkMultiplier}]}% for {[3.000000]}s or until the next hit ({[3.000000]}s cooldown)</string>
+	<string key="PerkID_Fixed_Ring_BaseDamageInc_Name" rel_version="ProgressionOverhaul2025">Enchanted Totality II</string>
+	<string key="PerkID_Fixed_Ring_BaseDamageInc_Description" rel_version="ProgressionOverhaul2025">All hits deal {[0.015700 * 100 * {perkMultiplier}]}% increased base damage.</string>
+	<string key="PerkID_Fixed_Ring_AbilityDamageInc_Name" rel_version="ProgressionOverhaul2025">Enchanted Skills II</string>
+	<string key="PerkID_Fixed_Ring_AbilityDamageInc_Description" rel_version="ProgressionOverhaul2025">Ability hits deal {[0.019600 * 100 * {perkMultiplier}]}% increased base damage.</string>
+	<string key="PerkID_Fixed_Ring_LightHeavyDamageInc_Name" rel_version="ProgressionOverhaul2025">Enchanted Attacks II</string>
+	<string key="PerkID_Fixed_Ring_LightHeavyDamageInc_Description" rel_version="ProgressionOverhaul2025">Light and heavy attack hits deal {[0.023600 * 100 * {perkMultiplier}]}% increased base damage.</string>
+	<string key="PerkID_Fixed_Ring_OnTargetDoT_CritChance_Name" rel_version="ProgressionOverhaul2025">Critical Infliction II</string>
+	<string key="PerkID_Fixed_Ring_OnTargetDoT_CritChance_Description" rel_version="ProgressionOverhaul2025">Gain {[0.055000 * 100 * {perkMultiplier}]}% increased crit chance against targets with your damage over time effects active.</string>
+	<string key="PerkID_Fixed_Ring_OnTargetDoT_DoTDurRed_Name" rel_version="ProgressionOverhaul2025">Purging Infliction II</string>
+	<string key="PerkID_Fixed_Ring_OnTargetDoT_DoTDurRed_Description" rel_version="ProgressionOverhaul2025">Hitting a target inflicted by one of your damage over time effects will reduce the duration of DoTs on self by {[-0.039300 * -100 * {perkMultiplier}]}% ({[1.000000]}s cooldown).</string>
+	<string key="PerkID_Fixed_Ring_OnKillPowerHit_Name" rel_version="ProgressionOverhaul2025">Mortal Strike II</string>
+	<string key="PerkID_Fixed_Ring_OnKillPowerHit_Description" rel_version="ProgressionOverhaul2025">Killing a target will cause your next ability hit within {[20.000000]}s to deal {[0.172800 * 100 * {perkMultiplier}]}% more damage. ({[2.000000]}s cooldown)</string>
+	<string key="PerkID_Fixed_Ring_OnBackstab_HasteTransfer_Name" rel_version="ProgressionOverhaul2025">Rogue Alacrity II</string>
+	<string key="PerkID_Fixed_Ring_OnBackstab_HasteTransfer_Description" rel_version="ProgressionOverhaul2025">Backstabbing a target with an active haste will remove {[1.000000]} of their Hastes and grant you a {[0.094300 * 100 * {perkmultiplier}]}% haste for {[4.000000]}s (that haste is dispelled if you receive a critical hit)</string>
+	<string key="PerkID_Fixed_Ring_EmpowerNoDmgTaken_Name" rel_version="ProgressionOverhaul2025">Unscathed Empowerment II</string>
+	<string key="PerkID_Fixed_Ring_EmpowerNoDmgTaken_Description" rel_version="ProgressionOverhaul2025">Melee light attacks grant 1 stack and melee heavy attacks grant 2 stacks of {[0.039300 * 100 * {perkmultiplier}]}% Empower for {[8.000000]}s for every hit you deal without taking damage (Max {[6.000000]} stacks),  taking a hit will remove the Empower and increase that instance of damage by {[-0.117800 * -100 * {perkMultiplier}]}%</string>
+	<string key="PerkID_Fixed_Earring_CDR_Name" rel_version="ProgressionOverhaul2025">Refreshment II</string>
+	<string key="PerkID_Fixed_Earring_CDR_Description" rel_version="ProgressionOverhaul2025">Reduce max cooldowns by {[-0.078600 * -100 * {perkMultiplier}]}%</string>
+	<string key="PerkID_Fixed_Earring_CDRBasic_Name" rel_version="ProgressionOverhaul2025">Refreshing Move II</string>
+	<string key="PerkID_Fixed_Earring_CDRBasic_Description" rel_version="ProgressionOverhaul2025">Light attacks reduce your active weapon cooldowns by {[-0.007900 * -100 * {perkMultiplier}]}% and Heavy attacks reduce them by {[-0.015700 * -100 * {perkMultiplier}]}% ({[0.200000]}s cooldown)</string>
+	<string key="PerkID_Fixed_Earring_LowCooldown_Name" rel_version="ProgressionOverhaul2025">Refreshing Recovery II</string>
+	<string key="PerkID_Fixed_Earring_LowCooldown_Description" rel_version="ProgressionOverhaul2025">When your health drops below {[50.000000]}% all your active abilities cooldowns are reset ({[60.000000]}s cooldown)</string>
+	<string key="PerkID_Fixed_Earring_HealthRegen_Name" rel_version="ProgressionOverhaul2025">Regeneration II</string>
+	<string key="PerkID_Fixed_Earring_HealthRegen_Description" rel_version="ProgressionOverhaul2025">+{[0.004500 * 100 * {perkMultiplier}]}% Health every second</string>
+	<string key="PerkID_Fixed_Earring_StaminaRegen_Name" rel_version="ProgressionOverhaul2025">Nimble II</string>
+	<string key="PerkID_Fixed_Earring_StaminaRegen_Description" rel_version="ProgressionOverhaul2025">+{[0.094000 * 100 * {perkMultiplier}]}% Stamina regeneration rate</string>
+	<string key="PerkID_Fixed_Earring_ThreatAdd_Name" rel_version="ProgressionOverhaul2025">Despised II</string>
+	<string key="PerkID_Fixed_Earring_ThreatAdd_Description" rel_version="ProgressionOverhaul2025">Generate {[1.960000 * 100 * {perkMultiplier}]}% more threat and deal {[0.055000 * 100 * {perkMultiplier}]}% more base damage to taunted foes</string>
+	<string key="PerkID_Fixed_Earring_PotionCDR_Name" rel_version="ProgressionOverhaul2025">Refreshing Toast II</string>
+	<string key="PerkID_Fixed_Earring_PotionCDR_Description" rel_version="ProgressionOverhaul2025">Consumable's cooldown is reduced by {[-0.078600 * -100 * {perkMultiplier}]}%</string>
+	<string key="PerkID_Fixed_Earring_OnPotionDmg_Name" rel_version="ProgressionOverhaul2025">Empowering Toast II</string>
+	<string key="PerkID_Fixed_Earring_OnPotionDmg_Description" rel_version="ProgressionOverhaul2025">On Potion Drink: Gain {[0.094300 * 100 * {perkMultiplier}]}% Empower for {[8.000000]}s ({[8.000000]}s cooldown)</string>
+	<string key="PerkID_Fixed_Earring_OnPotionFort_Name" rel_version="ProgressionOverhaul2025">Fortifying Toast II</string>
+	<string key="PerkID_Fixed_Earring_OnPotionFort_Description" rel_version="ProgressionOverhaul2025">On Potion Drink: Gain {[0.157100 * 100 * {perkMultiplier}]}% Fortify for {[8.000000]}s ({[8.000000]}s cooldown)</string>
+	<string key="PerkID_Fixed_Earring_OnHeartHeal_Name" rel_version="ProgressionOverhaul2025">Healing Heart II</string>
+	<string key="PerkID_Fixed_Earring_OnHeartHeal_Description" rel_version="ProgressionOverhaul2025">On Heartrune: Heal for {[0.070700 * 100 * {perkMultiplier}]}% your max health every second for {[3.000000]}s</string>
+	<string key="PerkID_Fixed_Earring_ThreatSub_Name" rel_version="ProgressionOverhaul2025">Beloved II</string>
+	<string key="PerkID_Fixed_Earring_ThreatSub_Description" rel_version="ProgressionOverhaul2025">You generate {[-0.353500 * -100 * {perkMultiplier}]}% less threat (Max reduction of 99% from all sources), and deal {[0.070700 * 100 * {perkMultiplier}]}% more damage to taunted foes.</string>
+</resources>
+

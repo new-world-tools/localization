@@ -1,0 +1,461 @@
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="NPC_18000_name" rel_version="Territory_Dunwood">Alecksi</string>
+	<string key="NPC_18000_title" rel_version="Territory_Dunwood">Nobleman of Nighthaven</string>
+	<string key="NPC_18001_name" rel_version="Territory_Dunwood">Alecksi</string>
+	<string key="NPC_18001_title" rel_version="Territory_Dunwood">Nobleman of Nighthaven</string>
+	<string key="NPC_18002_name" rel_version="Territory_Dunwood">Alecksi</string>
+	<string key="NPC_18002_title" rel_version="Territory_Dunwood">Nobleman of Nighthaven</string>
+	<string key="NPC_18003_name" rel_version="Territory_Dunwood">Alecksi</string>
+	<string key="NPC_18003_title" rel_version="Territory_Dunwood">Nobleman of Nighthaven</string>
+	<string key="NPC_18004_name" rel_version="Territory_Dunwood">Alecksi</string>
+	<string key="NPC_18004_title" rel_version="Territory_Dunwood">Nobleman of Nighthaven</string>
+	<string key="NPC_18005_name" rel_version="Territory_Dunwood">Alecksi</string>
+	<string key="NPC_18005_title" rel_version="Territory_Dunwood">The Warrior King</string>
+	<string key="NPC_18006_name" rel_version="Territory_Dunwood">Cecilia</string>
+	<string key="NPC_18006_title" rel_version="Territory_Dunwood">Citizen of Nighthaven</string>
+	<string key="NPC_18007_name" rel_version="Territory_Dunwood">Cecilia</string>
+	<string key="NPC_18007_title" rel_version="Territory_Dunwood">Citizen of Nighthaven</string>
+	<string key="NPC_18008_name" rel_version="Territory_Dunwood">Cecilia</string>
+	<string key="NPC_18008_title" rel_version="Territory_Dunwood">Princess of Nighthaven</string>
+	<string key="NPC_18009_name" rel_version="Territory_Dunwood">Cecilia</string>
+	<string key="NPC_18009_title" rel_version="Territory_Dunwood">Princess of Nighthaven</string>
+	<string key="NPC_18010_name" rel_version="Territory_Dunwood">Cecilia</string>
+	<string key="NPC_18010_title" rel_version="Territory_Dunwood">Princess of Nighthaven</string>
+	<string key="NPC_18011_name" rel_version="Territory_Dunwood">Cecilia</string>
+	<string key="NPC_18011_title" rel_version="Territory_Dunwood">Princess of Nighthaven</string>
+	<string key="NPC_18012_name" rel_version="Territory_Dunwood">Cecilia</string>
+	<string key="NPC_18012_title" rel_version="Territory_Dunwood">Princess of Nighthaven</string>
+	<string key="NPC_18013_name" rel_version="Territory_Dunwood">Cecilia</string>
+	<string key="NPC_18013_title" rel_version="Territory_Dunwood">Princess of Nighthaven</string>
+	<string key="NPC_18014_name" rel_version="Territory_Dunwood">Cecilia</string>
+	<string key="NPC_18014_title" rel_version="Territory_Dunwood">Princess of Nighthaven</string>
+	<string key="NPC_18015_name" rel_version="Territory_Dunwood">Cecilia</string>
+	<string key="NPC_18015_title" rel_version="Territory_Dunwood">Princess of Nighthaven</string>
+	<string key="NPC_18016_name" rel_version="Territory_Dunwood">Cecilia</string>
+	<string key="NPC_18016_title" rel_version="Territory_Dunwood">Princess of Nighthaven</string>
+	<string key="NPC_18017_name" rel_version="Territory_Dunwood">Cecilia</string>
+	<string key="NPC_18017_title" rel_version="Territory_Dunwood">Princess of Nighthaven</string>
+	<string key="NPC_18018_name" rel_version="Territory_Dunwood">Cecilia</string>
+	<string key="NPC_18018_title" rel_version="Territory_Dunwood">Princess of Nighthaven</string>
+	<string key="NPC_18019_name" rel_version="Territory_Dunwood">Cecilia</string>
+	<string key="NPC_18019_title" rel_version="Territory_Dunwood">Princess of Nighthaven</string>
+	<string key="NPC_18020_name" rel_version="Territory_Dunwood">Cecilia</string>
+	<string key="NPC_18020_title" rel_version="Territory_Dunwood">Princess of Nighthaven</string>
+	<string key="NPC_18021_name" rel_version="Territory_Dunwood">Cecilia</string>
+	<string key="NPC_18021_title" rel_version="Territory_Dunwood">Princess of Nighthaven</string>
+	<string key="NPC_18022_name" rel_version="Territory_Dunwood">Cecilia</string>
+	<string key="NPC_18022_title" rel_version="Territory_Dunwood">Warrior of Nighthaven</string>
+	<string key="NPC_18023_name" rel_version="Territory_Dunwood">Cecilia</string>
+	<string key="NPC_18023_title" rel_version="Territory_Dunwood">Warrior Queen</string>
+	<string key="NPC_18024_name" rel_version="Territory_Dunwood">Annryu</string>
+	<string key="NPC_18024_title" rel_version="Territory_Dunwood">The Fortune Mother</string>
+	<string key="NPC_18025_name" rel_version="Territory_Dunwood">Annryu</string>
+	<string key="NPC_18025_title" rel_version="Territory_Dunwood">The Fortune Mother</string>
+	<string key="NPC_18026_name" rel_version="Territory_Dunwood">Annryu</string>
+	<string key="NPC_18026_title" rel_version="Territory_Dunwood">The Fortune Mother</string>
+	<string key="NPC_18027_name" rel_version="Territory_Dunwood">Annryu</string>
+	<string key="NPC_18027_title" rel_version="Territory_Dunwood">The Fortune Mother</string>
+	<string key="NPC_18028_name" rel_version="Territory_Dunwood">Lynette</string>
+	<string key="NPC_18028_title" rel_version="Territory_Dunwood">Merchant of Tularest</string>
+	<string key="NPC_18029_name" rel_version="Territory_Dunwood">Lynette</string>
+	<string key="NPC_18029_title" rel_version="Territory_Dunwood">Merchant of Tularest</string>
+	<string key="NPC_18030_name" rel_version="Territory_Dunwood">Lynette</string>
+	<string key="NPC_18030_title" rel_version="Territory_Dunwood">Merchant of Tularest</string>
+	<string key="NPC_18031_name" rel_version="Territory_Dunwood">Lynette</string>
+	<string key="NPC_18031_title" rel_version="Territory_Dunwood">Merchant of Tularest</string>
+	<string key="NPC_18032_name" rel_version="Territory_Dunwood">Lynette</string>
+	<string key="NPC_18032_title" rel_version="Territory_Dunwood">Merchant of Tularest</string>
+	<string key="NPC_18033_name" rel_version="Territory_Dunwood">Lynette</string>
+	<string key="NPC_18033_title" rel_version="Territory_Dunwood">Merchant of Tularest</string>
+	<string key="NPC_18034_name" rel_version="Territory_Dunwood">Morgaine</string>
+	<string key="NPC_18034_title" rel_version="Territory_Dunwood">Sorceress</string>
+	<string key="NPC_18035_name" rel_version="Territory_Dunwood">Morgaine</string>
+	<string key="NPC_18035_title" rel_version="Territory_Dunwood">Sorceress</string>
+	<string key="NPC_18036_name" rel_version="Territory_Dunwood">Morgaine</string>
+	<string key="NPC_18036_title" rel_version="Territory_Dunwood">Sorceress</string>
+	<string key="NPC_18037_name" rel_version="Territory_Dunwood">Morgaine</string>
+	<string key="NPC_18037_title" rel_version="Territory_Dunwood">Sorceress</string>
+	<string key="NPC_18038_name" rel_version="Territory_Dunwood">Morgaine</string>
+	<string key="NPC_18038_title" rel_version="Territory_Dunwood">Sorceress</string>
+	<string key="NPC_18039_name" rel_version="Territory_Dunwood">Morgaine</string>
+	<string key="NPC_18039_title" rel_version="Territory_Dunwood">Sorceress</string>
+	<string key="NPC_18040_name" rel_version="Territory_Dunwood">Morgaine</string>
+	<string key="NPC_18040_title" rel_version="Territory_Dunwood">Sorceress</string>
+	<string key="NPC_18041_name" rel_version="Territory_Dunwood">Morgaine</string>
+	<string key="NPC_18041_title" rel_version="Territory_Dunwood">Sorceress</string>
+	<string key="NPC_18042_name" rel_version="Territory_Dunwood">Namkuzu</string>
+	<string key="NPC_18042_title" rel_version="Territory_Dunwood">Citizen of Nighthaven</string>
+	<string key="NPC_18043_name" rel_version="Territory_Dunwood">Namkuzu</string>
+	<string key="NPC_18043_title" rel_version="Territory_Dunwood">Citizen of Nighthaven</string>
+	<string key="NPC_18044_name" rel_version="Territory_Dunwood">Namkuzu</string>
+	<string key="NPC_18044_title" rel_version="Territory_Dunwood">Leader of the Grand Carnival</string>
+	<string key="NPC_18045_name" rel_version="Territory_Dunwood">Namkuzu</string>
+	<string key="NPC_18045_title" rel_version="Territory_Dunwood">Leader of the Grand Carnival</string>
+	<string key="NPC_18046_name" rel_version="Territory_Dunwood">Namkuzu</string>
+	<string key="NPC_18046_title" rel_version="Territory_Dunwood">Leader of the Grand Carnival</string>
+	<string key="NPC_18047_name" rel_version="Territory_Dunwood">Namkuzu</string>
+	<string key="NPC_18047_title" rel_version="Territory_Dunwood">Leader of the Grand Carnival</string>
+	<string key="NPC_18048_name" rel_version="Territory_Dunwood">Namkuzu</string>
+	<string key="NPC_18048_title" rel_version="Territory_Dunwood">Leader of the Grand Carnival</string>
+	<string key="NPC_18049_name" rel_version="Territory_Dunwood">Lord Galbrion</string>
+	<string key="NPC_18049_title" rel_version="Territory_Dunwood">Governor of Tularest</string>
+	<string key="NPC_18050_name" rel_version="Territory_Dunwood">Volos Dragomir</string>
+	<string key="NPC_18050_title" rel_version="Territory_Dunwood">Consul of the Four Houses</string>
+	<string key="NPC_18051_name" rel_version="Territory_Dunwood">Lord Varlaam</string>
+	<string key="NPC_18051_title" rel_version="Territory_Dunwood">Keeper of New Archives</string>
+	<string key="NPC_18052_name" rel_version="Territory_Dunwood">Lord Báthory</string>
+	<string key="NPC_18052_title" rel_version="Territory_Dunwood">Head of House Báthory</string>
+	<string key="NPC_18053_name" rel_version="Territory_Dunwood">Lady Carmilla</string>
+	<string key="NPC_18053_title" rel_version="Territory_Dunwood">Head of House Carmilla</string>
+	<string key="NPC_18054_name" rel_version="Territory_Dunwood">Oprea</string>
+	<string key="NPC_18054_title" rel_version="Territory_Dunwood">Grivaros Citizen</string>
+	<string key="NPC_18055_name" rel_version="Territory_Dunwood">Lepădat</string>
+	<string key="NPC_18055_title" rel_version="Territory_Dunwood">Grivaros Citizen</string>
+	<string key="NPC_18056_name" rel_version="Territory_Dunwood">Voicu</string>
+	<string key="NPC_18056_title" rel_version="Territory_Dunwood">Tularest Citizen</string>
+	<string key="NPC_18057_name" rel_version="Territory_Dunwood">Mierlă</string>
+	<string key="NPC_18057_title" rel_version="Territory_Dunwood">Tularest Citizen</string>
+	<string key="NPC_18059_name" rel_version="Territory_Dunwood">Lynette</string>
+	<string key="NPC_18059_title" rel_version="Territory_Dunwood">Merchant of Tularest</string>
+	<string key="NPC_18060_name" rel_version="Territory_Dunwood">Namkuzu</string>
+	<string key="NPC_18060_title" rel_version="Territory_Dunwood">Leader of the Grand Carnival</string>
+	<string key="NPC_18061_name" rel_version="Territory_Dunwood">Namkuzu</string>
+	<string key="NPC_18061_title" rel_version="Territory_Dunwood">Leader of the Grand Carnival</string>
+	<string key="NPC_18062_name" rel_version="Territory_Dunwood">Cecilia</string>
+	<string key="NPC_18062_title" rel_version="Territory_Dunwood">Princess of Nighthaven</string>
+	<string key="NPC_18063_name" rel_version="Territory_Dunwood">István</string>
+	<string key="NPC_18063_title" rel_version="Territory_Dunwood">Grivaros Citizen</string>
+	<string key="NPC_18064_name" rel_version="Territory_Dunwood">Charon</string>
+	<string key="NPC_18064_title" rel_version="Territory_Dunwood">The Boatman</string>
+	<string key="NPC_18068_name" rel_version="Territory_Dunwood">Vibiana</string>
+	<string key="NPC_18068_title" rel_version="Territory_Dunwood">Grivaros Citizen</string>
+	<string key="Quest_18008_Task_2_Description" rel_version="Territory_Dunwood">Travel to {POITags} to meet with Morgaine</string>
+	<string key="Quest_18008_description" rel_version="Territory_Dunwood" speaker="UI - Quest Description">Meet up with Morgaine at Gorgon&apos;s Landing to learn about her recent adventures.</string>
+	<string key="Quest_18008_title" rel_version="Territory_Dunwood" speaker="UI - Quest Title">Troubling Theft</string>
+	<string key="Quest_18009_Task_1_Description" rel_version="Territory_Dunwood">Travel to Nighthaven to help Morgaine search for the Tear of Gaea</string>
+	<string key="Quest_18009_Task_2_Description" rel_version="Territory_Dunwood">Talk to Lynette</string>
+	<string key="Quest_18009_Task_2_Description_0" rel_version="Territory_Dunwood">Take a boat over to Nighthaven</string>
+	<string key="Quest_18009_Task_3_Description" rel_version="Territory_Dunwood">Prevent the Berlaur attack (this is when a wave event happens)</string>
+	<string key="Quest_18009_Task_4_Description" rel_version="Territory_Dunwood">Rescue Oprea</string>
+	<string key="Quest_18009_Task_5_Description" rel_version="Territory_Dunwood">Rescue Lepădat</string>
+	<string key="Quest_18009_Task_6_Description" rel_version="Territory_Dunwood">Rescue Namkuzu</string>
+	<string key="Quest_18009_description" rel_version="Territory_Dunwood" speaker="UI - Quest Description">Follow Morgaine to Nighthaven to search for the missing Tear of Gaea.</string>
+	<string key="Quest_18009_title" rel_version="Territory_Dunwood" speaker="UI - Quest Title">Into Sunset</string>
+	<string key="Quest_18010_Task_10_Description" rel_version="Territory_Dunwood">Place the first board on Oprea&apos;s window</string>
+	<string key="Quest_18010_Task_11_Description" rel_version="Territory_Dunwood">Reconnect the Ancient Battery</string>
+	<string key="Quest_18010_Task_11_Description_0" rel_version="Territory_Dunwood">Place the second board on Oprea&apos;s window</string>
+	<string key="Quest_18010_Task_12_Description" rel_version="Territory_Dunwood">Place the third board on Oprea&apos;s window</string>
+	<string key="Quest_18010_Task_13_Description" rel_version="Territory_Dunwood">Place the first board on Lepădat&apos;s window</string>
+	<string key="Quest_18010_Task_14_Description" rel_version="Territory_Dunwood">Place the second board on Lepădat&apos;s window</string>
+	<string key="Quest_18010_Task_15_Description" rel_version="Territory_Dunwood">Place the third board on Lepădat&apos;s window</string>
+	<string key="Quest_18010_Task_16_Description" rel_version="Territory_Dunwood">Recover the {itemName}</string>
+	<string key="Quest_18010_Task_16_Description_0" rel_version="Territory_Dunwood">Help gather the scattered supplies</string>
+	<string key="Quest_18010_Task_17_Description" rel_version="Territory_Dunwood"/>
+	<string key="Quest_18010_Task_17_Description_0" rel_version="Territory_Dunwood">Talk to Lynette about what more can be done</string>
+	<string key="Quest_18010_Task_18_Description" rel_version="Territory_Dunwood">Defeat the Berlaur before they reach Grivaros</string>
+	<string key="Quest_18010_Task_1_Description" rel_version="Territory_Dunwood">Help the citizens of {POITags}</string>
+	<string key="Quest_18010_Task_20_Description" rel_version="Territory_Dunwood">Recover the {itemName}</string>
+	<string key="Quest_18010_Task_21_Description" rel_version="Territory_Dunwood">Reconnect the Ancient Battery</string>
+	<string key="Quest_18010_Task_24_Description" rel_version="Territory_Dunwood">Ask Namkuzu about the Tear</string>
+	<string key="Quest_18010_Task_2_Description" rel_version="Territory_Dunwood">Help the townsfolk</string>
+	<string key="Quest_18010_Task_3_Description" rel_version="Territory_Dunwood">Ask Lynette about the Tear</string>
+	<string key="Quest_18010_Task_4_Description" rel_version="Territory_Dunwood">Protect the town from the next Berlaur attack</string>
+	<string key="Quest_18010_Task_5_Description" rel_version="Territory_Dunwood">Help more townsfolk</string>
+	<string key="Quest_18010_Task_7_Description" rel_version="Territory_Dunwood">Find and collect an {itemName}</string>
+	<string key="Quest_18010_Task_8_Description" rel_version="Territory_Dunwood">Power up the Inert Ancient Battery</string>
+	<string key="Quest_18010_description" rel_version="Territory_Dunwood" speaker="UI - Quest Description">Help Morgaine look for the Tear of Gaia by speaking with the locals. Aid the locals and protect them from the Berlaur.</string>
+	<string key="Quest_18010_title" rel_version="Territory_Dunwood" speaker="UI - Quest Title">The Shattered Island</string>
+	<string key="Quest_18011_Task_10_Description" rel_version="Territory_Dunwood">Gain {itemName}</string>
+	<string key="Quest_18011_Task_11_Description" rel_version="Territory_Dunwood">This is where an item is removed</string>
+	<string key="Quest_18011_Task_12_Description" rel_version="Territory_Dunwood">Replace the third Crystal Battery:</string>
+	<string key="Quest_18011_Task_13_Description" rel_version="Territory_Dunwood">Meet with Alecksi to share what you know</string>
+	<string key="Quest_18011_Task_14_0_Description"/>
+	<string key="Quest_18011_Task_14_0_Description_0" rel_version="Territory_Dunwood">Enter the catacombs</string>
+	<string key="Quest_18011_Task_14_Description" rel_version="Territory_Dunwood">Enter the catacombs</string>
+	<string key="Quest_18011_Task_15_0_0_Description" rel_version="Territory_Dunwood">Recover the {itemName} in the catacombs</string>
+	<string key="Quest_18011_Task_15_0_Description" rel_version="Territory_Dunwood">Recover the {itemName} in the catacombs</string>
+	<string key="Quest_18011_Task_15_0_Description_0" rel_version="Territory_Dunwood">Recover the first half of the Crystal Battery</string>
+	<string key="Quest_18011_Task_15_1_Description" rel_version="Territory_Dunwood">Recover the {itemName} in the catacombs</string>
+	<string key="Quest_18011_Task_15_Description" rel_version="Territory_Dunwood">Recover the second half of the Crystal Battery</string>
+	<string key="Quest_18011_Task_16_Description" rel_version="Territory_Dunwood">Add the Crystal Battery to the final Crystal Generator</string>
+	<string key="Quest_18011_Task_17_Description" rel_version="Territory_Dunwood">Swim through the catacombs</string>
+	<string key="Quest_18011_Task_18_Description" rel_version="Territory_Dunwood">Swim through the catacombs</string>
+	<string key="Quest_18011_Task_19_Description" rel_version="Territory_Dunwood">Swim through the catacombs</string>
+	<string key="Quest_18011_Task_1_Description" rel_version="Territory_Dunwood">Search for any survivors outside Grivaros</string>
+	<string key="Quest_18011_Task_20_0_0_0_0_0_Description" rel_version="Territory_Dunwood">Climb out of the room</string>
+	<string key="Quest_18011_Task_20_0_0_0_0_Description" rel_version="Territory_Dunwood">Climb to the next room</string>
+	<string key="Quest_18011_Task_20_0_0_0_Description" rel_version="Territory_Dunwood">Climb to the next room</string>
+	<string key="Quest_18011_Task_20_0_0_Description" rel_version="Territory_Dunwood">Climb to the next room</string>
+	<string key="Quest_18011_Task_20_0_Description" rel_version="Territory_Dunwood">Climb to the next room</string>
+	<string key="Quest_18011_Task_20_Description" rel_version="Territory_Dunwood">Swim through the catacombs</string>
+	<string key="Quest_18011_Task_23_Description" rel_version="Territory_Dunwood">Ask the lost person if they are from Grivaros</string>
+	<string key="Quest_18011_Task_2_Description" rel_version="Territory_Dunwood">Replace the second Crystal Battery:</string>
+	<string key="Quest_18011_Task_3_Description" rel_version="Territory_Dunwood">Defeat an Ancient for a {itemName}</string>
+	<string key="Quest_18011_Task_4_0_Description" rel_version="Territory_Dunwood">Power up the Crystal Generator</string>
+	<string key="Quest_18011_Task_4_1_Description" rel_version="Territory_Dunwood">Reconnect the Ancient Battery in the catacombs</string>
+	<string key="Quest_18011_Task_4_Description" rel_version="Territory_Dunwood">Add the Crystal Battery to the second Crystal Generator</string>
+	<string key="Quest_18011_Task_5_Description" rel_version="Territory_Dunwood">This is where an item is removed</string>
+	<string key="Quest_18011_Task_6_Description" rel_version="Territory_Dunwood">Replace the first Crystal Battery:</string>
+	<string key="Quest_18011_Task_7_Description" rel_version="Territory_Dunwood">Collect {itemName} in the catacombs</string>
+	<string key="Quest_18011_Task_8_Description" rel_version="Territory_Dunwood">Place a Crystal Battery in the generator</string>
+	<string key="Quest_18011_Task_9_Description" rel_version="Territory_Dunwood">This is where an item is removed</string>
+	<string key="Quest_18011_description" rel_version="Territory_Dunwood" speaker="UI - Quest Description">Venture outside the town to learn if there are more survivors from the Berlaur attack. Then help Alecksi gather components of mechanical batteries to power a shield that used to protect the town.</string>
+	<string key="Quest_18011_title" rel_version="Territory_Dunwood" speaker="UI - Quest Title">Mysterious Benefactor</string>
+	<string key="Quest_18012_Task_10_Description" rel_version="Territory_Dunwood">Follow the wires</string>
+	<string key="Quest_18012_Task_11_0_Description" rel_version="Territory_Dunwood">Throw the switches to power the building</string>
+	<string key="Quest_18012_Task_11_Description" rel_version="Territory_Dunwood">Throw the switches to power the building</string>
+	<string key="Quest_18012_Task_12_Description" rel_version="Territory_Dunwood">Open the gate to access the stairs</string>
+	<string key="Quest_18012_Task_14_Description" rel_version="Territory_Dunwood">Defeat Asena</string>
+	<string key="Quest_18012_Task_15_Description" rel_version="Territory_Dunwood">Enter the room to defeat Asena</string>
+	<string key="Quest_18012_Task_17_Description" rel_version="Territory_Dunwood">Talk to Lynette</string>
+	<string key="Quest_18012_Task_1_Description" rel_version="Territory_Dunwood">Hook up the left connection to power</string>
+	<string key="Quest_18012_Task_2_Description" rel_version="Territory_Dunwood">Repair the first connection</string>
+	<string key="Quest_18012_Task_3_Description" rel_version="Territory_Dunwood">Repair the second connection</string>
+	<string key="Quest_18012_Task_4_Description" rel_version="Territory_Dunwood">Repair the third connection</string>
+	<string key="Quest_18012_Task_5_Description" rel_version="Territory_Dunwood">Ascend to find the Lunar Shield</string>
+	<string key="Quest_18012_Task_6_Description" rel_version="Territory_Dunwood">Activate the Lunar Shield</string>
+	<string key="Quest_18012_Task_8_Description" rel_version="Territory_Dunwood">Follow the wires</string>
+	<string key="Quest_18012_Task_9_Description" rel_version="Territory_Dunwood">Follow the wires</string>
+	<string key="Quest_18012_description" rel_version="Territory_Dunwood" speaker="UI - Quest Description">Now that the mechanical batteries have been replaced, help Alecksi reconnect the shield energy junctures, then power the lunar shield from within the ruined castle.</string>
+	<string key="Quest_18012_title" rel_version="Territory_Dunwood" speaker="UI - Quest Title">Connect the Dots</string>
+	<string key="Quest_18013_Task_1_Description" rel_version="Territory_Dunwood">Tell Morgaine what you learned so far about the Tear</string>
+	<string key="Quest_18013_Task_2_Description" rel_version="Territory_Dunwood">Continue across the water</string>
+	<string key="Quest_18013_Task_3_Description" rel_version="Territory_Dunwood">Talk with Namkuzu</string>
+	<string key="Quest_18013_Task_4_Description" rel_version="Territory_Dunwood">Find the Grand Carnival&apos;s Traveling Camp</string>
+	<string key="Quest_18013_Task_5_Description" rel_version="Territory_Dunwood">Find a way down to the water</string>
+	<string key="Quest_18013_description" rel_version="Territory_Dunwood" speaker="UI - Quest Description">Alecksi offers an invitiation to learn more about the Tear of Gaea at his home, but first Morgaine needs a way to get across the river, now that the bridge is out.</string>
+	<string key="Quest_18013_title" rel_version="Territory_Dunwood" speaker="UI - Quest Title">Welcome to Nighthaven</string>
+	<string key="Quest_18014_Task_10_Description" rel_version="Territory_Dunwood">Collect {itemName}s from chests</string>
+	<string key="Quest_18014_Task_1_Description" rel_version="Territory_Dunwood">Speak with Namkuzu on how to use Fool&apos;s Sight</string>
+	<string key="Quest_18014_Task_2_Description" rel_version="Territory_Dunwood">Learn about Fool&apos;s Sight from the Fortune Mother</string>
+	<string key="Quest_18014_Task_3_Description" rel_version="Territory_Dunwood">Traverse the ruins to find the Fool&apos;s Card</string>
+	<string key="Quest_18014_Task_4_Description" rel_version="Territory_Dunwood">Meet Namkuzu at {POITags} for training</string>
+	<string key="Quest_18014_Task_5_Description" rel_version="Territory_Dunwood">Collect the Fool Arcana Card</string>
+	<string key="Quest_18014_Task_6_Description" rel_version="Territory_Dunwood">Continue to climb up the ruins</string>
+	<string key="Quest_18014_Task_7_0_0_0_0_0_Description" rel_version="Territory_Dunwood">Reach the Fool&apos;s Card</string>
+	<string key="Quest_18014_Task_7_0_0_0_0_Description" rel_version="Territory_Dunwood">Reach the Fool&apos;s Card</string>
+	<string key="Quest_18014_Task_7_0_0_0_Description" rel_version="Territory_Dunwood">Climb higher in the ruins</string>
+	<string key="Quest_18014_Task_7_0_0_Description" rel_version="Territory_Dunwood">Climb higher in the ruins</string>
+	<string key="Quest_18014_Task_7_0_Description" rel_version="Territory_Dunwood">Climb higher in the ruins</string>
+	<string key="Quest_18014_Task_7_Description" rel_version="Territory_Dunwood">Climb higher in the ruins</string>
+	<string key="Quest_18014_description" rel_version="Territory_Dunwood" speaker="UI - Quest Description">Learn how to use Fool&apos;s Sight to see through the deceptive magics that permeate Nighthaven.</string>
+	<string key="Quest_18014_title" rel_version="Territory_Dunwood" speaker="UI - Quest Title">A Fool&apos;s Errand</string>
+	<string key="Quest_18015_Task_1_Description" rel_version="Territory_Dunwood">Collect {itemName} from Vervain plants</string>
+	<string key="Quest_18015_Task_2_Description" rel_version="Territory_Dunwood">Collect {itemName} from {targetName}</string>
+	<string key="Quest_18015_Task_3_Description" rel_version="Territory_Dunwood">Collect {itemName} from a chest</string>
+	<string key="Quest_18015_Task_4_Description" rel_version="Territory_Dunwood">Collect {itemName} from {targetName}</string>
+	<string key="Quest_18015_Task_5_Description" rel_version="Territory_Dunwood">Go to Namkuzu to learn how to craft the potion</string>
+	<string key="Quest_18015_Task_6_Description" rel_version="Territory_Dunwood">Craft the Arcana Attunement</string>
+	<string key="Quest_18015_Task_7_Description" rel_version="Territory_Dunwood">Gain {itemName}</string>
+	<string key="Quest_18015_Task_8_Description" rel_version="Territory_Dunwood">Discuss the Arcana with the Fortune Mother</string>
+	<string key="Quest_18015_Task_9_Description" rel_version="Territory_Dunwood">Gain {itemName}</string>
+	<string key="Quest_18015_description" rel_version="Territory_Dunwood" speaker="UI - Quest Description">After discovering the mysteries of the Fool Card, gather materials nearby to craft a potion of Arcana Attunement to harness the cards chaotic magics.</string>
+	<string key="Quest_18015_title" rel_version="Territory_Dunwood" speaker="UI - Quest Title">The Magic Beneath</string>
+	<string key="Quest_18016_Task_10_0_Description"/>
+	<string key="Quest_18016_Task_1_Description" rel_version="Territory_Dunwood">Travel to {POITags} to use Arcana to enter the Tower and defeat the Champion</string>
+	<string key="Quest_18016_Task_2_Description" rel_version="Territory_Dunwood">Climb to the top of the tower</string>
+	<string key="Quest_18016_Task_3_Description" rel_version="Territory_Dunwood">Return triumphant to Namkuzu</string>
+	<string key="Quest_18016_Task_4_Description" rel_version="Territory_Dunwood">Meet with the Fortune Mother in {POITags} to learn more about the Arcana</string>
+	<string key="Quest_18016_Task_5_Description" rel_version="Territory_Dunwood">Gain {itemName}</string>
+	<string key="Quest_18016_Task_6_Description" rel_version="Territory_Dunwood">Collect {itemName} from a chest</string>
+	<string key="Quest_18016_Task_7_Description" rel_version="Territory_Dunwood">Defeat the Devilish Protector</string>
+	<string key="Quest_18016_Task_8_Description" rel_version="Territory_Dunwood">Attune with the Devil Arcana Card</string>
+	<string key="Quest_18016_description" rel_version="Territory_Dunwood" speaker="UI - Quest Description">Now that Fool&apos;s Sight has been unlocked, break the guardian seal around the Devil&apos;s Tower and defeat the champion inside to unlock another Arcana card, proving you have mastered Fool&apos;s Sight to the Fortune Mother.</string>
+	<string key="Quest_18016_title" rel_version="Territory_Dunwood" speaker="UI - Quest Title">Ascending the Tower</string>
+	<string key="Quest_18017_Task_10_Description" rel_version="Territory_Dunwood">Talk to Lord Varlaam about the Tear of Gaea</string>
+	<string key="Quest_18017_Task_13_0_0_Description" rel_version="Territory_Dunwood">Follow Volos&apos; directions through the castle</string>
+	<string key="Quest_18017_Task_13_0_Description" rel_version="Territory_Dunwood">Follow Volos&apos; directions through the castle</string>
+	<string key="Quest_18017_Task_13_Description" rel_version="Territory_Dunwood">Follow Volos&apos; directions through the castle</string>
+	<string key="Quest_18017_Task_14_Description" rel_version="Territory_Dunwood">Travel to {POITags} to meet with Alecksi</string>
+	<string key="Quest_18017_Task_15_Description" rel_version="Territory_Dunwood">Meet Alecksi inside the castle</string>
+	<string key="Quest_18017_Task_16_Description" rel_version="Territory_Dunwood">Follow Volos&apos; directions to the cellar</string>
+	<string key="Quest_18017_Task_17_Description" rel_version="Territory_Dunwood">Follow Volos&apos; directions to the cellar</string>
+	<string key="Quest_18017_Task_1_0_Description" rel_version="Territory_Dunwood">Present the wine to Alecksi</string>
+	<string key="Quest_18017_Task_1_Description" rel_version="Territory_Dunwood">Discuss the Tear of Gaea with Alecksi</string>
+	<string key="Quest_18017_Task_2_Description" rel_version="Territory_Dunwood">Ask a courtier for directions to the cellar</string>
+	<string key="Quest_18017_Task_3_Description" rel_version="Territory_Dunwood">Ask where to find the cellar</string>
+	<string key="Quest_18017_Task_4_Description" rel_version="Territory_Dunwood">Collect {itemName} from the cellar</string>
+	<string key="Quest_18017_Task_6_Description" rel_version="Territory_Dunwood">Follow the candlelight out of the cellar</string>
+	<string key="Quest_18017_Task_7_0_0_0_Description" rel_version="Territory_Dunwood">Follow the candlelight out of the cellar</string>
+	<string key="Quest_18017_Task_7_0_0_Description" rel_version="Territory_Dunwood">Follow the candlelight out of the cellar</string>
+	<string key="Quest_18017_Task_7_0_Description" rel_version="Territory_Dunwood">Follow the candlelight out of the cellar</string>
+	<string key="Quest_18017_Task_7_Description" rel_version="Territory_Dunwood">Follow the candlelight out of the cellar</string>
+	<string key="Quest_18017_Task_8_Description" rel_version="Territory_Dunwood">Collect {itemName} from the cellar</string>
+	<string key="Quest_18017_Task_9_Description" rel_version="Territory_Dunwood">Talk to Lady Carmilla about Asena</string>
+	<string key="Quest_18017_description" rel_version="Territory_Dunwood" speaker="UI - Quest Description">Taking Alecksi up on his earlier offer, visit Castle Dracula and speak with the courtiers to learn more about Asena and the Tear of Gaea.</string>
+	<string key="Quest_18017_title" rel_version="Territory_Dunwood" speaker="UI - Quest Title">The Clock and the Castle</string>
+	<string key="Quest_18018_Task_13_Description" rel_version="Territory_Dunwood">Follow the trail out of the woods</string>
+	<string key="Quest_18018_Task_14_Description" rel_version="Territory_Dunwood">Follow the trail through the wilderness</string>
+	<string key="Quest_18018_Task_15_Description" rel_version="Territory_Dunwood">Follow the trail along the roads</string>
+	<string key="Quest_18018_Task_16_Description" rel_version="Territory_Dunwood">Follow the trail over streams</string>
+	<string key="Quest_18018_Task_17_Description" rel_version="Territory_Dunwood">Recover the Tear of Gaea from Asena</string>
+	<string key="Quest_18018_Task_18_Description" rel_version="Territory_Dunwood">Defeat Asena to recover the Tear of Gaea</string>
+	<string key="Quest_18018_Task_19_Description" rel_version="Territory_Dunwood">Find a way out of the castle</string>
+	<string key="Quest_18018_Task_1_Description" rel_version="Territory_Dunwood">Travel to {POITags} to meet with Lynette to investigate locations for the Tear of Gaea</string>
+	<string key="Quest_18018_Task_20_0_Description"/>
+	<string key="Quest_18018_Task_20_Description" rel_version="Territory_Dunwood">Recover the Tear of Gaea from Asena</string>
+	<string key="Quest_18018_Task_22_Description" rel_version="Territory_Dunwood">Jump down to get to Asena</string>
+	<string key="Quest_18018_Task_23_Description" rel_version="Territory_Dunwood">Search for the third prisoner</string>
+	<string key="Quest_18018_Task_24_Description" rel_version="Territory_Dunwood">Discuss the situation with Morgaine</string>
+	<string key="Quest_18018_Task_25_Description" rel_version="Territory_Dunwood">Search for the prisoner</string>
+	<string key="Quest_18018_Task_26_Description" rel_version="Territory_Dunwood">Discover the Talon Key</string>
+	<string key="Quest_18018_Task_28_Description" rel_version="Territory_Dunwood">Search for the prisoner</string>
+	<string key="Quest_18018_Task_29_Description" rel_version="Territory_Dunwood">Search for the prisoner</string>
+	<string key="Quest_18018_Task_2_0_0_Description">Ask Mierlă about other prisoners</string>
+	<string key="Quest_18018_Task_2_0_Description">Ask Voicu about other prisoners</string>
+	<string key="Quest_18018_Task_2_Description" rel_version="Territory_Dunwood">Ask Lynette about recent berlaur activity</string>
+	<string key="Quest_18018_Task_3_0_0_Description" rel_version="Territory_Dunwood">Destroy the cage door to free the prisoner</string>
+	<string key="Quest_18018_Task_3_0_Description" rel_version="Territory_Dunwood">Destroy the cage door to free the prisoner</string>
+	<string key="Quest_18018_Task_3_Description" rel_version="Territory_Dunwood">Open the cage door to free the prisoner</string>
+	<string key="Quest_18018_Task_4_Description" rel_version="Territory_Dunwood">Talk to Cecilia about the Tear of Gaea</string>
+	<string key="Quest_18018_Task_5_Description" rel_version="Territory_Dunwood">Enter the den to find Asena</string>
+	<string key="Quest_18018_Task_6_Description" rel_version="Territory_Dunwood">Climb the collapsed bridge to enter</string>
+	<string key="Quest_18018_Task_7_Description" rel_version="Territory_Dunwood">Follow the trail of the kidnapped locals</string>
+	<string key="Quest_18018_Task_8_0_Description"/>
+	<string key="Quest_18018_Task_9_Description" rel_version="Territory_Dunwood">Follow the trail to the next kidnapped local</string>
+	<string key="Quest_18018_description" rel_version="Territory_Dunwood" speaker="UI - Quest Description">After learning potential locations of the Tear of Gaea from Upyr nobles in Dracula&apos;s castle, talk to Lynette in Tularest to gain more information where those locations are to recover the Tear.</string>
+	<string key="Quest_18018_title" rel_version="Territory_Dunwood" speaker="UI - Quest Title">The Wolf&apos;s Den</string>
+	<string key="Quest_18019_Task_1_Description" rel_version="Territory_Dunwood">Travel to the camp where the Tear was first stolen from Morgaine</string>
+	<string key="Quest_18019_Task_2_0_Description" rel_version="Territory_Dunwood">Read more of Morgaine&apos;s Journal</string>
+	<string key="Quest_18019_Task_2_Description" rel_version="Territory_Dunwood">Read Morgaine&apos;s Journal</string>
+	<string key="Quest_18019_Task_3_Description" rel_version="Territory_Dunwood">Collect Morgaine&apos;s {itemName}</string>
+	<string key="Quest_18019_description" rel_version="Territory_Dunwood" speaker="UI - Quest Description">Morgaine has stolen the Tear of Gaea and run off! With aid from Cecilia, search for clues among the destroyed caravan where Morgaine was staying.</string>
+	<string key="Quest_18019_title" rel_version="Territory_Dunwood" speaker="UI - Quest Title">Et tu, Morgaine?</string>
+	<string key="Quest_18020_Task_10_Description" rel_version="Territory_Dunwood">Meet up with Cecilia at Alecksi&apos;s Reliquary</string>
+	<string key="Quest_18020_Task_11_Description" rel_version="Territory_Dunwood">Cross the bridge to enter the castle</string>
+	<string key="Quest_18020_Task_12_Description" rel_version="Territory_Dunwood">Meet Lynette outside the dungeon</string>
+	<string key="Quest_18020_Task_13_Description" rel_version="Territory_Dunwood">Sneak out of the castle</string>
+	<string key="Quest_18020_Task_14_Description" rel_version="Territory_Dunwood">Follow the candlelight through the cellar</string>
+	<string key="Quest_18020_Task_15_Description" rel_version="Territory_Dunwood">Follow the candlelight through the cellar</string>
+	<string key="Quest_18020_Task_16_Description" rel_version="Territory_Dunwood">Follow the candlelight through the cellar</string>
+	<string key="Quest_18020_Task_17_Description" rel_version="Territory_Dunwood">Exit the cellar</string>
+	<string key="Quest_18020_Task_1_Description" rel_version="Territory_Dunwood">Find Alecksi to ask about Morgaine and the Tear</string>
+	<string key="Quest_18020_Task_21_0_0_Description">Make your way to the Reliquary</string>
+	<string key="Quest_18020_Task_21_0_Description">Make your way to the Reliquary</string>
+	<string key="Quest_18020_Task_21_Description" rel_version="Territory_Dunwood">Make your way to the Reliquary</string>
+	<string key="Quest_18020_Task_22_0_0_Description" rel_version="Territory_Dunwood">Listen to Alecksi&apos;s memories</string>
+	<string key="Quest_18020_Task_22_0_Description" rel_version="Territory_Dunwood">Listen to Alecksi&apos;s memories</string>
+	<string key="Quest_18020_Task_22_Description" rel_version="Territory_Dunwood">Listen to Alecksi&apos;s memories</string>
+	<string key="Quest_18020_Task_2_Description" rel_version="Territory_Dunwood">Listen to Lynette&apos;s warning</string>
+	<string key="Quest_18020_Task_3_Description" rel_version="Territory_Dunwood">Ask Lynette about any dangers ahead</string>
+	<string key="Quest_18020_Task_4_0_Description" rel_version="Territory_Dunwood">Navigate through the treacherous dungeons</string>
+	<string key="Quest_18020_Task_4_1_Description" rel_version="Territory_Dunwood">Navigate through the treacherous dungeons</string>
+	<string key="Quest_18020_Task_4_2_0_Description" rel_version="Territory_Dunwood">Navigate through the treacherous dungeons</string>
+	<string key="Quest_18020_Task_4_2_Description" rel_version="Territory_Dunwood">Navigate through the treacherous dungeons</string>
+	<string key="Quest_18020_Task_4_Description" rel_version="Territory_Dunwood">Navigate through the treacherous dungeons</string>
+	<string key="Quest_18020_Task_5_Description" rel_version="Territory_Dunwood">Free Cecilia from the dungeon</string>
+	<string key="Quest_18020_Task_6_0_0_Description" rel_version="Territory_Dunwood">Relive a third memory</string>
+	<string key="Quest_18020_Task_6_0_Description" rel_version="Territory_Dunwood">Relive a second memory</string>
+	<string key="Quest_18020_Task_6_Description" rel_version="Territory_Dunwood">Relive one of Alecksi&apos;s memories</string>
+	<string key="Quest_18020_Task_8_Description" rel_version="Territory_Dunwood">Discuss the implications of the memories with Cecilia</string>
+	<string key="Quest_18020_Task_9_Description" rel_version="Territory_Dunwood">Read Alecksi&apos;s Journal</string>
+	<string key="Quest_18020_description" rel_version="Territory_Dunwood" speaker="UI - Quest Description">Return to Castle Dracule to discover why Alecksi sent both Cecilia and Morgaine to recover the Tear of Gaea, then help Cecilia delve into her father&apos;s memories.</string>
+	<string key="Quest_18020_title" rel_version="Territory_Dunwood" speaker="UI - Quest Title">The Ancient Legacy</string>
+	<string key="Quest_18021_Task_1_Description" rel_version="Territory_Dunwood">Travel to {POITags} to track down Morgaine and prevent her from turning into an Upyr</string>
+	<string key="Quest_18021_Task_2_Description" rel_version="Territory_Dunwood">Find {itemName} from {targetName} as evidence Morgaine was here</string>
+	<string key="Quest_18021_Task_2_Description_0" rel_version="Territory_Dunwood">Find the way out of House Báthory&apos;s dungeon</string>
+	<string key="Quest_18021_Task_3_0_Description" rel_version="Territory_Dunwood">Read the Upyr&apos;s correspondence for clues of Morgaine&apos;s whereabouts</string>
+	<string key="Quest_18021_Task_3_Description" rel_version="Territory_Dunwood">Read the Upyr&apos;s correspondence for clues of Morgaine&apos;s whereabouts</string>
+	<string key="Quest_18021_Task_4_Description" rel_version="Territory_Dunwood">Inform Cecilia of the evidence found</string>
+	<string key="Quest_18021_Task_4_Description_0" rel_version="Territory_Dunwood">Exit House Báthory&apos;s dungeon</string>
+	<string key="Quest_18021_Task_5_Description" rel_version="Territory_Dunwood">Continue to follow Morgaine&apos;s trail (this is when a wave event happens)</string>
+	<string key="Quest_18021_Task_5_Description_0" rel_version="Territory_Dunwood">Enter House Báthory&apos;s dungeon</string>
+	<string key="Quest_18021_Task_6_Description" rel_version="Territory_Dunwood">Collect evidence that Morgaine was here</string>
+	<string key="Quest_18021_Task_7_0_Description" rel_version="Territory_Dunwood">Collect planted evidence that Morgaine was here</string>
+	<string key="Quest_18021_Task_7_Description" rel_version="Territory_Dunwood">Destroy the crates of mind-altering substances</string>
+	<string key="Quest_18021_Task_8_Description" rel_version="Territory_Dunwood">Break down dressers to find clues about Morgaine</string>
+	<string key="Quest_18021_description" rel_version="Territory_Dunwood" speaker="UI - Quest Description">Seek out Morgaine in order to stop her transformation into an Upyr.</string>
+	<string key="Quest_18021_title" rel_version="Territory_Dunwood" speaker="UI - Quest Title">The Hunt for Morgaine</string>
+	<string key="Quest_18022_Task_1_Description" rel_version="Territory_Dunwood">Travel to {POITags} to confront Morgaine</string>
+	<string key="Quest_18022_Task_2_Description" rel_version="Territory_Dunwood">Discuss with Cecilia how best to take on Morgaine</string>
+	<string key="Quest_18022_Task_3_Description" rel_version="Territory_Dunwood">Confront Morgaine about her condition</string>
+	<string key="Quest_18022_Task_4_Description" rel_version="Territory_Dunwood">Enter to confront Morgaine</string>
+	<string key="Quest_18022_Task_5_Description" rel_version="Territory_Dunwood">Convince Morgaine to see reason</string>
+	<string key="Quest_18022_description" rel_version="Territory_Dunwood" speaker="UI - Quest Description">Confront Morgaine and stop her from fully transformating into an Upyr.</string>
+	<string key="Quest_18022_title" rel_version="Territory_Dunwood" speaker="UI - Quest Title">A Long Time Coming</string>
+	<string key="Quest_18023_Task_1_Description" rel_version="Territory_Dunwood">Travel to {POITags} to discover a cure for Morgaine</string>
+	<string key="Quest_18023_Task_2_Description" rel_version="Territory_Dunwood">Ask Namkuzu about how to help Morgaine</string>
+	<string key="Quest_18023_Task_3_Description" rel_version="Territory_Dunwood">Ask the Fortune Mother how to cure Morgaine</string>
+	<string key="Quest_18023_Task_3_Description_0" rel_version="Territory_Dunwood">Steal a Carriage from House Carmilla to travel faster</string>
+	<string key="Quest_18023_Task_4_Description" rel_version="Territory_Dunwood">Listen to Namkuzu&apos;s update on Morgaine&apos;s progress</string>
+	<string key="Quest_18023_Task_4_Description_0" rel_version="Territory_Dunwood">Hide the carriage to slow down any pursuit</string>
+	<string key="Quest_18023_Task_5_Description" rel_version="Territory_Dunwood">Collect {itemName} from Boxes of Potions</string>
+	<string key="Quest_18023_Task_6_Description" rel_version="Territory_Dunwood">Collect {itemName} from {targetName}</string>
+	<string key="Quest_18023_Task_7_Description" rel_version="Territory_Dunwood">Collect {itemName} from {targetName}</string>
+	<string key="Quest_18023_Task_8_Description" rel_version="Territory_Dunwood">Collect {itemName} from a chest near Uttu</string>
+	<string key="Quest_18023_Task_9_Description" rel_version="Territory_Dunwood">Return to the Fortune Mother with the required items</string>
+	<string key="Quest_18023_description" rel_version="Territory_Dunwood" speaker="UI - Quest Description">Get Morgaine to the Grand Carnival without being stopped by the Upyr. Visit the Fortune Mother to find a way to reverse her transformation, now that she is no longer on her way to becoming a full Upyr.</string>
+	<string key="Quest_18023_title" rel_version="Territory_Dunwood" speaker="UI - Quest Title">Necessary Detour</string>
+	<string key="Quest_18024_Task_10_0_Description">Read another of Lillith&apos;s memories</string>
+	<string key="Quest_18024_Task_10_Description" rel_version="Territory_Dunwood">Read one of Lillith&apos;s memories</string>
+	<string key="Quest_18024_Task_11_Description" rel_version="Territory_Dunwood">Recover the Amulet of Ninsun</string>
+	<string key="Quest_18024_Task_12_Description" rel_version="Territory_Dunwood">Find a way deeper into the ruins</string>
+	<string key="Quest_18024_Task_1_Description" rel_version="Territory_Dunwood">Travel to {POITags} to learn more about where the Archive is located</string>
+	<string key="Quest_18024_Task_2_Description" rel_version="Territory_Dunwood">Meet up with Cecilia to discover what she learned</string>
+	<string key="Quest_18024_Task_3_Description" rel_version="Territory_Dunwood">Learn about how to enter the Archive</string>
+	<string key="Quest_18024_Task_4_Description" rel_version="Territory_Dunwood">Enter into the ancient heart of the site</string>
+	<string key="Quest_18024_Task_5_Description" rel_version="Territory_Dunwood">Travel to {POITags} to gain the Archive Keystone</string>
+	<string key="Quest_18024_Task_6_Description" rel_version="Territory_Dunwood">Recover the {itemName} from the Ancient Chest</string>
+	<string key="Quest_18024_Task_7_Description" rel_version="Territory_Dunwood">Travel to {POITags} to find a way into the Archive</string>
+	<string key="Quest_18024_Task_7_Description_0" rel_version="Territory_Dunwood">Travel to {POITags} to discover the location of the Archive</string>
+	<string key="Quest_18024_Task_8_Description" rel_version="Territory_Dunwood">Talk to Cecilia about finding a way into the Archive</string>
+	<string key="Quest_18024_Task_8_Description_0" rel_version="Territory_Dunwood">Learn where the Archive is located</string>
+	<string key="Quest_18024_Task_9_Description" rel_version="Territory_Dunwood">Enter the Archives (this is when a wave event happens)</string>
+	<string key="Quest_18024_description" rel_version="Territory_Dunwood" speaker="UI - Quest Description">Cecilia is certain the key to stopping Alecksi is located somewhere in the original Archive. Unfortunately, the location has been lost to time, and must be rediscovered.</string>
+	<string key="Quest_18024_title" rel_version="Territory_Dunwood" speaker="UI - Quest Title">What Once Was Lost</string>
+	<string key="Quest_18025_Task_1_Description" rel_version="Territory_Dunwood">Confront Alecksi inside Lilith&apos;s dreams</string>
+	<string key="Quest_18025_Task_2_Description" rel_version="Territory_Dunwood">Discuss with Cecilia how to enter Lilith&apos;s dreams</string>
+	<string key="Quest_18025_Task_3_Description" rel_version="Territory_Dunwood">Enter Castle Dracula from the western gate</string>
+	<string key="Quest_18025_Task_4_Description" rel_version="Territory_Dunwood">Meet Cecilia near the entrance to the belltower</string>
+	<string key="Quest_18025_Task_5_Description" rel_version="Territory_Dunwood">Enter into Lilith&apos;s Dreams</string>
+	<string key="Quest_18025_Task_6_Description" rel_version="Territory_Dunwood">Stop Alecksi from changing the world</string>
+	<string key="Quest_18025_description" rel_version="Territory_Dunwood" speaker="UI - Quest Description">Confront the Warrior King Alecksi within Lilith’s dreams, before he can use the Tear of Gaea to return her to life.</string>
+	<string key="Quest_18025_title" rel_version="Territory_Dunwood" speaker="UI - Quest Title">To Face the End</string>
+	<string key="Quest_18026_Task_1_Description" rel_version="Territory_Dunwood">Discuss Nighthaven&apos;s future with Cecilia in the chapel</string>
+	<string key="Quest_18026_description" rel_version="Territory_Dunwood" speaker="UI - Quest Description">Now that the Warrior King Alecksi has been deposed, discuss the future of Nighthaven with the new ruler, Cecilia.</string>
+	<string key="Quest_18026_title" rel_version="Territory_Dunwood" speaker="UI - Quest Title">The Heir Apparent</string>
+	<string key="Quest_18028_Task_10_Description" rel_version="Territory_Dunwood">Continue your search upstairs</string>
+	<string key="Quest_18028_Task_12_Description" rel_version="Territory_Dunwood">Leave House Carmilla and bring Cecilia what you&apos;ve discovered</string>
+	<string key="Quest_18028_Task_13_Description" rel_version="Territory_Dunwood">Defeat Carmilla&apos;s Spymaster</string>
+	<string key="Quest_18028_Task_1_Description" rel_version="Territory_Dunwood">Sneak into the House Carmilla dungeon to discover the true location of Morgaine</string>
+	<string key="Quest_18028_Task_2_Description" rel_version="Territory_Dunwood">Search a dresser to find where the Upyr are keeping Morgaine</string>
+	<string key="Quest_18028_Task_3_Description" rel_version="Territory_Dunwood">Search paperwork to find where the Upyr are keeping Morgaine</string>
+	<string key="Quest_18028_Task_4_Description" rel_version="Territory_Dunwood">Read the Upyr&apos;s correspondence for clues of Morgaine&apos;s whereabouts</string>
+	<string key="Quest_18028_Task_5_Description" rel_version="Territory_Dunwood">Collect evidence that Morgaine was here</string>
+	<string key="Quest_18028_Task_5_Description_0" rel_version="Territory_Dunwood">Follow the trail of evidence that Morgaine was here</string>
+	<string key="Quest_18028_Task_6_Description" rel_version="Territory_Dunwood">Discover who has been stalling you</string>
+	<string key="Quest_18028_Task_7_Description" rel_version="Territory_Dunwood">Take {itemName} from Upyr as evidence</string>
+	<string key="Quest_18028_Task_8_Description" rel_version="Territory_Dunwood">Meet Cecilia on the bridge</string>
+	<string key="Quest_18028_Task_9_Description" rel_version="Territory_Dunwood">Enter the dungeons</string>
+	<string key="Quest_18028_Task_9_Description_0" rel_version="Territory_Dunwood">Enter House Carmilla to continue searching</string>
+	<string key="Quest_18028_description" rel_version="Territory_Dunwood" speaker="UI - Quest Description">Seek out the true location of Morgaine in order to stop her transformation into an Upyr.</string>
+	<string key="Quest_18028_title" rel_version="Territory_Dunwood" speaker="UI - Quest Title">Lies and Deceptions</string>
+	<string key="Quest_18029_Task_1_Description" rel_version="Territory_Dunwood">Collect {itemName} from Boxes of Potions at {POITags}</string>
+	<string key="Quest_18029_Task_2_Description" rel_version="Territory_Dunwood">Collect {itemName} from {targetName}</string>
+	<string key="Quest_18029_Task_3_Description" rel_version="Territory_Dunwood">Listen to Namkuzu&apos;s update on Morgaine&apos;s progress</string>
+	<string key="Quest_18029_Task_4_Description" rel_version="Territory_Dunwood">Craft the Upyr reduction at the old Lightshield crafting station</string>
+	<string key="Quest_18029_Task_5_Description" rel_version="Territory_Dunwood">Collect the final {itemName} from Boxes of Potions at {POITags}</string>
+	<string key="Quest_18029_Task_6_Description" rel_version="Territory_Dunwood">Collect more {itemName} from Boxes of Potions at {POITags}</string>
+	<string key="Quest_18029_Task_9_Description" rel_version="Territory_Dunwood">Gain {itemName}</string>
+	<string key="Quest_18029_description" rel_version="Territory_Dunwood" speaker="UI - Quest Description">As Morgaine&apos;s condition continues to deteriorate, find the ingredients to halt her transformation in the old Lightshield Crusade outposts.</string>
+	<string key="Quest_18029_title" rel_version="Territory_Dunwood" speaker="UI - Quest Title">The Last of the Lightshield</string>
+	<string key="Quest_18030_Task_1_Description" rel_version="Territory_Dunwood">Travel to {POITags} to collect the final ingredients</string>
+	<string key="Quest_18030_Task_2_Description" rel_version="Territory_Dunwood">Fill in Cecilia on Morgaine&apos;s progress</string>
+	<string key="Quest_18030_Task_3_Description" rel_version="Territory_Dunwood">Collect {itemName} from the webbed pack</string>
+	<string key="Quest_18030_Task_4_Description" rel_version="Territory_Dunwood">Collect {itemName} from mushrooms</string>
+	<string key="Quest_18030_Task_5_Description" rel_version="Territory_Dunwood">Travel to {POITags} to collect the next ingredient</string>
+	<string key="Quest_18030_Task_6_Description" rel_version="Territory_Dunwood">Collect Spider Silk from Webbed Cocoons</string>
+	<string key="Quest_18030_description" rel_version="Territory_Dunwood" speaker="UI - Quest Description">With half the cure being rushed back to Morgaine, continue to gather the final few ingredients from locations now bewebbed, housing horrific spiders.</string>
+	<string key="Quest_18030_title" rel_version="Territory_Dunwood" speaker="UI - Quest Title">With Tangled Webs</string>
+	<string key="Quest_18031_Task_1_Description" rel_version="Territory_Dunwood">Find a way across the {POITags} bridge to reach the Archive</string>
+	<string key="Quest_18031_Task_2_Description" rel_version="Territory_Dunwood">Meet Cecilia before entering the House of Dracul</string>
+	<string key="Quest_18031_Task_3_Description" rel_version="Territory_Dunwood">Find the Archive entrance</string>
+	<string key="Quest_18031_Task_6_Description" rel_version="Territory_Dunwood">Discuss with Cecilia the best way to enter the Archive from House of Dracul</string>
+	<string key="Quest_18031_Task_7_Description" rel_version="Territory_Dunwood">Get past the Baroness to enter the Archive</string>
+	<string key="Quest_18031_Task_8_0_Description" rel_version="Territory_Dunwood">Read another of Lilith&apos;s memories</string>
+	<string key="Quest_18031_Task_8_Description" rel_version="Territory_Dunwood">Read one of Lilith&apos;s memories</string>
+	<string key="Quest_18031_Task_9_Description" rel_version="Territory_Dunwood">Recover the Amulet of Ninsun</string>
+	<string key="Quest_18031_description" rel_version="Territory_Dunwood" speaker="UI - Quest Description">Now that the location of the Archive has been confirmed, find a way inside, then search for a way to enter into Lillith&apos;s dreams in order to stop Alecksi.</string>
+	<string key="Quest_18031_title" rel_version="Territory_Dunwood" speaker="UI - Quest Title">The Archive Opens</string>
+</resources>
+

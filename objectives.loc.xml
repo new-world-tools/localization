@@ -1,278 +1,281 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<string key="ui_locationHudHeader" comment="header above event/location objectives on HUD while esc menu is open" speaker="UI">Location</string>
-	<string key="ui_pinnedHudHeader" comment="header above manually pinned objectives on HUD while esc menu is open" speaker="UI">Pinned</string>
-	<string key="ui_nearbyHudHeader" comment="header above auto-added nearby objectives on HUD while esc menu is open" speaker="UI">Nearby</string>
-	<string key="journal_chapter_count" speaker="UI">Chapters Discovered:</string>
-	<string key="journal_chapter_title" speaker="UI">CHAPTER</string>
-	<string key="journal_chapters_completed" speaker="UI">Chapters Completed</string>
-	<string key="journal_chapters_discovered" speaker="UI">Chapters Discovered</string>
-	<string key="journal_chapters_title" speaker="UI">CHAPTERS</string>
-	<string key="journal_document_topics_title" speaker="UI">DOCUMENT TOPICS</string>
-	<string key="journal_documents" speaker="UI">Documents</string>
-	<string key="journal_overview" speaker="UI">OVERVIEW</string>
-	<string key="journal_page_count" speaker="UI">{pagesFound} / {totalPages}</string>
-	<string key="journal_page_number" speaker="UI">Page {number}</string>
-	<string key="journal_page_number_location" speaker="UI">Page {number} - Found at {location}</string>
-	<string key="journal_pages_found" speaker="UI">Pages Found</string>
-	<string key="journal_percent_complete" speaker="UI">Completion Rate:</string>
-	<string key="journal_topic_title" speaker="UI">TOPIC</string>
-	<string key="journal_topics_title" speaker="UI">TOPICS</string>
-	<string key="journal_undiscovered" speaker="UI">Undiscovered Page</string>
-	<string key="journal_unread" speaker="UI">UNREAD</string>
-	<string key="journal_none" speaker="UI">You have no documents.</string>
-	<string key="mission_abandoned" speaker="UI">Mission Abandoned</string>
-	<string key="mission_accepted" speaker="UI">Mission Accepted</string>
-	<string key="mission_completed" speaker="UI">Mission Completed</string>
-	<string key="mission_failed" speaker="UI">Mission Failed</string>
-	<string key="mission_replaced" speaker="UI">Mission Replaced</string>
-	<string key="objective_abandon" speaker="UI">Abandon</string>
-	<string key="objective_activate" speaker="UI">Activate {itemName}</string>
-	<string key="objective_archive" speaker="UI">Archive</string>
-	<string key="objective_BoarProblem_1" speaker="UI">Investigate the area marked on your map</string>
-	<string key="objective_BoarProblem_2" speaker="UI">Hunt {targetName}</string>
-	<string key="objective_BoarProblem_3" speaker="UI">Butcher Boar for {itemAmount} {itemName}</string>
-	<string key="objective_BoarProblem_4" speaker="UI">Cook Health Recovery at a Campfire</string>
-	<string key="objective_bringsword" speaker="UI">Craft an {itemName} at the Weaponsmith</string>
-	<string key="objective_build" speaker="UI">Build a {structureName}</string>
-	<string key="objective_buySell_buyItem" speaker="UI">Buy {itemAmount} {itemName}s</string>
-	<string key="objective_buySell_earnGoldFromItem" speaker="UI">Earn {amountCount} coins selling {itemName}s</string>
-	<string key="objective_buySell_earnGoldSingleTransaction" speaker="UI">Earn {amountCount} coins from a single transaction</string>
-	<string key="objective_buySell_sellItem" speaker="UI">Sell {itemAmount} {itemName}s</string>
-	<string key="objective_buySell_spendGoldOnItem" speaker="UI">Spend {amountCount} coins buying {itemName}s</string>
-	<string key="objective_buySell_spendGoldSingleTransaction" speaker="UI">Spend {amountCount} coins in a single transaction</string>
-	<string key="objective_completed" speaker="UI">Objective Completed</string>
-	<string key="dynamic_poi_objective_completed" speaker="UI">Landmark Scouted</string>
+	<string key="ui_locationHudHeader">Location</string>
+	<string key="ui_pinnedHudHeader">Pinned</string>
+	<string key="ui_nearbyHudHeader">Nearby</string>
+	<string key="journal_chapter_count">Chapters Discovered:</string>
+	<string key="journal_chapter_title">CHAPTER</string>
+	<string key="journal_chapters_completed">Chapters Completed</string>
+	<string key="journal_chapters_discovered">Chapters Discovered</string>
+	<string key="journal_chapters_title">CHAPTERS</string>
+	<string key="journal_document_topics_title">DOCUMENT TOPICS</string>
+	<string key="journal_documents">Documents</string>
+	<string key="journal_overview">OVERVIEW</string>
+	<string key="journal_page_count">{pagesFound} / {totalPages}</string>
+	<string key="journal_page_number">Page {number}</string>
+	<string key="journal_page_number_location">Page {number} - Found at {location}</string>
+	<string key="journal_pages_found">Pages Found</string>
+	<string key="journal_percent_complete">Completion Rate:</string>
+	<string key="journal_topic_title">TOPIC</string>
+	<string key="journal_topics_title">TOPICS</string>
+	<string key="journal_undiscovered">Undiscovered Page</string>
+	<string key="journal_unread">UNREAD</string>
+	<string key="journal_none">You have no documents.</string>
+	<string key="mission_abandoned">Mission Abandoned</string>
+	<string key="mission_accepted">Mission Accepted</string>
+	<string key="mission_completed">Mission Completed</string>
+	<string key="mission_failed">Mission Failed</string>
+	<string key="mission_replaced">Mission Replaced</string>
+	<string key="objective_abandon">Abandon</string>
+	<string key="objective_activate">Activate {itemName}</string>
+	<string key="objective_archive">Archive</string>
+	<string key="objective_BoarProblem_1">Investigate the area marked on your map</string>
+	<string key="objective_BoarProblem_2">Hunt {targetName}</string>
+	<string key="objective_BoarProblem_3">Butcher Boar for {itemAmount} {itemName}</string>
+	<string key="objective_BoarProblem_4">Cook Health Recovery at a Campfire</string>
+	<string key="objective_bringsword">Craft an {itemName} at the Weaponsmith</string>
+	<string key="objective_build">Build a {structureName}</string>
+	<string key="objective_buySell_buyItem">Buy {itemAmount} {itemName}s</string>
+	<string key="objective_buySell_earnGoldFromItem">Earn {amountCount} coins selling {itemName}s</string>
+	<string key="objective_buySell_earnGoldSingleTransaction">Earn {amountCount} coins from a single transaction</string>
+	<string key="objective_buySell_sellItem">Sell {itemAmount} {itemName}s</string>
+	<string key="objective_buySell_spendGoldOnItem">Spend {amountCount} coins buying {itemName}s</string>
+	<string key="objective_buySell_spendGoldSingleTransaction">Spend {amountCount} coins in a single transaction</string>
+	<string key="objective_completed">Objective Completed</string>
+	<string key="dynamic_poi_objective_completed">Landmark Scouted</string>
 	<string key="objective_quest_encounter">Quest Encounter</string>
 	<string key="objective_quest_encounter_description">Complete the encounter to advance the quest.</string>
-	<string key="objective_craft" speaker="UI">Craft a {itemName}</string>
-	<string key="objective_craft_an" speaker="UI">Craft an {itemName}</string>
-	<string key="objective_craft_p" speaker="UI">Craft {itemAmount} {itemName}s</string>
-	<string key="objective_crafthealingdrops" speaker="UI">Craft {itemName} at your Camp</string>
-	<string key="objective_crafthealthfood" speaker="UI">Cook Health Recovery at Watcher's campfire</string>
-	<string key="objective_crafting" speaker="UI">Crafting</string>
-	<string key="objective_craftsoverseersword" speaker="UI">Craft an {itemName} at the Forge</string>
-	<string key="objective_darkness_corrupted_portal_desc" speaker="UI">Stop the Corrupted Acolytes from opening the portal.</string>
-	<string key="objective_darkness_corrupted_portal_title" speaker="UI">Corrupted Portal</string>
-	<string key="objective_darkness_task_complete_waves_desc" speaker="UI">Defeat {targetAmount} Enemy Wave.</string>
-	<string key="objective_darkness_task_complete_waves_desc_p" speaker="UI">Defeat {targetAmount} Enemy Waves.</string>
-	<string key="objective_darkness_task_kill_enemies_desc" speaker="UI">Kill {targetAmount} {targetName}.</string>
-	<string key="objective_darkness_task_kill_enemies_territory_desc" speaker="UI">Kill {targetAmount} {targetName} in {territoryID}.</string>
-	<string key="objective_darkness_task_kill_enemies_desc_p" speaker="UI">Kill {targetAmount} {targetName}s.</string>
-	<string key="objective_darkness_task_major_corrupted_portal_container_desc" speaker="UI">Stop the Corrupted Acolytes from opening the portal.</string>
-	<string key="objective_destination_distance" speaker="UI">DESTINATION ({distance})</string>
-	<string key="objective_difficulty_0" speaker="UI">None</string>
-	<string key="objective_difficulty_1" speaker="UI">Easy</string>
-	<string key="objective_difficulty_2" speaker="UI">Medium</string>
-	<string key="objective_difficulty_3" speaker="UI">Hard</string>
-	<string key="objective_difficulty_label" speaker="UI">Difficulty :</string>
-	<string key="ui_viewinmap" speaker="UI">Map</string>
-	<string key="objective_empty" speaker="UI">No Objective Obtained</string>
-	<string key="objective_equip" speaker="UI">Equip {itemName}</string>
-	<string key="objective_experience" speaker="UI">Exp</string>
-	<string key="objective_failed" speaker="UI">Objective Failed</string>
-	<string key="objective_gather_herbs" speaker="UI">Gather Blue {itemName}s from coastal areas</string>
-	<string key="objective_gatherironore" speaker="UI">Retrieve the Iron Ore from the Heavy Satchel in your inventory OR</string>
-	<string key="objective_gatherrawhide" speaker="UI">Skin Boars and Wolves for {itemName}</string>
-	<string key="objective_gatherstone" speaker="UI">Mine {itemName} from Boulders</string>
-	<string key="objective_gatherwood" speaker="UI">Gather {itemName} from Bushes or Trees</string>
-	<string key="objective_guild" speaker="UI">Join a company</string>
-	<string key="objective_hand_in_destination" speaker="UI">Talk to {npcName}</string>
-	<string key="objective_have_level" speaker="UI">Achieve level {level}</string>
-	<string key="objective_have" speaker="UI">Obtain {itemName}</string>
-	<string key="objective_have_p" speaker="UI">Obtain {itemAmount} {itemName}s</string>
-	<string key="@objective_house_score" speaker="UI">Reach house decoration score {score}</string>
-	<string key="objective_ingredients" speaker="UI">INGREDIENTS</string>
-	<string key="objective_journal" speaker="UI">Journal</string>
-	<string key="objective_journey" speaker="UI">Side Stories</string>
-	<string key="objective_journey_desc" speaker="UI">Additional quests</string>
-	<string key="objective_journey_empty" speaker="UI">No Journey Obtained</string>
-	<string key="objective_factionstory" speaker="UI">Faction Story</string>
-	<string key="objective_factionstory_desc" speaker="UI">Faction story quests</string>
-	<string key="objective_seasonquest" speaker="UI">Season Story</string>
-	<string key="objective_seasonquest_desc" speaker="UI">Season story objectives</string>
-	<string key="objective_skillprogression" speaker="UI">Skill Progression</string>
-	<string key="objective_skillprogression_desc" speaker="UI">Skill progression objectives</string>
-	<string key="objective_mountquest" speaker="UI">Mount Quest</string>
-	<string key="objective_mountquest_desc" speaker="UI">Mount objectives</string>
-	<string key="objective_epicequipment" speaker="UI">Epic Equipment</string>
-	<string key="objective_epicequipment_desc" speaker="UI">Epic equipment quests</string>
-	<string key="objective_quest" speaker="UI">Quest</string>
-	<string key="objective_kill" speaker="UI">Kill {enemy}</string>
-	<string key="objective_kill_p" speaker="UI">Kill {amountCount} {enemy}s</string>
-	<string key="objective_location" speaker="UI">Location</string>
-	<string key="objective_location_desc" speaker="UI">Added in certain areas</string>
-	<string key="objective_loot" speaker="UI">Loot {itemName}</string>
-	<string key="objective_mission" speaker="UI">Faction Missions</string>
-	<string key="objective_mission_desc" speaker="UI">Given by a Faction Representative</string>
-	<string key="objective_mission_desc_bounty_hunter_kill" speaker="UI">Go out and slay dangerous foes</string>
-	<string key="objective_mission_desc_explorer_acquire_POI" speaker="UI">Search chests at {POITags}s</string>
-	<string key="objective_mission_desc_explorer_acquire_POI_territory" speaker="UI">Search chests in {territoryID} {POITags}</string>
-	<string key="objective_mission_desc_explorer_acquire_territory" speaker="UI">Search chests in {territoryID}</string>
-	<string key="objective_mission_desc_explorer_kill_acquire" speaker="UI">Cull {targetName} for {itemName}</string>
-	<string key="objective_mission_desc_explorer_kill_acquire_POI" speaker="UI">Cull {targetName} for {itemName} at {POITags}</string>
-	<string key="objective_mission_desc_explorer_kill_acquire_POI_territory" speaker="UI">Cull {targetName} for {itemName} in {territoryID} {POITags}</string>
-	<string key="objective_mission_desc_explorer_kill_acquire_territory" speaker="UI">Cull {targetName} for {itemName} in {territoryID}</string>
-	<string key="objective_mission_desc_merchant_courier" speaker="UI">Transport vital supplies to another outpost</string>
-	<string key="objective_mission_desc_procurer_acquire" speaker="UI">Go out and acquire vital resources</string>
-	<string key="objective_mission_POI_kill_enemy_for_x" speaker="UI">Go to {POITags} and kill {enemyName} for {itemName}</string>
-	<string key="objective_mission_task_desc_return_to_giver_cm" speaker="UI">Complete at {destinationName}'s Town Project Board</string>
-	<string key="objective_mission_task_desc_return_to_giver" speaker="UI">Complete at {destinationName}'s Faction Representative</string>
-	<string key="objective_mission_task_desc_return_to_any_giver" speaker="UI">Complete at any Faction Representative</string>
-	<string key="objective_mission_task_desc_unknown_location" speaker="UI">Return to mission provider to complete</string>
-	<string key="objective_mission_task_explore_POITag" speaker="UI">Explore {POITags}</string>
-	<string key="objective_mission_task_explore_the_POITag" speaker="UI">Explore the {POITags}</string>
-	<string key="objective_mission_task_goto_Map_Location" speaker="UI">Investigate the Shipwreck marked on your map</string>
-	<string key="objective_mission_task_goto_POITag" speaker="UI">Go to {POITags}</string>
-	<string key="objective_mission_task_goto_territoryID" speaker="UI">Travel to {territoryID}</string>
-	<string key="objective_mission_task_goto_territoryID_POITag" speaker="UI">Go to {POITags} in {territoryID}</string>
-	<string key="objective_mission_task_goto_the_POITag" speaker="UI">Go to the {POITags}</string>
-	<string key="objective_mission_task_have_X_items" speaker="UI">Acquire {itemName}</string>
-	<string key="objective_mission_task_craft_workorder_item" speaker="UI">Craft {itemName}</string>
-	<string key="objective_mission_task_have_X_items_goto_POITag" speaker="UI">Go to {POITags} and search chests for {itemName}</string>
-	<string key="objective_mission_task_have_X_items_goto_territoryID" speaker="UI">Search chests in {territoryID} for {itemName}</string>
-	<string key="objective_mission_task_have_X_items_goto_territoryID_POITag" speaker="UI">Search {POITags} chests in {territoryID} for {itemName}</string>
-	<string key="objective_mission_task_kill_boar" speaker="UI">Hunt {targetName}</string>
-	<string key="objective_mission_task_kill_drowned" speaker="UI">Kill {targetName}</string>
-	<string key="objective_mission_task_kill_have_X_items" speaker="UI">Get {itemName} from {targetName}</string>
-	<string key="objective_mission_task_kill_X_enemies" speaker="UI">Cull {targetName}</string>
-	<string key="objective_mission_task_kill_X_enemies_have_X_items" speaker="UI">Cull {targetName} for {itemName}</string>
-	<string key="objective_mission_task_kill_X_enemies_have_X_items_goto_POITag" speaker="UI">Cull {targetName} at {POITags} for {itemName}</string>
-	<string key="objective_mission_task_kill_X_enemies_have_X_items_goto_territoryID" speaker="UI">Cull {targetName} for {itemName} in {territoryID}</string>
-	<string key="objective_mission_task_kill_X_enemies_have_X_items_goto_territoryID_POITag" speaker="UI">Cull {targetName} in {territoryID} {POITags} for {itemName}</string>
-	<string key="objective_mission_task_kill_X_enemies_have_X_items_poi" speaker="UI">Cull {targetName} for {itemAmount} {itemName} at {POITags}</string>
-	<string key="objective_mission_task_kill_X_enemies_poi" speaker="UI">Cull {targetAmount} {targetName} at {POITags}</string>
-	<string key="objective_mission_task_search_containers" speaker="UI">Search chests for {itemName} at {POITags}</string>
-	<string key="objective_mission_task_timer" speaker="UI">Time left {remainingTime}.</string>
-	<string key="objective_mission_task_transport_item" speaker="UI">Holding item to transport</string>
-	<string key="objective_mission_title_bounty_hunter_kill" speaker="UI">Kill Mission</string>
-	<string key="objective_mission_title_explorer_acquire_POI" speaker="UI">Explore and Find</string>
-	<string key="objective_mission_title_explorer_acquire_POI_territory" speaker="UI">Explore and Find</string>
-	<string key="objective_mission_title_explorer_acquire_territory" speaker="UI">Explore and Find</string>
-	<string key="objective_mission_title_explorer_kill_acquire" speaker="UI">Cull Enemies for Items</string>
-	<string key="objective_mission_title_explorer_kill_acquire_POI" speaker="UI">Cull Enemies for Items</string>
-	<string key="objective_mission_title_explorer_kill_acquire_POI_territory" speaker="UI">Cull Enemies for Items</string>
-	<string key="objective_mission_title_explorer_kill_acquire_territory" speaker="UI">Cull Enemies for Items</string>
-	<string key="objective_mission_title_merchant_courier" speaker="UI">Delivery Mission</string>
-	<string key="objective_mission_title_procurer_acquire" speaker="UI">Acquisition Mission</string>
-	<string key="objective_msq" speaker="UI">Main Story</string>
-	<string key="objective_msq_desc" speaker="UI">Main story quests</string>
-	<string key="objective_get_msq_message" speaker="UI">You currently have no active Main Story quests.\nSearch for this icon on the map to determine whether the next Main Story Quest is available.</string>
-	<string key="M_procurer_craft_workorder_items" speaker="UI">Crafting Mission</string>
-	<string key="objective_challenge" speaker="UI">Challenge</string>
-	<string key="objective_name_template" comment="Obsolete - Used to show above rewards on the conversation screen. {title} is the quest title." speaker="UI">Quest: "{title}"</string>
-	<string key="objective_name_and_rewards_template" comment="Shows above rewards on the conversation screen. {title} is the quest title" speaker="UI">"{title}" - Rewards</string>
-	<string key="objective_rewards_completion" comment="Rewards label when completing a quest" speaker="UI">Rewards for Completion</string>
-	<string key="objective_rewards_proposal" comment="Rewards label when accepting a quest" speaker="UI">Complete Quest to Receive</string>
-	<string key="objective_objective" speaker="UI">Objective</string>
-	<string key="objective_objectives" speaker="UI">Objectives</string>
-	<string key="objectives_sort" speaker="UI">Sort by:</string>
-	<string key="objective_sort_distance" speaker="UI">Distance</string>
-	<string key="objective_sort_difficulty" speaker="UI">Difficulty</string>
-	<string key="objective_sort_territory" speaker="UI">Territory - A to Z</string>
-	<string key="objective_sort_type" speaker="UI">Type</string>
-	<string key="objective_active" speaker="UI">Active</string>
-	<string key="objective_ready_to_turn_in" speaker="UI">Ready To Turn In</string>
-	<string key="objective_location_name" speaker="UI">Location Name</string>
-	<string key="objective_has_location" speaker="UI">Location Known</string>
-	<string key="objective_no_location" speaker="UI">Unknown Location</string>
-	<string key="objective_main_story_quest" speaker="UI">Main Story Quest</string>
-	<string key="objective_faction_story_quest" speaker="UI">Faction Story Quest</string>
-	<string key="objective_season_quest" speaker="UI">Season Story Quest</string>
-	<string key="objective_skill_progression_quest" speaker="UI">Skill Progression Quest</string>
-	<string key="objective_mount_quest" speaker="UI">Mount Quest</string>
-	<string key="objective_side_quests" speaker="UI">Side Quests</string>
-	<string key="objective_event" speaker="UI">Event Quests</string>
-	<string key="objective_event_desc" speaker="UI">Quests available during an Event</string>
-	<string key="objective_faction_missions" speaker="UI">Faction Missions</string>
-	<string key="objective_community_goal" speaker="UI">Town Projects</string>
-	<string key="objective_POI" speaker="UI">Landmark</string>
-	<string key="objective_darkness_major" speaker="UI">Major Darkness</string>
-	<string key="objective_darkness_minor" speaker="UI">Minor Darkness</string>
-	<string key="objective_arena" speaker="UI">Arena</string>
-	<string key="objective_invasion" speaker="UI">Invasion</string>
-	<string key="objective_defend_object" speaker="UI">Defend Object</string>
-	<string key="objective_world" speaker="UI">World</string>
-	<string key="objective_onboarding_goToOutpost_task01_desc" speaker="UI">Investigate the Watchtower</string>
-	<string key="objective_onboarding_goToOutpost_task02_desc" speaker="UI">Travel to a watchtower</string>
-	<string key="objective_onboarding_goToOutpost_task03_desc" speaker="UI">Open the Map</string>
-	<string key="objective_pin" speaker="UI">Pin</string>
-	<string key="objective_pinned" speaker="UI">Pinned</string>
-	<string key="objective_populatehere" speaker="UI">Your cards will populate here.</string>
-	<string key="objective_recipe_empty" speaker="UI">No Recipe Obtained</string>
-	<string key="objective_recipepinned" speaker="UI">Recipe Pinned</string>
-	<string key="objective_recipes" speaker="UI">Recipes</string>
-	<string key="objective_recipes_desc" speaker="UI">Add from any crafting station</string>
-	<string key="objective_recipetemplate" comment="How recipe names show in the HUD. Use {title} for the item name" speaker="UI">Recipe for {title}</string>
+	<string key="objective_craft">Craft a {itemName}</string>
+	<string key="objective_craft_an">Craft an {itemName}</string>
+	<string key="objective_craft_p">Craft {itemAmount} {itemName}s</string>
+	<string key="objective_crafthealingdrops">Craft {itemName} at your Camp</string>
+	<string key="objective_crafthealthfood">Cook Health Recovery at Watcher's campfire</string>
+	<string key="objective_crafting">Crafting</string>
+	<string key="objective_craftsoverseersword">Craft an {itemName} at the Forge</string>
+	<string key="objective_darkness_corrupted_portal_desc">Stop the Corrupted Acolytes from opening the portal.</string>
+	<string key="objective_darkness_corrupted_portal_title">Corrupted Portal</string>
+	<string key="objective_darkness_task_complete_waves_desc">Defeat {targetAmount} Enemy Wave.</string>
+	<string key="objective_darkness_task_complete_waves_desc_p">Defeat {targetAmount} Enemy Waves.</string>
+	<string key="objective_darkness_task_kill_enemies_desc">Kill {targetAmount} {targetName}.</string>
+	<string key="objective_darkness_task_kill_enemies_territory_desc">Kill {targetAmount} {targetName} in {territoryID}.</string>
+	<string key="objective_darkness_task_kill_enemies_desc_p">Kill {targetAmount} {targetName}s.</string>
+	<string key="objective_darkness_task_major_corrupted_portal_container_desc">Stop the Corrupted Acolytes from opening the portal.</string>
+	<string key="objective_destination_distance">DESTINATION ({distance})</string>
+	<string key="objective_difficulty_0">None</string>
+	<string key="objective_difficulty_1">Easy</string>
+	<string key="objective_difficulty_2">Medium</string>
+	<string key="objective_difficulty_3">Hard</string>
+	<string key="objective_difficulty_label">Difficulty :</string>
+	<string key="ui_viewinmap">Map</string>
+	<string key="objective_empty">No Objective Obtained</string>
+	<string key="objective_equip">Equip {itemName}</string>
+	<string key="objective_experience">Exp</string>
+	<string key="objective_failed">Objective Failed</string>
+	<string key="objective_gather_herbs">Gather Blue {itemName}s from coastal areas</string>
+	<string key="objective_gatherironore">Retrieve the Iron Ore from the Heavy Satchel in your inventory OR</string>
+	<string key="objective_gatherrawhide">Skin Boars and Wolves for {itemName}</string>
+	<string key="objective_gatherstone">Mine {itemName} from Boulders</string>
+	<string key="objective_gatherwood">Gather {itemName} from Bushes or Trees</string>
+	<string key="objective_guild">Join a company</string>
+	<string key="objective_hand_in_destination">Talk to {npcName}</string>
+	<string key="objective_have_level">Achieve level {level}</string>
+	<string key="objective_have">Obtain {itemName}</string>
+	<string key="objective_have_p">Obtain {itemAmount} {itemName}s</string>
+	<string key="@objective_house_score">Reach house decoration score {score}</string>
+	<string key="objective_ingredients">INGREDIENTS</string>
+	<string key="objective_journal">Journal</string>
+	<string key="objective_journey">Side Stories</string>
+	<string key="objective_journey_desc">Additional quests</string>
+	<string key="objective_journey_empty">No Journey Obtained</string>
+	<string key="objective_factionstory">Faction Story</string>
+	<string key="objective_factionstory_desc">Faction story quests</string>
+	<string key="objective_affinity">Favor</string>
+	<string key="objective_affinity_desc">Favor quests</string>
+	<string key="objective_seasonquest">Season Story</string>
+	<string key="objective_seasonquest_desc">Season story objectives</string>
+	<string key="objective_skillprogression">Skill Progression</string>
+	<string key="objective_skillprogression_desc">Skill progression objectives</string>
+	<string key="objective_mountquest">Mount Quest</string>
+	<string key="objective_mountquest_desc">Mount objectives</string>
+	<string key="objective_epicequipment">Epic Equipment</string>
+	<string key="objective_epicequipment_desc">Epic equipment quests</string>
+	<string key="objective_quest">Quest</string>
+	<string key="objective_kill">Kill {enemy}</string>
+	<string key="objective_kill_p">Kill {amountCount} {enemy}s</string>
+	<string key="objective_location">Location</string>
+	<string key="objective_location_desc">Added in certain areas</string>
+	<string key="objective_loot">Loot {itemName}</string>
+	<string key="objective_mission">Faction Missions</string>
+	<string key="objective_mission_desc">Given by a Faction Representative</string>
+	<string key="objective_mission_desc_bounty_hunter_kill">Go out and slay dangerous foes</string>
+	<string key="objective_mission_desc_explorer_acquire_POI">Search chests at {POITags}s</string>
+	<string key="objective_mission_desc_explorer_acquire_POI_territory">Search chests in {territoryID} {POITags}</string>
+	<string key="objective_mission_desc_explorer_acquire_territory">Search chests in {territoryID}</string>
+	<string key="objective_mission_desc_explorer_kill_acquire">Cull {targetName} for {itemName}</string>
+	<string key="objective_mission_desc_explorer_kill_acquire_POI">Cull {targetName} for {itemName} at {POITags}</string>
+	<string key="objective_mission_desc_explorer_kill_acquire_POI_territory">Cull {targetName} for {itemName} in {territoryID} {POITags}</string>
+	<string key="objective_mission_desc_explorer_kill_acquire_territory">Cull {targetName} for {itemName} in {territoryID}</string>
+	<string key="objective_mission_desc_merchant_courier">Transport vital supplies to another outpost</string>
+	<string key="objective_mission_desc_procurer_acquire">Go out and acquire vital resources</string>
+	<string key="objective_mission_POI_kill_enemy_for_x">Go to {POITags} and kill {enemyName} for {itemName}</string>
+	<string key="objective_mission_task_desc_return_to_giver_cm">Complete at {destinationName}'s Town Project Board</string>
+	<string key="objective_mission_task_desc_return_to_giver">Complete at {destinationName}'s Faction Representative</string>
+	<string key="objective_mission_task_desc_return_to_any_giver">Complete at any Faction Representative</string>
+	<string key="objective_mission_task_desc_unknown_location">Return to mission provider to complete</string>
+	<string key="objective_mission_task_explore_POITag">Explore {POITags}</string>
+	<string key="objective_mission_task_explore_the_POITag">Explore the {POITags}</string>
+	<string key="objective_mission_task_goto_Map_Location">Investigate the Shipwreck marked on your map</string>
+	<string key="objective_mission_task_goto_POITag">Go to {POITags}</string>
+	<string key="objective_mission_task_goto_territoryID">Travel to {territoryID}</string>
+	<string key="objective_mission_task_goto_territoryID_POITag">Go to {POITags} in {territoryID}</string>
+	<string key="objective_mission_task_goto_the_POITag">Go to the {POITags}</string>
+	<string key="objective_mission_task_have_X_items">Acquire {itemName}</string>
+	<string key="objective_mission_task_craft_workorder_item">Craft {itemName}</string>
+	<string key="objective_mission_task_have_X_items_goto_POITag">Go to {POITags} and search chests for {itemName}</string>
+	<string key="objective_mission_task_have_X_items_goto_territoryID">Search chests in {territoryID} for {itemName}</string>
+	<string key="objective_mission_task_have_X_items_goto_territoryID_POITag">Search {POITags} chests in {territoryID} for {itemName}</string>
+	<string key="objective_mission_task_kill_boar">Hunt {targetName}</string>
+	<string key="objective_mission_task_kill_drowned">Kill {targetName}</string>
+	<string key="objective_mission_task_kill_have_X_items">Get {itemName} from {targetName}</string>
+	<string key="objective_mission_task_kill_X_enemies">Cull {targetName}</string>
+	<string key="objective_mission_task_kill_X_enemies_have_X_items">Cull {targetName} for {itemName}</string>
+	<string key="objective_mission_task_kill_X_enemies_have_X_items_goto_POITag">Cull {targetName} at {POITags} for {itemName}</string>
+	<string key="objective_mission_task_kill_X_enemies_have_X_items_goto_territoryID">Cull {targetName} for {itemName} in {territoryID}</string>
+	<string key="objective_mission_task_kill_X_enemies_have_X_items_goto_territoryID_POITag">Cull {targetName} in {territoryID} {POITags} for {itemName}</string>
+	<string key="objective_mission_task_kill_X_enemies_have_X_items_poi">Cull {targetName} for {itemAmount} {itemName} at {POITags}</string>
+	<string key="objective_mission_task_kill_X_enemies_poi">Cull {targetAmount} {targetName} at {POITags}</string>
+	<string key="objective_mission_task_search_containers">Search chests for {itemName} at {POITags}</string>
+	<string key="objective_mission_task_timer">Time left {remainingTime}.</string>
+	<string key="objective_mission_task_transport_item">Holding item to transport</string>
+	<string key="objective_mission_title_bounty_hunter_kill">Kill Mission</string>
+	<string key="objective_mission_title_explorer_acquire_POI">Explore and Find</string>
+	<string key="objective_mission_title_explorer_acquire_POI_territory">Explore and Find</string>
+	<string key="objective_mission_title_explorer_acquire_territory">Explore and Find</string>
+	<string key="objective_mission_title_explorer_kill_acquire">Cull Enemies for Items</string>
+	<string key="objective_mission_title_explorer_kill_acquire_POI">Cull Enemies for Items</string>
+	<string key="objective_mission_title_explorer_kill_acquire_POI_territory">Cull Enemies for Items</string>
+	<string key="objective_mission_title_explorer_kill_acquire_territory">Cull Enemies for Items</string>
+	<string key="objective_mission_title_merchant_courier">Delivery Mission</string>
+	<string key="objective_mission_title_procurer_acquire">Acquisition Mission</string>
+	<string key="objective_msq">Main Story</string>
+	<string key="objective_msq_desc">Main story quests</string>
+	<string key="objective_get_msq_message">You currently have no active Main Story quests.\nSearch for this icon on the map to determine whether the next Main Story Quest is available.</string>
+	<string key="M_procurer_craft_workorder_items">Crafting Mission</string>
+	<string key="objective_challenge">Challenge</string>
+	<string key="objective_name_template">Quest: "{title}"</string>
+	<string key="objective_name_and_rewards_template">"{title}" - Rewards</string>
+	<string key="objective_rewards_completion">Rewards for Completion</string>
+	<string key="objective_rewards_proposal">Complete Quest to Receive</string>
+	<string key="objective_objective">Objective</string>
+	<string key="objective_objectives">Objectives</string>
+	<string key="objectives_sort">Sort by:</string>
+	<string key="objective_sort_distance">Distance</string>
+	<string key="objective_sort_difficulty">Difficulty</string>
+	<string key="objective_sort_territory">Territory - A to Z</string>
+	<string key="objective_sort_type">Type</string>
+	<string key="objective_active">Active</string>
+	<string key="objective_ready_to_turn_in">Ready To Turn In</string>
+	<string key="objective_location_name">Location Name</string>
+	<string key="objective_has_location">Location Known</string>
+	<string key="objective_no_location">Unknown Location</string>
+	<string key="objective_main_story_quest">Main Story Quest</string>
+	<string key="objective_faction_story_quest">Faction Story Quest</string>
+	<string key="objective_affinity_quest">Favor Quest</string>
+	<string key="objective_season_quest">Season Story Quest</string>
+	<string key="objective_skill_progression_quest">Skill Progression Quest</string>
+	<string key="objective_mount_quest">Mount Quest</string>
+	<string key="objective_side_quests">Side Quests</string>
+	<string key="objective_event">Event Quests</string>
+	<string key="objective_event_desc">Quests available during an Event</string>
+	<string key="objective_faction_missions">Faction Missions</string>
+	<string key="objective_community_goal">Town Projects</string>
+	<string key="objective_POI">Landmark</string>
+	<string key="objective_darkness_major">Major Darkness</string>
+	<string key="objective_darkness_minor">Minor Darkness</string>
+	<string key="objective_arena">Arena</string>
+	<string key="objective_invasion">Invasion</string>
+	<string key="objective_defend_object">Defend Object</string>
+	<string key="objective_world">World</string>
+	<string key="objective_onboarding_goToOutpost_task01_desc">Investigate the Watchtower</string>
+	<string key="objective_onboarding_goToOutpost_task02_desc">Travel to a watchtower</string>
+	<string key="objective_onboarding_goToOutpost_task03_desc">Open the Map</string>
+	<string key="objective_pin">Pin</string>
+	<string key="objective_pinned">Pinned</string>
+	<string key="objective_populatehere">Your cards will populate here.</string>
+	<string key="objective_recipe_empty">No Recipe Obtained</string>
+	<string key="objective_recipepinned">Recipe Pinned</string>
+	<string key="objective_recipes">Recipes</string>
+	<string key="objective_recipes_desc">Add from any crafting station</string>
+	<string key="objective_recipetemplate">Recipe for {title}</string>
 	<string key="objective_recipe_abandontitle">Abandon Recipe</string>
 	<string key="objective_recipe_abandonbody">Are you sure you want to abandon your current recipe?</string>
-	<string key="objective_artifacts" speaker="UI" rel_version="Feature_Artifacts">Artifacts</string>
-	<string key="objective_artifacts_desc" speaker="UI" rel_version="Feature_Artifacts">Given from active artifact items.</string>
-	<string key="objective_subtitle_locationwithcolor" speaker="UI">&lt;font color={color}&gt;{territoryName}&lt;/font&gt;</string>
-	<string key="objective_subtitle_locationanddifficulty" speaker="UI">{territory} - {difficulty}</string>
-	<string key="objective_recommendedgroup" speaker="UI">Group {group}</string>
-	<string key="objective_recommendedplayers" speaker="UI">{amount} Players</string>
-	<string key="objective_recommendedlevelshort" speaker="UI">Lvl {level}</string>
-	<string key="objective_recommendedlevel" speaker="UI">Level {level}</string>
-	<string key="objective_recommendedlevellong" speaker="UI">Recommended Level {level}</string>
-	<string key="objective_recommendedlevelwithcolor" speaker="UI">&lt;font color={color}&gt;Level {level}&lt;/font&gt;</string>
-	<string key="objective_refine_iron" speaker="UI">Craft {itemName}s at the Smelter</string>
-	<string key="objective_refine_leather" speaker="UI">Craft {itemName} at Tannery</string>
-	<string key="objective_refine_stone" speaker="UI">Craft {itemName} at Stonecutter</string>
-	<string key="objective_refine_wood" speaker="UI">Craft {itemName} at Woodshop</string>
-	<string key="objective_repair" speaker="UI">Repair {itemName}</string>
-	<string key="objective_requiresitem" speaker="UI">Requires {itemName} Tier {tier}</string>
-	<string key="objective_reward" speaker="UI">Reward</string>
-	<string key="objective_rewards" speaker="UI">Rewards</string>
-	<string key="objective_rewards_caps" speaker="UI">REWARDS</string>
-	<string key="objective_activebonuses" speaker="UI">Active Bonuses</string>
-	<string key="objective_norewards" speaker="UI">Contribute to the Battle to earn Rewards</string>
-	<string key="objective_salvage" speaker="UI">Salvage {itemName}</string>
-	<string key="objective_started" speaker="UI">Objective Started</string>
-	<string key="objective_daily_reward_one" speaker="UI" rel_version="Event_February_Perm">Contains &lt;font face="lyshineui/fonts/Pica_Regular.font"&gt;1&lt;/font&gt; Daily Reward</string>
-	<string key="objective_daily_reward_multiple" speaker="UI" rel_version="Feature_Seasons_Rewards">Contains &lt;font face="lyshineui/fonts/Pica_Regular.font"&gt;{amount}&lt;/font&gt; Daily Rewards</string>
-	<string key="objective_task_pvp" speaker="UI">PVP Mission</string>
-	<string key="objective_task_survive" speaker="UI">Survive - Death Fails Mission</string>
-	<string key="objective_story_task_getoffthebeach" speaker="UI">Find the Outpost</string>
-	<string key="objective_story_task_search_containers" speaker="UI">Search crates near {POITags}</string>
-	<string key="objective_tasks" speaker="UI">TASKS</string>
-	<string key="objective_townproject" speaker="UI">Town Projects</string>
-	<string key="objective_townproject_desc" speaker="UI">Found at Town Planning Boards</string>
-	<string key="objective_unpin" speaker="UI">Unpin</string>
-	<string key="objective_use" speaker="UI">Use {itemName}</string>
-	<string key="objective_use_p" speaker="UI">Use {itemAmount} {itemName}s</string>
-	<string key="ui_projectpoints" speaker="UI">Project Points</string>
-	<string key="ui_available_objectives" speaker="UI">{num} Available Objectives</string>
-	<string key="ui_num_ready_objectives" speaker="UI">{num} Objectives ready to turn-in</string>
-	<string key="ui_num_active_objectives" speaker="UI">{num} Active Objectives</string>
-	<string key="ui_ready_to_complete" speaker="UI">Ready to turn-in</string>
-	<string key="ui_available_quest" speaker="UI">Available Quest</string>
-	<string key="objective_reset" speaker="UI">Reset</string>
-	<string key="objective_resetpopup_body" speaker="UI">Are you sure that you want to reset your current mission?\nResetting will result in the loss of all progress.</string>
-	<string key="ui_turn_in_to_npc" speaker="UI">Return objective here</string>
-	<string key="objective_gatherberrycorruption" speaker="UI">Acquire {itemName}</string>
-	<string key="objective_gatherwatercorruption" speaker="UI">Acquire {itemName}</string>
-	<string key="objective_story_craft_tincturecorruptionT2" speaker="UI">Craft {itemName} at your camp</string>
-	<string key="objective_story_gather_flint" speaker="UI">Search the ground for {itemName}</string>
-	<string key="objective_story_gather_wood" speaker="UI">Gather {itemName} from a nearby Bush</string>
-	<string key="objective_story_craft_flintknife" speaker="UI">Craft a {itemName} at the Watcher's camp</string>
-	<string key="objective_story_task_search_containers_1" speaker="UI">Search a crate near {POITags}</string>
-	<string key="objective_story_task_preciouscargo_01" speaker="UI">Investigate the {POITags}</string>
-	<string key="objective_mission_task_patrol_windsward" speaker="UI">Patrol Territory</string>
-	<string key="patrol_task_container_description" speaker="UI">Stand your ground, but stay alive.</string>
-	<string key="objective_mission_task_patrol_timer" speaker="UI">Hold {POITags} for {timeRemaining}</string>
-	<string key="objective_mission_task_control_point" speaker="UI">Capture a Faction Control Point in {TerritoryID} for the Marauders</string>
-	<string key="task_choose_faction" speaker="UI">Choose a faction with {destinationName}</string>
-	<string key="complete_available_prompt_DEFAULT" comment="male" speaker="UI - Button">Complete the Quest</string>
-	<string key="prompt_DEFAULT" speaker="UI - Button">Accept the Quest</string>
-	<string key="desc_getoffbeach" comment="male" speaker="UI - Journal - Quest  Description">Investigate what looks to be a watchtower.</string>
-	<string key="title_getoffbeach" speaker="UI - Journal - Quest  Title">Sole Survivor</string>
+	<string key="objective_artifacts">Artifacts</string>
+	<string key="objective_artifacts_desc">Given from active artifact items.</string>
+	<string key="objective_subtitle_locationwithcolor">&lt;font color={color}&gt;{territoryName}&lt;/font&gt;</string>
+	<string key="objective_subtitle_locationanddifficulty">{territory} - {difficulty}</string>
+	<string key="objective_recommendedgroup">Group {group}</string>
+	<string key="objective_recommendedplayers">{amount} Players</string>
+	<string key="objective_recommendedlevelshort">Lvl {level}</string>
+	<string key="objective_recommendedlevel">Level {level}</string>
+	<string key="objective_recommendedlevellong">Recommended Level {level}</string>
+	<string key="objective_recommendedlevelwithcolor">&lt;font color={color}&gt;Level {level}&lt;/font&gt;</string>
+	<string key="objective_refine_iron">Craft {itemName}s at the Smelter</string>
+	<string key="objective_refine_leather">Craft {itemName} at Tannery</string>
+	<string key="objective_refine_stone">Craft {itemName} at Stonecutter</string>
+	<string key="objective_refine_wood">Craft {itemName} at Woodshop</string>
+	<string key="objective_repair">Repair {itemName}</string>
+	<string key="objective_requiresitem">Requires {itemName} Tier {tier}</string>
+	<string key="objective_reward">Reward</string>
+	<string key="objective_rewards">Rewards</string>
+	<string key="objective_rewards_caps">REWARDS</string>
+	<string key="objective_activebonuses">Active Bonuses</string>
+	<string key="objective_norewards">Contribute to the Battle to earn Rewards</string>
+	<string key="objective_salvage">Salvage {itemName}</string>
+	<string key="objective_started">Objective Started</string>
+	<string key="objective_daily_reward_one">Contains &lt;font face="lyshineui/fonts/Pica_Regular.font"&gt;1&lt;/font&gt; Daily Reward</string>
+	<string key="objective_daily_reward_multiple">Contains &lt;font face="lyshineui/fonts/Pica_Regular.font"&gt;{amount}&lt;/font&gt; Daily Rewards</string>
+	<string key="objective_task_pvp">PVP Mission</string>
+	<string key="objective_task_survive">Survive - Death Fails Mission</string>
+	<string key="objective_story_task_getoffthebeach">Find the Outpost</string>
+	<string key="objective_story_task_search_containers">Search crates near {POITags}</string>
+	<string key="objective_tasks">TASKS</string>
+	<string key="objective_townproject">Town Projects</string>
+	<string key="objective_townproject_desc">Found at Town Planning Boards</string>
+	<string key="objective_unpin">Unpin</string>
+	<string key="objective_use">Use {itemName}</string>
+	<string key="objective_use_p">Use {itemAmount} {itemName}s</string>
+	<string key="ui_projectpoints">Project Points</string>
+	<string key="ui_available_objectives">{num} Available Objectives</string>
+	<string key="ui_num_ready_objectives">{num} Objectives ready to turn-in</string>
+	<string key="ui_num_active_objectives">{num} Active Objectives</string>
+	<string key="ui_ready_to_complete">Ready to turn-in</string>
+	<string key="ui_available_quest">Available Quest</string>
+	<string key="objective_reset">Reset</string>
+	<string key="objective_resetpopup_body">Are you sure that you want to reset your current mission?\nResetting will result in the loss of all progress.</string>
+	<string key="ui_turn_in_to_npc">Return objective here</string>
+	<string key="objective_gatherberrycorruption">Acquire {itemName}</string>
+	<string key="objective_gatherwatercorruption">Acquire {itemName}</string>
+	<string key="objective_story_craft_tincturecorruptionT2">Craft {itemName} at your camp</string>
+	<string key="objective_story_gather_flint">Search the ground for {itemName}</string>
+	<string key="objective_story_gather_wood">Gather {itemName} from a nearby Bush</string>
+	<string key="objective_story_craft_flintknife">Craft a {itemName} at the Watcher's camp</string>
+	<string key="objective_story_task_search_containers_1">Search a crate near {POITags}</string>
+	<string key="objective_story_task_preciouscargo_01">Investigate the {POITags}</string>
+	<string key="objective_mission_task_patrol_windsward">Patrol Territory</string>
+	<string key="patrol_task_container_description">Stand your ground, but stay alive.</string>
+	<string key="objective_mission_task_patrol_timer">Hold {POITags} for {timeRemaining}</string>
+	<string key="objective_mission_task_control_point">Capture a Faction Control Point in {TerritoryID} for the Marauders</string>
+	<string key="task_choose_faction">Choose a faction with {destinationName}</string>
+	<string key="complete_available_prompt_DEFAULT">Complete the Quest</string>
+	<string key="prompt_DEFAULT">Accept the Quest</string>
+	<string key="desc_getoffbeach">Investigate what looks to be a watchtower.</string>
+	<string key="title_getoffbeach">Sole Survivor</string>
 	<string key="task_getoffbeach_openmap">Open the Map</string>
 	<string key="have_berries">Have Berries</string>
 	<string key="objective_mission_kill_generic_at_POI">Defeat {targetName} at {POITags}</string>
 	<string key="objective_mission_loot_chests_generic_at_POI">Search chests for {itemName} at {POITags}</string>
 	<string key="objective_mission_hunt_generic_at_POI">Hunt {targetName} around {POITags}</string>
 	<string key="objective_mission_skin_generic">Skin them for {itemName}</string>
-	<string key="objective_mission_poach_generic_at_POI" comment="test">Gather {itemName} from {targetName} at {POITags}</string>
+	<string key="objective_mission_poach_generic_at_POI">Gather {itemName} from {targetName} at {POITags}</string>
 	<string key="objective_mission_espionage_step_1_at_POI">Retrieve asset from {POItags}</string>
 	<string key="objective_mission_espionage_step_2_at_POI">Deliver asset to drop location at {POItags}</string>
 	<string key="objective_mission_archive_step_1_at_POI">Retrieve experiment results from {POItags}</string>
@@ -289,13 +292,13 @@
 	<string key="objective_mission_poach_bushes_at_POI">Gather {itemName} from bushes at {POITags}</string>
 	<string key="objective_capture_fort">Capture Enemy Forts</string>
 	<string key="dynamic_poi_mission_collect">Search for geographical documents in chests</string>
-	<string key="dynamic_poi_mission_kill_category" speaker="UI">Cull {targetName} enemies</string>
-	<string key="dynamic_poi_mission_kill_named" speaker="UI">Find and Cull {targetName}</string>
-	<string key="dynamic_poi_objective_title" speaker="UI">Scout {POITags}</string>
-	<string key="dynamic_poi_objective_description" speaker="UI">Clear {POITags}</string>
-	<string key="dynamic_poi_mission_collect_lore" speaker="UI">Find Journal Entries</string>
-	<string key="objective_complete_the_expedition" speaker="UI">Complete the Expedition</string>
-	<string key="objective_destroy_and_collect" speaker="UI">Destroy {targetName} and collect {itemName} at {POITags}</string>
+	<string key="dynamic_poi_mission_kill_category">Cull {targetName} enemies</string>
+	<string key="dynamic_poi_mission_kill_named">Find and Cull {targetName}</string>
+	<string key="dynamic_poi_objective_title">Scout {POITags}</string>
+	<string key="dynamic_poi_objective_description">Clear {POITags}</string>
+	<string key="dynamic_poi_mission_collect_lore">Find Journal Entries</string>
+	<string key="objective_complete_the_expedition">Complete the Expedition</string>
+	<string key="objective_destroy_and_collect">Destroy {targetName} and collect {itemName} at {POITags}</string>
 	<string key="commander">Commander</string>
 	<string key="objective_mission_destroy_generic_at_POI">Destroy {targetName} at {POITags}</string>
 	<string key="objective_mission_task_PVP_kill_and_acquire_X_items_anywhere">Defeat enemy faction members to collect {itemName}</string>
@@ -318,23 +321,23 @@
 	<string key="objective_mission_kill_with_icegauntlet">Defeat {targetName} using Ice Gauntlet</string>
 	<string key="objective_mission_task_control_point_S">Capture a Faction Control Point {TerritoryID} for the Syndicate</string>
 	<string key="objective_mission_task_control_point_C">Capture a Faction Control Point {TerritoryID} for the Covenant</string>
-	<string key="objective_mission_faction_corruption_breach" rel_version="Quest_FM_BreachMissions">Close a Corruption Breach</string>
-	<string key="objective_mission_rescue_npc_generic" rel_version="Quest_MSQ2_Revamp">Rescue Hostages</string>
-	<string key="objective_mission_boatencounter_obj_title" rel_version="Quest_MSQ2_Revamp">Destroy Boat</string>
-	<string key="objective_mission_boatencounter_obj_desc" rel_version="Quest_MSQ2_Revamp">Fire Cannons</string>
+	<string key="objective_mission_faction_corruption_breach">Close a Corruption Breach</string>
+	<string key="objective_mission_rescue_npc_generic">Rescue Hostages</string>
+	<string key="objective_mission_boatencounter_obj_title">Destroy Boat</string>
+	<string key="objective_mission_boatencounter_obj_desc">Fire Cannons</string>
 	<string key="objective_available">Available</string>
-	<string key="objective_mission_faction_darkness_hunt" rel_version="Territory_FirstLight">Complete Darkness Hunts</string>
-	<string key="objective_mission_faction_timetrial_gimmick" rel_version="Territory_FirstLight">Complete the Azoth Time Trial</string>
+	<string key="objective_mission_faction_darkness_hunt">Complete Darkness Hunts</string>
+	<string key="objective_mission_faction_timetrial_gimmick">Complete the Azoth Time Trial</string>
 	<string key="ui_show_available_objectives">Show Available</string>
-	<string key="objective_timetrial_completed" speaker="UI">Time Trial Completed!</string>
-	<string key="objective_timetrial_failed" speaker="UI">Time Trial Failed</string>
-	<string key="objective_timetrial_timeLeft" speaker="UI">Time left: {secondsAdded} seconds</string>
-	<string key="objective_timetrial_addTime" speaker="UI">+ {secondsAdded} seconds</string>
-	<string key="objective_timetrial_tutorial" speaker="UI">[{key} to DASH]</string>
-	<string key="objective_timetrial_tourStart" speaker="UI">GO!</string>
-	<string key="objective_timetrial_timeout_teleport_prompt_title" speaker="UI">&lt;font color={color}&gt;Time Trial Failed&lt;/font&gt;</string>
-	<string key="objective_timetrial_timeout_teleport_prompt_description" speaker="UI">Would you like to teleport back to the start and try again?</string>
-	<string key="objective_multiple_active_races" speaker="UI">Only one race can be active at a time</string>
+	<string key="objective_timetrial_completed">Time Trial Completed!</string>
+	<string key="objective_timetrial_failed">Time Trial Failed</string>
+	<string key="objective_timetrial_timeLeft">Time left: {secondsAdded} seconds</string>
+	<string key="objective_timetrial_addTime">+ {secondsAdded} seconds</string>
+	<string key="objective_timetrial_tutorial">[{key} to DASH]</string>
+	<string key="objective_timetrial_tourStart">GO!</string>
+	<string key="objective_timetrial_timeout_teleport_prompt_title">&lt;font color={color}&gt;Time Trial Failed&lt;/font&gt;</string>
+	<string key="objective_timetrial_timeout_teleport_prompt_description">Would you like to teleport back to the start and try again?</string>
+	<string key="objective_multiple_active_races">Only one race can be active at a time</string>
 	<string key="objective_encounter_stage1">Stage 1:</string>
 	<string key="objective_encounter_stage2">Stage 2:</string>
 	<string key="objective_encounter_stage3">Stage 3:</string>
@@ -344,137 +347,222 @@
 	<string key="objective_encounter_stage7">Stage 7:</string>
 	<string key="objective_encounter_stage8">Stage 8:</string>
 	<string key="objective_encounter_stage9">Stage 9:</string>
-	<string key="objective_artifact_equip_to_view" rel_version="Feature_Artifacts">Equip to view task.</string>
-	<string key="objective_artifact_max_reminder" rel_version="Feature_Artifacts">Too many artifact tasks in progress. Abandon an existing one to start another.</string>
-	<string key="objective_artifact_equip_reminder" rel_version="Feature_Artifacts">When Equipped:</string>
-	<string key="Objective_Artifact_PerkTasks" rel_version="Feature_Expansion_1">Each task unlocks a perk</string>
-	<string key="Objective_Artifact_Desc" rel_version="Feature_Expansion_1">Complete the following:</string>
-	<string key="Objective_Artifact_Set1_HeavyHead" rel_version="Feature_Expansion_1">Artifact: Unyeilding</string>
-	<string key="Objective_Artifact_Set1_HeavyChest" rel_version="Feature_Expansion_1">Artifact: Void Darkplate</string>
-	<string key="Objective_Artifact_Set1_HeavyHands" rel_version="Feature_Expansion_1">Artifact: Magnetic Gauntlets</string>
-	<string key="Objective_Artifact_Set1_HeavyLegs" rel_version="Feature_Expansion_1">Artifact: Freedom</string>
-	<string key="Objective_Artifact_Set1_HeavyFeet" rel_version="Feature_Artifacts_Set2">Artifact: The Unmoved</string>
-	<string key="Objective_Artifact_Set1_MediumHead" rel_version="Feature_Expansion_1">Artifact: Djinn Headwrap</string>
-	<string key="Objective_Artifact_Set1_MediumChest" rel_version="Feature_Expansion_1">Artifact: Nimble Coat</string>
-	<string key="Objective_Artifact_Set1_MediumHands" rel_version="Feature_Expansion_1">Artifact: Ghoul Gloves</string>
-	<string key="Objective_Artifact_Set1_MediumLegs" rel_version="Feature_Expansion_1">Artifact: Attuned Leather Pants</string>
-	<string key="Objective_Artifact_Set1_MediumFeet" rel_version="Feature_Artifacts_Set2">Artifact: Winged Shoes</string>
-	<string key="Objective_Artifact_Set1_LightHead" rel_version="Feature_Expansion_1">Artifact: Grey Wizard's Hat</string>
-	<string key="Objective_Artifact_Set1_LightChest" rel_version="Feature_Expansion_1">Artifact: Featherweight</string>
-	<string key="Objective_Artifact_Set1_LightHands" rel_version="Feature_Artifacts_Set2">Artifact: Quickdraw Gloves</string>
-	<string key="Objective_Artifact_Set1_LightLegs" rel_version="Feature_Artifacts_Set2">Artifact: Knee Guards</string>
-	<string key="Objective_Artifact_Set1_LightFeet" rel_version="Feature_Expansion_1">Artifact: Tumbler Feetwraps</string>
-	<string key="Objective_Artifact_Set1_1hLongsword" rel_version="Feature_Expansion_1">Artifact: The Butcher</string>
-	<string key="Objective_Artifact_Set1_1hThrowingAxe" rel_version="Feature_Expansion_1">Artifact: Freya's Francisca</string>
-	<string key="Objective_Artifact_Set1_2hWarhammer" rel_version="Feature_Expansion_1">Artifact: Mjölnir</string>
-	<string key="Objective_Artifact_Set1_2hGreatAxe" rel_version="Feature_Expansion_1">Artifact: The Abyss</string>
-	<string key="Objective_Artifact_Set1_2hBow" rel_version="Feature_Artifacts_Set2">Artifact: Boltcaster</string>
-	<string key="Objective_Artifact_Set1_2hMusket" rel_version="Feature_Expansion_1">Artifact: The Mechanic</string>
-	<string key="Objective_Artifact_Set1_1hRoundShield" rel_version="Feature_Artifacts_Set2">Artifact: Gladiator</string>
-	<string key="Objective_Artifact_Set1_1hKiteShield" rel_version="Feature_Expansion_1">Artifact: Michael</string>
-	<string key="Objective_Artifact_Set1_1hTowerShield" rel_version="Feature_Expansion_1">Artifact: The Wall</string>
-	<string key="Objective_Artifact_Set1_2hStaffFire" rel_version="Feature_Expansion_1">Artifact: Inferno</string>
-	<string key="Objective_Artifact_Set1_2hStaffLife" rel_version="Feature_Artifacts_Set2">Artifact: Vengeance</string>
-	<string key="Objective_Artifact_Set1_2hSpear" rel_version="Feature_Expansion_1">Artifact: Scorpion's Sting</string>
-	<string key="Objective_Artifact_Set1_1hRapier" rel_version="Feature_Expansion_1">Artifact: Finisher</string>
-	<string key="Objective_Artifact_Set1_1hGauntletIce" rel_version="Feature_Artifacts_Set2">Artifact: The Frozen</string>
-	<string key="Objective_Artifact_Set1_1hGauntletVoid" rel_version="Feature_Expansion_1">Artifact: Lifetaker</string>
-	<string key="Objective_Artifact_Set1_2hBlunderbuss" rel_version="Feature_Expansion_1">Artifact: Pestilence</string>
-	<string key="Objective_Artifact_Set1_2hGreatSword" rel_version="Feature_Expansion_1">Artifact: Serenity</string>
-	<string key="Objective_Artifact_Set1_1hFlail" rel_version="Feature_Expansion_1">Artifact: Odo</string>
-	<string key="Objective_Artifact_Set1_Earring1" rel_version="Feature_Expansion_1">Artifact: Endless Thirst</string>
-	<string key="Objective_Artifact_Set1_Ring1" rel_version="Feature_Expansion_1">Artifact: Blooddrinker</string>
-	<string key="Objective_Artifact_Set1_Amulet1" rel_version="Feature_Expansion_1">Artifact: Lost Stopwatch</string>
-	<string key="Objective_Artifact_Set1_Earring2" rel_version="Feature_Artifacts_Set2">Artifact: Ocean's Peace</string>
-	<string key="Objective_Artifact_Set1_Ring2" rel_version="Feature_Artifacts_Set2">Artifact: Mastermind</string>
-	<string key="Objective_Artifact_Set1_Amulet2" rel_version="Feature_Expansion_1">Artifact: Ankh</string>
-	<string key="Objective_Kill_Dungeon_DepthBoss" rel_version="Feature_Expansion_1">Defeat {targetName} at Depths Expedition</string>
-	<string key="Objective_Kill_in_FL" rel_version="Feature_Expansion_1">Defeat {targetName} enemies in Elysian Wilds</string>
-	<string key="Objective_Kill_in_Edengrove" rel_version="Feature_Expansion_1">Defeat {targetName} enemies in Edengrove</string>
-	<string key="Objective_Kill_in_CK" rel_version="Feature_Artifacts_S6">Defeat {targetName} enemies in Cutlass Keys</string>
-	<string key="Objective_Kill_in_Reekwater" rel_version="Feature_Expansion_1">Defeat {targetName} enemies in Reekwater</string>
-	<string key="Objective_Kill_Corvid" rel_version="Feature_Expansion_1">Defeat Corvid enemies in Elysian Wilds</string>
-	<string key="Objective_Kill_Depths" rel_version="Feature_Expansion_1">Defeat {targetName} in The Depths</string>
-	<string key="Objective_Kill_Genesis" rel_version="Feature_Expansion_1">Defeat {targetName} in Garden of Genesis</string>
-	<string key="Objective_Kill_Dynasty" rel_version="Feature_Expansion_1">Defeat {targetName} in The Dynasty Shipyard</string>
-	<string key="Objective_Kill_BnBP" rel_version="Feature_Expansion_1">Defeat {targetName} in Barnacles and Black Powder</string>
-	<string key="Objective_Kill_Tempest" rel_version="Feature_Expansion_1">Defeat {targetName} in Tempest's Heart</string>
-	<string key="Objective_Kill_Lazarus" rel_version="Feature_Expansion_1">Defeat {targetName} in The Lazarus Instrumentality</string>
-	<string key="Objective_Kill_Ennead" rel_version="Feature_Expansion_1">Defeat {targetName} in The Ennead</string>
-	<string key="Objective_Kill_Starstone" rel_version="Feature_Expansion_1">Defeat {targetName} in The Starstone Barrows</string>
-	<string key="Objective_Kill_Empyean" rel_version="Feature_Expansion_1">Defeat {targetName} enemies in the Empyrean Forge</string>
-	<string key="Objective_Kill_Named_Empyean" rel_version="Feature_Expansion_1">Defeat {targetName} in the Empyrean Forge</string>
-	<string key="Objective_Kill_GlacialTarn" rel_version="Feature_Artifacts_Set2">Defeat {targetName} enemies in Glacial Tarn</string>
-	<string key="Objective_Kill_SavageDivide" rel_version="Feature_Artifacts_Set2">Defeat {targetName} enemies in Savage Divide</string>
-	<string key="Objective_Kill_Sandworm" rel_version="Feature_Artifacts_Set2">Defeat Shah Neshen in the Trial of the Devourer.</string>
-	<string key="Objective_Kill_OPR" rel_version="Feature_Expansion_1">Defeat {targetName} enemies in Outpost Rush</string>
-	<string key="Objective_Kill_Arena" rel_version="Feature_Expansion_1">Defeat {targetName} enemies in Arena</string>
-	<string key="Objective_Kill_OpenWorld" rel_version="Feature_Expansion_1">Defeat {targetName} enemies</string>
-	<string key="Objective_Kill_Hatchery" rel_version="Feature_Expansion_1">Defeat Hadish Azar, Keeper of Flame in the Hatchery Elite Trial</string>
-	<string key="Objective_Kill_Runeforge" rel_version="Feature_Expansion_1">Defeat the Ancient Ice Guardian in the Winter Rune Forge Elite Trial</string>
-	<string key="Objective_Kill_in_POI" rel_version="Feature_Expansion_1">Kill enemies at {POITags}</string>
-	<string key="Objective_Kill_Forged" rel_version="Feature_Expansion_1">Defeat Forged Varangians</string>
-	<string key="Objective_Kill_in_CK_Raid" rel_version="Feature_Artifacts_S6">Defeat {targetName} in the Gorgon's Hive</string>
-	<string key="Objective_CraftArtifact" rel_version="Feature_Expansion_1">Upgrade at the Gypsum Kiln</string>
+	<string key="objective_artifact_equip_to_view">Equip to view task.</string>
+	<string key="objective_artifact_max_reminder">Too many artifact tasks in progress. Abandon an existing one to start another.</string>
+	<string key="objective_artifact_equip_reminder">When Equipped:</string>
+	<string key="Objective_Artifact_PerkTasks">Each task unlocks a perk</string>
+	<string key="Objective_Artifact_Desc">Complete the following:</string>
+	<string key="Objective_Artifact_Set1_HeavyHead">Artifact: Unyeilding</string>
+	<string key="Objective_Artifact_Set1_HeavyChest">Artifact: Void Darkplate</string>
+	<string key="Objective_Artifact_Set1_HeavyHands">Artifact: Magnetic Gauntlets</string>
+	<string key="Objective_Artifact_Set1_HeavyLegs">Artifact: Freedom</string>
+	<string key="Objective_Artifact_Set1_HeavyFeet">Artifact: The Unmoved</string>
+	<string key="Objective_Artifact_Set1_MediumHead">Artifact: Djinn Headwrap</string>
+	<string key="Objective_Artifact_Set1_MediumChest">Artifact: Nimble Coat</string>
+	<string key="Objective_Artifact_Set1_MediumHands">Artifact: Ghoul Gloves</string>
+	<string key="Objective_Artifact_Set1_MediumLegs">Artifact: Attuned Leather Pants</string>
+	<string key="Objective_Artifact_Set1_MediumFeet">Artifact: Winged Shoes</string>
+	<string key="Objective_Artifact_Set1_LightHead">Artifact: Grey Wizard's Hat</string>
+	<string key="Objective_Artifact_Set1_LightChest">Artifact: Featherweight</string>
+	<string key="Objective_Artifact_Set1_LightHands">Artifact: Quickdraw Gloves</string>
+	<string key="Objective_Artifact_Set1_LightLegs">Artifact: Knee Guards</string>
+	<string key="Objective_Artifact_Set1_LightFeet">Artifact: Tumbler Feetwraps</string>
+	<string key="Objective_Artifact_Set1_1hLongsword">Artifact: The Butcher</string>
+	<string key="Objective_Artifact_Set1_1hThrowingAxe">Artifact: Freya's Francisca</string>
+	<string key="Objective_Artifact_Set1_2hWarhammer">Artifact: Mjölnir</string>
+	<string key="Objective_Artifact_Set1_2hGreatAxe">Artifact: The Abyss</string>
+	<string key="Objective_Artifact_Set1_2hBow">Artifact: Boltcaster</string>
+	<string key="Objective_Artifact_Set1_2hMusket">Artifact: The Mechanic</string>
+	<string key="Objective_Artifact_Set1_1hRoundShield">Artifact: Gladiator</string>
+	<string key="Objective_Artifact_Set1_1hKiteShield">Artifact: Michael</string>
+	<string key="Objective_Artifact_Set1_1hTowerShield">Artifact: The Wall</string>
+	<string key="Objective_Artifact_Set1_2hStaffFire">Artifact: Inferno</string>
+	<string key="Objective_Artifact_Set1_2hStaffLife">Artifact: Vengeance</string>
+	<string key="Objective_Artifact_Set1_2hSpear">Artifact: Scorpion's Sting</string>
+	<string key="Objective_Artifact_Set1_1hRapier">Artifact: Finisher</string>
+	<string key="Objective_Artifact_Set1_1hGauntletIce">Artifact: The Frozen</string>
+	<string key="Objective_Artifact_Set1_1hGauntletVoid">Artifact: Lifetaker</string>
+	<string key="Objective_Artifact_Set1_2hBlunderbuss">Artifact: Pestilence</string>
+	<string key="Objective_Artifact_Set1_2hGreatSword">Artifact: Serenity</string>
+	<string key="Objective_Artifact_Set1_1hFlail">Artifact: Odo</string>
+	<string key="Objective_Artifact_Set1_Earring1">Artifact: Endless Thirst</string>
+	<string key="Objective_Artifact_Set1_Ring1">Artifact: Blooddrinker</string>
+	<string key="Objective_Artifact_Set1_Amulet1">Artifact: Lost Stopwatch</string>
+	<string key="Objective_Artifact_Set1_Earring2">Artifact: Ocean's Peace</string>
+	<string key="Objective_Artifact_Set1_Ring2">Artifact: Mastermind</string>
+	<string key="Objective_Artifact_Set1_Amulet2">Artifact: Ankh</string>
+	<string key="Objective_Kill_Dungeon_DepthBoss">Defeat {targetName} at Depths Expedition</string>
+	<string key="Objective_Kill_in_FL">Defeat {targetName} enemies in Elysian Wilds</string>
+	<string key="Objective_Kill_in_Edengrove">Defeat {targetName} enemies in Edengrove</string>
+	<string key="Objective_Kill_in_CK">Defeat {targetName} enemies in Cutlass Keys</string>
+	<string key="Objective_Kill_in_Reekwater">Defeat {targetName} enemies in Reekwater</string>
+	<string key="Objective_Kill_Corvid">Defeat Corvid enemies in Elysian Wilds</string>
+	<string key="Objective_Kill_Depths">Defeat {targetName} in The Depths</string>
+	<string key="Objective_Kill_Genesis">Defeat {targetName} in Garden of Genesis</string>
+	<string key="Objective_Kill_Dynasty">Defeat {targetName} in The Dynasty Shipyard</string>
+	<string key="Objective_Kill_BnBP">Defeat {targetName} in Barnacles and Black Powder</string>
+	<string key="Objective_Kill_Tempest">Defeat {targetName} in Tempest's Heart</string>
+	<string key="Objective_Kill_Lazarus">Defeat {targetName} in The Lazarus Instrumentality</string>
+	<string key="Objective_Kill_Ennead">Defeat {targetName} in The Ennead</string>
+	<string key="Objective_Kill_Starstone">Defeat {targetName} in The Starstone Barrows</string>
+	<string key="Objective_Kill_Empyean">Defeat {targetName} enemies in the Empyrean Forge</string>
+	<string key="Objective_Kill_Named_Empyean">Defeat {targetName} in the Empyrean Forge</string>
+	<string key="Objective_Kill_GlacialTarn">Defeat {targetName} enemies in Glacial Tarn</string>
+	<string key="Objective_Kill_SavageDivide">Defeat {targetName} enemies in Savage Divide</string>
+	<string key="Objective_Kill_Sandworm">Defeat Shah Neshen in the Trial of the Devourer.</string>
+	<string key="Objective_Kill_OPR">Defeat {targetName} enemies in Outpost Rush</string>
+	<string key="Objective_Kill_Arena">Defeat {targetName} enemies in Arena</string>
+	<string key="Objective_Kill_OpenWorld">Defeat {targetName} enemies</string>
+	<string key="Objective_Kill_Hatchery">Defeat Hadish Azar, Keeper of Flame in the Hatchery Elite Trial</string>
+	<string key="Objective_Kill_Runeforge">Defeat the Ancient Ice Guardian in the Winter Rune Forge Elite Trial</string>
+	<string key="Objective_Kill_in_POI">Kill enemies at {POITags}</string>
+	<string key="Objective_Kill_Forged">Defeat Forged Varangians</string>
+	<string key="Objective_Kill_in_CK_Raid">Defeat {targetName} in the Gorgon's Hive</string>
+	<string key="Objective_CraftArtifact">Upgrade at the Gypsum Kiln</string>
 	<string key="LNY_tribute_table">Tribute to the Dragon</string>
 	<string key="LNY_tribute_table_description">Retrieve Heirlooms from the corrupted and cook a traditional tribute dish to call for the Dragon's Blessing. This event rotates between locations in Ebonscale Reach.</string>
 	<string key="LNY_settlement_firework">Lunar New Year Firework</string>
 	<string key="LNY_settlement_firework_description">Fireworks to celebrate the new year.</string>
-	<string key="Objective_Artifact_Set2_HeavyChest" rel_version="Feature_Artifacts_S6">Artifact: Survivor's Coat</string>
-	<string key="Objective_Artifact_Set2_HeavyHands" rel_version="Feature_Artifacts_S5">Artifact: Gilli's Gravity Gauntlets</string>
-	<string key="Objective_Artifact_Set2_HeavyLegs" rel_version="Feature_Artifacts_S5">Artifact: Ironheart</string>
-	<string key="Objective_Artifact_Set2_HeavyFeet" rel_version="Feature_Artifacts_S8">Artifact: Runic Greaves</string>
-	<string key="Objective_Artifact_Set2_MediumHead" rel_version="Feature_Artifacts_S8">Artifact: Old Crown</string>
-	<string key="Objective_Artifact_Set2_MediumChest" rel_version="Feature_Artifacts_S5">Artifact: Nature's Wrath</string>
-	<string key="Objective_Artifact_Set2_MediumHands" rel_version="Feature_Artifacts_S6">Artifact: Ghostly Touch</string>
-	<string key="Objective_Artifact_Set2_MediumLegs" rel_version="Feature_Artifacts_S6">Artifact: Azoth Conductors</string>
-	<string key="Objective_Artifact_Set2_LightHead" rel_version="Feature_Artifacts_S6">Artifact: Cowl of Power</string>
-	<string key="Objective_Artifact_Set2_LightChest" rel_version="Feature_Artifacts_S8">Artifact: Vampire Vestments</string>
-	<string key="Objective_Artifact_Set2_LightHands" rel_version="Feature_Artifacts_S8">Artifact: Lich Gloves</string>
-	<string key="Objective_Artifact_Set2_LightFeet" rel_version="Feature_Artifacts_S5">Artifact: Creed Boots</string>
-	<string key="Objective_Artifact_Set2_1hLongsword" rel_version="Feature_Artifacts_S8">Artifact: Wit</string>
-	<string key="Objective_Artifact_Set2_1hThrowingAxe" rel_version="Feature_Artifacts_S5">Artifact: Sin</string>
-	<string key="Objective_Artifact_Set2_2hWarhammer" rel_version="Feature_Artifacts_S6">Artifact: Trsna</string>
-	<string key="Objective_Artifact_Set2_2hGreatAxe" rel_version="Feature_Artifacts_S5">Artifact: Tempest Fury</string>
-	<string key="Objective_Artifact_Set2_2hBow" rel_version="Feature_Artifacts_S7">Artifact: Aconite</string>
-	<string key="Objective_Artifact_Set2_2hMusket" rel_version="Feature_Artifacts_S7">Artifact: Shrapnel</string>
-	<string key="Objective_Artifact_Set2_1hTowerShield" rel_version="Feature_Artifacts_S8">Artifact: Relentless</string>
-	<string key="Objective_Artifact_Set2_2hStaffFire" rel_version="Feature_Artifacts_S7">Artifact: Burnanator</string>
-	<string key="Objective_Artifact_Set2_2hStaffLife" rel_version="Feature_Artifacts_S7">Artifact: Heceta</string>
-	<string key="Objective_Artifact_Set2_2hSpear" rel_version="Feature_Artifacts_S5">Artifact: Venom</string>
-	<string key="Objective_Artifact_Set2_1hRapier" rel_version="Feature_Artifacts_S7">Artifact: Dorgort's Blade</string>
-	<string key="Objective_Artifact_Set2_1hGauntletIce" rel_version="Feature_Artifacts_S7">Artifact: Otzi</string>
-	<string key="Objective_Artifact_Set2_1hGauntletVoid" rel_version="Feature_Artifacts_S7">Artifact: Fracture</string>
-	<string key="Objective_Artifact_Set2_2hBlunderbuss" rel_version="Feature_Artifacts_S8">Artifact: Chaos</string>
-	<string key="Objective_Artifact_Set2_2hGreatSword" rel_version="Feature_Artifacts_S6">Artifact: Grace</string>
-	<string key="Objective_Artifact_Set2_1hFlail" rel_version="Feature_Artifacts_S6">Artifact: Power Stone</string>
-	<string key="Objective_Artifact_Set2_Earring1" rel_version="Feature_Artifacts_S7">Artifact: Justice</string>
-	<string key="Objective_Artifact_Set2_Ring1" rel_version="Feature_Artifacts_S6">Artifact: Elemental Band</string>
-	<string key="Objective_Artifact_Set2_Amulet1" rel_version="Feature_Artifacts_S5">Artifact: Phoenix</string>
-	<string key="Objective_Artifact_Set3_MediumHead" comment="DO NOT TRANSLATE" rel_version="Feature_Artifacts_S9">Artifact: Plagueherald</string>
-	<string key="Objective_Artifact_Set3_2hWarhammer" comment="DO NOT TRANSLATE" rel_version="Feature_Artifacts_S9">Artifact: Hammer of Yeet</string>
-	<string key="Objective_Artifact_Set3_2hGreatSword" comment="DO NOT TRANSLATE" rel_version="Feature_Artifacts_S9">Artifact: Crescent's Wave</string>
-	<string key="99F_Enc_Liang_Objective_Title_description" rel_version="Quest_MSQ3_Ebonscale">The Prince of Ebonscale Reach is sealed within the confines of the Wood Temple, for the protection of the people and Liang himself.</string>
-	<string key="99F_Enc_Liang_Objective_Title_Phase0" rel_version="Quest_MSQ3_Ebonscale">Save the Tormented Prince</string>
-	<string key="99F_Enc_Liang_Objective_Phase0" rel_version="Quest_MSQ3_Ebonscale">Approach Liang</string>
-	<string key="99F_Enc_Liang_Objective_Title_Phase1" rel_version="Quest_MSQ3_Ebonscale">Save the Tormented Prince</string>
-	<string key="99F_Enc_Liang_Objective_Phase1" rel_version="Quest_MSQ3_Ebonscale">Use skills or heavy attacks to attach talismans to Liang</string>
-	<string key="99F_Enc_Liang_Objective_Title_Phase2" rel_version="Quest_MSQ3_Ebonscale">Save the Tormented Prince</string>
-	<string key="99F_Enc_Liang_Objective_Phase2" rel_version="Quest_MSQ3_Ebonscale">Apply 6 more talismans to immobilize Liang</string>
-	<string key="99F_Enc_Liang_Objective_Title_Phase3" rel_version="Quest_MSQ3_Ebonscale">Save the Tormented Prince</string>
-	<string key="99F_Enc_Liang_Objective_Phase3" rel_version="Quest_MSQ3_Ebonscale">Apply 8 more talismans to immobilize Liang</string>
-	<string key="99F_Enc_Liang_Objective_Title_Phase4" rel_version="Quest_MSQ3_Ebonscale">Save the Tormented Prince</string>
-	<string key="99F_Enc_Liang_Objective_Phase4" rel_version="Quest_MSQ3_Ebonscale">Use your Azoth Staff to free Liang's soul</string>
-	<string key="objective_weekly_description" speaker="UI">Weekly Quest</string>
-	<string key="objective_daily_description" speaker="UI">Daily Quest</string>
-	<string key="objective_hourly_description" speaker="UI">Hourly Quest</string>
-	<string key="objective_minutely_description" speaker="UI">Once-Per-Minute Quest</string>
-	<string key="objective_cooldown_tooltip" speaker="UI">If you complete this quest, you will have to wait until {date} to accept this quest again.</string>
-	<string key="objective_cooldown_availablein" speaker="UI">Available in {time}</string>
-	<string key="objective_complete_the_raid" speaker="UI">Complete the Raid</string>
-	<string key="Objective_Artifact_Set3_2hGreatSword_desc" speaker="UI">This great glowing blade seeks out foes from a distance, like a shark in water.</string>
+	<string key="Objective_lny_tribute_wave_00_title">Collect Heirlooms</string>
+	<string key="Objective_lny_tribute_wave_00_desc">Retrieve items from the corrupted</string>
+	<string key="Objective_lny_tribute_heirloom_01_title">Commune with the Dragon</string>
+	<string key="Objective_lny_tribute_heirloom_01_desc">Retrieve Century Wine and place it on the side table</string>
+	<string key="Objective_lny_tribute_heirloom_02_title">Commune with the Dragon</string>
+	<string key="Objective_lny_tribute_heirloom_02_desc">Retrieve Jade Green Tea and place it on the side table</string>
+	<string key="Objective_lny_tribute_heirloom_03_title">Commune with the Dragon</string>
+	<string key="Objective_lny_tribute_heirloom_03_desc">Retrieve Ancient Scroll and place it on the side table</string>
+	<string key="Objective_lny_tribute_wave_03_title">Commune with the Dragon</string>
+	<string key="Objective_lny_tribute_wave_03_desc">Prepare Blooming Fish and place it on the altar</string>
+	<string key="Objective_lny_tribute_wave_04_title">Complete The Ritual</string>
+	<string key="Objective_lny_tribute_wave_04_desc">Approach the energy eruption</string>
+	<string key="Objective_lny_tribute_wave_04B_desc">Attune to the Dragon's blessing</string>
+	<string key="Objective_lny_tribute_wave_05_title">The Unworthy Ones</string>
+	<string key="Objective_lny_tribute_wave_05_desc">Defeat the dynasty's robbers</string>
+	<string key="Objective_lny_tribute_wave_06A_title">The Unworthy Ones</string>
+	<string key="Objective_lny_tribute_wave_06A_desc">Defeat Dynasty Heavy</string>
+	<string key="Objective_lny_tribute_wave_06B_title">The Unworthy Ones</string>
+	<string key="Objective_lny_tribute_wave_06B_desc">Defeat Dynasty Musketeers</string>
+	<string key="Objective_lny_tribute_wave_07A_title">The Unworthy Ones</string>
+	<string key="Objective_lny_tribute_wave_07A_desc">Defeat dynasty maiden Ying</string>
+	<string key="Objective_lny_tribute_wave_07B_title">The Unworthy Ones</string>
+	<string key="Objective_lny_tribute_wave_07B_desc">Defeat the Corrupted Tigers</string>
+	<string key="Objective_lny_tribute_get">Retrieve Dynasty Heirlooms</string>
+	<string key="Objective_lny_tribute_get_heirloom_01">Find and retrieve Century Wine</string>
+	<string key="Objective_lny_tribute_get_heirloom_02">Find and retrieve Jade Green Tea</string>
+	<string key="Objective_lny_tribute_get_heirloom_03">Find and retrieve Ancient Scroll</string>
+	<string key="Objective_lny_tribute_fish">Prepare the tribute</string>
+	<string key="Objective_lny_tribute_get_fish">Cook Blooming Fish in the wok on the food cart nearby</string>
+	<string key="Objective_lny_tribute_place">Begin The Ritual</string>
+	<string key="Objective_lny_tribute_place_heirloom_01">Place Century Wine on the altar</string>
+	<string key="Objective_lny_tribute_place_heirloom_02">Place Jade Green Tea on the altar</string>
+	<string key="Objective_lny_tribute_place_heirloom_03">Place Ancient Scroll on the altar</string>
+	<string key="Objective_lny_tribute_place_fish">Place Blooming Fish and commune with the Dragon</string>
+	<string key="Objective_lny_tribute_wave_3_1_desc">Defeat the Corrupted Dynasty forces</string>
+	<string key="Objective_lny_tribute_wave_3_2_desc">Survive the corruption's siege</string>
+	<string key="Objective_lny_tribute_wave_3_3_desc">Defeat Dynasty Heavy and Musketeers</string>
+	<string key="Objective_lny_tribute_wave_3_4_desc">Defeat Ying and her pets</string>
+	<string key="Objective_lny_tribute_reward">Finish the Ritual</string>
+	<string key="Objective_lny_tribute_reward_break_core">Break the corrupted core and reveal the Dragon's Blessing</string>
+	<string key="Objective_Artifact_Set2_HeavyHead">Artifact: Fillinname</string>
+	<string key="Objective_Artifact_Set2_HeavyChest">Artifact: Survivor's Coat</string>
+	<string key="Objective_Artifact_Set2_HeavyHands">Artifact: Gilli's Gravity Gauntlets</string>
+	<string key="Objective_Artifact_Set2_HeavyLegs">Artifact: Ironheart</string>
+	<string key="Objective_Artifact_Set2_HeavyFeet">Artifact: Runic Greaves</string>
+	<string key="Objective_Artifact_Set2_MediumHead">Artifact: Old Crown</string>
+	<string key="Objective_Artifact_Set2_MediumChest">Artifact: Nature's Wrath</string>
+	<string key="Objective_Artifact_Set2_MediumHands">Artifact: Ghostly Touch</string>
+	<string key="Objective_Artifact_Set2_MediumLegs">Artifact: Azoth Conductors</string>
+	<string key="Objective_Artifact_Set2_MediumFeet">Artifact: Fillinname</string>
+	<string key="Objective_Artifact_Set2_LightHead">Artifact: Cowl of Power</string>
+	<string key="Objective_Artifact_Set2_LightChest">Artifact: Vampire Vestments</string>
+	<string key="Objective_Artifact_Set2_LightHands">Artifact: Lich Gloves</string>
+	<string key="Objective_Artifact_Set2_LightLegs">Artifact: Fillinname</string>
+	<string key="Objective_Artifact_Set2_LightFeet">Artifact: Creed Boots</string>
+	<string key="Objective_Artifact_Set2_1hLongsword">Artifact: Wit</string>
+	<string key="Objective_Artifact_Set2_1hThrowingAxe">Artifact: Sin</string>
+	<string key="Objective_Artifact_Set2_2hWarhammer">Artifact: Trsna</string>
+	<string key="Objective_Artifact_Set2_2hGreatAxe">Artifact: Tempest Fury</string>
+	<string key="Objective_Artifact_Set2_2hBow">Artifact: Aconite</string>
+	<string key="Objective_Artifact_Set2_2hMusket">Artifact: Shrapnel</string>
+	<string key="Objective_Artifact_Set2_1hRoundShield">Artifact: Fillinname</string>
+	<string key="Objective_Artifact_Set2_1hKiteShield">Artifact: Fillinname</string>
+	<string key="Objective_Artifact_Set2_1hTowerShield">Artifact: Relentless</string>
+	<string key="Objective_Artifact_Set2_2hStaffFire">Artifact: Burnanator</string>
+	<string key="Objective_Artifact_Set2_2hStaffLife">Artifact: Heceta</string>
+	<string key="Objective_Artifact_Set2_2hSpear">Artifact: Venom</string>
+	<string key="Objective_Artifact_Set2_1hRapier">Artifact: Dorgort's Blade</string>
+	<string key="Objective_Artifact_Set2_1hGauntletIce">Artifact: Otzi</string>
+	<string key="Objective_Artifact_Set2_1hGauntletVoid">Artifact: Fracture</string>
+	<string key="Objective_Artifact_Set2_2hBlunderbuss">Artifact: Chaos</string>
+	<string key="Objective_Artifact_Set2_2hGreatSword">Artifact: Grace</string>
+	<string key="Objective_Artifact_Set2_1hFlail">Artifact: Power Stone</string>
+	<string key="Objective_Artifact_Set2_Earring1">Artifact: Justice</string>
+	<string key="Objective_Artifact_Set2_Ring1">Artifact: Elemental Band</string>
+	<string key="Objective_Artifact_Set2_Amulet1">Artifact: Phoenix</string>
+	<string key="Objective_Artifact_Set3_HeavyHead">Artifact: FILLINNAME</string>
+	<string key="Objective_Artifact_Set3_HeavyChest">Artifact: FILLINNAME</string>
+	<string key="Objective_Artifact_Set3_HeavyHands">Artifact: FILLINNAME</string>
+	<string key="Objective_Artifact_Set3_HeavyLegs">Artifact: FILLINNAME</string>
+	<string key="Objective_Artifact_Set3_HeavyFeet">Artifact: FILLINNAME</string>
+	<string key="Objective_Artifact_Set3_MediumHead">Artifact: Plagueherald</string>
+	<string key="Objective_Artifact_Set3_MediumChest">Artifact: FILLINNAME</string>
+	<string key="Objective_Artifact_Set3_MediumHands">Artifact: FILLINNAME</string>
+	<string key="Objective_Artifact_Set3_MediumLegs">Artifact: FILLINNAME</string>
+	<string key="Objective_Artifact_Set3_MediumFeet">Artifact: FILLINNAME</string>
+	<string key="Objective_Artifact_Set3_LightHead">Artifact: FILLINNAME</string>
+	<string key="Objective_Artifact_Set3_LightChest">Artifact: FILLINNAME</string>
+	<string key="Objective_Artifact_Set3_LightHands">Artifact: FILLINNAME</string>
+	<string key="Objective_Artifact_Set3_LightLegs">Artifact: FILLINNAME</string>
+	<string key="Objective_Artifact_Set3_LightFeet">Artifact: FILLINNAME</string>
+	<string key="Objective_Artifact_Set3_1hLongsword">Artifact: FILLINNAME</string>
+	<string key="Objective_Artifact_Set3_1hThrowingAxe">Artifact: Incinerating Hatchet</string>
+	<string key="Objective_Artifact_Set3_2hWarhammer">Artifact: Hammer of Yeet</string>
+	<string key="Objective_Artifact_Set3_2hGreatSword">Artifact: Crescent's Wave</string>
+	<string key="Objective_Artifact_Set3_2hBow">Artifact: Contagious Plague</string>
+	<string key="Objective_Artifact_Set3_2hMusket">Artifact: FILLINNAME</string>
+	<string key="Objective_Artifact_Set3_1hRoundShield">Artifact: FILLINNAME</string>
+	<string key="Objective_Artifact_Set3_1hKiteShield">Artifact: FILLINNAME</string>
+	<string key="Objective_Artifact_Set3_1hTowerShield">Artifact: FILLINNAME</string>
+	<string key="Objective_Artifact_Set3_2hStaffFire">Artifact: FILLINNAME</string>
+	<string key="Objective_Artifact_Set3_2hStaffLife">Artifact: FILLINNAME</string>
+	<string key="Objective_Artifact_Set3_2hSpear">Artifact: FILLINNAME</string>
+	<string key="Objective_Artifact_Set3_1hRapier">Artifact: FILLINNAME</string>
+	<string key="Objective_Artifact_Set3_1hGauntletIce">Artifact: FILLINNAME</string>
+	<string key="Objective_Artifact_Set3_1hGauntletVoid">Artifact: FILLINNAME</string>
+	<string key="Objective_Artifact_Set3_2hBlunderbuss">Artifact: FILLINNAME</string>
+	<string key="Objective_Artifact_Set3_1hFlail">Artifact: FILLINNAME</string>
+	<string key="Objective_Artifact_Set3_Daggers">Artifact: FILLINNAME</string>
+	<string key="Objective_Artifact_Set3_Earring1">Artifact: FILLINNAME</string>
+	<string key="Objective_Artifact_Set3_Ring1">Artifact: FILLINNAME</string>
+	<string key="Objective_Artifact_Set3_Amulet1">Artifact: FILLINNAME</string>
+	<string key="99F_Enc_Liang_Objective_Title_description">The Prince of Ebonscale Reach is sealed within the confines of the Wood Temple, for the protection of the people and Liang himself.</string>
+	<string key="99F_Enc_Liang_Objective_Title_Phase0">Save the Tormented Prince</string>
+	<string key="99F_Enc_Liang_Objective_Phase0">Approach Liang</string>
+	<string key="99F_Enc_Liang_Objective_Title_Phase1">Save the Tormented Prince</string>
+	<string key="99F_Enc_Liang_Objective_Phase1">Use skills or heavy attacks to attach talismans to Liang</string>
+	<string key="99F_Enc_Liang_Objective_Title_Phase2">Save the Tormented Prince</string>
+	<string key="99F_Enc_Liang_Objective_Phase2">Apply 6 more talismans to immobilize Liang</string>
+	<string key="99F_Enc_Liang_Objective_Title_Phase3">Save the Tormented Prince</string>
+	<string key="99F_Enc_Liang_Objective_Phase3">Apply 8 more talismans to immobilize Liang</string>
+	<string key="99F_Enc_Liang_Objective_Title_Phase4">Save the Tormented Prince</string>
+	<string key="99F_Enc_Liang_Objective_Phase4">Use your Azoth Staff to free Liang's soul</string>
+	<string key="objective_weekly_description">Weekly Quest</string>
+	<string key="objective_daily_description">Daily Quest</string>
+	<string key="objective_hourly_description">Hourly Quest</string>
+	<string key="objective_minutely_description">Once-Per-Minute Quest</string>
+	<string key="objective_cooldown_tooltip">If you complete this quest, you will have to wait until {date} to accept this quest again.</string>
+	<string key="objective_cooldown_availablein">Available in {time}</string>
+	<string key="objective_complete_the_raid">Complete the Raid</string>
+	<string key="Objective_Artifact_Set3_2hGreatSword_desc">This great glowing blade seeks out foes from a distance, like a shark in water.</string>
 	<string key="Objective_Artifact_Set3_2hWarhammer_desc">Does what it says on the tin. 100% satisfaction garuanteed or your yeet back.</string>
 	<string key="Objective_Artifact_Set3_MediumHead_desc">This helm is cold in your hands. Toxic thoughts abide within. Seek out others and spread the love.</string>
-	<string key="Objective_Kill_CTF" rel_version="Feature_Expansion_1">Defeat {targetName} enemies in Capture The Flag</string>
+	<string key="Objective_Kill_CTF">Defeat {targetName} enemies in Capture The Flag</string>
+	<string key="Objective_Artifact_Set3_Hatchet">Artifact: Incinerating Hatchett</string>
+	<string key="Objective_Artifact_Set3_1hThrowingAxe_Name">Incinerating Hatchet</string>
+	<string key="Objective_Artifact_Set3_2hBow_Name">Contagious Plague</string>
+	<string key="Objective_Artifact_Set3_2hBow_desc">The fun is contagious</string>
+	<string key="Objective_Artifact_ThrowingAxe_Seraphim">Hunt 3 Seraphim and capture their flames</string>
+	<string key="Objective_Artifact_ThrowingAxe_Tower">Reach the top of the Tower of Strength</string>
+	<string key="Objective_Artifact_Bow_Tower">Reach the top of the Tower of the Emrpress</string>
 </resources>
 

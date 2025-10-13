@@ -549,7 +549,7 @@
 	<string key="BoostVoidAbs_GroupName">Void Defense Potions</string>
 	<string key="bounty_GroupName">Talisman</string>
 	<string key="bountymagic_GroupName">Vacant Animus</string>
-	<string key="BowA_GroupDesc">A versatile ranged weapon that can rapidly fire arrows or be fully drawn to achieve maximum damage. Great for maintaining distance while utilizing a variety of attacks to hinder and damage enemies.\n\n•Hip-Fire: Deals {[0.600000 * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage.\n•Short Draw: Deals {[1.000000 * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage.\n•Long Draw: Deals {[1.500000 * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage. \n\nThe Bow, along with all other ranged weapons, has a persistent 20% damage multiplier.</string>
+	<string key="BowA_GroupDesc">A versatile ranged weapon that can rapidly fire arrows or be fully drawn to achieve maximum damage. Great for maintaining distance while utilizing a variety of attacks to hinder and damage enemies.\n\n•Hip-Fire: Deals {[0.600000 * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage.\n•Short Draw: Deals {[1.000000 * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage.\n•Long Draw: Deals {[1.500000 * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage.</string>
 	<string key="BowA_GroupName">Bows</string>
 	<string key="BowA2_GroupName">Bows</string>
 	<string key="BowB_GroupDesc">2-Handed. A ranged weapon that uses arrows. Arrows must be fully drawn before loosing to achieve maximum damage.</string>
@@ -1415,8 +1415,8 @@
 	<string key="MoonstoneCut_GroupDesc">Cut and polished Moonstone Gemstones. Can be crafted into jewelry to increase Strength and Focus, or socketed into equipment to provide the Exhilarate and Slash Ward perks.</string>
 	<string key="MoonstoneCut_GroupName">Cut Moonstone</string>
 	<string key="Mounts_GroupName" rel_version="Feature_Mounts">Mounts</string>
-	<string key="MusketA_GroupDesc">A ranged weapon that fires high-damage cartridges. Ideal for keeping targets at a distance with a high payoff for precision.\n\n•Standard Attack: Deals {[1.000000 * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage. \n\nThe Musket, along with all other ranged weapons, has a persistent 20% damage multiplier.</string>
-	<string key="Blunderbuss_GroupDesc" rel_version="Weapon_Blunderbuss">A close quarters ranged weapon that fires 6 pellets in a single blast. Ideal for keeping pressure on melee targets and getting up close and personal with ranged targets.\n\n•Standard Attack: Deals {[0.190000 * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage per pellet. ({[1.140000 * 100]}% total of all 6 pellets.) \n\nThe Blunderbuss, along with all other ranged weapons, has a persistent 20% damage multiplier.</string>
+	<string key="MusketA_GroupDesc">A ranged weapon that fires high-damage cartridges. Ideal for keeping targets at a distance with a high payoff for precision.\n\n•Standard Attack: Deals {[1.000000 * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage.</string>
+	<string key="Blunderbuss_GroupDesc" rel_version="Weapon_Blunderbuss">A close quarters ranged weapon that fires 6 pellets in a single blast. Ideal for keeping pressure on melee targets and getting up close and personal with ranged targets.\n\n•Standard Attack: Deals {[0.190000 * 100]}% &lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_thrust_opaque" xPadding="0" scale="1.7" yOffset="4"&gt;&lt;/img&gt; damage per pellet. ({[1.140000 * 100]}% total of all 6 pellets.)</string>
 	<string key="MusketA_GroupName">Musket</string>
 	<string key="Muskets_GroupName">Muskets</string>
 	<string key="nut_GroupName">Nut</string>
@@ -1876,11 +1876,6 @@
 	<string key="AlchemyAlkahestT1_GroupName">Alkahest</string>
 	<string key="AlchemyCritters_GroupName">Alchemy Critters</string>
 	<string key="Summer">Summer</string>
-	<string key="SummerMemento" rel_version="Event_Summer_Temp">Summer Mementos</string>
-	<string key="MementoStand" rel_version="Event_Summer_Temp">Memento Stands</string>
-	<string key="SmallMemento" rel_version="Event_Summer_Temp">Small Fish Mementos</string>
-	<string key="MediumMemento" rel_version="Event_Summer_Temp">Medium Fish Mementos</string>
-	<string key="LargeMemento" rel_version="Event_Summer_Temp">Large Fish Mementos</string>
 	<string key="Instruments_GroupName" rel_version="Feature_MusicalPerformances">Instruments</string>
 	<string key="CategoryData_Instruments" rel_version="Feature_MusicalPerformances">Instruments</string>
 	<string key="InstrumentParts_GroupName" rel_version="Feature_MusicalPerformances">Instrument Parts</string>
@@ -2077,5 +2072,31 @@
 	<string key="OrichalciteJewelry_GroupName" rel_version="Seasonal_Server_2">Orichalcite Jewelry</string>
 	<string key="RuneResinRecipes_GroupName" rel_version="Seasonal_Server_2">Runewood Resin Recipes</string>
 	<string key="RuneResinTrophies_GroupName" rel_version="Seasonal_Server_2">Runewood Resin Trophies</string>
+	<string key="PerkCharms_GroupName">Perk Charms</string>
+	<string key="CharmMats_GroupName">Perk Charm Materials</string>
+	<string key="OffensiveRefinementLow_GroupName">Offensive Perk Charm Refinement - Low Cost</string>
+	<string key="OffensiveRefinementHigh_GroupName">Offensive Perk Charm Refinement - High Cost</string>
+	<string key="DefensiveRefinementLow_GroupName">Defensive Perk Charm Refinement - Low Cost</string>
+	<string key="DefensiveRefinementHigh_GroupName">Defensive Perk Charm Refinement - High Cost</string>
+	<string key="SkillRefinementLow_GroupName">Skill Perk Charm Refinement - Low Cost</string>
+	<string key="SkillRefinementHigh_GroupName">Skill Perk Charm Refinement - High Cost</string>
+	<string key="CategoryData_PerkCharmFamily">Perk Charms and Dust</string>
+	<string key="CategoryData_PerkCharms">Perk Charms</string>
+	<string key="CategoryData_PerkCharmDust">Perk Charm Dust</string>
+	<string key="CategoryData_PerkCharmMats">Perk Charm Dust</string>
+	<string key="PerkCharmFamily_GroupName">Perk Charms and Dust</string>
+	<string key="PerkCharmDust_GroupName">Perk Charm Dust</string>
+	<string key="PerkCharmMats_GroupName">Perk Charm Dust</string>
+	<string key="SocketedGear_GroupName">Socketed Gear</string>
+	<string key="DunwoodLandT1_GroupName">Unhallowed Flora</string>
+	<string key="DunwoodLandT2_GroupName">Unhallowed Flora</string>
+	<string key="DunwoodLandT3_GroupName">Unhallowed Flora</string>
+	<string key="DunwoodLand_GroupName">Unhallowed Flora</string>
+	<string key="DunwoodBeastT1_GroupName">Unhallowed Fauna</string>
+	<string key="DunwoodBeastT2_GroupName">Unhallowed Fauna</string>
+	<string key="DunwoodBeastT3_GroupName">Unhallowed Fauna</string>
+	<string key="DunwoodBeast_GroupName">Unhallowed Fauna</string>
+	<string key="CategoryData_ApparelSkin">Apparel Skin</string>
+	<string key="CategoryData_MountSkin">Mount Skin</string>
 </resources>
 

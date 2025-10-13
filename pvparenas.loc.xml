@@ -15,7 +15,7 @@
 	<string key="ui_pvparenas_title_join" rel_version="Feature_PVP_Arenas">Join 3v3 Arenas</string>
 	<string key="ui_pvparenas_title" rel_version="Feature_PVP_Arenas">3v3 Arenas</string>
 	<string key="ui_pvparenas_description" rel_version="Feature_PVP_Arenas">Be the last team standing for a chance at unique rewards!</string>
-	<string key="ui_pvparenas_description_gearscore" rel_version="Feature_PVP_Arenas">Be the last team standing for a chance at unique rewards!\nFor Level 60+ players, &lt;font color="#edc63e"&gt;Gear Score Scaling&lt;/font&gt; increases the gear score of all equipment below 700 to 700.</string>
+	<string key="ui_pvparenas_description_gearscore" rel_version="Feature_PVP_Arenas">Be the last team standing for a chance at unique rewards!\nFor Level 60+ players, &lt;font color="#edc63e"&gt;Gear Score Scaling&lt;/font&gt; increases the gear score of all equipment below 775 to 775.</string>
 	<string key="ui_pvparenas_signup_goal1" rel_version="Feature_PVP_Arenas">Win 3 rounds to win the match</string>
 	<string key="ui_pvparenas_signup_goal2" rel_version="Feature_PVP_Arenas">When time is up, fire will engulf the Arena</string>
 	<string key="ui_pvparenas_signup_goal3" rel_version="Feature_PVP_Arenas">As the round progresses, healing is reduced</string>

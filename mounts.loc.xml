@@ -78,13 +78,17 @@
 	<string key="ui_mount_type_horse" rel_version="Feature_Mounts">Horse</string>
 	<string key="ui_mount_type_sabretooth" rel_version="Feature_Mounts">Lion</string>
 	<string key="ui_mount_type_direwolf" rel_version="Feature_Mounts">Dire Wolf</string>
+	<string key="ui_mount_type_canines" rel_version="Feature_Mounts">Canines</string>
 	<string key="ui_mount_type_bear" rel_version="Feature_Mounts_Bear">Bear</string>
 	<string key="ui_mount_type_turkey" rel_version="Feature_Mounts_Turkey">Other</string>
+	<string key="ui_mount_type_grunt" rel_version="Feature_Mounts_Grunt">Grunt</string>
+	<string key="ui_mount_type_fox" rel_version="Feature_Mounts_Grunt">Fox</string>
 	<string key="ui_mounts_default_horse_name" rel_version="Feature_Mounts">Default_Horse</string>
 	<string key="ui_mounts_default_sabretooth_name" rel_version="Feature_Mounts">Default_Sabretooth</string>
 	<string key="ui_mounts_default_direwolf" rel_version="Feature_Mounts">Default_DireWolf</string>
 	<string key="ui_mounts_default_bear" rel_version="Feature_Mounts_Bear">Default_Bear</string>
 	<string key="ui_mounts_default_turkey" rel_version="Feature_Mounts_Turkey">Default_Turkey</string>
+	<string key="ui_mounts_default_grunt" rel_version="Feature_Mounts_Grunt">Default_Grunt</string>
 	<string key="ui_mounts_horse_entitlement_test_name" rel_version="Feature_Mounts">Horse_Entitlement_Test</string>
 	<string key="ui_mounts_sabretooth_achievement_test_name" rel_version="Feature_Mounts">Sabretooth_Achievement_Test</string>
 	<string key="ui_mounts_test_name" rel_version="Feature_Mounts">Test Mount</string>
@@ -145,9 +149,11 @@
 	<string key="ui_mounts_bear_description" rel_version="Feature_Mounts_Bear">Humphrey is a big, grumpy powerhouse of an animal; utterly protective to those he loves./</string>
 	<string key="ui_mounts_unlock_horse_message" rel_version="Feature_Mounts">Horse Shop</string>
 	<string key="ui_mounts_unlock_wolf_message" rel_version="Feature_Mounts">Dire Wolf Shop</string>
+	<string key="ui_mounts_unlock_fox_message" rel_version="Feature_Mounts_Grunt">Fox Shop</string>
 	<string key="ui_mounts_unlock_lion_message" rel_version="Feature_Mounts">Lion Shop</string>
 	<string key="ui_mounts_unlock_bear_message" rel_version="Feature_Mounts_Bear">Bear Shop</string>
 	<string key="ui_mounts_unlock_turkey_message" rel_version="Feature_Mounts_Turkey">Turkey Shop</string>
+	<string key="ui_mounts_unlock_grunt_message" rel_version="Feature_Mounts_Grunt">Grunt Shop</string>
 	<string key="ui_mounts_unlock_tradeskill_message" rel_version="Feature_Mounts">Riding Trade Skill</string>
 	<string key="ui_mounts_unlock_worlddrop_message" rel_version="Feature_Mounts">World Drop</string>
 	<string key="ui_mounts_unlock_mutator_message" rel_version="Feature_Mounts">Mutated Expedition</string>
@@ -156,9 +162,11 @@
 	<string key="ui_mounts_unlock_quest_end_message" rel_version="Feature_Mounts">Mount Quest</string>
 	<string key="ui_mounts_owned_horse_message" rel_version="Feature_Mounts">Horse</string>
 	<string key="ui_mounts_owned_wolf_message" rel_version="Feature_Mounts">Dire Wolf</string>
+	<string key="ui_mounts_owned_fox_message" rel_version="Feature_Mounts_Grunt">Fox</string>
 	<string key="ui_mounts_owned_lion_message" rel_version="Feature_Mounts">Lion</string>
 	<string key="ui_mounts_owned_bear_message" rel_version="Feature_Mounts_Bear">Bear</string>
 	<string key="ui_mounts_owned_turkey_message" rel_version="Feature_Mounts_Turkey">Turkey</string>
+	<string key="ui_mounts_owned_grunt_message" rel_version="Feature_Mounts_Grunt">Grunt</string>
 	<string key="ui_mounts_test_expansion_name" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Rise of the Angry Earth</string>
 	<string key="ui_mounts_test_expansion_description" comment="DO NOT TRANSLATE" rel_version="Feature_Mounts">Release: {releaseName}</string>
 	<string key="ui_mounts_summon_mount" rel_version="Feature_Mounts">Summon</string>
@@ -210,7 +218,7 @@
 	<string key="ui_mounts_MTX_9_lion_name" rel_version="Entitlements_Valkyrie">Skörungr</string>
 	<string key="ui_mounts_MTX_9_bear_name" rel_version="Entitlements_Valkyrie">Minerva</string>
 	<string key="ui_mounts_MTX_10_wolf_name" rel_version="Feature_Mounts_Bear">Azoth Stalker</string>
-	<string key="ui_mounts_MTX_bear_hippo_name" rel_version="Season_6_Perm" comment="This is a homophonic pun, made to sound like 'hyperbole' which means 'not to be taken seriously'.">Hippo Burley</string>
+	<string key="ui_mounts_MTX_bear_hippo_name" comment="This is a homophonic pun, made to sound like 'hyperbole' which means 'not to be taken seriously'." rel_version="Season_6_Perm">Hippo Burley</string>
 	<string key="ui_mounts_horse_description_7" rel_version="Season_4_Perm">Felix wears his horned helm proudly. It boasts his might and majesty.</string>
 	<string key="ui_mounts_wolf_description_7" rel_version="Season_4_Perm">Smokey's stealth poise earnt him much acclaim. Enemies do not see him coming.</string>
 	<string key="ui_mounts_lion_description_7" rel_version="Season_4_Perm">Alacer's boundless energy defies laws of nature. Sleep is for the weak.</string>
@@ -229,7 +237,7 @@
 	<string key="ui_mounts_wolf_description_9" rel_version="Entitlements_Valkyrie">Loyal without compare and would even follow you into the afterlife.</string>
 	<string key="ui_mounts_lion_description_9" rel_version="Feature_Mounts_Bear">A proud beast that carries both himself and his partner with the dignity of a king.</string>
 	<string key="ui_mounts_wolf_description_10" rel_version="Feature_Mounts_Bear">Azoth Stalker is a cunning pack leader. Fearless, savvy and iron-willed by nature, these qualities has overseen their rise to the top.</string>
-	<string key="ui_mounts_bear_hippo_description" rel_version="Season_6_Perm" comment="This is a pun, using 'barely' to represent that actual bear part of the mount.">Wow, a real hippo! I can bearly believe we found one in just under 1,000 days.</string>
+	<string key="ui_mounts_bear_hippo_description" comment="This is a pun, using 'barely' to represent that actual bear part of the mount." rel_version="Season_6_Perm">Wow, a real hippo! I can bearly believe we found one in just under 1,000 days.</string>
 	<string key="ui_mounts_horse_name_1" rel_version="Feature_Mounts">Mighty Gregorious</string>
 	<string key="ui_mounts_horse_name_1a" rel_version="Feature_Mounts">Mighty Gregorious (FREE)</string>
 	<string key="ui_mount_horse_name_2" rel_version="Feature_Mounts">Moonshadow</string>
@@ -319,7 +327,23 @@
 	<string key="ui_mounts_bear_Panda_description" rel_version="Season_7_Perm">No matter how big she grows, she always loves to cuddle. And eat bamboo.</string>
 	<string key="ui_mounts_MTX_1_turkey_name" rel_version="Feature_Mounts_Turkey">Drumstick</string>
 	<string key="ui_mounts_MTX_1_turkey_description" rel_version="Feature_Mounts_Turkey">A turkey for riding, not eating.\n\nNOTE: This mount cannot be dyed, and it does not display attachments.</string>
+	<string key="ui_mounts_MTX_1_grunt_name" rel_version="Feature_Mounts_Grunt">Screech</string>
+	<string key="ui_mounts_MTX_1_grunt_description" rel_version="Feature_Mounts_Grunt">The Upyr Grunt is a fearsome beast of war.</string>
 	<string key="Mount_Horse_Gothic_11_Name" rel_version="Season_8_Perm">Abigail</string>
 	<string key="Mount_Horse_Gothic_11_Description" rel_version="Season_8_Perm">A horse with a penchant for drama.</string>
+	<string key="ui_mounts_MTX_1_fox_name" rel_version="Season_10_Perm">Foxy</string>
+	<string key="ui_mounts_MTX_1_fox_description" rel_version="Season_10_Perm">A cunning mount to outfox your enemies.</string>
+	<string key="ui_mounts_MTX_2_fox_name" rel_version="Season_10_Perm">Snow</string>
+	<string key="ui_mounts_MTX_2_fox_description" rel_version="Season_10_Perm">A stunning mount from the fridged mountians of Aeternum.</string>
+	<string key="ui_mounts_MTX_2_turkey_name" rel_version="Season_10_Perm">Moonlight</string>
+	<string key="ui_mounts_MTX_2_turkey_description" rel_version="Season_10_Perm">The spirit of last Thanksgiving.\n\nNOTE: This mount cannot be dyed, and it does not display attachments.</string>
+	<string key="ui_mounts_MTX_2_grunt_name" rel_version="Feature_Mounts_Grunt">Blood</string>
+	<string key="ui_mounts_MTX_2_grunt_description" rel_version="Feature_Mounts_Grunt">This Beast is sustained by the blood of it's enemies.</string>
+	<string key="ui_mounts_MTX_lion_CosmicPanther" rel_version="Season_10_Perm">Nebula</string>
+	<string key="ui_mounts_MTX_lion_CosmicPanther_description" rel_version="Season_10_Perm">By the heavens! She's full of stars!.</string>
+	<string key="ui_mounts_MTX_1_Ghosthorse_name" rel_version="Season_10_Perm">Chloros</string>
+	<string key="ui_mounts_Ghosthorse_description" rel_version="Season_10_Perm">Chloros obeys only Death... and those marked for it.</string>
+	<string key="ui_mounts_MTX_3_grunt_name" rel_version="Feature_Mounts_Grunt">Charnel</string>
+	<string key="ui_mounts_MTX_3_grunt_description" rel_version="Feature_Mounts_Grunt">Fear is just an appetizer for this fearsome creature.</string>
 </resources>
 

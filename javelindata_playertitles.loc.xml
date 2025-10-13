@@ -1697,5 +1697,37 @@
 	<string key="ui_playertitle_hercynetime_top1_description" rel_version="Season_8_Perm">Earned by placing top 10 on the Hive of Gorgons Clear Time Leaderboard</string>
 	<string key="ui_playertitle_hercynetime_top10" rel_version="Season_8_Perm">Hive of Gorgons Speed Medalist</string>
 	<string key="ui_playertitle_hercynetime_top10_description" rel_version="Season_8_Perm">Earned by placing top 50 on the Hive of Gorgons Clear Time Leaderboard</string>
+	<string key="ui_playertitle_Season10_battlepass" rel_version="Season_10_Perm">The Impaler</string>
+	<string key="ui_playertitle_Season10_battlepass_SHE" rel_version="Season_10_Perm">The Impaler</string>
+	<string key="ui_playertitle_Season10_battlepass_THEY" rel_version="Season_10_Perm">The Impaler</string>
+	<string key="ui_playertitle_Season10_battlepass_description" rel_version="Season_10_Perm">Earned in the free track for the Season 10 Season Pass.</string>
+	<string key="ui_playertitle_Season10_journeychallenge1" rel_version="Season_10_Perm">Dungeon Keeper</string>
+	<string key="ui_playertitle_Season10_journeychallenge1_SHE" rel_version="Season_10_Perm">Dungeon Keeper</string>
+	<string key="ui_playertitle_Season10_journeychallenge1_THEY" rel_version="Season_10_Perm">Dungeon Keeper</string>
+	<string key="ui_playertitle_Season10_journeychallenge1_description" rel_version="Season_10_Perm">Earned by completing the Season 10 Challenge: Dungeon Keeper</string>
+	<string key="ui_playertitle_Season10_journeychallenge2" rel_version="Season_10_Perm">Catacombs Champion</string>
+	<string key="ui_playertitle_Season10_journeychallenge2_SHE" rel_version="Season_10_Perm">Catacombs Champion</string>
+	<string key="ui_playertitle_Season10_journeychallenge2_THEY" rel_version="Season_10_Perm">Catacombs Champion</string>
+	<string key="ui_playertitle_Season10_journeychallenge2_description" rel_version="Season_10_Perm">Earned by completing the Season 10 Challenge: Catacombs Champion</string>
+	<string key="ui_playertitle_Season10_journeychallenge3" rel_version="Season_10_Perm">Nighthaven Completionist</string>
+	<string key="ui_playertitle_Season10_journeychallenge3_SHE" rel_version="Season_10_Perm">Nighthaven Completionist</string>
+	<string key="ui_playertitle_Season10_journeychallenge3_THEY" rel_version="Season_10_Perm">Nighthaven Completionist</string>
+	<string key="ui_playertitle_Season10_journeychallenge3_description" rel_version="Season_10_Perm">Earned by completing the Season 10 Challenge: Nighthaven Completionist</string>
+	<string key="ui_playertitle_Season10_journeychallenge4" rel_version="Season_10_Perm">Castle Mania</string>
+	<string key="ui_playertitle_Season10_journeychallenge4_SHE" rel_version="Season_10_Perm">Castle Mania</string>
+	<string key="ui_playertitle_Season10_journeychallenge4_THEY" rel_version="Season_10_Perm">Castle Mania</string>
+	<string key="ui_playertitle_Season10_journeychallenge4_description" rel_version="Season_10_Perm">Earned by completing the Season 10 Challenge: Castle Mania</string>
+	<string key="ui_playertitle_Season10_journeychallenge5" rel_version="Season_10_Perm">Brow Beater</string>
+	<string key="ui_playertitle_Season10_journeychallenge5_SHE" rel_version="Season_10_Perm">Brow Beater</string>
+	<string key="ui_playertitle_Season10_journeychallenge5_THEY" rel_version="Season_10_Perm">Brow Beater</string>
+	<string key="ui_playertitle_Season10_journeychallenge5_description" rel_version="Season_10_Perm">Earned by completing the Season 10 Challenge: Brow Beater</string>
+	<string key="ui_playertitle_Season10journey" rel_version="Season_10_Perm">Geistbuster</string>
+	<string key="ui_playertitle_Season10journey_SHE" rel_version="Season_10_Perm">Geistbuster</string>
+	<string key="ui_playertitle_Season10journey_THEY" rel_version="Season_10_Perm">Geistbuster</string>
+	<string key="ui_playertitle_Season10journey_description" rel_version="Season_10_Perm">Earned for completing Chapter 4 of the Season 10 Season Journey</string>
+	<string key="ui_PlayerTitle_IoNRaidFirstClear" rel_version="Season_10_Perm">Night's Nemesis</string>
+	<string key="ui_PlayerTitle_IoNRaidFirstClear_SHE" rel_version="Season_10_Perm">Night's Nemesis</string>
+	<string key="ui_PlayerTitle_IoNRaidFirstClear_THEY" rel_version="Season_10_Perm">Night's Nemesis</string>
+	<string key="ui_PlayerTitle_IoNRaidFirstClear_description" rel_version="Season_10_Perm">Earned for being among the first to topple Thorpe from his throne upon the Isle of Night.</string>
 </resources>
 

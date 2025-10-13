@@ -247,7 +247,7 @@
 	<string key="ui_perk_selector_any_perk">Any Perk</string>
 	<string key="ui_perk_selector_any_perk_description">Any perk usable by this item</string>
 	<string key="ui_perk_selector_any_gem">Any Gem</string>
-	<string key="ui_perk_selector_any_gem_description">An empty gem socket</string>
+	<string key="ui_perk_selector_any_gem_description">An empty gem slot</string>
 	<string key="ui_perk_selector_logic_modifier_any_perks">Any Selected Perks</string>
 	<string key="ui_perk_selector_logic_modifier_any_perks_description">Any item that has one or more of the selected perks.</string>
 	<string key="ui_perk_selector_logic_modifier_all_perks">Only Selected Perks</string>

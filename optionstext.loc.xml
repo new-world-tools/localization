@@ -639,6 +639,7 @@
 	<string key="ui_hud_edit_desc">Move and adjust individual parts of the HUD. Custom layout only.</string>
 	<string key="ui_hud_reset">Reset HUD</string>
 	<string key="ui_hud_reset_desc">Set all HUD components to match the default layout. Custom layout only.</string>
+	<string key="ui_hud_reset_confirmation">Are you sure you want to reset all HUD components in the current layout to match the default layout?</string>
 	<string key="ui_width">Width</string>
 	<string key="ui_height">Height</string>
 	<string key="ui_rotation">Rotation</string>

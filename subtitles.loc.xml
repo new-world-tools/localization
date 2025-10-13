@@ -1,4 +1,4 @@
-<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<resources>
 	<string key="cutscene_line1">FATHER RUSSO: The stories you've heard... they don't tell the whole truth.</string>
 	<string key="cutscene_line2">The island is indeed the place of legend.</string>
 	<string key="cutscene_line3">There is power, and vast riches as well.</string>
@@ -398,5 +398,71 @@
 	<string key="Intro1_cutscene_line7" rel_version="Quest_Console_Release">Captain Thorpe: If you’re wrong, the price of the voyage will be paid in blood. Yours and those vagabonds you’ve brought along.</string>
 	<string key="Intro1_cutscene_line8" rel_version="Quest_Console_Release">Father Russo: They merely seek adventure, Captain.</string>
 	<string key="Intro1_cutscene_line9" rel_version="Quest_Console_Release">Father Russo: The island calls to those who forge their own destiny.</string>
+	<string key="Varlaam_Werewolf_Invader_Bark01" comment="Enc_WorldEvent_VarlaamDevice.slice" speaker="Varlaam Werewolf Invader" rel_version="Territory_Dunwood">The device must not be started!</string>
+	<string key="Varlaam_Werewolf_Invader_Bark02" comment="Enc_WorldEvent_VarlaamDevice.slice" speaker="Varlaam Werewolf Invader" rel_version="Territory_Dunwood">Stop now!! (Angry snarling)</string>
+	<string key="Varlaam_Werewolf_Named_Bark01" comment="Werewolf_Varlaam_Named_00.slice" speaker="Branik Grimstride" rel_version="Territory_Dunwood">(Angry snarling) Your plans end here!</string>
+	<string key="Varlaam_Werewolf_Named_Bark02" comment="Werewolf_Varlaam_Named_00.slice" speaker="Branik Grimstride" rel_version="Territory_Dunwood">I'm too strong for you! (Gutteral laughter)</string>
+	<string key="Varlaam_Werewolf_Named_Bark03" comment="Werewolf_Varlaam_Named_00.slice" speaker="Branik Grimstride" rel_version="Territory_Dunwood">(Furious snarling)</string>
+	<string key="Upyr_Mindthief_Named_Bark01" comment="Upyr_Carmilla_Named_00.slice" speaker="Vayla Schenk" rel_version="Territory_Dunwood">The floor does not recognize you.</string>
+	<string key="Upyr_Mindthief_Named_Bark02" comment="Upyr_Carmilla_Named_00.slice" speaker="Vayla Schenk" rel_version="Territory_Dunwood">This session is closed!</string>
+	<string key="Upyr_Mindthief_Named_Bark03" comment="Upyr_Carmilla_Named_00.slice" speaker="Vayla Schenk" rel_version="Territory_Dunwood">Guards, purge the hall of this intruder!</string>
+	<string key="Upyr_Mindthief_Named_Bark04" comment="Upyr_Carmilla_Named_00.slice" speaker="Vayla Schenk" rel_version="Territory_Dunwood">Debate me if you can find the real one!</string>
+	<string key="Upyr_Mindthief_Named_Bark05" comment="Upyr_Carmilla_Named_00.slice" speaker="Vayla Schenk" rel_version="Territory_Dunwood">The citizens vote... guilty!</string>
+	<string key="Upyr_Mindthief_Named_Bark06" comment="Upyr_Carmilla_Named_00.slice" speaker="Vayla Schenk" rel_version="Territory_Dunwood">No second chances! No appeals!</string>
+	<string key="Upyr_Mindthief_Named_Bark07" comment="Upyr_Carmilla_Named_00.slice" speaker="Vayla Schenk" rel_version="Territory_Dunwood">Your suffering will balance the budget.</string>
+	<string key="Upyr_Baroness_Named_Bark01" comment="Upyr_Dracul_Baroness_Named_00.slice" speaker="Baroness Mircea" rel_version="Territory_Dunwood">Welcome, darlings... step lightly, the carpets are still damp from our last guests.</string>
+	<string key="Upyr_Baroness_Named_Bark02" comment="Upyr_Dracul_Baroness_Named_00.slice" speaker="Baroness Mircea" rel_version="Territory_Dunwood">Rise, my glassy-eyed suitors and dance them ragged1</string>
+	<string key="Upyr_Baroness_Named_Bark03" comment="Upyr_Dracul_Baroness_Named_00.slice" speaker="Baroness Mircea" rel_version="Territory_Dunwood">The pleasantries fade, let us feed straight from the source.</string>
+	<string key="Upyr_Baroness_Named_Bark04" comment="Upyr_Dracul_Baroness_Named_00.slice" speaker="Baroness Mircea" rel_version="Territory_Dunwood">Etiquette is dead, now only the intruder matters.</string>
+	<string key="Upyr_Baroness_Named_Bark05" comment="Upyr_Dracul_Baroness_Named_00.slice" speaker="Baroness Mircea" rel_version="Territory_Dunwood">A toast... to your... resilience... (chokes)</string>
+	<string key="Upyr_Shade_Named_Bark01" comment="Upyr_Shade_MemoraSingur_Named_00.slice" speaker="Velatrix Avernath" rel_version="Territory_Dunwood">Every step you take erases a page of who you were...</string>
+	<string key="Upyr_Shade_Named_Bark02" comment="Upyr_Shade_MemoraSingur_Named_00.slice" speaker="Velatrix Avernath" rel_version="Territory_Dunwood">Ink your screams upon my pages!</string>
+	<string key="Upyr_Shade_Named_Bark03" comment="Upyr_Shade_MemoraSingur_Named_00.slice" speaker="Velatrix Avernath" rel_version="Territory_Dunwood">Your memories taste... promising. Let me sample further!</string>
+	<string key="Upyr_Shade_Named_Bark04" comment="Upyr_Shade_MemoraSingur_Named_00.slice" speaker="Velatrix Avernath" rel_version="Territory_Dunwood">I'll shelve that courage for later.</string>
+	<string key="Upyr_Shade_Named_Bark05" comment="Upyr_Shade_MemoraSingur_Named_00.slice" speaker="Velatrix Avernath" rel_version="Territory_Dunwood">Names, faces, lifetimes... ALL OF IT, mine to ingest!</string>
+	<string key="Upyr_Shade_Named_Bark06" comment="Upyr_Shade_MemoraSingur_Named_00.slice" speaker="Velatrix Avernath" rel_version="Territory_Dunwood">No... my catalogue... scattered... to dust.</string>
+	<string key="DW_Underworld_Door_Oneway_Locked" rel_version="Territory_Dunwood">The gate cannot be opened from this side.</string>
+	<string key="DW_Underworld_Door_Achievement_Locked" rel_version="Territory_Dunwood">The gate needs to be unlocked from somewhere else.</string>
+	<string key="DW_Underworld_Door_Achievement_Unlocked" rel_version="Territory_Dunwood">A gate is unlocked somewhere.</string>
+	<string key="Asena_SoulTrial_01_Intro" speaker="Lady Asena" comment="Werewolf_Lord.slice" VO_Status="Needs Recording" rel_version="Territory_Dunwood">This island will be ours! Stop them! Do not let them near the machine!</string>
+	<string key="Asena_SoulTrial_01_Phase1End" speaker="Lady Asena" comment="Werewolf_Lord.slice" VO_Status="Needs Recording" rel_version="Territory_Dunwood">The shield will stay down!</string>
+	<string key="Asena_SoulTrial_01_Boss" speaker="Lady Asena" comment="Werewolf_Lord.slice" VO_Status="Needs Recording" rel_version="Territory_Dunwood">I will rend you to pieces!</string>
+	<string key="Asena_SoulTrial_01_CallMinions" speaker="Lady Asena" comment="Werewolf_Lord.slice" VO_Status="Needs Recording" rel_version="Territory_Dunwood">To me, Berlaur! Feast on their bones!</string>
+	<string key="Asena_SoulTrial_01_AttackDevice" speaker="Lady Asena" comment="Werewolf_Lord.slice" VO_Status="Needs Recording" rel_version="Territory_Dunwood">NO! Destroy that machine now!</string>
+	<string key="Asena_SoulTrial_01_FinalPhase" speaker="Lady Asena" comment="Werewolf_Lord.slice" VO_Status="Needs Recording" rel_version="Territory_Dunwood">Fall back, this fight is over…</string>
+	<string key="Asena_SoulTrial_01_Outro" speaker="Lady Asena" comment="Werewolf_Lord.slice" VO_Status="Needs Recording" rel_version="Territory_Dunwood">You've made an enemy this day, mortal! We'll meet again!</string>
+	<string key="Asena_SoulTrial_02_Intro" speaker="Lady Asena" comment="Werewolf_Lord_Pt2.slice" VO_Status="Needs Recording" rel_version="Territory_Dunwood">I've been waiting for this! I will end you right here!</string>
+	<string key="Asena_SoulTrial_02_Channel" speaker="Lady Asena" comment="Werewolf_Lord_Pt2.slice" VO_Status="Needs Recording" rel_version="Territory_Dunwood">Give me the strength of the Wilds!</string>
+	<string key="Asena_SoulTrial_02_Boss" speaker="Lady Asena" comment="Werewolf_Lord_Pt2.slice" VO_Status="Needs Recording" rel_version="Territory_Dunwood">GREEAAHHHH!! Feel my true strength, mortal!</string>
+	<string key="Asena_SoulTrial_02_Minions" speaker="Lady Asena" comment="Werewolf_Lord_Pt2.slice" VO_Status="Needs Recording" rel_version="Territory_Dunwood">Tear this intruder apart!</string>
+	<string key="Asena_SoulTrial_02_TearStolen" speaker="Lady Asena" comment="Werewolf_Lord_Pt2.slice" VO_Status="Needs Recording" rel_version="Territory_Dunwood">The Tear! No!! NOOOO!</string>
+	<string key="Asena_SoulTrial_02_Collapse" speaker="Lady Asena" comment="Werewolf_Lord_Pt2.slice" VO_Status="Needs Recording" rel_version="Territory_Dunwood">NO! YOU WILL PAY FOR THIS! DEVOUR THE SOULWARDEN!</string>
+	<string key="Asena_SoulTrial_02_Defeat" speaker="Lady Asena" comment="Werewolf_Lord_Pt2.slice" VO_Status="Needs Recording" rel_version="Territory_Dunwood">We will hunt you... forever... for this…</string>
+	<string key="bark_SoulTrial_Alecksi_Post_IGC_Intro_01" speaker="Alecksi" comment="Trial_Quest_Dracula_Boss_Alecksi.slice" VO_Status="Recorded" rel_version="Territory_Dunwood">I shall make you regret ever setting foot in Nighthaven!</string>
+	<string key="bark_SoulTrial_Alecksi_Ability_Banish_FirstTime_01" speaker="Alecksi" comment="Trial_Quest_Dracula_Boss_Alecksi.slice" VO_Status="Recorded" rel_version="Territory_Dunwood">You think to challenge me, Soulwarden? With the slightest effort, I shall banish you from this realm evermore!</string>
+	<string key="bark_SoulTrial_Alecksi_Ability_Banish_01" speaker="Alecksi" comment="Trial_Quest_Dracula_Boss_Alecksi.slice" VO_Status="Recorded" rel_version="Territory_Dunwood">Begone, Soulwarden! Begone and never return!</string>
+	<string key="bark_SoulTrial_Alecksi_Ability_Banish_02" speaker="Alecksi" comment="Trial_Quest_Dracula_Boss_Alecksi.slice" VO_Status="Recorded" rel_version="Territory_Dunwood">How dare you intrude upon the dreams of my beloved!</string>
+	<string key="bark_SoulTrial_Alecksi_Ability_Banish_Blocked_01" speaker="Alecksi" comment="Trial_Quest_Dracula_Boss_Alecksi.slice" VO_Status="Recorded" rel_version="Territory_Dunwood">Do what you will, daughter. It shall not change your fate!</string>
+	<string key="bark_SoulTrial_Alecksi_Ability_FangRush_01" speaker="Alecksi" comment="Trial_Quest_Dracula_Boss_Alecksi.slice" VO_Status="Recorded" rel_version="Territory_Dunwood">[wry chuckle]</string>
+	<string key="bark_SoulTrial_Alecksi_Ability_Starfall_FirstTime_01" speaker="Alecksi" comment="Trial_Quest_Dracula_Boss_Alecksi.slice" VO_Status="Recorded" rel_version="Territory_Dunwood">Even the stars bend to my will! What hope have you to stand against me?!</string>
+	<string key="bark_SoulTrial_Alecksi_Ability_Starfall_01" speaker="Alecksi" comment="Trial_Quest_Dracula_Boss_Alecksi.slice" VO_Status="Recorded" rel_version="Territory_Dunwood">The night shall fall upon you!</string>
+	<string key="bark_SoulTrial_Alecksi_Destroy_TearOfGaea_01" speaker="Alecksi" comment="Trial_Quest_Dracula_Boss_Alecksi.slice" VO_Status="Recorded" rel_version="Territory_Dunwood">So be it! A-ha!</string>
+	<string key="bark_SoulTrial_Alecksi_Destroy_TearOfGaea_02" speaker="Alecksi" comment="Trial_Quest_Dracula_Boss_Alecksi.slice" VO_Status="Recorded" rel_version="Territory_Dunwood">Even if it takes an eternity, I shall have my way!</string>
+	<string key="bark_SoulTrial_Alecksi_Ability_Empowered_01" speaker="Alecksi" comment="Trial_Quest_Dracula_Boss_Alecksi.slice" VO_Status="Recorded" rel_version="Territory_Dunwood">[chuckling laughter]</string>
+	<string key="bark_SoulTrial_Alecksi_SummoningShadow_Cecilia_01" speaker="Alecksi" comment="Trial_Quest_Dracula_Boss_Alecksi.slice" VO_Status="Recorded" rel_version="Territory_Dunwood">Cecilia!  If only you could see yourself for what you truly are, there would be none in Aeternum who could stand against you!</string>
+	<string key="bark_SoulTrial_Alecksi_SummoningShadow_Adds_01" speaker="Alecksi" comment="Trial_Quest_Dracula_Boss_Alecksi.slice" VO_Status="Recorded" rel_version="Territory_Dunwood">My daughter, why do you resist  your fate? You could bring your mother back!</string>
+	<string key="bark_SoulTrial_Alecksi_Ensnare_Successful_01" speaker="Alecksi" comment="Trial_Quest_Dracula_Boss_Alecksi.slice" VO_Status="Recorded" rel_version="Territory_Dunwood">Lilith?! Why do you aid them?!</string>
+	<string key="bark_SoulTrial_Cecilia_Spawn_01" speaker="Cecilia" comment="Trial_Quest_Dracula_Cecilia.slice" VO_Status="Recorded" rel_version="Territory_Dunwood">Father, stop this!</string>
+	<string key="bark_SoulTrial_Cecilia_Ability_ArcaneShield_FirstTime_01" speaker="Cecilia" comment="Trial_Quest_Dracula_Cecilia.slice" VO_Status="Recorded" rel_version="Territory_Dunwood">To me, Soulwarden! I'll protect us!</string>
+	<string key="bark_SoulTrial_Cecilia_Ability_ArcaneShield_01" speaker="Cecilia" comment="Trial_Quest_Dracula_Cecilia.slice" VO_Status="Recorded" rel_version="Territory_Dunwood">To me! Hurry!</string>
+	<string key="bark_SoulTrial_Cecilia_Ability_ArcaneShield_02" speaker="Cecilia" comment="Trial_Quest_Dracula_Cecilia.slice" VO_Status="Recorded" rel_version="Territory_Dunwood">Over here! Quickly now!</string>
+	<string key="bark_SoulTrial_Cecilia_Ability_ArcaneShield_Broken_FirstTime_01" speaker="Cecilia" comment="Trial_Quest_Dracula_Cecilia.slice" VO_Status="Recorded" rel_version="Territory_Dunwood">It will take me some time to focus. Do what you can to hold him off!</string>
+	<string key="bark_SoulTrial_Cecilia_Defending_Against_Shadow_Cecilia_01" speaker="Cecilia" comment="Trial_Quest_Dracula_Cecilia.slice" VO_Status="Recorded" rel_version="Territory_Dunwood">Help me, Soulwarden! I cannot hold her off on my own!</string>
+	<string key="bark_SoulTrial_Cecilia_Defeated_By_Shadow_Cecilia_01" speaker="Cecilia" comment="Trial_Quest_Dracula_Cecilia.slice" VO_Status="Recorded" rel_version="Territory_Dunwood">No! I...</string>
+	<string key="bark_SoulTrial_Cecilia_Ability_Consume_01" speaker="Cecilia" comment="Trial_Quest_Dracula_Cecilia.slice" VO_Status="Recorded" rel_version="Territory_Dunwood">Father... how can you? Why...?!</string>
+	<string key="bark_SoulTrial_Cecilia_Ability_Consume_End_01" speaker="Cecilia" comment="Trial_Quest_Dracula_Cecilia.slice" VO_Status="Recorded" rel_version="Territory_Dunwood">[exertion, pained]</string>
+	<string key="bark_SoulTrial_Lillith_Ability_Ensnare_FirstTime_01" speaker="Lillith" comment="Trial_Quest_Dracula_Lillith.slice" VO_Status="Recorded" rel_version="Territory_Dunwood">Let me guide your sight, Soulwarden. See that which is hidden and you may still overcome him!</string>
+	<string key="bark_SoulTrial_Lillith_First_Ensnare_Successful_01" speaker="Lillith" comment="Trial_Quest_Dracula_Lillith.slice" VO_Status="Recorded" rel_version="Territory_Dunwood">You forget the ground upon which you stand, 'Warrior King'. There can be no atonement for what you have done!</string>
+	<string key="npc_NPC_18040_State_1_DefaultDialogue_2" speaker="Morgaine" comment="enc_morgaine.slice" VO_Status="Recorded" rel_version="Territory_Dunwood">The Tear of Gaia... I can feel it's power.</string>
 </resources>
 

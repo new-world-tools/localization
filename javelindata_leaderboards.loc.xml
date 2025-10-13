@@ -183,12 +183,14 @@
 	<string key="ui_leaderboard_column_assists" rel_version="Season_7_Perm">Assists</string>
 	<string key="ui_leaderboard_display_kda" rel_version="Season_7_Perm">Kill/Death/Assist Ratio</string>
 	<string key="ui_leaderboard_tip_kda" rel_version="Season_7_Perm">Kill/Death/Assist Ratio is calculated by adding kills and assists then dividing by deaths.</string>
+	<string key="ui_leaderboard_column_flag_bearers_killed" rel_version="Season_10_Perm">Flag Bearers Killed</string>
 	<string key="ui_leaderboard_display_capture_the_flag_wins" rel_version="Gamemode_CTF">Wins</string>
 	<string key="ui_leaderboard_display_capture_the_flag_score" rel_version="Gamemode_CTF">Score</string>
 	<string key="ui_leaderboard_display_capture_the_flag_points" rel_version="Gamemode_CTF">Flag Points</string>
 	<string key="ui_leaderboard_display_capture_the_flag_returns" rel_version="Gamemode_CTF">Returns</string>
 	<string key="ui_leaderboard_display_capture_the_flag_kills" rel_version="Gamemode_CTF">Kills</string>
 	<string key="ui_leaderboard_display_capture_the_flag_best_kills" rel_version="Gamemode_CTF">Best Kills</string>
+	<string key="ui_leaderboard_display_capture_the_flag_flag_bearers_killed" rel_version="Season_10_Perm">Flag Bearers Killed</string>
 	<string key="ui_leaderboard_display_capture_the_flag_assists" rel_version="Gamemode_CTF">Assists</string>
 	<string key="ui_leaderboard_display_capture_the_flag_heals" rel_version="Gamemode_CTF">Heals</string>
 	<string key="ui_leaderboard_display_capture_the_flag_damage_dealt" rel_version="Gamemode_CTF">Damage Dealt</string>

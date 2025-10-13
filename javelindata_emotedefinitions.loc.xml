@@ -153,7 +153,7 @@
 	<string key="ui_emote_Apologize_description">Please forgive me.</string>
 	<string key="ui_emote_Thumbs_Sideways_description">"I choose neither."</string>
 	<string key="ui_emote_Thumbs_Up_description">"Affirmative."</string>
-	<string key="ui_emote_Thumbs_Down_description">"Negative."</string>
+	<string key="ui_emote_Thumbs_Down_description">Man, that bad huh?</string>
 	<string key="ui_emote_High_Five_description">Up high!</string>
 	<string key="ui_emote_Slow_Clap_description">Clap but with dramatic timing.</string>
 	<string key="ui_emote_Laugh_1_description">That's a knee-slapper!</string>
@@ -621,6 +621,9 @@
 	<string key="ui_Emote_Walk_MyrkMarch_name" rel_version="Season_8_Perm">Myrkgard March</string>
 	<string key="ui_Emote_Walk_MyrkMarch_description" rel_version="Season_8_Perm">Legends say Thorpe taught this strange maneuver to only his finest warriors.</string>
 	<string key="Emote_Walk_MyrkMarch" rel_version="Season_8_Perm">{playerName} marches to a bizzare rhythm.</string>
+	<string key="ui_Emote_GleamiteMining_name" rel_version="Season_10_Perm">Gleamite Mining</string>
+	<string key="ui_Emote_GleamiteMining_description" rel_version="Season_10_Perm">Glittering gleamite, trinkets and baubles...</string>
+	<string key="Emote_GleamiteMining" rel_version="Season_10_Perm">{playerName} has struck gleamite!</string>
 	<string key="ui_Emote_Walk_NinjaRun_name" rel_version="Season_8_Perm">Ninja Run</string>
 	<string key="ui_Emote_Walk_NinjaRun_description" rel_version="Season_8_Perm">Run with the shadows, swift as the wind.</string>
 	<string key="Emote_Walk_NinjaRun" rel_version="Season_8_Perm">{playerName} runs like a ninja!</string>

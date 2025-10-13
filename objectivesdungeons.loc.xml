@@ -486,6 +486,14 @@
 	<string key="quest_isabella_task_winged" rel_version="Quest_MSQ3_Shattered_V2">Stop Isabella before her corruption spreads</string>
 	<string key="quest_isabella_task_timer" rel_version="Quest_MSQ3_Shattered_V2">Corruption consumes you in :</string>
 	<string key="quest_isabella_task_exit" rel_version="Quest_MSQ3_Shattered_V2">Wake Up</string>
+	<string key="quest_varlaam_title" rel_version="Territory_Dunwood">Invasion on Varlaam</string>
+	<string key="quest_varlaam_description" rel_version="Territory_Dunwood">The Berlaur are attempting to destroy the Lunar Shield Device! Defend it to protect the island from their attacks!</string>
+	<string key="quest_varlaam_approach" rel_version="Territory_Dunwood">Enter the chamber</string>
+	<string key="quest_varlaam_firstwave" rel_version="Territory_Dunwood">Defeat the First Wave and Repair the Device</string>
+	<string key="quest_varlaam_fight" rel_version="Territory_Dunwood">Survive against Lady Asena's invasion \n(Hint: use any power-ups you can see)</string>
+	<string key="quest_varlaam_fight_hint" rel_version="Territory_Dunwood">(Hint: use any power-ups available)</string>
+	<string key="quest_varlaam_timer" rel_version="Territory_Dunwood">Defend the Ancient Device :</string>
+	<string key="quest_varlaam_leave" rel_version="Territory_Dunwood">Exit the Chamber</string>
 	<string key="trial_season_04_q05_title" rel_version="Season_4_Perm">The Winter Rune Forge</string>
 	<string key="trial_season_04_q05_description" rel_version="Season_4_Perm">Descend into the ancient Rune Forge and claim victory over its guardians.</string>
 	<string key="trial_season_04_title" rel_version="Season_4_Perm">The Winter Rune Forge</string>
@@ -548,6 +556,8 @@
 	<string key="raid_cutlasskeys00_ch03_boss" rel_version="Raid_CutlassKeys_00">Defeat Broodmother Medusa</string>
 	<string key="raid_cutlasskeys00_ch03_victory_celebration" rel_version="Raid_CutlassKeys_00">Exit the Hive of Gorgons</string>
 	<string key="raid_cutlasskeys00_raid_complete" rel_version="Raid_CutlassKeys_00">Exit the Hive of Gorgons</string>
+	<string key="Raid_MonarchsBluffs00_title" rel_version="Raid_MonarchsBluffs_00">Isle of Night</string>
+	<string key="raid_MonarchsBluffs00_description" rel_version="Raid_MonarchsBluffs_00">Commander Thorpe returns, threatening Aeternum with a powerful relic hidden on an island shrouded in mists.</string>
 	<string key="trial_runeforgeraid_leave" rel_version="Season_4_Perm">Exit the Runeforge</string>
 	<string key="quest_medea_title" rel_version="ConsoleLaunch">The Path of Thorns</string>
 	<string key="quest_medea_description" rel_version="ConsoleLaunch">Medea cannot be reasoned with. Enter the grove and confront her.</string>
@@ -555,7 +565,39 @@
 	<string key="quest_medea_task_boss" rel_version="ConsoleLaunch">Defeat Medea</string>
 	<string key="quest_medea_task_place" rel_version="ConsoleLaunch">Place the Verdant Gemstone</string>
 	<string key="quest_medae_task_leave" rel_version="ConsoleLaunch">Leave Thornhall</string>
+	<string key="quest_wolf_title" rel_version="Territory_Dunwood">The Wolf's Den</string>
+	<string key="quest_wolf_description" rel_version="Territory_Dunwood">Face Asena once more and recover the Tear of Gaea before it can be used to make the Berlaur unstoppable.</string>
+	<string key="quest_wolf_task_approach" rel_version="Territory_Dunwood">Step into the arena</string>
+	<string key="quest_wolf_task_boss" rel_version="Territory_Dunwood">Defeat Lady Asena</string>
+	<string key="quest_wolf_task_leave" rel_version="Territory_Dunwood">Leave the den</string>
+	<string key="quest_morgaine_title" rel_version="Territory_Dunwood">Feral Morgaine</string>
+	<string key="quest_Morgaine_description" rel_version="Territory_Dunwood">Morgaine has taken far too many steps towards becoming an Upyr and must be stopped before she loses herself completely.</string>
+	<string key="quest_Morgaine_task_approach" rel_version="Territory_Dunwood">Step into the arena</string>
+	<string key="quest_Morgaine_task_boss" rel_version="Territory_Dunwood">Defeat Morgaine</string>
+	<string key="quest_Morgaine_task_leave" rel_version="Territory_Dunwood">Leave the arena</string>
 	<string key="dailysolotrials_generic_exit" rel_version="ConsoleLaunch">Exit the Soul Trial</string>
+	<string key="raid_MonarchsBluffs00_ch01_entry" rel_version="Raid_MonarchsBluffs_00">Explore the Island of Ys</string>
+	<string key="raid_MonarchsBluffs00_ch01_taunt" rel_version="Raid_MonarchsBluffs_00">Approach the mocking Jester</string>
+	<string key="raid_MonarchsBluffs00_ch01_ambush" rel_version="Raid_MonarchsBluffs_00">Defeat the creatures to open the gate</string>
+	<string key="raid_MonarchsBluffs00_ch01_find" rel_version="Raid_MonarchsBluffs_00">Explore further into the village</string>
+	<string key="raid_MonarchsBluffs00_ch01_elite" rel_version="Raid_MonarchsBluffs_00">Defeat the Durned Abomination</string>
+	<string key="raid_MonarchsBluffs00_ch01_boss1" rel_version="Raid_MonarchsBluffs_00">Defeat Ys Twin Jesters</string>
+	<string key="raid_MonarchsBluffs00_ch01_boss1_Interlude" rel_version="Raid_MonarchsBluffs_00">Find and interrupt the real Jesters</string>
+	<string key="raid_MonarchsBluffs00_ch01_boss1_GrandFinale" rel_version="Raid_MonarchsBluffs_00">Find and defeat the Jesters</string>
+	<string key="raid_MonarchsBluffs00_ch02_push" rel_version="Raid_MonarchsBluffs_00">Push forward toward the castle</string>
+	<string key="raid_MonarchsBluffs00_ch02_figurepuzzle" rel_version="Raid_MonarchsBluffs_00">Explore the Stronghold and find the four weapon relics</string>
+	<string key="raid_MonarchsBluffs00_ch02_solvepuzzle" rel_version="Raid_MonarchsBluffs_00">Return the weapon relics to their statues and protect them</string>
+	<string key="raid_MonarchsBluffs00_ch02_bridge" rel_version="Raid_MonarchsBluffs_00">Enter Ys castle</string>
+	<string key="raid_MonarchsBluffs00_ch02_castle" rel_version="Raid_MonarchsBluffs_00">Find the Throne Room inside the castle</string>
+	<string key="raid_MonarchsBluffs00_ch02_elite" rel_version="Raid_MonarchsBluffs_00">Defeat the Condemned Palatine Guards protecting the Throne Room</string>
+	<string key="raid_MonarchsBluffs00_ch02_boss2" rel_version="Raid_MonarchsBluffs_00">Defeat Dahut and her Palatine Guards</string>
+	<string key="raid_MonarchsBluffs00_ch02_boss2_Sacrifice" rel_version="Raid_MonarchsBluffs_00">Interrupt the Palatine Guards</string>
+	<string key="raid_MonarchsBluffs00_ch02_explore" rel_version="Raid_MonarchsBluffs_00">Venture into the mist</string>
+	<string key="raid_MonarchsBluffs00_ch03_chapel" rel_version="Raid_MonarchsBluffs_00">Defeat the creatures to gain access to the Ruined Chapel</string>
+	<string key="raid_MonarchsBluffs00_ch03_elite" rel_version="Raid_MonarchsBluffs_00">Defeat the Ill-Fated Nagas</string>
+	<string key="raid_MonarchsBluffs00_ch03_tower" rel_version="Raid_MonarchsBluffs_00">Find a way to the top of the Great Tower</string>
+	<string key="raid_MonarchsBluffs00_ch03_boss3" rel_version="Raid_MonarchsBluffs_00">Defeat Overlord Thorpe</string>
+	<string key="raid_MonarchsBluffs00_ch01_victory" rel_version="Raid_MonarchsBluffs_00">Leave the Island of Ys</string>
 	<string key="raid_cutlasskeys00_ch02_entry" rel_version="Raid_CutlassKeys_00">Approach the baths</string>
 	<string key="raid_cutlasskeys00_ch02_corridor" rel_version="Raid_CutlassKeys_00">Defeat the enemies blocking your path</string>
 	<string key="raid_cutlasskeys00_ch02_chamber01" rel_version="Raid_CutlassKeys_00">Clear the hercyne to continue</string>
@@ -564,6 +606,13 @@
 	<string key="raid_cutlasskeys00_ch02_labyrinth" rel_version="Raid_CutlassKeys_00">Activate all the Fountains</string>
 	<string key="raid_cutlasskeys00_ch02_boss" rel_version="Raid_CutlassKeys_00">Find and defeat Typhon</string>
 	<string key="raid_cutlasskeys00_ch02_exit" rel_version="Raid_CutlassKeys_00">Proceed to the next area</string>
+	<string key="raid_MonarchsBluffs00_ch01_entercenter" rel_version="Raid_MonarchsBluffs_00">Enter the village center</string>
+	<string key="raid_MonarchsBluffs00_ch02_enterthrone" rel_version="Raid_MonarchsBluffs_00">Enter the Throne Room</string>
+	<string key="raid_MonarchsBluffs00_ch03_entertower" rel_version="Raid_MonarchsBluffs_00">Enter the eye of the storm</string>
+	<string key="raid_MonarchsBluffs00_ch01_shard1" rel_version="Raid_MonarchsBluffs_00">Inspect the mysterious shard</string>
+	<string key="raid_MonarchsBluffs00_ch01_shard2" rel_version="Raid_MonarchsBluffs_00">Listen to Myrddin's memories</string>
+	<string key="raid_MonarchsBluffs00_ch02_shard3" rel_version="Raid_MonarchsBluffs_00">Listen to Myrddin's memories</string>
+	<string key="raid_MonarchsBluffs00_ch03_shard4" rel_version="Raid_MonarchsBluffs_00">Listen to Myrddin's memories</string>
 	<string key="dungeon_dunwood02_title" rel_version="Expedition_Dunwood_02">The Lighthouse</string>
 	<string key="dungeon_dunwood02_description" rel_version="Expedition_Dunwood_02">TBD</string>
 	<string key="dungeon_dunwood02_task_explore_entry" rel_version="Expedition_Dunwood_02">TBD</string>
@@ -584,5 +633,31 @@
 	<string key="dungeon_dunwood02_task_defeat_final_boss" rel_version="Expedition_Dunwood_02">TBD</string>
 	<string key="dungeon_dunwood02_task_victory_cutscene" rel_version="Expedition_Dunwood_02">TBD</string>
 	<string key="dungeon_dunwood02_task_dungeon_complete" rel_version="Expedition_Dunwood_02">TBD</string>
+	<string key="dungeon_catacombs_title" rel_version="Feature_Catacombs">Catacombs</string>
+	<string key="dungeon_catacombs_description" rel_version="Feature_Catacombs">Delve into an ever-changing labyrinth of the Underword to scavenge for long-abandoned treasures. Harness immense power through Aspects and Ascendencies. \nBe weary - All paths are hidden, resurrection is finite, and your time is limited. Every wound erodes your body; every boss you slay feeds into the horrors ahead.</string>
+	<string key="dungeon_catacombs_task_enter" rel_version="Feature_Catacombs">Prepare to explore the Catacombs</string>
+	<string key="dungeon_catacombs_task_start" rel_version="Feature_Catacombs">Explore the catacombs and escape with its treasures</string>
+	<string key="dungeon_catacombs_task_extract" rel_version="Feature_Catacombs">Survive and reach the extraction portal to escape the Catacombs</string>
+	<string key="dungeon_catacombs_task_complete" rel_version="Feature_Catacombs">Leave the catacombs</string>
+	<string key="dungeon_catacombs_encounter_hazard_title" rel_version="Feature_Catacombs">Trial of Challengers</string>
+	<string key="dungeon_catacombs_encounter_hazard_title_description" rel_version="Feature_Catacombs">Complete the trial</string>
+	<string key="dungeon_catacombs_encounter_hazard_objective_title" rel_version="Feature_Catacombs">Complete the trial</string>
+	<string key="dungeon_catacombs_encounter_hazard_objective_01" rel_version="Feature_Catacombs">Activate the trial</string>
+	<string key="dungeon_catacombs_encounter_hazard_objective_02" rel_version="Feature_Catacombs">Time remaining:</string>
+	<string key="ui_catacombs_extraction_encounter" rel_version="Feature_Catacombs">Extraction</string>
+	<string key="ui_catacombs_extraction_encounter_description" rel_version="Feature_Catacombs">Activate the extraction portal and escape the Catacombs</string>
+	<string key="ui_catacombs_extraction_encounter_wave01_title" rel_version="Feature_Catacombs">Start Extraction</string>
+	<string key="ui_catacombs_extraction_encounter_wave01_description" rel_version="Feature_Catacombs">Initiate the extraction portal</string>
+	<string key="ui_catacombs_extraction_encounter_wave02_title" rel_version="Feature_Catacombs">Survive</string>
+	<string key="ui_catacombs_extraction_encounter_wave02_description" rel_version="Feature_Catacombs">Time until the portal opens</string>
+	<string key="ui_catacombs_extraction_encounter_wave03_title" rel_version="Feature_Catacombs">Escape!</string>
+	<string key="ui_catacombs_extraction_encounter_wave03_description" rel_version="Feature_Catacombs">Reach for the portal</string>
+	<string key="quest_dracula_title" rel_version="Territory_Dunwood">Lilith's Dream</string>
+	<string key="quest_dracula_description" rel_version="Territory_Dunwood">Alecksi must be stopped before he can wield the Tear of Gaea to return Lilith to life and reshape the future of Aeternum.</string>
+	<string key="quest_dracula_task_approach" rel_version="Territory_Dunwood">Enter the ruined courtyard and confront Alecksi</string>
+	<string key="quest_dracula_task_boss" rel_version="Territory_Dunwood">Defeat Alecksi the Dracul</string>
+	<string key="quest_dracula_task_leave" rel_version="Territory_Dunwood">Awaken from the dream</string>
+	<string key="quest_seraphim_title" rel_version="Territory_Dunwood">Remnants of the Fallen</string>
+	<string key="quest_seraphim_description" rel_version="Territory_Dunwood">The Seraphim of the Inquisition have long since cast aside the last traces of their humanity. Each of their infernal flames must be snuffed until nothing remains, not even a wisp of smoke.</string>
 </resources>
 

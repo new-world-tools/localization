@@ -1,0 +1,276 @@
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="NPC_28000_name" rel_version="Territory_Dunwood">Angel Statue</string>
+	<string key="NPC_28000_title" rel_version="Territory_Dunwood">Sepulcral Monument</string>
+	<string key="NPC_28001_name" rel_version="Territory_Dunwood">Lightshield Crusader</string>
+	<string key="NPC_28001_title" rel_version="Territory_Dunwood">Order of Thrones</string>
+	<string key="NPC_28002_name" rel_version="Territory_Dunwood">Lightshield Crusader</string>
+	<string key="NPC_28002_title" rel_version="Territory_Dunwood">Order of Thrones</string>
+	<string key="NPC_28003_State_1_Topic_0_playerPrompt" rel_version="Territory_Dunwood">I&apos;ve felt this power before...</string>
+	<string key="NPC_28003_name" rel_version="Territory_Dunwood">Cursed Reliquary</string>
+	<string key="NPC_28003_title" rel_version="Territory_Dunwood">Strange Object</string>
+	<string key="NPC_28004_name" rel_version="Territory_Dunwood">The Voice</string>
+	<string key="NPC_28004_title" rel_version="Territory_Dunwood">Corrupted Prisoner</string>
+	<string key="NPC_28005_name" rel_version="Territory_Dunwood"/>
+	<string key="NPC_28005_title" rel_version="Territory_Dunwood"/>
+	<string key="NPC_28006_name" rel_version="Territory_Dunwood">The Blind Seraph</string>
+	<string key="NPC_28006_title" rel_version="Territory_Dunwood">The Inquisition</string>
+	<string key="NPC_28007_name" rel_version="Territory_Dunwood">The Mute Seraph</string>
+	<string key="NPC_28007_title" rel_version="Territory_Dunwood">The Inquisition</string>
+	<string key="NPC_28008_name" rel_version="Territory_Dunwood">The Breathless Seraph</string>
+	<string key="NPC_28008_title" rel_version="Territory_Dunwood">The Inquisition</string>
+	<string key="NPC_28009_name" rel_version="Territory_Dunwood">The Heartless Seraph</string>
+	<string key="NPC_28009_title" rel_version="Territory_Dunwood">The Inquisition</string>
+	<string key="NPC_28010_name" rel_version="Territory_Dunwood">Rikkar</string>
+	<string key="NPC_28010_title" rel_version="Territory_Dunwood">Catacombs Explorer</string>
+	<string key="NPC_28015_name" rel_version="Territory_Dunwood">Lightshield Reliquary</string>
+	<string key="NPC_28015_title" rel_version="Territory_Dunwood">Sanctified Object</string>
+	<string key="NPC_28018_name" rel_version="Territory_Dunwood">Dupert Fisker</string>
+	<string key="NPC_28018_title" rel_version="Territory_Dunwood">Carnival Innkeep</string>
+	<string key="Quest_18026_Task_10_Description" rel_version="Territory_Dunwood">Discuss Nighthaven&apos;s future with Cecilia in the chapel</string>
+	<string key="Quest_18026_Task_11_Description" rel_version="Territory_Dunwood">Discuss Nighthaven&apos;s future with Cecilia in the chapel</string>
+	<string key="Quest_18026_Task_12_Description" rel_version="Territory_Dunwood">Discuss Nighthaven&apos;s future with Cecilia in the chapel</string>
+	<string key="Quest_18026_Task_15_Description" rel_version="Territory_Dunwood">Discuss Nighthaven&apos;s future with Cecilia in the chapel</string>
+	<string key="Quest_18026_Task_4_Description" rel_version="Territory_Dunwood">Discuss Nighthaven&apos;s future with Cecilia in the chapel</string>
+	<string key="Quest_18026_Task_5_Description" rel_version="Territory_Dunwood">Discuss Nighthaven&apos;s future with Cecilia in the chapel</string>
+	<string key="Quest_18026_Task_6_Description" rel_version="Territory_Dunwood">Discuss Nighthaven&apos;s future with Cecilia in the chapel</string>
+	<string key="Quest_18026_Task_7_Description" rel_version="Territory_Dunwood">Discuss Nighthaven&apos;s future with Cecilia in the chapel</string>
+	<string key="Quest_18026_Task_8_Description" rel_version="Territory_Dunwood">Discuss Nighthaven&apos;s future with Cecilia in the chapel</string>
+	<string key="Quest_18026_Task_9_Description" rel_version="Territory_Dunwood">Discuss Nighthaven&apos;s future with Cecilia in the chapel</string>
+	<string key="Quest_28001_Task_10_Description" rel_version="Territory_Dunwood">IGC WATCHED</string>
+	<string key="Quest_28001_Task_10_Description_0" rel_version="Territory_Dunwood">Listen to Corruption Whisper</string>
+	<string key="Quest_28001_Task_11_Description" rel_version="Territory_Dunwood">IGC Container</string>
+	<string key="Quest_28001_Task_11_Description_0" rel_version="Territory_Dunwood">Unlock lore 5</string>
+	<string key="Quest_28001_Task_12_Description" rel_version="Territory_Dunwood">Watch in your ImAgInAtIoN~</string>
+	<string key="Quest_28001_Task_12_Description_0" rel_version="Territory_Dunwood">Destroy the Corrupted Infestation in the Catacombs</string>
+	<string key="Quest_28001_Task_13_Description" rel_version="Territory_Dunwood">Temp Partial until POI exists</string>
+	<string key="Quest_28001_Task_13_Description_0" rel_version="Territory_Dunwood">Explore the Forbidden Chamber</string>
+	<string key="Quest_28001_Task_14_Description" rel_version="Territory_Dunwood">Go to Catacombs</string>
+	<string key="Quest_28001_Task_1_Description" rel_version="Territory_Dunwood">Go to Adaru Sepulture Catacombs</string>
+	<string key="Quest_28001_Task_1_Description_0" rel_version="Territory_Dunwood">Cross the seal&apos;s threshold into the Corrupted Catacombs</string>
+	<string key="Quest_28001_Task_2_Description" rel_version="Territory_Dunwood">Go to Monastery Isle</string>
+	<string key="Quest_28001_Task_2_Description_0" rel_version="Territory_Dunwood">Breach the seal into the Corrupted Catacombs</string>
+	<string key="Quest_28001_Task_2_Description_1" rel_version="Territory_Dunwood">Watched IGC</string>
+	<string key="Quest_28001_Task_2_TargetTag" rel_version="Territory_Dunwood"/>
+	<string key="Quest_28001_Task_3_Description" rel_version="Territory_Dunwood">Defeat the Corrupted</string>
+	<string key="Quest_28001_Task_3_Description_0" rel_version="Territory_Dunwood">Crusader swap in</string>
+	<string key="Quest_28001_Task_4_Description" rel_version="Territory_Dunwood">Solve the Forbidden Vault Puzzle</string>
+	<string key="Quest_28001_Task_4_Description_0" rel_version="Territory_Dunwood">Explore the Forbidden Chamber and inspect the Strange Reliquary</string>
+	<string key="Quest_28001_Task_4_TargetTag" rel_version="Territory_Dunwood"/>
+	<string key="Quest_28001_Task_5_Description" rel_version="Territory_Dunwood">Touch the Strange Reliquary</string>
+	<string key="Quest_28001_Task_5_Description_0" rel_version="Territory_Dunwood">Failsafe if player skips kill step</string>
+	<string key="Quest_28001_Task_5_TargetTag" rel_version="Territory_Dunwood"/>
+	<string key="Quest_28001_Task_6_Description" rel_version="Territory_Dunwood">Get the Temp Recipe</string>
+	<string key="Quest_28001_Task_6_Description_0" rel_version="Territory_Dunwood">Inspect the Strange Reliquary</string>
+	<string key="Quest_28001_Task_6_TargetTag" rel_version="Territory_Dunwood"/>
+	<string key="Quest_28001_Task_7_Description" rel_version="Territory_Dunwood">IGC PRELOAD</string>
+	<string key="Quest_28001_Task_8_Description" rel_version="Territory_Dunwood">IGC START</string>
+	<string key="Quest_28001_Task_9_Description" rel_version="Territory_Dunwood">PLAYING TEMP IGC</string>
+	<string key="Quest_28001_Task_9_Description_0" rel_version="Territory_Dunwood">Unlock Lore Note 1</string>
+	<string key="Quest_28001_Task_9_Description_1" rel_version="Territory_Dunwood">Listen to Corruption Whisper</string>
+	<string key="Quest_28001_description" rel_version="Territory_Dunwood" speaker="UI - Quest Description">Whispers of Corruption emanate from the depths of the catacombs. Is this a new, rising horror in Nighthaven? Or an old adversary stirring in darkling resurrection?</string>
+	<string key="Quest_28001_title" rel_version="Territory_Dunwood" speaker="UI - Quest Title">The Seventh Seal</string>
+	<string key="Quest_28002_Task_11_Description" rel_version="Territory_Dunwood">Retrieve the First Seraph&apos;s Eye</string>
+	<string key="Quest_28002_Task_11_TargetTag" rel_version="Territory_Dunwood"/>
+	<string key="Quest_28002_Task_13_Description" rel_version="Territory_Dunwood">Get Corrupted Silk x4</string>
+	<string key="Quest_28002_Task_15_Description" rel_version="Territory_Dunwood">Kindle the First Seraph&apos;s Brazier to blazing</string>
+	<string key="Quest_28002_Task_16_Description" rel_version="Territory_Dunwood">Defeat the First Seraph</string>
+	<string key="Quest_28002_Task_17_Description" rel_version="Territory_Dunwood">Enter the First Seraph&apos;s Soul Trial</string>
+	<string key="Quest_28002_Task_18_Description" rel_version="Territory_Dunwood">Enter the First Seraph&apos;s Soul Trial</string>
+	<string key="Quest_28002_Task_18_Description_0" rel_version="Territory_Dunwood">Defeat the First Seraph</string>
+	<string key="Quest_28002_Task_18_Description_1" rel_version="Territory_Dunwood">Failsafe if player skips a trail</string>
+	<string key="Quest_28002_Task_18_TargetTag" rel_version="Territory_Dunwood">TV_17_IQ_01_SoulTrial</string>
+	<string key="Quest_28002_Task_1_Description" rel_version="Territory_Dunwood">Go to Silkfoot Crag</string>
+	<string key="Quest_28002_Task_20_Description" rel_version="Territory_Dunwood">Talk to Lightshield Crusader about the summoning</string>
+	<string key="Quest_28002_Task_22_Description" rel_version="Territory_Dunwood">Listen to Corruption Whisper</string>
+	<string key="Quest_28002_Task_23_Description" rel_version="Territory_Dunwood">Track the gathering silk</string>
+	<string key="Quest_28002_Task_23_Description_0" rel_version="Territory_Dunwood">The failsafe ending</string>
+	<string key="Quest_28002_Task_24_Description" rel_version="Territory_Dunwood">SILK TRACK</string>
+	<string key="Quest_28002_Task_24_Description_0" rel_version="Territory_Dunwood">Follow the trail of Corruption</string>
+	<string key="Quest_28002_Task_25_Description" rel_version="Territory_Dunwood">DESTROY EGG TRACK</string>
+	<string key="Quest_28002_Task_25_Description_0" rel_version="Territory_Dunwood">Follow the trail of Corruption</string>
+	<string key="Quest_28002_Task_27_Description" rel_version="Territory_Dunwood">Gather Corrupted Spider Silk</string>
+	<string key="Quest_28002_Task_27_Description_0" rel_version="Territory_Dunwood">Follow the trail of Corruption</string>
+	<string key="Quest_28002_Task_2_Description" rel_version="Territory_Dunwood">Go to Ashfall Watch</string>
+	<string key="Quest_28002_Task_3_Description" rel_version="Territory_Dunwood">Meet Lightshield Crusader at Monastery Isle</string>
+	<string key="Quest_28002_Task_4_Description" rel_version="Territory_Dunwood">Obtain the necessary reagent</string>
+	<string key="Quest_28002_Task_6_Description" rel_version="Territory_Dunwood">Obtain the Seraphic body part</string>
+	<string key="Quest_28002_Task_7_Description" rel_version="Territory_Dunwood">Destroy Corrupted Spider Eggs for Corrupted Silk</string>
+	<string key="Quest_28002_Task_7_TargetTag" rel_version="Territory_Dunwood"/>
+	<string key="Quest_28002_Task_8_Description" rel_version="Territory_Dunwood">Defeat the Corrupted</string>
+	<string key="Quest_28002_Task_8_Description_0" rel_version="Territory_Dunwood">Give Eye</string>
+	<string key="Quest_28002_Task_9_Description" rel_version="Territory_Dunwood">Destroy the Corrupted Portal powering the Blind Seraph</string>
+	<string key="Quest_28002_description" rel_version="Territory_Dunwood" speaker="UI - Quest Description">The Lightshield Crusader believes the Seraphim can be imprisoned by discovering the last trace of their physical remains. Now the First Seraph must be sought out, and destroyed.</string>
+	<string key="Quest_28002_title" rel_version="Territory_Dunwood" speaker="UI - Quest Title">The Blind Seraph</string>
+	<string key="Quest_28003_Task_10_Description" rel_version="Territory_Dunwood">Defeat Ghouls</string>
+	<string key="Quest_28003_Task_10_Description_0" rel_version="Territory_Dunwood">Give Key</string>
+	<string key="Quest_28003_Task_12_Description" rel_version="Territory_Dunwood">Defeat Ghouls for the required ingredients</string>
+	<string key="Quest_28003_Task_13_Description" rel_version="Territory_Dunwood">Gather Fetid Blood</string>
+	<string key="Quest_28003_Task_13_TargetTag" rel_version="Territory_Dunwood">Lost</string>
+	<string key="Quest_28003_Task_14_Description" rel_version="Territory_Dunwood">Open the Locked Cage</string>
+	<string key="Quest_28003_Task_14_Description_0" rel_version="Territory_Dunwood">Listen to Corruption Whisper</string>
+	<string key="Quest_28003_Task_14_TargetTag" rel_version="Territory_Dunwood"/>
+	<string key="Quest_28003_Task_15_Description" rel_version="Territory_Dunwood">Search for the Cage Key that Corruption spoke about</string>
+	<string key="Quest_28003_Task_15_TargetTag" rel_version="Territory_Dunwood"/>
+	<string key="Quest_28003_Task_16_Description" rel_version="Territory_Dunwood">Pick up the Cage Key</string>
+	<string key="Quest_28003_Task_16_Description_0" rel_version="Territory_Dunwood">Give Tongue</string>
+	<string key="Quest_28003_Task_16_TargetTag" rel_version="Territory_Dunwood"/>
+	<string key="Quest_28003_Task_17_Description" rel_version="Territory_Dunwood">Unlock the Torturer&apos;s Cage in the Sundered Tower</string>
+	<string key="Quest_28003_Task_17_TargetTag" rel_version="Territory_Dunwood"/>
+	<string key="Quest_28003_Task_18_Description" rel_version="Territory_Dunwood">Kindle the Second Seraph&apos;s Brazier to blazing</string>
+	<string key="Quest_28003_Task_18_TargetTag" rel_version="Territory_Dunwood"/>
+	<string key="Quest_28003_Task_19_Description" rel_version="Territory_Dunwood">Enter the Second Seraph&apos;s Soul Trial</string>
+	<string key="Quest_28003_Task_1_Description" rel_version="Territory_Dunwood">Go to Amurg Cimitir</string>
+	<string key="Quest_28003_Task_20_Description" rel_version="Territory_Dunwood">Defeat the Second Seraph</string>
+	<string key="Quest_28003_Task_21_Description" rel_version="Territory_Dunwood">Listen to Corruption Whisper</string>
+	<string key="Quest_28003_Task_22_Description" rel_version="Territory_Dunwood">Cage Key Partial</string>
+	<string key="Quest_28003_Task_23_Description" rel_version="Territory_Dunwood">Cage Key West</string>
+	<string key="Quest_28003_Task_24_Description" rel_version="Territory_Dunwood">Cage Key East</string>
+	<string key="Quest_28003_Task_25_Description" rel_version="Territory_Dunwood">Search for the Cage Key</string>
+	<string key="Quest_28003_Task_2_Description" rel_version="Territory_Dunwood">Go to Biteback Bivouac</string>
+	<string key="Quest_28003_Task_3_Description" rel_version="Territory_Dunwood">Go to Monastery Isle</string>
+	<string key="Quest_28003_Task_3_Description_0" rel_version="Territory_Dunwood">Retrieve the Second Seraph&apos;s Tongue</string>
+	<string key="Quest_28003_Task_3_TargetTag" rel_version="Territory_Dunwood"/>
+	<string key="Quest_28003_Task_5_Description" rel_version="Territory_Dunwood">Return to Monastery Isle to begin the next summoning</string>
+	<string key="Quest_28003_Task_6_Description" rel_version="Territory_Dunwood">Enter the Second Seraph&apos;s Soul Trial</string>
+	<string key="Quest_28003_Task_6_Description_0" rel_version="Territory_Dunwood">Pick up the Cage Key</string>
+	<string key="Quest_28003_Task_6_TargetTag" rel_version="Territory_Dunwood">TV_17_IQ_01_SoulTrial</string>
+	<string key="Quest_28003_Task_7_Description" rel_version="Territory_Dunwood">Obtain the necessary reagent</string>
+	<string key="Quest_28003_Task_8_Description" rel_version="Territory_Dunwood">Obtain the Seraphic body part</string>
+	<string key="Quest_28003_description" rel_version="Territory_Dunwood" speaker="UI - Quest Description">With the First Seraph finally destroyed, the rest must also be slain. The Lightshield Crusader gives the task of continuing the grisly, but necessary, work.</string>
+	<string key="Quest_28003_title" rel_version="Territory_Dunwood" speaker="UI - Quest Title">The Mute Seraph</string>
+	<string key="Quest_28004_Task_10_Description" rel_version="Territory_Dunwood">Destroy the Corrupted &quot;Prisoner&quot; for the Ashen Lump Reagent</string>
+	<string key="Quest_28004_Task_10_TargetTag" rel_version="Territory_Dunwood"/>
+	<string key="Quest_28004_Task_11_Description" rel_version="Territory_Dunwood">Release the Seraphic Body Part from Corruption</string>
+	<string key="Quest_28004_Task_11_TargetTag" rel_version="Territory_Dunwood"/>
+	<string key="Quest_28004_Task_12_Description" rel_version="Territory_Dunwood">Retrieve the Third Seraph&apos;s Lungs</string>
+	<string key="Quest_28004_Task_12_TargetTag" rel_version="Territory_Dunwood"/>
+	<string key="Quest_28004_Task_13_Description" rel_version="Territory_Dunwood">Enter the Third Seraph&apos;s Soul Trial</string>
+	<string key="Quest_28004_Task_13_Description_0" rel_version="Territory_Dunwood">TEMP TESTING</string>
+	<string key="Quest_28004_Task_13_TargetTag" rel_version="Territory_Dunwood">TV_17_IQ_01_SoulTrial</string>
+	<string key="Quest_28004_Task_14_Description" rel_version="Territory_Dunwood">Talk to the Corrupted Prisoner</string>
+	<string key="Quest_28004_Task_15_Description" rel_version="Territory_Dunwood">Obtain the Ashen Lump Reagent</string>
+	<string key="Quest_28004_Task_16_Description" rel_version="Territory_Dunwood">Unlock Lore 2</string>
+	<string key="Quest_28004_Task_16_Description_0" rel_version="Territory_Dunwood">Listen to Corruption Whisper</string>
+	<string key="Quest_28004_Task_17_Description" rel_version="Territory_Dunwood">Unlock Lore 3</string>
+	<string key="Quest_28004_Task_18_Description" rel_version="Territory_Dunwood">Unlock Lore 4</string>
+	<string key="Quest_28004_Task_19_Description" rel_version="Territory_Dunwood">Read about the Lightshield Crusade</string>
+	<string key="Quest_28004_Task_1_Description" rel_version="Territory_Dunwood">Go to Tularest Abbey and enter its library</string>
+	<string key="Quest_28004_Task_20_Description" rel_version="Territory_Dunwood">Read about the Corruption Innoculate</string>
+	<string key="Quest_28004_Task_21_Description" rel_version="Territory_Dunwood">Read about the Test Subject</string>
+	<string key="Quest_28004_Task_22_Description" rel_version="Territory_Dunwood">Defeat the Third Seraph</string>
+	<string key="Quest_28004_Task_23_Description" rel_version="Territory_Dunwood">Search Tularest Abbey for information on the Inquisition</string>
+	<string key="Quest_28004_Task_24_Description" rel_version="Territory_Dunwood">Unlock lore 1</string>
+	<string key="Quest_28004_Task_25_Description" rel_version="Territory_Dunwood">Unlock lore 2</string>
+	<string key="Quest_28004_Task_26_Description" rel_version="Territory_Dunwood">Unlock lore 3</string>
+	<string key="Quest_28004_Task_27_Description" rel_version="Territory_Dunwood">READ OLD SM</string>
+	<string key="Quest_28004_Task_2_Description" rel_version="Territory_Dunwood">Go to Mercy Redoubt to find the Corrupted Prisoner</string>
+	<string key="Quest_28004_Task_3_Description" rel_version="Territory_Dunwood">Return to Monastery Isle to prepare the next summoning</string>
+	<string key="Quest_28004_Task_4_Description" rel_version="Territory_Dunwood">Retrieve the Third Seraph&apos;s Lungs</string>
+	<string key="Quest_28004_Task_5_Description" rel_version="Territory_Dunwood">Read lovely lore notes (3)</string>
+	<string key="Quest_28004_Task_5_Description_0" rel_version="Territory_Dunwood">Listen to Corruption Whisper</string>
+	<string key="Quest_28004_Task_5_TargetTag" rel_version="Territory_Dunwood"/>
+	<string key="Quest_28004_Task_6_Description" rel_version="Territory_Dunwood">Enter the Corrupted Prisoner&apos;s Cell</string>
+	<string key="Quest_28004_Task_6_Description_0" rel_version="Territory_Dunwood">Give Lungs</string>
+	<string key="Quest_28004_Task_6_TargetTag" rel_version="Territory_Dunwood"/>
+	<string key="Quest_28004_Task_7_Description" rel_version="Territory_Dunwood">Kindle the Third Seraph&apos;s Brazier to blazing</string>
+	<string key="Quest_28004_Task_7_TargetTag" rel_version="Territory_Dunwood"/>
+	<string key="Quest_28004_Task_8_Description" rel_version="Territory_Dunwood">Enter the Third Seraph&apos;s Soul Trial</string>
+	<string key="Quest_28004_Task_9_Description" rel_version="Territory_Dunwood">Defeat the Third Seraph</string>
+	<string key="Quest_28004_description" rel_version="Territory_Dunwood" speaker="UI - Quest Description">A toll is being inflicted on the Lightshield Crusader from the destruction of the Seraphim. He is losing his connection to life and urges haste before he loses himself completely.</string>
+	<string key="Quest_28004_title" rel_version="Territory_Dunwood" speaker="UI - Quest Title">The Breathless Seraph</string>
+	<string key="Quest_28005_Task_10_Description" rel_version="Territory_Dunwood">Destroy the spreading Heart of Corruption</string>
+	<string key="Quest_28005_Task_10_TargetTag" rel_version="Territory_Dunwood"/>
+	<string key="Quest_28005_Task_11_Description" rel_version="Territory_Dunwood">Defeat the Corrupted Corpses</string>
+	<string key="Quest_28005_Task_12_Description" rel_version="Territory_Dunwood">Gather the Corrupted Gravedirt</string>
+	<string key="Quest_28005_Task_12_Description_0" rel_version="Territory_Dunwood">Failsafe if player skips a trail</string>
+	<string key="Quest_28005_Task_13_Description" rel_version="Territory_Dunwood">Kindle the Fourth Seraph&apos;s Brazier to blazing</string>
+	<string key="Quest_28005_Task_13_TargetTag" rel_version="Territory_Dunwood"/>
+	<string key="Quest_28005_Task_14_Description" rel_version="Territory_Dunwood">Enter the Fourth Seraph&apos;s Soul Trial</string>
+	<string key="Quest_28005_Task_15_Description" rel_version="Territory_Dunwood">Defeat the Fourth Seraph</string>
+	<string key="Quest_28005_Task_16_Description" rel_version="Territory_Dunwood">Retrieve the Fourth Seraph&apos;s Heart</string>
+	<string key="Quest_28005_Task_16_TargetTag" rel_version="Territory_Dunwood"/>
+	<string key="Quest_28005_Task_17_Description" rel_version="Territory_Dunwood">Enter the Fourth Seraph&apos;s Soul Trial</string>
+	<string key="Quest_28005_Task_17_Description_0" rel_version="Territory_Dunwood">Follow the trail of Corruption</string>
+	<string key="Quest_28005_Task_17_TargetTag" rel_version="Territory_Dunwood">TV_17_IQ_01_SoulTrial</string>
+	<string key="Quest_28005_Task_18_Description" rel_version="Territory_Dunwood">Listen to Corruption Whisper</string>
+	<string key="Quest_28005_Task_19_Description" rel_version="Territory_Dunwood">Listen to Corruption Whisper</string>
+	<string key="Quest_28005_Task_1_Description" rel_version="Territory_Dunwood">Go to Algarot Hall to acquire the final ingredients</string>
+	<string key="Quest_28005_Task_20_Description" rel_version="Territory_Dunwood">Listen to Corruption Whisper</string>
+	<string key="Quest_28005_Task_21_Description" rel_version="Territory_Dunwood">Follow the trail of Corruption</string>
+	<string key="Quest_28005_Task_22_Description" rel_version="Territory_Dunwood">Follow the trail of Corruption</string>
+	<string key="Quest_28005_Task_2_Description" rel_version="Territory_Dunwood">Return to Monastery Isle for the final summoning</string>
+	<string key="Quest_28005_Task_31_Description" rel_version="Territory_Dunwood">The failsafe ending</string>
+	<string key="Quest_28005_Task_3_Description" rel_version="Territory_Dunwood">Retrieve the Fourth Seraph&apos;s Heart</string>
+	<string key="Quest_28005_Task_5_Description" rel_version="Territory_Dunwood">Obtain the necessary reagent</string>
+	<string key="Quest_28005_Task_6_Description" rel_version="Territory_Dunwood">Defeat the Corrupted Inquisitors for ingredients</string>
+	<string key="Quest_28005_Task_7_Description" rel_version="Territory_Dunwood">Gather the Holy Salts from Corrupted Inquisitors</string>
+	<string key="Quest_28005_Task_7_TargetTag" rel_version="Territory_Dunwood"/>
+	<string key="Quest_28005_Task_8_Description" rel_version="Territory_Dunwood">Retrieve the Fourth Seraph&apos;s Heart</string>
+	<string key="Quest_28005_Task_8_Description_0" rel_version="Territory_Dunwood">Gather the Corrupted Gravedirt</string>
+	<string key="Quest_28005_Task_8_Description_1" rel_version="Territory_Dunwood">Give Heart</string>
+	<string key="Quest_28005_Task_8_TargetTag" rel_version="Territory_Dunwood"/>
+	<string key="Quest_28005_Task_9_Description" rel_version="Territory_Dunwood">Obtain the Seraphic body part</string>
+	<string key="Quest_28005_description" rel_version="Territory_Dunwood" speaker="UI - Quest Description">The final and most powerful Seraph is all that remains, but the whispers of Corruption are now crescendoing into an unfathomable and overwhelming force.</string>
+	<string key="Quest_28005_title" rel_version="Territory_Dunwood" speaker="UI - Quest Title">The Heartless Seraph</string>
+	<string key="Quest_28006_Task_10_Description" rel_version="Territory_Dunwood">Defend the Seraphic Torches</string>
+	<string key="Quest_28006_Task_10_Description_0" rel_version="Territory_Dunwood">The real quest steps</string>
+	<string key="Quest_28006_Task_11_Description" rel_version="Territory_Dunwood">Return to the Corrupted Catacombs</string>
+	<string key="Quest_28006_Task_11_TargetTag" rel_version="Territory_Dunwood"/>
+	<string key="Quest_28006_Task_12_Description" rel_version="Territory_Dunwood">Purge the Cursed Reliquary of Corruption</string>
+	<string key="Quest_28006_Task_12_TargetTag" rel_version="Territory_Dunwood"/>
+	<string key="Quest_28006_Task_13_Description" rel_version="Territory_Dunwood">Speak with the Lightshield Crusader</string>
+	<string key="Quest_28006_Task_14_Description" rel_version="Territory_Dunwood">Leave an offering to Lightshield Crusader</string>
+	<string key="Quest_28006_Task_14_TargetTag" rel_version="Territory_Dunwood"/>
+	<string key="Quest_28006_Task_15_Description" rel_version="Territory_Dunwood">Swap out Monastery Crusader</string>
+	<string key="Quest_28006_Task_16_Description" rel_version="Territory_Dunwood">Swap in Catacomb Crusader</string>
+	<string key="Quest_28006_Task_18_Description" rel_version="Territory_Dunwood">Unlock Lore 5</string>
+	<string key="Quest_28006_Task_18_Description_0" rel_version="Territory_Dunwood">Listen to Corruption Whisper</string>
+	<string key="Quest_28006_Task_19_Description" rel_version="Territory_Dunwood">Listen to Corruption Whisper</string>
+	<string key="Quest_28006_Task_1_Description" rel_version="Territory_Dunwood">Go to Peşteră Întunecată</string>
+	<string key="Quest_28006_Task_1_Description_0" rel_version="Territory_Dunwood">Making visible sky horror</string>
+	<string key="Quest_28006_Task_20_Description" rel_version="Territory_Dunwood">Listen to Corruption Whisper</string>
+	<string key="Quest_28006_Task_21_Description" rel_version="Territory_Dunwood">Listen to Corruption Whisper</string>
+	<string key="Quest_28006_Task_22_Description" rel_version="Territory_Dunwood">Unlock lore notes, including backup 5</string>
+	<string key="Quest_28006_Task_22_Description_0" rel_version="Territory_Dunwood">Return to the Forbidden Chamber</string>
+	<string key="Quest_28006_Task_23_Description" rel_version="Territory_Dunwood">Unlock lore 5</string>
+	<string key="Quest_28006_Task_23_Description_0" rel_version="Territory_Dunwood">Snuff the Seraphic Braziers to Release the Fallen</string>
+	<string key="Quest_28006_Task_24_0_Description" rel_version="Territory_Dunwood">Subvert the Ritual perverting the Corrupted Tree</string>
+	<string key="Quest_28006_Task_24_Description" rel_version="Territory_Dunwood">Unlock lore 4</string>
+	<string key="Quest_28006_Task_24_Description_0" rel_version="Territory_Dunwood">Cleanse the Corrupted Tree using your Azoth Staff</string>
+	<string key="Quest_28006_Task_25_Description" rel_version="Territory_Dunwood">First torch event</string>
+	<string key="Quest_28006_Task_25_Description_0" rel_version="Territory_Dunwood">Go to POI or Race</string>
+	<string key="Quest_28006_Task_26_Description" rel_version="Territory_Dunwood">Sky Horror 01 visible</string>
+	<string key="Quest_28006_Task_27_Description" rel_version="Territory_Dunwood">Second torch event</string>
+	<string key="Quest_28006_Task_27_Description_0" rel_version="Territory_Dunwood">(Optional) Complete the Inquisition Mount Race</string>
+	<string key="Quest_28006_Task_28_Description" rel_version="Territory_Dunwood">Catacombs return</string>
+	<string key="Quest_28006_Task_28_Description_0" rel_version="Territory_Dunwood">Fixing structure part 1</string>
+	<string key="Quest_28006_Task_29_Description" rel_version="Territory_Dunwood">Making visible sky horror</string>
+	<string key="Quest_28006_Task_2_Description" rel_version="Territory_Dunwood">Go to Ursa&apos;s Forge</string>
+	<string key="Quest_28006_Task_2_Description_0" rel_version="Territory_Dunwood">Making visible sky horror</string>
+	<string key="Quest_28006_Task_30_Description" rel_version="Territory_Dunwood">Sky Horrors visible</string>
+	<string key="Quest_28006_Task_31_Description" rel_version="Territory_Dunwood">The real quest steps</string>
+	<string key="Quest_28006_Task_32_Description" rel_version="Territory_Dunwood">Fixing structure part 2</string>
+	<string key="Quest_28006_Task_33_Description" rel_version="Territory_Dunwood">Fixing structure part 3</string>
+	<string key="Quest_28006_Task_35_Description" rel_version="Territory_Dunwood">Return to the Corrupted Catacombs</string>
+	<string key="Quest_28006_Task_3_Description" rel_version="Territory_Dunwood">Go to Adaru Sepulture Catacombs</string>
+	<string key="Quest_28006_Task_4_Description" rel_version="Territory_Dunwood">Summon the All-Seeing Font of Divine Wonder</string>
+	<string key="Quest_28006_Task_4_TargetTag" rel_version="Territory_Dunwood">IO_Quest_Placeholder_Interactable</string>
+	<string key="Quest_28006_Task_5_Description" rel_version="Territory_Dunwood">Ignite the Seraphic Torches to the Honor of Divinity</string>
+	<string key="Quest_28006_Task_5_TargetTag" rel_version="Territory_Dunwood"/>
+	<string key="Quest_28006_Task_6_Description" rel_version="Territory_Dunwood">Defend the Seraphic Torches</string>
+	<string key="Quest_28006_Task_6_Description_0" rel_version="Territory_Dunwood">Begin the Ritual of Corrupted Ascension</string>
+	<string key="Quest_28006_Task_7_Description" rel_version="Territory_Dunwood">Ignite the Seraphic Torches to the Blasphemy of Mortality</string>
+	<string key="Quest_28006_Task_7_TargetTag" rel_version="Territory_Dunwood"/>
+	<string key="Quest_28006_Task_8_Description" rel_version="Territory_Dunwood">Sky Horror 02 visible</string>
+	<string key="Quest_28006_Task_8_TargetTag" rel_version="Territory_Dunwood"/>
+	<string key="Quest_28006_Task_9_Description" rel_version="Territory_Dunwood">Defend the Seraphic Torches</string>
+	<string key="Quest_28006_Task_9_Description_0" rel_version="Territory_Dunwood">The real quest steps</string>
+	<string key="Quest_28006_description" rel_version="Territory_Dunwood" speaker="UI - Quest Description">With the Seraphim now defeated, it is time to save the Lightshield Crusader from his uncertain fate and purge the reliquary of Corruption.</string>
+	<string key="Quest_28006_title" rel_version="Territory_Dunwood" speaker="UI - Quest Title">Pilgrimage of Pain</string>
+	<string key="Quest_28007_Task_1_Description" rel_version="Territory_Dunwood">Something is calling out from the depths of the earth...</string>
+	<string key="Quest_28007_Task_2_Description" rel_version="Territory_Dunwood">Enter the catacombs and follow the sensation</string>
+	<string key="Quest_28007_Task_3_Description" rel_version="Territory_Dunwood">Find what is reaching out to you</string>
+	<string key="Quest_28007_description" rel_version="Territory_Dunwood" speaker="UI - Quest Description">The familiar sensation of inevitability and rot reaches out to you from Adaru Sepulture...</string>
+	<string key="Quest_28007_title" rel_version="Territory_Dunwood" speaker="UI - Quest Title">A Whisper of Old</string>
+</resources>
+

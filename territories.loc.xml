@@ -39,5 +39,6 @@
 	<string key="DevWorld_Blue">DevWorld BLUE \n(SECONDARY HUB)</string>
 	<string key="Campground">Campground</string>
 	<string key="BrimstoneSands" rel_version="Territory_Brimstone_Sands">Brimstone Sands</string>
+	<string key="Dunwood" rel_version="Territory_Dunwood">Nighthaven</string>
 </resources>
 

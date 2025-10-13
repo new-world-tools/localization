@@ -269,5 +269,41 @@
 	<string key="ui_icon_raid_cutlasskeys00_fountain" rel_version="Raid_CutlassKeys_00">Fountain</string>
 	<string key="ui_icon_raid_cutlasskeys00_perseus_title" rel_version="Raid_CutlassKeys_00">PERSEUS</string>
 	<string key="ui_icon_raid_cutlasskeys00_perseus_description" rel_version="Raid_CutlassKeys_00">OLD WARRIOR</string>
+	<string key="ui_area_raid_monarchsbluffs00_ch01_harbor" rel_version="Raid_MonarchsBluffs_00">Harbor</string>
+	<string key="ui_area_raid_monarchsbluffs00_ch01_crossroads" rel_version="Raid_MonarchsBluffs_00">Crossroads</string>
+	<string key="ui_area_raid_monarchsbluffs00_ch01_towncenter" rel_version="Raid_MonarchsBluffs_00">Town Center</string>
+	<string key="ui_area_raid_monarchsbluffs00_ch01_mill" rel_version="Raid_MonarchsBluffs_00">Mill</string>
+	<string key="ui_area_raid_monarchsbluffs00_ch01_townhall" rel_version="Raid_MonarchsBluffs_00">Town\nHall</string>
+	<string key="ui_area_raid_monarchsbluffs00_ch01_academy" rel_version="Raid_MonarchsBluffs_00">Academy</string>
+	<string key="ui_area_raid_monarchsbluffs00_ch01_bigtree" rel_version="Raid_MonarchsBluffs_00">Old Tree</string>
+	<string key="ui_area_raid_monarchsbluffs00_ch02_stronghold" rel_version="Raid_MonarchsBluffs_00">Stronghold</string>
+	<string key="ui_area_raid_monarchsbluffs00_ch02_stonebridge" rel_version="Raid_MonarchsBluffs_00">Stone Bridge</string>
+	<string key="ui_area_raid_monarchsbluffs00_ch02_castlecourtyard" rel_version="Raid_MonarchsBluffs_00">Castle\nCourtyard</string>
+	<string key="ui_area_raid_monarchsbluffs00_ch02_cathedral" rel_version="Raid_MonarchsBluffs_00">Cathedral</string>
+	<string key="ui_area_raid_monarchsbluffs00_ch02_throneroom" rel_version="Raid_MonarchsBluffs_00">Throne Room</string>
+	<string key="ui_area_raid_monarchsbluffs00_ch03_hangingbridges" rel_version="Raid_MonarchsBluffs_00">Hanging Bridges</string>
+	<string key="ui_area_raid_monarchsbluffs00_ch03_chapelgarden" rel_version="Raid_MonarchsBluffs_00">Chapel Garden</string>
+	<string key="ui_area_raid_monarchsbluffs00_ch03_chapelcloister" rel_version="Raid_MonarchsBluffs_00">Chapel Cloister</string>
+	<string key="ui_area_raid_monarchsbluffs00_ch03_brokentower" rel_version="Raid_MonarchsBluffs_00">Broken Tower</string>
+	<string key="ui_area_raid_monarchsbluffs00_ch03_thorpestower" rel_version="Raid_MonarchsBluffs_00">Thorpe's Tower</string>
+	<string key="ui_icon_raid_monarchsbluffs00_ch01_boss1_title" rel_version="Raid_MonarchsBluffs_00">TWIN JESTERS</string>
+	<string key="ui_icon_raid_monarchsbluffs00_ch01_boss1_description" rel_version="Raid_MonarchsBluffs_00">SELF-APPOINTED MAYOR OF YS</string>
+	<string key="ui_icon_raid_monarchsbluffs00_ch02_boss2_title" rel_version="Raid_MonarchsBluffs_00">QUEEN DAHUT</string>
+	<string key="ui_icon_raid_monarchsbluffs00_ch02_boss2_description" rel_version="Raid_MonarchsBluffs_00">FALLEN YS HEIRESS</string>
+	<string key="ui_icon_raid_monarchsbluffs00_ch03_boss3_title" rel_version="Raid_MonarchsBluffs_00">LOST OVERLORD THORPE</string>
+	<string key="ui_icon_raid_monarchsbluffs00_ch03_boss3_description" rel_version="Raid_MonarchsBluffs_00">OPPRESSOR OF YS</string>
+	<string key="ui_icon_raid_monarchsbluffs00_ch01_ballista1" rel_version="Raid_MonarchsBluffs_00">Ballista</string>
+	<string key="ui_icon_raid_monarchsbluffs00_ch01_ballista2" rel_version="Raid_MonarchsBluffs_00">Ballista</string>
+	<string key="ui_icon_raid_monarchsbluffs00_ch01_ballista3" rel_version="Raid_MonarchsBluffs_00">Ballista</string>
+	<string key="ui_icon_raid_monarchsbluffs00_ch01_ballista1_description" comment="For harbor version" rel_version="Raid_MonarchsBluffs_00">A worn-out but functional ballista.</string>
+	<string key="ui_icon_raid_monarchsbluffs00_ch01_ballista2_description" comment="For Jester encounter version" rel_version="Raid_MonarchsBluffs_00">A worn-out but functional ballista.\nUse it to interupt the Twin Jesters when they are channeling powerful attacks.</string>
+	<string key="ui_icon_raid_monarchsbluffs00_ch02_relic1" rel_version="Raid_MonarchsBluffs_00">Sword Relic</string>
+	<string key="ui_icon_raid_monarchsbluffs00_ch02_relic2" rel_version="Raid_MonarchsBluffs_00">Bow Relic</string>
+	<string key="ui_icon_raid_monarchsbluffs00_ch02_relic3" rel_version="Raid_MonarchsBluffs_00">Warhammer Relic</string>
+	<string key="ui_icon_raid_monarchsbluffs00_ch02_relic4" rel_version="Raid_MonarchsBluffs_00">Halberd Relic</string>
+	<string key="ui_icon_raid_monarchsbluffs00_ch02_relic_description" rel_version="Raid_MonarchsBluffs_00">A stone pedestal that looks like it can hold a large orb.</string>
+	<string key="ui_icon_raid_monarchsbluffs00_ch03_spear" rel_version="Raid_MonarchsBluffs_00">Spear of Longinus</string>
+	<string key="ui_icon_raid_monarchsbluffs00_ch03_spear_description" rel_version="Raid_MonarchsBluffs_00">Keep it safe from Thorpe at all cost!</string>
+	<string key="ui_area_catacombs_namedenemy" rel_version="Territory_Dunwood">Powerful Foe</string>
 </resources>
 

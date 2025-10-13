@@ -1091,5 +1091,6 @@
 	<string key="98_C_03_thepathtodarkness_goto_POI" speaker="UI">Descend into {POITags} and confront Excubitor Luca to Earn the Rank of Adjudicator.</string>
 	<string key="98_C_03_thepathtodarkness_killtarget_eliminate_AI" speaker="UI">Eliminate {targetName}</string>
 	<string key="98_PvP_Prompt" speaker="UI- Player Prompt">"Why join a faction?"</string>
+	<string key="98_C_RaidMonarch_Interact_FactionMission" speaker="UI - Tracker Text" rel_version="Raid_MonarchsBluffs_00">Enter {POITags} and cleanse all the Lost Crystals on the island.</string>
 </resources>
 

@@ -120,5 +120,10 @@
 	<string key="ui_cinematics_banner_msq_acttwo_chapterone_title_description">Rise of the Angry Earth</string>
 	<string key="ui_cinematics_banner_msq_acttwo_chaptertwo_title_text">Chapter Two</string>
 	<string key="ui_cinematics_banner_msq_acttwo_chaptertwo_title_description">The Fall of First Light</string>
+	<string key="ui_catacombs_extraction_successful">Extraction Successful</string>
+	<string key="ui_catacombs_teammates_extracted">Your Teammates Extracted</string>
+	<string key="ui_catacombs_everyone_extracted">All Players Extracted</string>
+	<string key="ui_catacombs_everyone_died">Everyone Died</string>
+	<string key="ui_catacombs_portal_timeout">Extraction Portal Closed</string>
 </resources>
 

@@ -778,7 +778,9 @@
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_activity_elite_trials_name">Elite Trials</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_activity_elite_trials_desc" comment="">Battle the colossal "Shah Neshen the Devourer" with up to 20 players in this Elite Trial.</string>
 	<string rel_version="Raid_CutlassKeys_00" key="ui_pugfinder_activity_raids_name">Raids</string>
-	<string rel_version="Raid_CutlassKeys_00" key="ui_pugfinder_activity_raids_desc" comment="">Pursue Broodmother Medusa and stop her plans to dominate Aeternum with Raid Groups up to 10 Players.</string>
+	<string rel_version="Raid_CutlassKeys_00" key="ui_pugfinder_activity_raids_desc" comment="">Confront epic challenges with raid groups up to 10 Players.</string>
+	<string rel_version="Raid_CutlassKeys_00" key="ui_pugfinder_activity_catacombs_name">Catacombs</string>
+	<string rel_version="Raid_CutlassKeys_00" key="ui_pugfinder_activity_catacombs_desc" comment="">Explore ever-changing labyrinths with up to 2 other players, defeating bosses and racing to escape with your treasures before time runs out.</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_activity_opr_desc" comment="">Be the first to 1000 points in this fast paced, 20v20 PvP experience. Capture control points while gathering resources to build your defenses and unlock tactical benefits for your team.</string>
 	<string rel_version="Feature_DisabledPerkGameModes" key="ui_pugfinder_activity_opr_no_perks_desc" comment="">Best in slot gear not required! Join this new spin on Outpost Rush that disables all gear perks and lifts them to max gear score, leveling the playing field.</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_activity_pvp_arena_desc" comment="">Battle other players in this 3v3 Arena to earn special PvP rewards.</string>
@@ -856,6 +858,7 @@
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_no_azoth_staff">You must equip an azoth staff in order to queue for this game mode.</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_no_azoth_staff_simple">&lt;img src="LyShineUI/Images/Icons/Misc/icon_exclamation" scale="1.5" yOffset="3.5"&gt;&lt;/img&gt; &lt;font color={color}&gt;  Azoth Staff Not Equipped&lt;/font&gt;</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_group_full_tooltip">You cannot request to join a matchmaking queue while your group is full.</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_groupsize_mismatch">You cannot request to join a matchmaking queue with an invalid group size.</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_ineligible_unhandled_tooltip">You cannot request to join a matchmaking queue at this time.</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_M3s_disabled_tooltip">Elite Mutations (M3) are only available for Local Groups.</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_button_cancel_queue">Leave Queue</string>
@@ -876,6 +879,7 @@
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_gearscore_requirement_not_met">You do not meet the gear score requirement for this Expedition.</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_cancel_queue_title">Leave Queue</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_cancel_queue_expedition_desc">Are you sure you want to leave the Expedition(s) queue?</string>
+	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_cancel_queue_catacombs_desc">Are you sure you want to leave the Catacombs queue?</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_cancel_queue_mutation_desc">Are you sure you want to leave the Mutated Expedition(s) queue?</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_cancel_queue_enter_dungeon">You are attempting to enter this expedition with your current group. Are you sure you want to leave the matchmaking queue to enter?</string>
 	<string rel_version="Feature_PUG_Finder" key="ui_pugfinder_backfilling_group">Backfilling Group</string>

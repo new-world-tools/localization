@@ -12,6 +12,7 @@
 	<string key="DyePlantBlack_DisplayName">Black Prismabloom</string>
 	<string key="DyePlantMagenta_DisplayName">Magenta Prismabloom</string>
 	<string key="DyePlantDesertRose_DisplayName" rel_version="Territory_Brimstone_Sands">Desert Rose Prismabloom</string>
+	<string key="DyePlantMoonflower_DisplayName" rel_version="Territory_Dunwood">Moonflower Prismabloom</string>
 	<string key="DeadTree_DisplayName">Dead Tree</string>
 	<string key="BlueberryBushSmall_DisplayName">Blueberry Bush</string>
 	<string key="BlueberryBushMedium_DisplayName">Blueberry Bush</string>
@@ -396,6 +397,7 @@
 	<string key="LootContainer_AnubianStoneTomb_DisplayName">Take Ancient Offerings</string>
 	<string key="LootContainer_WeaponPile_DisplayName">Weapon Pile</string>
 	<string key="LootContainer_Throne_DisplayName">Throne Stockpile</string>
+	<string key="LootContainer_MemoryFragment_DisplayName">Trove of the Builder King</string>
 	<string key="Item_PotionHealT1_DisplayName">Distilled Healing Tincture</string>
 	<string key="Item_ClothT2_DisplayName">Cloth Scraps</string>
 	<string key="Darkness_Monolith_DisplayName">Corrupted Monolith</string>
@@ -460,12 +462,69 @@
 	<string key="0831_BruteCannonSchematic_DisplayName">Brute Cannon Schematic</string>
 	<string key="0831_DiscardedArmorPile_DisplayName">Search Armor Pile</string>
 	<string key="06_SpectralShrine">Spectral Shrine</string>
-	<string key="Catacombs_Strength">Strength Enchantment</string>
-	<string key="Catacombs_Speed">Speed Enchantment</string>
-	<string key="Catacombs_Health">Healing Azoth</string>
-	<string key="Catacombs_Def">Armor Enchantment</string>
-	<string key="Catacombs_Lifesteal">Lifesteal Enchantment</string>
-	<string key="Catacombs_ShirkingBlessing">Shirking Blessing Enchantment</string>
+	<string key="Catacombs_Strength" rel_version="Feature_Catacombs">Strength Enchantment</string>
+	<string key="Catacombs_Speed" rel_version="Feature_Catacombs">Speed Enchantment</string>
+	<string key="Catacombs_Health" rel_version="Feature_Catacombs">Shrine of Unworn</string>
+	<string key="Catacombs_Def" rel_version="Feature_Catacombs">Armor Enchantment</string>
+	<string key="Catacombs_Lifesteal" rel_version="Feature_Catacombs">Lifesteal Enchantment</string>
+	<string key="Catacombs_ShirkingBlessing" rel_version="Feature_Catacombs">Shirking Blessing Enchantment</string>
+	<string key="Catacombs_ShieldBash" rel_version="Feature_Catacombs">Counterblow</string>
+	<string key="Catacombs_ShieldBashDesc" rel_version="Feature_Catacombs">Block costs more stamina, but greatly amplifies your next blow.(CD:5s)</string>
+	<string key="Catacombs_HealBomb" rel_version="Feature_Catacombs">Soulwake</string>
+	<string key="Catacombs_HealBombDesc" rel_version="Feature_Catacombs">Killing an enemy summons an explosive soul that goes after foes.</string>
+	<string key="Catacombs_FortressBlow" rel_version="Feature_Catacombs">Fortress Blow Enchantment</string>
+	<string key="Catacombs_FortressBlowDesc" rel_version="Feature_Catacombs">Fortress Blow Description</string>
+	<string key="Catacombs_HunterMark" rel_version="Feature_Catacombs">Grand Feast</string>
+	<string key="Catacombs_HunterMarkDesc" rel_version="Feature_Catacombs">Allies can heal from damaging the enemy you are hitting.</string>
+	<string key="Catacombs_LifeBurst" rel_version="Feature_Catacombs">Ray of Hope</string>
+	<string key="Catacombs_LifeBurstDesc" rel_version="Feature_Catacombs">Your hits deal -20% less damage but consistently heal allies.</string>
+	<string key="Catacombs_DefenderTurret" rel_version="Feature_Catacombs">Skull Sentry</string>
+	<string key="Catacombs_DefenderTurretDesc" rel_version="Feature_Catacombs">When you're hit, summon a skull that attacks enemies but also rends you.</string>
+	<string key="Catacombs_BattleFocus" rel_version="Feature_Catacombs">Graceburn</string>
+	<string key="Catacombs_BattleFocusDesc" rel_version="Feature_Catacombs">Deprecated</string>
+	<string key="Catacombs_HolyCharge" rel_version="Feature_Catacombs">Purifying Guard</string>
+	<string key="Catacombs_HolyChargeDesc" rel_version="Feature_Catacombs">Blocking 3 attacks without breaking cleanses and greatly heals nearby allies.</string>
+	<string key="Catacombs_LivingArmor" rel_version="Feature_Catacombs">Sacred Catalyst</string>
+	<string key="Catacombs_LivingArmorDesc" rel_version="Feature_Catacombs">Sacred Ground no longer heals, but greatly boosts stamina and jumping.</string>
+	<string key="Catacombs_GlassCannon" rel_version="Feature_Catacombs">Chain of Carnage</string>
+	<string key="Catacombs_GlassCannonDesc" rel_version="Feature_Catacombs">Critical hits grant 100% crit chance and 25% rend for 2s.</string>
+	<string key="Catacombs_DeathBattle" rel_version="Feature_Catacombs">Bloodbath</string>
+	<string key="Catacombs_DeathBattleDesc" rel_version="Feature_Catacombs">When under 50% health, gain a damage aura, +30% crit damage, and 20% fortify.</string>
+	<string key="Catacombs_ManaWard" rel_version="Feature_Catacombs">Mana Ward</string>
+	<string key="Catacombs_ManaWardDesc" rel_version="Feature_Catacombs">Mana potions cast a bubble for 40 Mana to grant overhealth and bump away foes.(CD:14s)</string>
+	<string key="Catacombs_ManaArmor" rel_version="Feature_Catacombs">Armor Orbs</string>
+	<string key="Catacombs_ManaArmorDesc" rel_version="Feature_Catacombs">Use Mana to stabilize block. Cast 3 armor orbs on low Mana.(CD:14s)</string>
+	<string key="Catacombs_Revitalize" rel_version="Feature_Catacombs">Revitalize</string>
+	<string key="Catacombs_RevitalizeDesc" rel_version="Feature_Catacombs">When stamina is below 50, landing or blocking hits transfers your mana into stamina.</string>
+	<string key="Catacombs_HallowedEyes" rel_version="Feature_Catacombs">Hallowed Eyes</string>
+	<string key="Catacombs_HallowedEyesDesc" rel_version="Feature_Catacombs">Survival potions heal 80% less, but explode and massively accelerate ally cooldown.</string>
+	<string key="Catacombs_ImmortalRally" rel_version="Feature_Catacombs">Immortal Rally</string>
+	<string key="Catacombs_ImmortalRallyDesc" rel_version="Feature_Catacombs">Heavy hits below 40% health build a barrier to immortalize and heal allies.(CD:30s)</string>
+	<string key="Catacombs_KillJump" rel_version="Feature_Catacombs">Deathstep</string>
+	<string key="Catacombs_KillJumpDesc" rel_version="Feature_Catacombs">Jump 700% further after backstabs/headshots (CD:10s) and kills (CD:0s).</string>
+	<string key="Catacombs_TurretSummon" rel_version="Feature_Catacombs">Oceanborne</string>
+	<string key="Catacombs_TurretSummonDesc" rel_version="Feature_Catacombs">Summon a sea monster attack when you hit 2 heavy attacks in a row.(CD:16s)</string>
+	<string key="Catacombs_Netherbloom" rel_version="Feature_Catacombs">Mist of Unworn</string>
+	<string key="Catacombs_NetherbloomDesc" rel_version="Feature_Catacombs">Erosion Tonic grants allies 10s erosion immunity. Receive 3 Tonics now.</string>
+	<string key="Catacombs_FirstAid" rel_version="Feature_Catacombs">Blood Offering</string>
+	<string key="Catacombs_FirstAidDesc" rel_version="Feature_Catacombs">Critical hits deal less damage but drops a healing orb.(CD:3s)</string>
+	<string key="Catacombs_ErosionChestDesc" rel_version="Feature_Catacombs">Erosion Tonic reduces your erosion severity.</string>
+	<string key="Catacombs_LevelUpDesc" rel_version="Feature_Catacombs">Use Souls to raise damage and max health.</string>
+	<string key="Catacombs_HazardDesc" rel_version="Feature_Catacombs">Survive the trial to challenge the boss ahead.</string>
+	<string key="Catacombs_ExitDesc" rel_version="Feature_Catacombs">Or, keep exploring Catacombs for greater treasure.</string>
+	<string key="Catacombs_ReduceErosionDesc" rel_version="Feature_Catacombs">Greatly reduce Erosion severity.</string>
+	<string key="Catacombs_LockedGateDesc" rel_version="Feature_Catacombs">The gate is controlled by a lever at somewhere else.</string>
+	<string key="Catacombs_RequirementDescription" rel_version="Feature_Catacombs">Only one power may be harnessed in each chamber.</string>
+	<string key="Catacombs_AdditionalInfo" rel_version="Feature_Catacombs">Choose only one</string>
+	<string key="Catacombs_AdditionalInfo_Berserker" rel_version="Feature_Catacombs">Aspect of Berserker</string>
+	<string key="Catacombs_AdditionalInfo_Paladin" rel_version="Feature_Catacombs">Aspect of Paladin</string>
+	<string key="Catacombs_AdditionalInfo_Spellwarden" rel_version="Feature_Catacombs">Aspect of Spellwarden</string>
+	<string key="Catacombs_AdditionalInfo_Reaper" rel_version="Feature_Catacombs">Aspect of Reaper</string>
+	<string key="Catacombs_AdditionalInfo_Oracle" rel_version="Feature_Catacombs">Aspect of Oracle</string>
+	<string key="Catacombs_AdditionalInfo_Summoner" rel_version="Feature_Catacombs">Aspect of Summoner</string>
+	<string key="Catacombs_AdditionalInfo_Hazard" rel_version="Feature_Catacombs">Trial of Challengers</string>
+	<string key="Catacombs_AdditionalInfo_Exit" rel_version="Feature_Catacombs">Extraction</string>
+	<string key="Catacombs_ErosionShrineAdditionalInfo" rel_version="Feature_Catacombs">Shrine of Unworn</string>
 	<string key="FishingHotspotBroad_DisplayName">Hotspot (Broad)</string>
 	<string key="FishingHotspotRare_DisplayName">Hotspot (Rare)</string>
 	<string key="FishingHotspotSecret_DisplayName">Hotspot (Secret)</string>
@@ -805,17 +864,20 @@
 	<string key="AnubianBrute_Base_DisplayName" rel_version="Territory_Brimstone_Sands">Anubian Automaton</string>
 	<string key="AnubianPanther_Base_DisplayName" rel_version="Territory_Brimstone_Sands">Sphinx Automaton</string>
 	<string key="16BS_LootContainer_Elite_LegionStoneTomb_DisplayName" rel_version="Territory_Brimstone_Sands">Elite Grave Offerings</string>
-	<string key="SummerMedley_Settlement_Stage_Master_DisplayName" rel_version="Event_Summer_Temp">Medleyfaire Stage Centerpiece</string>
-	<string key="SummerMedley_Settlement_Stage_T1_DisplayName" rel_version="Event_Summer_Temp">Dismal Bestowment</string>
-	<string key="SummerMedley_Settlement_Stage_T2_DisplayName" rel_version="Event_Summer_Temp">Grand Bestowment</string>
-	<string key="SummerMedley_Settlement_Stage_T3_DisplayName" rel_version="Event_Summer_Temp">Opulent Bestowment</string>
-	<string key="SummerMedley_Settlement_Stage_Description" rel_version="Event_Summer_Temp">Compete Medleyfaire Town Projects to upgrade the glory and rewards bestowed by the stage!</string>
-	<string key="SummerMedley_Village_BonfireBlast_DisplayName" rel_version="Event_Summer_Temp">Medleyfaire Pyre</string>
-	<string key="SummerMedley_Village_BonfireBlast_Description" rel_version="Event_Summer_Temp">Toss an Aeternum Sturgeon Magic Fishbone into the fires to receive a tremendous reward!</string>
-	<string key="SummerMedley_Maudlindust_DisplayName" rel_version="Event_Summer_Temp">Maudlindust</string>
-	<string key="SummerMedley_Maudlindust_Particle_DisplayName" rel_version="Event_Summer_Temp">Maudlindust Particle</string>
-	<string key="SummerMedley_Village_Dancefloor_DisplayName" rel_version="Event_Summer_Temp">Medleyfaire Dance Floor</string>
-	<string key="SummerMedley_Village_Dancefloor_Description" rel_version="Event_Summer_Temp">Polish up and show off your best moves on the Medleyfaire Dance Floor to earn Event Reputation!</string>
+	<string key="WinterConv_Settlement_Tree_Description" rel_version="Event_Halloween_Temp">The season of Nightveil Hallow has fallen upon Aeternum, and with it comes a tremendous terror! Visit Salvatore and aid him in battling against the forces of darkness for exceptional reward!</string>
+	<string key="Nightveil_Settlement_Stage_Master_DisplayName" rel_version="Event_Halloween_Temp">Medleyfaire Stage Centerpiece</string>
+	<string key="Nightveil_Settlement_Stage_T1_DisplayName" rel_version="Event_Halloween_Temp">Dismal Vortex</string>
+	<string key="Nightveil_Settlement_Stage_T2_DisplayName" rel_version="Event_Halloween_Temp">Grand Vortex</string>
+	<string key="Nightveil_Settlement_Stage_T3_DisplayName" rel_version="Event_Halloween_Temp">Opulent Vortex</string>
+	<string key="Nightveil_Settlement_Stage_Description" rel_version="Event_Halloween_Temp">Compete Medleyfaire Town Projects to upgrade the glory and rewards bestowed by the stage!</string>
+	<string key="Nightveil_Village_BobbingStation_DisplayName" rel_version="Event_Halloween_Temp">Bobbing-for-Stuff</string>
+	<string key="Nightveil_Village_BobbingStation_Description" rel_version="Event_Halloween_Temp">Dunk your head in and fish out a spooktastic prize!</string>
+	<string key="Nightveil_ThrowablePumpklin_DisplayName" rel_version="Event_Halloween_Temp">Pumpklin Head</string>
+	<string key="Nightveil_SuspiciousPumpkin_DisplayName" rel_version="Event_Halloween_Temp">Suspicious Pumpkin</string>
+	<string key="Nightveil_InvocationSigil_DisplayName" rel_version="Event_Halloween_Temp">Place Invocation Sigil</string>
+	<string key="Nightviel_Baalphazu_Nethermaw_DisplayName" rel_version="Event_Halloween_Temp">Channel Baalphazu</string>
+	<string key="Nightveil_Settlement_Cauldron_DisplayName" rel_version="Event_Halloween_Temp">Nightveil Cauldron</string>
+	<string key="Nightveil_Settlement_Cauldron_Description" rel_version="Event_Halloween_Temp">The season of Nightveil Hallow has fallen upon Aeternum, and with it comes a tremendous terror! Visit Salvatore and aid him in battling against the forces of darkness for exceptional reward!</string>
 	<string key="Season_04_IceGuardian_Icicle_DisplayName" rel_version="Season_4_Trial">Throwable Icicle</string>
 	<string key="Season_04_IceGuardian_BrokenRune_DisplayName" rel_version="Season_4_Trial">Gain Ancient Flame Empowerment</string>
 	<string key="FM_PVP_War_Camp_Loot_Box_DisplayName">War Camp Chest</string>
@@ -1376,6 +1438,7 @@
 	<string key="Rafflebones_Portal_FOTB_DisplayName">Summon Rafflebones</string>
 	<string key="95_s04_ReadJournal_gatherable" rel_version="Season_4_Perm">Read Journal</string>
 	<string key="Halloween_Basket_Candy_DisplayName">Collect Treats</string>
+	<string key="Halloween_Basket_Candy_Description">Trick or Treat: Here is a treat for you. Please only take one!</string>
 	<string key="98_S_Q5_RelicPileIO_DisplayName">Ancient Relics</string>
 	<string key="98_M_Q5_GoldStashIO_DisplayName">Labyrinth Chest</string>
 	<string key="95_S04_Q2_Buildfire_A_DisplayName" rel_version="Season_4_Perm">Build the Earth Seal</string>
@@ -1511,7 +1574,9 @@
 	<string key="MSQ_Isabella_Entrance_Bubble_DisplayName" rel_version="Quest_MSQ3_Shattered_V2">Weaken Corruption</string>
 	<string key="RE_Spyglass_Vista_DisplayName" rel_version="Season_5_Perm">Look in Spyglass</string>
 	<string key="ui_poi_RE_Spyglass_Vista" rel_version="Season_5_Perm">Spyglass of Aeternum</string>
-	<string key="ui_poi_RE_Spyglass_Vista_description" rel_version="Season_5_Perm">Peek through the looking glass and spot another grand sight of Aeternum!</string>
+	<string key="ui_poi_RE_Spyglass_Vista_description" rel_version="Season_5_Perm">Peek through the looking glass and spot another grand sight of Aeternum!\n\nReward: 5000 Territory Standing (Nighthaven)</string>
+	<string key="ui_poi_RE_Spyglass_Vista_Complete" rel_version="Season_5_Perm">Spyglass of Aeternum</string>
+	<string key="ui_poi_RE_Spyglass_Vista_Complete_description" rel_version="Season_5_Perm">Peek through the looking glass and spot another grand sight of Aeternum!\n\nReward Claimed: 5000 Territory Standing (Nighthaven)</string>
 	<string key="Cursed10ws_GoldSmall_DisplayName" rel_version="Territory_CutlassKeys_Rework">Cursed Gold Vein</string>
 	<string key="Cursed10ws_GoldMedium_DisplayName" rel_version="Territory_CutlassKeys_Rework">Cursed Gold Vein</string>
 	<string key="Cursed10ws_GoldLarge_DisplayName" rel_version="Territory_CutlassKeys_Rework">Cursed Gold Vein</string>
@@ -1577,11 +1642,143 @@
 	<string key="05wc_ReekwaterUplevelChest_Medium_DisplayName" rel_version="Season_8_Perm">Soulwarden Cache</string>
 	<string key="05wc_ReekwaterUplevelChest_Large_DisplayName" rel_version="Season_8_Perm">Soulwarden Hoard</string>
 	<string key="RW_Siege_Pool_Blighted_Totem_DisplayName" rel_version="Season_8_Perm">Restore Totem</string>
-	<string key="17_MSQ_StackCrates_DisplayName">Collect Scattered Supplies</string>
-	<string key="17_MSQ_BoardWindow_DisplayName">Board Up Window</string>
-	<string key="17_MSQ_BatteryPost_DisplayName">Reconnect Battery</string>
-	<string key="17_MSQ_ShieldDevice_DisplayName">Activate Shield</string>
-	<string key="17_MSQ_BerlaurCage_DisplayName">Unlock Cage</string>
-	<string key="17_MSQ_BoxOfPotions_DisplayName">Collect Red Allium Powder</string>
+	<string key="Raid_MonarchsBluffs00_Ballista_DisplayName" rel_version="Raid_MonarchsBluffs_00">Ballista Bolt</string>
+	<string key="Raid_MonarchsBluffs00_Traps_DisplayName" rel_version="Raid_MonarchsBluffs_00">Trap lever</string>
+	<string key="Raid_MonarchsBluffs00_ExplosiveBarrel_DisplayName" rel_version="Raid_MonarchsBluffs_00">Explosive Barrel</string>
+	<string key="Raid_MonarchsBluffs00_DropBarrel_DisplayName" rel_version="Raid_MonarchsBluffs_00">Drop Barrel</string>
+	<string key="Raid_MonarchsBluffs00_Relic1Pickup_DisplayName" rel_version="Raid_MonarchsBluffs_00">Sword Relic</string>
+	<string key="Raid_MonarchsBluffs00_Relic2Pickup_DisplayName" rel_version="Raid_MonarchsBluffs_00">Bow Relic</string>
+	<string key="Raid_MonarchsBluffs00_Relic3Pickup_DisplayName" rel_version="Raid_MonarchsBluffs_00">Warhammer Relic</string>
+	<string key="Raid_MonarchsBluffs00_Relic4Pickup_DisplayName" rel_version="Raid_MonarchsBluffs_00">Hallberd Relic</string>
+	<string key="Raid_MonarchsBluffs00_Relic1Drop_DisplayName" rel_version="Raid_MonarchsBluffs_00">Sword Altar</string>
+	<string key="Raid_MonarchsBluffs00_Relic2Drop_DisplayName" rel_version="Raid_MonarchsBluffs_00">Bow Altar</string>
+	<string key="Raid_MonarchsBluffs00_Relic3Drop_DisplayName" rel_version="Raid_MonarchsBluffs_00">Warhammer Altar</string>
+	<string key="Raid_MonarchsBluffs00_Relic4Drop_DisplayName" rel_version="Raid_MonarchsBluffs_00">Hallberd Altar</string>
+	<string key="Raid_MonarchsBluffs00_PressurePlate_DisplayName" rel_version="Raid_MonarchsBluffs_00">Pressure Plate</string>
+	<string key="Raid_MonarchsBluffs00_ThorpeRelic_DisplayName" rel_version="Raid_MonarchsBluffs_00">Thorpe Relic</string>
+	<string key="Raid_MonarchsBluffs00_MemoryShard_DisplayName" rel_version="Raid_MonarchsBluffs_00">Memory shard</string>
+	<string key="Raid_MonarchsBluffs00_GradlonVO_DisplayName" rel_version="Raid_MonarchsBluffs_00">Gradlon Echo</string>
+	<string key="IoN_FactionMission_Item1" rel_version="Raid_MonarchsBluffs_00">Lost Crystal</string>
+	<string key="IoN_FactionMission_Item2" rel_version="Raid_MonarchsBluffs_00">Lost Crystal</string>
+	<string key="IoN_FactionMission_Item3" rel_version="Raid_MonarchsBluffs_00">Lost Crystal</string>
+	<string key="Catacombs_Potion_RemoveErosion_Chest" rel_version="Feature_Catacombs">Abandoned Supplies</string>
+	<string key="17_MSQ_StackCrates_DisplayName" rel_version="Territory_Dunwood">Collect Scattered Supplies</string>
+	<string key="17_MSQ_BoardWindow_DisplayName" rel_version="Territory_Dunwood">Board Up Window</string>
+	<string key="17_MSQ_Battery_DisplayName" rel_version="Territory_Dunwood">Collect Crystal Battery</string>
+	<string key="17_MSQ_HalfBattery_DisplayName" rel_version="Territory_Dunwood">Collect Crystal Battery</string>
+	<string key="17_MSQ_BatteryCharger_DisplayName" rel_version="Territory_Dunwood">Place Crystal Battery</string>
+	<string key="17_MSQ_BatteryPost_DisplayName" rel_version="Territory_Dunwood">Reconnect Crystal Generator</string>
+	<string key="17_MSQ_EnergyPylon1_DisplayName" rel_version="Territory_Dunwood">Repair Connection</string>
+	<string key="17_MSQ_EnergyPylon2_DisplayName" rel_version="Territory_Dunwood">Repair Connection</string>
+	<string key="17_MSQ_EnergyPylon3_DisplayName" rel_version="Territory_Dunwood">Repair Connection</string>
+	<string key="17_MSQ_ShieldDevice_DisplayName" rel_version="Territory_Dunwood">Activate Shield</string>
+	<string key="17_MSQ_BlueVervain_DisplayName" rel_version="Territory_Dunwood">Harvest Vervain Buds</string>
+	<string key="17_MSQ_WineCask_DisplayName" rel_version="Territory_Dunwood">Collect Wine Bottles</string>
+	<string key="17_MSQ_GothicTorch_DisplayName" rel_version="Territory_Dunwood">Follow the Lights</string>
+	<string key="17_MSQ_BerlaurCage_DisplayName" rel_version="Territory_Dunwood">Break Cage Door</string>
+	<string key="17_MSQ_BerlaurCage3_DisplayName">Unlock Cage Door</string>
+	<string key="17_MSQ_ScrawledNotes_DisplayName" rel_version="Territory_Dunwood">Collect Scrawled Notes</string>
+	<string key="17_MSQ_Memory_DisplayName" rel_version="Territory_Dunwood">Relive the Memory</string>
+	<string key="17_MSQ_DamageableDresser_DisplayName" rel_version="Territory_Dunwood">Destory the Dresser</string>
+	<string key="17_MSQ_DamageableCrates_DisplayName" rel_version="Territory_Dunwood">Destroy the Crates</string>
+	<string key="17_MSQ_SearchDresser_DisplayName" rel_version="Territory_Dunwood">Take the Paperwork</string>
+	<string key="17_MSQ_SearchPaperwork_DisplayName" rel_version="Territory_Dunwood">Search the Papers</string>
+	<string key="17_MSQ_UpyrNotes_DisplayName" rel_version="Territory_Dunwood">Collect Upyr Correspondence</string>
+	<string key="17_MSQ_StealCarriage_DisplayName" rel_version="Territory_Dunwood">Steal House Carmilla's Carriage</string>
+	<string key="17_MSQ_HideCarriage_DisplayName" rel_version="Territory_Dunwood">Hide the Carriage</string>
+	<string key="17_MSQ_BoxOfPotions_DisplayName" rel_version="Territory_Dunwood">Collect Red Allium Powder</string>
+	<string key="17_MSQ_SilkBloodcapMushroom_DisplayName" rel_version="Territory_Dunwood">Harvest Silk-Covered Bloodcaps</string>
+	<string key="17_MSQ_Spidersack_DisplayName">Collect Hallowed Symbols</string>
+	<string key="17_MSQ_AncientBuilderChest_DisplayName">Open Chest</string>
+	<string key="17_MSQ_AmuletOfNinsun_DisplayName" rel_version="Territory_Dunwood">Collect the Amulet of Ninsun</string>
+	<string key="17_SQ_Rat_18034_Tray_DisplayName" rel_version="Territory_Dunwood">Place Rat Tongue Hors d'oeuvres</string>
+	<string key="17DW_IronGate_DisplayName" rel_version="Territory_Dunwood">Open Gate</string>
+	<string key="17DW_WoodDoubleDoor_DisplayName" rel_version="Territory_Dunwood">Open Doors</string>
+	<string key="17DW_WoodDoor_DisplayName" rel_version="Territory_Dunwood">Open Door</string>
+	<string key="DG_Catacombs_Extraction_Initiator_DisplayName" rel_version="Feature_Catacombs">Initiate Exit Portal</string>
+	<string key="17DW_Stomp_DisplayName" rel_version="Territory_Dunwood">Stomp</string>
+	<string key="ui_bind_to_camp_17dw_title" rel_version="Territory_Dunwood">Altar of Chronos</string>
+	<string key="ui_bind_to_camp_17dw" rel_version="Territory_Dunwood">Set Respawn Point</string>
+	<string key="ui_bind_to_camp_17dw_underworld_title" rel_version="Territory_Dunwood">Bonfire</string>
+	<string key="ui_bind_to_camp_17dw_underworld" rel_version="Territory_Dunwood">Set Respawn Point</string>
+	<string key="17DW_Soulwarden_Crystal_DisplayName" rel_version="Territory_Dunwood">Collect Damaged Heartgem</string>
+	<string key="17DW_Soulwarden_Crystal_Unlock_Tooltip" rel_version="Territory_Dunwood">Collecting Damaged Heartgems unlocks crafting recipes from the Soulwarden Armory</string>
+	<string key="17DW_ArcanaLock_DisplayName" rel_version="Territory_Dunwood">Invoke Arcana Card</string>
+	<string key="17DW_ArcanaLockLearn_DisplayName" rel_version="Territory_Dunwood">Reveal Arcana Card</string>
+	<string key="17DW_ArcanaLockUnlock_DisplayName" rel_version="Territory_Dunwood">Read the Cards</string>
+	<string key="17DW_LostMemory_DisplayName" rel_version="Territory_Dunwood">Collect Memory Fragment</string>
+	<string key="17DW_LostMemory_Unlock_Tooltip" rel_version="Territory_Dunwood">Collecting Lost Memory Fragments unlocks special rewards</string>
+	<string key="17DW_LostMemory_MapName" rel_version="Territory_Dunwood">Memory Fragment</string>
+	<string key="17DW_Dig_DisplayName" rel_version="Territory_Dunwood">Dig</string>
+	<string key="17DW_Dance_DisplayName" rel_version="Territory_Dunwood">Dance</string>
+	<string key="17DW_Lever_DisplayName" rel_version="Territory_Dunwood">Pull Lever</string>
+	<string key="17DW_SwitchOn_DisplayName" rel_version="Territory_Dunwood">Switch On</string>
+	<string key="17DW_SwitchOff_DisplayName" rel_version="Territory_Dunwood">Switch Off</string>
+	<string key="17DW_Button_DisplayName" rel_version="Territory_Dunwood">Press Button</string>
+	<string key="17DW_PushButton_DisplayName" rel_version="Territory_Dunwood">Push Button</string>
+	<string key="17DW_Push_DisplayName" rel_version="Territory_Dunwood">Push</string>
+	<string key="17DW_Kick_DisplayName" rel_version="Territory_Dunwood">Kick</string>
+	<string key="17DW_EnterNighthaven_DisplayName" rel_version="Territory_Dunwood">Travel to Nighthaven</string>
+	<string key="VarlaamDeviceGather_Displayname" rel_version="Territory_Dunwood">Varlaam Device</string>
+	<string key="DyePlantBlackWhite_DisplayName" rel_version="Territory_Dunwood">Moonflower Prismabloom</string>
+	<string key="AppleSmall_DisplayName" rel_version="Territory_Dunwood">Apple Pile</string>
+	<string key="AppleTreeSmall_DisplayName" rel_version="Territory_Dunwood">Apple Tree</string>
+	<string key="GraveDirt_DisplayName" rel_version="Territory_Dunwood">Grave</string>
+	<string key="17DW_CannonballPlace_DisplayName" rel_version="Territory_Dunwood">Place Cannon Ball</string>
+	<string key="17DW_AzothShieldPlace_DisplayName" rel_version="Territory_Dunwood">Use Azoth Shield energy</string>
+	<string key="17DW_Underworld_Gate_Alert" rel_version="Territory_Dunwood">Locked Gate</string>
+	<string key="17DW_Underworld_Gate_Achievement" rel_version="Territory_Dunwood">Generate Power</string>
+	<string key="DG_Catacombs_Explosive_Mushroom_DisplayName" rel_version="Feature_Catacombs">Explosive Spore</string>
+	<string key="LootContainer_Catacombs_Special_Key_DisplayName" rel_version="Feature_Catacombs">Mystic Key</string>
+	<string key="LootContainer_Catacombs_Special_Chest_DisplayName" rel_version="Feature_Catacombs">Mystic Chest</string>
+	<string key="DG_Catacombs_CursedSilver_Chest_S_DisplayName" rel_version="Feature_Catacombs">Sterling Bag</string>
+	<string key="DG_Catacombs_CursedSilver_Chest_L_DisplayName" rel_version="Feature_Catacombs">Sterling Hoard</string>
+	<string key="CursedCatacombs_SoulCrystal_DisplayName" rel_version="Feature_Catacombs">Cursed Anima Quartz</string>
+	<string key="CursedCatacombs_OreT1_DisplayName" rel_version="Feature_Catacombs">Dense Iron Vein</string>
+	<string key="CursedCatacombs_HideT1_DisplayName" rel_version="Feature_Catacombs">Dense Rawhide</string>
+	<string key="Catacombs_LevelUp" rel_version="Feature_Catacombs">Idol of Ascension</string>
+	<string key="Cesspool_DisplayName" rel_version="Territory_Dunwood">Golden Azoth Sap</string>
+	<string key="Wormwood_DisplayName" rel_version="Territory_Dunwood">Wormwood</string>
+	<string key="Sunflower_DisplayName" rel_version="Territory_Dunwood">Sunflower</string>
+	<string key="Pumpkin_DisplayName" rel_version="Territory_Dunwood">Pumpkin Patch</string>
+	<string key="PureStarmetal_DisplayName" rel_version="Territory_Dunwood">Fallen Star</string>
+	<string key="Sorrowthorn_DisplayName" rel_version="Territory_Dunwood">Sorrowthorn</string>
+	<string key="SoulCrystal_DisplayName" rel_version="Territory_Dunwood">Anima Quartz</string>
+	<string key="Underworld_Enter_DisplayName" rel_version="Territory_Dunwood">Enter Underworld</string>
+	<string key="Underworld_Exit_DisplayName" rel_version="Territory_Dunwood">Exit Underworld</string>
+	<string key="Underworld_Enter_DisplayName_02" rel_version="Territory_Dunwood">Enter</string>
+	<string key="Underworld_Exit_DisplayName_02" rel_version="Territory_Dunwood">Exit</string>
+	<string key="Underworld_Tunnel_01_DisplayName" rel_version="Territory_Dunwood">To Bitu Mortii</string>
+	<string key="Underworld_Tunnel_05_DisplayName" rel_version="Territory_Dunwood">To Bitu Vesnic</string>
+	<string key="Underworld_Tunnel_06_DisplayName" rel_version="Territory_Dunwood">To Bitu Tacere</string>
+	<string key="Underworld_Tunnel_07_DisplayName" rel_version="Territory_Dunwood">To Bitu Cosmar</string>
+	<string key="Underworld_Tunnel_08_DisplayName" rel_version="Territory_Dunwood">To Bitu Pagri</string>
+	<string key="Underworld_Tunnel_09_DisplayName" rel_version="Territory_Dunwood">To Bitu Fantoma</string>
+	<string key="Underworld_Tunnel_10_DisplayName" rel_version="Territory_Dunwood">To Bitu Suferi</string>
+	<string key="Underworld_Tunnel_01A_DisplayName" rel_version="Territory_Dunwood">To Zaqiqu Subterrane</string>
+	<string key="Underworld_Tunnel_06A_DisplayName" rel_version="Territory_Dunwood">To Adaru Sepulture</string>
+	<string key="Underworld_Tunnel_07A_DisplayName" rel_version="Territory_Dunwood">To Cosmar Aquoris</string>
+	<string key="Underworld_Tunnel_09A_DisplayName" rel_version="Territory_Dunwood">To Dusty Cinerium</string>
+	<string key="Underworld_Tunnel_09B_DisplayName" rel_version="Territory_Dunwood">To Fantoma Cinerium</string>
+	<string key="Underworld_Tunnel_10A_DisplayName" rel_version="Territory_Dunwood">To Ukkulu Barrow</string>
+	<string key="Underworld_Tunnel_10B_DisplayName" rel_version="Territory_Dunwood">To Sanguro Ukkulu</string>
+	<string key="Underworld_Tunnel_Desc" rel_version="Territory_Dunwood">Travel through the Underworld mine tunnel.</string>
+	<string key="Underworld_Tunnel_AdditionalInfo" rel_version="Territory_Dunwood">Underworld mine tunnel</string>
+	<string key="Underworld_Gate_Locked" rel_version="Territory_Dunwood">Locked</string>
+	<string key="Underworld_Gate_Locked_Desc" rel_version="Territory_Dunwood">This gate needs a blue energy orb to be unlocked.</string>
+	<string key="AncientBattery_Disable_DisplayName" rel_version="Territory_Dunwood">Disable Battery</string>
+	<string key="Spider_Cocoon_LargeT3_DisplayName" rel_version="Territory_Dunwood">Sticky Stockpile</string>
+	<string key="Spider_Cocoon_SmallT3_DisplayName" rel_version="Territory_Dunwood">Sticky Remains</string>
+	<string key="SeraphBrazier_DisplayName" rel_version="Territory_Dunwood">Light Brazier</string>
+	<string key="Catacombs_LockedGate" rel_version="Territory_Dunwood">Locked</string>
+	<string key="17DW_Jumppad_Spawner" rel_version="Territory_Dunwood">Reveal Jump Pad</string>
+	<string key="Gimmick_ThrowableTorch_DisplayName" rel_version="Territory_Dunwood">Throwable Torch</string>
+	<string key="PumpkinT5_DisplayName" rel_version="Territory_Dunwood">Perfect Pumpkin</string>
+	<string key="PumpkinPatch_DisplayName" rel_version="Territory_Dunwood">Pumpkin Patch</string>
+	<string key="LynetteDoorLocked_DisplayName" rel_version="Territory_Dunwood">Requires Lynette's Key</string>
+	<string key="ReliquaryDoorLocked_DisplayName" rel_version="Territory_Dunwood">Requires Reliquary Key</string>
+	<string key="BanquetHallLocked_DisplayName" rel_version="Territory_Dunwood">Requires Banquet Hall Key</string>
+	<string key="17_IQ_CorruptedTreeEvent_CorruptedCyst_DisplayName" rel_version="Territory_Dunwood">Profane Rebirth</string>
+	<string key="Werewolf_Lord_Safe_Zone_DisplayName" rel_version="Territory_Dunwood">Stop The Ritual</string>
 </resources>
 

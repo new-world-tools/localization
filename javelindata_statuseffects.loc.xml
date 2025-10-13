@@ -423,10 +423,10 @@
 	<string key="Mut_Disease_2_Tooltip" rel_version="Feature_Dungeon_Mutators">Reduces healing taken by {[-0.050000 * -100]}%, stacking {[20.000000]} times.</string>
 	<string key="Mut_StaminaDamage_1_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt2">Shattering I</string>
 	<string key="Mut_StaminaDamage_1_BlockBreak_Bleed_DisplayName" rel_version="Feature_Dungeon_Mutators_pt2">Shattered Bleed</string>
-	<string key="Mut_StaminaDamage_1_BlockBreak_Bleed_Tooltip" rel_version="Feature_Dungeon_Mutators_pt2">Bleeding for {[-0.05 * -100]}% base health Physical damage every {[2.000000]} seconds.</string>
+	<string key="Mut_StaminaDamage_1_BlockBreak_Bleed_Tooltip" rel_version="Feature_Dungeon_Mutators_pt2">Bleeding for {[-0.050000 * -100]}% base health Physical damage every {[2.000000]} seconds.</string>
 	<string key="Mut_StaminaDamage_2_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt2">Shattering II</string>
 	<string key="Mut_StaminaDamage_2_BlockBreak_Bleed_DisplayName" rel_version="Feature_Dungeon_Mutators_pt2">Shattered Bleed</string>
-	<string key="Mut_StaminaDamage_2_BlockBreak_Bleed_Tooltip" rel_version="Feature_Dungeon_Mutators_pt2">Bleeding for {[-0.08 * -100]}% base health Physical damage every {[2.000000]} seconds.</string>
+	<string key="Mut_StaminaDamage_2_BlockBreak_Bleed_Tooltip" rel_version="Feature_Dungeon_Mutators_pt2">Bleeding for {[-0.080000 * -100]}% base health Physical damage every {[2.000000]} seconds.</string>
 	<string key="Mut_ManaDamage_1_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt2">Mage Hunter I</string>
 	<string key="Mut_ManaDamage_2_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt2">Mage Hunter II</string>
 	<string key="Mut_ManaThorns_1_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt2">Mage Hunter I</string>
@@ -445,16 +445,16 @@
 	<string key="Mut_Fir_Resist_2_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators">Fire Resist II</string>
 	<string key="Mut_Fir_Burn_1_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators">Fiery I</string>
 	<string key="Mut_Fir_Burn_1_Effect_DisplayName" rel_version="Feature_Dungeon_Mutators">Singed Burn I</string>
-	<string key="Mut_Fir_Burn_1_Effect_ToolTip" rel_version="Feature_Dungeon_Mutators">Burning for {[-0.04 * -100]}% base Fire damage every {[1.000000]} seconds for {[10.000000]} seconds.</string>
+	<string key="Mut_Fir_Burn_1_Effect_ToolTip" rel_version="Feature_Dungeon_Mutators">Burning for {[-0.040000 * -100]}% base Fire damage every {[1.000000]} seconds for {[10.000000]} seconds.</string>
 	<string key="Mut_Fir_Burn_2_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators">Fiery II</string>
 	<string key="Mut_Fir_Burn_2_Effect_DisplayName" rel_version="Feature_Dungeon_Mutators">Singed Burn II</string>
-	<string key="Mut_Fir_Burn_2_Effect_ToolTip" rel_version="Feature_Dungeon_Mutators">Burning for {[-0.08 * -100]}% base Fire damage every {[1.000000]} seconds for {[10.000000]} seconds.</string>
+	<string key="Mut_Fir_Burn_2_Effect_ToolTip" rel_version="Feature_Dungeon_Mutators">Burning for {[-0.080000 * -100]}% base Fire damage every {[1.000000]} seconds for {[10.000000]} seconds.</string>
 	<string key="Mut_Fir_AOE_1_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators">Enflamed I</string>
 	<string key="Mut_Fir_AOE_1_Damage_DisplayName" rel_version="Feature_Dungeon_Mutators">Enflamed Burn I</string>
-	<string key="Mut_Fir_AOE_1_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators">Burning for {[-0.2 * -100]}% base Fire damage every {[1.000000]} seconds.</string>
+	<string key="Mut_Fir_AOE_1_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators">Burning for {[-0.200000 * -100]}% base Fire damage every {[1.000000]} seconds.</string>
 	<string key="Mut_Fir_AOE_2_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators">Enflamed II</string>
 	<string key="Mut_Fir_AOE_2_Damage_DisplayName" rel_version="Feature_Dungeon_Mutators">Enflamed Burn II</string>
-	<string key="Mut_Fir_AOE_2_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators">Burning for {[-0.4 * -100]}% base Fire damage every {[1.000000]} seconds.</string>
+	<string key="Mut_Fir_AOE_2_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators">Burning for {[-0.400000 * -100]}% base Fire damage every {[1.000000]} seconds.</string>
 	<string key="Mut_Fir_Death_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators">Explosive</string>
 	<string key="Mut_Voi_Damage_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators">Abyssal</string>
 	<string key="Mut_Voi_Resist_1_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators">Void Resist I</string>
@@ -469,8 +469,8 @@
 	<string key="Mut_Voi_Leech_2_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators">Oblivion II</string>
 	<string key="Mut_Voi_Leech_1_Damage_DisplayName" rel_version="Feature_Dungeon_Mutators">Oblivion Leech I</string>
 	<string key="Mut_Voi_Leech_2_Damage_DisplayName" rel_version="Feature_Dungeon_Mutators">Oblivion Leech II</string>
-	<string key="Mut_Voi_Leech_1_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators">Taking {[-0.2 * -100]}% base Void damage and healing the caster {[0.900000 * 100]}% of damage dealt, every {[3.000000]} seconds.</string>
-	<string key="Mut_Voi_Leech_2_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators">Taking {[-0.3 * -100]}% base Void damage and healing the caster {[1.200000 * 100]}% of damage dealt, every {[3.000000]} seconds.</string>
+	<string key="Mut_Voi_Leech_1_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators">Taking {[-0.200000 * -100]}% base Void damage and healing the caster {[0.900000 * 100]}% of damage dealt, every {[3.000000]} seconds.</string>
+	<string key="Mut_Voi_Leech_2_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators">Taking {[-0.300000 * -100]}% base Void damage and healing the caster {[1.200000 * 100]}% of damage dealt, every {[3.000000]} seconds.</string>
 	<string key="Mut_Voi_Leech_1_Heal_DisplayName" rel_version="Feature_Dungeon_Mutators">Oblivion Leech I</string>
 	<string key="Mut_Voi_Leech_2_Heal_DisplayName" rel_version="Feature_Dungeon_Mutators">Oblivion Leech II</string>
 	<string key="Mut_Voi_Death_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators">Creeping</string>
@@ -480,16 +480,16 @@
 	<string key="Mut_Nat_Resist_2_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt2">Nature Resist II</string>
 	<string key="Mut_Nat_Pools_1_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt2">Toxic I</string>
 	<string key="Mut_Nat_Pools_1_Damage_DisplayName" rel_version="Feature_Dungeon_Mutators_pt2">Poison I</string>
-	<string key="Mut_Nat_Pools_1_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators_pt2">Suffering {[-0.05 * -100]}% base Nature damage every {[1.000000]} seconds.</string>
+	<string key="Mut_Nat_Pools_1_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators_pt2">Suffering {[-0.050000 * -100]}% base Nature damage every {[1.000000]} seconds.</string>
 	<string key="Mut_Nat_Pools_2_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt2">Toxic II</string>
 	<string key="Mut_Nat_Pools_2_Damage_DisplayName" rel_version="Feature_Dungeon_Mutators_pt2">Poison II</string>
-	<string key="Mut_Nat_Pools_2_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators_pt2">Suffering {[-0.1 * -100]}% base Nature damage every {[1.000000]} seconds.</string>
+	<string key="Mut_Nat_Pools_2_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators_pt2">Suffering {[-0.100000 * -100]}% base Nature damage every {[1.000000]} seconds.</string>
 	<string key="Mut_Nat_Crawler_1_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt2">Toxic I</string>
 	<string key="Mut_Nat_Crawler_1_Damage_DisplayName" rel_version="Feature_Dungeon_Mutators_pt2">Toxin I</string>
-	<string key="Mut_Nat_Crawler_1_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators_pt2">Suffering {[-0.2 * -100]}% base Nature damage every {[1.000000]} seconds.</string>
+	<string key="Mut_Nat_Crawler_1_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators_pt2">Suffering {[-0.200000 * -100]}% base Nature damage every {[1.000000]} seconds.</string>
 	<string key="Mut_Nat_Crawler_2_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt2">Toxic II</string>
 	<string key="Mut_Nat_Crawler_2_Damage_DisplayName" rel_version="Feature_Dungeon_Mutators_pt2">Toxin II</string>
-	<string key="Mut_Nat_Crawler_2_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators_pt2">Suffering {[-0.4 * -100]}% base Nature damage every {[1.000000]} seconds.</string>
+	<string key="Mut_Nat_Crawler_2_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators_pt2">Suffering {[-0.400000 * -100]}% base Nature damage every {[1.000000]} seconds.</string>
 	<string key="Mut_Nat_Thorns_1_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt2">Bramble I</string>
 	<string key="Mut_Nat_Thorns_2_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt2">Bramble II</string>
 	<string key="Mut_Nat_Death_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt2">Compost</string>
@@ -509,8 +509,8 @@
 	<string key="Mut_Ice_CloseZone_2_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Shiver II</string>
 	<string key="Mut_Ice_CloseZone_1_Damage_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Biting Cold I</string>
 	<string key="Mut_Ice_CloseZone_2_Damage_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Biting Cold II</string>
-	<string key="Mut_Ice_CloseZone_1_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators_pt3">Suffering {[-0.05 * -100]}% base Ice damage every {[1.000000]} seconds.</string>
-	<string key="Mut_Ice_CloseZone_2_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators_pt3">Suffering {[-0.1 * -100]}% base Ice damage every {[1.000000]} seconds.</string>
+	<string key="Mut_Ice_CloseZone_1_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators_pt3">Suffering {[-0.050000 * -100]}% base Ice damage every {[1.000000]} seconds.</string>
+	<string key="Mut_Ice_CloseZone_2_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators_pt3">Suffering {[-0.100000 * -100]}% base Ice damage every {[1.000000]} seconds.</string>
 	<string key="Mut_Ice_Death_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Glacial</string>
 	<string key="Mut_Ice_DeathFreeze_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Glacial</string>
 	<string key="Mut_Ice_DeathFreeze_Slow_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Freezing Slow</string>
@@ -605,7 +605,7 @@
 	<string key="GhostDoom_DisplayName">Detained Stun</string>
 	<string key="GhostDoom_Description">Stunned for {[2.500000]} seconds.</string>
 	<string key="GhostBurn_DisplayName">Burn</string>
-	<string key="GhostBurn_Description">Deals {[-0.05 * -100]}% fire damage every {[0.500000]} seconds for {[3.000000]} seconds. Stacks {[5.000000]} times.</string>
+	<string key="GhostBurn_Description">Deals {[-0.050000 * -100]}% fire damage every {[0.500000]} seconds for {[3.000000]} seconds. Stacks {[5.000000]} times.</string>
 	<string key="GhostShock_DisplayName">Shock</string>
 	<string key="GhostShock_Description">Drains {[-20.000000 * -1]} stamina every {[0.250000]} seconds and reduces stamina regeneration by {[-0.300000 * -100]}% for {[5.000000]} seconds. Stacks {[3.000000]} times.</string>
 	<string key="Waterlogged_DisplayName">Waterlogged</string>
@@ -613,20 +613,20 @@
 	<string key="BruteStun_DisplayName">Bashed</string>
 	<string key="BruteStun_Description">Stunned for {[3.000000]} seconds. Removed by damage.</string>
 	<string key="UndeadBurn_DisplayName">Soulfire Burn</string>
-	<string key="UndeadBurn_Description">Deals {[-0.11 * -100]}% base Fire damage every {[0.500000]} seconds for {[1.500000]}.</string>
+	<string key="UndeadBurn_Description">Deals {[-0.110000 * -100]}% base Fire damage every {[0.500000]} seconds for {[1.500000]}.</string>
 	<string key="UndeadHunter_Burn_DisplayName">Soulfire Burn</string>
-	<string key="UndeadHunter_Burn_Description">Deals {[-0.05 * -100]}% base Fire damage every {[0.500000]} seconds for {[3.000000]} seconds.</string>
+	<string key="UndeadHunter_Burn_Description">Deals {[-0.050000 * -100]}% base Fire damage every {[0.500000]} seconds for {[3.000000]} seconds.</string>
 	<string key="BruteBlast_DisplayName">Blast Burn</string>
-	<string key="BruteBlast_Description">Deals {[-0.1 * -100]}% base Fire damage every {[1.000000]} seconds for {[5.000000]}.</string>
+	<string key="BruteBlast_Description">Deals {[-0.100000 * -100]}% base Fire damage every {[1.000000]} seconds for {[5.000000]}.</string>
 	<string key="UndeadBrute_Consume_DisplayName">Full Stomach</string>
 	<string key="UndeadBrute_Consume_Description">Increases base damage by {[0.350000]} for {[10.000000]} seconds.</string>
 	<string key="Legion_Inspire_Buff" rel_version="Territory_Brimstone_Sands">Inspired</string>
 	<string key="Legion_HeroOfLegion_Buff" rel_version="Territory_Brimstone_Sands">Hero of Legion</string>
 	<string key="Legion_HeroOfLegion_Crassus_Buff" rel_version="Territory_Brimstone_Sands">Heroes of Legion</string>
 	<string key="LegionBurn_DisplayName" rel_version="Territory_Brimstone_Sands">Burn</string>
-	<string key="LegionBurn_Description" rel_version="Territory_Brimstone_Sands">Deals {[-7.4999999999999997E-2 * -100]}% base Fire damage every {[2.000000]} seconds for {[10.000000]} seconds. Stacks {[1.000000]} times.</string>
+	<string key="LegionBurn_Description" rel_version="Territory_Brimstone_Sands">Deals {[-0.075000 * -100]}% base Fire damage every {[2.000000]} seconds for {[10.000000]} seconds. Stacks {[1.000000]} times.</string>
 	<string key="LegionBurn_Crassus_DisplayName" rel_version="Territory_Brimstone_Sands">Burn</string>
-	<string key="LegionBurn_Crassus_Description" rel_version="Territory_Brimstone_Sands">Deals {[-7.4999999999999997E-2 * -100]}% base Fire damage every {[2.000000]} seconds for {[10.000000]} seconds. Stacks {[1.000000]} times.</string>
+	<string key="LegionBurn_Crassus_Description" rel_version="Territory_Brimstone_Sands">Deals {[-0.075000 * -100]}% base Fire damage every {[2.000000]} seconds for {[10.000000]} seconds. Stacks {[1.000000]} times.</string>
 	<string key="Legion_Crassus_TouchOfCorruption_DisplayName">Touch of Corruption</string>
 	<string key="Legion_Crassus_TouchOfCorruption_Tooltip">Movement speed reduced by {[-0.500000 * -100]}% and you suffer Corruption Affliction every {[0.500000]} second for {[20.000000]} seconds.</string>
 	<string key="WitheredMinionFrenzy_DisplayName">Frenzy</string>
@@ -667,22 +667,36 @@
 	<string key="AI_Slime_Slow_Tooltip">Movement speed reduced by {[-0.600000 * -100]}%.</string>
 	<string key="AI_PillarGoat_Buff_DisplayName" rel_version="Territory_Brimstone_Sands">Pushy</string>
 	<string key="AI_Fleeting_Buff_DisplayName" rel_version="Quest_MSQ2_WeaversFen">Fleeting</string>
+	<string key="AI_PlagueRat_PlagueBurstAOE_DisplayName" rel_version="Territory_Dunwood">Noxious Fumes</string>
+	<string key="AI_PlagueRat_PlagueBurstAOE_Tooltip" rel_version="Territory_Dunwood">Poisoned for {[-0.040000 * -100]}% base Nature damage every {[2.000000]} seconds for {[10.000000]} seconds.</string>
+	<string key="AI_PlagueRat_Disease_DisplayName" rel_version="Territory_Dunwood">Disease</string>
+	<string key="AI_PlagueRat_Disease_Tooltip" rel_version="Territory_Dunwood">Reduces healing taken by {[-0.040000 * -100]}%, stacking {[2.000000]} times.</string>
+	<string key="AI_HalloweenPlaguer_PumpkinPlague_DisplayName" rel_version="Event_Halloween_Temp">Pumpkin Plague</string>
+	<string key="AI_HalloweenPlaguer_PumpkinPlague_Tooltip" rel_version="Event_Halloween_Temp">Reduces healing taken by {[-0.020000 * -100]}% for {[60.000000]} seconds, stacking {[25.000000]} times.</string>
+	<string key="AI_HalloweenBoss_PumpkinPlague_DisplayName" rel_version="Event_Halloween_Temp">Pumpkin Plague</string>
+	<string key="AI_HalloweenBoss_PumpkinPlague_Tooltip" rel_version="Event_Halloween_Temp">Reduces healing taken by {[-0.020000 * -100]}% for {[60.000000]} seconds, stacking {[25.000000]} times.</string>
+	<string key="AI_HalloweenGourdspewer_HealPuddle_DisplayName" rel_version="Event_Halloween_Temp">Purifying Aura</string>
+	<string key="AI_HalloweenGourdspewer_HealPuddle_Tooltip" rel_version="Event_Halloween_Temp">Cures Pumpkin Plague and Heals for {[0.050000 * 100]}% base health every {[2.000000]} seconds.</string>
+	<string key="AI_HalloweenPlaguer_HealPuddle_DisplayName" rel_version="Event_Halloween_Temp">Purifying Aura</string>
+	<string key="AI_HalloweenPlaguer_HealPuddle_Tooltip" rel_version="Event_Halloween_Temp">Cures Pumpkin Plague and Heals for {[0.100000 * 100]}% base health every {[2.000000]} seconds.</string>
+	<string key="AI_HalloweenBoss_PutridAura_DisplayName" rel_version="Event_Halloween_Temp">Baalphazu's Curse</string>
+	<string key="AI_HalloweenBoss_PutridAura_Tooltip" rel_version="Event_Halloween_Temp">Take {[-0.066000 * -100]}% base health Nature damage every {[1.000000 * 6]} seconds.</string>
 	<string key="AI_HercyneRat_Disease_DisplayName" rel_version="Territory_FirstLight">Disease</string>
 	<string key="AI_HercyneRat_Disease_Tooltip" rel_version="Territory_FirstLight">Reduces healing taken by {[-0.040000 * -100]}%, stacking {[2.000000]} times.</string>
 	<string key="AI_SpiderBite_DisplayName" rel_version="Raid_CutlassKeys_00">Necrotizing Wound</string>
-	<string key="AI_SpiderBite_Tooltip" rel_version="Raid_CutlassKeys_00">Poisoned for {[-0.04 * -100]}% base Nature damage every {[1.000000]} seconds for {[5.000000]} seconds.</string>
+	<string key="AI_SpiderBite_Tooltip" rel_version="Raid_CutlassKeys_00">Poisoned for {[-0.040000 * -100]}% base Nature damage every {[1.000000]} seconds for {[5.000000]} seconds.</string>
 	<string key="AI_SpiderVenom_DisplayName" rel_version="Raid_CutlassKeys_00">Corrosive Venom</string>
 	<string key="AI_SpiderVenom_Tooltip" rel_version="Raid_CutlassKeys_00">Armor is {[-0.200000 * -100]}% less effective.</string>
 	<string key="AI_PoisonOnHit_Buff_DisplayName">Venomous</string>
 	<string key="AI_PoisonOnHit_Damage_DisplayName">Poison</string>
-	<string key="AI_PoisonOnHit_Damage_Tooltip">Poisoned for {[-0.05 * -100]}% base Nature damage every {[1.000000]} seconds for {[20.000000]} seconds.</string>
+	<string key="AI_PoisonOnHit_Damage_Tooltip">Poisoned for {[-0.050000 * -100]}% base Nature damage every {[1.000000]} seconds for {[20.000000]} seconds.</string>
 	<string key="AI_HealAuraOnHit_Buff_DisplayName">Rallying</string>
 	<string key="AI_Corruption_Pool_Buff_DisplayName">Defiled</string>
 	<string key="AI_Staggered_Telegraph_DisplayName">Staggered</string>
 	<string key="AI_Enable_Stagger">Stagger Enabled</string>
 	<string key="AI_Empress_DamageReduction_DisplayName">Warded</string>
 	<string key="AI_Empress_DragonBurn_DisplayName">Burn</string>
-	<string key="AI_Empress_DragonBurn_Tooltip">Deals {[-0.05 * -100]}% fire damage every {[0.500000]} seconds for {[3.000000]} seconds. Stacks {[5.000000]} times.</string>
+	<string key="AI_Empress_DragonBurn_Tooltip">Deals {[-0.050000 * -100]}% fire damage every {[0.500000]} seconds for {[3.000000]} seconds. Stacks {[5.000000]} times.</string>
 	<string key="AI_Torso_Boss_ArenaShrink_DisplayName">Arcane Burden</string>
 	<string key="AI_Torso_Boss_ArenaShrink_Tooltip">You are burdened with arcane energy, silencing you and dealing damage over time.</string>
 	<string key="AI_Torso_Boss_Stun_Player_DisplayName">Arcane Overload</string>
@@ -702,7 +716,7 @@
 	<string key="AI_Ice_Torso_Boss_Ice_Ground_DisplayName" rel_version="Expedition_GreatCleave_00">Icy Ground</string>
 	<string key="AI_Ice_Torso_Boss_Ice_Ground_Tooltip" rel_version="Expedition_GreatCleave_00">Dealing damage and slow movement speed.</string>
 	<string key="AI_Hercyne_Bleed_DisplayName" rel_version="Territory_FirstLight">Bleed</string>
-	<string key="AI_Hercyne_Bleed_Tooltip" rel_version="Territory_FirstLight">Bleeding for {[-2.5000000000000001E-2 * -100]}% base + {[-7.4999999999999997E-3 * -100]}% base health Physical damage every {[2.000000]} seconds for {[16.000000]} seconds. Stacks {[4.000000]} times.</string>
+	<string key="AI_Hercyne_Bleed_Tooltip" rel_version="Territory_FirstLight">Bleeding for {[-0.025000 * -100]}% base + {[-0.007500 * -100]}% base health Physical damage every {[2.000000]} seconds for {[16.000000]} seconds. Stacks {[4.000000]} times.</string>
 	<string key="AI_HercyneBoar_Thorn_Ally_DisplayName" rel_version="Territory_FirstLight">Thorny Hide</string>
 	<string key="AI_HercyneBoar_AlphaThorns_DisplayName" rel_version="Territory_FirstLight">Thorny Hide</string>
 	<string key="AI_HercyneBoar_ReturnDmg_DisplayName" rel_version="Territory_FirstLight">Return Damage</string>
@@ -723,39 +737,39 @@
 	<string key="AI_Yonas_Stun_4sec_DisplayName" rel_version="Quest_MSQ2_Edengrove">Stunned</string>
 	<string key="AI_Yonas_Stun_4sec_Tooltip" rel_version="Quest_MSQ2_Edengrove">Stunned</string>
 	<string key="AI_Bleed_9_DisplayName">Bleeding</string>
-	<string key="AI_Bleed_9_Tooltip">Bleeding for {[-0.05 * -100]}% base + {[-1.4999999999999999E-2 * -100]}% base health Physical damage every {[2.000000]} seconds for {[10.000000]} seconds.</string>
+	<string key="AI_Bleed_9_Tooltip">Bleeding for {[-0.050000 * -100]}% base + {[-0.015000 * -100]}% base health Physical damage every {[2.000000]} seconds for {[10.000000]} seconds.</string>
 	<string key="AI_IceDragon_Bleed_9_DisplayName" rel_version="Season_4_Temp">Frigid Bleeding</string>
-	<string key="AI_IceDragon_Bleed_9_Tooltip" rel_version="Season_4_Temp">Bleeding for {[-0.05 * -100]}% base + {[-1.4999999999999999E-2 * -100]}% base health Physical damage every {[2.000000]} seconds for {[10.000000]} seconds.</string>
+	<string key="AI_IceDragon_Bleed_9_Tooltip" rel_version="Season_4_Temp">Bleeding for {[-0.050000 * -100]}% base + {[-0.015000 * -100]}% base health Physical damage every {[2.000000]} seconds for {[10.000000]} seconds.</string>
 	<string key="AI_Burn_9_DisplayName">Burning</string>
-	<string key="AI_Burn_9_Tooltip">Burning for {[-7.4999999999999997E-2 * -100]}% base Fire damage every {[2.000000]} seconds for {[10.000000]} seconds.</string>
+	<string key="AI_Burn_9_Tooltip">Burning for {[-0.075000 * -100]}% base Fire damage every {[2.000000]} seconds for {[10.000000]} seconds.</string>
 	<string key="AI_Thorpe_Burn_DisplayName">Umbrous Burn</string>
-	<string key="AI_Thorpe_Burn_Tooltip">Burning for {[-0.03 * -100]}% base health Fire damage every {[0.650000]} seconds for {[10.000000]} seconds.</string>
+	<string key="AI_Thorpe_Burn_Tooltip">Burning for {[-0.030000 * -100]}% base health Fire damage every {[0.650000]} seconds for {[10.000000]} seconds.</string>
 	<string key="AI_Thorpe_FTUE_Burn_DisplayName">Burn</string>
-	<string key="AI_Thorpe_FTUE_Burn_Tooltip">Burning for {[-0.03 * -100]}% base + {[ * -100]}% base health Fire damage every {[0.650000]} seconds for {[10.000000]} seconds.</string>
+	<string key="AI_Thorpe_FTUE_Burn_Tooltip">Burning for {[-0.030000 * -100]}% base + {[0.000000 * -100]}% base health Fire damage every {[0.650000]} seconds for {[10.000000]} seconds.</string>
 	<string key="AI_Evil_Knight_Fire_Champion_HeatingUp" rel_version="Expedition_GreatCleave_01">Heating Up</string>
 	<string key="AI_Evil_Knight_Fire_Champion_HeatingUp_Tooltip" rel_version="Expedition_GreatCleave_01">The Commander is burning with so much rage he might just explode.</string>
 	<string key="AI_Evil_Knight_Fire_Champion_Overheat_DisplayName" rel_version="Expedition_GreatCleave_01">Overheat</string>
-	<string key="AI_Evil_Knight_Fire_Champion_Overheat_Tooltip" rel_version="Expedition_GreatCleave_01">Overheating from the Commander's attacks and will explode at 10 stacks. Also burning for {[-1.2500000000000001E-2 * -100]}% base Fire damage every {[1.000000]} seconds for {[10.000000]} seconds.</string>
+	<string key="AI_Evil_Knight_Fire_Champion_Overheat_Tooltip" rel_version="Expedition_GreatCleave_01">Overheating from the Commander's attacks and will explode at 10 stacks. Also burning for {[-0.012500 * -100]}% base Fire damage every {[1.000000]} seconds for {[10.000000]} seconds.</string>
 	<string key="AI_Evil_Knight_Fire_Champion_DangerTick_DisplayName" rel_version="Expedition_GreatCleave_01">Lava Tide</string>
-	<string key="AI_Evil_Knight_Fire_Champion_DangerTick_Tooltip" rel_version="Expedition_GreatCleave_01">Burning for {[-0.3 * -100]}% base health Fire damage every {[Type_StatusEffectDataAI_Evil_Knight_Fire_Champion_DangerTick.TickRate]} seconds for {[1.000000]} seconds.</string>
+	<string key="AI_Evil_Knight_Fire_Champion_DangerTick_Tooltip" rel_version="Expedition_GreatCleave_01">Burning for {[-0.300000 * -100]}% base health Fire damage every {[Type_StatusEffectDataAI_Evil_Knight_Fire_Champion_DangerTick.TickRate]} seconds for {[1.000000]} seconds.</string>
 	<string key="AI_Evil_Knight_Ice_Mace_Slow_4sec_DisplayName" rel_version="Season_4_Perm">Slow</string>
 	<string key="AI_Evil_Knight_Ice_Mace_Slow_4sec_Tooltip" rel_version="Season_4_Perm">Movement speed reduced by {[-0.200000 * -100]}% for {[4.000000]} seconds.</string>
 	<string key="AI_Evil_Knight_Mine_Burn_DisplayName">Burning</string>
-	<string key="AI_Evil_Knight_Mine_Burn_Tooltip">Burning for {[-0.05 * -100]}% base Fire damage per stack every {[2.000000]} seconds for {[10.000000]} seconds.</string>
+	<string key="AI_Evil_Knight_Mine_Burn_Tooltip">Burning for {[-0.050000 * -100]}% base Fire damage per stack every {[2.000000]} seconds for {[10.000000]} seconds.</string>
 	<string key="AI_Season_04_IceGuardian_AncientChill_DisplayName" rel_version="Season_4_Trial">Ancient Chill</string>
 	<string key="AI_Season_04_IceGuardian_AncientChill_Tooltip" rel_version="Season_4_Trial">Chilled to the bone by being the primary threat of the boss. Stamina regeneration reduced by {[-0.075000 * -100]}%, incoming damage increased by {[0.100000 * 100]}%, and outgoing damage reduced by {[-0.050000 * 100]}%  per stack for {[60.000000]} seconds.</string>
 	<string key="AI_Season_04_IceGuardian_DeepFreeze_DisplayName" rel_version="Season_4_Trial">Deep Freeze</string>
 	<string key="AI_Season_04_IceGuardian_DeepFreeze_Tooltip" rel_version="Season_4_Trial">Lingering frost from the feezing wave. Mana regeneration reduced by {[-1.000000 * -100]}% for {[60.000000]} seconds.</string>
 	<string key="AI_Season_04_IceGuardian_Entomb_Root_DisplayName" rel_version="Season_4_Trial">Icy Tomb</string>
-	<string key="AI_Season_04_IceGuardian_Entomb_Root_Tooltip" rel_version="Season_4_Trial">Frozen in a block of ice. Unable to move or attack and taking {[-0.2 * -100]}% base health Ice damage every {[1.000000]} seconds for {[10.000000]} seconds.</string>
+	<string key="AI_Season_04_IceGuardian_Entomb_Root_Tooltip" rel_version="Season_4_Trial">Frozen in a block of ice. Unable to move or attack and taking {[-0.200000 * -100]}% base health Ice damage every {[1.000000]} seconds for {[10.000000]} seconds.</string>
 	<string key="AI_Season_04_IceGuardian_FrostNova_Root_DisplayName" rel_version="Season_4_Trial">Frozen Soles</string>
 	<string key="AI_Season_04_IceGuardian_FrostNova_Root_Tooltip" rel_version="Season_4_Trial">The soles of your shoes are frozen and attached to the floor. Unable to move for {[3.000000]} seconds.</string>
 	<string key="AI_Season_04_IceGuardian_RuneFireDamageBuff_DisplayName" rel_version="Season_4_Trial">Firey Rune Empowerment</string>
 	<string key="AI_Season_04_IceGuardian_RuneFireDamageBuff_Tooltip" rel_version="Season_4_Trial">Buzzing with firey empowerment. {[2.000000 * 100]}% increase in outgoing Fire damage per stack for {[10.000000]} seconds.</string>
 	<string key="AI_Season_04_IceGuardian_Hypothermia_DisplayName" rel_version="Season_4_Trial">Hypothermia</string>
-	<string key="AI_Season_04_IceGuardian_Hypothermia_Tooltip" rel_version="Season_4_Trial">Taking {[-0.01 * -100]}% base health damage every {[1.000000]} seconds. Also being slowed by {[-0.050000 * -100]}% with {[0.050000 * 100]}% increased Ice weakness per stack.</string>
+	<string key="AI_Season_04_IceGuardian_Hypothermia_Tooltip" rel_version="Season_4_Trial">Taking {[-0.010000 * -100]}% base health damage every {[1.000000]} seconds. Also being slowed by {[-0.050000 * -100]}% with {[0.050000 * 100]}% increased Ice weakness per stack.</string>
 	<string key="AI_Season_04_IceGuardian_Hypothermia_Solo_DisplayName" rel_version="Season_4_Trial">Hypothermia</string>
-	<string key="AI_Season_04_IceGuardian_Hypothermia_Solo_Tooltip" rel_version="Season_4_Trial">Taking {[-0.01 * -100]}% base health damage every {[1.000000]} seconds. Also being slowed by {[-0.050000 * -100]}% with {[0.050000 * 100]}% increased Ice weakness per stack.</string>
+	<string key="AI_Season_04_IceGuardian_Hypothermia_Solo_Tooltip" rel_version="Season_4_Trial">Taking {[-0.010000 * -100]}% base health damage every {[1.000000]} seconds. Also being slowed by {[-0.050000 * -100]}% with {[0.050000 * 100]}% increased Ice weakness per stack.</string>
 	<string key="AI_Season_04_IceGuardian_AncientFlameBearer_DisplayName" rel_version="Season_4_Trial">Ancient Flame Bearer</string>
 	<string key="AI_Season_04_IceGuardian_AncientFlameBearer_Tooltip" rel_version="Season_4_Trial">Bearing the ancient flame. The flame offers protection against Hypothermia to the surrounding area.</string>
 	<string key="AI_Season_04_IceGuardian_AncientFlame_DisplayName" rel_version="Season_4_Trial">Ancient Flame</string>
@@ -773,9 +787,9 @@
 	<string key="AI_Season_04_IceGuardian_AncientFlameCooldown_Solo_DisplayName" rel_version="Season_4_Trial">Ancient Flame Bearer Exhaustion</string>
 	<string key="AI_Season_04_IceGuardian_AncientFlameCooldown_Solo_Tooltip" rel_version="Season_4_Trial">Weary from holding the Ancient Flame. Unable to hold the Flame again for {[30.000000]} seconds.</string>
 	<string key="AI_Poison_55_DisplayName">Poisoned</string>
-	<string key="AI_Poison_55_Tooltip">Poisoned for {[-0.04 * -100]}% base + {[-0.02 * -100]}% base health Nature damage every {[2.000000]} seconds for {[20.000000]} seconds.</string>
+	<string key="AI_Poison_55_Tooltip">Poisoned for {[-0.040000 * -100]}% base + {[-0.020000 * -100]}% base health Nature damage every {[2.000000]} seconds for {[20.000000]} seconds.</string>
 	<string key="AI_Poison_Pool_DisplayName">Poisoned</string>
-	<string key="AI_Poison_Pool_Tooltip">Poisoned for {[-4.4999999999999998E-2 * -100]}% base + {[-2.5000000000000001E-2 * -100]}% base health Nature damage every {[2.000000]} seconds.</string>
+	<string key="AI_Poison_Pool_Tooltip">Poisoned for {[-0.045000 * -100]}% base + {[-0.025000 * -100]}% base health Nature damage every {[2.000000]} seconds.</string>
 	<string key="AI_Root_4sec_DisplayName">Rooted</string>
 	<string key="AI_Root_4sec_Tooltip">Rooted in place and unable to move for {[4.000000]} seconds.</string>
 	<string key="AI_Snare_6sec_DisplayName">Snared</string>
@@ -793,7 +807,7 @@
 	<string key="AI_Stun_6sec_DisplayName">Stunned</string>
 	<string key="AI_Stun_10sec_Tooltip">Stunned for {[10.000000]} seconds.</string>
 	<string key="AI_Stun_10sec_DisplayName">Stunned</string>
-	<string key="AI_SulfurBurn_Tooltip">You suffer {[-0.02 * -100]}% Fire damage per tick and take {[-0.100000 * -100]}% increased damage per stack from all sources for {[10.000000]} seconds.</string>
+	<string key="AI_SulfurBurn_Tooltip">You suffer {[-0.020000 * -100]}% Fire damage per tick and take {[-0.100000 * -100]}% increased damage per stack from all sources for {[10.000000]} seconds.</string>
 	<string key="AI_SulfurBurn_DisplayName">Sulfur Burn</string>
 	<string key="AI_Stun_6sec_Tooltip">You suffer {[-0.200000 * -100]}% increased damage from all sources for {[15.000000]} seconds.</string>
 	<string key="AI_Rend_DisplayName">Rend</string>
@@ -813,13 +827,13 @@
 	<string key="AI_DryadSiren_Erosion_Debuff_DisplayName" rel_version="Expedition_CutlassKeys_00">Erosion</string>
 	<string key="AI_DryadSiren_Erosion_Debuff_Tooltip" rel_version="Expedition_CutlassKeys_00">You suffer {[-0.050000 * -100]}% increased damage from all sources for {[30.000000]} seconds.</string>
 	<string key="AI_Disease_GraveDigger_DisplayName">Soul Siphon</string>
-	<string key="AI_Disease_GraveDigger_Tooltip">Deals {[ * -100]}% base health damage and heals the Gravedigger for {[5.0000000000000001E-3 * 100]}% base health every {[1.000000]} seconds.</string>
+	<string key="AI_Disease_GraveDigger_Tooltip">Deals {[0.000000 * -100]}% base health damage and heals the Gravedigger for {[0.005000 * 100]}% base health every {[1.000000]} seconds.</string>
 	<string key="AI_Naga_AncientGuardian_Vuln_DisplayName">Arcane Rend</string>
 	<string key="AI_Naga_AncientGuardian_Vuln_Tooltip">You suffer {[-0.200000 * -100]}% increased Arcane damage per stack for {[300.000000]} seconds.</string>
 	<string key="AI_Naga_AncientGuardian_Bomb_StatusEffect_DisplayName">Arcane Explosion</string>
 	<string key="AI_Naga_AncientGuardian_Bomb_StatusEffect_Tooltip">The Naga charges you with an unstable amount of Arcane. After {[3.000000]} seconds you discharge the Arcane, spawning an explosive orb.</string>
 	<string key="AI_Naga_Corrupted_CorruptionCore_DisplayName" rel_version="Expedition_ShatterMtn_00">Corrupted Soul</string>
-	<string key="AI_Naga_Corrupted_CorruptionCore_Tooltip" rel_version="Expedition_ShatterMtn_00">Your soul is weakened, causing you to suffer {[-2.5000000000000001E-2 * -100]}% of your health per second per stack. This effect cannot be removed.</string>
+	<string key="AI_Naga_Corrupted_CorruptionCore_Tooltip" rel_version="Expedition_ShatterMtn_00">Your soul is weakened, causing you to suffer {[-0.025000 * -100]}% of your health per second per stack. This effect cannot be removed.</string>
 	<string key="AI_Naga_AncientGuardian_Might_StatusEffect_DisplayName">Ancient Might</string>
 	<string key="AI_Naga_AncientGuardian_Defense_StatusEffect_DisplayName">Ancient Defense</string>
 	<string key="AI_Naga_AncientGuardian_Arcana_StatusEffect_DisplayName">Ancient Arcana</string>
@@ -845,13 +859,13 @@
 	<string key="AI_IceDryad_Frostfang_Debuff_Weaken_DisplayName" rel_version="Event_WinterConvergence_Perm">Weaken</string>
 	<string key="AI_IceDryad_Frostfang_Debuff_Weaken_Tooltip" rel_version="Event_WinterConvergence_Perm">Outgoing damage reduction for most types for {[10.000000]} seconds.</string>
 	<string key="AI_DPTank_SandDevil_Bleed_Cyclone_DisplayName" rel_version="Territory_Brimstone_Sands">Sand Devil</string>
-	<string key="AI_DPTank_SandDevil_Bleed_Cyclone_Tooltip" rel_version="Territory_Brimstone_Sands">Bleeding for {[-0.01 * -100]}% base health Physical damage every {[5.000000]} seconds for {[30.000000]} seconds.</string>
+	<string key="AI_DPTank_SandDevil_Bleed_Cyclone_Tooltip" rel_version="Territory_Brimstone_Sands">Bleeding for {[-0.010000 * -100]}% base health Physical damage every {[5.000000]} seconds for {[30.000000]} seconds.</string>
 	<string key="AI_DPTank_SandDevil_Rend_Cyclone_DisplayName" rel_version="Territory_Brimstone_Sands">Rend</string>
 	<string key="AI_DPTank_SandDevil_Rend_Cyclone_Tooltip" rel_version="Territory_Brimstone_Sands">You suffer {[-0.400000 * -100]}% increased damage from all sources for {[20.000000]} seconds.</string>
 	<string key="AI_DPTank_WorldSplitter_Bleed_Axe_DisplayName" rel_version="Territory_Brimstone_Sands">Sandstorm</string>
-	<string key="AI_DPTank_WorldSplitter_Bleed_Axe_Tooltip" rel_version="Territory_Brimstone_Sands">Bleeding for {[-0.05 * -100]}% base health Physical damage every {[2.000000]} seconds for {[10.000000]} seconds.</string>
+	<string key="AI_DPTank_WorldSplitter_Bleed_Axe_Tooltip" rel_version="Territory_Brimstone_Sands">Bleeding for {[-0.050000 * -100]}% base health Physical damage every {[2.000000]} seconds for {[10.000000]} seconds.</string>
 	<string key="AI_DPTank_SandDevil_Bleed_Axe_DisplayName" rel_version="Territory_Brimstone_Sands">Bleeding Sands</string>
-	<string key="AI_DPTank_SandDevil_Bleed_Axe_Tooltip" rel_version="Territory_Brimstone_Sands">Bleeding for {[-0.01 * -100]}% base health Physical damage every {[4.000000]} seconds for {[20.000000]} seconds.</string>
+	<string key="AI_DPTank_SandDevil_Bleed_Axe_Tooltip" rel_version="Territory_Brimstone_Sands">Bleeding for {[-0.010000 * -100]}% base health Physical damage every {[4.000000]} seconds for {[20.000000]} seconds.</string>
 	<string key="AI_DPTank_Fortify_Limited_DisplayName" rel_version="Territory_Brimstone_Sands">Fortify</string>
 	<string key="AI_DPTank_Fortify_Limited_Tooltip" rel_version="Territory_Brimstone_Sands">Increased damage absorption from specfic types for {[5.000000 * 100]} seconds.</string>
 	<string key="AI_DPTank_Empower_Unlimited_DisplayName" rel_version="Territory_Brimstone_Sands">Empower</string>
@@ -876,24 +890,56 @@
 	<string key="AI_Soulharvester_MagicVolleySlow_Tooltip" rel_version="AI_Ghastly_Horrors">Movement speed reduced by {[-0.390000 * -100]}% while in the area of effect.</string>
 	<string key="AI_Soulharvester_LeechDamage_DisplayName" rel_version="AI_Ghastly_Horrors">Temp name</string>
 	<string key="AI_Soulharvester_LeechDamage_Tooltip" rel_version="AI_Ghastly_Horrors">Change later.</string>
+	<string key="AI_Upyr_Thrall_Aggressor_AxeBleed_DisplayName" rel_version="Territory_Dunwood">Bleeding</string>
+	<string key="AI_Upyr_Thrall_Aggressor_AxeBleed_Tooltip" rel_version="Territory_Dunwood">Bleeding for {[-0.020000 * -100]}% base health Physical damage every {[1.000000]} seconds for {[6.000000]} seconds.</string>
+	<string key="AI_Upyr_Thrall_Aggressor_Spell_Fortify_DisplayName" rel_version="Territory_Dunwood">Fortify</string>
+	<string key="AI_Upyr_Thrall_Aggressor_Spell_Fortify_Tooltip" rel_version="Territory_Dunwood">Damage absorption increased for all Damage Types for {[13.000000]} seconds.</string>
+	<string key="AI_Upyr_Thrall_SoulHunter_SoulShot_Tooltip" rel_version="Territory_Dunwood">Siphons {[-0.010000 * -100]}% of health every {[0.500000]} seconds for {[5.000000]} seconds.</string>
+	<string key="AI_Upyr_Thrall_SoulHunter_SoulShot_DisplayName" rel_version="Territory_Dunwood">Soul Shot</string>
+	<string key="AI_Upyr_Thrall_Grunt_ArmoredApproach_Tooltip" rel_version="Territory_Dunwood">Absorbs incoming attack damage and converts it to stamina damage while active.</string>
+	<string key="AI_Upyr_Thrall_Grunt_ArmoredApproach_DisplayName" rel_version="Territory_Dunwood">Armored Approach</string>
+	<string key="AI_Upyr_Shade_Unstable_DisplayName" rel_version="Territory_Dunwood">Unstable</string>
+	<string key="AI_Upyr_Shade_Enraged_DisplayName" rel_version="Territory_Dunwood">Enraged</string>
+	<string key="AI_Upyr_Shade_PlayerBeingConsumed_DisplayName" rel_version="Territory_Dunwood">Consumed</string>
+	<string key="AI_Upyr_Shade_PlayerBeingConsumed_Tooltip" rel_version="Territory_Dunwood">Your movement, attacks, and abilities are currently disabled while being consumed. Removed by damage.</string>
+	<string key="AI_Upyr_Consort_ChainEffect_DisplayName" rel_version="Territory_Dunwood">Suffering Chain</string>
+	<string key="AI_Upyr_Consort_ChainEffect_Tooltip" rel_version="Territory_Dunwood">Taking damage and reducing movement speed, destroy the pillar to break chains.</string>
+	<string key="AI_Upyr_Guardian_Soul_Whirlwind_DisplayName" rel_version="Territory_Dunwood">Soul Whirlwind</string>
+	<string key="AI_Upyr_Guardian_Soul_Whirlwind_Description" rel_version="Territory_Dunwood">Soul Whirlwind</string>
+	<string key="AI_Upyr_Guardian_Soul_Whirlwind_Rend_DisplayName" rel_version="Territory_Dunwood">Soul Rend</string>
+	<string key="AI_Upyr_Guardian_Soul_Whirlwind_Rend_Description" rel_version="Territory_Dunwood">You suffer {[-0.050000 * -100]}% increased damage from all sources per stack for {[8.000000]} seconds.</string>
+	<string key="Werewolf_Lord_Bleed_DisplayName" rel_version="Territory_Dunwood">Bleed</string>
+	<string key="Werewolf_Lord_Bleed_Tooltip" rel_version="Territory_Dunwood">You are Bleeding</string>
+	<string key="Werewolf_Lord_Trial2_Heal_DisplayName" rel_version="Territory_Dunwood">Recovering</string>
+	<string key="Werewolf_Nat_Damage_Buff_DisplayName" rel_version="Territory_Dunwood">Empowered</string>
+	<string key="Werewolf_Lord_Trial1_PowerDamage_DisplayName" rel_version="Territory_Dunwood">Damage Power-up</string>
+	<string key="Werewolf_Lord_Trial1_PowerDamage_Tooltip" rel_version="Territory_Dunwood">Boosts all damage types by {[0.200000 * 100]}% for {[12.000000]} seconds.</string>
+	<string key="Werewolf_Lord_Trial1_HealPlayer_DisplayName" rel_version="Territory_Dunwood">Health Power-up</string>
+	<string key="Werewolf_Lord_Trial1_HealPlayer_Tooltip" rel_version="Territory_Dunwood">Gain {[10000.000000]} Health when collected.</string>
+	<string key="Werewolf_Lord_Trial1_DeviceStatus_DisplayName" rel_version="Territory_Dunwood">REPAIR THE DEVICE</string>
+	<string key="Werewolf_Lord_Trial1_RepairStatus_DisplayName" rel_version="Territory_Dunwood">Repair The Device</string>
+	<string key="Werewolf_Lord_Trial1_MinionAttack_DisplayName" rel_version="Territory_Dunwood">Focused</string>
+	<string key="Werewolf_Lord_Trial1_RepairStatus_Tooltip" rel_version="Territory_Dunwood">Use this to repair the Shield Device and repel the enemy</string>
+	<string key="Werewolf_Lord_Trial2_Root_2sec_DisplayName" rel_version="Territory_Dunwood">Rooted</string>
+	<string key="Werewolf_Lord_Trial2_Root_2sec_Tooltip" rel_version="Territory_Dunwood">You are Rooted</string>
 	<string key="AI_AdmiralBrute_Blackpowder_DisplayName" rel_version="Expedition_CutlassKeys_00">Black Powder</string>
 	<string key="AI_AdmiralBrute_Blackpowder_Tooltip" rel_version="Expedition_CutlassKeys_00">You're coated in black powder. Taking Fire damage from an enemy will ignite the powder and inflict Burn!</string>
 	<string key="AI_AdmiralBrute_Blackpowder_Burn_DisplayName" rel_version="Expedition_CutlassKeys_00">Black Powder Burn</string>
-	<string key="AI_AdmiralBrute_Blackpowder_Burn_Tooltip" rel_version="Expedition_CutlassKeys_00">Burning for {[-0.05 * -100]}% base health Fire damage every {[1.000000]} seconds for {[10.000000]} seconds.</string>
+	<string key="AI_AdmiralBrute_Blackpowder_Burn_Tooltip" rel_version="Expedition_CutlassKeys_00">Burning for {[-0.050000 * -100]}% base health Fire damage every {[1.000000]} seconds for {[10.000000]} seconds.</string>
 	<string key="AI_AdmiralBrute_CannonRain_Targeted_DOT_DisplayName" rel_version="Expedition_CutlassKeys_00">Cannon Burn</string>
-	<string key="AI_AdmiralBrute_CannonRain_Targeted_DOT_Tooltip" rel_version="Expedition_CutlassKeys_00">Burning for {[-7.4999999999999997E-2 * -100]}% base Fire damage every {[1.000000]} seconds.</string>
+	<string key="AI_AdmiralBrute_CannonRain_Targeted_DOT_Tooltip" rel_version="Expedition_CutlassKeys_00">Burning for {[-0.075000 * -100]}% base Fire damage every {[1.000000]} seconds.</string>
 	<string key="AI_FireNaga_Flamethrower_DoT_DisplayName" rel_version="Expedition_GreatCleave_01">Burning</string>
-	<string key="AI_FireNaga_Flamethrower_DoT_Tooltip" rel_version="Expedition_GreatCleave_01">Burning for {[-0.03 * -100]}% max health of Fire damage every {[0.300000]} seconds for {[3.000000]} seconds.</string>
+	<string key="AI_FireNaga_Flamethrower_DoT_Tooltip" rel_version="Expedition_GreatCleave_01">Burning for {[-0.030000 * -100]}% max health of Fire damage every {[0.300000]} seconds for {[3.000000]} seconds.</string>
 	<string key="AI_FireNaga_LavaPool_DoT_DisplayName" rel_version="Expedition_GreatCleave_01">Burning Lava</string>
-	<string key="AI_FireNaga_LavaPool_DoT_Tooltip" rel_version="Expedition_GreatCleave_01">Burning for {[-0.04 * -100]}% max health of Fire damage every {[0.100000]} second.</string>
+	<string key="AI_FireNaga_LavaPool_DoT_Tooltip" rel_version="Expedition_GreatCleave_01">Burning for {[-0.040000 * -100]}% max health of Fire damage every {[0.100000]} second.</string>
 	<string key="AI_Elephant_H_Goth_DoT_SE_DisplayName" rel_version="Raid_CutlassKeys_00">Poison</string>
-	<string key="AI_Elephant_H_Goth_DoT_SE_Tooltip" rel_version="Raid_CutlassKeys_00">Damaging for {[-0.04 * -100]}% base health Nature damage every {[1.000000]} second inside area of effect.</string>
+	<string key="AI_Elephant_H_Goth_DoT_SE_Tooltip" rel_version="Raid_CutlassKeys_00">Damaging for {[-0.040000 * -100]}% base health Nature damage every {[1.000000]} second inside area of effect.</string>
 	<string key="AI_Gorilla_H_Disease_DisplayName" rel_version="Raid_CutlassKeys_00">Disease</string>
 	<string key="AI_Gorilla_H_Disease_Tooltip" rel_version="Raid_CutlassKeys_00">Reduces healing taken by {[-0.150000 * -100]}%, stacking {[3.000000]} times.</string>
 	<string key="AI_MegaFlora_FrostBite_DisplayName" rel_version="Territory_FirstLight">Frostbite</string>
 	<string key="AI_MegaFlora_FrostBite_Tooltip" rel_version="Territory_FirstLight">Frozen by Ancient Ice Magic, can't run, jump or dodge.</string>
 	<string key="AI_IceGolem_Bleed_DisplayName" rel_version="Expedition_GreatCleave_00">Bleeding</string>
-	<string key="AI_IceGolem_Bleed_Tooltip" rel_version="Expedition_GreatCleave_00">Bleeding for {[-0.03 * -100]}% base health Physical damage every {[1.000000]} seconds for {[8.000000]} seconds, stacking {[4.000000]} times.</string>
+	<string key="AI_IceGolem_Bleed_Tooltip" rel_version="Expedition_GreatCleave_00">Bleeding for {[-0.030000 * -100]}% base health Physical damage every {[1.000000]} seconds for {[8.000000]} seconds, stacking {[4.000000]} times.</string>
 	<string key="AI_IceGolem_Exhaust_DisplayName" rel_version="Expedition_GreatCleave_00">Exhausted</string>
 	<string key="AI_IceGolem_Exhaust_ToolTip" rel_version="Expedition_GreatCleave_00">Stamina regeneration reduced by {[-0.190000 * -100]}%.</string>
 	<string key="AI_IceGolem_Slow_DisplayName" rel_version="Expedition_GreatCleave_00">Slow</string>
@@ -901,13 +947,13 @@
 	<string key="AI_IceGolem_Slow_FrostBreath_DisplayName" rel_version="Expedition_GreatCleave_00">Slow</string>
 	<string key="AI_IceGolem_Slow_FrostBreath_Tooltip" rel_version="Expedition_GreatCleave_00">Movement speed reduced by {[-0.400000 * -100]}% for {[6.000000]} seconds, stacking {[1.000000]} times.</string>
 	<string key="AI_IceGolem_Hypothermia_DisplayName" rel_version="Expedition_GreatCleave_00">Hypothermia</string>
-	<string key="AI_IceGolem_Hypothermia_Tooltip" rel_version="Expedition_GreatCleave_00">Damaging {[-0.04 * -100]}% base health Ice damage every {[2.000000]} seconds, stacking {[10.000000]} times.</string>
+	<string key="AI_IceGolem_Hypothermia_Tooltip" rel_version="Expedition_GreatCleave_00">Damaging {[-0.040000 * -100]}% base health Ice damage every {[2.000000]} seconds, stacking {[10.000000]} times.</string>
 	<string key="AI_AncientGuardian_Bowman_Frosty_Rapid_Shot_DisplayName" rel_version="Season_4_Perm">Ice cloud</string>
 	<string key="AI_AncientGuardian_Bowman_Frosty_Rapid_Shot_Tooltip" rel_version="Season_4_Perm">Movement speed reduced by {[-0.500000 * -100]}%.</string>
 	<string key="AI_MotherwellElk_SE_Slow_DisplayName" rel_version="Quest_MSQ2_Edengrove">Slow</string>
 	<string key="AI_MotherwellElk_SE_Slow_Tooltip" rel_version="Quest_MSQ2_Edengrove">Movement speed reduced by {[-0.200000 * -100]}% for {[3.000000]} seconds, stacking {[2.000000]} times.</string>
 	<string key="AI_MotherwellElk_SE_Bleed_DisplayName" rel_version="Quest_MSQ2_Edengrove">Bleeding</string>
-	<string key="AI_MotherwellElk_SE_Bleed_Tooltip" rel_version="Quest_MSQ2_Edengrove">Bleeding for {[-0.03 * -100]}% base health Physical damage every {[3.000000]} seconds for {[15.000000]} seconds.</string>
+	<string key="AI_MotherwellElk_SE_Bleed_Tooltip" rel_version="Quest_MSQ2_Edengrove">Bleeding for {[-0.030000 * -100]}% base health Physical damage every {[3.000000]} seconds for {[15.000000]} seconds.</string>
 	<string key="AI_MotherwellElk_SE_Rend_DisplayName" rel_version="Quest_MSQ2_Edengrove">Rend</string>
 	<string key="AI_MotherwellElk_SE_Rend_Tooltip" rel_version="Quest_MSQ2_Edengrove">Incoming damage is increased by {[-0.190000 * -100]}% for {[15.000000]} seconds, stacking {[3.000000]} times.</string>
 	<string key="AI_MotherwellElk_SE_Exhaust_DisplayName" rel_version="Quest_MSQ2_Edengrove">Exhausted</string>
@@ -917,9 +963,9 @@
 	<string key="Sandworm_Acid_Resistance_DisplayName" rel_version="Trial_Brimstone_Sandworm">Storm Chaser</string>
 	<string key="Sandworm_Acid_Resistance_Tooltip" rel_version="Trial_Brimstone_Sandworm">Become highly resistant to Siege Damage. Your Melee attacks apply Rend causing targets hit to take increased damage by {[-0.020000 * -100]}% for {[3.500000]} seconds, stacking up to {[25.000000]} times.</string>
 	<string key="Sandworm_Acid_Pool_DisplayName" rel_version="Trial_Brimstone_Sandworm">Acid Pool</string>
-	<string key="Sandworm_Acid_Pool_Tooltip" rel_version="Trial_Brimstone_Sandworm">Taking {[-0.04 * -100]}% max health in Acid damage and suffer Acid Affliction every {[0.500000]} seconds.</string>
+	<string key="Sandworm_Acid_Pool_Tooltip" rel_version="Trial_Brimstone_Sandworm">Taking {[-0.040000 * -100]}% max health in Acid damage and suffer Acid Affliction every {[0.500000]} seconds.</string>
 	<string key="Sandworm_Devour_Area_Denial_DisplayName" rel_version="Trial_Brimstone_Sandworm">Digestive Juices</string>
-	<string key="Sandworm_Devour_Area_Denial_Tooltip" rel_version="Trial_Brimstone_Sandworm">Taking {[-2.5000000000000001E-2 * -100]}% max health in Acid damage and suffer Acid Affliction every {[0.500000]} seconds.</string>
+	<string key="Sandworm_Devour_Area_Denial_Tooltip" rel_version="Trial_Brimstone_Sandworm">Taking {[-0.025000 * -100]}% max health in Acid damage and suffer Acid Affliction every {[0.500000]} seconds.</string>
 	<string key="Sandworm_ElenetalJuggernaut_Invulnerability_DisplayName" rel_version="Trial_Brimstone_Sandworm">Shielded</string>
 	<string key="Sandworm_ElenetalJuggernaut_Invulnerability_Tooltip" rel_version="Trial_Brimstone_Sandworm">Immune to damage.</string>
 	<string key="Sandworm_Invulnerability_DisplayName" rel_version="Trial_Brimstone_Sandworm">Shielded</string>
@@ -927,11 +973,11 @@
 	<string key="Sandworm_Storm_Chaser_Debuff_DisplayName" rel_version="Trial_Brimstone_Sandworm">Storm Chaser Rend</string>
 	<string key="Sandworm_Storm_Chaser_Debuff_Tooltip" rel_version="Trial_Brimstone_Sandworm">Incoming damage is increased by {[-0.020000 * 100]}% for {[{[3.500000]}]} seconds. Stacks up to {[25.000000]} times.</string>
 	<string key="Sandworm_Acid_Storm_DisplayName" rel_version="Trial_Brimstone_Sandworm">Acid Storm</string>
-	<string key="Sandworm_Acid_Storm_Tooltip" rel_version="Trial_Brimstone_Sandworm">Taking {[-1.4999999999999999E-2 * -100]}% max health in Acid damage and suffer Acid Affliction every {[1.000000]} seconds.</string>
+	<string key="Sandworm_Acid_Storm_Tooltip" rel_version="Trial_Brimstone_Sandworm">Taking {[-0.015000 * -100]}% max health in Acid damage and suffer Acid Affliction every {[1.000000]} seconds.</string>
 	<string key="Sandworm_Acid_Spew_DisplayName" rel_version="Trial_Brimstone_Sandworm">Acid Spew</string>
-	<string key="Sandworm_Acid_Spew_Tooltip" rel_version="Trial_Brimstone_Sandworm">Taking {[-0.25 * -100]}% max health in Acid damage and suffer Acid Affliction every {[1.000000]} seconds.</string>
+	<string key="Sandworm_Acid_Spew_Tooltip" rel_version="Trial_Brimstone_Sandworm">Taking {[-0.250000 * -100]}% max health in Acid damage and suffer Acid Affliction every {[1.000000]} seconds.</string>
 	<string key="AI_ArmoredDragon_Bleed_DisplayName" rel_version="Territory_FirstLight">Metal Breath Shards</string>
-	<string key="AI_ArmoredDragon_Bleed_Tooltip" rel_version="Territory_FirstLight">Bleeding for {[-5.0000000000000001E-3 * -100]}% base health Physical damage every {[0.500000]} seconds for {[10.000000]} seconds.</string>
+	<string key="AI_ArmoredDragon_Bleed_Tooltip" rel_version="Territory_FirstLight">Bleeding for {[-0.005000 * -100]}% base health Physical damage every {[0.500000]} seconds for {[10.000000]} seconds.</string>
 	<string key="Mammoth_Lightning_Shock_DisplayName" rel_version="Territory_FirstLight">Shock Blast</string>
 	<string key="Mammoth_Lightning_Shock_Tooltip" rel_version="Territory_FirstLight">Drains {[-30.000000 * -1]} stamina every {[1.000000]} seconds and reduces stamina regeneration by {[-0.250000 * -100]}% for {[2.000000]} seconds. Stacks {[3.000000]} times.</string>
 	<string key="AI_Gorilla_Boss_Attune_Fire_DisplayName" rel_version="Territory_FirstLight">Fire Node Attunement</string>
@@ -955,7 +1001,7 @@
 	<string key="AI_Gorilla_Boss_DamageVuln_DisplayName" rel_version="Territory_FirstLight">Elemental Node Backlash</string>
 	<string key="AI_Gorilla_Boss_DamageVuln_Description" rel_version="Territory_FirstLight">Kurok is disoriented and takes {[-0.500000 * -100]} additional Damage. Duration is determined by stacks of Node Empowerment when backlash is triggered.</string>
 	<string key="AI_Gorilla_Boss_Burn_DisplayName" rel_version="Territory_FirstLight">Flames of Kurok</string>
-	<string key="AI_Gorilla_Boss_Burn_Description" rel_version="Territory_FirstLight">Burning for {[-0.05 * -100]}% of Kurok's damage as Fire Damage for {[5.000000]} seconds. Stacks up to {[3.000000]} times.</string>
+	<string key="AI_Gorilla_Boss_Burn_Description" rel_version="Territory_FirstLight">Burning for {[-0.050000 * -100]}% of Kurok's damage as Fire Damage for {[5.000000]} seconds. Stacks up to {[3.000000]} times.</string>
 	<string key="AI_Gorilla_Boss_Chill_DisplayName" rel_version="Territory_FirstLight">Frost of Kurok</string>
 	<string key="AI_Gorilla_Boss_Chill_Description" rel_version="Territory_FirstLight">Slowed by {[-0.030000 * -100]}% for {[6.000000 * 100]} seconds. Stacks up to {[10.000000]} times.</string>
 	<string key="godModeThirst_DisplayName">God Mode</string>
@@ -1293,9 +1339,9 @@
 	<string key="IceMagic_WindChill_Shatter_DisplayName">Shatter</string>
 	<string key="IceMagic_WindChill_Shatter_Description">Armor reduced by {[-0.050000 * -100]}% per stack.</string>
 	<string key="IceMagic_QuickFrost_DisplayName">Quick Frost</string>
-	<string key="IceMagic_QuickFrost_Description">Increase speed 10%.</string>
+	<string key="IceMagic_QuickFrost_Description">Increase speed &lt;font face="lyshineui/fonts/Nimbus_SemiBold.font" color="#edc63e"&gt;{[0.070000 * 100]}%&lt;/font&gt;.</string>
 	<string key="IceMagic_QuickFrostUltimate_DisplayName">Quick Frost</string>
-	<string key="IceMagic_QuickFrostUltimate_Description">Increase speed 20%.</string>
+	<string key="IceMagic_QuickFrostUltimate_Description">Increase speed &lt;font face="lyshineui/fonts/Nimbus_SemiBold.font" color="#edc63e"&gt;{[0.140000 * 100]}%&lt;/font&gt;.</string>
 	<string key="IceMagic_FrozenTouch_DisplayName">Frozen Touch</string>
 	<string key="IceMagic_FrozenTouch_Description">Slowed by 25%.</string>
 	<string key="IceMagic_DefiantFreeze_DisplayName">Defiant Freeze</string>
@@ -1446,7 +1492,7 @@
 	<string key="Rapier_Rupture_Debuff_Upgraded_DisplayName">Damage</string>
 	<string key="Rapier_Rupture_Debuff_Upgraded_Description">Damage</string>
 	<string key="Rapier_Evasion_Effect_DisplayName">Evasion</string>
-	<string key="Rapier_Evasion_Effect_Description">You move 20% faster.</string>
+	<string key="Rapier_Evasion_Effect_Description">You move {[0.120000 * 100]}% faster.</string>
 	<string key="Rapier_Evasion_Effect_Mod1_DisplayName">Evasion1</string>
 	<string key="Rapier_Evasion_Effect_Mod1_Description">Evasion1</string>
 	<string key="Rapier_Evasion_Effect_Mod2_DisplayName">Evasion2</string>
@@ -1491,6 +1537,10 @@
 	<string key="Status_Artifact_LifeStaff_StackTracker_Description" rel_version="Feature_Artifacts_Set2">Having a heavy attack pass through an ally while you have {[3.000000]} stacks of this effect will Reinforce them.</string>
 	<string key="Status_Artifact_LifeStaff_Reinforced_DisplayName" rel_version="Feature_Artifacts_Set2">Reinforced</string>
 	<string key="Status_Artifact_LifeStaff_Reinforced_Description" rel_version="Feature_Artifacts_Set2">Gain damage reduction for {[1.000000]} hits while this is active.</string>
+	<string key="Status_Infix_BoltTracker_Name" rel_version="ProgressionOverhaul2025">Critical Storm</string>
+	<string key="Status_Infix_BoltTracker_Desc" rel_version="ProgressionOverhaul2025">Tracking effect for the critical storm infix, hitting a target with an ability while at max stacks will consume stacks to trigger a lightning stike that deals bonus damage.</string>
+	<string key="Status_Infix_GritStun_Name" rel_version="ProgressionOverhaul2025">Thwarting Stun</string>
+	<string key="Status_Infix_GritStun_Desc" rel_version="ProgressionOverhaul2025">Tracking effect for the thwarting stun infix, hitting a target with a heavy attack while at max stacks will consume stacks to stun the target.</string>
 	<string key="BlockBreakerDebuffPerk_DisplayName">Exhaust</string>
 	<string key="BlockSpeedPerk1_Description">Your movement speed is increased by {[0.500000 * 100]}</string>
 	<string key="BlockSpeedPerk2_Description">Your movement speed is increased by {[0.250000 * 100]}</string>
@@ -1500,6 +1550,8 @@
 	<string key="OR_Boss_Buff_Description">+{[0.150000 * 100]}% armor and +{[5.000000 * 4]} health regeneration per second.</string>
 	<string key="OR_FortSpawn_Invulnerable_Name">Fort Spawn Invulnerability</string>
 	<string key="OR_FortSpawn_Invulnerable_Description">Invulnerable for the duration of this effect after spawning in your Outpost Rush fort.</string>
+	<string key="Gamemode_Generic_Invulnerable_Name">Invulnerability</string>
+	<string key="Gamemode_Generic_Invulnerable_Description">Invulnerable for the duration of this effect</string>
 	<string key="Status_Empower">Empower</string>
 	<string key="Status_Fortify">Fortify</string>
 	<string key="Status_Invulnerability">Invulnerability</string>
@@ -1527,6 +1579,8 @@
 	<string key="Status_Reinforced">Reinforced</string>
 	<string key="Status_Blessed">Blessed</string>
 	<string key="Status_Anointed">Anointed</string>
+	<string key="Status_Uninterruptible">Uninterruptible</string>
+	<string key="Status_Uninterruptible_Description">Immune to staggers and knockdowns while active.</string>
 	<string key="Status_Empower_Description">You have an active damage increase buff.</string>
 	<string key="Status_Invulnerability_Description">You are immune to damage.</string>
 	<string key="Status_Fortify_Description">You have an active buff to armor.</string>
@@ -1542,6 +1596,7 @@
 	<string key="Status_Poison_Description">You currently have a Poison damage over time effect on you.</string>
 	<string key="Status_Bleed_Description">You currently have a Bleed damage over time effect on you.</string>
 	<string key="Status_Burn_Description">You currently have a Fire damage over time effect on you.</string>
+	<string key="Status_Silence_Description">You are unable to use abilities.</string>
 	<string key="Status_Disease_Description">Healing is less effective on you.</string>
 	<string key="Status_Reinforced_description">Gain damage reduction for a limited number of hits while this is active.</string>
 	<string key="Status_HealingReceived_Description">Healing efficiency on self by self and other sources is increased.</string>
@@ -1670,7 +1725,7 @@
 	<string key="Status_VoidGauntlet_DecayingOrb_SlowVsDebuff_Description" rel_version="Weapon_Void_Gauntlet">Your movement speed is reduced by {[-0.300000 * -100]}%.</string>
 	<string key="Status_VoidGauntlet_DrainingTether_Empower_Description" rel_version="Weapon_Void_Gauntlet">Your damage is increased by {[0.200000 * 100]}%.</string>
 	<string key="Status_VoidGauntlet_DrainingTether_Weaken_Description" rel_version="Weapon_Void_Gauntlet">Your damage is reduced by {[-0.200000 * -100]}%.</string>
-	<string key="Status_VoidGauntlet_DrainingTether_Slow_Description" rel_version="Weapon_Void_Gauntlet">Your movement speed is reduced by {[-0.200000 * {Potency} * -100]}%.</string>
+	<string key="Status_VoidGauntlet_DrainingTether_Slow_Description" rel_version="Weapon_Void_Gauntlet">Your movement speed is reduced by {[-0.050000 * {Potency} * -100]}%.</string>
 	<string key="Status_VoidGauntlet_EmpowerCloseRange_Description" rel_version="Weapon_Void_Gauntlet">Your damage is increased by {[0.100000 * 100]}%.</string>
 	<string key="Status_VoidGauntlet_SiphonAura_Heal_Description" rel_version="Weapon_Void_Gauntlet">Heal for {[0.300000 * 100]}% weapon damage per second.</string>
 	<string key="Status_VoidGauntlet_SiphonAura_Timer_Description" rel_version="Weapon_Void_Gauntlet">Delay before Voidcaller can be triggered again.</string>
@@ -1717,7 +1772,6 @@
 	<string key="Status_Upgrade_Lifestaff_Protection_AddHaste_description">Your movement speed is increased by {[0.150000 * 100]}%.</string>
 	<string key="Status_Ability_Lifestaff_Beacon_description">You heal for {[0.160000 * 100]}% casters weapon damage.</string>
 	<string key="Status_Timer_HealingCDROnLow_Description">When this timer is over, Life Staff's Desperate Speed can be triggered again.</string>
-	<string key="Status_Upgrade_Dagger_DoubleNeckStab_Weaken_Description" comment="DAGGER + DO NOT TRANSLATE">Your outgoing damage is reduced by {[-0.200000 * 100]}%.</string>
 	<string key="Status_Perk_Amulet_StamOnLow_Timer_description">When this ends your Amulet Stamina Recovery can trigger again.</string>
 	<string key="Status_Perk_Amulet_ManaOnLow_Timer_description">When this ends your Amulet Mana Recovery can trigger again.</string>
 	<string key="Status_Perk_Amulet_RemoveOnLow_Timer_description">When this ends your Amulet Purify can trigger again.</string>
@@ -1755,11 +1809,11 @@
 	<string key="AI_AnubianGuardian_HorusBoss_DivineAnguish_DamageBuff_DisplayName" rel_version="Territory_Brimstone_Sands">Ancient Guardian Divine Anguish</string>
 	<string key="AI_AnubianGuardian_HorusBoss_DivineRage_DamageBuff_DisplayName" rel_version="Territory_Brimstone_Sands">Ancient Guardian Divine Rage</string>
 	<string key="AI_Anubian_Sunspots_Burn_DisplayName" rel_version="Territory_Brimstone_Sands">Ancient Solar Burn</string>
-	<string key="AI_Anubian_Sunspots_Burn_Description" rel_version="Territory_Brimstone_Sands">Deals {[-0.1 * -100]}% base Fire damage every {[1.000000]} seconds.</string>
+	<string key="AI_Anubian_Sunspots_Burn_Description" rel_version="Territory_Brimstone_Sands">Deals {[-0.100000 * -100]}% base Fire damage every {[1.000000]} seconds.</string>
 	<string key="AI_Anubian_Burn_9_DisplayName" rel_version="Territory_Brimstone_Sands">Ancient Solar Burn</string>
-	<string key="AI_Anubian_Burn_9_Tooltip" rel_version="Territory_Brimstone_Sands">Deals {[-2.5000000000000001E-2 * -100]}% base Fire damage every {[2.000000]} seconds.</string>
+	<string key="AI_Anubian_Burn_9_Tooltip" rel_version="Territory_Brimstone_Sands">Deals {[-0.025000 * -100]}% base Fire damage every {[2.000000]} seconds.</string>
 	<string key="AI_Anubian_Boss_Burn_9_DisplayName" rel_version="Territory_Brimstone_Sands">Ancient Solar Burn</string>
-	<string key="AI_Anubian_Boss_Burn_9_Tooltip" rel_version="Territory_Brimstone_Sands">Deals {[-0.04 * -100]}% base Fire damage every {[2.000000]} seconds.</string>
+	<string key="AI_Anubian_Boss_Burn_9_Tooltip" rel_version="Territory_Brimstone_Sands">Deals {[-0.040000 * -100]}% base Fire damage every {[2.000000]} seconds.</string>
 	<string key="Immune_To_Damage">Immune</string>
 	<string key="Attack_Dodged">Dodged</string>
 	<string key="Attack_Evaded">Evaded</string>
@@ -1779,7 +1833,7 @@
 	<string key="CorruptedLegion_Cyclops_Root_UnhallowedGrounds_DisplayName" rel_version="Territory_Brimstone_Sands">Rooted</string>
 	<string key="CorruptedLegion_Cyclops_Rend_BloodShot_DisplayName" rel_version="Territory_Brimstone_Sands">Rend</string>
 	<string key="CorruptedLegion_Cyclops_Rend_BloodShot_Tooltip" rel_version="Territory_Brimstone_Sands">You suffer {[-0.200000 * -100]}% increased damage from all sources for {[15.000000]} seconds, and you are marked.</string>
-	<string key="ArcticBreath_Tooltip" rel_version="Event_WinterConvergence_Perm">You suffer {[-0.01 * -100]}% damage every  {[0.500000]} seconds and are slowed by {[-0.500000 * -100]}% for {[6.000000]} seconds.</string>
+	<string key="ArcticBreath_Tooltip" rel_version="Event_WinterConvergence_Perm">You suffer {[-0.010000 * -100]}% damage every  {[0.500000]} seconds and are slowed by {[-0.500000 * -100]}% for {[6.000000]} seconds.</string>
 	<string key="ArcticBreath_DisplayName" rel_version="Event_WinterConvergence_Perm">Arctic Breath</string>
 	<string key="Status_Timer_FireAttunement_Description" rel_version="Feature_Dungeon_Mutators">When this ends, you can trigger the Flame Attunement perk again.</string>
 	<string key="Status_Timer_IceAttunement_Description" rel_version="Feature_Dungeon_Mutators">When this ends, you can trigger the Frost Attunement perk again.</string>
@@ -1796,6 +1850,8 @@
 	<string key="Status_NatureConditioning_Description" rel_version="Feature_Dungeon_Mutators">Nature damage taken is reduced while this effect is active.</string>
 	<string key="Status_VoidConditioning" rel_version="Feature_Dungeon_Mutators">Abyssal Conditioning.</string>
 	<string key="Status_VoidConditioning_Description" rel_version="Feature_Dungeon_Mutators">Void damage taken is reduced while this effect is active.</string>
+	<string key="Status_ArcaneConditioning" rel_version="ProgressionOverhaul2025">Arcane Conditioning.</string>
+	<string key="Status_ArcaneConditioning_Description" rel_version="ProgressionOverhaul2025">Arcane damage taken is reduced while this effect is active.</string>
 	<string key="Status_SlashConditioning">Slash Conditioning.</string>
 	<string key="Status_SlashConditioning_Description">Slash damage taken is reduced while this effect is active.</string>
 	<string key="Status_ThrustConditioning">Thrust Conditioning.</string>
@@ -1812,9 +1868,9 @@
 	<string key="AI_Evil_Knight_Flamekeeper_Combustible_DisplayName" rel_version="Season_1_Perm">Combustible</string>
 	<string key="AI_Evil_Knight_Flamekeeper_Combustible_Tooltip" rel_version="Season_1_Perm">You gain 1 stack of Combustible for each kindling bit you extinguish. Reaching 10 stacks causes you to Combust.</string>
 	<string key="AI_Evil_Knight_Flamekeeper_Burn_DisplayName">Flamekeeper's Fire</string>
-	<string key="AI_Evil_Knight_Flamekeeper_Burn_Tooltip">Burning for {[-2.5000000000000001E-2 * -100]}% base Fire damage every {[2.000000]} seconds for {[10.000000]} seconds.</string>
+	<string key="AI_Evil_Knight_Flamekeeper_Burn_Tooltip">Burning for {[-0.025000 * -100]}% base Fire damage every {[2.000000]} seconds for {[10.000000]} seconds.</string>
 	<string key="AI_Evil_Knight_Gruntmaster_LavaBurn_DisplayName">Lava Burn</string>
-	<string key="AI_Evil_Knight_Gruntmaster_LavaBurn_Tooltip">Burning for {[-3.5000000000000003E-2 * -100]}% base Fire damage every {[2.000000]} seconds for {[10.000000]} seconds.</string>
+	<string key="AI_Evil_Knight_Gruntmaster_LavaBurn_Tooltip">Burning for {[-0.035000 * -100]}% base Fire damage every {[2.000000]} seconds for {[10.000000]} seconds.</string>
 	<string key="AI_Evil_Knight_IceNova_DisplayName" rel_version="Season_4_Perm">Ice Freeze</string>
 	<string key="AI_Evil_Knight_IceNova_Description" rel_version="Season_4_Perm">Rooted in place and unable to move for {[3.000000]} seconds.</string>
 	<string key="RoadTravel_SprintBoost">Haste On Roads</string>
@@ -1880,6 +1936,8 @@
 	<string key="Status_CleanseBuffs_Crits_Timer_Description" rel_version="PvP_Rewards_Track">When this ends you can trigger the Purifying Crits perk again.</string>
 	<string key="Status_EmpowerTilDeath" rel_version="PvP_Rewards_Track">Mortal Empowerment</string>
 	<string key="Status_EmpowerTilDeath_Description" rel_version="PvP_Rewards_Track">Dmg is increased by {[0.020000 * 100]}% per stack of Mortal Empowerment you have.</string>
+	<string key="Status_EmpowerTilNextHit" rel_version="ProgressionOverhaul2025">Mortal Strike</string>
+	<string key="Status_EmpowerTilNextHit_Description" rel_version="ProgressionOverhaul2025">Your next ability hit will deal increased damage when this is active.</string>
 	<string key="MusicBuff_PlayerEncumbrance_Amazing_DisplayName" rel_version="Feature_MusicalPerformances">Song In Your Step IV</string>
 	<string key="MusicBuff_PlayerEncumbrance_Amazing_Description" rel_version="Feature_MusicalPerformances">Max encumbrance weight increased by {[1000.000000 / 10]} for {[7200.000000 / 60]} minutes.</string>
 	<string key="MusicBuff_PlayerEncumbrance_Great_DisplayName" rel_version="Feature_MusicalPerformances">Song In Your Step III</string>
@@ -1959,7 +2017,7 @@
 	<string key="PvPArena_FoodFOCT3_Tooltip">Increases Focus by 20 attribute points. This effect is removed when leaving the Arena.</string>
 	<string key="PvPArena_FoodFOCT4_Tooltip">Increases Focus by 30 attribute points. This effect is removed when leaving the Arena.</string>
 	<string key="PvPArena_FoodFOCT5_Tooltip">Increases Focus by 40 attribute points. This effect is removed when leaving the Arena.</string>
-	<string key="Status_Beacon_Description">Increases critical chance</string>
+	<string key="Status_Beacon_Description">Increases critical damage</string>
 	<string key="Status_Beacon_Name">Vicious</string>
 	<string key="StatusTestCrafting_DisplayName">TestCrafting</string>
 	<string key="Status_Rune_StoneForm">Stoneform</string>
@@ -2018,9 +2076,9 @@
 	<string key="WeaponCoatingEffect_T2_Aeternian_DisplayName" rel_version="Season_1_Perm">Common Human Weapon Coating</string>
 	<string key="WeaponCoatingEffect_T2_Aeternian_Description" rel_version="Season_1_Perm">PVE only: Deal more {[human=.09 * 100]}% damage to Humans.</string>
 	<string key="AI_ExplosiveSprout_FireExplosion_DisplayName" rel_version="Territory_FirstLight">Burn</string>
-	<string key="AI_ExplosiveSprout_FireExplosion_Tooltip" rel_version="Territory_FirstLight">Deals {[-0.1 * -100]}% base Fire damage every {[1.000000]} seconds.</string>
+	<string key="AI_ExplosiveSprout_FireExplosion_Tooltip" rel_version="Territory_FirstLight">Deals {[-0.100000 * -100]}% base Fire damage every {[1.000000]} seconds.</string>
 	<string key="AI_ExplosiveSprout_PoisonExplosion_DisplayName" rel_version="Territory_FirstLight">Poisoned</string>
-	<string key="AI_ExplosiveSprout_PoisonExplosion_Tooltip" rel_version="Territory_FirstLight">Deals {[-0.04 * -100]}% base Nature damage every {[2.000000]} seconds.</string>
+	<string key="AI_ExplosiveSprout_PoisonExplosion_Tooltip" rel_version="Territory_FirstLight">Deals {[-0.040000 * -100]}% base Nature damage every {[2.000000]} seconds.</string>
 	<string key="AI_Evil_Knight_Ice_Arrow_Root_2sec_DisplayName" rel_version="Season_4_Perm">Frozen Toes</string>
 	<string key="AI_Evil_Knight_Ice_Arrow_Root_2sec_Tooltip" rel_version="Season_4_Perm">Frozen in place and unable to move for {[3.000000]} seconds.</string>
 	<string key="AI_Evil_Knight_SeasonsBeatings_DisplayName" rel_version="Season_4_Perm">Chilled</string>
@@ -2033,11 +2091,11 @@
 	<string key="AI_Medusa_Gaze_DisplayName" rel_version="Territory_FirstLight">Gorgons Gaze</string>
 	<string key="AI_Medusa_Gaze_Tooltip" rel_version="Territory_FirstLight">Slows {[-0.150000 * -100]}% move speed for {[15.000000]} seconds.</string>
 	<string key="AI_Medusa_Petrification_DisplayName" rel_version="Territory_FirstLight">Petrifying</string>
-	<string key="AI_Medusa_Petrification_Tooltip" rel_version="Territory_FirstLight">Damages {[-0.5 * -100]}% health and slows {[-0.500000 * -100]}% move speed for {[8.000000]} seconds.</string>
+	<string key="AI_Medusa_Petrification_Tooltip" rel_version="Territory_FirstLight">Damages {[-0.500000 * -100]}% health and slows {[-0.500000 * -100]}% move speed for {[8.000000]} seconds.</string>
 	<string key="AI_Medusa_Poison_DisplayName" rel_version="Territory_FirstLight">Envenomed</string>
-	<string key="AI_Medusa_Poison_Tooltip" rel_version="Territory_FirstLight">Damages {[-2.5000000000000001E-2 * -100]}% health.</string>
+	<string key="AI_Medusa_Poison_Tooltip" rel_version="Territory_FirstLight">Damages {[-0.025000 * -100]}% health.</string>
 	<string key="AI_Medusa_Poison_Pool_DisplayName" rel_version="Territory_FirstLight">Medusa's Poison</string>
-	<string key="AI_Medusa_Poison_Pool_Tooltip" rel_version="Territory_FirstLight">Damages {[-0.03 * -100]}% health.</string>
+	<string key="AI_Medusa_Poison_Pool_Tooltip" rel_version="Territory_FirstLight">Damages {[-0.030000 * -100]}% health.</string>
 	<string key="AI_Ghastly_Sniper_PhantomShot_Fortify_DisplayName" rel_version="AI_Ghastly_Horrors">Steady Foothold</string>
 	<string key="AI_Ghastly_Sniper_PhantomShot_Fortify_Description" rel_version="AI_Ghastly_Horrors">Incoming damage reduced by {[0.300000*100]}% for {[2.000000]} seconds.</string>
 	<string key="AI_Ghastly_Sniper_PhantomShot_Weaken_DisplayName" rel_version="AI_Ghastly_Horrors">Ghastly Enfeeblement</string>
@@ -2139,7 +2197,7 @@
 	<string key="AI_AbominableLiang_Angered_DisplayName" rel_version="Quest_MSQ3_Ebonscale">Angered</string>
 	<string key="AI_AbominableLiang_Cornered_DisplayName" rel_version="Quest_MSQ3_Ebonscale">Cornered</string>
 	<string key="AI_MutatedNurse_Burn_DisplayName" rel_version="AI_Ghastly_Horrors">Wispfire Burn</string>
-	<string key="AI_MutatedNurse_Burn_Description" rel_version="AI_Ghastly_Horrors">Deals {[-0.05 * -100]}% base Fire damage every {[0.500000]} seconds for {[5.000000]} seconds.</string>
+	<string key="AI_MutatedNurse_Burn_Description" rel_version="AI_Ghastly_Horrors">Deals {[-0.050000 * -100]}% base Fire damage every {[0.500000]} seconds for {[5.000000]} seconds.</string>
 	<string key="Mammoth_Chain_Lightning_DisplayName" rel_version="Territory_FirstLight">Electrocuted</string>
 	<string key="Mammoth_Chain_Lightning_Tooltip" rel_version="Territory_FirstLight">Shocks 1 ally within range every second for {[10.000000]} seconds.</string>
 	<string key="SE_MeshChange_Adiana_Description" rel_version="Event_Halloween2023_Perm">Visit Treat Baskets while wearing this costume for candy.</string>
@@ -2152,25 +2210,25 @@
 	<string key="SE_MeshChange_Lost_Monarch_MasterName" rel_version="Event_Halloween2023_Perm">Lost Monarch Costume</string>
 	<string key="AI_Typhon_HercyneBuff_Fortify_DisplayName" rel_version="Raid_CutlassKeys_00">Fortify aura</string>
 	<string key="AI_Typhon_BlightedBlood_DisplayName" rel_version="Raid_CutlassKeys_00">Blighted Blood</string>
-	<string key="AI_Typhon_BlightedBlood_Tooltip" rel_version="Raid_CutlassKeys_00">Bleeding for {[-0.02 * -100]}% base health Physical damage every {[1.000000]} seconds and suffer {[-0.150000 * -100]}% increased damage from all sources for {[15.000000]} seconds. Stacks {[25.000000]} times.</string>
+	<string key="AI_Typhon_BlightedBlood_Tooltip" rel_version="Raid_CutlassKeys_00">Bleeding for {[-0.020000 * -100]}% base health Physical damage every {[1.000000]} seconds and suffer {[-0.150000 * -100]}% increased damage from all sources for {[15.000000]} seconds. Stacks {[25.000000]} times.</string>
 	<string key="AI_TyphonAdd_Empowering_DisplayName" rel_version="Raid_CutlassKeys_00">Empowering Flesh</string>
 	<string key="AI_TyphonAdd_Lifesteal_DisplayName" rel_version="Raid_CutlassKeys_00">Regenerating Flesh</string>
 	<string key="AI_Typhon_HungryHowl_Stun_DisplayName" rel_version="Raid_CutlassKeys_00">Thorn Shackles</string>
 	<string key="AI_Typhon_HungryHowl_Stun_Tooltip" rel_version="Raid_CutlassKeys_00">Unless you found some cover, Typhon will execute you.</string>
 	<string key="AI_Typhon_ThornPrison_RootForever_DisplayName" rel_version="Raid_CutlassKeys_00">Painful Confinement</string>
-	<string key="AI_Typhon_ThornPrison_RootForever_Tooltip" rel_version="Raid_CutlassKeys_00">Trapped in a thorn cage. Taking {[-0.05 * -100]}% base Nature damage every {[0.500000]} seconds. You should quickly find a way out.</string>
+	<string key="AI_Typhon_ThornPrison_RootForever_Tooltip" rel_version="Raid_CutlassKeys_00">Trapped in a thorn cage. Taking {[-0.050000 * -100]}% base Nature damage every {[0.500000]} seconds. You should quickly find a way out.</string>
 	<string key="AI_Hercyne_Broodmother_CorrosiveGunk_DisplayName" rel_version="Raid_CutlassKeys_00">Corrosive Gunk</string>
-	<string key="AI_Hercyne_Broodmother_CorrosiveGunk_Tooltip" rel_version="Raid_CutlassKeys_00">Covered in gunk. Taking {[-3.5000000000000003E-2 * -100]}% base Nature damage every {[1.000000]} seconds.</string>
+	<string key="AI_Hercyne_Broodmother_CorrosiveGunk_Tooltip" rel_version="Raid_CutlassKeys_00">Covered in gunk. Taking {[-0.035000 * -100]}% base Nature damage every {[1.000000]} seconds.</string>
 	<string key="AI_Hercyne_Broodmother_CorrosiveGunk_EggGrowth_DisplayName" rel_version="Raid_CutlassKeys_00">Corrosive Growth</string>
 	<string key="AI_Hercyne_Broodmother_CorrosiveGunk_EggGrowth_Tooltip" rel_version="Raid_CutlassKeys_00">Covered in gunk. Helping the egg to hatch faster.</string>
 	<string key="AI_Hercyne_Broodmother_Sleepy_DisplayName" rel_version="Raid_CutlassKeys_00">Sleepy</string>
 	<string key="AI_Hercyne_Broodmother_Sleepy_Tooltip" rel_version="Raid_CutlassKeys_00">Your eyes are heavy from the pollen and you will fall asleep at 10 stacks.</string>
 	<string key="AI_Hercyne_Broodmother_Asleep_DisplayName" rel_version="Raid_CutlassKeys_00">Asleep</string>
-	<string key="AI_Hercyne_Broodmother_Asleep_Tooltip" rel_version="Raid_CutlassKeys_00">Asleep for {[60.000000]} seconds unless splashed by Cleansing Water. Taking {[-0.05 * -100]}% base Nature damage every {[1.000000]} seconds.</string>
+	<string key="AI_Hercyne_Broodmother_Asleep_Tooltip" rel_version="Raid_CutlassKeys_00">Asleep for {[60.000000]} seconds unless splashed by Cleansing Water. Taking {[-0.050000 * -100]}% base Nature damage every {[1.000000]} seconds.</string>
 	<string key="AI_Hercyne_Broodmother_PoisonedRoot_DisplayName" rel_version="Raid_CutlassKeys_00">Bleeding Thorns</string>
-	<string key="AI_Hercyne_Broodmother_PoisonedRoot_Tooltip" rel_version="Raid_CutlassKeys_00">Cut by thorns. Taking {[-2.5000000000000001E-2 * -100]}% base + {[-2.5000000000000001E-2 * -100]}% base health Physical damage every {[1.000000]} seconds.</string>
+	<string key="AI_Hercyne_Broodmother_PoisonedRoot_Tooltip" rel_version="Raid_CutlassKeys_00">Cut by thorns. Taking {[-0.025000 * -100]}% base + {[-0.025000 * -100]}% base health Physical damage every {[1.000000]} seconds.</string>
 	<string key="AI_Hercyne_Broodmother_MushroomInfection_Dormant_DisplayName" rel_version="Raid_CutlassKeys_00">Dormant Fungal Infection</string>
-	<string key="AI_Hercyne_Broodmother_MushroomInfection_Dormant_Tooltip" rel_version="Raid_CutlassKeys_00">Infested with spores. Infection will turn active at {[10.000000]} stacks unless cleared with water. Taking {[-5.0000000000000001E-3 * -100]}% base Nature damage every {[2.000000]} seconds.</string>
+	<string key="AI_Hercyne_Broodmother_MushroomInfection_Dormant_Tooltip" rel_version="Raid_CutlassKeys_00">Infested with spores. Infection will turn active at {[10.000000]} stacks unless cleared with water. Taking {[-0.005000 * -100]}% base Nature damage every {[2.000000]} seconds.</string>
 	<string key="AI_Hercyne_Broodmother_MushroomInfection_Active_DisplayName" rel_version="Raid_CutlassKeys_00">Active Fungal Infection</string>
 	<string key="AI_Hercyne_Broodmother_MushroomInfection_Active_Tooltip" rel_version="Raid_CutlassKeys_00">Contagious infection. Infection can be cleared with water. Taking a tiny amount of Nature damage every {[0.330000]} seconds.</string>
 	<string key="AI_Hercyne_Broodmother_PlayerEggResistance_DisplayName" rel_version="Raid_CutlassKeys_00">Eggshell Resistance</string>
@@ -2231,10 +2289,10 @@
 	<string key="Dungeon_Medusa_Statue_Gaze_Root_DisplayName" rel_version="Raid_CutlassKeys_00">Petrified</string>
 	<string key="Dungeon_Medusa_Statue_Gaze_Root_Description" rel_version="Raid_CutlassKeys_00">Damages {[-0.200000 * -100]}% health and slows {[-1 * -100]}% move speed for {[8.000000]} seconds.</string>
 	<string key="AI_Corrupted_FirstMate_AnchorSlam_AOE_Enemy_DisplayName" rel_version="ConsoleLaunch">Swell of Corruption</string>
-	<string key="AI_Corrupted_FirstMate_AnchorSlam_AOE_Enemy_Tooltip" rel_version="ConsoleLaunch">You suffer {[-0.05 * -100]}% health Corruption damage every {[1.000000]} seconds.</string>
+	<string key="AI_Corrupted_FirstMate_AnchorSlam_AOE_Enemy_Tooltip" rel_version="ConsoleLaunch">You suffer {[-0.050000 * -100]}% health Corruption damage every {[1.000000]} seconds.</string>
 	<string key="AI_Corrupted_FirstMate_AnchorSlam_AOE_Friendly_DisplayName" rel_version="ConsoleLaunch">Empowering Corruption</string>
 	<string key="AI_Corrupted_FirstMate_AnchorToss_Slow_DisplayName" rel_version="ConsoleLaunch">Anchoring Corruption</string>
-	<string key="AI_Corrupted_FirstMate_AnchorToss_Slow_Tooltip" rel_version="ConsoleLaunch">You suffer {[-0.05 * -100]}% health Corruption damage every {[2.000000]} seconds and your movement speed is reduced by {[-0.400000 * -100]}%.</string>
+	<string key="AI_Corrupted_FirstMate_AnchorToss_Slow_Tooltip" rel_version="ConsoleLaunch">You suffer {[-0.050000 * -100]}% health Corruption damage every {[2.000000]} seconds and your movement speed is reduced by {[-0.400000 * -100]}%.</string>
 	<string key="AI_Corrupted_FirstMate_BlockBroken_SelfDebuff_1_DisplayName" rel_version="ConsoleLaunch">Splintered Defense</string>
 	<string key="AI_Corrupted_FirstMate_BlockBroken_SelfDebuff_2_DisplayName" rel_version="ConsoleLaunch">Splintered Defense</string>
 	<string key="AI_Corrupted_FirstMate_BlockBroken_SelfDebuff_3_DisplayName" rel_version="ConsoleLaunch">Splintered Defense</string>
@@ -2257,6 +2315,13 @@
 	<string key="Root_Forever_Tooltip" rel_version="ConsoleLaunch">You are rooted in place and unable to move.</string>
 	<string key="AI_Mordred_ChargeStun_1sec_DisplayName" rel_version="ConsoleLaunch">Stunned</string>
 	<string key="AI_Mordred_ChargeStun_1sec_Tooltip" rel_version="ConsoleLaunch">You are stunned for {[1.000000]} seconds.</string>
+	<string key="AI_TwinJesters_Channeling_DisplayName" rel_version="Raid_MonarchsBluffs_00">Channeling</string>
+	<string key="AI_PalatineGuard_Sacrifice_AbyssCloak_DisplayName" rel_version="Raid_MonarchsBluffs_00">Abyss Instability</string>
+	<string key="AI_PalatineGuard_Sacrifice_SacrificeFinale_DisplayName" rel_version="Raid_MonarchsBluffs_00">Abyss Instability</string>
+	<string key="AI_PalatineGuard_StasisState_DisplayName" rel_version="Raid_MonarchsBluffs_00">Resurrection</string>
+	<string key="AI_PalatineGuard_StasisState_Champion_DisplayName" rel_version="Raid_MonarchsBluffs_00">Empowered Resurrection</string>
+	<string key="AI_Dahut_AbyssMark_DisplayName" rel_version="Raid_MonarchsBluffs_00">Abyss marked</string>
+	<string key="AI_Dahut_AbyssMark_Activated_DisplayName" rel_version="Raid_MonarchsBluffs_00">Stop the Palatines!</string>
 	<string key="Status_Conqueror_Musket_DodgeDmgTracker_Name" rel_version="PvPServerConquerorsItems">Conqueror's Musket Bane</string>
 	<string key="Status_Conqueror_Musket_DodgeDmgTracker_Description" rel_version="PvPServerConquerorsItems">Applied by the Musket Conqueror's Item, While this effect is active, dodging deals damage to yourself.</string>
 	<string key="ConquerorsLostMonarch_Name" rel_version="PvPServerConquerorsItems">Lost Monarch's Rampage</string>
@@ -2287,9 +2352,69 @@
 	<string key="Status_Conqueror_BurnAura_PotencyModifier_Desc" rel_version="PvPServerConquerorsItems">Every stack of this increases the potency of the burn from the Charred Curtilage Fire Staff Conqueror's Item.</string>
 	<string key="Status_Conquerors_SwarmDisease_Name" rel_version="PvPServerConquerorsItems">Swarm Defense</string>
 	<string key="Status_Conquerors_SwarmDisease_Description" rel_version="PvPServerConquerorsItems">Armor is increased per nearby enemy but healing is also reduced per nearby enemy.</string>
+	<string key="AI_Dahut_AbyssMark_Tooltip" rel_version="Raid_MonarchsBluffs_00">Marked by Dahut's power. Will be targeted by her Dance of Death. Useful for countering Abyss Unstability.</string>
+	<string key="AI_IoN_Lost_Thorpe_SpearBearer_DisplayName" rel_version="Raid_MonarchsBluffs_00">Spear Bearer</string>
+	<string key="AI_IoN_Lost_Thorpe_SpearBearer_Tooltip" rel_version="Raid_MonarchsBluffs_00">You continuously gain Fragile Soul and frequently attrack Thorpe's focus.</string>
+	<string key="AI_IoN_Lost_Thorpe_FragileSoul_DisplayName" rel_version="Raid_MonarchsBluffs_00">Fragile Soul</string>
+	<string key="AI_IoN_Lost_Thorpe_FragileSoul_Tooltip" rel_version="Raid_MonarchsBluffs_00">You soul burns for  {[-0.040000 * -100]}% base Fire damage every {[1.200000]} seconds for {[15.000000]} seconds.</string>
+	<string key="AI_IoN_Lost_Thorpe_ImpalingMistlock_Root_DisplayName" rel_version="Raid_MonarchsBluffs_00">Mistlocked</string>
+	<string key="AI_IoN_Lost_Thorpe_ImpalingMistlock_Root_Tooltip" rel_version="Raid_MonarchsBluffs_00">Thorpe has locked your soul down.</string>
+	<string key="AI_IoN_Lost_Thorpe_NoRunNoDodge_4sec_DisplayName" rel_version="Raid_MonarchsBluffs_00">Soul Exhaustion</string>
+	<string key="AI_IoN_Lost_Thorpe_NoRunNoDodge_4sec_Tooltip" rel_version="Raid_MonarchsBluffs_00">You cannot run or dodge.</string>
+	<string key="AI_IoN_Lost_Thorpe_Rend10Percent_DisplayName" rel_version="Raid_MonarchsBluffs_00">Rend</string>
+	<string key="AI_IoN_Lost_Thorpe_Rend10Percent_Tooltip" rel_version="Raid_MonarchsBluffs_00">You suffer {[-0.100000 * -100]}% increased damage from all sources for {[20.000000]} seconds</string>
+	<string key="AI_IoN_Lost_Thorpe_Root_6sec_Spear_DisplayName" rel_version="Raid_MonarchsBluffs_00">Rooted</string>
+	<string key="AI_IoN_Lost_Thorpe_Root_6sec_Spear_Tooltip" rel_version="Raid_MonarchsBluffs_00">You are Rooted from losing the Relic</string>
+	<string key="Raid_IoN_Puzzle_Relic1Pickup_DisplayName" rel_version="Raid_MonarchsBluffs_00">Relic Bearer</string>
+	<string key="Raid_IoN_Puzzle_Relic2Pickup_DisplayName" rel_version="Raid_MonarchsBluffs_00">Relic Bearer</string>
+	<string key="Raid_IoN_Puzzle_Relic3Pickup_DisplayName" rel_version="Raid_MonarchsBluffs_00">Relic Bearer</string>
+	<string key="Raid_IoN_Puzzle_Relic4Pickup_DisplayName" rel_version="Raid_MonarchsBluffs_00">Relic Bearer</string>
+	<string key="Raid_IoN_Puzzle_Relic1Pickup_Description" rel_version="Raid_MonarchsBluffs_00">You are carrying the Sword relic and cannot attack, block or dodge. The relic will be dropped upon receiving damage from any source.</string>
+	<string key="Raid_IoN_Puzzle_Relic2Pickup_Description" rel_version="Raid_MonarchsBluffs_00">You are carrying the Bow relic relic and cannot attack, block or dodge. The relic will be dropped upon receiving damage from any source.</string>
+	<string key="Raid_IoN_Puzzle_Relic3Pickup_Description" rel_version="Raid_MonarchsBluffs_00">You are carrying the Warhammer relic and cannot attack, block or dodge. The relic will be dropped upon receiving damage from any source.</string>
+	<string key="Raid_IoN_Puzzle_Relic4Pickup_Description" rel_version="Raid_MonarchsBluffs_00">You are carrying the Halberd relic and cannot attack, block or dodge. The relic will be dropped upon receiving damage from any source.</string>
+	<string key="Raid_IoN_Balista_Bolt_DisplayName" rel_version="Raid_MonarchsBluffs_00">Picked up ballista bolt</string>
+	<string key="Raid_IoN_Balista_Bolt_Tooltip" rel_version="Raid_MonarchsBluffs_00">You can reload a Ballista with the Bolt you have picked-up</string>
+	<string key="AI_Bolt_Check_Tooltip" rel_version="Raid_MonarchsBluffs_00">You can pick up a nearby bolt</string>
+	<string key="AI_Explosive_Barrel_Check_Tooltip" rel_version="Raid_MonarchsBluffs_00">You can pick up a nearby explosive barrel</string>
+	<string key="AI_LostHeiress_PurgingBlade_Slow_DisplayName" rel_version="Raid_MonarchsBluffs_00">Standing in the abyss</string>
+	<string key="AI_LostHeiress_PurgingBlade_Slow_Tooltip" rel_version="Raid_MonarchsBluffs_00">Movement speed reduced by {[-0.300000 * -100]}%. Stamina regeneration reduced by {[-0.830000 * -100]}%.</string>
+	<string key="AI_PalatineHalberd_Smite_Slow_DisplayName" rel_version="Raid_MonarchsBluffs_00">Palatine Smite</string>
+	<string key="AI_PalatineHalberd_Smite_Slow_Tooltip" rel_version="Raid_MonarchsBluffs_00">Movement speed reduced by {[-0.300000 * -100]}% for {[2.000000]} seconds.</string>
+	<string key="AI_PalatineHalberd_DecimateJail_Exhaust_DisplayName" rel_version="Raid_MonarchsBluffs_00">Decimate Jail Exhaust</string>
+	<string key="AI_PalatineHalberd_DecimateJail_Exhaust_Tooltip" rel_version="Raid_MonarchsBluffs_00">Your stamina will not regenerate.</string>
+	<string key="AI_PalatineHalberd_DecimateJail_Prison_DisplayName" rel_version="Raid_MonarchsBluffs_00">Decimate Jail Stun</string>
+	<string key="AI_PalatineHalberd_DecimateJail_Prison_Tooltip" rel_version="Raid_MonarchsBluffs_00">You are stunned.</string>
+	<string key="AI_PalatineArcher_StrandedTether_Root_DisplayName" rel_version="Raid_MonarchsBluffs_00">Stranded Tether</string>
+	<string key="AI_PalatineArcher_StrandedTether_Root_Tooltip" rel_version="Raid_MonarchsBluffs_00">Your are rooted in place.</string>
+	<string key="AI_PalatineArcher_Blazzing_Fission_Ground_DisplayName" rel_version="Raid_MonarchsBluffs_00">Blazing Fission</string>
+	<string key="AI_PalatineArcher_Blazzing_Fission_Ground_Tooltip" rel_version="Raid_MonarchsBluffs_00">Burning for {[-0.010000 * -100]}% base Fire damage every seconds for {[10.000000]} seconds per stack.</string>
+	<string key="AI_PalatineSwordsman_Rend_DisplayName" rel_version="Raid_MonarchsBluffs_00">Palatine Rend</string>
+	<string key="AI_PalatineSwordsman_Rend_Tooltip" rel_version="Raid_MonarchsBluffs_00">You suffer {[-0.100000 * -100]}% increased damage from all sources for {[5.000000]} seconds.</string>
+	<string key="AI_PalatineShield_LostGong_Disease_DisplayName" rel_version="Raid_MonarchsBluffs_00">Disease</string>
+	<string key="AI_PalatineShield_LostGong_Disease_Tooltip" rel_version="Raid_MonarchsBluffs_00">Reduces healing taken by {[-0.500000 * -100]}%  for {[3.000000]} seconds.</string>
+	<string key="AI_TwinJesters_STD_BurnOnHit_Burn_DisplayName" rel_version="Raid_MonarchsBluffs_00">Burn</string>
+	<string key="AI_TwinJesters_STD_BurnOnHit_Burn_Tooltip" rel_version="Raid_MonarchsBluffs_00">Burning for {[0.000000 * -100]}% base Fire damage every {[1.000000]} seconds for {[5.000000]} seconds.</string>
+	<string key="AI_TwinJesters_Hellring_Burn_DisplayName" rel_version="Raid_MonarchsBluffs_00">Burn</string>
+	<string key="AI_TwinJesters_Hellring_Burn_Tooltip" rel_version="Raid_MonarchsBluffs_00">Burning for {[0.000000 * -100]}% base Fire damage every {[1.000000]} seconds for {[5.000000]} seconds.</string>
+	<string key="AI_TwinJesters_FieryCackle_Trail_DisplayName" rel_version="Raid_MonarchsBluffs_00">Burn</string>
+	<string key="AI_TwinJesters_FieryCackle_Trail_Tooltip" rel_version="Raid_MonarchsBluffs_00">Burning for {[0.000000 * -100]}% base Fire damage every {[0.500000]} seconds for {[1.000000]} seconds.</string>
+	<string key="AI_TwinJesters_STD_Slow_DisplayName" rel_version="Raid_MonarchsBluffs_00">Slow</string>
+	<string key="AI_TwinJesters_STD_Slow_Tooltip" rel_version="Raid_MonarchsBluffs_00">Movement speed reduced by {[-0.300000 * -100]}%.</string>
+	<string key="AI_TwinJesters_OriginalPrankster_DisplayName" rel_version="Raid_MonarchsBluffs_00">Pranked</string>
+	<string key="AI_TwinJesters_OriginalPrankster_Tooltip" rel_version="Raid_MonarchsBluffs_00">You are slowed by {[-0.200000 * -100]}%, you suffer {[-0.200000* -100]}% increased damage and deal {[-0.200000* -100]}% less damage for {[12.000000]} seconds.</string>
+	<string key="AI_Jester_Interlude_Haste_DisplayName" rel_version="Raid_MonarchsBluffs_00">Find the real Jester</string>
+	<string key="AI_Jester_Interlude_Haste_Tooltip" rel_version="Raid_MonarchsBluffs_00">Your movement speed is increased by {[0.400000 * 100]}%  for {[25.000000]} seconds.</string>
+	<string key="AI_TwinJesters_TMTM_Players_DisplayName" rel_version="Raid_MonarchsBluffs_00">Rewarding Audience</string>
+	<string key="AI_TwinJesters_TMTM_Players_Tooltip" rel_version="Raid_MonarchsBluffs_00">As long as you're close to the Jesters, they are galvanized, increasing their attack power and damage absorption.</string>
+	<string key="AI_IoN_TMTM_Mobs_DisplayName" rel_version="Raid_MonarchsBluffs_00">Motivating Audience</string>
+	<string key="AI_IoN_Empower_DisplayName" rel_version="Raid_MonarchsBluffs_00">Motivated</string>
+	<string key="AI_IoN_Empower_Brute_DisplayName" rel_version="Raid_MonarchsBluffs_00">Motivated</string>
 	<string key="FoodMacOMal_Effect_Name" rel_version="Season_7_Perm">You're It!</string>
 	<string key="FoodMacOMal_Effect_Desc" rel_version="Season_7_Perm">Tag, you're it! Tag someone else and then they'll be It. Only effective while flagged for PvP.\n\nNo other effects.</string>
 	<string key="FoodMacOMal_EXP_Desc" rel_version="Season_7_Perm">Increase earned Territory and Faction Reputation by 15%.</string>
+	<string key="ai_dahut_purgingblade_exhaust_DisplayName" rel_version="Raid_MonarchsBluffs_00">Abyssal Drain</string>
+	<string key="ai_dahut_purgingblade_exhaust_tooltip" rel_version="Raid_MonarchsBluffs_00">Your stamina will not regenerate.</string>
 	<string key="Status_SeasonalServer_DeathCount_1_DisplayName" rel_version="Season_8_Perm">1 Death Accrued</string>
 	<string key="Status_SeasonalServer_DeathCount_1_Description" rel_version="Season_8_Perm">1 Death Accrued</string>
 	<string key="Status_SeasonalServer_DeathCount_2_DisplayName" rel_version="Season_8_Perm">2 Death Accrued</string>
@@ -2305,7 +2430,7 @@
 	<string key="Status_SeasonalServer_DeathCount_DisplayName" rel_version="Season_8_Perm">Accrued Deaths</string>
 	<string key="Status_SeasonalServer_DeathCount_Description" rel_version="Season_8_Perm">Number of times this character has died.</string>
 	<string key="FFA_PvP_Curse_DisplayName" rel_version="Feature_FFA_PVP_Curse">Scallywag's Curse</string>
-	<string key="FFA_PvP_Curse_Tooltip" rel_version="Feature_FFA_PVP_Curse">For each stack of this curse the damage you take from other players is &lt;font face="lyshineui/fonts/Nimbus_SemiBold.font" color="#edc63e"&gt;{[Player=-0.3 * -100]}%&lt;/font&gt; more and the damage you deal to other players is &lt;font face="lyshineui/fonts/Nimbus_SemiBold.font" color="#edc63e"&gt;{[Player=-0.06 * -100]}%&lt;/font&gt; less. Additionally, each stack decreases your outgoing block stamina damage by &lt;font face="lyshineui/fonts/Nimbus_SemiBold.font" color="#edc63e"&gt;{[-0.040000 * -100]}%&lt;/font&gt;, and increases the attacker's block stamina damage dealt to you by &lt;font face="lyshineui/fonts/Nimbus_SemiBold.font" color="#edc63e"&gt;{[-0.100000 * -100]}%&lt;/font&gt;.\n\nTo remove the curse quickly, kill other players in the free for all PvP zone. Staying away from other players in the zone, or being outside of the zone will cause it to slowly go away.</string>
+	<string key="FFA_PvP_Curse_Tooltip" rel_version="Feature_FFA_PVP_Curse">For each stack of this curse the damage you take from other players is &lt;font face="lyshineui/fonts/Nimbus_SemiBold.font" color="#edc63e"&gt;{[Player=-0.1 * -100]}%&lt;/font&gt; more and the damage you deal to other players is &lt;font face="lyshineui/fonts/Nimbus_SemiBold.font" color="#edc63e"&gt;{[Player=-0.06 * -100]}%&lt;/font&gt; less. Additionally, each stack decreases your outgoing block stamina damage by &lt;font face="lyshineui/fonts/Nimbus_SemiBold.font" color="#edc63e"&gt;{[-0.040000 * -100]}%&lt;/font&gt;, and increases the attacker's block stamina damage dealt to you by &lt;font face="lyshineui/fonts/Nimbus_SemiBold.font" color="#edc63e"&gt;{[-0.100000 * -100]}%&lt;/font&gt;.\n\nTo remove the curse quickly, kill other players in the free for all PvP zone. Staying away from other players in the zone, or being outside of the zone will cause it to slowly go away.</string>
 	<string key="AI_SirenQueen_Sleepy_DisplayName" rel_version="Season_8_Perm">Song of Siren</string>
 	<string key="AI_SirenQueen_Sleepy_Tooltip" rel_version="Season_8_Perm">Asleep for 5 seconds unless you get hit by something.</string>
 	<string key="AI_SirenQueen_Asleep_DisplayName" rel_version="Season_8_Perm">Asleep</string>
@@ -2316,9 +2441,86 @@
 	<string key="AI_WorldBoss_FireNaga_Title_DisplayName" rel_version="Season_8_Perm">Heart of the Forge</string>
 	<string key="AI_WorldBoss_AdmiralBrute_Title_DisplayName" rel_version="Season_8_Perm">Lethal Landfall</string>
 	<string key="Mammoth_FL_Mahantaram_MagmaBurn_DisplayName" rel_version="Season_8_Perm">Scorched Earth</string>
-	<string key="Mammoth_FL_Mahantaram_MagmaBurn_Tooltip" rel_version="Season_8_Perm">Burning for {[-0.05 * -100]}% base Fire damage per stack every {[2.000000]} seconds for {[10.000000]} seconds.</string>
+	<string key="Mammoth_FL_Mahantaram_MagmaBurn_Tooltip" rel_version="Season_8_Perm">Burning for {[-0.050000 * -100]}% base Fire damage per stack every {[2.000000]} seconds for {[10.000000]} seconds.</string>
 	<string key="AI_RW_Siege_Pool_Thornslashing_DisplayName" rel_version="Season_8_Perm">Wallbreaking</string>
 	<string key="AI_RW_Siege_Pool_Invulnerability_DisplayName" rel_version="Season_8_Perm">Invulnerable</string>
+	<string key="AI_Wereraven_Lightning_Buff_DisplayName" rel_version="Territory_Dunwood">ELECTRIFIED</string>
+	<string key="AI_Werebear_Disease_DisplayName" rel_version="Territory_Dunwood">Disease</string>
+	<string key="AI_Werebear_Disease_Tooltip" rel_version="Territory_Dunwood">Reduces healing taken by {[-0.100000 * -100]}%, stacking {[5.000000]} times.</string>
+	<string key="Raid_IoN_FactionMission_Buff1_DisplayName" rel_version="Raid_MonarchsBluffs_00">Crystalline Empowerement</string>
+	<string key="Raid_IoN_FactionMission_Buff2_DisplayName" rel_version="Raid_MonarchsBluffs_00">Crystalline Fortified</string>
+	<string key="Raid_IoN_FactionMission_Buff3_DisplayName" rel_version="Raid_MonarchsBluffs_00">Crystalline Healing Efficiency</string>
+	<string key="Raid_IoN_FactionMission_Buff1_Description" rel_version="Raid_MonarchsBluffs_00">You or a nearby ally has recently cleansed a Lost Crystal, granting you 10% Empower</string>
+	<string key="Raid_IoN_FactionMission_Buff2_Description" rel_version="Raid_MonarchsBluffs_00">You or a nearby ally has recently cleansed a Lost Crystal, granting you 10% Fortify</string>
+	<string key="Raid_IoN_FactionMission_Buff3_Description" rel_version="Raid_MonarchsBluffs_00">You or a nearby ally has recently cleansed a Lost Crystal, increasing the efficiency of all heals you cast or receive by 10%</string>
+	<string key="AI_Dahut_DoDSoak_Call_DisplayName" rel_version="Raid_MonarchsBluffs_00">Regroup with your allies!</string>
+	<string key="AI_Dahut_DoDSoak_Call_Tooltip" rel_version="Raid_MonarchsBluffs_00">Targeted by a high-damage attack. Share the damage of this attack with your team.</string>
+	<string key="AI_Dahut_DoDSoak_Join_DisplayName" rel_version="Raid_MonarchsBluffs_00">Sharing damage</string>
+	<string key="AI_Dahut_DoDSoak_Join_Tooltip" rel_version="Raid_MonarchsBluffs_00">Standing in a shared damage area.</string>
+	<string key="Catacombs_Erosion_OnHitTaken_DisplayName" rel_version="Feature_Catacombs">Erosion</string>
+	<string key="Catacombs_Erosion_OnHitTaken_Tooltip" rel_version="Feature_Catacombs">Incoming damage is increased by {[0.000000 * -100]}%, stacking {[1.000000]} times.</string>
+	<string key="Catacombs_Shutdown_DoT_DisplayName" rel_version="Feature_Catacombs">Impending Doom</string>
+	<string key="Catacombs_Shutdown_DoT_Tooltip" rel_version="Feature_Catacombs">Taking {[-0.100000 * -100]}% max health every {[1.000000]} seconds.</string>
+	<string key="Catacombs_LevelUp_DisplayName" rel_version="Feature_Catacombs">Ascended</string>
+	<string key="Catacombs_LevelUp_Description" rel_version="Feature_Catacombs">Dealing +{[0.100000 * 100]}% base damage and increasing {[0.100000 * 100]}% max health, stacking up to 18 times.</string>
+	<string key="Erosion_DisplayName" rel_version="Feature_Catacombs">Erosion</string>
+	<string key="Erosion_Description" rel_version="Feature_Catacombs">Receive reduced healing.</string>
+	<string key="Erosion_lv1_DisplayName" rel_version="Feature_Catacombs">Erosion I</string>
+	<string key="Erosion_lv1_Description" rel_version="Feature_Catacombs">Reducing 50% incoming healing.</string>
+	<string key="Erosion_lv2_DisplayName" rel_version="Feature_Catacombs">Erosion II</string>
+	<string key="Erosion_lv2_Description" rel_version="Feature_Catacombs">Reducing 75% incoming healing.</string>
+	<string key="Erosion_lv3_DisplayName" rel_version="Feature_Catacombs">Erosion III</string>
+	<string key="Erosion_lv3_Description" rel_version="Feature_Catacombs">Reducing 100% incoming healing.</string>
+	<string key="Erosion_lv0_Indicator_DisplayName" rel_version="Feature_Catacombs">Erosion Buildup I</string>
+	<string key="Erosion_lv0_Indicator_Description" rel_version="Feature_Catacombs">When Erosion is full, you become Mildly Eroded, taking {[-0.500000 * 100]}% incoming healing for 10s.</string>
+	<string key="Erosion_lv1_Indicator_DisplayName" rel_version="Feature_Catacombs">Erosion Buildup II</string>
+	<string key="Erosion_lv1_Indicator_Description" rel_version="Feature_Catacombs">When Erosion is full, you become Moderately Eroded, taking {[-0.750000 * 100]}% incoming healing for 10s.</string>
+	<string key="Erosion_lv2_Indicator_DisplayName" rel_version="Feature_Catacombs">Erosion Buildup III</string>
+	<string key="Erosion_lv2_Indicator_Description" rel_version="Feature_Catacombs">When Erosion is full, you become Severely Eroded, taking {[-1.000000 * 100]}% incoming healing for 10s.</string>
+	<string key="Erosion_lv3_Indicator_DisplayName" rel_version="Feature_Catacombs">Erosion Buildup III</string>
+	<string key="Erosion_lv3_Indicator_Description" rel_version="Feature_Catacombs">Taking {[0.000000 * 100]}% Increase income damage, reduce {[-1.000000 * 100]}% income healing and take {[0.000000 * 100]}% max health damage when next time getting afflicted</string>
+	<string key="Erosion_lv1_Temp_DisplayName" rel_version="Feature_Catacombs">Eroded I</string>
+	<string key="Erosion_lv1_Temp_Description" rel_version="Feature_Catacombs">Mildly Eroded. Taking {[-0.500000 * 100]}% incoming healing.</string>
+	<string key="Erosion_lv2_Temp_DisplayName" rel_version="Feature_Catacombs">Eroded II</string>
+	<string key="Erosion_lv2_Temp_Description" rel_version="Feature_Catacombs">Moderately Eroded. Taking {[-0.750000 * 100]}% incoming healing.</string>
+	<string key="Erosion_lv3_Temp_DisplayName" rel_version="Feature_Catacombs">Eroded III</string>
+	<string key="Erosion_lv3_Temp_Description" rel_version="Feature_Catacombs">Severely Eroded. Taking {[-1.000000 * 100]}% incoming healing.</string>
+	<string key="Catacombs_Difficulty_DisplayName" rel_version="Feature_Catacombs">Difficulty</string>
+	<string key="Catacombs_Difficulty_Tooltip" rel_version="Feature_Catacombs">Incoming damage is increased by {[0.000000 * -100]}%, stacking {[21.000000]} times.</string>
+	<string key="AI_Upyr_ConsumedGreenMeatbag_DisplayName" rel_version="Territory_Dunwood">Venom</string>
+	<string key="AI_Upyr_ConsumedGreenMeatbag_Tooltip" rel_version="Territory_Dunwood">Poison</string>
+	<string key="AI_Upyr_ConsumedRedMeatbag_DisplayName" rel_version="Territory_Dunwood">Inferno</string>
+	<string key="AI_Upyr_ConsumedRedMeatbag_Tooltip" rel_version="Territory_Dunwood">Fire</string>
+	<string key="AI_Upyr_ConsumedPurpleMeatbag_DisplayName" rel_version="Territory_Dunwood">Arcana Addict</string>
+	<string key="AI_Upyr_ConsumedPurpleMeatbag_Tooltip" rel_version="Territory_Dunwood">Arcana</string>
+	<string key="AI_Upyr_Green_Meatbag_Cloud_DisplayName" rel_version="Territory_Dunwood">Rot</string>
+	<string key="AI_Upyr_Green_Meatbag_Cloud_Tooltip" rel_version="Territory_Dunwood">Taking {[-0.025000 * -100]}% max health every second and slowed for {[-0.300000 * -100]}%.</string>
+	<string key="AI_Upyr_Morgaine_Poison_Pool_DisplayName" rel_version="Territory_Dunwood">Poison</string>
+	<string key="AI_Upyr_Morgaine_Poison_Pool_Tooltip" rel_version="Territory_Dunwood">Get damage.</string>
+	<string key="AI_Upyr_Morgaine_Thrall_Rend_DisplayName" rel_version="Territory_Dunwood">Arcane Rend</string>
+	<string key="AI_Upyr_Morgaine_Thrall_Rend_Tooltip" rel_version="Territory_Dunwood">You suffer 5% increase damage per stack</string>
+	<string key="AI_Trial_Quest_Seraphim_Blind_Seraph_Inner_Fire_DisplayName" rel_version="Territory_Dunwood">Inner Fire</string>
+	<string key="AI_Trial_Quest_Seraphim_Blind_Seraph_Torrent_AOE_DisplayName" rel_version="Territory_Dunwood">Rapturous Barrage</string>
+	<string key="AI_Trial_Quest_Seraphim_Blind_Seraph_Torrent_AOE_Tooltip" rel_version="Territory_Dunwood">You are burning for {[-0.100000 * -100]}% base Fire damage per stack every {[2.000000]} seconds.</string>
+	<string key="AI_Trial_Quest_Seraphim_Blind_Seraph_Reflect_DisplayName" rel_version="Territory_Dunwood">Vented Flame</string>
+	<string key="AI_Trial_Quest_Seraphim_Blind_Seraph_Reflect_Tooltip" rel_version="Territory_Dunwood">You are burning for {[-0.010000 * -100]}% base Fire damage per stack every {[2.000000]} seconds.</string>
+	<string key="AI_Trial_Quest_Seraphim_Blind_Seraph_Darkness_AOE_DisplayName" rel_version="Territory_Dunwood">Encroaching Darkness</string>
+	<string key="AI_Trial_Quest_Seraphim_Blind_Seraph_Darkness_AOE_Tooltip" rel_version="Territory_Dunwood">Your movement speed is slowed by {[-0.330000 * -100]}% and you suffer {[-0.100000 * -100]}% Void damage every {[2.000000]} seconds.</string>
+	<string key="AI_Trial_Quest_Seraphim_Blind_Seraph_Darkness_Debuff_DisplayName" rel_version="Territory_Dunwood">Rending Shadows</string>
+	<string key="AI_Trial_Quest_Seraphim_Blind_Seraph_Darkness_Debuff_Tooltip" rel_version="Territory_Dunwood">You take {[-0.100000 * -100]}% increased damage from all sources per stack, up to {[10.000000]} stacks.</string>
+	<string key="AI_Trial_Quest_Seraphim_Blind_Seraph_Brazier_Cleanse_DisplayName" rel_version="Territory_Dunwood">Cleansing Flame</string>
+	<string key="AI_Trial_Quest_Seraphim_Blind_Seraph_Brazier_Cleanse_Tooltip" rel_version="Territory_Dunwood">A powerful flame repels the darkness, at least for a moment. All stacks of Rending Shadows are removed.</string>
+	<string key="AI_Trial_Quest_Seraphim_Breathless_Seraph_Exhausted_DisplayName" rel_version="Territory_Dunwood">Exhausted</string>
+	<string key="AI_Trial_Quest_Seraphim_Breathless_Seraph_Invigoration_DisplayName" rel_version="Territory_Dunwood">Invigoration</string>
+	<string key="AI_Trial_Quest_Seraphim_Breathless_Seraph_Invigoration_Perm_DisplayName" rel_version="Territory_Dunwood">Rampant Invigoration</string>
+	<string key="AI_Trial_Quest_Seraphim_Breathless_Seraph_FlameBreak_Fire_DisplayName" rel_version="Territory_Dunwood">Profane Flames</string>
+	<string key="AI_Trial_Quest_Seraphim_Breathless_Seraph_FlameBreak_Fire_Tooltip" rel_version="Territory_Dunwood">You are burning for {[-0.200000 * -100]}% base Fire damage per stack every {[2.000000]} seconds.</string>
+	<string key="AI_Trial_Quest_Seraphim_Breathless_Seraph_FlameBreak_Slow_DisplayName" rel_version="Territory_Dunwood">Corruption's Embrace</string>
+	<string key="AI_Trial_Quest_Seraphim_Breathless_Seraph_FlameBreak_Slow_Tooltip" rel_version="Territory_Dunwood">Your movement speed is slowed by {[-0.330000 * -100]}%, but you are more resistant to Extinguishing Pyre.</string>
+	<string key="AI_Trial_Quest_Dracula_Banish_Protection_DisplayName" rel_version="Territory_Dunwood">Cecilia's Defiance</string>
+	<string key="AI_Trial_Quest_Dracula_Banish_Protection_Tooltip" rel_version="Territory_Dunwood">Cecilia can protect you from Alecksi's attempts to banish you from Lilith's dream.</string>
+	<string key="AI_Trial_Quest_Dracula_Empower_Buff_DisplayName" rel_version="Territory_Dunwood">Dracula's Wrath</string>
+	<string key="AI_Trial_Quest_Dracula_Ensnare_Debuff_DisplayName" rel_version="Territory_Dunwood">Entangled</string>
 	<string key="ctf_flag_carrier_debuff_icon_name" rel_version="Gamemode_CTF">Flag Carrier!</string>
 	<string key="ctf_flag_carrier_debuff_icon_desc" rel_version="Gamemode_CTF">You are the Flag Carrier! Each stack makes you slower and more vulnerable.</string>
 	<string key="CTF_Powerup_Damage_Empower_Name" rel_version="Gamemode_CTF">Damage Power-up</string>
@@ -2327,5 +2529,139 @@
 	<string key="CTF_Powerup_Speed_Desc" rel_version="Gamemode_CTF">Gain {[0.500000 * 100]}% Speed for {[7.000000]} seconds.</string>
 	<string key="CTF_Powerup_Healing_Name" rel_version="Gamemode_CTF">Health Power-up</string>
 	<string key="CTF_Powerup_Healing_Desc" rel_version="Gamemode_CTF">Gain {[10000.000000]} Health when collected.</string>
+	<string key="NightHaven_ELITE_Snare_6sec_DisplayName" rel_version="Territory_Dunwood">Temporal Distortion</string>
+	<string key="NightHaven_ELITE_Snare_6sec_Tooltip" rel_version="Territory_Dunwood">Movement speed reduced. Periodically spawn a blast of arcane around you, damaging players around you and applying a stack of "Arcanist's Adversity"</string>
+	<string key="NightHaven_ELITE_Weaken_DisplayName" rel_version="Territory_Dunwood">Arcanist's Adversity</string>
+	<string key="NightHaven_ELITE_Weaken_Tooltip" rel_version="Territory_Dunwood">Arcane damage taken increased by 25%. Stacks up to 10 times."</string>
+	<string key="Status_SetBonus_Enrage_TrackingStacks_Name" rel_version="ProgressionOverhaul2025">Enraged Stacks</string>
+	<string key="Status_SetBonus_Enrage_TrackingStacks_Desc" rel_version="ProgressionOverhaul2025">Enraged Stacks: While active, your outgoing base damage is increased and take increased attacker base damage per stack.</string>
+	<string key="Status_SetBonus_SecondWind_Empower_Name" rel_version="ProgressionOverhaul2025">Empowered Second Wind</string>
+	<string key="Status_SetBonus_SecondWind_Empower_Desc" rel_version="ProgressionOverhaul2025">Dmg is increased by {[0.030000 * 100]}% per stack of Empowered Second Wind you have.</string>
+	<string key="Status_SetBonus_SecondWind_Uninterruptible_Name" rel_version="ProgressionOverhaul2025">Uninterruptible</string>
+	<string key="Status_SetBonus_SecondWind_Uninterruptible_Desc" rel_version="ProgressionOverhaul2025">Uninterruptible to staggers and knockdowns while active.</string>
+	<string key="Status_SetBonus_ProtectorsBlessing_Blessing_Name" rel_version="ProgressionOverhaul2025">Protector's Blessing name</string>
+	<string key="Status_SetBonus_ProtectorsBlessing_Blessing_Desc" rel_version="ProgressionOverhaul2025">Blessing stacks</string>
+	<string key="Status_SetBonus_ProtectorsBlessing_SelfRend_Name" rel_version="ProgressionOverhaul2025">Protector's Sacrifice</string>
+	<string key="Status_SetBonus_ProtectorsBlessing_SelfRend_Desc" rel_version="ProgressionOverhaul2025">You receive X% more damage.</string>
+	<string key="Status_SetBonus_ProtectorsBlessing_Fortify_Name" rel_version="ProgressionOverhaul2025">Protector's Fortify</string>
+	<string key="Status_SetBonus_ProtectorsBlessing_Fortify_Desc" rel_version="ProgressionOverhaul2025">Armor increased by {[0.150000 * 100]}%.</string>
+	<string key="Status_SetBonus_ProtectorsBlessing_HoT_Name" rel_version="ProgressionOverhaul2025">Protector's Heal Over Time</string>
+	<string key="Status_SetBonus_ProtectorsBlessing_HoT_Desc" rel_version="ProgressionOverhaul2025">It Heals over time</string>
+	<string key="Status_SetBonus_ElementallyCharged_Charge_Fire_Name" rel_version="ProgressionOverhaul2025">Fire Charge</string>
+	<string key="Status_SetBonus_ElementallyCharged_Charge_Fire_Description" rel_version="ProgressionOverhaul2025">Your elementally charged equipment is charged with fire.</string>
+	<string key="Status_SetBonus_ElementallyCharged_Charge_Ice_Name" rel_version="ProgressionOverhaul2025">Ice Charge</string>
+	<string key="Status_SetBonus_ElementallyCharged_Charge_Ice_Description" rel_version="ProgressionOverhaul2025">Your elementally charged equipment is charged with ice.</string>
+	<string key="Status_SetBonus_ElementallyCharged_Charge_Void_Name" rel_version="ProgressionOverhaul2025">Void Charge</string>
+	<string key="Status_SetBonus_ElementallyCharged_Charge_Void_Description" rel_version="ProgressionOverhaul2025">Your elementally charged equipment is charged with void.</string>
+	<string key="Status_SetBonus_ElementallyCharged_Charge_Nature_Name" rel_version="ProgressionOverhaul2025">Nature Charge</string>
+	<string key="Status_SetBonus_ElementallyCharged_Charge_Nature_Description" rel_version="ProgressionOverhaul2025">Your elementally charged equipment is charged with nature.</string>
+	<string key="Status_SetBonus_ElementallyCharged_Resist_Fire_Name" rel_version="ProgressionOverhaul2025">Elemental Resistance: Fire</string>
+	<string key="Status_SetBonus_ElementallyCharged_Resist_Fire_Description" rel_version="ProgressionOverhaul2025">Take {[0.100000 * 100]}% less fire damage</string>
+	<string key="Status_SetBonus_ElementallyCharged_Resist_Ice_Name" rel_version="ProgressionOverhaul2025">Elemental Resistance: Ice</string>
+	<string key="Status_SetBonus_ElementallyCharged_Resist_Ice_Description" rel_version="ProgressionOverhaul2025">Take {[0.100000 * 100]}% less ice damage</string>
+	<string key="Status_SetBonus_ElementallyCharged_Resist_Void_Name" rel_version="ProgressionOverhaul2025">Elemental Resistance: Void</string>
+	<string key="Status_SetBonus_ElementallyCharged_Resist_Void_Description" rel_version="ProgressionOverhaul2025">Take {[0.100000 * 100]}% less void damage</string>
+	<string key="Status_SetBonus_ElementallyCharged_Resist_Nature_Name" rel_version="ProgressionOverhaul2025">Elemental Resistance: Nature</string>
+	<string key="Status_SetBonus_ElementallyCharged_Resist_Nature_Description" rel_version="ProgressionOverhaul2025">Take {[0.100000 * 100]}% less nature damage</string>
+	<string key="Status_SetBonus_ElementallyCharged_DamageBuff_Fire_Name" rel_version="ProgressionOverhaul2025">Bonus Fire Damage</string>
+	<string key="Status_SetBonus_ElementallyCharged_DamageBuff_Fire_Description" rel_version="ProgressionOverhaul2025">Your attacks do additional fire damage</string>
+	<string key="Status_SetBonus_ElementallyCharged_DamageBuff_Ice_Name" rel_version="ProgressionOverhaul2025">Bonus Ice Damage</string>
+	<string key="Status_SetBonus_ElementallyCharged_DamageBuff_Ice_Description" rel_version="ProgressionOverhaul2025">Your attacks do additional ice damage</string>
+	<string key="Status_SetBonus_ElementallyCharged_DamageBuff_Void_Name" rel_version="ProgressionOverhaul2025">Bonus Void Damage</string>
+	<string key="Status_SetBonus_ElementallyCharged_DamageBuff_Void_Description" rel_version="ProgressionOverhaul2025">Your attacks do additional void damage</string>
+	<string key="Status_SetBonus_ElementallyCharged_DamageBuff_Nature_Name" rel_version="ProgressionOverhaul2025">Bonus Nature Damage</string>
+	<string key="Status_SetBonus_ElementallyCharged_DamageBuff_Nature_Description" rel_version="ProgressionOverhaul2025">Your attacks do additional nature damage</string>
+	<string key="Status_SetBonus_ElementallyCharged_NoCharge_Resist_Name" rel_version="ProgressionOverhaul2025">Elemental Hunger</string>
+	<string key="Status_SetBonus_ElementallyCharged_NoCharge_Resist_Description" rel_version="ProgressionOverhaul2025">Take {[0.050000 * 100]}% less elemental damage</string>
+	<string key="Status_SetBonus_ElementallyCharged_ManaRegen1_Name" rel_version="ProgressionOverhaul2025">Elemental Mana Battery</string>
+	<string key="Status_SetBonus_ElementallyCharged_ManaRegen1_Description" rel_version="ProgressionOverhaul2025">Mana regen rate increase by {[0.200000 * 100]}%</string>
+	<string key="Status_SetBonus_ElementallyCharged_ManaRegen2_Name" rel_version="ProgressionOverhaul2025">Elemental Mana Battery</string>
+	<string key="Status_SetBonus_ElementallyCharged_ManaRegen2_Description" rel_version="ProgressionOverhaul2025">Mana regen rate increase by {[0.400000 * 100]}%</string>
+	<string key="Status_SetBonus_ElementallyCharged_ManaRegen3_Name" rel_version="ProgressionOverhaul2025">Elemental Mana Battery</string>
+	<string key="Status_SetBonus_ElementallyCharged_ManaRegen3_Description" rel_version="ProgressionOverhaul2025">Mana regen rate increase by {[0.600000 * 100]}%</string>
+	<string key="Status_SetBonus_ElementallyCharged_ManaRegen4_Name" rel_version="ProgressionOverhaul2025">Elemental Mana Battery</string>
+	<string key="Status_SetBonus_ElementallyCharged_ManaRegen4_Description" rel_version="ProgressionOverhaul2025">Mana regen rate increase by {[0.800000 * 100]}%</string>
+	<string key="Status_SetBonus_ElementallyCharged_StaminaRegen_Name" rel_version="ProgressionOverhaul2025">Elementally Energized</string>
+	<string key="Status_SetBonus_ElementallyCharged_StaminaRegen_Description" rel_version="ProgressionOverhaul2025">Stamina regen rate increased by {[0.200000 * 100]}%</string>
+	<string key="Status_SetBonus_ElementallyCharged_Haste_Name" rel_version="ProgressionOverhaul2025">Elemental Rush</string>
+	<string key="Status_SetBonus_ElementallyCharged_Haste_Description" rel_version="ProgressionOverhaul2025">Your move speed is increased by {[0.100000 * 100]}%</string>
+	<string key="Status_ItemPerk_Hands_OnAtkBlocked_IncStamDmg_Name" rel_version="ProgressionOverhaul2025">Increased Block Stamina Damage</string>
+	<string key="Status_ItemPerk_Hands_OnAtkBlocked_IncStamDmg_Description" rel_version="ProgressionOverhaul2025">You do bonus stamina damage to blocking targets.</string>
+	<string key="Status_SetBonus_Overcharge_Charge_Name" rel_version="ProgressionOverhaul2025">Temp</string>
+	<string key="Status_SetBonus_Overcharge_Charge_Description" rel_version="ProgressionOverhaul2025">Temp</string>
+	<string key="Status_SetBonus_Overcharge_StamRegen_Name" rel_version="ProgressionOverhaul2025">Temp</string>
+	<string key="Status_SetBonus_Overcharge_StamRegen_Description" rel_version="ProgressionOverhaul2025">Temp</string>
+	<string key="Catacombs_PowerUp_LifeBurst_Ability_DisplayName" rel_version="Feature_Catacombs">Ray of Hope</string>
+	<string key="Catacombs_PowerUp_LifeBurst_Ability_Tooltip" rel_version="Feature_Catacombs">Your base damage is reduced by -20%, but it heals allies in 25m range by 50% weapon damage every 2 seconds.</string>
+	<string key="Catacombs_PowerUp_FortressBlow_Ability_DisplayName" rel_version="Feature_Catacombs">FortressBlow</string>
+	<string key="Catacombs_PowerUp_FortressBlow_Ability_Tooltip" rel_version="Feature_Catacombs">Whenever hit the enemy with heavy attack, gain {[0.050000 * 100]}% fortify for {[12.000000]}second up to {[5.000000]} stacks. Each stack decrease 1% base damage.</string>
+	<string key="Catacombs_PowerUp_ShieldSlam_Ability_DisplayName" rel_version="Feature_Catacombs">Counterblow</string>
+	<string key="Catacombs_PowerUp_ShieldSlam_Ability_Tooltip" rel_version="Feature_Catacombs">Blocking costs 40% more stamina, but your next hit is amplified by 200% with a lightning strike.(CD:5s)</string>
+	<string key="Catacombs_PowerUp_ShieldSlam_Ready_DisplayName" rel_version="Feature_Catacombs">Counterblow Ready</string>
+	<string key="Catacombs_PowerUp_ShieldSlam_Ready_Tooltip" rel_version="Feature_Catacombs">Your next hit is amplified by 200%.(CD:10s)</string>
+	<string key="Catacombs_PowerUp_HealBomb_Ability_DisplayName" rel_version="Feature_Catacombs">Soulwake</string>
+	<string key="Catacombs_PowerUp_HealBomb_Ability_Tooltip" rel_version="Feature_Catacombs">Killing an enemy summons an explosive soul orb that goes after foes, deal AOE damage, heal allies, and explodes in 5s.</string>
+	<string key="Catacombs_PowerUp_HunterMarker_Ability_DisplayName" rel_version="Feature_Catacombs">Grand Feast</string>
+	<string key="Catacombs_PowerUp_HunterMarker_Ability_Tooltip" rel_version="Feature_Catacombs">Allies can heal themselves by 35% weapon damage from damaging the enemies you are hitting.</string>
+	<string key="Catacombs_PowerUp_HunterMarker_CoolDown_DisplayName" rel_version="Feature_Catacombs">Feast Cooldown</string>
+	<string key="Catacombs_PowerUp_HunterMarker_CoolDown_Tooltip" rel_version="Feature_Catacombs">Can't apply Grand Feast.</string>
+	<string key="Catacombs_PowerUp_DefenseTurret_Ability_DisplayName" rel_version="Feature_Catacombs">Skull Sentry</string>
+	<string key="Catacombs_PowerUp_DefenseTurret_Ability_Tooltip" rel_version="Feature_Catacombs">When you're hit, summon a flying skull that attacks enemies with ranged projectiles, but also puts a 20% rend on you.</string>
+	<string key="Catacombs_PowerUp_DefenseTurret_Cast_DisplayName" rel_version="Feature_Catacombs">Skull Sentry's Curse</string>
+	<string key="Catacombs_PowerUp_DefenseTurret_Cast_Tooltip" rel_version="Feature_Catacombs">Receiving 20% rend from the Skull Sentry.</string>
+	<string key="Catacombs_PowerUp_LivingArmor_Ability_DisplayName" rel_version="Feature_Catacombs">Sacred Catalyst</string>
+	<string key="Catacombs_PowerUp_LivingArmor_Ability_Tooltip" rel_version="Feature_Catacombs">Sacred Ground no longer heals, but increases stamina regeneration by 250%, and jumping distance by 700% for 4s.</string>
+	<string key="Catacombs_PowerUp_LivingArmor_Effect_DisplayName" rel_version="Feature_Catacombs">Mobility boost</string>
+	<string key="Catacombs_PowerUp_LivingArmor_Effect_Tooltip" rel_version="Feature_Catacombs">Stamina regeneration increased by 250%. Jumping distance increased by 700%.</string>
+	<string key="Catacombs_PowerUp_HolyCharge_Ability_DisplayName" rel_version="Feature_Catacombs">Purifying Guard</string>
+	<string key="Catacombs_PowerUp_HolyCharge_Ability_Tooltip" rel_version="Feature_Catacombs">Blocking 3 hits without breaking cleanses and heals closed up allies by 50% weapon damage per 0.75s.</string>
+	<string key="Catacombs_PowerUp_HolyCharge_Stack_DisplayName" rel_version="Feature_Catacombs">Purifying Guard Counter</string>
+	<string key="Catacombs_PowerUp_HolyCharge_Stack_Tooltip" rel_version="Feature_Catacombs">Activate Purifying Guard on 3 stacks.</string>
+	<string key="Catacombs_PowerUp_HolyCharge_Effect_DisplayName" rel_version="Feature_Catacombs">Purified</string>
+	<string key="Catacombs_PowerUp_HolyCharge_Effect_Tooltip" rel_version="Feature_Catacombs">Cleans and healed for 50% weapon damage per 0.75s.</string>
+	<string key="Catacombs_PowerUp_FocusIsPower_Ability_DisplayName" rel_version="Feature_Catacombs">Graceburn</string>
+	<string key="Catacombs_PowerUp_FocusIsPower_Ability_Tooltip" rel_version="Feature_Catacombs">Deprecated</string>
+	<string key="Catacombs_PowerUp_FirstAid_Ability_DisplayName" rel_version="Feature_Catacombs">Blood Offering</string>
+	<string key="Catacombs_PowerUp_FirstAid_Ability_Tooltip" rel_version="Feature_Catacombs">Critical hits deal 20% less damage but drop a healing orb that heals {[0.150000 * 100]}% base health.. +{[0.000000 * 100]}% crit chance.(CD:3s)</string>
+	<string key="Catacombs_PowerUp_GlassCannon_Ability_DisplayName" rel_version="Feature_Catacombs">Chain of Carnage</string>
+	<string key="Catacombs_PowerUp_GlassCannon_Ability_Tooltip" rel_version="Feature_Catacombs">Critical hits grant 100% crit chance and 25% rend for 2s.</string>
+	<string key="Catacombs_PowerUp_GlassCannon_Effect_DisplayName" rel_version="Feature_Catacombs">Carnage</string>
+	<string key="Catacombs_PowerUp_GlassCannon_Effect_Tooltip" rel_version="Feature_Catacombs">Gain 100% crit chance and 25% rend for 2s.</string>
+	<string key="Catacombs_PowerUp_ManaWard_Ability_DisplayName" rel_version="Feature_Catacombs">Mana Ward</string>
+	<string key="Catacombs_PowerUp_ManaWard_Ability_Tooltip" rel_version="Feature_Catacombs">Drinking Mana potions consumes 30 Mana to cast a bubble shield for 4s, which bumps enemies away on contact. Also grants 50% overhealth while active.(CD:14s)</string>
+	<string key="Catacombs_PowerUp_ManaWard_Effect_DisplayName" rel_version="Feature_Catacombs">Mana Ward</string>
+	<string key="Catacombs_PowerUp_ManaWard_Effect_Tooltip" rel_version="Feature_Catacombs">Gaining 50% overhealth. Bump enemies away on contact.</string>
+	<string key="Catacombs_PowerUp_ManaArmor_Ability_DisplayName" rel_version="Feature_Catacombs">Armor Orbs</string>
+	<string key="Catacombs_PowerUp_ManaArmor_Ability_Tooltip" rel_version="Feature_Catacombs">Use 10 Mana to make each block more stable and cost less Stamina. Cast 3 armor orbs when Mana is below 50.(CD:14s)</string>
+	<string key="Catacombs_PowerUp_Revitalize_Ability_DisplayName" rel_version="Feature_Catacombs">Revitalize</string>
+	<string key="Catacombs_PowerUp_Revitalize_Ability_Tooltip" rel_version="Feature_Catacombs">When Stamina is below 50, landing or blocking hits transfers 20 Mana into 30 Stamina.</string>
+	<string key="Catacombs_PowerUp_DeathBattle_Ability_DisplayName" rel_version="Feature_Catacombs">Bloodbath</string>
+	<string key="Catacombs_PowerUp_DeathBattle_Ability_Tooltip" rel_version="Feature_Catacombs">At below 50% health, gain a damage aura, +30% crit damage, and 20% armor.</string>
+	<string key="Catacombs_PowerUp_DeathBattle_Effect_DisplayName" rel_version="Feature_Catacombs">Bloodbath</string>
+	<string key="Catacombs_PowerUp_DeathBattle_Effect_Tooltip" rel_version="Feature_Catacombs">Gain a damage aura, +30% crit damage, and 20% armor.</string>
+	<string key="Catacombs_PowerUp_HallowedEyes_Ability_DisplayName" rel_version="Feature_Catacombs">Liquid Catalyst</string>
+	<string key="Catacombs_PowerUp_HallowedEyes_Ability_Tooltip" rel_version="Feature_Catacombs">Survival potions heal 80% less, but explode and massively accelerate ally cooldown.</string>
+	<string key="Catacombs_PowerUp_HallowedEyes_Effect_DisplayName" rel_version="Feature_Catacombs">Cooldown Rush</string>
+	<string key="Catacombs_PowerUp_HallowedEyes_Effect_Tooltip" rel_version="Feature_Catacombs">Active weapon cooldowns are massively accelerated. The longer the cooldown is, the more it speeds up.</string>
+	<string key="Catacombs_PowerUp_ImmortalRally_Ability_DisplayName" rel_version="Feature_Catacombs">Immortal Rally</string>
+	<string key="Catacombs_PowerUp_ImmortalRally_Ability_Tooltip" rel_version="Feature_Catacombs">Heavy attacking below 40% health builds a barrier that heals and immortalizes allies.(CD:30s)</string>
+	<string key="Catacombs_PowerUp_ImmortalRally_Effect_DisplayName" rel_version="Feature_Catacombs">Immortal</string>
+	<string key="Catacombs_PowerUp_ImmortalRally_Effect_Tooltip" rel_version="Feature_Catacombs">Your health cannot go below 30%.</string>
+	<string key="Catacombs_PowerUp_KillJump_Ability_DisplayName" rel_version="Feature_Catacombs">Deathstep</string>
+	<string key="Catacombs_PowerUp_KillJump_Ability_Tooltip" rel_version="Feature_Catacombs">Jump 700% further after backstabs/headshots(CD:10s) and kills(CD:0s).</string>
+	<string key="Catacombs_PowerUp_KillJump_Effect_DisplayName" rel_version="Feature_Catacombs">Jump Boost</string>
+	<string key="Catacombs_PowerUp_KillJump_Effect_Tooltip" rel_version="Feature_Catacombs">Jump 700% further for the moment.</string>
+	<string key="Catacombs_PowerUp_TurretSummon_Ability_DisplayName" rel_version="Feature_Catacombs">Oceanborne</string>
+	<string key="Catacombs_PowerUp_TurretSummon_Ability_Tooltip" rel_version="Feature_Catacombs">Summon a sea monster attack when you hit 2 heavy attacks in a row.(CD:16s)</string>
+	<string key="Catacombs_PowerUp_Netherbloom_Ability_DisplayName" rel_version="Feature_Catacombs">Mist of Unworn</string>
+	<string key="Catacombs_PowerUp_Netherbloom_Ability_Tooltip" rel_version="Feature_Catacombs">Erosion tonic grants nearby allies 10s erosion immunity.</string>
+	<string key="Catacombs_PowerUp_Netherbloom_Effect_DisplayName" rel_version="Feature_Catacombs">Erosion Immunity</string>
+	<string key="Catacombs_PowerUp_Netherbloom_Effect_Tooltip" rel_version="Feature_Catacombs">Immune to Erosion.</string>
+	<string key="17DW_FoolSightPotion_DisplayName" rel_version="Territory_Dunwood">Fool's Sight</string>
+	<string key="17DW_FoolSightPotion_Tooltip" rel_version="Territory_Dunwood">You can see invisible secrets in Nighthaven.</string>
+	<string key="Webtrap_Slow_DisplayName" rel_version="Territory_Dunwood">Web Snare</string>
+	<string key="Webtrap_Slow_Tooltip" rel_version="Territory_Dunwood">You are stepping in deep spider web. Remaining in the web will continually slow you until you are cocooned</string>
+	<string key="Webtrap_Stun_DisplayName" rel_version="Territory_Dunwood">Cocooned</string>
+	<string key="Webtrap_Stun_Tooltip" rel_version="Territory_Dunwood">Temporarily stunned</string>
 </resources>
 

@@ -3,6 +3,13 @@
 	<string key="ui_shop_default_reputation_tooltip" comment="DO NOT TRANSLATE">Reputation is rewarded by completing associated quests and activities.</string>
 	<string key="ui_shop_conversation_option">Open {ShopName}</string>
 	<string key="ui_shop_conversation_option_default">Open Shop</string>
+	<string key="ui_shop_upyr_name" comment="DO NOT TRANSLATE" rel_version="Territory_Dunwood">Upyr Shop</string>
+	<string key="ui_shop_upyr_reputation_tooltip" comment="DO NOT TRANSLATE" rel_version="Territory_Dunwood">Improve your reputation amongst the Upyr by doing missions for them.</string>
+	<string key="ui_shop_berlaur_name" comment="DO NOT TRANSLATE" rel_version="Territory_Dunwood">Berlaur Shop</string>
+	<string key="ui_shop_berlaur_reputation_tooltip" comment="DO NOT TRANSLATE" rel_version="Territory_Dunwood">Improve your reputation amongst the Berlaur by doing missions for them.</string>
+	<string key="ui_shop_catacombs_name" rel_version="Feature_Catacombs">Catacombs Shop</string>
+	<string key="ui_shop_catacombs_rank_0" rel_version="Feature_Catacombs">Catacombs Delver</string>
+	<string key="ui_shop_maptooltip_description" rel_version="Feature_Catacombs">Exchange Mythic Sterling and Mythic Crowns found in the Nighthaven Catacombs for rewards.</string>
 	<string key="ui_shop_syndicate_name">Syndicate Armory</string>
 	<string key="ui_shop_marauders_name">Marauders Armory</string>
 	<string key="ui_shop_covenant_name">Covenant Armory</string>

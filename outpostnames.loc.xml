@@ -37,6 +37,8 @@
 	<string key="ui_poi_outpost_32_1_description">A sanctuary outfitted to craft various TIER 3 equipment and items.\n\n&lt;font color='#FFDD75'&gt;Available Stations\n&lt;/font&gt;&lt;font color='#ebe3d6'&gt;Forge, &lt;/font&gt;&lt;font color='#ebe3d6'&gt;Kitchen, &lt;/font&gt;&lt;font color='#ebe3d6'&gt;Smelter, &lt;/font&gt;&lt;font color='#ebe3d6'&gt;Tannery, &lt;/font&gt; &lt;font color='#ebe3d6'&gt;Loom, &lt;/font&gt;&lt;font color='#ebe3d6'&gt;Woodshop&lt;/font&gt;</string>
 	<string key="ui_poi_outpost_33_1_30326" rel_version="Territory_Brimstone_Sands">Wikala al-Waha</string>
 	<string key="ui_poi_outpost_33_1_30326_description" rel_version="Territory_Brimstone_Sands">Outpost</string>
+	<string key="ui_poi_outpost_10330" rel_version="Territory_Dunwood">Grand Carnival</string>
+	<string key="ui_poi_outpost_10330_description" rel_version="Territory_Dunwood">Outpost</string>
 	<string key="ui_poi_outpost_41_1">Delete me</string>
 	<string key="ui_poi_outpost_41_1_description">A sanctuary outfitted to craft various TIER 3 equipment and items.\n\n&lt;font color='#FFDD75'&gt;Available Stations\n&lt;/font&gt;&lt;font color='#ebe3d6'&gt;Forge, &lt;/font&gt;&lt;font color='#ebe3d6'&gt;Kitchen, &lt;/font&gt;&lt;font color='#ebe3d6'&gt;Smelter, &lt;/font&gt;&lt;font color='#ebe3d6'&gt;Tannery, &lt;/font&gt; &lt;font color='#ebe3d6'&gt;Loom, &lt;/font&gt;&lt;font color='#ebe3d6'&gt;Woodshop, &lt;/font&gt;&lt;font color='#ebe3d6'&gt;Outfitting Station, &lt;/font&gt;&lt;font color='#ebe3d6'&gt;Arcane Repository, &lt;/font&gt;&lt;font color='#ebe3d6'&gt;Workshop&lt;/font&gt;</string>
 	<string key="ui_poi_outpost_41_2">Windsward Watchtower</string>

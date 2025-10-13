@@ -9,6 +9,7 @@
 	<string key="ui_queue_ready">F2 To Enter Expedition</string>
 	<string key="ui_queue_generic_leave_title">Leave Queue</string>
 	<string key="ui_queue_generic_leave_desc">Are you sure you want to leave the current queue?</string>
+	<string key="ui_queue_rotation_expired">Queue cancelled. Game mode out of rotation.</string>
 	<string key="ui_game_mode_matchmaking_failed">An unexpected matchmaking failure has occurred.</string>
 	<string key="ui_game_mode_disabled">This game mode is currently disabled.</string>
 	<string key="ui_session_ending_label">Session Ending:</string>
@@ -17,6 +18,7 @@
 	<string key="ui_dungeon_enter_info_raidtrial">&lt;font color={color}&gt;At least 1 person&lt;/font&gt; must enter to keep the Elite Trial open. Teleport in now?</string>
 	<string key="ui_dungeon_enter_info_seasontrial" rel_version="Season_2_Trial">&lt;font color={color}&gt;At least 1 person&lt;/font&gt; must enter to keep the Seasonal Trial open. Teleport in now?</string>
 	<string key="ui_dungeon_enter_info_dailysolotrial" rel_version="DailySoloTrials">&lt;font color={color}&gt;Daily Soul Trial is ready&lt;/font&gt;. Teleport in now?</string>
+	<string key="ui_dungeon_enter_info_catacombs" rel_version="Feature_Catacombs">&lt;font color={color}&gt;At least 1 person&lt;/font&gt; must enter to keep the instance open. Teleport in now?</string>
 	<string key="ui_dungeon_enter_info_entered">The Expedition is now open!\n&lt;font color={color}&gt;Teleport in now?&lt;/font&gt;</string>
 	<string key="ui_dungeon_enter_info_entered_solo">&lt;font color={color}&gt;Soul Trial is ready&lt;/font&gt;. Teleport in now?</string>
 	<string key="ui_dungeon_enter_info_entered_dailysolotrial" rel_version="DailySoloTrials">&lt;font color={color}&gt;Daily Soul Trial is ready&lt;/font&gt;. Teleport in now?</string>
@@ -100,8 +102,8 @@
 	<string key="ui_outpost_rush_invite_status">Accept to join the battle!</string>
 	<string key="ui_outpost_rush_signup_title">OUTPOST RUSH</string>
 	<string key="ui_outpost_rush_signup_desc">&lt;font color="#edc63e"&gt;Outpost Rush&lt;/font&gt; is a 20v20 match that takes place on a large island with three Outposts that teams compete to capture and hold.</string>
-	<string key="ui_outpost_rush_signup_desc_gearscore">&lt;font color="#edc63e"&gt;Gear Score Scaling&lt;/font&gt; increases the gear score of all equipment below 700 to 700.</string>
-	<string key="ui_outpost_rush_signup_desc_cross_world">Outpost Rush is a 20v20 &lt;font color="#edc63e"&gt;Cross World game mode.&lt;/font&gt;\n&lt;font color="#edc63e"&gt;Gear Score Scaling&lt;/font&gt; increases the gear score of all equipment below 700 to 700.</string>
+	<string key="ui_outpost_rush_signup_desc_gearscore">&lt;font color="#edc63e"&gt;Gear Score Scaling&lt;/font&gt; increases the gear score of all equipment below 775 to 775.</string>
+	<string key="ui_outpost_rush_signup_desc_cross_world">Outpost Rush is a 20v20 &lt;font color="#edc63e"&gt;Cross World game mode.&lt;/font&gt;\n&lt;font color="#edc63e"&gt;Gear Score Scaling&lt;/font&gt; increases the gear score of all equipment below 775 to 775.</string>
 	<string key="ui_outpost_rush_signup_desc_cross_world_tooltip">&lt;font color="#edc63e"&gt;Cross World&lt;/font&gt; means that you will be playing together with players from all worlds within your region. This can help shorten wait times to find a match.\n\nThings to note:\n\n-When you see a player with &lt;img src="lyshineui/images/icons/crossworld/icon_crossworld_identifier" xPadding="-1" scale="1.8" yOffset="2"&gt;&lt;/img&gt; next to their name, this means they are from another world.\n\n-While in the Cross World match, several social functions will be disabled, including trading, invites, and more.\n\n-The OPR Wins Leaderboard is now a Regional Leaderboard.</string>
 	<string key="ui_outpost_rush_signup_goal1">Capture and hold Outposts to score</string>
 	<string key="ui_outpost_rush_signup_goal2">The first team to score 1,000 points wins</string>
@@ -292,6 +294,7 @@
 	<string key="ui_matchmaking_ready_accept_choice">Ready</string>
 	<string key="ui_matchmaking_ready_title">Match Ready</string>
 	<string key="ui_matchmaking_ready_title_dungeon">Group Found</string>
+	<string key="ui_matchmaking_ready_title_catacombs" rel_version="Feature_Catacombs">Catacombs Open</string>
 	<string key="ui_matchmaking_ready_text">Your queued &lt;font color={color}&gt;match is ready to play&lt;/font&gt;. Teleport in now?</string>
 	<string key="ui_matchmaking_ready_text_dungeon">Waiting For Players (&lt;font color={acceptedColor}&gt;{numAccepted}&lt;/font&gt;/{numInvited})</string>
 	<string key="dungeon_how_to_raid">How to Form a Raid</string>
@@ -391,13 +394,68 @@
 	<string key="ui_cannot_travel_ctf" rel_version="Gamemode_CTF">You cannot fast travel in Capture The Flag.</string>
 	<string key="ui_ctf_leave_desc" rel_version="Gamemode_CTF">Are you sure you want to leave Capture The Flag?</string>
 	<string key="ui_ctf_leave_desc_time" rel_version="Gamemode_CTF">Are you sure you want to leave Capture The Flag?\nYou will be unable to queue for Capture The Flag again for &lt;font color="#edc63e"&gt;[{time}]&lt;/font&gt;.</string>
+	<string key="br_gamemode_name" comment="DO NOT TRANSLATE" rel_version="Gamemode_BR">Battle Royale</string>
+	<string key="br_gamemode_description" comment="DO NOT TRANSLATE" rel_version="Gamemode_BR">Battle Royale is a multiplayer game mode which 32 players compete to be the last one standing</string>
+	<string key="ui_battle_royale_invite_notification_title" comment="DO NOT TRANSLATE" rel_version="Gamemode_BR">Battle Royale Invite</string>
+	<string key="ui_battle_royale_invite_notification_text" comment="DO NOT TRANSLATE" rel_version="Gamemode_BR">You have been invited to Battle Royale!</string>
+	<string key="ui_br_leave" comment="DO NOT TRANSLATE" rel_version="Gamemode_BR">Leave Activity</string>
+	<string key="ui_cannot_travel_br" comment="DO NOT TRANSLATE" rel_version="Gamemode_BR">You cannot fast travel in Battle Royale.</string>
+	<string key="ui_br_leave_desc" comment="DO NOT TRANSLATE" rel_version="Gamemode_BR">Are you sure you want to leave Battle Royale?</string>
+	<string key="ui_br_leave_desc_time" comment="DO NOT TRANSLATE" rel_version="Gamemode_BR">Are you sure you want to leave Battle Royale?\nYou will be unable to queue for Battle Royale again for &lt;font color={color}&gt;[{time}]&lt;/font&gt;.</string>
+	<string key="br_players_alive" comment="DO NOT TRANSLATE" rel_version="Gamemode_BR">Players Alive: {numAlive}/{totalPlayers}</string>
+	<string key="br_match_begins_in" comment="DO NOT TRANSLATE" rel_version="Gamemode_BR">Match Begins In:</string>
+	<string key="br_ring_closes_in" comment="DO NOT TRANSLATE" rel_version="Gamemode_BR">Ring of Death Closes In:</string>
+	<string key="br_ring_closing" comment="DO NOT TRANSLATE" rel_version="Gamemode_BR">Ring of Death Closing:</string>
+	<string key="br_match_complete" comment="DO NOT TRANSLATE" rel_version="Gamemode_BR">Match Over</string>
+	<string key="br_match_complete_rank" comment="DO NOT TRANSLATE" rel_version="Gamemode_BR">You placed: {rank}</string>
 	<string key="ui_opr_no_perks_title" rel_version="Feature_DisabledPerkGameModes">Outpost Rush: Barebones</string>
-	<string key="ui_opr_no_perks_signup_desc_cross_world" rel_version="Feature_DisabledPerkGameModes">Best in slot gear not required! Join this new spin on Outpost Rush that disables all gear perks and lifts them to max gear score, leveling the playing field.\n\n&lt;font color="#edc63e"&gt;Gear Score Scaling&lt;/font&gt; increases the gear score of all equipment below 725 to 725.</string>
+	<string key="ui_opr_no_perks_signup_desc_cross_world" rel_version="Feature_DisabledPerkGameModes">Best in slot gear not required! Join this new spin on Outpost Rush that disables all gear perks and lifts them to max gear score, leveling the playing field.\n\n&lt;font color="#edc63e"&gt;Gear Score Scaling&lt;/font&gt; increases the gear score of all equipment below 800 to 800.</string>
 	<string key="ui_opr_no_perks_signup_goal1" rel_version="Feature_DisabledPerkGameModes">Capture and hold Outposts to score</string>
 	<string key="ui_opr_no_perks_signup_goal2" rel_version="Feature_DisabledPerkGameModes">The first team to score 1,000 points wins</string>
 	<string key="ui_opr_no_perks_signup_goal3" rel_version="Feature_DisabledPerkGameModes">Utilize special resources to attack &amp; defend</string>
 	<string key="ui_ctf_signup_goal1" rel_version="Gamemode_CTF" comment="DO NOT TRANSLATE">TEMP CTF TIP 1</string>
 	<string key="ui_ctf_signup_goal2" rel_version="Gamemode_CTF" comment="DO NOT TRANSLATE">TEMP CTF TIP 2</string>
 	<string key="ui_ctf_signup_goal3" rel_version="Gamemode_CTF" comment="DO NOT TRANSLATE">TEMP CTF TIP 3</string>
+	<string key="ui_catacombs_buffs" rel_version="Feature_Catacombs">Acquired Aspect</string>
+	<string key="ui_catacombs_no_buffs" rel_version="Feature_Catacombs">Search for Aspect Shrines and Idols of Ascension.</string>
+	<string key="ui_catacombs_extractable" rel_version="Feature_Catacombs">Extractable Currencies</string>
+	<string key="ui_catacombs_non_extractable" rel_version="Feature_Catacombs">Non-Extractable Currencies</string>
+	<string key="ui_catacombs_extraction_detail" rel_version="Feature_Catacombs">Extraction Detail</string>
+	<string key="ui_catacombs_difficulty_level_header" rel_version="Feature_Catacombs">Difficulty: Level {level}</string>
+	<string key="ui_catacombs_hazard_desc" rel_version="Feature_Catacombs">Each Boss defeated significantly increases all enemies' health and damage.</string>
+	<string key="ui_catacombs_list_item_text" rel_version="Feature_Catacombs">{quantity} {description}</string>
+	<string key="ui_catacombs_list_item_text_numberless" rel_version="Feature_Catacombs">{description}</string>
+	<string key="ui_catacombs_souls" rel_version="Feature_Catacombs">Souls</string>
+	<string key="ui_catacombs_silvers" rel_version="Feature_Catacombs">Mythic Sterling</string>
+	<string key="ui_catacombs_silvers_tooltip_description" rel_version="Feature_Catacombs">Once the measure of a long-forgotten empire, this silver medallion gleams with an argent light that never dulls.\n\nSterling is capped at {maxAmount}\n&lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#b2aea1"&gt;Source:&lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#ebe3d6"&gt; Enemies in Catacombs game mode&lt;/font&gt;</string>
+	<string key="ui_catacombs_crowns" rel_version="Feature_Catacombs">Mythic Crowns</string>
+	<string key="ui_catacombs_crowns_tooltip_description" rel_version="Feature_Catacombs">A spectacular golden medallion owned only by the greatest conquerers. It reflects not just the torchlight, but also the echoes of all who lusted after it before. Legends hold that to spend a Crown is to command loyalty; to hoard one is to draw envy, greed, and betrayal.\n\nCrowns are capped at {maxAmount}\n&lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#b2aea1"&gt;Source:&lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#ebe3d6"&gt; Enemies in Catacombs game mode&lt;/font&gt;</string>
+	<string key="ui_catacombs_cursed_silvers" rel_version="Feature_Catacombs">Cursed Sterling</string>
+	<string key="ui_catacombs_cursed_silvers_tooltip_description" rel_version="Feature_Catacombs">Once the measure of a long-forgotten empire, this silver medallion still glitters through the glooms of its curse.\n\nSilvers are capped at {maxAmount}\n&lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#b2aea1"&gt;Source:&lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#ebe3d6"&gt; Enemies in Catacombs game mode&lt;/font&gt;</string>
+	<string key="ui_catacombs_cursed_crowns" rel_version="Feature_Catacombs">Cursed Crowns</string>
+	<string key="ui_catacombs_cursed_crowns_tooltip_description" rel_version="Feature_Catacombs">Burdened with millenias of curses and bloodshed, this cursed golden medallion is freezing cold on the surface, yet molten hot on the inside.\n\nCrowns are capped at {maxAmount}\n&lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#b2aea1"&gt;Source:&lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#ebe3d6"&gt; Enemies in Catacombs game mode&lt;/font&gt;</string>
+	<string key="ui_catacombs_cursed_currency_tooltip_warning" rel_version="Feature_Catacombs">Extract from the Catacomb to cleanse the curse.</string>
+	<string key="ui_catacombs_instant_respawns" rel_version="Feature_Catacombs">Instant Respawns: {num}</string>
+	<string key="ui_catacombs_extracted" rel_version="Feature_Catacombs">Extracted</string>
+	<string key="ui_catacombs_failure" rel_version="Feature_Catacombs">Failed to Extract</string>
+	<string key="ui_catacombs_bosses_killed" rel_version="Feature_Catacombs">Bosses Slain</string>
+	<string key="ui_catacombs_chests_opened" rel_version="Feature_Catacombs">Sterling Hoards Opened</string>
+	<string key="ui_catacombs_named_enemies_killed" rel_version="Feature_Catacombs">Named Enemies Killed</string>
+	<string key="ui_catacombs_silvers_extracted" rel_version="Feature_Catacombs">Mythic Sterling Extracted</string>
+	<string key="ui_catacombs_crowns_extracted" rel_version="Feature_Catacombs">Mythic Crowns Extracted</string>
+	<string key="ui_catacombs_players_extracted" rel_version="Feature_Catacombs">Players Extracted</string>
+	<string key="ui_catacombs_chests_gathered" rel_version="Feature_Catacombs">Chests Gathered</string>
+	<string key="ui_catacombs_weekly_crowns_remaining" rel_version="Feature_Catacombs">Your Weekly Crowns Remaining</string>
+	<string key="ui_catacombs_chests_opened_silvers" rel_version="Feature_Catacombs">Sterling Extracted From Chests</string>
+	<string key="ui_catacombs_chests_opened_crowns" rel_version="Feature_Catacombs">Crowns Extracted From Chests</string>
+	<string key="ui_catacombs_bosses_silvers" rel_version="Feature_Catacombs">Sterling Extracted From Bosses</string>
+	<string key="ui_catacombs_bosses_crowns" rel_version="Feature_Catacombs">Crowns Extracted From Bosses</string>
+	<string key="ui_catacombs_named_enemies_silvers" rel_version="Feature_Catacombs">Sterling Extracted From Named Enemies</string>
+	<string key="ui_catacombs_named_enemies_crowns" rel_version="Feature_Catacombs">Crowns Extracted From Named Enemies</string>
+	<string key="ui_catacombs_crowns_deducted" rel_version="Feature_Catacombs">Crowns Deducted Due To Weekly Crowns Cap</string>
+	<string key="ui_catacombs_result" rel_version="Feature_Catacombs">Result</string>
+	<string key="ui_catacombs_extraction_bonus" rel_version="Feature_Catacombs">All players safely extracted. 20% bonus applied.</string>
+	<string key="ui_catacombs_extraction_bonus_failed" rel_version="Feature_Catacombs">Failed extraction. Retain 20% of rewards.</string>
+	<string key="ui_catacombs_dropped_items" rel_version="Feature_Catacombs">Dropped cursed items</string>
 </resources>
 

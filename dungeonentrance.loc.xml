@@ -28,6 +28,7 @@
 	<string key="ui_dungeon_requirements_groupsize">Minimum Players: {players}</string>
 	<string key="ui_dungeon_requirements_groupsize_range">Minimum Players: {minPlayers} - {maxPlayers} Players (Current: {currentPlayers})</string>
 	<string key="ui_dungeon_requirements_groupsize_single">Maximum Players: 1</string>
+	<string key="ui_dungeon_requirements_groupsize_maximum">Maximum Players: {players}</string>
 	<string key="ui_dungeon_requirements_level_recommended">Recommended Level: {level}</string>
 	<string key="ui_dungeon_requirements_level_required">Required Level: {level}</string>
 	<string key="ui_dungeon_requirements_matchmaking_gearscore" rel_version="Feature_Group_Finder">{gearscore}+</string>
@@ -180,6 +181,7 @@
 	<string key="ui_dungeon_queued_blocked_raidtrial">Enter</string>
 	<string key="ui_dungeon_queued_blocked_seasontrial" rel_version="Season_2_Perm">Enter</string>
 	<string key="ui_dungeon_outpost_rush">You are already in a queue for Outpost Rush.</string>
+	<string key="ui_dungeon_in_queue">You are already in a queue for {gameMode}.</string>
 	<string key="ui_dungeon_level_not_met">You do not meet the level requirement for this Expedition.</string>
 	<string key="ui_dungeon_level_not_met_solo">You do not meet the level requirement for this Soul Trial.</string>
 	<string key="ui_dungeon_level_not_met_raidtrial">You do not meet the level requirement for this Elite Trial.</string>
@@ -203,6 +205,8 @@
 	<string key="ui_dungeon_remaining_tooltip">You may enter up to {amount} Regular Expeditions per day.</string>
 	<string key="ui_dungeon_remaining_tooltip_raidtrial">You may enter up to {amount} Elite Trials per day.</string>
 	<string key="ui_dungeon_remaining_tooltip_seasontrial" rel_version="Season_2_Perm">You may enter up to {amount} Seasonal Trials per day.</string>
+	<string key="ui_dungeon_remaining_tooltip_catacombs">You can extract up to {amount} Crowns per week.</string>
+	<string key="ui_catacombs_reset_in">Resets In: &lt;img src="LyShineUI/Images/Icons/Misc/icon_hourglass_tan.png" scale="1.1" yOffset="1.0"&gt;&lt;/img&gt;{resetTime}</string>
 	<string key="ui_dungeon_mutation_remaining_label" rel_version="Feature_Dungeon_Mutators">Mutated Expeditions Remaining</string>
 	<string key="ui_dungeon_mutation_remaining_tooltip" rel_version="Feature_Dungeon_Mutators">You may enter up to {amount} Mutated Expeditions per week.</string>
 	<string key="ui_dungeon_dailysolotrial_remaining_label" rel_version="DailySoloTrials">Daily Run Remaining</string>
@@ -298,9 +302,9 @@
 	<string key="ui_dungeon_mutator_difficulty_not_unlocked" rel_version="Feature_Dungeon_Mutators">This difficulty has not been unlocked yet.</string>
 	<string key="Mut_Disease_1_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Enemies apply a stacking Disease on hit, reducing incoming healing by {[-0.025000 * -100]}% per stack.</string>
 	<string key="Mut_Disease_2_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Enemies apply a stacking Disease on hit, reducing incoming healing by {[-0.025000 * -100]}/{[-0.050000 * -100]}% per stack.</string>
-	<string key="Mut_RotatingBeam_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Enemies cast slicing beams that deal {[-0.3 * -100]}% base Void damage when touched.</string>
-	<string key="Mut_StaminaDamage_1_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt2">Enemies forgo the {[-0.250000 * -100]}% reduced stamina damage in Expeditions.\nEnemies deal {[0.400000 * 100]}% increased stamina damage.\nAdditionally, upon breaking your block, enemies apply a bleed, dealing {[-0.05 * -100]}% base health damage per tick.</string>
-	<string key="Mut_StaminaDamage_2_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt2">Enemies forgo the {[-0.250000 * -100]}% reduced stamina damage in Expeditions.\nEnemies deal {[0.400000 * 100]}/{[0.750000 * 100]}% increased stamina damage.\nAdditionally, upon breaking your block, enemies apply a bleed, dealing {[-0.05 * -100]}/{[-0.08 * -100]}% base health damage per tick.</string>
+	<string key="Mut_RotatingBeam_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Enemies cast slicing beams that deal {[-0.300000 * -100]}% base Void damage when touched.</string>
+	<string key="Mut_StaminaDamage_1_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt2">Enemies forgo the {[-0.250000 * -100]}% reduced stamina damage in Expeditions.\nEnemies deal {[0.400000 * 100]}% increased stamina damage.\nAdditionally, upon breaking your block, enemies apply a bleed, dealing {[-0.050000 * -100]}% base health damage per tick.</string>
+	<string key="Mut_StaminaDamage_2_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt2">Enemies forgo the {[-0.250000 * -100]}% reduced stamina damage in Expeditions.\nEnemies deal {[0.400000 * 100]}/{[0.750000 * 100]}% increased stamina damage.\nAdditionally, upon breaking your block, enemies apply a bleed, dealing {[-0.050000 * -100]}/{[-0.080000 * -100]}% base health damage per tick.</string>
 	<string key="Mut_Enrage_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt2">When hit, enemies generate Fury. At {[20.000000]} Fury, they become enraged, dealing {[0.500000 * 100]}% increased damage and become {[0.150000 * 100]}% larger.</string>
 	<string key="Mut_ManaThorns_1_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt2">Enemies drain {[-10.000000* -1]} mana upon being hit.</string>
 	<string key="Mut_ManaThorns_2_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt2">Enemies drain {[-10.000000* -1]}/{[-20.000000* -1]} mana upon being hit.</string>
@@ -311,10 +315,10 @@
 	<string key="Mut_Fir_Damage_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Enemies deal {[0.500000 * 100]}% of all damage as Fire damage.</string>
 	<string key="Mut_Fir_Resist_1_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Enemies have {[0.500000 * 100]}% Fire absorption.</string>
 	<string key="Mut_Fir_Resist_2_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Enemies have {[0.500000 * 100]}/{[0.750000 * 100]}% Fire absorption.</string>
-	<string key="Mut_Fir_Burn_1_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Enemies apply Burn on hit, dealing {[-0.04 * -100]}% base Fire damage over time.</string>
-	<string key="Mut_Fir_Burn_2_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Enemies apply Burn on hit, dealing {[-0.04 * -100]}/{[-0.08 * -100]}% base Fire damage over time.</string>
-	<string key="Mut_Fir_AOE_1_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Enemies cast a Burn zone on attacking players, dealing {[-0.2 * -100]}% base Fire damage over time.</string>
-	<string key="Mut_Fir_AOE_2_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Enemies cast a Burn zone on attacking players, dealing {[-0.4 * -100]}% base Fire damage over time.</string>
+	<string key="Mut_Fir_Burn_1_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Enemies apply Burn on hit, dealing {[-0.040000 * -100]}% base Fire damage over time.</string>
+	<string key="Mut_Fir_Burn_2_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Enemies apply Burn on hit, dealing {[-0.040000 * -100]}/{[-0.080000 * -100]}% base Fire damage over time.</string>
+	<string key="Mut_Fir_AOE_1_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Enemies cast a Burn zone on attacking players, dealing {[-0.200000 * -100]}% base Fire damage over time.</string>
+	<string key="Mut_Fir_AOE_2_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Enemies cast a Burn zone on attacking players, dealing {[-0.400000 * -100]}% base Fire damage over time.</string>
 	<string key="Mut_Fir_Death_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Enemies explode upon death, dealing {[0.700000 * 100]}% base Fire damage in a small area.</string>
 	<string key="Mut_Ice_Damage_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt3">Enemies deal {[0.500000 * 100]}% of all damage as Ice damage.</string>
 	<string key="Mut_Ice_Resist_1_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt3">Enemies have {[0.500000 * 100]}% Ice absorption.</string>
@@ -330,18 +334,18 @@
 	<string key="Mut_Nat_Damage_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt2">Enemies deal {[0.500000 * 100]}% of all damage as Nature damage.</string>
 	<string key="Mut_Nat_Resist_1_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt2">Enemies have {[0.500000 * 100]}% Nature absorption.</string>
 	<string key="Mut_Nat_Resist_2_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt2">Enemies have {[0.500000 * 100]}/{[0.750000 * 100]}% Nature absorption.</string>
-	<string key="Mut_Nat_Thorns_1_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt2">Enemies deal {[-0.2 * -100]}% base Nature damage upon being hit.</string>
-	<string key="Mut_Nat_Thorns_2_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt2">Enemies deal {[-0.2 * -100]}/{[-0.4 * -100]}% base Nature damage upon being hit.</string>
-	<string key="Mut_Nat_Pools_1_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt2">Enemies periodically spawn Poison zones, dealing {[-0.05 * 100]}% base Nature damage over time.</string>
-	<string key="Mut_Nat_Pools_2_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt2">Enemies periodically spawn Poison zones, dealing {[-0.05 * 100]}/{[-0.1 * 100]}% base Nature damage over time.</string>
-	<string key="Mut_Nat_Crawler_1_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt2">Enemies periodically spawn a poison entity that deals {[-0.2 * -100]}% base nature damage over time and locks onto a far target. Upon reaching the target player, casts an area root.</string>
-	<string key="Mut_Nat_Crawler_2_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt2">Enemies periodically spawn a poison entity that deals {[-0.2 * -100]}/{[-0.4 * -100]}% base nature damage over time and locks onto a far target. Upon reaching the target player, casts an area root.</string>
-	<string key="Mut_Nat_Death_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt2">Enemies leave a zone upon death, healing enemies that stand in it for {[0.03 * 100]}% health per second.</string>
+	<string key="Mut_Nat_Thorns_1_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt2">Enemies deal {[-0.200000 * -100]}% base Nature damage upon being hit.</string>
+	<string key="Mut_Nat_Thorns_2_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt2">Enemies deal {[-0.200000 * -100]}/{[-0.400000 * -100]}% base Nature damage upon being hit.</string>
+	<string key="Mut_Nat_Pools_1_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt2">Enemies periodically spawn Poison zones, dealing {[-0.050000 * 100]}% base Nature damage over time.</string>
+	<string key="Mut_Nat_Pools_2_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt2">Enemies periodically spawn Poison zones, dealing {[-0.050000 * 100]}/{[-0.100000 * 100]}% base Nature damage over time.</string>
+	<string key="Mut_Nat_Crawler_1_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt2">Enemies periodically spawn a poison entity that deals {[-0.200000 * -100]}% base nature damage over time and locks onto a far target. Upon reaching the target player, casts an area root.</string>
+	<string key="Mut_Nat_Crawler_2_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt2">Enemies periodically spawn a poison entity that deals {[-0.200000 * -100]}/{[-0.400000 * -100]}% base nature damage over time and locks onto a far target. Upon reaching the target player, casts an area root.</string>
+	<string key="Mut_Nat_Death_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators_pt2">Enemies leave a zone upon death, healing enemies that stand in it for {[0.030000 * 100]}% health per second.</string>
 	<string key="Mut_Voi_Damage_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Enemies deal {[0.500000 * 100]}% of all damage as Void damage.</string>
 	<string key="Mut_Voi_Resist_1_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Enemies have {[0.500000 * 100]}% Void absorption.</string>
 	<string key="Mut_Voi_Resist_2_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Enemies have {[0.500000 * 100]}/{[0.750000 * 100]}% Void absorption.</string>
-	<string key="Mut_Voi_Leech_1_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Enemies apply Leech on hit, dealing {[-0.2 * -100]}% base Void damage and healing the enemy for {[0.900000 * 100]}% damage dealt over time.</string>
-	<string key="Mut_Voi_Leech_2_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Enemies apply Leech on hit, dealing {[-0.2 * -100]}/{[-0.3 * -100]}% base Void damage and healing the enemy for {[0.900000 * 100]}/{[1.200000 * 100]}% damage dealt over time.</string>
+	<string key="Mut_Voi_Leech_1_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Enemies apply Leech on hit, dealing {[-0.200000 * -100]}% base Void damage and healing the enemy for {[0.900000 * 100]}% damage dealt over time.</string>
+	<string key="Mut_Voi_Leech_2_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Enemies apply Leech on hit, dealing {[-0.200000 * -100]}/{[-0.300000 * -100]}% base Void damage and healing the enemy for {[0.900000 * 100]}/{[1.200000 * 100]}% damage dealt over time.</string>
 	<string key="Mut_Voi_Stacks_1_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Enemies apply building stacks of Paranoia when hit. At {[4.000000]} stacks, causes a void burst to appear at your location dealing {[0.400000 * 100]}% base Void damage in a small area.</string>
 	<string key="Mut_Voi_Stacks_2_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Enemies apply building stacks of Paranoia when hit. At {[4.000000]}/{[4.000000]} stacks, causes a void burst to appear at your location dealing {[0.400000 * 100]}/{[0.700000 * 100]}% base Void damage in a small area.</string>
 	<string key="Mut_Voi_Death_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">On death, enemies cast a spell granting other enemies in the area Void Empower, increasing their Void damage by {[0.500000 * 100]}%.</string>
@@ -487,5 +491,24 @@
 	<string key="ui_dungeon_enter_daily_limit_reached">Daily Limit Reached: &lt;img src="lyshineui/images/icons/misc/icon_hourglass" scale="1.1" yOffset="1.0"&gt;&lt;/img&gt; &lt;font color={timeColor} face="lyshineui/fonts/Nimbus_Regular.font"&gt;{timeText}&lt;/font&gt;</string>
 	<string key="ui_dungeon_enter_weekly_limit_reached">Weekly Limit Reached: &lt;img src="lyshineui/images/icons/misc/icon_hourglass" scale="1.1" yOffset="1.0"&gt;&lt;/img&gt; &lt;font color={timeColor} face="lyshineui/fonts/Nimbus_Regular.font"&gt;{timeText}&lt;/font&gt;</string>
 	<string key="Respawn_EntranceNameTrial" rel_version="Trial_Brimstone_Sandworm">Trial Entrance</string>
+	<string key="Respawn_Catacombs" rel_version="Feature_Catacombs">Respawn Location</string>
+	<string key="Respawn_Catacombs_Entrance" rel_version="Feature_Catacombs">Entrance Location</string>
+	<string key="ui_catacombs_leave" rel_version="Feature_Catacombs">Leave Catacombs</string>
+	<string key="ui_catacombs_leave_message" rel_version="Feature_Catacombs">Are you sure you want to leave Catacombs? You may incur a Deserter's Penalty.</string>
+	<string key="ui_catacombs_rewards_tooltip" rel_version="Feature_Catacombs">Earn Mythic Sterling and Mythic Crowns to buy rewards from the Catacombs Shop.</string>
+	<string key="raid_isleofnight_enter" rel_version="Territory_Dunwood">Isle of Night</string>
+	<string key="LockedRequiresLever" rel_version="Territory_Dunwood">Locked. Use a Lever</string>
+	<string key="Unlocked" rel_version="Territory_Dunwood">Unlocked</string>
+	<string key="LeverTitle" rel_version="Territory_Dunwood">Secret Lever</string>
+	<string key="LeverDesc" rel_version="Territory_Dunwood">Levers unlock a gate nearby</string>
+	<string key="BossTitle" rel_version="Territory_Dunwood">Boss</string>
+	<string key="BossDesc" rel_version="Territory_Dunwood">Defeating bosses increases difficulty</string>
+	<string key="HazardTitle" rel_version="Territory_Dunwood">Trial of Challengers</string>
+	<string key="HazardDesc" rel_version="Territory_Dunwood">Overcome the trial to challenge the boss in the following chamber</string>
+	<string key="RewardTitle" rel_version="Territory_Dunwood">Aspects</string>
+	<string key="RewardDesc" rel_version="Territory_Dunwood">Aspects grant bonuses</string>
+	<string key="ExtractionTitle" rel_version="Territory_Dunwood">Exit Portal</string>
+	<string key="ExtractionDesc" rel_version="Territory_Dunwood">Escape from Catacombs with all the loot</string>
+	<string key="Catacombs_LootChest_Gold_DisplayName" rel_version="Territory_Dunwood">Explorer's Chest</string>
 </resources>
 

@@ -123,6 +123,7 @@
 	<string key="owg_factiontokens_2">Marauders Tokens</string>
 	<string key="owg_factiontokens_3">Covenant Tokens</string>
 	<string key="owg_faction_unlock_tooltip">Achieving a higher rank allows players to take on more faction missions and purchase superior gear from the faction shop.</string>
+	<string key="affinity_unlock_tooltip" rel_version="Season_10_Perm" comment="DO NOT TRANSLATE">Achieving a higher rank allows players to take on more favor missions and purchase superior gear from the favor shop.</string>
 	<string key="owg_shopitemsavailable">Items Available: {numItems}</string>
 	<string key="owg_newshopitems">New Shop Items: {numItems}</string>
 	<string key="owg_hunter_guildname">Corruption Breach Missions</string>
@@ -164,6 +165,16 @@
 	<string key="owg_rank_procurer_4">Destroyer</string>
 	<string key="owg_rank_procurer_5">Commander</string>
 	<string key="owg_rank_procurer_6" rel_version="FactionShop_V3">Champion</string>
+	<string key="affinity_rank_upyr_1" rel_version="Season_10_Perm" comment="DO NOT TRANSLATE">Upyr1</string>
+	<string key="affinity_rank_upyr_2" rel_version="Season_10_Perm" comment="DO NOT TRANSLATE">Upyr2</string>
+	<string key="affinity_rank_upyr_3" rel_version="Season_10_Perm" comment="DO NOT TRANSLATE">Upyr3</string>
+	<string key="affinity_rank_upyr_4" rel_version="Season_10_Perm" comment="DO NOT TRANSLATE">Upyr4</string>
+	<string key="affinity_rank_upyr_5" rel_version="Season_10_Perm" comment="DO NOT TRANSLATE">Upyr5</string>
+	<string key="affinity_rank_berlaur_1" rel_version="Season_10_Perm" comment="DO NOT TRANSLATE">Berlaur1</string>
+	<string key="affinity_rank_berlaur_2" rel_version="Season_10_Perm" comment="DO NOT TRANSLATE">Berlaur2</string>
+	<string key="affinity_rank_berlaur_3" rel_version="Season_10_Perm" comment="DO NOT TRANSLATE">Berlaur3</string>
+	<string key="affinity_rank_berlaur_4" rel_version="Season_10_Perm" comment="DO NOT TRANSLATE">Berlaur4</string>
+	<string key="affinity_rank_berlaur_5" rel_version="Season_10_Perm" comment="DO NOT TRANSLATE">Berlaur5</string>
 	<string key="owg_rank_unaffiliated">Unaffiliated</string>
 	<string key="owg_rank_unlock_tooltip">You need to meet all requirements in order to unlock the next rank.</string>
 	<string key="owg_rank_unlocked">Rank {rankName} Unlocked!</string>
@@ -192,6 +203,7 @@
 	<string key="owg_activebonus_type_fortcontrolbonus">&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Medium.font"&gt;{territory} Fort Control Bonus&lt;/font&gt;</string>
 	<string key="owg_activebonus_type_territorybonus">&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Medium.font"&gt;{territory} Territory Bonuses&lt;/font&gt;</string>
 	<string key="owg_activebonus_type_restedxpbonus">&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Medium.font"&gt;Rested XP Bonus&lt;/font&gt;</string>
+	<string key="affinity_activebonus_type_dailybonus" rel_version="Season_10_Perm" comment="DO NOT TRANSLATE">&lt;font color="#ebe3d6" face="lyshineui/fonts/Nimbus_Medium.font"&gt;Affinity Daily Bonus&lt;/font&gt;</string>
 	<string key="owg_single_item_purchased">&lt;font color="#f7bc41"&gt;{itemName}&lt;/font&gt; Purchased!</string>
 	<string key="owg_influence_login_notification_title">Faction Conflict</string>
 	<string key="owg_influence_login_notification_desc">Your faction has {count} territories in conflict! Press M to view the map.</string>
@@ -300,6 +312,8 @@
 	<string key="ui_faction_name1">Syndicate</string>
 	<string key="ui_faction_name2">Marauders</string>
 	<string key="ui_faction_name3">Covenant</string>
+	<string key="ui_affinity_upyr_name" rel_version="Season_10_Perm" comment="DO NOT TRANSLATE">Upyr</string>
+	<string key="ui_affinity_berlaur_name" rel_version="Season_10_Perm" comment="DO NOT TRANSLATE">Berlaur</string>
 	<string key="ui_faction_any">Any</string>
 	<string key="ui_faction_name_with_article1">The Syndicate</string>
 	<string key="ui_faction_name_with_article2">The Marauders</string>
@@ -558,18 +572,6 @@
 	<string key="CMissionAcquireWoodWorker">Acquire and deliver &lt;font color="#b2aea1"&gt;{itemAmount} {itemName}&lt;/font&gt; from a Woodshop.</string>
 	<string key="CMissionAcquireOutfitter">Acquire and deliver &lt;font color="#b2aea1"&gt;{itemAmount} {itemName}&lt;/font&gt; from an Outfitting Station.</string>
 	<string key="CMissionAcquireEngineer">Acquire and deliver &lt;font color="#b2aea1"&gt;{itemAmount} {itemName}&lt;/font&gt; from a Workshop.</string>
-	<string key="CMissionAcquireBlock_Name_SE" rel_version="Event_Summer_Temp">Festive Stonemasons Needed</string>
-	<string key="CMissionAcquireTimber_Name_SE" rel_version="Event_Summer_Temp">Festive Carpenters Needed</string>
-	<string key="CMissionAcquireCloth_Name_SE" rel_version="Event_Summer_Temp">Festive Weavers Needed</string>
-	<string key="CMissionAcquireMetal_Name_SE" rel_version="Event_Summer_Temp">Festive Metalworkers Needed</string>
-	<string key="CMissionAcquireFibers_Name_SE" rel_version="Event_Summer_Temp">Festive Harvesters Needed</string>
-	<string key="CMissionAcquireFood_Name_SE" rel_version="Event_Summer_Temp">Festive Cooks Needed</string>
-	<string key="CMissionAcquirePotions_Name_SE" rel_version="Event_Summer_Temp">Festive Alchemists Needed</string>
-	<string key="CMissionAcquireGeneric_Name_SE" rel_version="Event_Summer_Temp">Festive Supplies Needed</string>
-	<string key="CMissionAcquireWood_Name_SE" rel_version="Event_Summer_Temp">Festive Lumberjacks Needed</string>
-	<string key="CMissionAcquireRawhide_Name_SE" rel_version="Event_Summer_Temp">Festive Hunters Needed</string>
-	<string key="CMissionAcquireLeather_Name_SE" rel_version="Event_Summer_Temp">Festive Tanners Needed</string>
-	<string key="CMissionAcquirePaint_Name_SE" rel_version="Event_Summer_Temp">Festive Painters Needed</string>
 	<string key="ui_already_in_faction">You are already in this faction.</string>
 	<string key="ui_cant_switch_faction_pvp">Cannot change factions while flagged for PvP.</string>
 	<string key="ui_cant_switch_faction_azoth">Not enough Azoth.</string>

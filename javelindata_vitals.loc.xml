@@ -116,6 +116,9 @@
 	<string key="Ancient_Guardian_Reaver_03GC10_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Rimebone Reaver</string>
 	<string key="Ancient_Javelineer_VitalsName" comment="BASE" speaker="Vitals Sheet">Ancient Guardian Regent</string>
 	<string key="Ancient_Mage_VitalsName" comment="BASE" speaker="Vitals Sheet">Ancient Guardian Sorceress</string>
+	<string key="AncientGuardian_Heavy_Boss_BoneSpawner_Catacombs_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Greundgul's Offering</string>
+	<string key="AncientGuardian_Heavy_Boss_BoneAoE_Catacombs_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Osseous Ward</string>
+	<string key="AncientGuardian_Heavy_Boss_Catacombs_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Greundgul the Regent</string>
 	<string key="AncientGuardian_Heavy_Boss_BoneThrow_Spawner_VitalsName" comment="BASE" speaker="Vitals Sheet">Greundgul's Bone</string>
 	<string key="AncientGuardian_Heavy_Boss_Named_DG_Everfall_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Greundgul the Regent</string>
 	<string key="AncientGuardian_Heavy_Boss_Named_DG_GreatCleave_01_Vitalsname" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_01">Savaric the Perfidious</string>
@@ -1129,6 +1132,7 @@
 	<string key="CorruptedLegion_Cyclops_65_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Bloodfoot</string>
 	<string key="CorruptedLegion_Cyclops_66_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Bloodfoot</string>
 	<string key="CorruptedLegion_Cyclops_67_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Bloodfoot</string>
+	<string key="CorruptedLegion_Cyclops_Catacombs_Named_VitalsName" comment="Named Variant" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Orion</string>
 	<string key="CorruptedLegion_Cyclops_DG_BrimstoneSands_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Bloodfoot</string>
 	<string key="CorruptedLegion_Cyclops_DG_BrimstoneSands_Crassus_Minion_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Corrupted Cyclops</string>
 	<string key="CorruptedLegion_Cyclops_DG_BrimstoneSands_Named_00_VitalsName" comment="Named Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Pluto</string>
@@ -1139,6 +1143,8 @@
 	<string key="CorruptedLegion_Cyclops_Named_01_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Breaker of Arta</string>
 	<string key="CorruptedLegion_Cyclops_Named_02_ELITE_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Monstrous Polyphemus</string>
 	<string key="CorruptedLegion_Cyclops_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Bloodfoot</string>
+	<string key="CorruptedLegion_Sagittarii_Catacombs_VitalsName" comment="Named Variant" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Legion Sagittarii</string>
+	<string key="CorruptedLegion_Signifer_Catacombs_VitalsName" comment="Named Variant" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Legion Signifer</string>
 	<string key="Corruption_Entity_08QP08_ELITE_VitalsName" comment="BASE" speaker="Vitals Sheet">Corruption Entity</string>
 	<string key="Corruption_Entity_08QP08_VitalsName" comment="BASE" speaker="Vitals Sheet">Corruption Entity</string>
 	<string key="Corruption_Entity_55_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Corruption Entity</string>
@@ -3342,6 +3348,7 @@
 	<string key="Evil_Knight_Bow_Elite_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P3">Elite Archer</string>
 	<string key="Evil_Knight_Bow_Elite_08QP02_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P3">Drakongard Archer</string>
 	<string key="Evil_Knight_Bow_Named_09FL07_Vitalsname" comment="Named Variant" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P1">Sir Frelav the Flame</string>
+	<string key="Evil_Knight_Bow_Catacombs_Vitalsname" comment="Generic Level Varaint" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Varangian Bowman</string>
 	<string key="Evil_Knight_Bow_DG_GreatCleave_00_00_Vitalsname" comment="Named Variant" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_00">Varangian Bowman</string>
 	<string key="Evil_Knight_Bow_DG_GreatCleave_00_01_Vitalsname" comment="Named Variant" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_00">Ice-Guard Archer</string>
 	<string key="Evil_Knight_Bow_Named_DG_GreatCleave_01_Vitalsname" comment="Named Variant" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_01">Ser Skarin</string>
@@ -3353,6 +3360,7 @@
 	<string key="Evil_Knight_Caster_Elite_08QP02_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P3">Drakongard Mage</string>
 	<string key="Evil_Knight_Caster_Named_04NW04_Vitalsname" comment="BASE" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P2">Sonechka the Pale</string>
 	<string key="Evil_Knight_Caster_Named_14AC06_VitalsName" comment="Named Variant" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P3">Kari the Subtle</string>
+	<string key="Evil_Knight_Caster_Catacombs_Vitalsname" comment="Generic Level Varaint" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Varangian Mage</string>
 	<string key="Evil_Knight_Caster_Named_DG_GreatCleave_01_VitalsName" comment="Named Variant" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_01">Ser Bishop</string>
 	<string key="Evil_Knight_Caster_DG_GreatCleave_00_00_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_00">Forge-Made Mage</string>
 	<string key="Evil_Knight_Caster_DG_GreatCleave_00_01_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_00">Ice-Born Magician</string>
@@ -3361,6 +3369,7 @@
 	<string key="Evil_Knight_Caster_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P2">Varangian Mage</string>
 	<string key="Evil_Knight_Caster_FireVariant_VitalsName" comment="S1 Flame Variant" speaker="Vitals Sheet" rel_version="Season_1_Perm">Forged Varangian Mage</string>
 	<string key="Evil_Knight_VoidGauntlet_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Season_1_Perm">Varangian Warlock</string>
+	<string key="Evil_Knight_VoidGauntlet_Catacombs_Vitalsname" comment="Generic Level Varaint" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Varangian Warlock</string>
 	<string key="Evil_Knight_Faceless_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Season_1_Perm">Faceless</string>
 	<string key="Season_01_Aidyn_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Season_1_Perm">Aidyn</string>
 	<string key="Season_02_Malek_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Season_2_Trial">Malek</string>
@@ -3380,12 +3389,14 @@
 	<string key="Evil_Knight_LifeStaff_FireVariant_VitalsName" comment="S1 Flame Variant" speaker="Vitals Sheet" rel_version="Season_1_Perm">Forged Varangian Mender</string>
 	<string key="Evil_Knight_LifeStaff_IceVariant_VitalsName" comment="S3 Ice Variant" speaker="Vitals Sheet" rel_version="Season_4_Perm">Cruel Varangian Mender</string>
 	<string key="Evil_Knight_LifeStaff_IceVariant_Named_VitalsName" comment="S4 Ice Variant" speaker="Vitals Sheet" rel_version="Season_4_Perm">Cruel Varangian Mender</string>
+	<string key="Evil_Knight_LifeStaff_Catacombs_Vitalsname" comment="Generic Level Varaint" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Varangian Mender</string>
 	<string key="Evil_Knight_LifeStaff_DG_GreatCleave01_00_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_01">Hospitaller Cleric</string>
 	<string key="Evil_Knight_LifeStaff_DG_GreatCleave_00_00_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_00">Hospitaller Cleric</string>
 	<string key="Evil_Knight_LifeStaff_Elite_08QP02_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P3">Drakongard Mender</string>
 	<string key="Evil_Knight_LifeStaff_Named_DG_GreatCleave_01_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_01">Lady Bridget</string>
 	<string key="Evil_Knight_Commander_Named_08QP02_VitalsName" comment="Named Variant" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P3">Lord Commander Attalus</string>
 	<string key="Evil_Knight_Commander_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P3">Varangian Commander</string>
+	<string key="Evil_Knight_Commander_Catacombs_Vitalsname" comment="Generic Level Varaint" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Varangian Commander</string>
 	<string key="Evil_Knight_Commander_Named_DG_GreatCleave_01_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_01">Ser Ducas</string>
 	<string key="Evil_Knight_Commander_FireVariant_VitalsName" comment="S1 Flame Variant" speaker="Vitals Sheet" rel_version="Season_1_Perm">Forged Varangian Commander</string>
 	<string key="Evil_Knight_Flame_Grunt_Reforged_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Season_1_Perm">Greater Sulfur Amalgamation</string>
@@ -3403,6 +3414,7 @@
 	<string key="Evil_Knight_Greataxe_FireVariant_VitalsName" comment="S1 Flame Variant" speaker="Vitals Sheet" rel_version="Season_1_Perm">Forged Varangian Battlemaster</string>
 	<string key="Evil_Knight_Greataxe_IceVariant_VitalsName" comment="S4 Ice Variant" speaker="Vitals Sheet" rel_version="Season_4_Perm">Ice Battlemaster</string>
 	<string key="Evil_Knight_Greataxe_IceVariant_Named_VitalsName" comment="S4 Ice Variant" speaker="Vitals Sheet" rel_version="Season_4_Perm">Ice Battlemaster</string>
+	<string key="Evil_Knight_Greataxe_Catacombs_Vitalsname" comment="Generic Level Varaint" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Varangian Battlemaster</string>
 	<string key="Evil_Knight_Greataxe_Named_DG_GreatCleave_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_00">Ser Milosh</string>
 	<string key="Evil_Knight_Greataxe_DG_GreatCleave_00_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_00">Battlemaster</string>
 	<string key="Evil_Knight_Greataxe_DG_GreatCleave_00_01_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_00">Ice Battlemaster</string>
@@ -3411,6 +3423,7 @@
 	<string key="Evil_Knight_Heavy_Elite_08QP02_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P3">Drakongard Heavy</string>
 	<string key="Evil_Knight_Heavy_Named_08QP02_VitalsName" comment="Named Variant" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P3">Sir Juni the Strategist</string>
 	<string key="Evil_Knight_Heavy_Named_14AC13_VitalsName" comment="Named Variant" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P3">Sir Olga the Hewer</string>
+	<string key="Evil_Knight_Heavy_Catacombs_Vitalsname" comment="Generic Level Varaint" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Varangian Heavy</string>
 	<string key="Evil_Knight_Heavy_DG_GreatCleave_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_00">Varangian Heavy</string>
 	<string key="Evil_Knight_Heavy_DG_GreatCleave_01_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_01">Varangian Heavy</string>
 	<string key="Evil_Knight_Heavy_DG_GreatCleave_02_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_01">Misty Heavy</string>
@@ -3423,10 +3436,12 @@
 	<string key="Evil_Knight_Hound_Elite_08QP02_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P3">Drakongard Hound</string>
 	<string key="Evil_Knight_Hound_Named_14AC06_VitalsName" comment="Named Variant" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P3">Freki</string>
 	<string key="Evil_Knight_Hound_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P2">Varangian Hound</string>
+	<string key="Evil_Knight_Hound_Catacombs_Vitalsname" comment="Generic Level Varaint" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Varangian Hound</string>
 	<string key="Evil_Knight_Hound_DG_GreatCleave_00_00_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_00">Varangian Hound</string>
 	<string key="Evil_Knight_Longsword_Elite_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P3">Elite Scout</string>
 	<string key="Evil_Knight_Longsword_Elite_08QP02_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P3">Drakongard Scout</string>
 	<string key="Evil_Knight_Longsword_Named_02BW02_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Quest_MSQ_Update_4">Torbjorn</string>
+	<string key="Evil_Knight_Longsword_Catacombs_Vitalsname" comment="Generic Level Varaint" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Varangian Scout</string>
 	<string key="Evil_Knight_Longsword_Named_DG_GreatCleave_01_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_01">Ser Newlon</string>
 	<string key="Evil_Knight_Longsword_DG_GreatCleave_00_00_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_00">Varangian Skirmisher</string>
 	<string key="Evil_Knight_Longsword_DG_GreatCleave_00_01_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_00">Varangian Ice-Guard</string>
@@ -3441,6 +3456,7 @@
 	<string key="Evil_Knight_Mace_Named_10WS04_Vitalsname" comment="Named Variant" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P2">Sir Anton the Grim</string>
 	<string key="Evil_Knight_Mace_Named_WaveEvent_VitalsName" comment="Named Variant" speaker="Vitals Sheet" rel_version="Quest_Supplement_Edengrove">Ranger Yasin</string>
 	<string key="Evil_Knight_Mace_Named_DG_GreatCleave_00_VitalsName" comment="Named Variant" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_00">Ser Allen</string>
+	<string key="Evil_Knight_Mace_Catacombs_Vitalsname" comment="Generic Level Varaint" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Varangian Knight</string>
 	<string key="Evil_Knight_Mace_DG_GreatCleave_00_00_VitalsName" comment="Named Variant" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_00">Varangian Defender</string>
 	<string key="Evil_Knight_Mace_DG_GreatCleave_00_01_VitalsName" comment="Named Variant" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_00">Iceslicked Defender</string>
 	<string key="Evil_Knight_Mace_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P1">Varangian Guardian</string>
@@ -3453,6 +3469,7 @@
 	<string key="Evil_Knight_Spear_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P2">Varangian Spearman</string>
 	<string key="Evil_Knight_Spear_DG_GreatCleave_00_00_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_00">Varangian Spearman</string>
 	<string key="Evil_Knight_Spear_DG_GreatCleave_00_01_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_00">Varangian IcePike</string>
+	<string key="Evil_Knight_Spear_Catacombs_Vitalsname" comment="Generic Level Varaint" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Varangian Spearman</string>
 	<string key="Evil_Knight_Spear_Named_DG_GreatCleave_00_00_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_00">Ser Tomila</string>
 	<string key="Evil_Knight_Spear_FireVariant_VitalsName" comment="S1 Flame Variant" speaker="Vitals Sheet" rel_version="Season_1_Perm">Forged Varangian Spearman</string>
 	<string key="Evil_Knight_Warhammer_DG_GreatCleave_00_Vitalsname" comment="BASE" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_00">Varangian Crusher</string>
@@ -3464,12 +3481,14 @@
 	<string key="Evil_Knight_Warhammer_Named_DG_GreatCleave_00_Vitalsname" comment="BASE" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_00">Ser Roth</string>
 	<string key="Evil_Knight_Warhammer_Named_DG_GreatCleave_01_Vitalsname" comment="BASE" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_01">Executioner Freyr</string>
 	<string key="Evil_Knight_Warhammer_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="AI_Evil_Knights_P2">Varangian Crusher</string>
+	<string key="Evil_Knight_Warhammer_Catacombs_Vitalsname" comment="Generic Level Varaint" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Varangian Crusher</string>
 	<string key="Evil_Knight_Warhammer_FireVariant_VitalsName" comment="S1 Flame Variant" speaker="Vitals Sheet" rel_version="Season_1_Perm">Forged Varangian Crusher</string>
 	<string key="Evil_Knight_Warhammer_IceVariant_VitalsName" comment="S4 Ice Variant" speaker="Vitals Sheet" rel_version="Season_4_Perm">Ice Crusher</string>
 	<string key="Evil_Knight_Warhammer_IceVariant_Named_VitalsName" comment="S4 Ice Variant" speaker="Vitals Sheet" rel_version="Season_4_Perm">Ice Crusher</string>
 	<string key="Explosive_Barrel_10_12MB06_VitalsName" comment="Named Variant" speaker="Vitals Sheet" rel_version="Quest_MSQ2_Revamp">Volatile Explosives</string>
 	<string key="Explosive_Barrel_6_12MB01_VitalsName" comment="Named Variant" speaker="Vitals Sheet" rel_version="Quest_MSQ2_Revamp">Explosive Barrel</string>
 	<string key="FireMine_VitalsName" comment="BASE" speaker="Vitals Sheet">Fire Mine</string>
+	<string key="Fox_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Fox</string>
 	<string key="FTUE_2HAxeman_VitalsName" comment="FTUE" speaker="Vitals Sheet">Drowned First Mate</string>
 	<string key="FTUE_Corrupted_2HAxeman_VitalsName" comment="FTUE" speaker="Vitals Sheet" rel_version="Quest_MSQ2_Revamp">Corrupted First Mate</string>
 	<string key="FTUE_Corrupted_Sailor_z1_VitalsName" comment="FTUE" speaker="Vitals Sheet" rel_version="Quest_MSQ2_Revamp">Corrutped Sailor</string>
@@ -3860,7 +3879,10 @@
 	<string key="fl_dg_firstlight_01_gorilla_ice_Named_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_FirstLight">Mbita</string>
 	<string key="fl_dg_firstlight_01_gorilla_ranged_Named_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_FirstLight">Otesha</string>
 	<string key="fl_dg_firstlight_01_gorilla_lightning_named_miniboss_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_FirstLight">Truk</string>
+	<string key="Gourdspewer_Halloween_2022_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Event_Halloween_Temp">Gourdspewer</string>
+	<string key="Gourdspewer_VineLeg_Minion_Halloween_2022_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Event_Halloween_Temp">Gourdspewer Leg</string>
 	<string key="HalloweenBoss_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Baalphazu</string>
+	<string key="Halloween_2022_Plaguer_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Event_Halloween_Temp">Calabasher</string>
 	<string key="Hercyne_Boar_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_FirstLight">Hercyne Boar</string>
 	<string key="Hercyne_Boar_Alpha_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_FirstLight">Hercyne Alpha Boar</string>
 	<string key="Hercyne_Boar_WaveEvent_VitalsName" comment="Named Variant" speaker="Vitals Sheet" rel_version="Territory_FirstLight">Metzger's Monster</string>
@@ -3934,6 +3956,19 @@
 	<string key="LifeMagicShield_VitalsName" comment="BASE" speaker="Vitals Sheet">Shield of Protection</string>
 	<string key="Imhotep_VitalsName" comment="Brimstone Quest AI" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Imhotep</string>
 	<string key="Inert_Remnant_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Quest_MSQ2_Revamp">Inert Remnant</string>
+	<string key="Inquisitor_Cleric_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Rampant Flame Cleric</string>
+	<string key="Inquisitor_Enforcer_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Rampant Flame Enforcer</string>
+	<string key="Inquisitor_Flamekeeper_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Rampant Flame Keeper</string>
+	<string key="Inquisitor_Markswoman_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Rampant Markswoman</string>
+	<string key="Inquisitor_Warden_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Rampant Flame Warden</string>
+	<string key="Inquisitor_Warden_Catacombs_Named_VitalsName" comment="Named Variant" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Warden Brahe</string>
+	<string key="VC_Inquisitor_Warden_Catacombs_Named" comment="Named Variant" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Warden Brahe</string>
+	<string key="Inquisitor_Cleric_Catacombs_VitalsName" comment="Generic Level Varaint" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Inquisitor Cleric</string>
+	<string key="VC_Inquisitor_Cleric_Catacombs" comment="Generic Level Varaint" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Inquisitor Cleric</string>
+	<string key="Inquisitor_Markswoman_Catacombs_VitalsName" comment="Generic Level Varaint" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Inquisitor Markswoman</string>
+	<string key="VC_Inquisitor_Markswoman_Catacombs" comment="Generic Level Varaint" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Inquisitor Markswoman</string>
+	<string key="Inquisitor_Seraphim_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Rampant Flame Seraph</string>
+	<string key="Inquisitor_Seraphim_ConcealedShield_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Veil of Flame</string>
 	<string key="Invasion_Bear_VitalsName" comment="Invasion" speaker="Vitals Sheet">Bear</string>
 	<string key="Invasion_Bomber_VitalsName" comment="Invasion" speaker="Vitals Sheet">Bomber</string>
 	<string key="Invasion_Brute_VitalsName" comment="Invasion" speaker="Vitals Sheet">Brute</string>
@@ -4290,6 +4325,7 @@
 	<string key="Naga_VitalsName" comment="BASE" speaker="Vitals Sheet">Naga</string>
 	<string key="Naga_Fire_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_01">Ifrit</string>
 	<string key="Naga_Fire_Clone_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_01">Projection</string>
+	<string key="Naga_Withered_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Lynette</string>
 	<string key="OR_Bear_VitalsName" comment="Outpost Rush" speaker="Vitals Sheet">Summoned Bear</string>
 	<string key="OR_Boss_TBD_VitalsName" comment="Outpost Rush" speaker="Vitals Sheet">Baroness Hain</string>
 	<string key="OR_Corrupted_Acolyte_VitalsName" comment="Outpost Rush" speaker="Vitals Sheet">Corrupted Acolyte</string>
@@ -4531,6 +4567,8 @@
 	<string key="FL_Rat_HercyneRat_09FL05_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_FirstLight">Mosswater Rat</string>
 	<string key="FL_Rat_HercyneRat_09FL10_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_FirstLight">Sporebound Rat</string>
 	<string key="FL_Rat_HercyneRat_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_FirstLight">Hercyne Rat</string>
+	<string key="Rat_PlagueRat_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Plague Rat</string>
+	<string key="Reindeer_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Reindeer Bull</string>
 	<string key="Risen_Bomber_VitalsName" comment="BASE" speaker="Vitals Sheet">Risen Bomber</string>
 	<string key="Risen_Brute_Minion_VitalsName" comment="Amrine Temple Boss Variant" speaker="Vitals Sheet">Star Excavation Worker</string>
 	<string key="Risen_Brute_VitalsName" comment="BASE" speaker="Vitals Sheet">Withered Brute</string>
@@ -5140,6 +5178,10 @@
 	<string key="Skeleton_Spear_DG_Everfall_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Starstone Spearman</string>
 	<string key="Skeleton_Spear_DG_GreatCleave_01_Vitalsname" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_01">Frozen Spearman</string>
 	<string key="SpellBot_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Quest_MSQ2_Revamp">Final Blessing</string>
+	<string key="Spider_Wildlife_T1_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Spiderling</string>
+	<string key="Spider_Wildlife_T2_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Nightmare Spider</string>
+	<string key="Spider_Wildlife_Melee_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Spider</string>
+	<string key="Spider_Wildlife_Ranged_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Web Spitter Spider</string>
 	<string key="Spriggan_Corrupted_DG_ShatterMtn_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_ShatterMtn_00">Myrkgard Spriggan</string>
 	<string key="Spriggan_Corrupted_VitalsName" comment="BASE" speaker="Vitals Sheet">Corrupted Spriggan</string>
 	<string key="Spriggan_Forest_VitalsName" comment="BASE" speaker="Vitals Sheet">Zygoramet</string>
@@ -5334,6 +5376,10 @@
 	<string key="Tendril_Corruption_Yonas_VitalsName" comment="BASE" speaker="Vitals Sheet">Corruption Tendril</string>
 	<string key="Tendril_Corruption_ZaneFight_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Quest_MSQ2_Revamp">Corruption Tendril</string>
 	<string key="Tendril_Leviathan_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Quest_MSQ2_GreatCleave">Corruptied Leviathan Tentacle</string>
+	<string key="The_Archivist_Darkest_Regret_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Regret</string>
+	<string key="The_Archivist_Meal_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Meal</string>
+	<string key="The_Archivist_Painful_Memory_Fragment_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Painful Memory Fragment</string>
+	<string key="The_Archivist_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Dunwood">The Archivist</string>
 	<string key="Tiger_08QP02_Vitalsname" comment="BASE" speaker="VitalsCategory Sheet">Thunderking Tiger</string>
 	<string key="Tiger_08QP02b_Vitalsname" comment="BASE" speaker="VitalsCategory Sheet">Ebonscale Tiger</string>
 	<string key="Tiger_40_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Tiger</string>
@@ -6110,6 +6156,35 @@
 	<string key="Unstable_Swamp_Fiend_ELITE_05WC10_VitalsName" comment="ELITE Level Variant" speaker="Vitals Sheet">Aeonmeer Detonator</string>
 	<string key="Unstable_Swamp_Fiend_Minion_VitalsName" comment="BASE" speaker="Vitals Sheet">Unstable Swamp Fiend</string>
 	<string key="Unstable_Swamp_Fiend_VitalsName" comment="BASE" speaker="Vitals Sheet">Unstable Swamp Fiend</string>
+	<string key="Upyr_Baroness_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Upyr Baroness</string>
+	<string key="Upyr_Baroness_Catacombs_Named_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Baroness Rhain</string>
+	<string key="VC_Upyr_Baroness_Catacombs_Named" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Baroness Rhain</string>
+	<string key="Upyr_Barrel_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Upyr Explosive Barrel</string>
+	<string key="Upyr_Consort_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Upyr Consort</string>
+	<string key="Upyr_Consort_Catacombs_Named_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Consort Kazimir</string>
+	<string key="VC_Upyr_Consort_Catacombs_Named" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Consort Kazimir</string>
+	<string key="Upyr_Consort_Chains_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Suffering Pillar</string>
+	<string key="Upyr_Consort_Archivist_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">The Archivist</string>
+	<string key="Upyr_Guardian_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Upyr Guardian</string>
+	<string key="Upyr_Mindthief_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Upyr Mindthief</string>
+	<string key="Upyr_Morgaine_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Morgaine</string>
+	<string key="Upyr_Morgaine_Thrall_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Experimental Subject</string>
+	<string key="Upyr_Shade_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Upyr Shade</string>
+	<string key="Upyr_Thrall_Aggressor_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Upyr Thrall Aggressor</string>
+	<string key="Upyr_Thrall_Grunt_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Upyr Thrall Atrocity</string>
+	<string key="Upyr_Thrall_Meatbag_Green_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Upyr Thrall Green Meatbag</string>
+	<string key="Upyr_Thrall_Meatbag_Purple_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Upyr Thrall Purple Meatbag</string>
+	<string key="Upyr_Thrall_Meatbag_Red_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Upyr Thrall Red Meatbag</string>
+	<string key="Upyr_Thrall_Meatbag_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Upyr Thrall Meatbag</string>
+	<string key="Upyr_Thrall_Soul_Hunter_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Upyr Thrall Soul Hunter</string>
+	<string key="Upyr_Thrall_Meatbag_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Upyr Thrall Meatbag</string>
+	<string key="VC_Upyr_Thrall_Meatbag_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Upyr Thrall Meatbag</string>
+	<string key="Upyr_Thrall_Meatbag_Green_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Upyr Thrall Green Meatbag</string>
+	<string key="VC_Upyr_Thrall_Meatbag_Green_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Upyr Thrall Green Meatbag</string>
+	<string key="Upyr_Thrall_Meatbag_Purple_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Upyr Thrall Purple Meatbag</string>
+	<string key="VC_Upyr_Thrall_Meatbag_Purple_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Upyr Thrall Purple Meatbag</string>
+	<string key="Upyr_Thrall_Meatbag_Red_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Upyr Thrall Red Meatbag</string>
+	<string key="VC_Upyr_Thrall_Meatbag_Red_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Upyr Thrall Red Meatbag</string>
 	<string key="VC_Alcazarian" comment="BASE" speaker="VitalsCategory Sheet">Alcazarian</string>
 	<string key="VC_Alchemical" comment="BASE" speaker="VitalsCategory Sheet">Alchemical</string>
 	<string key="VC_Aligator_Black_13WF07" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Upper Gator</string>
@@ -7500,6 +7575,7 @@
 	<string key="VC_CorruptedLegion_Cyclops_65" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Bloodfoot Cyclops</string>
 	<string key="VC_CorruptedLegion_Cyclops_66" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Bloodfoot Cyclops</string>
 	<string key="VC_CorruptedLegion_Cyclops_67" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Bloodfoot Cyclops</string>
+	<string key="VC_CorruptedLegion_Cyclops_Catacombs_Named" comment="Named Varient" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Orion</string>
 	<string key="VC_CorruptedLegion_Cyclops_DG_BrimstoneSands_00" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Corrupted Cyclops</string>
 	<string key="VC_CorruptedLegion_Cyclops_DG_BrimstoneSands_Named_00" comment="Named Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Pluto</string>
 	<string key="VC_CorruptedLegion_Cyclops_LOC_BOSS_00" comment="Mission Target Display Name" speaker="VitalsCategory" rel_version="Event_Legacy_Of_Crassus2024">Centurion Lucanus</string>
@@ -7507,6 +7583,8 @@
 	<string key="VC_CorruptedLegion_Cyclops_Named_00" comment="Mission Target Display Name" speaker="VitalsCategory" rel_version="Territory_Brimstone_Sands">Titanic Saturninus</string>
 	<string key="VC_CorruptedLegion_Cyclops_Named_01" comment="Mission Target Display Name" speaker="VitalsCategory" rel_version="Territory_Brimstone_Sands">Breaker of Arta</string>
 	<string key="VC_CorruptedLegion_Cyclops_Named_02_ELITE" comment="ELITE Named Variant - Mission Target Display Name" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Monstrous Polyphemus</string>
+	<string key="VC_CorruptedLegion_Sagittarii_Catacombs" comment="Generic Level Variant" speaker="VitalsCategory" rel_version="Feature_Catacombs">Legion Sagittarii</string>
+	<string key="VC_CorruptedLegion_Signifer_Catacombs" comment="Generic Level Variant" speaker="VitalsCategory" rel_version="Feature_Catacombs">Legion Signifer</string>
 	<string key="VC_Corruption_Entity" comment="BASE" speaker="VitalsCategory Sheet">Corruption Entity</string>
 	<string key="VC_Corruption_Entity_03GC03_ELITE" comment="ELITE Level Variant" speaker="Vitals Sheet">Unhallowed Entity</string>
 	<string key="VC_Corruption_Entity_08QP04" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Palewind Entity</string>
@@ -9528,6 +9606,7 @@
 	<string key="VC_Evil_Knight_Bow_32" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Varangian Archer</string>
 	<string key="VC_Evil_Knight_Bow_S4" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Season_4_Perm">Frostbound Archer</string>
 	<string key="VC_Evil_Knight_Bow_S4_B" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Season_4_Perm">Winter Knight Archer</string>
+	<string key="VC_Evil_Knight_Bow_Catacombs" comment="Generic Level Varaint" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Varangian Archer</string>
 	<string key="VC_Evil_Knight_Bow_DG_GreatCleave_00_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Expedition_GreatCleave_00">Varangian Bowman</string>
 	<string key="VC_Evil_Knight_Bow_DG_GreatCleave_00_01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Expedition_GreatCleave_00">Ice-Guard Sniper</string>
 	<string key="VC_Evil_Knight_Bow_DG_GreatCleave01_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Expedition_GreatCleave_01">Varangian Ranger</string>
@@ -9551,6 +9630,7 @@
 	<string key="VC_Evil_Knight_Caster_30" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Varangian Mage</string>
 	<string key="VC_Evil_Knight_Caster_31" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Varangian Mage</string>
 	<string key="VC_Evil_Knight_Caster_32" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Varangian Mage</string>
+	<string key="VC_Evil_Knight_Caster_Catacombs" comment="Generic Level Varaint" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Varangian Mage</string>
 	<string key="VC_Evil_Knight_Caster_DG_GreatCleave_00_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Expedition_GreatCleave_00">Forge-Made Mage</string>
 	<string key="VC_Evil_Knight_Caster_DG_GreatCleave_00_01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Expedition_GreatCleave_00">Ice-Born Magician</string>
 	<string key="VC_Evil_Knight_Caster_DG_GreatCleave01_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Expedition_GreatCleave_01">Forge-Made Mage</string>
@@ -9561,6 +9641,7 @@
 	<string key="VC_Evil_Knight_Caster_Named_14AC06" comment="Named Variant" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Kari the Subtle</string>
 	<string key="VC_Evil_Knight_Caster_Named_DG_GreatCleave_01" comment="Named Variant" speaker="VitalsCategory Sheet" rel_version="Expedition_GreatCleave_01">Ser Bishop</string>
 	<string key="VC_Evil_Knight_Commander" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Varangian Commander</string>
+	<string key="VC_Evil_Knight_Commander_Catacombs" comment="Generic Level Varaint" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Varangian Commander</string>
 	<string key="VC_Evil_Knight_Commander_Named_08QP02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Lord Commander Attalus</string>
 	<string key="VC_Evil_Knight_Commander_Named_DG_GreatCleave_01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Expedition_GreatCleave_01">Ser Ducas</string>
 	<string key="VC_Evil_Knight_Fire_Champion_DG_GreatCleave_01" comment="BASE" speaker="Vitals Sheet" rel_version="Expedition_GreatCleave_01">Commander Marius</string>
@@ -9593,6 +9674,7 @@
 	<string key="VC_Evil_Knight_Greataxe_32" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Varangian Battlemaster</string>
 	<string key="VC_Evil_Knight_Greataxe_S4" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Season_4_Perm">Frostbound Battlemaster</string>
 	<string key="VC_Evil_Knight_Greataxe_S4_B" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Season_4_Perm">Winter Knight Battlemaster</string>
+	<string key="VC_Evil_Knight_Greataxe_Catacombs" comment="Generic Level Varaint" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Varangian Battlemaster</string>
 	<string key="VC_Evil_Knight_Greataxe_DG_GreatCleave_00_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Expedition_GreatCleave_00">Battlemaster</string>
 	<string key="VC_Evil_Knight_Greataxe_DG_GreatCleave_00_01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Expedition_GreatCleave_00">Ice Battlemaster</string>
 	<string key="VC_Evil_Knight_Greataxe_Elite" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Elite Battlemaster</string>
@@ -9608,6 +9690,7 @@
 	<string key="VC_Evil_Knight_Heavy_Elite_08QP02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Drakongard Heavy</string>
 	<string key="VC_Evil_Knight_Heavy_Named_08QP02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Sir Juni the Strategist</string>
 	<string key="VC_Evil_Knight_Heavy_Named_14AC13" comment="Named Variant" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Sir Olga the Hewer</string>
+	<string key="VC_Evil_Knight_Heavy_Catacombs" comment="Generic Level Varaint" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Varangian Heavy</string>
 	<string key="VC_Evil_Knight_Heavy_DG_GreatCleave_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Expedition_GreatCleave_00">Varangian Heavy</string>
 	<string key="VC_Evil_Knight_Heavy_DG_GreatCleave_01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Expedition_GreatCleave_01">Varangian Heavy</string>
 	<string key="VC_Evil_Knight_Heavy_Named_DG_GreatCleave_00" comment="Named Variant" speaker="VitalsCategory Sheet" rel_version="Expedition_GreatCleave_00">Ser Roth</string>
@@ -9628,6 +9711,7 @@
 	<string key="VC_Evil_Knight_Hound_30" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Varangian Hound</string>
 	<string key="VC_Evil_Knight_Hound_31" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Varangian Hound</string>
 	<string key="VC_Evil_Knight_Hound_32" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Varangian Hound</string>
+	<string key="VC_Evil_Knight_Hound_Catacombs" comment="Generic Level Varaint" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Varangian Hound</string>
 	<string key="VC_Evil_Knight_Hound_DG_GreatCleave_00_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Expedition_GreatCleave_00">Varangian Hound</string>
 	<string key="VC_Evil_Knight_Hound_DG_GreatCleave01_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Varangian Hound</string>
 	<string key="VC_Evil_Knight_Hound_Elite" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Elite Hound</string>
@@ -9662,6 +9746,7 @@
 	<string key="VC_Evil_Knight_Longsword_33" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Varangian Skirmisher</string>
 	<string key="VC_Evil_Knight_Longsword_S4" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Season_4_Perm">Frostbound Scout</string>
 	<string key="VC_Evil_Knight_Longsword_S4_B" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Season_4_Perm">Winter Knight Scout</string>
+	<string key="VC_Evil_Knight_Longsword_Catacombs" comment="Generic Level Varaint" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Varangian Scout</string>
 	<string key="VC_Evil_Knight_Longsword_DG_GreatCleave_00_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Expedition_GreatCleave_00">Varangian Skirmisher</string>
 	<string key="VC_Evil_Knight_Longsword_DG_GreatCleave_00_01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Expedition_GreatCleave_00">Varangian Ice-Guard</string>
 	<string key="VC_Evil_Knight_Longsword_DG_GreatCleave01_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Expedition_GreatCleave_01">Varangian Skirmisher</string>
@@ -9678,6 +9763,7 @@
 	<string key="VC_Evil_Knight_Icestaff_Named_S4_1" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Season_4_Perm">Gaheris</string>
 	<string key="VC_Evil_Knight_Icestaff_Named_S4_2" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Season_4_Perm">Ector the Icelocked Knight</string>
 	<string key="VC_Evil_Knight_LifeStaff_Named_DG_GreatCleave_01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Expedition_GreatCleave_01">Lady Bridget</string>
+	<string key="VC_Evil_Knight_LifeStaff_Catacombs" comment="Generic Level Varaint" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Varangian Mender</string>
 	<string key="VC_Evil_Knight_LifeStaff_DG_GreatCleave_00_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Expedition_GreatCleave_00">Hospitaller Cleric</string>
 	<string key="VC_Evil_Knight_LifeStaff_DG_GreatCleave01_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Expedition_GreatCleave_01">Hospitaller Cleric</string>
 	<string key="VC_Evil_Knight_LifeStaff_Elite_08QP02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Drakongard Mender</string>
@@ -9709,6 +9795,7 @@
 	<string key="VC_Evil_Knight_Mace_32" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Varangian Knight</string>
 	<string key="VC_Evil_Knight_Mace_S4" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Season_4_Perm">Frostbound Guardian</string>
 	<string key="VC_Evil_Knight_Mace_S4_B" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Season_4_Perm">Winter Knight Guardian</string>
+	<string key="VC_Evil_Knight_Mace_Catacombs" comment="Generic Level Varaint" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Varangian Knight</string>
 	<string key="VC_Evil_Knight_Mace_DG_GreatCleave_00_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Expedition_GreatCleave_00">Varangian Defender</string>
 	<string key="VC_Evil_Knight_Mace_DG_GreatCleave_00_01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Expedition_GreatCleave_00">Iceslicked Defender</string>
 	<string key="VC_Evil_Knight_Mace_Named_DG_GreatCleave_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Expedition_GreatCleave_00">Ser Allen</string>
@@ -9736,6 +9823,7 @@
 	<string key="VC_Evil_Knight_Spear_32" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Varangian Spearman</string>
 	<string key="VC_Evil_Knight_Spear_S4" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Season_4_Perm">Frostbound Spearman</string>
 	<string key="VC_Evil_Knight_Spear_S4_B" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Season_4_Perm">Winter Knight Spearman</string>
+	<string key="VC_Evil_Knight_Spear_Catacombs" comment="Generic Level Varaint" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Varangian Spearman</string>
 	<string key="VC_Evil_Knight_Spear_DG_GreatCleave_00_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Expedition_GreatCleave_00">Varangian Spearman</string>
 	<string key="VC_Evil_Knight_Spear_DG_GreatCleave_00_01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Expedition_GreatCleave_00">Varangian IcePike</string>
 	<string key="VC_Evil_Knight_Spear_Named_DG_GreatCleave_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Expedition_GreatCleave_00">Ser Tomila</string>
@@ -9743,6 +9831,7 @@
 	<string key="VC_Evil_Knight_Spear_Elite_08QP02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Drakongard Spearman</string>
 	<string key="VC_Evil_Knight_Spear_Named_02BW07" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Sir Inegeld the Scorpion</string>
 	<string key="VC_Evil_Knight_Spear_Named_S4_1" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Season_4_Perm">Sir Harold Giles</string>
+	<string key="VC_Evil_Knight_VoidGauntlet_Catacombs" comment="Generic Level Varaint" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Varangian Warlock</string>
 	<string key="VC_Evil_Knight_Warhammer" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Varangian Crusher</string>
 	<string key="VC_Evil_Knight_Warhammer_02BW07" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="AI_Evil_Knights_P2">Sokolgard Crusher</string>
 	<string key="VC_Evil_Knight_Warhammer_04NW04" comment="Mission Target Display Name" speaker="Vitals Category" rel_version="AI_Evil_Knights_P2">Vorongard Crusher</string>
@@ -9759,6 +9848,7 @@
 	<string key="VC_Evil_Knight_Warhammer_32" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P2">Varangian Crusher</string>
 	<string key="VC_Evil_Knight_Warhammer_S4" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Season_4_Perm">Frostbound Crusher</string>
 	<string key="VC_Evil_Knight_Warhammer_S4_B" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Season_4_Perm">Winter Knight Crusher</string>
+	<string key="VC_Evil_Knight_Warhammer_Catacombs" comment="Generic Level Varaint" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Varangian Crusher</string>
 	<string key="VC_Evil_Knight_Warhammer_DG_GreatCleave_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Expedition_GreatCleave_00">Varangian Crusher</string>
 	<string key="VC_Evil_Knight_Warhammer_Elite" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Elite Crusher</string>
 	<string key="VC_Evil_Knight_Warhammer_Elite_08QP02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Evil_Knights_P3">Drakongard Crusher</string>
@@ -10127,8 +10217,11 @@
 	<string key="VC_Grubby_Rebels" comment="BASE" speaker="VitalsCategory Sheet">Skullworm</string>
 	<string key="VC_Harvestbane" comment="BASE" speaker="VitalsCategory Sheet">Harvestbane</string>
 	<string key="VC_Haunted" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Haunted Lost</string>
+	<string key="VC_Hercyne_Boar" comment="BASE" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Hercyne Boar</string>
 	<string key="VC_Hercyne_Broodmother" comment="BASE" speaker="VitalsCategory Sheet" rel_version="Raid_CutlassKeys_00">Broodmother Medusa</string>
+	<string key="VC_Hercyne_Corvid" comment="BASE" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Hercyne Corvid</string>
 	<string key="VC_Hercyne_Echinda" comment="BASE" speaker="VitalsCategory Sheet" rel_version="Raid_CutlassKeys_00">Echinda</string>
+	<string key="VC_Hercyne_Reindeer" comment="BASE" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Hercyne Reindeer</string>
 	<string key="VC_Hercyne_Typhon" comment="BASE" speaker="VitalsCategory Sheet" rel_version="Raid_CutlassKeys_00">Typhon</string>
 	<string key="VC_Hercyne_Wolf" comment="BASE" speaker="VitalsCategory Sheet" rel_version="Raid_CutlassKeys_00">Hercyne Wolf</string>
 	<string key="VC_FL_Hercyne_Boar" comment="BASE" speaker="VitalsCategory Sheet" rel_version="Territory_FirstLight">Hercyne Boar</string>
@@ -12111,7 +12204,7 @@
 	<string key="VC_Trailstall" comment="BASE" speaker="VitalsCategory Sheet">Trailstall</string>
 	<string key="VC_training_dummy" comment="Mission Target Display Name" speaker="VitalsCategory">Training Dummy</string>
 	<string key="VC_Trestle" comment="BASE" speaker="VitalsCategory Sheet">Trestle</string>
-	<string key="VC_Trial_Quest_Seraphim_Boss" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">The Profane Seraphim</string>
+	<string key="VC_Trial_Quest_Seraphim_Boss" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">The Profane Vanguard</string>
 	<string key="VC_Tricorne" comment="BASE" speaker="VitalsCategory Sheet">Tricorne</string>
 	<string key="VC_Tundra_Garrison" comment="BASE" speaker="VitalsCategory Sheet">Tundra Garrison</string>
 	<string key="VC_Turkey" comment="BASE" speaker="VitalsCategory Sheet">Turkey</string>
@@ -15483,6 +15576,20 @@
 	<string key="VC_CK_Undead_Officer_Named_10WS06" speaker="VitalsCategory Sheet" rel_version="Territory_CutlassKeys_Rework">Tithe Officer Hamilton</string>
 	<string key="CK_Lost_Berserker_Named_10WS06_VitalsName" speaker="Vitals Sheet" rel_version="Territory_CutlassKeys_Rework">Captain Obsidian Zorn</string>
 	<string key="VC_CK_Lost_Berserker_Named_10WS06" speaker="VitalsCategory Sheet" rel_version="Territory_CutlassKeys_Rework">Captain Obsidian Zorn</string>
+	<string key="IoN_Lost_Thorpe_VitalsName" speaker="Vitals Category" rel_version="Raid_MonarchsBluffs_00">Overlord Thorpe</string>
+	<string key="IoN_Lost_BossSoul_VitalsName" speaker="Vitals Category" rel_version="Raid_MonarchsBluffs_00">Enthralled Soul</string>
+	<string key="IoN_Lost_Heiress_VitalsName" speaker="Vitals Category" rel_version="Raid_MonarchsBluffs_00">Dahut, Ys Heiress</string>
+	<string key="IoN_PurgingBladeMinion_VitalsName" speaker="Vitals Category" rel_version="Raid_MonarchsBluffs_00">Abyssal Blade</string>
+	<string key="IoN_Lost_PalatineGuard_Shield_VitalsName" speaker="Vitals Category" rel_version="Raid_MonarchsBluffs_00">Palatine Shieldbearer</string>
+	<string key="IoN_Lost_PalatineGuard_Halberd_VitalsName" speaker="Vitals Category" rel_version="Raid_MonarchsBluffs_00">Palatine Halberdier</string>
+	<string key="IoN_Lost_PalatineGuard_Swordsman_VitalsName" speaker="Vitals Category" rel_version="Raid_MonarchsBluffs_00">Palatine Swordsman</string>
+	<string key="IoN_Lost_PalatineGuard_Archer_VitalsName" speaker="Vitals Category" rel_version="Raid_MonarchsBluffs_00">Palatine Archer</string>
+	<string key="IoN_Lost_Shadow_Heiress_VitalsName" speaker="Vitals Category" rel_version="Raid_MonarchsBluffs_00">Shadow of Queen Dahut</string>
+	<string key="IoN_Lost_Shadow_PalatineShield_VitalsName" speaker="Vitals Category" rel_version="Raid_MonarchsBluffs_00">Shadow Shieldbearer</string>
+	<string key="IoN_Lost_Shadow_PalatineHalberd_VitalsName" speaker="Vitals Category" rel_version="Raid_MonarchsBluffs_00">Shadow Halberdier</string>
+	<string key="IoN_Lost_Shadow_PalatineSwordsman_VitalsName" speaker="Vitals Category" rel_version="Raid_MonarchsBluffs_00">Shadow Swordman</string>
+	<string key="IoN_Lost_Shadow_PalatineArcher_VitalsName" speaker="Vitals Category" rel_version="Raid_MonarchsBluffs_00">Shadow Archer</string>
+	<string key="IoN_Lost_Shadow_Jester_VitalsName" speaker="Vitals Category" rel_version="Raid_MonarchsBluffs_00">Shadow Jesters</string>
 	<string key="CK_Alligator_Black_10WS06_VitalsName" speaker="Vitals Sheet" rel_version="Territory_CutlassKeys_Rework">Shallows Alligator</string>
 	<string key="VC_CK_Alligator_Black_10WS06" speaker="VitalsCategory Sheet" rel_version="Territory_CutlassKeys_Rework">Shallows Alligator</string>
 	<string key="CK_Boar_10WS06_VitalsName" speaker="Vitals Sheet" rel_version="Territory_CutlassKeys_Rework">Forest Boar</string>
@@ -15533,6 +15640,9 @@
 	<string key="VC_CK_Peacock" comment="Generic Level Variant" speaker="VitalsCategory Sheet" rel_version="Territory_CutlassKeys_Rework">Island Peacock</string>
 	<string key="CK_Peacock_10ws02_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_CutlassKeys_Rework">Island Peacock</string>
 	<string key="VC_CK_Peacock_10ws02" comment="Generic Level Variant" speaker="VitalsCategory Sheet" rel_version="Territory_CutlassKeys_Rework">Island Peacock</string>
+	<string key="Lost_Twin_Jesters_VitalsName" speaker="Vitals Sheet" rel_version="Raid_MonarchsBluffs_00">Twin Jesters</string>
+	<string key="Lost_Twin_Jesters_STDClone_VitalsName" speaker="Vitals Sheet" rel_version="Raid_MonarchsBluffs_00">Twin Jesters Clone</string>
+	<string key="Lost_Autoguided_Surprise_VitalsName" speaker="Vitals Sheet" rel_version="Raid_MonarchsBluffs_00">Autoguided Surprise</string>
 	<string key="CK_Blackbone_Lost_2hAxe_10WS02_Highpass_Named_VitalsName" speaker="Vitals Sheet" rel_version="Territory_CutlassKeys_Rework">Louis Florin</string>
 	<string key="VC_CK_Blackbone_Lost_2hAxe_10WS02_Highpass_Named" speaker="VitalsCategory Sheet" rel_version="Territory_CutlassKeys_Rework">Louis Florin</string>
 	<string key="CK_Blackbone_Lost_2hBlunderbuss_10WS02_Highpass_Named_VitalsName" speaker="Vitals Sheet" rel_version="Territory_CutlassKeys_Rework">Tian Bouchard</string>
@@ -15680,14 +15790,596 @@
 	<string key="VC_CK_Blackbone_Lost_2hBlunderbuss_10WS04_Ad" speaker="VitalsCategory Sheet" rel_version="Territory_CutlassKeys_Rework">Admiral's Blunderbuss</string>
 	<string key="CK_Blackbone_Lost_2hSpear_10WS04_Ad_VitalsName" speaker="Vitals Sheet" rel_version="Territory_CutlassKeys_Rework">Admiral's Spearman</string>
 	<string key="VC_CK_Blackbone_Lost_2hSpear_10WS04_Ad" speaker="VitalsCategory Sheet" rel_version="Territory_CutlassKeys_Rework">Admiral's Spearman</string>
+	<string key="ion_lost_feralghoul_vitalsname" speaker="Vitals Category" rel_version="Raid_MonarchsBluffs_00">Ys Ghoul</string>
+	<string key="ion_lost_bloodbeast_vitalsname" speaker="Vitals Category" rel_version="Raid_MonarchsBluffs_00">Ys Beast</string>
+	<string key="ion_lost_soulharvester_vitalsname" speaker="Vitals Category" rel_version="Raid_MonarchsBluffs_00">Ys Banshee</string>
+	<string key="ion_lost_ghastly_villager_shovel_vitalsname" speaker="Vitals Category" rel_version="Raid_MonarchsBluffs_00">Ys Villager</string>
+	<string key="ion_lost_ghastly_villager_hatchet_vitalsname" speaker="Vitals Category" rel_version="Raid_MonarchsBluffs_00">Ys Axeman</string>
+	<string key="ion_lost_ghastly_sniper_vitalsname" speaker="Vitals Category" rel_version="Raid_MonarchsBluffs_00">Ys Sentry</string>
+	<string key="ion_lost_cryptkeeper_vitalsname" speaker="Vitals Category" rel_version="Raid_MonarchsBluffs_00">Ys Cryptkeeper</string>
+	<string key="ion_lost_mutatednurse_vitalsname" speaker="Vitals Category" rel_version="Raid_MonarchsBluffs_00">Ys Caretaker</string>
+	<string key="VC_IoN_Lost_Feral_Ghoul_Encounter" speaker="VitalsCategory Sheet" rel_version="Raid_MonarchsBluffs_00">Ys Ghoul</string>
+	<string key="VC_IoN_Lost_Bloodbeast_Encounter" speaker="VitalsCategory Sheet" rel_version="Raid_MonarchsBluffs_00">Ys Beast</string>
+	<string key="VC_IoN_Lost_SoulHarverster_Encounter" speaker="VitalsCategory Sheet" rel_version="Raid_MonarchsBluffs_00">Ys Banshee</string>
+	<string key="VC_IoN_Lost_Ghastly_Villager_Shovel_Encounter" speaker="VitalsCategory Sheet" rel_version="Raid_MonarchsBluffs_00">Ys Villager</string>
+	<string key="VC_IoN_Lost_Ghastly_Sniper_Encounter" speaker="VitalsCategory Sheet" rel_version="Raid_MonarchsBluffs_00">Ys Sentry</string>
+	<string key="VC_IoN_Lost_Ghastly_Villager_Hatchet_Encounter" speaker="VitalsCategory Sheet" rel_version="Raid_MonarchsBluffs_00">Ys Woodcutter</string>
+	<string key="VC_IoN_Lost_Cryptkeeper_Encounter" speaker="VitalsCategory Sheet" rel_version="Raid_MonarchsBluffs_00">Ys Cryptkeeper</string>
+	<string key="VC_IoN_Lost_MutatedNurse_Encounter" speaker="VitalsCategory Sheet" rel_version="Raid_MonarchsBluffs_00">Ys Caretaker</string>
+	<string key="VC_IoN_Lost_Undead_Naga_Encounter" speaker="VitalsCategory Sheet" rel_version="Raid_MonarchsBluffs_00">Ill-Fated Naga</string>
+	<string key="VC_IoN_Lost_MummifiedCorpse_Encounter" speaker="VitalsCategory Sheet" rel_version="Raid_MonarchsBluffs_00">Ys Corpse</string>
+	<string key="VC_IoN_Lost_Brute_Encounter" speaker="VitalsCategory Sheet" rel_version="Raid_MonarchsBluffs_00">Ys Abomination</string>
+	<string key="VC_IoN_Lost_Knight_Bow_Encounter" speaker="VitalsCategory Sheet" rel_version="Raid_MonarchsBluffs_00">Ys Archer</string>
+	<string key="VC_IoN_Lost_Knight_Tank_Encounter" speaker="VitalsCategory Sheet" rel_version="Raid_MonarchsBluffs_00">Ys Shield</string>
+	<string key="VC_IoN_Lost_Knight_Warhammer_Encounter" speaker="VitalsCategory Sheet" rel_version="Raid_MonarchsBluffs_00">Ys Warrior</string>
+	<string key="VC_IoN_Lost_Knight_Pikeman_Encounter" speaker="VitalsCategory Sheet" rel_version="Raid_MonarchsBluffs_00">Ys Pikeman</string>
+	<string key="VC_IoN_Lost_Withered_Grunt_Encounter" speaker="VitalsCategory Sheet" rel_version="Raid_MonarchsBluffs_00">Ys Hound</string>
+	<string key="VC_IoN_Lost_Monarch_Encounter" speaker="VitalsCategory Sheet" rel_version="Raid_MonarchsBluffs_00">Ys Ghoul</string>
+	<string key="IoN_Lost_Brute_Elite_VitalsName" speaker="Vitals Sheet" rel_version="Raid_MonarchsBluffs_00">Durned Abomination</string>
+	<string key="IoN_Lost_Monarch_Elite_VitalsName" speaker="Vitals Sheet" rel_version="Raid_MonarchsBluffs_00">Condemned Palatine Guard</string>
+	<string key="IoN_Lost_Naga_Elite_VitalsName" speaker="Vitals Sheet" rel_version="Raid_MonarchsBluffs_00">Ill-Fated Naga</string>
+	<string key="ysguardian_vitalsname" speaker="Vitals Category" rel_version="Raid_MonarchsBluffs_00">Ys Guardian</string>
+	<string key="ion_lost_undead_naga_vitalsname" speaker="Vitals Category" rel_version="Raid_MonarchsBluffs_00">Hapless Naga</string>
+	<string key="ion_lost_mummifiedcorpse_vitalsname" speaker="Vitals Category" rel_version="Raid_MonarchsBluffs_00">Ys Corpse</string>
+	<string key="ion_lost_brute_vitalsname" speaker="Vitals Category" rel_version="Raid_MonarchsBluffs_00">Durned Brute</string>
+	<string key="ion_lost_monarch_vitalsname" speaker="Vitals Category" rel_version="Raid_MonarchsBluffs_00">Ys Ghoul</string>
+	<string key="ion_lost_withered_grunt_vitalsname" speaker="Vitals Category" rel_version="Raid_MonarchsBluffs_00">Ys Hound</string>
+	<string key="ion_lost_knight_bow_vitalsname" speaker="Vitals Category" rel_version="Raid_MonarchsBluffs_00">Ys Archer</string>
+	<string key="ion_lost_knight_pikeman_vitalsname" speaker="Vitals Category" rel_version="Raid_MonarchsBluffs_00">Ys Pikeman</string>
+	<string key="ion_lost_knight_warhammer_vitalsname" speaker="Vitals Category" rel_version="Raid_MonarchsBluffs_00">Ys Warrior</string>
+	<string key="ion_lost_thorpe_relic_vitalsname" comment="DO NOT TRANSLATE" speaker="Vitals Category" rel_version="Raid_MonarchsBluffs_00">Spear of Longinus</string>
+	<string key="ion_lost_thorpe_minionmanager_vitalsname" comment="DO NOT TRANSLATE" speaker="Vitals Category" rel_version="Raid_MonarchsBluffs_00">ThorpeMinionManager</string>
+	<string key="ion_dummy_palatineguard_vitalsname" comment="DO NOT TRANSLATE" speaker="Vitals Category" rel_version="Raid_MonarchsBluffs_00">PalatineDummy</string>
+	<string key="ion_heiressandpg_encounter_manager_vitalsname" comment="DO NOT TRANSLATE" speaker="Vitals Category" rel_version="Raid_MonarchsBluffs_00">DahutEncounter</string>
+	<string key="lost_twin_jesters_oneshotsummon_vitalsname" speaker="Vitals Category" rel_version="Raid_MonarchsBluffs_00">Twin Jesters Clone</string>
+	<string key="ion_jester_lost_feralghoul_vitalsname" speaker="Vitals Category" rel_version="Raid_MonarchsBluffs_00">Ys Carcass</string>
+	<string key="ion_jester_lost_bloodbeast_vitalsname" speaker="Vitals Category" rel_version="Raid_MonarchsBluffs_00">Ys Ravager</string>
+	<string key="ion_jester_lost_soulharvester_vitalsname" speaker="Vitals Category" rel_version="Raid_MonarchsBluffs_00">Ys Banshee</string>
+	<string key="ion_jester_lost_ghastly_villager_shovel_vitalsname" speaker="Vitals Category" rel_version="Raid_MonarchsBluffs_00">Ys Villager</string>
+	<string key="ion_jester_lost_ghastly_sniper_vitalsname" speaker="Vitals Category" rel_version="Raid_MonarchsBluffs_00">Ys Sentry</string>
+	<string key="ion_jester_lost_ghastly_villager_hatchet_vitalsname" speaker="Vitals Category" rel_version="Raid_MonarchsBluffs_00">Ys Woodcutter</string>
+	<string key="ion_jester_lost_cryptkeeper_vitalsname" speaker="Vitals Category" rel_version="Raid_MonarchsBluffs_00">Ys Cryptkeeper</string>
+	<string key="ion_jester_lost_mutatednurse_vitalsname" speaker="Vitals Category" rel_version="Raid_MonarchsBluffs_00">Ys Caretaker</string>
+	<string key="ion_jester_lost_undead_naga_vitalsname" speaker="Vitals Category" rel_version="Raid_MonarchsBluffs_00">Hapless Naga</string>
+	<string key="ion_jester_lost_mummifiedcorpse_vitalsname" speaker="Vitals Category" rel_version="Raid_MonarchsBluffs_00">Ys Corpse</string>
+	<string key="ion_jester_lost_brute_vitalsname" speaker="Vitals Sheet" rel_version="Raid_MonarchsBluffs_00">Durned Brute</string>
+	<string key="ion_lost_knight_tank_vitalsname" speaker="Vitals Category" rel_version="Raid_MonarchsBluffs_00">Ys Shield</string>
+	<string key="IoN_Lost_BossSoul_Gimmick_vitalsname" speaker="Vitals Category" rel_version="Raid_MonarchsBluffs_00">Enthralled Soul</string>
+	<string key="Werewolf_Asena_MSQ_Pt1_VitalsName" rel_version="Territory_Dunwood">Lady Asena</string>
+	<string key="Werewolf_Asena_MSQ_Pt2_VitalsName" rel_version="Territory_Dunwood">Lady Asena</string>
+	<string key="Werewolf_Asena_Minion_VitalsName" rel_version="Territory_Dunwood">Werewolf</string>
+	<string key="Werewolf_Alpha_Asena_Minion_VitalsName" rel_version="Territory_Dunwood">Alpha Werewolf</string>
+	<string key="Werebear_Asena_Minion_VitalsName" rel_version="Territory_Dunwood">Werebear</string>
+	<string key="Werebear_Crusher_Asena_Minion_VitalsName" rel_version="Territory_Dunwood">Werebear Crusher</string>
+	<string key="Wereraven_Asena_Minion_VitalsName" rel_version="Territory_Dunwood">Wereraven</string>
+	<string key="Wereraven_Caster_Asena_Minion_VitalsName" rel_version="Territory_Dunwood">Caster Wereraven</string>
+	<string key="Werebear_VitalsName" rel_version="Territory_Dunwood">Werebear</string>
+	<string key="Werebear_Rabid_VitalsName" rel_version="Territory_Dunwood">Rabid Werebear</string>
+	<string key="Werebear_Crusher_VitalsName" rel_version="Territory_Dunwood">Werebear Crusher</string>
 	<string key="WB_Mammoth_FL_Mahantaram_VitalsName" speaker="Vitals Sheet" rel_version="Season_8_Perm">Mahantaram, Lord of Mammoths</string>
 	<string key="WB_Mammoth_FL_Mahantaram_Minion_VitalsName" speaker="Vitals Sheet" rel_version="Season_8_Perm">Elysian Mammoth</string>
 	<string key="WB_Mammoth_FL_Mahantaram_Minion_Fire_VitalsName" speaker="Vitals Sheet" rel_version="Season_8_Perm">Elysian Fire Mammoth</string>
 	<string key="WB_Mammoth_FL_Mahantaram_Minion_Ice_VitalsName" speaker="Vitals Sheet" rel_version="Season_8_Perm">Elysian Ice Mammoth</string>
 	<string key="WB_Mammoth_FL_Mahantaram_Minion_Lightning_VitalsName" speaker="Vitals Sheet" rel_version="Season_8_Perm">Elysian Lightning Mammoth</string>
 	<string key="WB_Mammoth_FL_Mahantaram_Minion_Nature_VitalsName" speaker="Vitals Sheet" rel_version="Season_8_Perm">Elysian Nature Mammoth</string>
+	<string key="VC_IoN_Lost_Monarch_Elite" speaker="VitalsCategory Sheet" rel_version="Raid_MonarchsBluffs_00">Condemned Palatine Guard</string>
+	<string key="VC_IoN_Lost_Brute_Elite" speaker="VitalsCategory Sheet" rel_version="Raid_MonarchsBluffs_00">Durned Abomination</string>
+	<string key="VC_IoN_Lost_Naga_Elite" speaker="VitalsCategory Sheet" rel_version="Raid_MonarchsBluffs_00">Ill-Fated Naga</string>
+	<string key="VC_IoN_Lost_Bloodbeast" speaker="VitalsCategory Sheet" rel_version="Raid_MonarchsBluffs_00">Ys Beast</string>
+	<string key="VC_IoN_Lost_FeralGhoul" speaker="VitalsCategory Sheet" rel_version="Raid_MonarchsBluffs_00">Ys Ghoul</string>
+	<string key="VC_IoN_Lost_Ghastly_Villager_Hatchet" speaker="VitalsCategory Sheet" rel_version="Raid_MonarchsBluffs_00">Ys Axeman</string>
+	<string key="VC_Lost_Twin_Jesters" speaker="VitalsCategory Sheet" rel_version="Raid_MonarchsBluffs_00">Twin Jesters</string>
+	<string key="VC_IoN_Lost_Heiress" speaker="VitalsCategory Sheet" rel_version="Raid_MonarchsBluffs_00">Dahut, Ys Heiress</string>
+	<string key="VC_IoN_Lost_Thorpe" speaker="VitalsCategory Sheet" rel_version="Raid_MonarchsBluffs_00">Overlord Thorpe</string>
+	<string key="Wereraven_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Wereraven</string>
+	<string key="Werewolf_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Werewolf</string>
+	<string key="Werewolf_Rabid_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Rabid Werewolf</string>
+	<string key="Werewolf_Alpha_Named_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Alpha Werewolf</string>
+	<string key="Inquisitor_Grunt_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Inquisition Grunt</string>
+	<string key="Inquisitor_Bomber_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Inquisition Bomber</string>
+	<string key="Rat_PlagueRat_Baby_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Young Ratling</string>
+	<string key="Totem_Rat_Nest_ELITE_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Rat Nest</string>
+	<string key="Spider_Wildlife_Baby_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Young Spiderling</string>
+	<string key="Totem_Spider_Nest_ELITE_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Spider Nest</string>
+	<string key="Dunwood_Rabbit_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Rabbit</string>
+	<string key="Dunwood_Turkey_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Black Grouse</string>
+	<string key="Dunwood_Wolf_Alpha_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Direwolf</string>
+	<string key="Dunwood_Wolf_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Wolf</string>
+	<string key="Dunwood_Goat_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Goat</string>
+	<string key="Dunwood_Elk_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Elk</string>
+	<string key="Dunwood_Bear_Grizzly_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Grizzly Bear</string>
+	<string key="Gargoyle_Brute_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Gargoyle</string>
+	<string key="Dunwood_Boar_Strange_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Boar</string>
+	<string key="Dunwood_Bobcat_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Lynx</string>
+	<string key="Dunwood_Ghost_Charred_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Charred Ghost</string>
+	<string key="Dunwood_Ghost_Frozen_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Frozen Ghost</string>
+	<string key="Dunwood_Ghost_Plagued_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Plagued Ghost</string>
+	<string key="Dunwood_Ghost_Shackled_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Shackled Ghost</string>
+	<string key="Dunwood_Ghost_Shipwrecked_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Lightning Ghost</string>
+	<string key="Dunwood_Ghost_Starved_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Ghost</string>
+	<string key="Dunwood_Spectral_Lost_1hSword_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Spectral Warrior</string>
+	<string key="Dunwood_Spectral_Lost_2hAxe_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Spectral Warrior</string>
+	<string key="Dunwood_Spectral_Lost_2hBlunderbuss_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Spectral Warrior</string>
+	<string key="Dunwood_Spectral_Lost_2hSpear_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Spectral Warrior</string>
+	<string key="Dunwood_Spectral_Lost_Fire_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Spectral Warrior</string>
+	<string key="Dunwood_Spectral_Lost_Ice_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Spectral Warrior</string>
+	<string key="Dunwood_Sheep_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Sheep</string>
+	<string key="Dunwood_Pig_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Pig</string>
+	<string key="Dunwood_Cow_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Cow</string>
+	<string key="Werebear_ELITE_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Elite Werebear</string>
+	<string key="Wereraven_ELITE_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Elite Wereraven</string>
+	<string key="Werewolf_ELITE_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Elite Werewolf</string>
+	<string key="Werewolf_Rabid_ELITE_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Elite Rabid Werewolf</string>
+	<string key="Werewolf_Alpha_ELITE_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Elite Alpha Werewolf</string>
+	<string key="Inquisitor_Cleric_ELITE_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Elite Cleric</string>
+	<string key="Inquisitor_Enforcer_ELITE_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Elite Enforcer</string>
+	<string key="Inquisitor_Flamekeeper_ELITE_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Elite Flamekeeper</string>
+	<string key="Inquisitor_Markswoman_ELITE_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Elite Markswoman</string>
+	<string key="Inquisitor_Warden_ELITE_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Elite Warden</string>
+	<string key="Inquisitor_Seraphim_ELITE_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Elite Seraphim</string>
+	<string key="Inquisitor_Grunt_ELITE_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Elite Grunt</string>
+	<string key="Inquisitor_Bomber_ELITE_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Elite Bomber</string>
+	<string key="Rat_PlagueRat_ELITE_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Elite Rat</string>
+	<string key="Spider_Wildlife_T1_ELITE_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Elite Spider</string>
+	<string key="Spider_Wildlife_T2_ELITE_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Elite Spider</string>
+	<string key="Upyr_Baroness_ELITE_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Elite Baroness</string>
+	<string key="Upyr_Barrel_ELITE_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Elite Barrel</string>
+	<string key="Upyr_Consort_ELITE_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Elite Consort</string>
+	<string key="Upyr_Guardian_ELITE_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Elite Guardian</string>
+	<string key="Upyr_Mindthief_ELITE_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Elite Mindthief</string>
+	<string key="Upyr_Shade_ELITE_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Elite Shade</string>
+	<string key="Upyr_Thrall_Aggressor_ELITE_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Elite Thrall Aggressor</string>
+	<string key="Upyr_Thrall_Grunt_ELITE_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Elite Grunt</string>
+	<string key="Upyr_Thrall_Meatbag_ELITE_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Elite Meatbag</string>
+	<string key="Upyr_Thrall_Meatbag_Green_ELITE_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Elite Meatbag</string>
+	<string key="Upyr_Thrall_Meatbag_Purple_ELITE_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Elite Meatbag</string>
+	<string key="Upyr_Thrall_Meatbag_Red_ELITE_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Elite Meatbag</string>
+	<string key="Upyr_Thrall_Soul_Hunter_ELITE_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Elite Thrall Soulhunter</string>
+	<string key="Dunwood_Wolf_Alpha_ELITE_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Elite Direwolf</string>
+	<string key="Dunwood_Wolf_ELITE_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Elite Wolf</string>
+	<string key="Dunwood_Bear_Grizzly_ELITE_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Elite Grizzly Bear</string>
+	<string key="Gargoyle_Brute_ELITE_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Elite Gargoyle</string>
+	<string key="Dunwood_Ghost_Charred_ELITE_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Elite Charred Ghost</string>
+	<string key="Dunwood_Ghost_Frozen_ELITE_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Elite Frozen Ghost</string>
+	<string key="Dunwood_Ghost_Plagued_ELITE_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Elite Plagued Ghost</string>
+	<string key="Dunwood_Ghost_Shackled_ELITE_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Elite Shackled Ghost</string>
+	<string key="Dunwood_Ghost_Shipwrecked_ELITE_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Elite Lightning Ghost</string>
+	<string key="Dunwood_Ghost_Starved_ELITE_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Elite Ghost</string>
+	<string key="Dunwood_Spectral_Lost_1hSword_ELITE_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Elite Spectral Warrior</string>
+	<string key="Dunwood_Spectral_Lost_2hAxe_ELITE_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Elite Spectral Warrior</string>
+	<string key="Dunwood_Spectral_Lost_2hBlunderbuss_ELITE_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Elite Spectral Warrior</string>
+	<string key="Dunwood_Spectral_Lost_2hSpear_ELITE_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Elite Spectral Warrior</string>
+	<string key="Dunwood_Spectral_Lost_Fire_ELITE_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Elite Spectral Warrior</string>
+	<string key="Dunwood_Spectral_Lost_Ice_ELITE_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Elite Spectral Warrior</string>
+	<string key="Dunwood_Boss_Tower_Named_00_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Memory of The Tempest</string>
+	<string key="Dunwood_Boss_Tower_Named_01_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Memory of The Tax-Collector</string>
+	<string key="Dunwood_Boss_Tower_Named_02_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Memory of Anpu</string>
+	<string key="Dunwood_Boss_Tower_Named_03_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Memory of Heru</string>
+	<string key="Dunwood_Boss_Tower_Named_04_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Memory of Artemis</string>
+	<string key="Dunwood_Boss_Tower_Named_05_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Memory of Foreman Nakashima</string>
+	<string key="Dunwood_Boss_Tower_Named_06_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Memory of Faceless</string>
+	<string key="Dunwood_Boss_Tower_Named_07_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Memory of Yonas</string>
+	<string key="Dunwood_Boss_Tower_Named_08_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Memory of Winter</string>
+	<string key="Dunwood_Boss_Tower_Named_09_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Named Boss</string>
+	<string key="Spider_Wildlife_T2_Named_00_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Named Boss</string>
+	<string key="Spider_Wildlife_T2_Named_01_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Named Boss</string>
+	<string key="Spider_Wildlife_T2_Named_02_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Named Boss</string>
+	<string key="Spider_Wildlife_T2_Named_03_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Named Boss</string>
+	<string key="Spider_Wildlife_T2_Named_04_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Named Boss</string>
+	<string key="Spider_Wildlife_T2_Named_05_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Named Boss</string>
+	<string key="Spider_Wildlife_T2_Named_06_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Named Boss</string>
+	<string key="Spider_Wildlife_T2_Named_07_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Named Boss</string>
+	<string key="Spider_Wildlife_T2_Named_08_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Named Boss</string>
+	<string key="Spider_Wildlife_T2_Named_09_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Named Boss</string>
+	<string key="Spider_Wildlife_T2_Named_10_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Named Boss</string>
 	<string key="VC_WorldBoss" speaker="VitalsCategory Sheet" rel_version="Season_8_Perm">Open World Boss</string>
+	<string key="Lost_Bloodbeast_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Bloodbeast</string>
+	<string key="VC_Lost_Bloodbeast_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Bloodbeast</string>
+	<string key="Lost_Cryptkeeper_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Cryptkeeper</string>
+	<string key="VC_Lost_Cryptkeeper_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Cryptkeeper</string>
+	<string key="Lost_FeralGhoul_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Feral Ghoul</string>
+	<string key="VC_Lost_FeralGhoul_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Feral Ghoul</string>
+	<string key="Lost_Ghastly_Sniper_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Cursed Sentry</string>
+	<string key="VC_Lost_Ghastly_Sniper_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Cursed Sentry</string>
+	<string key="Lost_Ghastly_Villager_Hatchet_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Cursed Axeman</string>
+	<string key="VC_Lost_Ghastly_Villager_Hatchet_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Cursed Axeman</string>
+	<string key="Lost_Ghastly_Villager_Shovel_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Cursed Tomb Raider</string>
+	<string key="VC_Lost_Ghastly_Villager_Shovel_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Cursed Tomb Raider</string>
+	<string key="Lost_Mummifiedcorpse_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Cursed Corpse</string>
+	<string key="VC_Lost_Mummifiedcorpse_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Cursed Corpse</string>
+	<string key="Lost_MutatedNurse_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Cursed Corpse</string>
 	<string key="Lost_SoulHarvester_Boss_Catacombs_Vitalsname" speaker="Vitals Category" rel_version="AI_Ghastly_Horrors">The Souleater</string>
+	<string key="VC_Lost_MutatedNurse_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Cursed Caretaker</string>
+	<string key="VC_Dunwood_Lost_Bloodbeast" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Bloodbeast</string>
+	<string key="VC_Dunwood_Lost_FeralGhoul" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Feral Ghoul</string>
+	<string key="VC_Dunwood_Lost_MutatedNurse" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Cursed Caretaker</string>
+	<string key="VC_Dunwood_Undead_Naga" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Ire</string>
+	<string key="VC_Dunwood_Lost_SoulHarvester" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Soul Harvester</string>
+	<string key="VC_Dunwood_Ghastly_Villager_Shovel" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Cursed Tomb Raider</string>
+	<string key="VC_Dunwood_Ghastly_Sniper" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Cursed Sentry</string>
+	<string key="VC_Dunwood_Ghastly_Villager_Hatchet" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Cursed Axeman</string>
+	<string key="VC_Dunwood_Undead_Cryptkeeper" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Cryptkeeper</string>
+	<string key="Dunwood_Lost_Bloodbeast_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Bloodbeast</string>
+	<string key="Dunwood_Lost_FeralGhoul_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Feral Ghoul</string>
+	<string key="Dunwood_Lost_MutatedNurse_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Cursed Caretaker</string>
+	<string key="Dunwood_Undead_Naga_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Ire</string>
+	<string key="Dunwood_Lost_SoulHarvester_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Soul Harvester</string>
+	<string key="Dunwood_Ghastly_Villager_Shovel_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Cursed Tomb Raider</string>
+	<string key="Dunwood_Ghastly_Sniper_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Cursed Sentry</string>
+	<string key="Dunwood_Ghastly_Villager_Hatchet_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Cursed Axeman</string>
+	<string key="Dunwood_Undead_Cryptkeeper_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Cryptkeeper</string>
+	<string key="VC_Dunwood_Undead_MummifiedCorpse" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Cursed Corpse</string>
+	<string key="Dunwood_Undead_MummifiedCorpse_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Cursed Corpse</string>
+	<string key="VC_Inquisitor_Grunt_17DW01_20324" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Faithripper</string>
+	<string key="VC_Inquisitor_Flamekeeper_Named_17DW01_20324" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Inquisitor Quixor</string>
+	<string key="VC_Inquisitor_Grunt_17DW01_20321" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Scourge</string>
+	<string key="VC_Inquisitor_Flamekeeper_17DW01_20321" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Vigilant Flamekeeper</string>
+	<string key="VC_Inquisitor_Cleric_Named_17DW01_20321" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Familiares Mala</string>
+	<string key="VC_Inquisitor_Grunt_17DW01_20332" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Malediction</string>
+	<string key="VC_Inquisitor_Flamekeeper_17DW01_20332" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Watchman Flamekeeper</string>
+	<string key="VC_Inquisitor_Cleric_17DW01_20332" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Sentinel Cleric</string>
+	<string key="VC_Inquisitor_Warden_Named_17DW01_20332" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Carcero the Custodian</string>
+	<string key="VC_Inquisitor_Grunt_17DW01_20323" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Incarcerator</string>
+	<string key="VC_Inquisitor_Flamekeeper_17DW01_20323" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Agonizer Flamekeeper</string>
+	<string key="VC_Inquisitor_Cleric_17DW01_20323" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Tormentor Cleric</string>
+	<string key="VC_Inquisitor_Warden_17DW01_20323" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Pain Warden</string>
+	<string key="VC_Inquisitor_Markswoman_Named_17DW01_20323" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Justicar Avalon</string>
+	<string key="VC_Inquisitor_Grunt_17DW01_20219" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Chastiser</string>
+	<string key="VC_Inquisitor_Flamekeeper_17DW01_20219" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Binding Flamekeeper</string>
+	<string key="VC_Inquisitor_Cleric_17DW01_20219" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Hallowed Cleric</string>
+	<string key="VC_Inquisitor_Warden_17DW01_20219" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Sanctum Warden</string>
+	<string key="VC_Inquisitor_Markswoman_17DW01_20219" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Warded Markswoman</string>
+	<string key="VC_Inquisitor_Enforcer_Named_17DW01_20219" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Azareth</string>
+	<string key="Spidergimmick_Webtrap_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Web Trap</string>
+	<string key="VC_Dunwood_Lost_Bloodbeast_TowerDevil" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Devil Bloodbeast</string>
+	<string key="VC_Dunwood_Lost_FeralGhoul_TowerDevil" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Devil Ghoul</string>
+	<string key="VC_Dunwood_Lost_MutatedNurse_TowerDevil" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Devil Caretaker</string>
+	<string key="VC_Dunwood_Undead_Naga_TowerDevil" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Devil Ire</string>
+	<string key="VC_Dunwood_Lost_SoulHarvester_TowerDevil" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Devil Soul Harvester</string>
+	<string key="VC_Dunwood_Ghastly_Villager_Shovel_TowerDevil" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Devil Tomb Raider</string>
+	<string key="VC_Dunwood_Ghastly_Sniper_TowerDevil" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Devil Sentry</string>
+	<string key="VC_Dunwood_Ghastly_Villager_Hatchet_TowerDevil" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Devil Axeman</string>
+	<string key="VC_Dunwood_Undead_Cryptkeeper_TowerDevil" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Devil Cryptkeeper</string>
+	<string key="VC_Dunwood_Undead_MummifiedCorpse_TowerDevil" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Devil Cursed Corpse</string>
+	<string key="VC_Dunwood_Spectral_Lost_1hSword_TowerDevil" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Devil Buccaneer</string>
+	<string key="VC_Dunwood_Spectral_Lost_2hAxe_TowerDevil" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Devil Executioner</string>
+	<string key="VC_Dunwood_Spectral_Lost_2hBlunderbuss_TowerDevil" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Devil Scattershot</string>
+	<string key="VC_Dunwood_Spectral_Lost_2hSpear_TowerDevil" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Devil Harpooner</string>
+	<string key="VC_Dunwood_Lost_Bloodbeast_TowerJudge" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Judgement Bloodbeast</string>
+	<string key="VC_Dunwood_Lost_FeralGhoul_TowerJudge" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Judgement Ghoul</string>
+	<string key="VC_Dunwood_Lost_MutatedNurse_TowerJudge" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Judgement Caretaker</string>
+	<string key="VC_Dunwood_Undead_Naga_TowerJudge" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Judgement Ire</string>
+	<string key="VC_Dunwood_Lost_SoulHarvester_TowerJudge" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Judgement Soul Harvester</string>
+	<string key="VC_Dunwood_Ghastly_Villager_Shovel_TowerJudge" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Judgement Tomb Raider</string>
+	<string key="VC_Dunwood_Ghastly_Sniper_TowerJudge" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Judgement Sentry</string>
+	<string key="VC_Dunwood_Ghastly_Villager_Hatchet_TowerJudge" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Judgement Axeman</string>
+	<string key="VC_Dunwood_Undead_Cryptkeeper_TowerJudge" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Judgement Cryptkeeper</string>
+	<string key="VC_Dunwood_Undead_MummifiedCorpse_TowerJudge" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Judgement Cursed Corpse</string>
+	<string key="VC_Dunwood_Spectral_Lost_1hSword_TowerJudge" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Judgement Buccaneer</string>
+	<string key="VC_Dunwood_Spectral_Lost_2hAxe_TowerJudge" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Judgement Executioner</string>
+	<string key="VC_Dunwood_Spectral_Lost_2hBlunderbuss_TowerJudge" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Judgement Scattershot</string>
+	<string key="VC_Dunwood_Spectral_Lost_2hSpear_TowerJudge" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Judgement Harpooner</string>
+	<string key="VC_Dunwood_Lost_Bloodbeast_TowerHiero" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Hierophant Bloodbeast</string>
+	<string key="VC_Dunwood_Lost_FeralGhoul_TowerHiero" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Hierophant Ghoul</string>
+	<string key="VC_Dunwood_Lost_MutatedNurse_TowerHiero" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Hierophant Caretaker</string>
+	<string key="VC_Dunwood_Undead_Naga_TowerHiero" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Hierophant Ire</string>
+	<string key="VC_Dunwood_Lost_SoulHarvester_TowerHiero" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Hierophant Soul Harvester</string>
+	<string key="VC_Dunwood_Ghastly_Villager_Shovel_TowerHiero" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Hierophant Tomb Raider</string>
+	<string key="VC_Dunwood_Ghastly_Sniper_TowerHiero" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Hierophant Sentry</string>
+	<string key="VC_Dunwood_Ghastly_Villager_Hatchet_TowerHiero" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Hierophant Axeman</string>
+	<string key="VC_Dunwood_Undead_Cryptkeeper_TowerHiero" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Hierophant Cryptkeeper</string>
+	<string key="VC_Dunwood_Undead_MummifiedCorpse_TowerHiero" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Hierophant Cursed Corpse</string>
+	<string key="VC_Dunwood_Spectral_Lost_1hSword_TowerHiero" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Hierophant Buccaneer</string>
+	<string key="VC_Dunwood_Spectral_Lost_2hAxe_TowerHiero" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Hierophant Executioner</string>
+	<string key="VC_Dunwood_Spectral_Lost_2hBlunderbuss_TowerHiero" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Hierophant Scattershot</string>
+	<string key="VC_Dunwood_Spectral_Lost_2hSpear_TowerHiero" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Hierophant Harpooner</string>
+	<string key="VC_Dunwood_Lost_Bloodbeast_TowerSun" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Sun Bloodbeast</string>
+	<string key="VC_Dunwood_Lost_FeralGhoul_TowerSun" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Sun Ghoul</string>
+	<string key="VC_Dunwood_Lost_MutatedNurse_TowerSun" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Sun Caretaker</string>
+	<string key="VC_Dunwood_Undead_Naga_TowerSun" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Sun Ire</string>
+	<string key="VC_Dunwood_Lost_SoulHarvester_TowerSun" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Sun Soul Harvester</string>
+	<string key="VC_Dunwood_Ghastly_Villager_Shovel_TowerSun" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Sun Tomb Raider</string>
+	<string key="VC_Dunwood_Ghastly_Sniper_TowerSun" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Sun Sentry</string>
+	<string key="VC_Dunwood_Ghastly_Villager_Hatchet_TowerSun" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Sun Axeman</string>
+	<string key="VC_Dunwood_Undead_Cryptkeeper_TowerSun" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Sun Cryptkeeper</string>
+	<string key="VC_Dunwood_Undead_MummifiedCorpse_TowerSun" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Sun Cursed Corpse</string>
+	<string key="VC_Dunwood_Spectral_Lost_1hSword_TowerSun" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Sun Buccaneer</string>
+	<string key="VC_Dunwood_Spectral_Lost_2hAxe_TowerSun" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Sun Executioner</string>
+	<string key="VC_Dunwood_Spectral_Lost_2hBlunderbuss_TowerSun" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Sun Scattershot</string>
+	<string key="VC_Dunwood_Spectral_Lost_2hSpear_TowerSun" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Sun Harpooner</string>
+	<string key="VC_Dunwood_Lost_Bloodbeast_TowerHermit" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Hermit Bloodbeast</string>
+	<string key="VC_Dunwood_Lost_FeralGhoul_TowerHermit" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Hermit Ghoul</string>
+	<string key="VC_Dunwood_Lost_MutatedNurse_TowerHermit" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Hermit Caretaker</string>
+	<string key="VC_Dunwood_Undead_Naga_TowerHermit" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Hermit Ire</string>
+	<string key="VC_Dunwood_Lost_SoulHarvester_TowerHermit" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Hermit Soul Harvester</string>
+	<string key="VC_Dunwood_Ghastly_Villager_Shovel_TowerHermit" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Hermit Tomb Raider</string>
+	<string key="VC_Dunwood_Ghastly_Sniper_TowerHermit" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Hermit Sentry</string>
+	<string key="VC_Dunwood_Ghastly_Villager_Hatchet_TowerHermit" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Hermit Axeman</string>
+	<string key="VC_Dunwood_Undead_Cryptkeeper_TowerHermit" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Hermit Cryptkeeper</string>
+	<string key="VC_Dunwood_Undead_MummifiedCorpse_TowerHermit" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Hermit Cursed Corpse</string>
+	<string key="VC_Dunwood_Spectral_Lost_1hSword_TowerHermit" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Hermit Buccaneer</string>
+	<string key="VC_Dunwood_Spectral_Lost_2hAxe_TowerHermit" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Hermit Executioner</string>
+	<string key="VC_Dunwood_Spectral_Lost_2hBlunderbuss_TowerHermit" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Hermit Scattershot</string>
+	<string key="VC_Dunwood_Spectral_Lost_2hSpear_TowerHermit" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Hermit Harpooner</string>
+	<string key="VC_Dunwood_Lost_Bloodbeast_TowerHP" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">High Priestess Bloodbeast</string>
+	<string key="VC_Dunwood_Lost_FeralGhoul_TowerHP" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">High Priestess Ghoul</string>
+	<string key="VC_Dunwood_Lost_MutatedNurse_TowerHP" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">High Priestess Caretaker</string>
+	<string key="VC_Dunwood_Undead_Naga_TowerHP" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">High Priestess Ire</string>
+	<string key="VC_Dunwood_Lost_SoulHarvester_TowerHP" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">High Priestess Soul Harvester</string>
+	<string key="VC_Dunwood_Ghastly_Villager_Shovel_TowerHP" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">High Priestess Tomb Raider</string>
+	<string key="VC_Dunwood_Ghastly_Sniper_TowerHP" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">High Priestess Sentry</string>
+	<string key="VC_Dunwood_Ghastly_Villager_Hatchet_TowerHP" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">High Priestess Axeman</string>
+	<string key="VC_Dunwood_Undead_Cryptkeeper_TowerHP" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">High Priestess Cryptkeeper</string>
+	<string key="VC_Dunwood_Undead_MummifiedCorpse_TowerHP" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">High Priestess Cursed Corpse</string>
+	<string key="VC_Dunwood_Spectral_Lost_1hSword_TowerHP" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">High Priestess Buccaneer</string>
+	<string key="VC_Dunwood_Spectral_Lost_2hAxe_TowerHP" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">High Priestess Executioner</string>
+	<string key="VC_Dunwood_Spectral_Lost_2hBlunderbuss_TowerHP" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">High Priestess Scattershot</string>
+	<string key="VC_Dunwood_Spectral_Lost_2hSpear_TowerHP" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">High Priestess Harpooner</string>
+	<string key="VC_Dunwood_Lost_Bloodbeast_TowerJustice" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Justice Bloodbeast</string>
+	<string key="VC_Dunwood_Lost_FeralGhoul_TowerJustice" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Justice Ghoul</string>
+	<string key="VC_Dunwood_Lost_MutatedNurse_TowerJustice" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Justice Caretaker</string>
+	<string key="VC_Dunwood_Undead_Naga_TowerJustice" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Justice Ire</string>
+	<string key="VC_Dunwood_Lost_SoulHarvester_TowerJustice" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Justice Soul Harvester</string>
+	<string key="VC_Dunwood_Ghastly_Villager_Shovel_TowerJustice" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Justice Tomb Raider</string>
+	<string key="VC_Dunwood_Ghastly_Sniper_TowerJustice" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Justice Sentry</string>
+	<string key="VC_Dunwood_Ghastly_Villager_Hatchet_TowerJustice" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Justice Axeman</string>
+	<string key="VC_Dunwood_Undead_Cryptkeeper_TowerJustice" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Justice Cryptkeeper</string>
+	<string key="VC_Dunwood_Undead_MummifiedCorpse_TowerJustice" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Justice Cursed Corpse</string>
+	<string key="VC_Dunwood_Spectral_Lost_1hSword_TowerJustice" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Justice Buccaneer</string>
+	<string key="VC_Dunwood_Spectral_Lost_2hAxe_TowerJustice" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Justice Executioner</string>
+	<string key="VC_Dunwood_Spectral_Lost_2hBlunderbuss_TowerJustice" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Justice Scattershot</string>
+	<string key="VC_Dunwood_Spectral_Lost_2hSpear_TowerJustice" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Justice Harpooner</string>
+	<string key="VC_Dunwood_Lost_Bloodbeast_TowerHM" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">HM Bloodbeast</string>
+	<string key="VC_Dunwood_Lost_FeralGhoul_TowerHM" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">HM Ghoul</string>
+	<string key="VC_Dunwood_Lost_MutatedNurse_TowerHM" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">HM Caretaker</string>
+	<string key="VC_Dunwood_Undead_Naga_TowerHM" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">HM Ire</string>
+	<string key="VC_Dunwood_Lost_SoulHarvester_TowerHM" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">HM Soul Harvester</string>
+	<string key="VC_Dunwood_Ghastly_Villager_Shovel_TowerHM" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">HM Tomb Raider</string>
+	<string key="VC_Dunwood_Ghastly_Sniper_TowerHM" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">HM Sentry</string>
+	<string key="VC_Dunwood_Ghastly_Villager_Hatchet_TowerHM" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">HM Axeman</string>
+	<string key="VC_Dunwood_Undead_Cryptkeeper_TowerHM" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">HM Cryptkeeper</string>
+	<string key="VC_Dunwood_Undead_MummifiedCorpse_TowerHM" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">HM Cursed Corpse</string>
+	<string key="VC_Dunwood_Spectral_Lost_1hSword_TowerHM" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">HM Buccaneer</string>
+	<string key="VC_Dunwood_Spectral_Lost_2hAxe_TowerHM" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">HM Executioner</string>
+	<string key="VC_Dunwood_Spectral_Lost_2hBlunderbuss_TowerHM" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">HM Scattershot</string>
+	<string key="VC_Dunwood_Spectral_Lost_2hSpear_TowerHM" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">HM Harpooner</string>
+	<string key="VC_Dunwood_Lost_Bloodbeast_TowerStar" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Star Bloodbeast</string>
+	<string key="VC_Dunwood_Lost_FeralGhoul_TowerStar" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Star Ghoul</string>
+	<string key="VC_Dunwood_Lost_MutatedNurse_TowerStar" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Star Caretaker</string>
+	<string key="VC_Dunwood_Undead_Naga_TowerStar" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Star Ire</string>
+	<string key="VC_Dunwood_Lost_SoulHarvester_TowerStar" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Star Soul Harvester</string>
+	<string key="VC_Dunwood_Ghastly_Villager_Shovel_TowerStar" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Star Tomb Raider</string>
+	<string key="VC_Dunwood_Ghastly_Sniper_TowerStar" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Star Sentry</string>
+	<string key="VC_Dunwood_Ghastly_Villager_Hatchet_TowerStar" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Star Axeman</string>
+	<string key="VC_Dunwood_Undead_Cryptkeeper_TowerStar" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Star Cryptkeeper</string>
+	<string key="VC_Dunwood_Undead_MummifiedCorpse_TowerStar" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Star Cursed Corpse</string>
+	<string key="VC_Dunwood_Spectral_Lost_1hSword_TowerStar" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Star Buccaneer</string>
+	<string key="VC_Dunwood_Spectral_Lost_2hAxe_TowerStar" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Star Executioner</string>
+	<string key="VC_Dunwood_Spectral_Lost_2hBlunderbuss_TowerStar" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Star Scattershot</string>
+	<string key="VC_Dunwood_Spectral_Lost_2hSpear_TowerStar" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Star Harpooner</string>
+	<string key="VC_TowerDevil" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Devil</string>
+	<string key="VC_TowerJudge" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Judgement</string>
+	<string key="VC_TowerHiero" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Hierophant</string>
+	<string key="VC_TowerSun" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Sun</string>
+	<string key="VC_TowerHermit" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Hermit</string>
+	<string key="VC_TowerHP" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">High Priestess</string>
+	<string key="VC_TowerJustice" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Justice</string>
+	<string key="VC_TowerHM" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">HM</string>
+	<string key="VC_TowerStar" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Star</string>
+	<string key="Dunwood_Boss_Tower_Named_10_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Named Boss</string>
+	<string key="VC_Upyr_Baroness_17DW07b" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Undercroft Baroness</string>
+	<string key="VC_Upyr_Consort_17DW07b" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Undercroft Consort</string>
+	<string key="VC_Upyr_Guardian_17DW07b" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Undercroft Guardian</string>
+	<string key="VC_Upyr_Mindthief_17DW07b" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Undercroft Mind Thief</string>
+	<string key="VC_Upyr_Shade_17DW07b" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Undercroft Shade</string>
+	<string key="VC_Upyr_Thrall_Aggressor_17DW07b" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Undercroft Aggressor</string>
+	<string key="VC_Upyr_Thrall_Grunt_17DW07b" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Undercroft Grunt</string>
+	<string key="VC_Upyr_Thrall_Meatbag_17DW07b" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Undercroft Thrall</string>
+	<string key="VC_Rat_PlagueRat_17DW07b" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Undercroft Rat</string>
+	<string key="VC_Rat_PlagueRat_17DW07a" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Cellar Rat</string>
+	<string key="VC_Upyr_Thrall_Grunt_17DW07a" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Cellar Grunt</string>
+	<string key="VC_Upyr_Baroness_17DW07c" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Castle Baroness</string>
+	<string key="VC_Upyr_Consort_17DW07c" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Castle Consort</string>
+	<string key="VC_Upyr_Guardian_17DW07c" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Castle Guardian</string>
+	<string key="VC_Upyr_Mindthief_17DW07c" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Castle Mind Thief</string>
+	<string key="VC_Upyr_Shade_17DW07c" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Castle Shade</string>
+	<string key="VC_Upyr_Thrall_Aggressor_17DW07c" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Castle Aggressor</string>
+	<string key="VC_Upyr_Thrall_Grunt_17DW07c" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Castle Grunt</string>
+	<string key="VC_Upyr_Thrall_Meatbag_17DW07c" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Castle Thrall</string>
+	<string key="VC_Rat_PlagueRat_17DW07c" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Castle Rat</string>
+	<string key="VC_17DW07a" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Cellar</string>
+	<string key="VC_17DW07b" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Undercroft</string>
+	<string key="VC_17DW07c" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Castle</string>
+	<string key="VC_Upyr_Thrall_Soul_Hunter_17DW07b" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Undercroft Soul Hunter</string>
+	<string key="VC_Upyr_Thrall_Soul_Hunter_17DW07c" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Castle Soul Hunter</string>
+	<string key="VC_Spider_17DW02_20331" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Servant of Uttu</string>
+	<string key="VC_Spider_Ranged_17DW02_20331" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Sentry of Uttu</string>
+	<string key="VC_Spider_Chosen_17DW02_20331" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Uttu's Chosen</string>
+	<string key="VC_Spider_Spiderling_17DW02_20331" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Child of Uttu</string>
+	<string key="VC_Spider_Ranged_Named_17DW02_20331" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Galrot</string>
+	<string key="VC_Spider_17DW02_20319" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Prismweaver</string>
+	<string key="VC_Spider_Spiderling_17DW02_20319" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Threadling</string>
+	<string key="VC_Spider_Poison_17DW02_20319" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Blightfang</string>
+	<string key="VC_Spider_Named_17DW02_20319" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Veilweaver</string>
+	<string key="VC_Spider_17DW08_10315" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Duskskitter</string>
+	<string key="VC_Spider_Spiderling_17DW08_10315" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Skitterling</string>
+	<string key="VC_Spider_Named_17DW08_10315" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Ninurta</string>
+	<string key="VC_Spider_17DW03_20210" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Absconder</string>
+	<string key="VC_Spider_17DW03_20213" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Necromauler</string>
+	<string key="VC_Spider_Ranged_17DW03_20213" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Direspitter</string>
+	<string key="VC_Spider_Spiderling_17DW03_20213" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Venomling</string>
+	<string key="VC_Spider_Named_17DW03_20213" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Tszazra</string>
+	<string key="VC_Spider_17DW03_20217" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Nightreaver</string>
+	<string key="VC_Spider_Ranged_17DW03_20217" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Umbral Spitter</string>
+	<string key="VC_Spider_Spiderling_17DW03_20217" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Shadowling</string>
+	<string key="VC_Spider_Named_17DW03_20217" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Sombra</string>
+	<string key="VC_Spider_Spiderling_17DW03_20210" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Dreadling</string>
+	<string key="VC_Spider_Named_17DW03_20210" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Aknat</string>
+	<string key="VC_Spider_17DW08_10301" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Hatchfright</string>
+	<string key="VC_Spider_Spiderling_17DW08_10301" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Chittershard</string>
+	<string key="VC_Spider_Creche_17DW08_10301" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Weavemother</string>
+	<string key="VC_Spider_Named_17DW08_10301" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Mira</string>
+	<string key="VC_Spider_Uttu_17DW02_20331" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Uttu</string>
+	<string key="VC_Spider_Ranged_17DW08_10315" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Shadow Spitter</string>
+	<string key="VC_Spider_Ranged_17DW03_20210" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Venomshade</string>
+	<string key="VC_Spider_Ranged_17DW08_10301" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Voidweaver</string>
+	<string key="Spider_Chosen_17DW02_20331_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Uttu's Chosen</string>
+	<string key="Spider_Ranged_17DW08_10315_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Shadow Spitter</string>
+	<string key="Spider_Ranged_17DW03_20210_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Venomshade</string>
+	<string key="Spider_Ranged_17DW08_10301_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Voidweaver</string>
+	<string key="Spider_Poison_17DW02_20319_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Blightfang</string>
+	<string key="Spider_Creche_17DW08_10301_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Weavemother</string>
+	<string key="Spider_Ranged_Named_17DW02_20331_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Galrot</string>
+	<string key="Spider_Named_17DW02_20319_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Veilweaver</string>
+	<string key="Spider_Named_17DW08_10315_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Ninurta</string>
+	<string key="Spider_Named_17DW03_20210_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Aknat</string>
+	<string key="Spider_Named_17DW08_10301_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Mira</string>
+	<string key="Spider_Uttu_17DW02_20331_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Uttu</string>
+	<string key="AngryEarth_Dryad_Archer_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Dryad Archer</string>
+	<string key="AngryEarth_Dryad_Prowler_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Dryad Prowler</string>
+	<string key="AngryEarth_Dryad_Shaman_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Dryad Shaman</string>
+	<string key="AngryEarth_Dryad_Soldier_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Dryad Soldier</string>
+	<string key="AngryEarth_Dryad_Tendril_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Dryad Tendril</string>
+	<string key="AncientGuardian_Javelineer_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Ancient Guardian Javelineer</string>
+	<string key="AncientGuardian_Mage_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Ancient Guardian Mage</string>
+	<string key="AncientGuardian_Mage_Minion_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Skeleton Minion</string>
+	<string key="AncientGuardian_Skeleton_1H_Sword_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Ancient Skeleton</string>
+	<string key="AncientGuardian_Skeleton_2H_Sword_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Ancient Skeleton</string>
+	<string key="AncientGuardian_Skeleton_Club_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Skeleton Clubber</string>
+	<string key="AnubianGuardian_Archer_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Anubian Guardian Archer</string>
+	<string key="AnubianGuardian_Brute_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Anubian Guardian Brute</string>
+	<string key="AnubianGuardian_Horus_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Anubian Guardian Horus</string>
+	<string key="AnubianGuardian_Reaver_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Anubian Guardian Reaver</string>
+	<string key="AnubianGuardian_Spearman_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Anubian Guardian Spearman</string>
+	<string key="Corrupted_Ogre_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Corrupted Ogre</string>
+	<string key="Corrupted_Tendril_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Corrupted Tendril</string>
+	<string key="CorruptedLegion_Legionnaire_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Corrupted Legionnaire</string>
+	<string key="Damned_1H_Swordsman_M-F_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Corrupted Mercenary</string>
+	<string key="Damned_Acolyte_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Corrupted Acolyte</string>
+	<string key="Damned_Acolyte_Mine_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Corruption Mine</string>
+	<string key="Damned_Bowman_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Corrupted Bowman</string>
+	<string key="Damned_Cultist_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Corrupted Cultist</string>
+	<string key="Damned_GreatAxeman_M-F_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Corrupted Legionnaire</string>
+	<string key="Dynasty_Maiden_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Corrupted Dynasty Maiden</string>
+	<string key="Dynasty_Spearman_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Corrupted Dynasty Spearman</string>
+	<string key="Dynasty_Summoner_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Corrupted Dynasty Summoner</string>
+	<string key="Dynasty_Warrior_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Corrupted Dynasty Warrior</string>
+	<string key="Hercyne_Boar_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Hercyne Boar</string>
+	<string key="Hercyne_Corvid_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Hercyne Corvid</string>
+	<string key="Hercyne_Elephant_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Hercyne Elephant</string>
+	<string key="Hercyne_Gorilla_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Hercyne Gorilla</string>
+	<string key="Hercyne_Spider_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Hercyne Spider</string>
+	<string key="Hercyne_Wolf_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Hercyne Wolf</string>
+	<string key="Wildlife_Armored_Dragon_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Armored Dragon</string>
+	<string key="Wildlife_Chameleon_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Chameleon</string>
+	<string key="Wildlife_Gorilla_Ice_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Ice Hurler</string>
+	<string key="Wildlife_Gorilla_Lava_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Flaming Fists</string>
+	<string key="Wildlife_Gorilla_Lightning_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Thunder Charger</string>
+	<string key="Wildlife_Mammoth_Ice_Catatcombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Ice Mammoth</string>
+	<string key="Wildlife_Mammoth_Lava_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Lava Mammoth</string>
+	<string key="Wildlife_Mammoth_Lightning_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Mammoth Lightning</string>
+	<string key="Wildlife_Mammoth_Nature_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Mammoth</string>
+	<string key="VC_AngryEarth_Dryad_Archer_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Dryad Archer</string>
+	<string key="VC_AngryEarth_Dryad_Prowler_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Dryad Prowler</string>
+	<string key="VC_AngryEarth_Dryad_Shaman_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Dryad Shaman</string>
+	<string key="VC_AngryEarth_Dryad_Soldier_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Dryad Soldier</string>
+	<string key="VC_AngryEarth_Dryad_Tendril_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Dryad Tendril</string>
+	<string key="VC_AncientGuardian_Javelineer_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Ancient Guardian Javelineer</string>
+	<string key="VC_AncientGuardian_Mage_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Ancient Guardian Mage</string>
+	<string key="VC_AncientGuardian_Mage_Minion_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Skeleton Minion</string>
+	<string key="VC_AncientGuardian_Skeleton_1H_Sword_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Ancient Skeleton</string>
+	<string key="VC_AncientGuardian_Skeleton_2H_Sword_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Ancient Skeleton</string>
+	<string key="VC_AncientGuardian_Skeleton_Club_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Skeleton Clubber</string>
+	<string key="VC_AnubianGuardian_Archer_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Anubian Guardian Archer</string>
+	<string key="VC_AnubianGuardian_Brute_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Anubian Guardian Brute</string>
+	<string key="VC_AnubianGuardian_Horus_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Anubian Guardian Horus</string>
+	<string key="VC_AnubianGuardian_Reaver_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Anubian Guardian Reaver</string>
+	<string key="VC_AnubianGuardian_Spearman_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Anubian Guardian Spearman</string>
+	<string key="VC_Corrupted_Ogre_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Corrupted Ogre</string>
+	<string key="VC_Corrupted_Tendril_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Corrupted Tendril</string>
+	<string key="VC_CorruptedLegion_Legionnaire_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Corrupted Legionnaire</string>
+	<string key="VC_Damned_1H_Swordsman_M-F_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Corrupted Mercenary</string>
+	<string key="VC_Damned_Acolyte_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Corrupted Acolyte</string>
+	<string key="VC_Damned_Acolyte_Mine_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Corruption Mine</string>
+	<string key="VC_Damned_Bowman_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Corrupted Bowman</string>
+	<string key="VC_Damned_Cultist_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Corrupted Cultist</string>
+	<string key="VC_Damned_GreatAxeman_M-F_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Corrupted Legionnaire</string>
+	<string key="VC_Dynasty_Maiden_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Corrupted Dynasty Maiden</string>
+	<string key="VC_Dynasty_Spearman_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Corrupted Dynasty Spearman</string>
+	<string key="VC_Dynasty_Summoner_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Corrupted Dynasty Summoner</string>
+	<string key="VC_Dynasty_Warrior_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Corrupted Dynasty Warrior</string>
+	<string key="VC_Hercyne_Boar_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Hercyne Boar</string>
+	<string key="VC_Hercyne_Corvid_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Hercyne Corvid</string>
+	<string key="VC_Hercyne_Elephant_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Hercyne Elephant</string>
+	<string key="VC_Hercyne_Gorilla_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Hercyne Gorilla</string>
+	<string key="VC_Hercyne_Spider_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Hercyne Spider</string>
+	<string key="VC_Hercyne_Wolf_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Hercyne Wolf</string>
+	<string key="VC_Wildlife_Armored_Dragon_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Armored Dragon</string>
+	<string key="VC_Wildlife_Chameleon_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Chameleon</string>
+	<string key="VC_Wildlife_Gorilla_Ice_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Ice Hurler</string>
+	<string key="VC_Wildlife_Gorilla_Lava_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Flaming Fists</string>
+	<string key="VC_Wildlife_Gorilla_Lightning_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Thunder Charger</string>
+	<string key="VC_Wildlife_Mammoth_Ice_Catatcombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Ice Mammoth</string>
+	<string key="VC_Wildlife_Mammoth_Lava_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Lava Mammoth</string>
+	<string key="VC_Wildlife_Mammoth_Lightning_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Mammoth Lightning</string>
+	<string key="VC_Wildlife_Mammoth_Nature_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Mammoth</string>
+	<string key="AngryEarth_Bear_Elemental_Catacombs_Named_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Dreadclaw</string>
+	<string key="AngryEarth_Dryad_Beast_Catacombs_Named_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Ashae</string>
+	<string key="AngryEarth_Swamp_Dryad_Beast_Catacombs_Named_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Ivis</string>
+	<string key="AngryEarth_Swamp_Dryad_Beast_Minion_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Unstable Swamp Fiend</string>
+	<string key="Corrupted_Bear_Catacombs_Named_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Honaw</string>
+	<string key="Corrupted_Heavy_Catacombs_Named_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Commander Petrus</string>
+	<string key="Dynasty_Heavy_Catacombs_Named_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Commander Hu</string>
+	<string key="Evil_Knight_Commander_Catacombs_Named_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Ser Dain</string>
+	<string key="Evil_Knight_Heavy_Catacombs_Named_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Ser Renaudin</string>
+	<string key="Wildlife_Werebear_Catacombs_Named_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Terror of the Night</string>
+	<string key="VC_AngryEarth_Bear_Elemental_Catacombs_Named" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Dreadclaw</string>
+	<string key="VC_AngryEarth_Dryad_Beast_Catacombs_Named" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Ashae</string>
+	<string key="VC_AngryEarth_Swamp_Dryad_Beast_Catacombs_Named" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Ivis</string>
+	<string key="VC_AngryEarth_Swamp_Dryad_Beast_Minion_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Unstable Swamp Fiend</string>
+	<string key="VC_Corrupted_Bear_Catacombs_Named" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Honaw</string>
+	<string key="VC_Corrupted_Heavy_Catacombs_Named" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Commander Petrus</string>
+	<string key="VC_Dynasty_Heavy_Catacombs_Named" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Commander Hu</string>
+	<string key="VC_Evil_Knight_Commander_Catacombs_Named" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Ser Dain</string>
+	<string key="VC_Evil_Knight_Heavy_Catacombs_Named" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Ser Renaudin</string>
+	<string key="VC_Wildlife_Werebear_Catacombs_Named" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Terror of the Night</string>
+	<string key="Wildlife_Wereraven_Catacombs_Named_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Deathcorvid</string>
+	<string key="Wildlife_Werewolf_Catacombs_Named_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Bloodfang</string>
+	<string key="AncientGuardian_Warhammer_Catacombs_IceVariant_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Ancient Elemental Crusher</string>
+	<string key="AncientGuardian_Spearman_Catacombs_IceVariant_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Ancient Elemental Defender</string>
+	<string key="AncientGuardian_Greatsword_Catacombs_IceVariant_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Ancient Elemental Commander</string>
+	<string key="Catacombs_Hazard_Flamethrower_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Gargoyle Flamethrower</string>
+	<string key="Catacombs_Hazard_Exploding_Mushroom_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Explosive Bulb</string>
+	<string key="Catacombs_Hazard_Fire_Pit_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Fire Pit</string>
+	<string key="Catacombs_Hazard_Steel_Trap_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Steel Trap</string>
+	<string key="Catacombs_Hazard_Axe_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Falling Axe</string>
+	<string key="Catacombs_Hazard_Debris_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Falling Debris</string>
+	<string key="Catacombs_Hazard_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Hazard</string>
+	<string key="Lost_Bloodbeast_Catacombs_Extraction_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Bloodbeast</string>
+	<string key="Lost_Cryptkeeper_Catacombs_Extraction_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Cryptkeeper</string>
+	<string key="Lost_MutatedNurse_Catacombs_Extraction_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Cursed Caretaker</string>
+	<string key="Upyr_Thrall_Meatbag_Green_Catacombs_Extraction_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Meatbag</string>
+	<string key="Upyr_Thrall_Soul_Hunter_Catacombs_Extraction_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Soul Hunter</string>
+	<string key="Lost_FeralGhoul_Catacombs_Extraction_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Feral Ghoul</string>
+	<string key="AncientGuardian_Bowman_Catacombs_IceVariant_VitalsName" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Ancient Elemental Archer</string>
+	<string key="VC_Wildlife_Wereraven_Catacombs_Named" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Deathcorvid</string>
+	<string key="VC_Wildlife_Werewolf_Catacombs_Named" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Bloodfang</string>
+	<string key="VC_AncientGuardian_Warhammer_Catacombs_IceVariant" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Ancient Elemental Crusher</string>
+	<string key="VC_AncientGuardian_Spearman_Catacombs_IceVariant" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Ancient Elemental Defender</string>
+	<string key="VC_AncientGuardian_Greatsword_Catacombs_IceVariant" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Ancient Elemental Commander</string>
+	<string key="Spider_Wildlife_T2_Named_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">The Eightfold Bride</string>
+	<string key="Spider_Wildlife_Ranged_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Web Spitter</string>
+	<string key="Spider_Wildlife_Melee_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Spider</string>
+	<string key="Spider_Wildlife_T1_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Spiderling</string>
+	<string key="Spider_Wildlife_Baby_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Spiderling</string>
+	<string key="VC_Spider_Wildlife_T2_Named_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">The Eightfold Bride</string>
+	<string key="VC_Spider_Wildlife_Ranged_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Web Spitter</string>
+	<string key="VC_Spider_Wildlife_Melee_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Spider</string>
+	<string key="VC_Spider_Wildlife_T1_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Spiderling</string>
+	<string key="VC_Spider_Wildlife_Baby_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Spiderling</string>
+	<string key="VC_AncientGuardian_Bowman_Catacombs_IceVariant" rel_version="Feature_Catacombs">Ancient Elemental Archer</string>
+	<string key="VC_Wildlife_Werewolf_Madmaw_Named" speaker="Vitals Sheet" rel_version="Territory_Dunwood">The Maddest of Maws</string>
+	<string key="Werewolf_Madmaw_Rabid" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Rabid Madmaw</string>
 	<string key="Upyr_10221a" speaker="Vitals Sheet">UnderstoneUpyr 1</string>
 	<string key="Dunwood_Lost_SoulHarvester_10221" speaker="Vitals Sheet">UnderstoneUpyr 4</string>
 	<string key="Upyr_10221b" speaker="Vitals Sheet">UnderstoneUpyr 2</string>
@@ -15703,6 +16395,455 @@
 	<string key="VC_WereBear_20211" speaker="VitalsCategory Sheet">Sorrowthorn Bear</string>
 	<string key="VC_Wereraven_20211" speaker="VitalsCategory Sheet">Sorrowthorn Raven</string>
 	<string key="VC_Werewolf_20211" speaker="VitalsCategory Sheet">Sorrowthorn Wolf</string>
+	<string key="Gimmick_LightningPylon_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Energy Pylon</string>
+	<string key="Werewolf_Named_17DW06_10205_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Branik Grimstride</string>
+	<string key="Werewolf_Lord_17DW06_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Asena</string>
+	<string key="Werewolf_17DW06_10205_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Varlaam Werewolf Invader</string>
+	<string key="Rat_PlagueRat_17DW06_10205_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Varlaam Rat</string>
+	<string key="Rat_PlagueRat_Baby_17DW06_10205_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Varlaam Juvenile Rat</string>
+	<string key="Werewolf_Wave_17DW06_10205_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Werewolf Saboteur</string>
+	<string key="VC_Gimmick_LightningPylon" rel_version="Territory_Dunwood">Energy Pylon</string>
+	<string key="VC_Werewolf_Named_17DW06_10205" rel_version="Territory_Dunwood">Branik Grimstride</string>
+	<string key="VC_Werewolf_Lord_17DW06" rel_version="Territory_Dunwood">Asena</string>
+	<string key="VC_Werewolf_17DW06_10205" rel_version="Territory_Dunwood">Varlaam Werewolf Invader</string>
+	<string key="VC_Rat_PlagueRat_17DW06_10205" rel_version="Territory_Dunwood">Varlaam Rat</string>
+	<string key="VC_Rat_PlagueRat_Baby_17DW06_10205" rel_version="Territory_Dunwood">Varlaam Juvenile Rat</string>
+	<string key="VC_Werewolf_Wave_17DW06_10205" rel_version="Territory_Dunwood">Werewolf Saboteur</string>
+	<string key="VC_Upyr_Shade_Named_17DW08_10312" rel_version="Territory_Dunwood">Supreme Architect We-ila</string>
+	<string key="VC_Ancient_Amalgam_17DW08_10312" rel_version="Territory_Dunwood">Ancient Construct</string>
+	<string key="VC_Ancient_Amalgam_17DW08_10311" rel_version="Territory_Dunwood">Ancient Construct</string>
+	<string key="VC_Upyr_Thrall_Meatbag_17DW02_10222" rel_version="Territory_Dunwood">Báthory Thrall</string>
+	<string key="VC_Upyr_Thrall_Meatbag02_17DW02_10222" rel_version="Territory_Dunwood">Báthory Thrall</string>
+	<string key="VC_Upyr_Thrall_Grunt_17DW02_10222" rel_version="Territory_Dunwood">Báthory Grunt</string>
+	<string key="VC_Upyr_Thrall_Aggressor_17DW02_10222" rel_version="Territory_Dunwood">Báthory Thrall Aggressor</string>
+	<string key="VC_Upyr_Guardian_Named_17DW02_10222" rel_version="Territory_Dunwood">Lord Darius Báthory</string>
+	<string key="VC_Upyr_Consort_Named_17DW02_10219" rel_version="Territory_Dunwood">Vizier Thalassa Carmilla</string>
+	<string key="VC_Upyr_Thrall_Meatbag_17DW02_10219" rel_version="Territory_Dunwood">Carmilla Meatbag</string>
+	<string key="VC_Upyr_Thrall_Grunt_17DW02_10219" rel_version="Territory_Dunwood">Carmilla Grunt</string>
+	<string key="VC_Upyr_Thrall_Aggressor_17DW02_10219" rel_version="Territory_Dunwood">Carmilla Aggressor</string>
+	<string key="VC_Upyr_Mindthief_17DW02_10219" rel_version="Territory_Dunwood">Carmilla Mindthief</string>
+	<string key="VC_Rat_PlagueRat_17DW02_10219" rel_version="Territory_Dunwood">Adult Rat</string>
+	<string key="VC_Rat_PlagueRat_Baby_17DW02_10219" rel_version="Territory_Dunwood">Juvenile Rat</string>
+	<string key="VC_Upyr_Shade_Named_17DW02_10218" rel_version="Territory_Dunwood">Velatrix Avernath, Master Librarian</string>
+	<string key="VC_Upyr_Consort_17DW02_10218" rel_version="Territory_Dunwood">Mind Manipulator</string>
+	<string key="VC_Upyr_Mindthief_17DW02_10218" rel_version="Territory_Dunwood">Memory Redactor</string>
+	<string key="VC_Upyr_Guardian_17DW02_10218" rel_version="Territory_Dunwood">Codex Guardian</string>
+	<string key="VC_Upyr_Thrall_Meatbag_17DW02_10218" rel_version="Territory_Dunwood">Thrall Meatbag</string>
+	<string key="VC_Upyr_Thrall_Grunt_17DW02_10218" rel_version="Territory_Dunwood">Thrall Grunt</string>
+	<string key="VC_Upyr_Thrall_Aggressor_17DW02_10218" rel_version="Territory_Dunwood">Thrall Aggressor</string>
+	<string key="VC_Upyr_Baroness_Named_17DW07_10303" rel_version="Territory_Dunwood">Baroness Mircea of Dracul</string>
+	<string key="VC_Upyr_Shade_17DW07_10303" rel_version="Territory_Dunwood">Shade of Dracul</string>
+	<string key="VC_Upyr_Consort_17DW07_10303" rel_version="Territory_Dunwood">Consort of Dracul</string>
+	<string key="VC_Upyr_Mindthief_17DW07_10303" rel_version="Territory_Dunwood">Mindthief of Dracul</string>
+	<string key="VC_Upyr_Guardian_17DW07_10303" rel_version="Territory_Dunwood">Guardian of Dracul</string>
+	<string key="VC_Upyr_Thrall_Meatbag_17DW07_10303" rel_version="Territory_Dunwood">Thrall Meatbag of Dracul</string>
+	<string key="VC_Upyr_Thrall_Grunt_17DW07_10303" rel_version="Territory_Dunwood">Thrall Grunt of Dracul</string>
+	<string key="VC_Upyr_Thrall_Aggressor_17DW07_10303" rel_version="Territory_Dunwood">Thrall Aggressor of Dracul</string>
+	<string key="VC_Rat_PlagueRat_Named_17DW02_10222" rel_version="Territory_Dunwood">Vermin King the Broodfather</string>
+	<string key="VC_Upyr_Thrall_Aggressor_Named_17DW02_10222" rel_version="Territory_Dunwood">The Screaming Rackmaster</string>
+	<string key="VC_Upyr_Mindthief_Named_17DW07_10303" rel_version="Territory_Dunwood">Archduke Menadion, the Ebon Harvester</string>
+	<string key="VC_Ancient_Amalgam_Named_17DW08_10312" rel_version="Territory_Dunwood">Pyraxis the Sun-Tempered</string>
+	<string key="VC_Ancient_Amalgam_Named_17DW08_10311" rel_version="Territory_Dunwood">Orrukon</string>
+	<string key="VC_AncientGuardian_17DW08_10312" rel_version="Territory_Dunwood">Crypt Guardian</string>
+	<string key="VC_AncientGuardian_17DW08_10311" rel_version="Territory_Dunwood">Crypt Guardian</string>
+	<string key="VC_Rat_PlagueRat_17DW02_10218" rel_version="Territory_Dunwood">Library Minion</string>
+	<string key="Upyr_Shade_Named_17DW08_10312_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Supreme Architect We-ila</string>
+	<string key="Ancient_Amalgam_17DW08_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Ancient Construct</string>
+	<string key="Ancient_Amalgam_17DW08_10312_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Ancient Construct</string>
+	<string key="Ancient_Amalgam_17DW08_10311_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Ancient Construct</string>
+	<string key="Upyr_Thrall_Meatbag_17DW02_10222_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Báthory Thrall</string>
+	<string key="Upyr_Thrall_Grunt_17DW02_10222_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Báthory Grunt</string>
+	<string key="Upyr_Thrall_Aggressor_17DW02_10222_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Báthory Thrall Aggressor</string>
+	<string key="Upyr_Guardian_Named_17DW02_10222_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Lord Darius Báthory</string>
+	<string key="Upyr_Consort_Named_17DW02_10219_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Vizier Thalassa Carmilla</string>
+	<string key="Upyr_Thrall_Meatbag_17DW02_10219_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Carmilla Meatbag</string>
+	<string key="Upyr_Thrall_Grunt_17DW02_10219_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Carmilla Grunt</string>
+	<string key="Upyr_Thrall_Aggressor_17DW02_10219_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Carmilla Aggressor</string>
+	<string key="Upyr_Mindthief_17DW02_10219_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Carmilla Mindthief</string>
+	<string key="Rat_PlagueRat_17DW02_10219_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Adult Rat</string>
+	<string key="Rat_PlagueRat_Baby_17DW02_10219_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Juvenile Rat</string>
+	<string key="Upyr_Shade_Named_17DW02_10218_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Velatrix Avernath, Master Librarian</string>
+	<string key="Upyr_Consort_17DW02_10218_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Memory Manipulator</string>
+	<string key="Upyr_Mindthief_17DW02_10218_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Memory Thief</string>
+	<string key="Upyr_Guardian_17DW02_10218_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Codex Guardian</string>
+	<string key="Upyr_Thrall_Meatbag_17DW02_10218_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Thrall Meatbag</string>
+	<string key="Upyr_Thrall_Grunt_17DW02_10218_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Thrall Grunt</string>
+	<string key="Upyr_Thrall_Aggressor_17DW02_10218_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Thrall Aggressor</string>
+	<string key="Upyr_Baroness_Named_17DW07_10303_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Baroness Mircea of Dracul</string>
+	<string key="Upyr_Shade_17DW07_10303_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Shade of Dracul</string>
+	<string key="Upyr_Consort_17DW07_10303_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Consort of Dracul</string>
+	<string key="Upyr_Mindthief_17DW07_10303_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Mindthief of Dracul</string>
+	<string key="Upyr_Guardian_17DW07_10303_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Guardian of Dracul</string>
+	<string key="Upyr_Thrall_Meatbag_17DW07_10303_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Thrall Meatbag of Dracul</string>
+	<string key="Upyr_Thrall_Grunt_17DW07_10303_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Thrall Grunt of Dracul</string>
+	<string key="Upyr_Thrall_Aggressor_17DW07_10303_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Thrall Aggressor of Dracul</string>
+	<string key="Rat_PlagueRat_Named_17DW02_10222_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Vermin King the Broodfather</string>
+	<string key="Upyr_Thrall_Aggressor_Named_17DW02_10222_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">The Screaming Rackmaster</string>
+	<string key="Upyr_Mindthief_Named_17DW07_10303_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Archduke Menadion, the Ebon Harvester</string>
+	<string key="Ancient_Amalgam_Named_17DW08_10312_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Pyraxis the Sun-Tempered</string>
+	<string key="Ancient_Amalgam_Named_17DW08_10311_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Orrukon the Moon-Tempered</string>
+	<string key="AncientGuardian_17DW08_10312_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Crypt Guardian</string>
+	<string key="AncientGuardian_17DW08_10311_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Crypt Guardian</string>
+	<string key="Rat_PlagueRat_17DW02_10218_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Library Minion</string>
+	<string key="VC_Upyr_Thrall_Aggressor_Wave_17DW08_10312" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Thrall Attacker</string>
+	<string key="Upyr_Thrall_Aggressor_Wave_17DW08_10312_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Thrall Attacker</string>
+	<string key="VC_AncientGuardian_Wave_17DW08_10312" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">We-ila's Minion</string>
+	<string key="AncientGuardian_Wave_17DW08_10312_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">We-ila's Minion</string>
+	<string key="VC_Werewolf" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Werewolf</string>
+	<string key="VC_Werewolf_Rabid" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Rabid Werewolf</string>
+	<string key="VC_Werebear_Rabid" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Rabid Werebear</string>
+	<string key="Wereraven_Caster_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Wereraven Caster</string>
+	<string key="Wereraven_Alpha_Named_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Loxias the Crooked</string>
+	<string key="Upyr_Mindthief_Named_10220_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Count Cyril Cronewell</string>
+	<string key="Upyr_10220a_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Cronewell Bloodbeast</string>
+	<string key="VC_Werewolf_Rabid_20216" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Diseased Werewolf</string>
+	<string key="VC_Werebear_Rabid_20216" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Cursed Werebear</string>
+	<string key="VC_Werebear_Crusher_Named_20216" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">The Jailer</string>
+	<string key="Rat_PlagueRat_20216_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Doomed Rat</string>
+	<string key="VC_Gimmick_AncientPylon" rel_version="Territory_Dunwood">Ancient Pylon</string>
+	<string key="VC_Gimmick_AncientBattery" rel_version="Territory_Dunwood">Ancient Battery</string>
+	<string key="Gimmick_AncientPylon_VitalsName" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Ancient Pylon</string>
+	<string key="Gimmick_AncientBattery_VitalsName" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Ancient Battery</string>
+	<string key="Werebear_Crusher_Named_20211" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Usra Major</string>
+	<string key="Werebear_Named_20211" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Ursa Minor</string>
+	<string key="Wereraven_Caster_Named_20211" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Maximumus Magpie the Militant</string>
+	<string key="Wereraven_20216" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Wyler the Wise</string>
+	<string key="Werebear_Crusher_Named_20216" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Ursa Maximus</string>
+	<string key="Swarmmancer_Named_20216" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Medea's Final Form</string>
+	<string key="Wererat_Named_20211" speaker="Vitals Sheet" rel_version="Territory_Dunwood">The Assassin Prince</string>
+	<string key="Werewolf_Named_20211" speaker="Vitals Sheet" rel_version="Territory_Dunwood">The General</string>
+	<string key="Upyr_Feral_20216" speaker="Vitals Sheet" rel_version="Territory_Dunwood">The Students</string>
+	<string key="Upyr_Feral_20216_Named" speaker="Vitals Sheet" rel_version="Territory_Dunwood">The Proctor</string>
+	<string key="Trial_Quest_Seraphim_Boss_Blind_Seraph_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">The Blind Seraph</string>
+	<string key="Trial_Quest_Seraphim_Boss_Mute_Seraph_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">The Mute Seraph</string>
+	<string key="Trial_Quest_Seraphim_Boss_Breathless_Seraph_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">The Breathless Seraph</string>
+	<string key="Trial_Quest_Seraphim_Boss_Heartless_Seraph_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">The Heartless Seraph</string>
+	<string key="Trial_Quest_Seraphim_Minion_Cleric_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Monastic Cleric</string>
+	<string key="Trial_Quest_Seraphim_Minion_Entity_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Profane Vessel</string>
+	<string key="Trial_Quest_Seraphim_Minion_Flamekeeper_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Monastic Flame-keeper</string>
+	<string key="Trial_Quest_Seraphim_Minion_Tendril_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Profane Thorn</string>
+	<string key="Trial_Quest_Dracula_Boss_Alecksi_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Alecksi the Dracul</string>
+	<string key="Trial_Quest_Dracula_Minion_Meatbag_Light_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Memory of Failure</string>
+	<string key="Trial_Quest_Dracula_Minion_Meatbag_Medium_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Memory of Dread</string>
+	<string key="Trial_Quest_Dracula_Minion_Meatbag_Heavy_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Memory of Pain</string>
+	<string key="Trial_Quest_Dracula_Boss_Cecilia_Shadow_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Cecilia the Dracul</string>
+	<string key="Trial_Quest_Dracula_Cecilia_Shield_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Cecilia's Will</string>
+	<string key="Trial_Quest_Dracula_Cecilia_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Cecilia</string>
+	<string key="Trial_Quest_Dracula_Lillith_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Lilith</string>
+	<string key="VC_Trial_Quest_Seraphim_Boss_Blind_Seraph" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">The Blind Seraph</string>
+	<string key="VC_Trial_Quest_Seraphim_Boss_Mute_Seraph" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">The Mute Seraph</string>
+	<string key="VC_Trial_Quest_Seraphim_Boss_Breathless_Seraph" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">The Breathless Seraph</string>
+	<string key="VC_Trial_Quest_Seraphim_Boss_Heartless_Seraph" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">The Heartless Seraph</string>
+	<string key="DefendAlly_VarlaamDevice_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Lunar Shield Device</string>
 	<string key="SiegeWeaponLarge_AllyBossBar_VitalsName" speaker="Vitals Sheet">Ally Boss Bar</string>
+	<string key="Skeleton_1H_Club_Underworld_Catacombs_65_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Risen Dead</string>
+	<string key="Skeleton_1H_Sword_Underworld_Catacombs_65_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Risen Dead</string>
+	<string key="Skeleton_2H_Sword_Underworld_Catacombs_65_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Risen Dead</string>
+	<string key="Skeleton_Crawler_Underworld_65_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Risen Dead</string>
+	<string key="Skeleton_Archer_Underworld_65_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Risen Dead</string>
+	<string key="Evil_Knight_Caster_Elite_Overlord_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">The Arcanist</string>
+	<string key="VC_Evil_Knight_Caster_Elite_Overlord" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">The Arcanist</string>
+	<string key="Evil_Knight_Sustain_Elite_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Arcanist's Chosen</string>
+	<string key="VC_Evil_Knight_Sustain_Elite" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Arcanist's Chosen</string>
+	<string key="Upyr_Mindthief_Named_17DW02_10219_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Vayla Schenk</string>
+	<string key="VC_Upyr_Mindthief_Named_17DW02_10219" rel_version="Territory_Dunwood">Vayla Schenk</string>
+	<string key="AncientGuardian_Named_17DW08_10311_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Crypt Sentinel</string>
+	<string key="VC_AncientGuardian_Named_17DW08_10311" rel_version="Territory_Dunwood">Crypt Sentinel</string>
+	<string key="VC_Gimmick_Ranged" rel_version="Territory_Dunwood">Ranged Target</string>
+	<string key="VC_Gimmick_Strike" rel_version="Territory_Dunwood">Strike Target</string>
+	<string key="VC_Gimmick_Thrust" rel_version="Territory_Dunwood">Thrust Target</string>
+	<string key="VC_Gimmick_Slash" rel_version="Territory_Dunwood">Slash Target</string>
+	<string key="Gimmick_Ranged_VitalsName" rel_version="Territory_Dunwood">Ranged Target</string>
+	<string key="Gimmick_Strike_VitalsName" rel_version="Territory_Dunwood">Strike Target</string>
+	<string key="Gimmick_Thrust_VitalsName" rel_version="Territory_Dunwood">Thrust Target</string>
+	<string key="Gimmick_Slash_VitalsName" rel_version="Territory_Dunwood">Slash Target</string>
+	<string key="Werebear_Named_20211_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">The Maddest of Maws</string>
+	<string key="Werewolf_20211_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Festing Hound</string>
+	<string key="VC_Corruption_Shadowclone_Entity_10223" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Mnemonic Entity</string>
+	<string key="VC_Corruption_Shadowclone_Heavy_10223" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Mnemonic Heavy</string>
+	<string key="VC_Corruption_Shadowclone_Impaler_10223" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Mnemonic Impaler</string>
+	<string key="VC_Corruption_Shadowclone_Swarmer_10223" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Mnemonic Swarmer</string>
+	<string key="VC_Pirate_Shadowclone_Sword_10304" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Mnemonic Swordsman</string>
+	<string key="VC_Pirate_Shadowclone_Spear_10304" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Mnemonic Spearman</string>
+	<string key="VC_Pirate_Shadowclone_Greataxe_10304" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Mnemonic Executioner</string>
+	<string key="VC_Pirate_Shadowclone_Warhammer_10304" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Mnemonic Crusher</string>
+	<string key="VC_Pirate_Shadowclone_Grenadier_10304" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Mnemonic Grenadier</string>
+	<string key="VC_Pirate_Shadowclone_BloatedCorpse_10304" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Mnemonic Porter</string>
+	<string key="VC_Pirate_Shadowclone_Blunderbuss_10304" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Mnemonic Blunderbuss</string>
+	<string key="VC_10223" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Tower of the Devil</string>
+	<string key="VC_10304" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Tower of Justice</string>
+	<string key="Upyr_Mindthief_Minion_17DW02_10219_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Vayla Schenk</string>
+	<string key="VC_Upyr_Mindthief_Minion_17DW02_10219" rel_version="Territory_Dunwood">Vayla Schenk</string>
+	<string key="VC_Upyr" rel_version="Territory_Dunwood">Upyr</string>
+	<string key="VC_Inquisitor" rel_version="Territory_Dunwood">Inquisitor</string>
+	<string key="VC_Inquisitor_Seraphim" rel_version="Territory_Dunwood">Inquisitor Seraphim</string>
+	<string key="VC_Inquisitor_Seraphim_Named_00" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">The Fifth Seraphim</string>
+	<string key="Upyr_Thrall_Meatbag_Green_Minion_VitalsName" rel_version="Territory_Dunwood">Upyr Thrall Green Meatbag</string>
+	<string key="Upyr_Thrall_Meatbag_Purple_Minion_VitalsName" rel_version="Territory_Dunwood">Upyr Thrall Purple Meatbag</string>
+	<string key="Upyr_Thrall_Meatbag_Red_Minion_VitalsName" rel_version="Territory_Dunwood">Upyr Thrall Red Meatbag</string>
+	<string key="Upyr_Thrall_Grunt_Minion_VitalsName" rel_version="Territory_Dunwood">Upyr Thrall Grunt</string>
+	<string key="VC_Dryad_Shadowclone_Fiend_20220" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Mnemonic Fiend</string>
+	<string key="VC_Dryad_Shadowclone_Prowler_20220" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Mnemonic Prowler</string>
+	<string key="VC_Dryad_Shadowclone_RazorBloom_20220" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Mnemonic Razor Bloom</string>
+	<string key="VC_Dryad_Shadowclone_Shaman_20220" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Mnemonic Shaman</string>
+	<string key="VC_Dryad_Shadowclone_Soldier_20220" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Mnemonic Soldier</string>
+	<string key="VC_Dryad_Shadowclone_SwampArcher_20220" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Mnemonic Archer</string>
+	<string key="VC_Dryad_Shadowclone_SwampSoldier_20220" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Mnemonic Soldier</string>
+	<string key="VC_20220" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Tower of the High Priestess</string>
+	<string key="VC_Anubian_Shadowclone_Archer_10306" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Mnemonic Archer</string>
+	<string key="VC_Anubian_Shadowclone_Brute_10306" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Mnemonic Brute</string>
+	<string key="VC_Anubian_Shadowclone_Horus_10306" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Mnemonic Horus</string>
+	<string key="VC_Anubian_Shadowclone_Reaver_10306" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Mnemonic Reaver</string>
+	<string key="VC_Anubian_Shadowclone_Scarab_10306" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Mnemonic Scarab</string>
+	<string key="VC_Anubian_Shadowclone_Spearman_10306" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Mnemonic Spearman</string>
+	<string key="VC_10306" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Tower of the Sun</string>
+	<string key="VC_EvilKnight_Shadowclone_Bow_20338" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Mnemonic Archer</string>
+	<string key="VC_EvilKnight_Shadowclone_Caster_20338" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Mnemonic Caster</string>
+	<string key="VC_EvilKnight_Shadowclone_Commander_20338" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Mnemonic Commander</string>
+	<string key="VC_EvilKnight_Shadowclone_GreatAxe_20338" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Mnemonic Axeman</string>
+	<string key="VC_EvilKnight_Shadowclone_Heavy_20338" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Mnemonic Heavy</string>
+	<string key="VC_EvilKnight_Shadowclone_Lifestaff_20338" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Mnemonic Healer</string>
+	<string key="VC_EvilKnight_Shadowclone_Mace_20338" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Mnemonic Guardian</string>
+	<string key="VC_EvilKnight_Shadowclone_Spear_20338" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Mnemonic Spearman</string>
+	<string key="VC_EvilKnight_Shadowclone_Sword_20338" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Mnemonic Swordsman</string>
+	<string key="VC_EvilKnight_Shadowclone_WarHammer_20338" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Mnemonic Crusher</string>
+	<string key="VC_EvilKnight_Shadowclone_Wolf_20338" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Mnemonic Hound</string>
+	<string key="VC_20338" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Tower of the Hierophant</string>
+	<string key="Upyr_Consort_Named_17DW08_10312_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Lord Rathan the Raiser</string>
+	<string key="VC_Upyr_Consort_Named_17DW08_10312" rel_version="Territory_Dunwood">Lord Rathan the Raiser</string>
+	<string key="gimmick_normal_vitalsname" rel_version="Territory_Dunwood">TEST ONLY</string>
+	<string key="Upyr_Thrall_Meatbag_Minion_10303_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Dracul Meatbag Minion</string>
+	<string key="Ancient_Gargoyle_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Grotesque Sentinel</string>
+	<string key="Ancient_Gargoyle_Fodder_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Impish Grotesque</string>
+	<string key="Spider_Melee_ELITE_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Arachne's Hoplite</string>
+	<string key="Spider_Ranged_ELITE_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Arachne's Volleyer</string>
+	<string key="Spider_Boss_ELITE_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Arachne, The Forgotten</string>
+	<string key="VC_IceAncient_Shadowclone_Spearman_10305" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Mnemonic Spearman</string>
+	<string key="VC_IceAncient_Shadowclone_Warhammer_10305" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Mnemonic Crusher</string>
+	<string key="VC_IceAncient_Shadowclone_Bow_10305" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Mnemonic Archer</string>
+	<string key="VC_IceAncient_Shadowclone_Greatsword_10305" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Mnemonic Swordsman</string>
+	<string key="VC_IceDryad_Shadowclone_Fiend_10305" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Mnemonic Fiend</string>
+	<string key="VC_IceDryad_Shadowclone_Frostfang_10305" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Mnemonic Frostfang</string>
+	<string key="VC_IceDryad_Shadowclone_Frostgrip_10305" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Mnemonic Frostfang</string>
+	<string key="VC_10305" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Tower of the Star</string>
+	<string key="VC_Ghost_Shadowclone_Starved_20305" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Mnemonic Faminegeist</string>
+	<string key="VC_Ghost_Shadowclone_Shipwrecked_20305" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Mnemonic Bolt</string>
+	<string key="VC_Ghost_Shadowclone_Plagued_20305" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Mnemonic Plaguegeist</string>
+	<string key="VC_Ghost_Shadowclone_Charred_20305" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Mnemonic Fire</string>
+	<string key="VC_Ghost_Shadowclone_Frozen_20305" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Mnemonic Ice</string>
+	<string key="VC_20305" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Tower of the Moon</string>
+	<string key="VC_Risen_Shadowclone_Whole_20214" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Mnemonic Bruiser</string>
+	<string key="VC_Risen_Shadowclone_OneArm_20214" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Mnemonic Flailer</string>
+	<string key="VC_Risen_Shadowclone_Regurgitator_20214" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Mnemonic Regurgitatot</string>
+	<string key="VC_Risen_Shadowclone_Beetle_20214" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Mnemonic Beetle</string>
+	<string key="VC_Risen_Shadowclone_Brute_20214" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Mnemonic Brute</string>
+	<string key="VC_20214" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Tower of the Hermit</string>
+	<string key="VC_Catacombs_Boss" speaker="Vitals Category Sheet" rel_version="Feature_Catacombs">Catacombs Boss</string>
+	<string key="VC_Dunwood_Baby_Rat" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Young Ratling</string>
+	<string key="VC_Dunwood_Chicken" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Chicken</string>
+	<string key="VC_Dunwood_Gargoyle" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Great Grotesque</string>
+	<string key="VC_Dunwood_Gargoyle_Small" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Impish Grotesque</string>
+	<string key="VC_Dunwood_BlackGoat" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Goat</string>
+	<string key="VC_Dunwood_WhiteFox" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">White Fox</string>
+	<string key="VC_Lost_Undead_Naga_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Headless Ire</string>
+	<string key="Lost_Naga_Catacombs_Named_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Headless Ire</string>
+	<string key="VC_Wildlife_Werebear_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Werebear Crusher</string>
+	<string key="VC_Wildlife_Wereraven_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Wereraven Caster</string>
+	<string key="VC_Wildlife_Werewolf_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Werewolf</string>
+	<string key="VC_Rat_Small_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Rat</string>
+	<string key="VC_Rat_Small_Golden_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Gold Rat</string>
+	<string key="VC_Rat_Named_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Harmless Vermin</string>
+	<string key="VC_Loot_Goblin_Catacombs" speaker="VitalsCategory Sheet" rel_version="Feature_Catacombs">Crowned Rafflebones</string>
+	<string key="Wildlife_Werebear_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Werebear Crusher</string>
+	<string key="Wildlife_Wereraven_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Wereraven Caster</string>
+	<string key="Wildlife_Werewolf_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Werewolf</string>
+	<string key="Rat_Small_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Rat</string>
+	<string key="Rat_Small_Golden_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Gold Rat</string>
+	<string key="Rat_Named_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Harmless Vermin</string>
+	<string key="Loot_Goblin_Catacombs_VitalsName" speaker="Vitals Sheet" rel_version="Feature_Catacombs">Crowned Rafflebones</string>
+	<string key="Underworld_Hercyne_Elephant_Named_Elite_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Tacere, the Decayed Protector</string>
+	<string key="Underworld_Inquisitor_Warden_Named_Elite_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Suflete, The Souless General</string>
+	<string key="Underworld_Inquisitor_Enforcer_Named_Elite_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Suferi, The Souless General</string>
+	<string key="Underworld_Lost_SoulHarvester_Named_Elite_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Fantoma, the First Child</string>
+	<string key="Underworld_Dynasty_Heavy_Named_Elite_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Mortii, the Unseen Demon</string>
+	<string key="Underworld_Undead_Naga_Named_Elite_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Cosmar, the Drowned Seer</string>
+	<string key="Underworld_Spriggan_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Terra Guardian</string>
+	<string key="Underworld_Spriggan_Elite_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Terra Guardian</string>
+	<string key="Underworld_Dryad_Tendril_Elite_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Terra Tendril</string>
+	<string key="Underworld_Feculent_Elite_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Terra Feculent</string>
+	<string key="Underworld_Feculent_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Terra Feculent</string>
+	<string key="Underworld_Skeleton_2H_Sword_Named_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Swordmaster Azel</string>
+	<string key="Underworld_Skeleton_Dark_1H_Club_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Unknown Terror</string>
+	<string key="Underworld_Skeleton_Dark_2H_Sword_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Unknown Terror</string>
+	<string key="Underworld_Skeleton_Dark_Crawler_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Unknown Terror</string>
+	<string key="Underworld_Skeleton_1H_Club_Elite_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Risen Dead</string>
+	<string key="Underworld_Skeleton_1H_Sword_Elite_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Risen Dead</string>
+	<string key="Underworld_Skeleton_2H_Sword_Elite_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Risen Dead</string>
+	<string key="Underworld_Skeleton_Archer_Elite_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Risen Dead</string>
+	<string key="Underworld_Skeleton_Crawler_Elite_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Risen Dead</string>
+	<string key="Underworld_Spider_T2_Named_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Goliath Jr</string>
+	<string key="Underworld_Spider_T1_Elite_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Spiderling</string>
+	<string key="Underworld_Spider_Melee_Elite_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Spider</string>
+	<string key="Underworld_Spider_Ranged_Elite_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Web Spitter Spider</string>
+	<string key="Underworld_Spider_T2_Elite_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Nightmare Spider</string>
+	<string key="Underworld_Spider_Baby_Elite_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Spiderling</string>
+	<string key="Underworld_FeralGhoul_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Drowner</string>
+	<string key="Underworld_FeralGhoul_Elite_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Submara Drowner</string>
+	<string key="Underworld_Cryptkeeper_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Fantoma Cryptkeeper</string>
+	<string key="Underworld_Cryptkeeper_Elite_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Fantoma Cryptkeeper</string>
+	<string key="Underworld_MutatedNurse_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Fantoma Caretaker</string>
+	<string key="Underworld_MutatedNurse_Elite_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Fantoma Caretaker</string>
+	<string key="Underworld_Armored_Dragon_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Aquoris Drake</string>
+	<string key="Underworld_Armored_Dragon_Elite_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Submara Drake</string>
+	<string key="VC_Underworld_Hercyne_Elephant_Named_Elite" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Tacere, the Decayed Protector</string>
+	<string key="VC_Underworld_Inquisitor_Warden_Named_Elite" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Suflete, The Souless General</string>
+	<string key="VC_Underworld_Inquisitor_Enforcer_Named_Elite" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Suferi, The Souless General</string>
+	<string key="VC_Underworld_Lost_SoulHarvester_Named_Elite" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Fantoma, the First Child</string>
+	<string key="VC_Underworld_Dynasty_Heavy_Named_Elite" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Mortii, the Unseen Demon</string>
+	<string key="VC_Underworld_Undead_Naga_Named_Elite" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Cosmar, the Drowned Seer</string>
+	<string key="VC_Underworld_Spriggan" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Terra Guardian</string>
+	<string key="VC_Underworld_Spriggan_Elite" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Terra Guardian</string>
+	<string key="VC_Underworld_Dryad_Tendril_Elite" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Terra Tendril</string>
+	<string key="VC_Underworld_Feculent" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Terra Feculent</string>
+	<string key="VC_Underworld_Feculent_Elite" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Terra Feculent</string>
+	<string key="VC_Skeleton_1H_Club_Underworld_Catacombs_65" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Risen Dead</string>
+	<string key="VC_Skeleton_1H_Sword_Underworld_Catacombs_65" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Risen Dead</string>
+	<string key="VC_Skeleton_2H_Sword_Underworld_Catacombs_65" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Risen Dead</string>
+	<string key="VC_Skeleton_Archer_Underworld_65" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Risen Dead</string>
+	<string key="VC_Skeleton_Crawler_Underworld_65" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Risen Dead</string>
+	<string key="VC_Underworld_Skeleton_2H_Sword_Named" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Swordmaster Azel</string>
+	<string key="VC_Underworld_Skeleton_1H_Club_Elite" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Risen Dead</string>
+	<string key="VC_Underworld_Skeleton_1H_Sword_Elite" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Risen Dead</string>
+	<string key="VC_Underworld_Skeleton_2H_Sword_Elite" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Risen Dead</string>
+	<string key="VC_Underworld_Skeleton_Archer_Elite" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Risen Dead</string>
+	<string key="VC_Underworld_Skeleton_Crawler_Elite" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Risen Dead</string>
+	<string key="VC_Underworld_Spider_T2_Named" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Goliath Jr</string>
+	<string key="VC_Underworld_Spider_T1_Elite" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Spiderling</string>
+	<string key="VC_Underworld_Spider_Melee_Elite" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Spider</string>
+	<string key="VC_Underworld_Spider_Ranged_Elite" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Web Spitter Spider</string>
+	<string key="VC_Underworld_Spider_T2_Elite" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Nightmare Spider</string>
+	<string key="VC_Underworld_Spider_Baby_Elite" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Spiderling</string>
+	<string key="VC_Underworld_FeralGhoul" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Drowner</string>
+	<string key="VC_Underworld_FeralGhoul_Elite" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Submara Drowner</string>
+	<string key="VC_Underworld_Cryptkeeper" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Subterra Cryptkeeper</string>
+	<string key="VC_Underworld_Cryptkeeper_Elite" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Fantoma Cryptkeeper</string>
+	<string key="VC_Underworld_MutatedNurse" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Subterra Caretaker</string>
+	<string key="VC_Underworld_MutatedNurse_Elite" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Fantoma Caretaker</string>
+	<string key="VC_Underworld_Armored_Dragon" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Aquoris Drake</string>
+	<string key="VC_Underworld_Armored_Dragon_Elite" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Submara Drake</string>
+	<string key="Dunwood_Lost_Bloodbeast_Elite_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Bloodbeast</string>
+	<string key="Dunwood_Lost_FeralGhoul_Elite_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Ghoul</string>
+	<string key="Dunwood_Lost_MutatedNurse_Elite_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Undead Nurse</string>
+	<string key="Dunwood_Undead_Naga_Elite_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Undead Naga</string>
+	<string key="Dunwood_Lost_SoulHarvester_Elite_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Soul Harvester</string>
+	<string key="Dunwood_Ghastly_Villager_Shovel_Elite_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Villager</string>
+	<string key="Dunwood_Ghastly_Sniper_Elite_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Villager</string>
+	<string key="Dunwood_Ghastly_Villager_Hatchet_Elite_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Villager</string>
+	<string key="Dunwood_Undead_Cryptkeeper_Elite_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Cryptkeeper</string>
+	<string key="Naga_Withered_Named_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Helina</string>
+	<string key="VC_Dunwood_Lost_Bloodbeast_10314" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Luminated Bloodbeast</string>
+	<string key="VC_Dunwood_Lost_FeralGhoul_10314" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Luminated Ghoul</string>
+	<string key="VC_Dunwood_Lost_MutatedNurse_10314" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Luminated Nurse</string>
+	<string key="VC_Dunwood_Undead_Naga_10314" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Luminated Naga</string>
+	<string key="VC_Dunwood_Lost_SoulHarvester_10314" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Luminated Soul Harvester</string>
+	<string key="VC_Dunwood_Ghastly_Villager_Shovel_10314" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Luminated Villager</string>
+	<string key="VC_Dunwood_Ghastly_Sniper_10314" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Luminated Sniper</string>
+	<string key="VC_Dunwood_Ghastly_Villager_Hatchet_10314" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Luminated Villager</string>
+	<string key="VC_Dunwood_Undead_Cryptkeeper_10314" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Luminated Cryptkeeper</string>
+	<string key="VC_Ghost_Charred_10314" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Luminated Pyre</string>
+	<string key="VC_Ghost_Starved_10314" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Luminated Faminegeist</string>
+	<string key="VC_10314" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Luminated</string>
+	<string key="VC_Inquisitor_Cleric_10331" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Imperial Cleric</string>
+	<string key="VC_Inquisitor_Enforcer_10331" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Imperial Enforcer</string>
+	<string key="VC_Inquisitor_Flamekeeper_10331" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Imperial Flamekeeper</string>
+	<string key="VC_Inquisitor_Markswoman_10331" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Imperial Markswoman</string>
+	<string key="VC_Inquisitor_Warden_10331" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Imperial Warden</string>
+	<string key="VC_Inquisitor_Seraphim_10331" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Imperial Seraphim</string>
+	<string key="VC_Inquisitor_Grunt_10331" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Imperial Grunt</string>
+	<string key="VC_Inquisitor_Bomber_10331" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Imperial Bomber</string>
+	<string key="VC_10331" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Imperial</string>
+	<string key="VC_Dunwood_Boss_Tower_Named_00" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Memory of The Tempest</string>
+	<string key="VC_Dunwood_Boss_Tower_Named_01" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Memory of The Tax-Collector</string>
+	<string key="VC_Dunwood_Boss_Tower_Named_02" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Memory of Anpu</string>
+	<string key="VC_Dunwood_Boss_Tower_Named_03" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Memory of Heru</string>
+	<string key="VC_Dunwood_Boss_Tower_Named_04" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Memory of Artemis</string>
+	<string key="VC_Dunwood_Boss_Tower_Named_05" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Memory of Foreman Nakashima</string>
+	<string key="VC_Dunwood_Boss_Tower_Named_06" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Memory of Faceless</string>
+	<string key="VC_Dunwood_Boss_Tower_Named_07" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Memory of Yonas</string>
+	<string key="VC_Dunwood_Boss_Tower_Named_08" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Memory of Winter</string>
+	<string key="VC_Upyr_Consort_Named_17DW02_10222" rel_version="Territory_Dunwood">Lord Báthory</string>
+	<string key="VC_Upyr_Baroness_Named_17DW02_10219" rel_version="Territory_Dunwood">Lady Carmilla</string>
+	<string key="VC_Upyr_Baroness_Catacombs">Upyr Baroness</string>
+	<string key="VC_Upyr_Consort_Catacombs">Upyr Consort</string>
+	<string key="VC_Upyr_Guardian_Catacombs">Upyr Guardian</string>
+	<string key="VC_Upyr_Mindthief_Catacombs">Upyr Mindthief</string>
+	<string key="VC_Upyr_Shade_Catacombs">Upyr Shade</string>
+	<string key="VC_Upyr_Thrall_Grunt_Catacombs">Upyr Thrall Grunt</string>
+	<string key="VC_Upyr_Thrall_Soul_Hunter_Catacombs">Upyr Thrall Soul Hunter</string>
+	<string key="VC_Upyr_Thrall_Aggressor_Catacombs">Upyr Thrall Aggressor</string>
+	<string key="VC_Inquisitor_Seraphim_Catacombs">Inquisitor Seraphim</string>
+	<string key="VC_Fox" rel_version="Territory_Dunwood">Fox</string>
+	<string key="VC_EliteHercyneReindeerNamed" rel_version="Territory_Dunwood">The Leshi</string>
+	<string key="VC_ElitePumpkiniteNamed" rel_version="Territory_Dunwood">Pumpkinhead</string>
+	<string key="VC_EliteWereRavenNamed" rel_version="Territory_Dunwood">Perun of Old</string>
+	<string key="VC_WhiteWereRaven" rel_version="Territory_Dunwood">Arctic Wereraven</string>
+	<string key="VC_WhiteWereBear" rel_version="Territory_Dunwood">Polar Werebear</string>
+	<string key="VC_WhiteWereWolf" rel_version="Territory_Dunwood">Arctic Werewolf</string>
+	<string key="VC_WhiteRavenNamed" rel_version="Territory_Dunwood">Omen the Betrayed</string>
+	<string key="VC_BlackGoatNamed" rel_version="Territory_Dunwood">Black Phillip</string>
+	<string key="VC_EliteWereBearNamed" rel_version="Territory_Dunwood">Winnie the Forsaken</string>
+	<string key="VC_WhiteBearNamed" rel_version="Territory_Dunwood">Ursa's Last Forgebender</string>
+	<string key="VC_Rat_10201" rel_version="Territory_Dunwood">Castle Rat</string>
+	<string key="VC_Dunwood_BlackAlphaWolf" rel_version="Territory_Dunwood">Dire Wolf</string>
+	<string key="VC_Dunwood_Reindeer" rel_version="Territory_Dunwood">Reindeer</string>
+	<string key="VC_Dunwood_OrdealofSpider_Melee" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Arachne's Hoplite</string>
+	<string key="VC_Dunwood_OrdealofSpider_Ranged" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Arachne's Volleyer</string>
+	<string key="VC_Dunwood_OrdealofSpider_T2" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Arachne's Chosen</string>
+	<string key="VC_Dunwood_OrdealofSpider_Named" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Arachne, The Forgotten</string>
+	<string key="VC_Dunwood_VarlaamLibrary_Thrall_Meatbag" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Archive Thrall Meatbag</string>
+	<string key="VC_Dunwood_VarlaamLibrary_Baroness" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Archive Baroness</string>
+	<string key="VC_Dunwood_VarlaamLibrary_Mind_Thief" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Archive Mind Thief</string>
+	<string key="VC_Dunwood_VarlaamLibrary_Guardian" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Archive Guardian</string>
+	<string key="VC_Dunwood_VarlaamLibrary_Consort" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Archive Consort</string>
+	<string key="VC_Dunwood_VarlaamLibrary_ShackledGhost" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Dream Shackled Spectre</string>
+	<string key="VC_Dunwood_VarlaamLibrary_ShackledGhost_Named" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Sister of Dreams</string>
+	<string key="VC_Dunwood_Wildlife_Area01_Reindeer" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Tularest Reindeer</string>
+	<string key="VC_Dunwood_Wildlife_Area01_Fox" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Tularest Fox</string>
+	<string key="VC_Dunwood_Wildlife_Area01_Rabbit" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Tularest Hare</string>
+	<string key="VC_Dunwood_Wildlife_Area01_Wolf" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Tularest Wolf</string>
+	<string key="VC_Dunwood_Wildlife_Area02_Reindeer" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Court Reindeer</string>
+	<string key="VC_Dunwood_Wildlife_Area02_Fox" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Court Fox</string>
+	<string key="VC_Dunwood_Wildlife_Area02_Rabbit" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Court Hare</string>
+	<string key="VC_Dunwood_Wildlife_Area02_Wolf" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Court Wolf</string>
+	<string key="VC_Dunwood_Wildlife_Area03_Reindeer" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Sorrowthorn Reindeer</string>
+	<string key="VC_Dunwood_Wildlife_Area03_Fox" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Sorrowthorn Fox</string>
+	<string key="VC_Dunwood_Wildlife_Area03_Rabbit" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Sorrowthorn Hare</string>
+	<string key="VC_Dunwood_Wildlife_Area03_Wolf" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Sorrowthorn Wolf</string>
+	<string key="VC_Dunwood_Wildlife_Area04_Reindeer" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Algarot Reindeer</string>
+	<string key="VC_Dunwood_Wildlife_Area04_Fox" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Algarot Fox</string>
+	<string key="VC_Dunwood_Wildlife_Area04_Rabbit" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Algarot Hare</string>
+	<string key="VC_Dunwood_Wildlife_Area04_Wolf" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Algarot Wolf</string>
+	<string key="VC_Dunwood_Wildlife_Area05_Reindeer" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Cliffside Reindeer</string>
+	<string key="VC_Dunwood_Wildlife_Area05_Fox" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Cliffside Fox</string>
+	<string key="VC_Dunwood_Wildlife_Area05_Rabbit" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Cliffside Hare</string>
+	<string key="VC_Dunwood_Wildlife_Area05_Wolf" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Cliffside Wolf</string>
+	<string key="VC_Dunwood_Wildlife_Area06_Reindeer" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Pentacle Reindeer</string>
+	<string key="VC_Dunwood_Wildlife_Area06_Fox" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Pentacle Fox</string>
+	<string key="VC_Dunwood_Wildlife_Area06_Rabbit" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Pentacle Hare</string>
+	<string key="VC_Dunwood_Wildlife_Area06_Wolf" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Pentacle Wolf</string>
+	<string key="VC_Dunwood_Wildlife_Area07_Reindeer" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Durevos Reindeer</string>
+	<string key="VC_Dunwood_Wildlife_Area07_Fox" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Durevos Fox</string>
+	<string key="VC_Dunwood_Wildlife_Area07_Rabbit" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Durevos Hare</string>
+	<string key="VC_Dunwood_Wildlife_Area07_Wolf" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Durevos Wolf</string>
+	<string key="VC_Dunwood_Wildlife_Area08_Reindeer" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Manorlands Reindeer</string>
+	<string key="VC_Dunwood_Wildlife_Area08_Fox" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Manorlands Fox</string>
+	<string key="VC_Dunwood_Wildlife_Area08_Rabbit" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Manorlands Hare</string>
+	<string key="VC_Dunwood_Wildlife_Area08_Wolf" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Manorlands Wolf</string>
+	<string key="VC_Dunwood_Wildlife_Area09_Reindeer" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Highmarch Reindeer</string>
+	<string key="VC_Dunwood_Wildlife_Area09_Fox" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Highmarch Fox</string>
+	<string key="VC_Dunwood_Wildlife_Area09_Rabbit" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Highmarch Hare</string>
+	<string key="VC_Dunwood_Wildlife_Area09_Wolf" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Highmarch Wolf</string>
+	<string key="VC_WhiteRavenNamed_ELITE" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Skydagger</string>
+	<string key="VC_Wereraven_Caster_Named_20216" speaker="VitalsCategory Sheet" rel_version="Territory_Dunwood">Ejnar Larssen</string>
 </resources>
 

@@ -163,5 +163,15 @@
 	<string key="ui_area_ebonscalereach_6">Serenity Rise</string>
 	<string key="ui_area_ebonscalereach_7">Skysong Lagoon</string>
 	<string key="ui_area_ebonscalereach_8">Dynasty Landing</string>
+	<string key="ui_area_dunwood_1" rel_version="Territory_Dunwood">Tularest</string>
+	<string key="ui_area_dunwood_2" rel_version="Territory_Dunwood">Lower Houses</string>
+	<string key="ui_area_dunwood_3" rel_version="Territory_Dunwood">The Dunwood</string>
+	<string key="ui_area_dunwood_4" rel_version="Territory_Dunwood">Mount Algarot</string>
+	<string key="ui_area_dunwood_5" rel_version="Territory_Dunwood">Widow's Cliff</string>
+	<string key="ui_area_dunwood_6" rel_version="Territory_Dunwood">Pentacle Rock</string>
+	<string key="ui_area_dunwood_7" rel_version="Territory_Dunwood">City-State of Durevos</string>
+	<string key="ui_area_dunwood_8" rel_version="Territory_Dunwood">The Manorlands</string>
+	<string key="ui_area_dunwood_9" rel_version="Territory_Dunwood">The Deadlands</string>
+	<string key="ui_area_dunwood_10" rel_version="Territory_Dunwood">Highmarch</string>
 </resources>
 

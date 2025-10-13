@@ -1,0 +1,139 @@
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="NPC_18065_name" rel_version="Territory_Dunwood">Vibiana</string>
+	<string key="NPC_18065_title" rel_version="Territory_Dunwood">Grivaros Citizen</string>
+	<string key="NPC_18066_name" rel_version="Territory_Dunwood">Anthanasius Peseme</string>
+	<string key="NPC_18066_title" rel_version="Territory_Dunwood">Chef de Cuisine</string>
+	<string key="NPC_18067_name" rel_version="Territory_Dunwood">Anthanasius Peseme</string>
+	<string key="NPC_18067_title" rel_version="Territory_Dunwood">Chef de Cuisine</string>
+	<string key="NPC_20003_name" rel_version="Territory_Dunwood">Prospero</string>
+	<string key="NPC_20003_title" rel_version="Territory_Dunwood">Antiquarian?</string>
+	<string key="NPC_20004_name" rel_version="Territory_Dunwood">Mihail</string>
+	<string key="NPC_20004_title" rel_version="Territory_Dunwood">Servant of House Bathory</string>
+	<string key="NPC_20005_name" rel_version="Territory_Dunwood">Saratha Moor</string>
+	<string key="NPC_20005_title" rel_version="Territory_Dunwood">Marauder Commander</string>
+	<string key="NPC_20006_name" rel_version="Territory_Dunwood">Medi Thomasina</string>
+	<string key="NPC_20006_title" rel_version="Territory_Dunwood">Syndicate Alchemist</string>
+	<string key="NPC_20007_name" rel_version="Territory_Dunwood">Alexandre Foleaus</string>
+	<string key="NPC_20007_title" rel_version="Territory_Dunwood">Covenant Adjudicator</string>
+	<string key="NPC_20008_name" rel_version="Territory_Dunwood">Rupert Fisker</string>
+	<string key="NPC_20008_title" rel_version="Territory_Dunwood">Tularest Innkeep</string>
+	<string key="NPC_20009_name">Dupert Fisker</string>
+	<string key="NPC_20009_title">Grand Carnival Innkeep</string>
+	<string key="NPC_28013_name" rel_version="Territory_Dunwood">Jessik</string>
+	<string key="NPC_28013_title" rel_version="Territory_Dunwood">Gravehoarder</string>
+	<string key="NPC_28014_name" rel_version="Territory_Dunwood">Triste</string>
+	<string key="NPC_28014_title" rel_version="Territory_Dunwood">:)</string>
+	<string key="NPC_42001_name" rel_version="Territory_Dunwood">Eliza Ellingwood</string>
+	<string key="NPC_42001_title" rel_version="Territory_Dunwood">Haunted Historian</string>
+	<string key="NPC_42002_name" rel_version="Territory_Dunwood">Arumesh</string>
+	<string key="NPC_42002_title" rel_version="Territory_Dunwood">Shattered King</string>
+	<string key="NPC_61000_name" rel_version="Territory_Dunwood">Mads Larssen</string>
+	<string key="NPC_61000_title" rel_version="Territory_Dunwood">Plague Doctor</string>
+	<string key="Quest_18033_Task_1_Description" rel_version="Territory_Dunwood">Collect Protective Garlic Charms from werewolves</string>
+	<string key="Quest_18033_description" rel_version="Territory_Dunwood" speaker="UI - Quest Description">When the berlaur tore through Grivaros, they stole a number of Protective Garlic Charms that the townsfolk would like back. Recover the charms from the berlaur and return them to Vibiana.</string>
+	<string key="Quest_18033_title" rel_version="Territory_Dunwood" speaker="UI - Quest Title">Garlic for Protection</string>
+	<string key="Quest_18034_Task_1_Description" rel_version="Territory_Dunwood">Collect {itemName}s from rats</string>
+	<string key="Quest_18034_Task_2_Description" rel_version="Territory_Dunwood">Bring the Rat Tongues to Chef Anthanasius Peseme</string>
+	<string key="Quest_18034_Task_3_Description" rel_version="Territory_Dunwood">Place Rat Tongue Hors d&apos;oeuvres on the tables</string>
+	<string key="Quest_18034_description" rel_version="Territory_Dunwood" speaker="UI - Quest Description">Chef de Cuisine Anthanasius Peseme has run out of hors d&apos;oeuvres for the party. He requires rat tongues to make more dishes to fill out the tables, or his head will be the one to roll.</string>
+	<string key="Quest_18034_title" rel_version="Territory_Dunwood" speaker="UI - Quest Title">Rat Tongue Hors d&apos;oeuvres</string>
+	<string key="Quest_20003_Task_1_Description" rel_version="Territory_Dunwood">Proceed deeper into House Bathory</string>
+	<string key="Quest_20003_Task_3_Description" rel_version="Territory_Dunwood">Defeat Bathory Thralls</string>
+	<string key="Quest_20003_Task_4_Description" rel_version="Territory_Dunwood">Complete the Encounter &quot;House of Bathory&quot;</string>
+	<string key="Quest_20003_description" rel_version="Territory_Dunwood" speaker="UI - Quest Description">Help Mihail avenge his fallen friends by defeating enthralled upyr and freeing afflicted servants from the machinations of Lord Bathory.</string>
+	<string key="Quest_20003_title" rel_version="Territory_Dunwood" speaker="UI - Quest Title">Enthralled</string>
+	<string key="Quest_20004_Task_1_Description" rel_version="Territory_Dunwood">Venture to the Hall of the South King</string>
+	<string key="Quest_20004_Task_3_Description" rel_version="Territory_Dunwood">Put the crypt guardians &quot;to rest&quot;</string>
+	<string key="Quest_20004_Task_4_Description" rel_version="Territory_Dunwood">Take it all in</string>
+	<string key="Quest_20004_Task_5_Description" rel_version="Territory_Dunwood">Defeat Count Vladislav of Dracul</string>
+	<string key="Quest_20004_Task_7_Description" rel_version="Territory_Dunwood">&quot;Respectfully reclaim&quot; the &quot;lost treasure&quot; from chests</string>
+	<string key="Quest_20004_description" rel_version="Territory_Dunwood" speaker="UI - Quest Description">Enter the Hall of the South King and acquire ethically sourced treasure for Prospero.</string>
+	<string key="Quest_20004_title" rel_version="Territory_Dunwood" speaker="UI - Quest Title">Ethical Excavation</string>
+	<string key="Quest_28006_Task_37_Description" rel_version="Territory_Dunwood"/>
+	<string key="Quest_28008_Task_10_Description" rel_version="Territory_Dunwood">|     \____/      |</string>
+	<string key="Quest_28008_Task_11_Description" rel_version="Territory_Dunwood">Pick up the Old Magic remnant</string>
+	<string key="Quest_28008_Task_12_Description" rel_version="Territory_Dunwood">|    (  )      (  )    |</string>
+	<string key="Quest_28008_Task_13_Description" rel_version="Territory_Dunwood">]         /   \         [</string>
+	<string key="Quest_28008_Task_14_Description" rel_version="Territory_Dunwood">]       (   o   )      [</string>
+	<string key="Quest_28008_Task_15_Description" rel_version="Territory_Dunwood">\__)   ||   (__/</string>
+	<string key="Quest_28008_Task_16_Description" rel_version="Territory_Dunwood">Descend into the Court and meet with the Grand Carnival Envoys</string>
+	<string key="Quest_28008_Task_17_Description" rel_version="Territory_Dunwood">|   XXX    XXX   |</string>
+	<string key="Quest_28008_Task_18_Description" rel_version="Territory_Dunwood">]         /   \         [</string>
+	<string key="Quest_28008_Task_19_Description" rel_version="Territory_Dunwood">]       (   o   )      [</string>
+	<string key="Quest_28008_Task_1_Description" rel_version="Territory_Dunwood">Go to Bunnyvale Burrows to sign a truce with Rabbit King</string>
+	<string key="Quest_28008_Task_20_Description" rel_version="Territory_Dunwood">\__) XXX (__/</string>
+	<string key="Quest_28008_Task_25_Description" rel_version="Territory_Dunwood">/-----|        |-----\</string>
+	<string key="Quest_28008_Task_26_Description" rel_version="Territory_Dunwood">|    \\\__///     |</string>
+	<string key="Quest_28008_Task_27_Description" rel_version="Territory_Dunwood">|   XXX    XXX   |</string>
+	<string key="Quest_28008_Task_28_Description" rel_version="Territory_Dunwood">]         /   \         [</string>
+	<string key="Quest_28008_Task_29_Description" rel_version="Territory_Dunwood">]      XXXXX      [</string>
+	<string key="Quest_28008_Task_2_Description" rel_version="Territory_Dunwood">Unpet the Fluffed Fluffybun Retainers</string>
+	<string key="Quest_28008_Task_30_Description" rel_version="Territory_Dunwood">\__) XXX (__/</string>
+	<string key="Quest_28008_Task_31_Description" rel_version="Territory_Dunwood">/     \\\__///     \</string>
+	<string key="Quest_28008_Task_32_Description" rel_version="Territory_Dunwood">|                       |</string>
+	<string key="Quest_28008_Task_33_Description" rel_version="Territory_Dunwood">|   XXX    XXX   |</string>
+	<string key="Quest_28008_Task_34_Description" rel_version="Territory_Dunwood">]                        [</string>
+	<string key="Quest_28008_Task_35_Description" rel_version="Territory_Dunwood">]    XXXXXXX    [</string>
+	<string key="Quest_28008_Task_36_Description" rel_version="Territory_Dunwood">\__ XXXXX __/</string>
+	<string key="Quest_28008_Task_37_Description" rel_version="Territory_Dunwood">/  XXX     XXX   \</string>
+	<string key="Quest_28008_Task_38_Description" rel_version="Territory_Dunwood">|   XXX     XXX   |</string>
+	<string key="Quest_28008_Task_39_Description" rel_version="Territory_Dunwood">|                         |</string>
+	<string key="Quest_28008_Task_3_Description" rel_version="Territory_Dunwood">Go to The Forlorn Mausoleum</string>
+	<string key="Quest_28008_Task_3_Description_0" rel_version="Territory_Dunwood">Unpet the Majestic Rabbit King III, First of His Cotton Tail</string>
+	<string key="Quest_28008_Task_40_Description" rel_version="Territory_Dunwood">] XXXXXXXXXXX [</string>
+	<string key="Quest_28008_Task_41_Description" rel_version="Territory_Dunwood">]    XXXXXXXXX   [</string>
+	<string key="Quest_28008_Task_42_Description" rel_version="Territory_Dunwood">\_  XXXXXXX  _/</string>
+	<string key="Quest_28008_Task_43_Description" rel_version="Territory_Dunwood">Did you restore the treaty? I will SEND YOU A SMILE</string>
+	<string key="Quest_28008_Task_4_Description" rel_version="Territory_Dunwood">Unpet the Softly Tumblebun Guards</string>
+	<string key="Quest_28008_Task_6_Description" rel_version="Territory_Dunwood">/-----|        |-----\</string>
+	<string key="Quest_28008_Task_7_Description" rel_version="Territory_Dunwood">|     \____/      |</string>
+	<string key="Quest_28008_Task_9_Description" rel_version="Territory_Dunwood">/-----|        |-----\</string>
+	<string key="Quest_28008_description" rel_version="Territory_Dunwood" speaker="UI - Quest Description">Help the creepy doll regain its acceptance among the Grand Carnival and return to its true home.</string>
+	<string key="Quest_28008_title" rel_version="Territory_Dunwood" speaker="UI - Quest Title">A Special Friend</string>
+	<string key="Quest_28009_Task_10_Description" rel_version="Territory_Dunwood">Dig up as much Gravedirt as your pockets can carry</string>
+	<string key="Quest_28009_Task_1_Description" rel_version="Territory_Dunwood">Go to Qeberu Boneyard and explore the graveyard</string>
+	<string key="Quest_28009_Task_3_Description" rel_version="Territory_Dunwood">Defeat the Ireful Dead to banish their restless souls</string>
+	<string key="Quest_28009_Task_4_Description" rel_version="Territory_Dunwood">Plunder the Graves of precious offerings</string>
+	<string key="Quest_28009_Task_5_Description" rel_version="Territory_Dunwood">Break into the Ornate Mausoleum</string>
+	<string key="Quest_28009_Task_6_Description" rel_version="Territory_Dunwood">Steal the Inscrutable Map</string>
+	<string key="Quest_28009_Task_7_Description" rel_version="Territory_Dunwood">Enter the Ornate Mausoleum</string>
+	<string key="Quest_28009_description" rel_version="Territory_Dunwood" speaker="UI - Quest Description">The overworked graverobber is asking for help, and potentially seeking a partner-in-victimless-crimes.</string>
+	<string key="Quest_28009_title" rel_version="Territory_Dunwood" speaker="UI - Quest Title">Graveduggery</string>
+	<string key="Quest_42000_Task_0_Description" rel_version="Territory_Dunwood"/>
+	<string key="Quest_42000_Task_1_Description" rel_version="Territory_Dunwood">Memory Fragments collected</string>
+	<string key="Quest_42000_Task_2_Description" rel_version="Territory_Dunwood">Find 25 Memory Fragments</string>
+	<string key="Quest_42000_description" rel_version="Territory_Dunwood" speaker="UI - Quest Description">Eliza Ellingwood, a strange and cryptic historian, has asked me to help look for soul trapped within special statues thoughout Nighthaven. She says that doing so will help &apos;restore the lost one,&apos; but even she doesn&apos;t seem to know exactly what she means.</string>
+	<string key="Quest_42000_title" rel_version="Territory_Dunwood" speaker="UI - Quest Title">Silent Sentries</string>
+	<string key="Quest_42001_Task_0_Description" rel_version="Territory_Dunwood"/>
+	<string key="Quest_42001_Task_1_Description" rel_version="Territory_Dunwood">Memory Fragments collected</string>
+	<string key="Quest_42001_Task_2_Description" rel_version="Territory_Dunwood">Find 50 Memory Fragments</string>
+	<string key="Quest_42001_description" rel_version="Territory_Dunwood" speaker="UI - Quest Description">Eliza has asked me to continue to collect more of the soul fragments. As before, she cannot specifiy where they all are, only that they are spread throughout Nighthaven.</string>
+	<string key="Quest_42001_title" rel_version="Territory_Dunwood" speaker="UI - Quest Title">Parts of the Whole</string>
+	<string key="Quest_42002_Task_0_Description" rel_version="Territory_Dunwood"/>
+	<string key="Quest_42002_Task_1_Description" rel_version="Territory_Dunwood">Memory Fragments Collected</string>
+	<string key="Quest_42002_Task_2_Description" rel_version="Territory_Dunwood">Return to Eliza</string>
+	<string key="Quest_42002_Task_3_Description" rel_version="Territory_Dunwood">Find the Shattered Soul</string>
+	<string key="Quest_42002_Task_4_Description" rel_version="Territory_Dunwood">Collect the remaining Memory Fragments</string>
+	<string key="Quest_42002_Task_5_Description" rel_version="Territory_Dunwood">Return the Memory Fragments</string>
+	<string key="Quest_42002_description" rel_version="Territory_Dunwood" speaker="UI - Quest Description">Eliza says the voice is becoming more clear as I collect more of the fragments, and has asked that I continue to do so. She says I should contuinue to look in the hidden places around Nighthaven for more of the statues.</string>
+	<string key="Quest_42002_title" rel_version="Territory_Dunwood" speaker="UI - Quest Title">Shattered Soul</string>
+	<string key="Quest_61000_Task_0_Description" rel_version="Territory_Dunwood"/>
+	<string key="Quest_61000_Task_48_0_0_Description">Locate Ejnar&apos;s notebook</string>
+	<string key="Quest_61000_Task_48_0_Description">Search chests for Ejnar&apos;s rucksack</string>
+	<string key="Quest_61000_Task_48_Description" rel_version="Territory_Dunwood">Learn where Ejnar has gone</string>
+	<string key="Quest_61000_Task_49_Description" rel_version="Territory_Dunwood">Eliminate the Boss bear</string>
+	<string key="Quest_61000_Task_50_Description" rel_version="Territory_Dunwood">Follow Ejnar&apos;s trail</string>
+	<string key="Quest_61000_Task_51_Description" rel_version="Territory_Dunwood">Find evidence of Ejnar&apos;s presence</string>
+	<string key="Quest_61000_Task_52_Description" rel_version="Territory_Dunwood">Follow Ejnar to Madmaw Furrow and search for clues as to what happened to him</string>
+	<string key="Quest_61000_Task_53_Description" rel_version="Territory_Dunwood"/>
+	<string key="Quest_61000_description" rel_version="Territory_Dunwood" speaker="UI - Quest Description">The Occult scientist Mads Larssen has employed you to search for his apprentice, Ejnar. The boy was last seen heading to investigate the outbreak of rabid were beasts at Madmaw Furrow</string>
+	<string key="Quest_61000_title" rel_version="Territory_Dunwood" speaker="UI - Quest Title">A Madness in the Maw</string>
+	<string key="Quest_61001_Task_48_0_0_Description">Learn Ejnar&apos;s fate</string>
+	<string key="Quest_61001_Task_48_0_Description">Find more information on the quarantine</string>
+	<string key="Quest_61001_Task_48_Description" rel_version="Territory_Dunwood">Find signs of Ejnar&apos;s presence</string>
+	<string key="Quest_61001_Task_51_Description" rel_version="Territory_Dunwood">Defeat Rabid Werewolves</string>
+	<string key="Quest_61001_Task_52_Description" rel_version="Territory_Dunwood">Follow Ejnar to Piatra Antica and search for him</string>
+	<string key="Quest_61001_description" rel_version="Territory_Dunwood" speaker="UI - Quest Description">Doctor Larssen&apos;s apprentice Ejmar has taken it upon himself to mkae a containment facility for the infected were beasts at Piatra Antica but he has not returned. Go to the ruined castle and search for signs of the lad. Eliminate any rabid werebeasts you find.</string>
+	<string key="Quest_61001_title" rel_version="Territory_Dunwood" speaker="UI - Quest Title">Containment Strategies</string>
+</resources>
+
