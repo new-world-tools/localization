@@ -243,5 +243,7 @@
 	<string key="cr_tradeskillbonus_basecraft">Base</string>
 	<string key="cr_tradeskillbonus_description">You get an extra trade skill XP bonus for crafting a recipe for the first time.</string>
 	<string key="crafting_salvage_all">Salvage All</string>
+	<string key="ReekwaterShopT1_MasterName" rel_version="Territory_Reekwater_Uplevel">Soulwarden Armory</string>
+	<string key="ReekwaterShopT1_Description" rel_version="Territory_Reekwater_Uplevel">Cobbled together from Ancient sources, the Soulwardens made this armory to craft quality gear and resources from Soulmarks.</string>
 </resources>
 

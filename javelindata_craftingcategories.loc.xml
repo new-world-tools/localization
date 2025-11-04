@@ -802,6 +802,8 @@
 	<string key="CutGemsT3_GroupName">Brilliant Gems</string>
 	<string key="CutGemsT4_GroupName">Pristine Gems</string>
 	<string key="CutStone_GroupName">Cut Stone</string>
+	<string key="Dagger_GroupDesc" rel_version="Weapon_Dagger">Duel wielding 1-Handed weapons for close ranged melee combat and short ranged throwing attacks.</string>
+	<string key="Dagger_GroupName" rel_version="Weapon_Dagger">Daggers</string>
 	<string key="DefenseFood_GroupName">Warding Foods</string>
 	<string key="Defensive_GroupName">Defensive Modifiers</string>
 	<string key="Demijohn_GroupName">Demijohns</string>

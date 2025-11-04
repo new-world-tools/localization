@@ -1068,8 +1068,8 @@
 	<string key="05_Secret_Orders_Mastername">Reekwater Secret Orders</string>
 	<string key="05_Tactical_Maps_Description">Faction War Item</string>
 	<string key="05_Tactical_Maps_Mastername">Reekwater Tactical Maps</string>
-	<string key="0502_0101_AncientStoneTablet" rel_version="-Territory_Reekwater_Uplevel">Ancient Stone Tablet</string>
-	<string key="0502_0101_AncientStoneTablet_Description" rel_version="-Territory_Reekwater_Uplevel">A stone tablet covered with the strange symbols and markings of the Ancient language.</string>
+	<string key="05A_SQ_AncientStoneTablet" rel_version="Territory_Reekwater_Uplevel">Ancient Machina Schematics</string>
+	<string key="05A_SQ_AncientStoneTablet_Description" rel_version="Territory_Reekwater_Uplevel">A stone tablet showing details of an Ancient machine, it could be anything from a Heartforge to an apple peeler. If only you could translate it.</string>
 	<string key="0502_0101_ImpressionKit">Impression Kit</string>
 	<string key="0502_0101_ImpressionKit_Description">A pouch filled with paper and a supply of charcoal, used for taking impressions.</string>
 	<string key="0502_0101_StoneTabletRubbing">Stone Tablet Rubbing</string>
@@ -1092,8 +1092,10 @@
 	<string key="0504_0401_GunpowderCask_Description">A small cask of gunpowder, primed and ready for ignition.</string>
 	<string key="0505_0101_FreshDryadSample">Fresh Dryad Sample</string>
 	<string key="0505_0101_FreshDryadSample_Description">Vines, freshly pruned from a Dryad.</string>
-	<string key="0505_0102_StrangeBlueCrystal" rel_version="-Territory_Reekwater_Uplevel">Pure Azoth Crystal</string>
-	<string key="0505_0102_StrangeBlueCrystal_Description" rel_version="-Territory_Reekwater_Uplevel">A chunk of brilliant azoth crystal, prized from the stones of Virid Grotto.</string>
+	<string key="05A_SQ_StrangeBlueCrystal" rel_version="Territory_Reekwater_Uplevel">Crystalized Azoth Blossoms</string>
+	<string key="05A_SQ_StrangeBlueCrystal_Description" rel_version="Territory_Reekwater_Uplevel">A chunk of brilliant blue living crystals, prized from Azoth crystal growths.</string>
+	<string key="05A_SQ_StrangeGreenCrystal" rel_version="Territory_Reekwater_Uplevel">Crystalized Azoth Blossoms</string>
+	<string key="05A_SQ_StrangeGreenCrystal_Description" rel_version="Territory_Reekwater_Uplevel">A chunk of brilliant green living crystals, prized from Azoth crystal growths.</string>
 	<string key="0511_0102_CyclopsEye">Original Guardian's Eye</string>
 	<string key="0511_0102_CyclopsEye_Description">An ever-burning eye that stares deeply into your soul.</string>
 	<string key="0511_0202_EmptyAzothEnergySource_Description">A darkened energy source, awaiting new azoth.</string>
@@ -1124,6 +1126,10 @@
 	<string key="0511_0209_ResinHardenedLeather_Name">Resin-Hardened Leather</string>
 	<string key="0524_0103_PrimedPowderkeg">Primed Powder Keg</string>
 	<string key="0524_0103_PrimedPowderkeg_Description">A powder keg set with a fuse, ready for detonation.</string>
+	<string key="05A_MSQ_DamagedHeartgemItem" rel_version="Territory_Reekwater_Uplevel">Damaged Heartgem</string>
+	<string key="05A_MSQ_DamagedHeartgemItem_Description" rel_version="Territory_Reekwater_Uplevel">A heartgem with great cracks in it. Something truly damaged it.</string>
+	<string key="05A_SQ_CleansedHeartgemItem" rel_version="Territory_Reekwater_Uplevel">Cleansed Heartgem</string>
+	<string key="05A_SQ_CleansedHeartgemItem_Description" rel_version="Territory_Reekwater_Uplevel">A healed and whole heartgem, once more glowing from within with a subtle power.</string>
 	<string key="06_F_01_blueberryCompote_Description" rel_version="Quest_MSQ2_Revamp">A delicious mixture of blueberries, sugar, and lemon with a subtle hint of allspice.</string>
 	<string key="06_F_01_blueberryCompote_MasterName" rel_version="Quest_MSQ2_Revamp">Blueberry Compote</string>
 	<string key="06_Hallowed_Candle">Hallowed Candle</string>
@@ -2413,6 +2419,16 @@
 	<string key="Skin_FirstLightZone_AzothStaff_Description" rel_version="Territory_FirstLight">The wilds have conquered many a proud warrior, but not this one.\n\n&lt;font color="#b2aea1"&gt;Change skins by selecting your equipment and choosing “Change Skin”.&lt;/font&gt;</string>
 	<string key="1hBrokenOarT1_Description">1-Handed.</string>
 	<string key="1hBrokenOarT1_MasterName">Broken Oar</string>
+	<string key="1hDaggerT2_Description" rel_version="Weapon_Dagger">1-Handed. Daggers made of Iron. Favors Dexterity for dealing damage. Can be thrown.</string>
+	<string key="1hDaggerT2_MasterName" rel_version="Weapon_Dagger">Iron Daggers</string>
+	<string key="1hDaggerT3_Description" rel_version="Weapon_Dagger">1-Handed. Daggers made of Steel. Favors Dexterity for dealing damage. Can be thrown.</string>
+	<string key="1hDaggerT3_MasterName" rel_version="Weapon_Dagger">Steel Daggers</string>
+	<string key="1hDaggerT4_Description" rel_version="Weapon_Dagger">1-Handed. Daggers made of Starmetal. Favors Dexterity for dealing damage. Can be thrown.</string>
+	<string key="1hDaggerT4_MasterName" rel_version="Weapon_Dagger">Starmetal Daggers</string>
+	<string key="1hDaggerT5_Description" rel_version="Weapon_Dagger">1-Handed. Daggers made of Orichalcum. Favors Dexterity for dealing damage. Can be thrown.</string>
+	<string key="1hDaggerT5_MasterName" rel_version="Weapon_Dagger">Orichalcum Daggers</string>
+	<string key="1hDaggerDropT5_MasterName" rel_version="Weapon_Dagger">Daggers</string>
+	<string key="1hDaggerDropT5_Description" rel_version="Weapon_Dagger">Death by a thousands cuts and maybe a little exsanguination.</string>
 	<string key="1hElementalGauntlet_Ice_HalloweenT5_Description" rel_version="Event_Halloween_Perm">If you should die before you wake...</string>
 	<string key="1hElementalGauntlet_Ice_HalloweenT5_MasterName" rel_version="Event_Halloween_Perm">Nightveil Ice Gauntlet</string>
 	<string key="1hElementalGauntlet_Ice_HalloweenT5_GS600_Description" rel_version="Event_Halloween_Perm">If you should die before you wake...</string>
@@ -29857,6 +29873,8 @@
 	<string key="Omega_Greatsword_MasterName" rel_version="Weapon_GreatSword">Omega Greatsword</string>
 	<string key="Omega_Flail_Description" rel_version="Weapon_Flail">Omega version flail.</string>
 	<string key="Omega_Flail_MasterName" rel_version="Weapon_Flail">Omega Flail</string>
+	<string key="Omega_Dagger_Description" rel_version="Weapon_Dagger">Omega version dagger.</string>
+	<string key="Omega_Dagger_MasterName" rel_version="Weapon_Dagger">Omega Dagger</string>
 	<string key="Omega_HarvestingSickle_Description">An omega version harvesting sickle.</string>
 	<string key="Omega_HarvestingSickle_MasterName">Omega Harvesting Sickle</string>
 	<string key="Omega_Hatchet_Description">Omega version hatchet.</string>
@@ -47655,6 +47673,8 @@ Opening this box will show a rewards screen with no items, but will correctly gr
 	<string key="DoubloonCrateRanged_700_Description" rel_version="Territory_CutlassKeys_Rework">Open to acquire 1 Bow, Musket, or Blunderbuss at 725 Gear Score. Item is guaranteed Legendary and loot biased.</string>
 	<string key="DoubloonCrate1hMelee_700_MasterName" rel_version="Territory_CutlassKeys_Rework">Apex Goldcursed 1 Handed Melee Weapon Crate</string>
 	<string key="DoubloonCrate1hMelee_700_Description" rel_version="Territory_CutlassKeys_Rework">Open to acquire 1 Flail, Sword, Rapier, or Hatchet at 725 Gear Score. Item is guaranteed Legendary and loot biased.</string>
+	<string key="DoubloonCrateDagger_750_MasterName" rel_version="Territory_CutlassKeys_Rework">Apex Goldcursed Dagger Crate</string>
+	<string key="DoubloonCrateDagger_750_Description" rel_version="Territory_CutlassKeys_Rework">Open to acquire 1 Dagger at 750 Gear Score. Item is guaranteed Legendary.</string>
 	<string key="DoubloonCrate2hMelee_700_MasterName" rel_version="Territory_CutlassKeys_Rework">Apex Goldcursed 2 Handed Melee Weapon Crate</string>
 	<string key="DoubloonCrate2hMelee_700_Description" rel_version="Territory_CutlassKeys_Rework">Open to acquire 1 Greatsword, Great Axe, Spear, or War Hammer at 725 Gear Score. Item is guaranteed Legendary and loot biased.</string>
 	<string key="DoubloonCrateMagic_700_MasterName" rel_version="Territory_CutlassKeys_Rework">Apex Goldcursed Magic Weapon Crate</string>
@@ -52104,12 +52124,12 @@ Opening this box will show a rewards screen with no items, but will correctly gr
 	<string key="PerkCharm_Flail_Charge_MasterName">Accelerating Barrage II Charm</string>
 	<string key="PerkCharm_Flail_Trip_MasterName">Thwarting Trip II Charm</string>
 	<string key="PerkCharm_Flail_DefensiveStrike_MasterName">Crowded Bludgeon II Charm</string>
-	<string key="PerkCharm_Dagger_DoubleNeckStab_MasterName">TBD II Charm</string>
-	<string key="PerkCharm_Dagger_FrenziedSlashes_MasterName">TBD II Charm</string>
-	<string key="PerkCharm_Dagger_ThrustingSlice_MasterName">TBD II Charm</string>
-	<string key="PerkCharm_Dagger_Stealth_MasterName">TBD II Charm</string>
-	<string key="PerkCharm_Dagger_Ambush_MasterName">TBD II Charm</string>
-	<string key="PerkCharm_Dagger_CripplingSling_MasterName">TBD II Charm</string>
+	<string key="PerkCharm_Dagger_DoubleNeckStab_MasterName">Pain in the Neck II Charm</string>
+	<string key="PerkCharm_Dagger_FrenziedSlashes_MasterName">Trenchant Frenzy II Charm</string>
+	<string key="PerkCharm_Dagger_ThrustingSlice_MasterName">Slippery Maneuver II Charm</string>
+	<string key="PerkCharm_Dagger_Stealth_MasterName">Knave Assault II Charm</string>
+	<string key="PerkCharm_Dagger_Ambush_MasterName">Bushwhacked II Charm</string>
+	<string key="PerkCharm_Dagger_CripplingSling_MasterName">Distanced Zing II Charm</string>
 	<string key="PerkCharmDust_DurCC_MasterName">Freedom II Charm Dust</string>
 	<string key="PerkCharmDust_DurDot_MasterName">Vigor II Charm Dust</string>
 	<string key="PerkCharmDust_DurDebuff_MasterName">Invigorated II Charm Dust</string>
@@ -52247,12 +52267,12 @@ Opening this box will show a rewards screen with no items, but will correctly gr
 	<string key="PerkCharmDust_Flail_Charge_MasterName">Accelerating Barrage II Charm Dust</string>
 	<string key="PerkCharmDust_Flail_Trip_MasterName">Thwarting Trip II Charm Dust</string>
 	<string key="PerkCharmDust_Flail_DefensiveStrike_MasterName">Crowded Bludgeon II Charm Dust</string>
-	<string key="PerkCharmDust_Dagger_DoubleNeckStab_MasterName">TBD II Charm Dust</string>
-	<string key="PerkCharmDust_Dagger_FrenziedSlashes_MasterName">TBD II Charm Dust</string>
-	<string key="PerkCharmDust_Dagger_ThrustingSlice_MasterName">TBD II Charm Dust</string>
-	<string key="PerkCharmDust_Dagger_Stealth_MasterName">TBD II Charm Dust</string>
-	<string key="PerkCharmDust_Dagger_Ambush_MasterName">TBD II Charm Dust</string>
-	<string key="PerkCharmDust_Dagger_CripplingSling_MasterName">TBD II Charm Dust</string>
+	<string key="PerkCharmDust_Dagger_DoubleNeckStab_MasterName">Pain in the Neck II Charm Dust</string>
+	<string key="PerkCharmDust_Dagger_FrenziedSlashes_MasterName">Trenchant Frenz II Charm Dust</string>
+	<string key="PerkCharmDust_Dagger_ThrustingSlice_MasterName">Slippery Maneuver II Charm Dust</string>
+	<string key="PerkCharmDust_Dagger_Stealth_MasterName">Knave Assault II Charm Dust</string>
+	<string key="PerkCharmDust_Dagger_Ambush_MasterName">Bushwhacked II Charm Dust</string>
+	<string key="PerkCharmDust_Dagger_CripplingSling_MasterName">Distanced Zing II Charm Dust</string>
 	<string key="PerkCharmDust_DurCC_Description">This perk charm dust is attuned to the Freedom II perk. You can refine this dust into the perk charm at a smelter.</string>
 	<string key="PerkCharmDust_DurDot_Description">This perk charm dust is attuned to the Vigor II perk. You can refine this dust into the perk charm at a smelter.</string>
 	<string key="PerkCharmDust_DurDebuff_Description">This perk charm dust is attuned to the Invigorated II perk. You can refine this dust into the perk charm at a smelter.</string>
@@ -52390,12 +52410,12 @@ Opening this box will show a rewards screen with no items, but will correctly gr
 	<string key="PerkCharmDust_Flail_Charge_Description">This perk charm dust is attuned to the Accelerating Barrage II perk. You can refine this dust into the perk charm at a woodshop.</string>
 	<string key="PerkCharmDust_Flail_Trip_Description">This perk charm dust is attuned to the Thwarting Trip II perk. You can refine this dust into the perk charm at a woodshop.</string>
 	<string key="PerkCharmDust_Flail_DefensiveStrike_Description">This perk charm dust is attuned to the Crowded Bludgeon II perk. You can refine this dust into the perk charm at a woodshop.</string>
-	<string key="PerkCharmDust_Dagger_DoubleNeckStab_Description">This perk charm dust is attuned to the TBD II perk. You can refine this dust into the perk charm at a woodshop.</string>
-	<string key="PerkCharmDust_Dagger_FrenziedSlashes_Description">This perk charm dust is attuned to the TBD II perk. You can refine this dust into the perk charm at a woodshop.</string>
-	<string key="PerkCharmDust_Dagger_ThrustingSlice_Description">This perk charm dust is attuned to the TBD II perk. You can refine this dust into the perk charm at a woodshop.</string>
-	<string key="PerkCharmDust_Dagger_Stealth_Description">This perk charm dust is attuned to the TBD II perk. You can refine this dust into the perk charm at a woodshop.</string>
-	<string key="PerkCharmDust_Dagger_Ambush_Description">This perk charm dust is attuned to the TBD II perk. You can refine this dust into the perk charm at a woodshop.</string>
-	<string key="PerkCharmDust_Dagger_CripplingSling_Description">This perk charm dust is attuned to the TBD II perk. You can refine this dust into the perk charm at a woodshop.</string>
+	<string key="PerkCharmDust_Dagger_DoubleNeckStab_Description">This perk charm dust is attuned to the Pain in the Neck II perk. You can refine this dust into the perk charm at a woodshop.</string>
+	<string key="PerkCharmDust_Dagger_FrenziedSlashes_Description">This perk charm dust is attuned to the Trenchant Frenzy II perk. You can refine this dust into the perk charm at a woodshop.</string>
+	<string key="PerkCharmDust_Dagger_ThrustingSlice_Description">This perk charm dust is attuned to the Slippery Maneuver II perk. You can refine this dust into the perk charm at a woodshop.</string>
+	<string key="PerkCharmDust_Dagger_Stealth_Description">This perk charm dust is attuned to the Knave Assault II perk. You can refine this dust into the perk charm at a woodshop.</string>
+	<string key="PerkCharmDust_Dagger_Ambush_Description">This perk charm dust is attuned to the Bushwhacked II perk. You can refine this dust into the perk charm at a woodshop.</string>
+	<string key="PerkCharmDust_Dagger_CripplingSling_Description">This perk charm dust is attuned to the Distanced Zing II perk. You can refine this dust into the perk charm at a woodshop.</string>
 	<string key="Dyes1_Box_S10_MasterName" rel_version="Season_10_Perm">5x Castle Aquamarine Dye</string>
 	<string key="Dyes1_Box_S10_Description" rel_version="Season_10_Perm">Open to obtain 5x Castle Aquamarine dyes.</string>
 	<string key="Dyes2_Box_S10_MasterName" rel_version="Season_10_Perm">5x Wedgewood Dye</string>
@@ -52842,5 +52862,39 @@ Upon claiming this reward you will additionally receive:\n
 	<string key="MemoryFragmentChest_Box1_Desc" rel_version="Season_10_Perm">From the treasures of Arumesh, a set of apparel skins that represents the greatest triumphs of his reign.</string>
 	<string key="MemoryFragmentChest_Box2_Desc" rel_version="Season_10_Perm">From the treasures of Arumesh, a set of apparel skins that represents the most dire crises of his reign.</string>
 	<string key="MemoryFragmentChest_Box3_Desc" rel_version="Season_10_Perm">From the treasures of Arumesh, a set of weapon skins that represents the remnants left behind by his reign.</string>
+	<string key="ReekwaterRand4SlotCache_MasterName" rel_version="Season_10_Perm">Mutations Gear Cache</string>
+	<string key="ReekwaterRand4SlotCache_Description" rel_version="Season_10_Perm">Open to acquire 1 random piece of Gear with 4 charm sockets at 740 Gear Score. Item is guaranteed Legendary and loot biased.</string>
+	<string key="ReekwaterRandOverchargedCache_MasterName" rel_version="Season_10_Perm">Overcharged Set Cache</string>
+	<string key="ReekwaterRandOverchargedCache_Description" rel_version="Season_10_Perm">Open to acquire 1 random piece of Gear from the Overcharged Set at 740 Gear Score. Item is guaranteed Legendary and loot biased.</string>
+	<string key="ReekwaterRandSecondWindCache_MasterName" rel_version="Season_10_Perm">Second Wind Set Cache</string>
+	<string key="ReekwaterRandSecondWindCache_Description" rel_version="Season_10_Perm">Open to acquire 1 random piece of Gear from the Second Wind Set at 740 Gear Score. Item is guaranteed Legendary and loot biased.</string>
+	<string key="ReekwaterRandEnrageCache_MasterName" rel_version="Season_10_Perm">Enrage Set Cache</string>
+	<string key="ReekwaterRandEnrageCache_Description" rel_version="Season_10_Perm">Open to acquire 1 random piece of Gear from the Enrage Set at 740 Gear Score. Item is guaranteed Legendary and loot biased.</string>
+	<string key="ReekwaterRandPotionCache_MasterName" rel_version="Season_10_Perm">Survival Potion Cache</string>
+	<string key="ReekwaterRandPotionCache_Description" rel_version="Season_10_Perm">Open to acquire 5 random survival potions.</string>
+	<string key="ReekwaterRandPerkItemCache_MasterName" rel_version="Season_10_Perm">Perk Charm Ingredient Cache</string>
+	<string key="ReekwaterRandPerkItemCache_Description" rel_version="Season_10_Perm">Open to acquire 15 random perk charm ingredients.</string>
+	<string key="ReekwaterRandDaggerCache_MasterName" rel_version="Season_10_Perm">Dagger Cache</string>
+	<string key="ReekwaterRandDaggerCache_Description" rel_version="Season_10_Perm">Open to acquire 1 Dagger at 750 Gear Score. Item is guaranteed Legendary.</string>
+	<string key="Skin_Chest_MushroomRaider_MasterName" rel_version="Season_10_Perm">Myconaut Raider Thornmail</string>
+	<string key="Skin_Head_MushroomRaider_MasterName" rel_version="Season_10_Perm">Myconaut Raider Visage</string>
+	<string key="Skin_Legs_MushroomRaider_MasterName" rel_version="Season_10_Perm">Myconaut Raider Gillwrap</string>
+	<string key="Skin_Feet_MushroomRaider_MasterName" rel_version="Season_10_Perm">Myconaut Raider Mycelium</string>
+	<string key="Skin_Gloves_MushroomRaider_MasterName" rel_version="Season_10_Perm">Myconaut Raider Capclaw</string>
+	<string key="Skin_MushroomRaider_Desc" rel_version="Season_10_Perm">In the fungal lands, there is no such thing as death. Only the beginning of the next challenge, forever onwards.</string>
+	<string key="Skin_MushroomRaider_Box_Desc" rel_version="Season_10_Perm">In the fungal lands, there is no such thing as death. Only the beginning of the next challenge, forever onwards.\n
+Open this box to claim the skin. Apply it from the Select Skin menu.</string>
+	<string key="SkeletonTurkeyMount_Box_MasterName" rel_version="Season_10_Perm">Gizzard Mount Box</string>
+	<string key="SkeletonTurkeyMount_Box_Desc" rel_version="Season_10_Perm">Death means nothing to you as you stride onto battle upon your fearless companion.\n
+Open this box to claim the mount. Apply it from the Mount menu.</string>
+	<string key="SkeletonHorseMount_Box_MasterName" rel_version="Season_10_Perm">Styx Mount Box</string>
+	<string key="SkeletonHorseMount_Box_Desc" rel_version="Season_10_Perm">Accept death as the next long ride after life.\n
+Open this box to claim the mount. Apply it from the Mount menu.</string>
+	<string key="S10Craft_MakeGood_MasterName">Crafting Materials Make Good Cache</string>
+	<string key="S10Craft_MakeGood_Description">Contains 50 Mythril Ingot, Dark Leather, Spinweave Cloth, Runewood Plank, Runic Voidstone. Also gives 3 Weapon, Armor, and Trinket Matrices.</string>
+	<string key="S10Umbral_MakeGood_MasterName">Umbral Make Good Cache</string>
+	<string key="S10Umbral_MakeGood_Description">Contains 3000 coin and 1000 umbrals. If you are already at your weekly cap for umbrals this cannot exceed that amount.</string>
+	<string key="Makegood_PerkCache_MasterName">Perk Charm Make Good Cache</string>
+	<string key="Makegood_PerkCache_Description">Contains 6 of each perk charm ingredient and 5 Chromatic Seals.</string>
 </resources>
 

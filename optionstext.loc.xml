@@ -660,6 +660,7 @@
 	<string key="ui_hud_margin_left_desc">Percent of screen to push the left of the HUD inward by</string>
 	<string key="ui_hud_show_full_raid_for_pvp_modes">PvP Activity Raid HUD</string>
 	<string key="ui_hud_show_full_raid_for_pvp_modes_desc">Show full Raid HUD for PvP activities up to 20 players</string>
+	<string key="@ui_combometerdisplaytype">Style</string>
 	<string key="ui_show_level_point_reminders">Show Unspent Point Reminders</string>
 	<string key="ui_show_level_point_reminders_desc">Occassionally shows a reminder when you have any unspent attribute, weapon mastery, or territory standing points</string>
 	<string key="ui_reticle_color_white">White</string>

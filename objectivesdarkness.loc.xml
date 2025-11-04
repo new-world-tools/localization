@@ -99,10 +99,6 @@
 	<string key="event_completed">Event Completed</string>
 	<string key="ui_nightveil_worldboss_baalphazu">Baalphazu's Rising</string>
 	<string key="ui_nightveil_worldboss_baalphazu_description">Nightveil Hallow has brought with it the dark entity Baalphazu, the Marquis of Terror and lord of his legion of Pumpkinites!</string>
-	<string key="objective_worldboss_task_clearpumpkinites_title" rel_version="Event_Halloween_Temp">Clear the Field of Pumpkinites!</string>
-	<string key="objective_worldboss_task_clearpumpkinites_desc" rel_version="Event_Halloween_Temp">Pumpkinites Remaining: {remainingCount}</string>
-	<string key="objective_worldboss_task_destroybaalphazu_title" rel_version="Event_Halloween_Temp">Destroy Baalphazu's Physical Form</string>
-	<string key="objective_worldboss_task_destroybaalphazu_desc" rel_version="Event_Halloween_Temp">Weaponize Pumpklin Heads Against Baalphazu to Break His Defenses.</string>
 	<string key="ui_winterconv_worldboss_winterwarrior">The Forever Winter</string>
 	<string key="ui_winterconv_worldboss_winterwarrior_description">The Winter Warrior and his legion of Frigid Folk are spreading the beginnings of the Forever Winter across Aeternum!</string>
 	<string key="ui_legion_outpost_attack" rel_version="Territory_Brimstone_Sands">Brimstone Under Siege</string>
@@ -178,6 +174,32 @@
 	<string key="04A_Encounter_Zane_Boss_Obj_Enc_task_defeat_desc" rel_version="Quest_MSQ2_Revamp">With Centurion Maecia weakened, deal the finishing blow.</string>
 	<string key="04A_Encounter_Zane_Boss_Obj_Enc_task_setup" rel_version="Quest_MSQ2_Revamp">Defeat Centurion Maecia</string>
 	<string key="04A_Encounter_Zane_Boss_Obj_Enc_task_setup_desc" rel_version="Quest_MSQ2_Revamp">Confront Centurion Maecia</string>
+	<string key="RW_Encounter_Siren_Enc_Title_Intro" rel_version="Territory_Reekwater_Uplevel">Siren's Call</string>
+	<string key="RW_Encounter_Siren_Enc_Title_Intro_description" rel_version="Territory_Reekwater_Uplevel">Elite Stronghold Siege: &lt;font color="#edc63e"&gt;Not Started&lt;/font&gt;\n\nVenture through the pirate city and defeat the Siren Queen.</string>
+	<string key="RW_Encounter_Siren_Enc_Title_Active" rel_version="Territory_Reekwater_Uplevel">Siren's Call</string>
+	<string key="RW_Encounter_Siren_Enc_Title_Active_description" rel_version="Territory_Reekwater_Uplevel">Elite Stronghold Siege: &lt;font color="#00ff00"&gt;In Progress&lt;/font&gt;\n\nVenture through the pirate city and defeat the Siren Queen.</string>
+	<string key="RW_Encounter_Siren_Enc_Title_Inactive" rel_version="Territory_Reekwater_Uplevel">Siren's Call</string>
+	<string key="RW_Encounter_Siren_Enc_Title_Inactive_description" rel_version="Territory_Reekwater_Uplevel">Elite Stronghold Siege: &lt;font color="#ff0000"&gt;Completed&lt;/font&gt;\n\nVenture through the pirate city and defeat the Siren Queen.</string>
+	<string key="RW_Encounter_Siren_Enc_task_pillage" rel_version="Territory_Reekwater_Uplevel">Pillage and Plunder</string>
+	<string key="RW_Encounter_Siren_Enc_task_pillage_desc" rel_version="Territory_Reekwater_Uplevel">Use explosives to cause chaos around the village to get Greedy Grimely's Attention \nBombable Objects Remaining: {remainingCount}</string>
+	<string key="RW_Encounter_Siren_Enc_task_greedy" rel_version="Territory_Reekwater_Uplevel">Pillage and Plunder</string>
+	<string key="RW_Encounter_Siren_Enc_task_greedy_desc" rel_version="Territory_Reekwater_Uplevel">Greedy Grimely has noticed your actions and will have no more of it!</string>
+	<string key="RW_Encounter_Siren_Enc_task_gate" rel_version="Territory_Reekwater_Uplevel">Cannoneer's Wrath</string>
+	<string key="RW_Encounter_Siren_Enc_task_gate_desc" rel_version="Territory_Reekwater_Uplevel">Destroy the gate to stop the cannons and defeat Cannoneer Bileblast</string>
+	<string key="RW_Encounter_Siren_Enc_task_bileblast" rel_version="Territory_Reekwater_Uplevel">Cannoneer's Wrath</string>
+	<string key="RW_Encounter_Siren_Enc_task_bileblast_desc" rel_version="Territory_Reekwater_Uplevel">Defeat Cannoneer Bileblast</string>
+	<string key="RW_Encounter_Siren_Enc_task_curse" rel_version="Territory_Reekwater_Uplevel">Fleet's Curse</string>
+	<string key="RW_Encounter_Siren_Enc_task_curse_desc" rel_version="Territory_Reekwater_Uplevel">Defeat the Fleet's Curse</string>
+	<string key="RW_Encounter_Siren_Enc_task_explore" rel_version="Territory_Reekwater_Uplevel">Siren's Rise</string>
+	<string key="RW_Encounter_Siren_Enc_task_explore_desc" rel_version="Territory_Reekwater_Uplevel">Continue on to find and defeat the Siren.</string>
+	<string key="RW_Encounter_Siren_Enc_task_siren" rel_version="Territory_Reekwater_Uplevel">Siren Queen</string>
+	<string key="RW_Encounter_Siren_Enc_task_siren_desc" rel_version="Territory_Reekwater_Uplevel">Defeat the Siren Queen.</string>
+	<string key="RW_Encounter_Siren_Enc_task_heroic" rel_version="Territory_Reekwater_Uplevel">Heroic</string>
+	<string key="RW_Encounter_Siren_Enc_task_heroic_desc" rel_version="Territory_Reekwater_Uplevel">Optional: Find a way to enable to enable heroic.</string>
+	<string key="RW_Encounter_Siren_Enc_task_heroic2" rel_version="Territory_Reekwater_Uplevel">Heroic</string>
+	<string key="RW_Encounter_Siren_Enc_task_heroic2_desc" rel_version="Territory_Reekwater_Uplevel">Heroic Enabled</string>
+	<string key="RW_Encounter_Siren_Enc_task_end" rel_version="Territory_Reekwater_Uplevel">Siege Complete</string>
+	<string key="RW_Encounter_Siren_Enc_task_end_desc" rel_version="Territory_Reekwater_Uplevel">The Siege has been completed. Time remaining until the next Siege:</string>
 	<string key="DW_Encounter_Arcanist_Enc_Title_Intro" rel_version="Territory_Dunwood">Arcanist's Hold</string>
 	<string key="DW_Encounter_Arcanist_Enc_Title_Intro_description" rel_version="Territory_Dunwood">Elite Stronghold Siege: &lt;font color="#edc63e"&gt;Not Started&lt;/font&gt;\n\nStorm the keep of a mighty Arcanist lost to time.</string>
 	<string key="DW_Encounter_Arcanist_Enc_Title_Active" rel_version="Territory_Dunwood">Arcanist's Hold</string>
@@ -185,15 +207,15 @@
 	<string key="DW_Encounter_Arcanist_Enc_Title_Inactive" rel_version="Territory_Dunwood">Arcanist's Hold</string>
 	<string key="DW_Encounter_Arcanist_Enc_Title_Inactive_description" rel_version="Territory_Dunwood">Elite Stronghold Siege: &lt;font color="#ff0000"&gt;Completed&lt;/font&gt;\n\nStorm the keep of a mighty Arcanist lost to time.</string>
 	<string key="DW_Encounter_Arcanist_Enc_task_Trial" rel_version="Territory_Dunwood">Arcanist's Trial</string>
-	<string key="DW_Encounter_Arcanist_Enc_task_Trial_desc" rel_version="Territory_Dunwood">Survive the trial to earn the right to confront the Arcanist \nTime Remaining: </string>
+	<string key="DW_Encounter_Arcanist_Enc_task_Trial_desc" rel_version="Territory_Dunwood">Survive the trial to earn the right to confront the Arcanist \nTime Remaining:</string>
 	<string key="DW_Encounter_Arcanist_Enc_task_Enter" rel_version="Territory_Dunwood">Arcanist's Invitation</string>
 	<string key="DW_Encounter_Arcanist_Enc_task_Enter_desc" rel_version="Territory_Dunwood">Enter the room too confront the Arcanist.</string>
 	<string key="DW_Encounter_Arcanist_Enc_task_Fight" rel_version="Territory_Dunwood">Arcanist's Fall</string>
 	<string key="DW_Encounter_Arcanist_Enc_task_Fight_desc" rel_version="Territory_Dunwood">Defeat the Arcanist.</string>
 	<string key="DW_Encounter_Arcanist_Enc_task_Exit" rel_version="Territory_Dunwood">Arcanist's Fall</string>
-	<string key="DW_Encounter_Arcanist_Enc_task_Exit_desc" rel_version="Territory_Dunwood">Arcanist has been defeated. \n&lt;font color="#ff0000"&gt;NOTE: Remaining in the Siege after the alotted time will result in your untimely death.&lt;/font&gt;\nTime remaining until Siege Complete: </string>
+	<string key="DW_Encounter_Arcanist_Enc_task_Exit_desc" rel_version="Territory_Dunwood">Arcanist has been defeated. \n&lt;font color="#ff0000"&gt;NOTE: Remaining in the Siege after the alotted time will result in your untimely death.&lt;/font&gt;\nTime remaining until Siege Complete:</string>
 	<string key="DW_Encounter_Arcanist_Enc_task_End" rel_version="Territory_Dunwood">Siege Complete</string>
-	<string key="DW_Encounter_Arcanist_Enc_task_End_desc" rel_version="Territory_Dunwood">The Siege has been completed. Time remaining until the next Siege: </string>
+	<string key="DW_Encounter_Arcanist_Enc_task_End_desc" rel_version="Territory_Dunwood">The Siege has been completed. Time remaining until the next Siege:</string>
 	<string key="ui_turkeyterror_worldboss_Turkulon">Turkulon's Terror</string>
 	<string key="ui_turkeyterror_worldboss_Turkulon_description">Turkulon has returned to avenge their fallen brethren</string>
 	<string key="ui_worldboss_defeated" rel_version="Event_February_Perm">{objective} Defeated</string>
@@ -339,6 +361,12 @@
 	<string key="objective_worldevent_varlaam_wave2_title" rel_version="Territory_Dunwood">House Varlaam: Stage 3/3</string>
 	<string key="objective_worldevent_varlaam_wave2_title_desc" rel_version="Territory_Dunwood">Throw energy to charge up the malfunctioning devices: {remainingCount} remaining.</string>
 	<string key="objective_worldevent_varlaam_wave3_title_desc" rel_version="Territory_Dunwood">The device is charged! Head upstairs to activate it! \nTime Remaining:</string>
+	<string key="RW_Encounter_Pool_Enc_Title_Intro" rel_version="Territory_Reekwater_Uplevel">Eternal Pool</string>
+	<string key="RW_Encounter_Pool_Enc_Title_Intro_description" rel_version="Territory_Reekwater_Uplevel">Elite Stronghold Siege: &lt;font color="#edc63e"&gt;Not Started&lt;/font&gt;\n\nTrace the source of Blight infestation in a once sacred place.</string>
+	<string key="RW_Encounter_Pool_Enc_Title_Active" rel_version="Territory_Reekwater_Uplevel">Eternal Pool</string>
+	<string key="RW_Encounter_Pool_Enc_Title_Active_description" rel_version="Territory_Reekwater_Uplevel">Elite Stronghold Siege: &lt;font color="#00ff00"&gt;In Progress&lt;/font&gt;\n\nTrace the source of Blight infestation in a once sacred place.</string>
+	<string key="RW_Encounter_Pool_Enc_Title_Inactive" rel_version="Territory_Reekwater_Uplevel">Eternal Pool</string>
+	<string key="RW_Encounter_Pool_Enc_Title_Inactive_description" rel_version="Territory_Reekwater_Uplevel">Elite Stronghold Siege: &lt;font color="#ff0000"&gt;Completed&lt;/font&gt;\n\nTrace the source of Blight infestation in a once sacred place.</string>
 	<string key="@Enc_RW_Siege_Pool_Wave00_Title" rel_version="Season_8_Perm">Setup</string>
 	<string key="@Enc_RW_Siege_Pool_Wave00_Desc" rel_version="Season_8_Perm">Setup</string>
 	<string key="@Enc_RW_Siege_Pool_Wave01_Title" rel_version="Season_8_Perm">Blighted garden</string>
@@ -387,14 +415,14 @@
 	<string key="@Enc_RW_Siege_Pool_Wave10D_Desc" rel_version="Season_8_Perm">Defeat enemies inbound</string>
 	<string key="@Enc_RW_Siege_Pool_Wave11_Title" rel_version="Season_8_Perm">Upper temple</string>
 	<string key="@Enc_RW_Siege_Pool_Wave11_Desc" rel_version="Season_8_Perm">Break free from the upper temple with Thornslasher's paws</string>
-	<string key="@Enc_RW_Siege_Pool_Wave12_Title" rel_version="Season_8_Perm">Avarice's altar</string>
+	<string key="@Enc_RW_Siege_Pool_Wave12_Title" rel_version="Season_8_Perm">Orellani's altar</string>
 	<string key="@Enc_RW_Siege_Pool_Wave12_Desc" rel_version="Season_8_Perm">Break into the altar with Thornslasher's paws</string>
-	<string key="@Enc_RW_Siege_Pool_Wave13_Title" rel_version="Season_8_Perm">Avarice's altar</string>
+	<string key="@Enc_RW_Siege_Pool_Wave13_Title" rel_version="Season_8_Perm">Orellani's altar</string>
 	<string key="@Enc_RW_Siege_Pool_Wave13_Desc" rel_version="Season_8_Perm">Defeat the spriggan while surviving the blight</string>
 	<string key="@Enc_RW_Siege_Pool_Wave14_Title" rel_version="Season_8_Perm">Blighted guardian of life and death</string>
-	<string key="@Enc_RW_Siege_Pool_Wave14_Desc" rel_version="Season_8_Perm">Avarice is awakening...</string>
-	<string key="@Enc_RW_Siege_Pool_Wave15_Title" rel_version="Season_8_Perm">Blighted guardian of life and death</string>
-	<string key="@Enc_RW_Siege_Pool_Wave15_Desc" rel_version="Season_8_Perm">Defeat Avarice</string>
+	<string key="@Enc_RW_Siege_Pool_Wave14_Desc" rel_version="Season_8_Perm">Orellani is awakening...</string>
+	<string key="@Enc_RW_Siege_Pool_Wave15_Title" rel_version="Season_8_Perm">Defeat Orellani</string>
+	<string key="@Enc_RW_Siege_Pool_Wave15_Desc" rel_version="Season_8_Perm">Time Left:</string>
 	<string key="@Enc_RW_Siege_Pool_Wave16_Title" rel_version="Season_8_Perm">Blighted guardian of life and death</string>
 	<string key="@Enc_RW_Siege_Pool_Wave16_Desc" rel_version="Season_8_Perm">Exit towards Lazarus Shrine</string>
 	<string key="@Enc_RW_Siege_Pool_Wave17_Title" rel_version="Season_8_Perm">Placeholder</string>

@@ -2955,6 +2955,10 @@
 	<string key="1hFlailT3_TransmogName" rel_version="Weapon_Flail">Steel Flail</string>
 	<string key="1hFlailT4_TransmogName" rel_version="Weapon_Flail">Starmetal Flail</string>
 	<string key="1hFlailT5_TransmogName" rel_version="Weapon_Flail">Orichalcum Flail</string>
+	<string key="1hDaggerT2_TransmogName" rel_version="Weapon_Dagger">Iron Daggers</string>
+	<string key="1hDaggerT3_TransmogName" rel_version="Weapon_Dagger">Steel Daggers</string>
+	<string key="1hDaggerT4_TransmogName" rel_version="Weapon_Dagger">Starmetal Daggers</string>
+	<string key="1hDaggerT5_TransmogName" rel_version="Weapon_Dagger">Orichalcum Daggers</string>
 	<string key="1hTowerShieldT4_TransmogName">Starmetal Tower Shield</string>
 	<string key="1hTowerShieldT5_TransmogName">Orichalcum Tower Shield</string>
 	<string key="2hVoidGauntlet_MarauderT2_TransmogName">Marauder Gladiator Void Gauntlet</string>

@@ -2470,6 +2470,10 @@
 	<string key="ui_weapon_mastered">Weapon Mastered</string>
 	<string key="ui_tradeskill_mastered">Trade Skill Mastered</string>
 	<string key="ui_weapon_mastery_level" comment="{level} for current mastery level, {maxLevel} for the highest possible">Level &lt;font color="#ebe3d6"&gt;{level}&lt;/font&gt; / {maxLevel}</string>
+	<string key="ui_dagger" rel_version="Weapon_Dagger">Daggers</string>
+	<string key="ui_dagger_mastery" rel_version="Weapon_Dagger">Daggers Mastery</string>
+	<string key="ui_dagger_tree1" rel_version="Weapon_Dagger">Blades</string>
+	<string key="ui_dagger_tree2" rel_version="Weapon_Dagger">Stealth</string>
 	<string key="ui_Flail" rel_version="Weapon_Flail">Flail and Shield</string>
 	<string key="ui_Flail_mastery" rel_version="Weapon_Flail">Flail Mastery</string>
 	<string key="ui_Flail_tree1" rel_version="Weapon_Flail">Cleric</string>
@@ -2866,6 +2870,7 @@
 	<string key="ui_itemtypedescription_rapier">Rapier</string>
 	<string key="ui_itemtypedescription_Flail" rel_version="Weapon_Flail">Flail</string>
 	<string key="ui_itemtypedescription_club">Club</string>
+	<string key="ui_itemtypedescription_dagger" rel_version="Weapon_Dagger">Daggers</string>
 	<string key="ui_itemtypedescription_spear">Spear</string>
 	<string key="ui_itemtypedescription_axe">Great Axe</string>
 	<string key="ui_itemtypedescription_warhammer">War Hammer</string>

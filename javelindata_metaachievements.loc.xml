@@ -715,6 +715,15 @@
 	<string key="ui_metachievement_questarc_reekwater_title3">Life, Death, Rebirth</string>
 	<string key="ui_metachievement_questarc_reekwater_title3_SHE">Life, Death, Rebirth</string>
 	<string key="ui_metachievement_questarc_reekwater_title3_THEY">Life, Death, Rebirth</string>
+	<string key="ui_metachievement_quest_reekwater_MSQ" rel_version="Territory_Reekwater_Uplevel">Heart and Soulwarden</string>
+	<string key="ui_metachievement_quest_reekwater_MSQ_SHE" rel_version="Territory_Reekwater_Uplevel">Heart and Soulwarden</string>
+	<string key="ui_metachievement_quest_reekwater_MSQ_THEY" rel_version="Territory_Reekwater_Uplevel">Heart and Soulwarden</string>
+	<string key="ui_metachievement_quest_reekwater_Daily" rel_version="Territory_Reekwater_Uplevel">A Day's Work is Never Done</string>
+	<string key="ui_metachievement_quest_reekwater_Daily_SHE" rel_version="Territory_Reekwater_Uplevel">A Day's Work is Never Done</string>
+	<string key="ui_metachievement_quest_reekwater_Daily_THEY" rel_version="Territory_Reekwater_Uplevel">A Day's Work is Never Done</string>
+	<string key="ui_metachievement_quest_reekwater_Siren" rel_version="Territory_Reekwater_Uplevel">Siren's Song</string>
+	<string key="ui_metachievement_quest_reekwater_Siren_SHE" rel_version="Territory_Reekwater_Uplevel">Siren's Song</string>
+	<string key="ui_metachievement_quest_reekwater_Siren_THEY" rel_version="Territory_Reekwater_Uplevel">Siren's Song</string>
 	<string key="ui_metachievement_questarc_restlessshore_title1">Sieged Stake</string>
 	<string key="ui_metachievement_questarc_restlessshore_title1_SHE">Sieged Stake</string>
 	<string key="ui_metachievement_questarc_restlessshore_title1_THEY">Sieged Stake</string>
@@ -3360,6 +3369,9 @@
 	<string key="ui_metachievement_questarc_reekwater_desc1">Complete the Reekwater arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Secrets of The Swamp&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_reekwater_desc2">Complete the Reekwater arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;An Expanding Threat&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_reekwater_desc3">Complete the Reekwater arc starting with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;On Flora Fauna&lt;/font&gt;.</string>
+	<string key="ui_metachievement_quest_reekwater_MSQ_desc" rel_version="Territory_Reekwater_Uplevel">Discovered Damaged Heartgems and Soulmarks in Reekwater.</string>
+	<string key="ui_metachievement_quest_reekwater_Daily_desc" rel_version="Territory_Reekwater_Uplevel">Completed all the daily quests in Reekwater without breaking a sweat!</string>
+	<string key="ui_metachievement_quest_reekwater_Siren_desc" rel_version="Territory_Reekwater_Uplevel">You stood strong and resisted the song of the Siren Queen.</string>
 	<string key="ui_metachievement_questarc_restlessshore_desc1">Complete the Restless Shores arc that starts with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;War of the Lost&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_restlessshore_desc2">Complete the Restless Shores arc that starts with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Lupine Observations&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_restlessshore_desc3">Complete the Restless Shores arc that starts with &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Pirates will Pirate&lt;/font&gt;.</string>
@@ -3853,6 +3865,7 @@
 	<string key="ui_metachievement_hidden_greatcleave">Keep playing in Great Cleave to complete this hidden achievement.</string>
 	<string key="ui_metachievement_hidden_ebonscale">Keep playing in Ebonscale Reach to complete this hidden achievement.</string>
 	<string key="ui_metachievement_hidden_shattered">Keep playing in Shattered Mountain to complete this hidden achievement.</string>
+	<string key="ui_metachievement_hidden_reekwater" rel_version="Territory_Reekwater_Uplevel">Keep playing in Reekwater to complete this hidden achievement.</string>
 	<string key="ui_metaachievement_Music_Summer_GuitarHero_title" rel_version="Event_Summer2023_Perm">Guitar Hero</string>
 	<string key="ui_metaachievement_Music_Summer_GuitarHero_desc" rel_version="Event_Summer2023_Perm">Complete the Expert version of YAAAHHHH! with a perfect score.</string>
 	<string key="ui_metachievement_skilllevelRiding_title1" rel_version="Feature_Mounts">Yearling</string>

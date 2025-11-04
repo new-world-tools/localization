@@ -1213,7 +1213,7 @@
 	<string key="PerkID_Ability_Hammer_WreckingBall_Name" comment="OLD PERK">Penetrating Wrecking Ball</string>
 	<string key="PerkID_Ability_Hammer_WreckingBall_Description" comment="OLD PERK">Wrecking Ball penetrates {[0.050000 * 100 * {perkMultiplier}]}% of the target's armor.</string>
 	<string key="PerkID_Ability_Hammer_Shockwave_Name" comment="OLD PERK">Sundering Shockwave</string>
-	<string key="PerkID_Ability_Hammer_Shockwave_Description" comment="OLD PERK">Shockwave inflicts Rend, reducing the target's armor by {[-0.050000 * -100 * {perkMultiplier}]}% for {[10.000000]}s.</string>
+	<string key="PerkID_Ability_Hammer_Shockwave_Description" comment="OLD PERK">Shockwave inflicts Rend, reducing the target's armor by {[-0.050000 * -100 * {perkMultiplier}]}% for {[7.000000]}s.</string>
 	<string key="PerkID_Ability_Hammer_ClearOut_Name" comment="OLD PERK">Sundering Clear Out</string>
 	<string key="PerkID_Ability_Hammer_ClearOut_Description" comment="OLD PERK">Clear Out inflicts Rend, reducing the target's armor by {[-0.050000 * -100 * {perkMultiplier}]}% for {[7.000000]}s.</string>
 	<string key="PerkID_Ability_Hammer_PathOfDestiny_Name" comment="OLD PERK">Leeching Path Of Destiny</string>
@@ -1598,7 +1598,7 @@
 	<string key="PerkID_WeaponLife_HealOutgoing_Name" comment="OLD PERK">Blessed</string>
 	<string key="PerkID_WeaponLife_HealOutgoing_Description" comment="OLD PERK">+{[0.020000 * 100 * {perkMultiplier}]}% outgoing healing efficiency.</string>
 	<string key="PerkID_Weapon_CDRBasic_Name" comment="OLD PERK">Refreshing Move</string>
-	<string key="PerkID_Weapon_CDRBasic_Description" comment="OLD PERK">Light and Heavy attacks reduce your active weapon cooldowns by {[-0.008000 * -100 * {perkMultiplier}]}% ({[0.200000]}s cooldown).</string>
+	<string key="PerkID_Weapon_CDRBasic_Description" comment="OLD PERK">Light and Heavy attacks reduce your active weapon cooldowns by {[-0.008000 * -100 * {perkMultiplier}]}% ({[0.400000]}s cooldown).</string>
 	<string key="PerkID_Weapon_HealOnDmg_Name" comment="OLD PERK">Lifestealing</string>
 	<string key="PerkID_Weapon_HealOnDmg_Description" comment="OLD PERK">Heal for {[0.010000 * 100 * {perkMultiplier}]}% of the damage you deal (Does not trigger off persistent damage or DoT effects).</string>
 	<string key="PerkID_Weapon_BleedonCrit_Name" comment="OLD PERK">Keenly Jagged</string>
@@ -1700,7 +1700,7 @@
 	<string key="PerkID_Weapon_Attunement_Fire_Name" rel_version="Feature_Dungeon_Mutators" comment="OLD PERK">Flame Attunement</string>
 	<string key="PerkID_Weapon_Attunement_Fire_Description" rel_version="Feature_Dungeon_Mutators" comment="OLD PERK">Attacks deal +{[-0.100000 * -100]}% weapon damage as Fire ({[1.500000]}s cooldown. Does not trigger off persistent damage or DoT effects).</string>
 	<string key="PerkID_Weapon_HercyneRaid_1_Name" rel_version="Season7Perks" comment="OLD PERK">Distained Infliction</string>
-	<string key="PerkID_Weapon_HercyneRaid_1_Description" rel_version="Season7Perks" comment="OLD PERK">Potency of outgoing DoTs are increased by {[0.130000 * 100]}%. Hitting a target inflicted by your DoTs will extend the duration of them by {[0.050000 * 100]}% ({[1.500000]}s Cooldown.) PvE Only: Deal +{[0.050000 * 100]}% base damage against hostile AI inflicted with DoTs.</string>
+	<string key="PerkID_Weapon_HercyneRaid_1_Description" rel_version="Season7Perks" comment="OLD PERK">Potency of outgoing DoTs are increased by {[0.080000 * 100]}%. Hitting a target inflicted by your DoTs will extend the duration of them by {[0.025000 * 100]}% ({[1.500000]}s Cooldown.) PvE Only: Deal +{[0.050000 * 100]}% base damage against hostile AI inflicted with DoTs.</string>
 	<string key="PerkID_Armor_HercyneRaid_1_Name" rel_version="Season7Perks">Hasted Vigor</string>
 	<string key="PerkID_Armor_HercyneRaid_1_Description" rel_version="Season7Perks">Potency of incoming damage over time effects reduced by 7% per armor piece with this perk, and taking a hit while inflicted with a DoT will grant {[0.070000 * 100]}% haste for {[5.000000]}s.</string>
 	<string key="PerkID_Jewelry_HercyneRaid_1_Name" rel_version="Season7Perks" comment="OLD PERK">Unimpeded</string>
@@ -2627,9 +2627,9 @@
 	<string key="PerkID_Armor_Health_Name" comment="OLD PERK">Health</string>
 	<string key="PerkID_Armor_Health_Desc" comment="OLD PERK">Increase max health by {[0.008000 * 100 * {perkMultiplier}]}% of the base value.</string>
 	<string key="PerkID_Armor_DefBasic_Name">Enchanted Ward</string>
-	<string key="PerkID_Armor_DefBasic_Desc">{[0.020000 * 100 * {perkMultiplier}]}% reduced damage from light and heavy attacks.</string>
+	<string key="PerkID_Armor_DefBasic_Desc">{[0.010000 * 100 * {perkMultiplier}]}% reduced damage from light and heavy attacks.</string>
 	<string key="PerkID_Armor_DefGrit_Name">Grit Ward</string>
-	<string key="PerkID_Armor_DefGrit_Desc">{[0.010000 * 100 * {perkMultiplier}]}% reduced damage while under the effects of grit.</string>
+	<string key="PerkID_Armor_DefGrit_Desc">{[0.008000 * 100 * {perkMultiplier}]}% reduced damage while under the effects of grit.</string>
 	<string key="PerkID_Armor_Conditioning_Slash_Name">Slash Conditioning</string>
 	<string key="PerkID_Armor_Conditioning_Slash_Desc">+{[0.030000 * 100]}% Slash Damage Absorption for {[5.000000]}s after taking Slash damage (Each item with this perk stacks).</string>
 	<string key="PerkID_Armor_Conditioning_Thrust_Name">Thrust Conditioning</string>

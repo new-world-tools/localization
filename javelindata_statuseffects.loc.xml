@@ -671,16 +671,6 @@
 	<string key="AI_PlagueRat_PlagueBurstAOE_Tooltip" rel_version="Territory_Dunwood">Poisoned for {[-0.040000 * -100]}% base Nature damage every {[2.000000]} seconds for {[10.000000]} seconds.</string>
 	<string key="AI_PlagueRat_Disease_DisplayName" rel_version="Territory_Dunwood">Disease</string>
 	<string key="AI_PlagueRat_Disease_Tooltip" rel_version="Territory_Dunwood">Reduces healing taken by {[-0.040000 * -100]}%, stacking {[2.000000]} times.</string>
-	<string key="AI_HalloweenPlaguer_PumpkinPlague_DisplayName" rel_version="Event_Halloween_Temp">Pumpkin Plague</string>
-	<string key="AI_HalloweenPlaguer_PumpkinPlague_Tooltip" rel_version="Event_Halloween_Temp">Reduces healing taken by {[-0.020000 * -100]}% for {[60.000000]} seconds, stacking {[25.000000]} times.</string>
-	<string key="AI_HalloweenBoss_PumpkinPlague_DisplayName" rel_version="Event_Halloween_Temp">Pumpkin Plague</string>
-	<string key="AI_HalloweenBoss_PumpkinPlague_Tooltip" rel_version="Event_Halloween_Temp">Reduces healing taken by {[-0.020000 * -100]}% for {[60.000000]} seconds, stacking {[25.000000]} times.</string>
-	<string key="AI_HalloweenGourdspewer_HealPuddle_DisplayName" rel_version="Event_Halloween_Temp">Purifying Aura</string>
-	<string key="AI_HalloweenGourdspewer_HealPuddle_Tooltip" rel_version="Event_Halloween_Temp">Cures Pumpkin Plague and Heals for {[0.050000 * 100]}% base health every {[2.000000]} seconds.</string>
-	<string key="AI_HalloweenPlaguer_HealPuddle_DisplayName" rel_version="Event_Halloween_Temp">Purifying Aura</string>
-	<string key="AI_HalloweenPlaguer_HealPuddle_Tooltip" rel_version="Event_Halloween_Temp">Cures Pumpkin Plague and Heals for {[0.100000 * 100]}% base health every {[2.000000]} seconds.</string>
-	<string key="AI_HalloweenBoss_PutridAura_DisplayName" rel_version="Event_Halloween_Temp">Baalphazu's Curse</string>
-	<string key="AI_HalloweenBoss_PutridAura_Tooltip" rel_version="Event_Halloween_Temp">Take {[-0.066000 * -100]}% base health Nature damage every {[1.000000 * 6]} seconds.</string>
 	<string key="AI_HercyneRat_Disease_DisplayName" rel_version="Territory_FirstLight">Disease</string>
 	<string key="AI_HercyneRat_Disease_Tooltip" rel_version="Territory_FirstLight">Reduces healing taken by {[-0.040000 * -100]}%, stacking {[2.000000]} times.</string>
 	<string key="AI_SpiderBite_DisplayName" rel_version="Raid_CutlassKeys_00">Necrotizing Wound</string>
@@ -1772,6 +1762,11 @@
 	<string key="Status_Upgrade_Lifestaff_Protection_AddHaste_description">Your movement speed is increased by {[0.150000 * 100]}%.</string>
 	<string key="Status_Ability_Lifestaff_Beacon_description">You heal for {[0.160000 * 100]}% casters weapon damage.</string>
 	<string key="Status_Timer_HealingCDROnLow_Description">When this timer is over, Life Staff's Desperate Speed can be triggered again.</string>
+	<string key="Status_Dagger_Stealth_DesplayName" comment="DAGGER + DO NOT TRANSLATE" rel_version="Weapon_Dagger">Stealth</string>
+	<string key="Status_Dagger_Stealth_Description" comment="DAGGER + DO NOT TRANSLATE" rel_version="Weapon_Dagger">Player is hidden in a veil of stealth</string>
+	<string key="Status_Dagger_Surprise_DisplayName" comment="DAGGER + DO NOT TRANSLATE" rel_version="Weapon_Dagger">Surprised</string>
+	<string key="Status_Dagger_Surprise_Description" comment="DAGGER + DO NOT TRANSLATE" rel_version="Weapon_Dagger">You are surprised and are more vulnerable to some attacks.</string>
+	<string key="Status_Upgrade_Dagger_DoubleNeckStab_Weaken_Description" comment="DAGGER + DO NOT TRANSLATE" rel_version="Weapon_Dagger">Your outgoing damage is reduced by {[-0.150000 * 100]}%.</string>
 	<string key="Status_Perk_Amulet_StamOnLow_Timer_description">When this ends your Amulet Stamina Recovery can trigger again.</string>
 	<string key="Status_Perk_Amulet_ManaOnLow_Timer_description">When this ends your Amulet Mana Recovery can trigger again.</string>
 	<string key="Status_Perk_Amulet_RemoveOnLow_Timer_description">When this ends your Amulet Purify can trigger again.</string>

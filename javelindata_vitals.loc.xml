@@ -3879,10 +3879,7 @@
 	<string key="fl_dg_firstlight_01_gorilla_ice_Named_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_FirstLight">Mbita</string>
 	<string key="fl_dg_firstlight_01_gorilla_ranged_Named_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_FirstLight">Otesha</string>
 	<string key="fl_dg_firstlight_01_gorilla_lightning_named_miniboss_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_FirstLight">Truk</string>
-	<string key="Gourdspewer_Halloween_2022_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Event_Halloween_Temp">Gourdspewer</string>
-	<string key="Gourdspewer_VineLeg_Minion_Halloween_2022_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Event_Halloween_Temp">Gourdspewer Leg</string>
 	<string key="HalloweenBoss_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Baalphazu</string>
-	<string key="Halloween_2022_Plaguer_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Event_Halloween_Temp">Calabasher</string>
 	<string key="Hercyne_Boar_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_FirstLight">Hercyne Boar</string>
 	<string key="Hercyne_Boar_Alpha_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_FirstLight">Hercyne Alpha Boar</string>
 	<string key="Hercyne_Boar_WaveEvent_VitalsName" comment="Named Variant" speaker="Vitals Sheet" rel_version="Territory_FirstLight">Metzger's Monster</string>
@@ -5237,7 +5234,7 @@
 	<string key="Swamp_Dryad_Beast_Named_DG_Edengrove_00_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Taxodius</string>
 	<string key="Swamp_Dryad_Beast_Named_DG_Edengrove_01_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Tax'i</string>
 	<string key="Swamp_Dryad_Beast_Named_DG_Edengrove_02_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">O'dus</string>
-	<string key="Swamp_Dryad_Beast_Named_ELITE_05WC10_VitalsName" comment="ELITE Named Variant" speaker="Vitals Sheet">Avarice</string>
+	<string key="Swamp_Dryad_Beast_Named_ELITE_05WC10_VitalsName" comment="ELITE Named Variant" speaker="Vitals Sheet">Orellani</string>
 	<string key="Swamp_Dryad_Beast_VitalsName" comment="BASE" speaker="Vitals Sheet">Swamp Dryad Beast</string>
 	<string key="FL_Swamp_Dryad_Beast_Named_09FL08_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_FirstLight">Adiana's Chosen Beast</string>
 	<string key="Swamp_Dryad_Mini_Beast_VitalsName" comment="BASE" speaker="Vitals Sheet">Swampling</string>
@@ -12042,7 +12039,7 @@
 	<string key="VC_Swamp_Dryad_Beast_Named_DG_Edengrove_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Taxodius</string>
 	<string key="VC_Swamp_Dryad_Beast_Named_DG_Edengrove_01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Tax'i</string>
 	<string key="VC_Swamp_Dryad_Beast_Named_DG_Edengrove_02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">O'dus</string>
-	<string key="VC_Swamp_Dryad_Beast_Named_ELITE_05WC10" comment="ELITE Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Avarice</string>
+	<string key="VC_Swamp_Dryad_Beast_Named_ELITE_05WC10" comment="ELITE Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Orellani</string>
 	<string key="VC_Swamp_Dryad_Beast_Named_09FL08" comment="ELITE Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Territory_FirstLight">Elafry Pyrgo Beast</string>
 	<string key="VC_FL_Swamp_Dryad_Prowler" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Territory_FirstLight">Stoneseep Stalker</string>
 	<string key="VC_FL_Swamp_Dryad_Prowler_09FL02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Territory_FirstLight">Stoneseep Stalker</string>
@@ -15862,6 +15859,25 @@
 	<string key="WB_Mammoth_FL_Mahantaram_Minion_Ice_VitalsName" speaker="Vitals Sheet" rel_version="Season_8_Perm">Elysian Ice Mammoth</string>
 	<string key="WB_Mammoth_FL_Mahantaram_Minion_Lightning_VitalsName" speaker="Vitals Sheet" rel_version="Season_8_Perm">Elysian Lightning Mammoth</string>
 	<string key="WB_Mammoth_FL_Mahantaram_Minion_Nature_VitalsName" speaker="Vitals Sheet" rel_version="Season_8_Perm">Elysian Nature Mammoth</string>
+	<string key="Undead_Shaman_Named_ELITE_RW_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Reekwater_Uplevel">Feral Shaman</string>
+	<string key="VC_Undead_Shaman_Named_ELITE_RW" speaker="VitalsCategory Sheet" rel_version="Territory_Reekwater_Uplevel">Feral Shaman</string>
+	<string key="Undead_Pirate_Brute_70_ELITE_RW_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Reekwater_Uplevel">Feral Brute</string>
+	<string key="VC_Undead_Pirate_Brute_70_ELITE_RW" speaker="VitalsCategory Sheet" rel_version="Territory_Reekwater_Uplevel">Feral Brute</string>
+	<string key="Undead_Pirate_Brute_Named_ELITE_RW_01_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Reekwater_Uplevel">Greedy Grimely</string>
+	<string key="VC_Undead_Pirate_Brute_Named_ELITE_RW_01" speaker="VitalsCategory Sheet" rel_version="Territory_Reekwater_Uplevel">Greedy Grimely</string>
+	<string key="Undead_Pirate_Brute_Named_ELITE_RW_02_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Reekwater_Uplevel">Cannoneer Bileblast</string>
+	<string key="VC_Undead_Pirate_Brute_Named_ELITE_RW_02" speaker="VitalsCategory Sheet" rel_version="Territory_Reekwater_Uplevel">Cannoneer Bileblast</string>
+	<string key="Ghost_Shackled_Named_ELITE_RW_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Reekwater_Uplevel">Fleet's Curse</string>
+	<string key="VC_Ghost_Shackled_Named_ELITE_RW" speaker="VitalsCategory Sheet" rel_version="Territory_Reekwater_Uplevel">Fleet's Curse</string>
+	<string key="RW_Siege_Pool_BlightedWall_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Reekwater_Uplevel">Wall of Blight</string>
+	<string key="BearElemental_Named_ELITE_05WC10_Invulnerable_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Reekwater_Uplevel">Wallbreaker</string>
+	<string key="RW_Siege_Pool_Named_Spriggan_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Reekwater_Uplevel">Fist of Chardis</string>
+	<string key="RW_Siege_Pool_Named_Shaman_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Reekwater_Uplevel">Eye of Chardis</string>
+	<string key="RW_Siege_Pool_Named_Tendril_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Reekwater_Uplevel">Arm of Chardis</string>
+	<string key="RW_Siege_Pool_Unstable_Swamp_Fiend_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Reekwater_Uplevel">Poison Detonator</string>
+	<string key="RW_Siege_Pool_Rat_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Reekwater_Uplevel">Poison Rat</string>
+	<string key="VC_RW_Siege_Pool_BlightedWall" speaker="VitalsCategory Sheet" rel_version="Territory_Reekwater_Uplevel">Wall of Blight</string>
+	<string key="VC_BearElemental_Named_ELITE_05WC10_Invulnerable" speaker="VitalsCategory Sheet" rel_version="Territory_Reekwater_Uplevel">Wallbreaker</string>
 	<string key="VC_IoN_Lost_Monarch_Elite" speaker="VitalsCategory Sheet" rel_version="Raid_MonarchsBluffs_00">Condemned Palatine Guard</string>
 	<string key="VC_IoN_Lost_Brute_Elite" speaker="VitalsCategory Sheet" rel_version="Raid_MonarchsBluffs_00">Durned Abomination</string>
 	<string key="VC_IoN_Lost_Naga_Elite" speaker="VitalsCategory Sheet" rel_version="Raid_MonarchsBluffs_00">Ill-Fated Naga</string>

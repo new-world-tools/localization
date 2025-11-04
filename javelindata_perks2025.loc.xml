@@ -304,6 +304,18 @@
 	<string key="PerkID_WeaponMastery_Flail_Trip_Description" rel_version="ProgressionOverhaul2025">If Trip's first attack hits a target with active grit, the attack deals {[0.300000 * 100 * {perkMultiplier}]}% more base damage.</string>
 	<string key="PerkID_WeaponMastery_Flail_DefensiveStrike_Name" rel_version="ProgressionOverhaul2025">Crowded Bludgeon II</string>
 	<string key="PerkID_WeaponMastery_Flail_DefensiveStrike_Description" rel_version="ProgressionOverhaul2025">If {[2.000000]} or more targets are hit with warding bludgeon, even if the hits are blocked, gain {[0.100000 * 100 * {perkMultiplier}]}% Empower for {[6.000000]}s.</string>
+	<string key="PerkID_WeaponMastery_Dagger_DoubleNeckStab_Name" rel_version="Weapon_Dagger">Pain in the Neck II</string>
+	<string key="PerkID_WeaponMastery_Dagger_DoubleNeckStab_Description" rel_version="Weapon_Dagger">If double neck stab critically hits, for the next {[5.000000]}s, gain {[0.075000 * 100 * {perkMultiplier}]}% haste, and reduce the potency of all debilitate effects on you by {[-0.150000 * -100 * {perkMultiplier}]}%.</string>
+	<string key="PerkID_WeaponMastery_Dagger_FrenziedSlashes_Name" rel_version="Weapon_Dagger">Trenchant Frenzy II</string>
+	<string key="PerkID_WeaponMastery_Dagger_FrenziedSlashes_Description" rel_version="Weapon_Dagger">If you achieve {[5.000000]} successsful hits with Frenzied Slashes, for the next {[5.000000]}s, Dagger heavy attacks apply a stack of {[-0.020000 * -100 * {perkMultiplier}]}% bleed for {[3.000000]}s (max {[5.000000]} stacks)</string>
+	<string key="PerkID_WeaponMastery_Dagger_ThrustingSlice_Name" rel_version="Weapon_Dagger">Slippery Maneuver II</string>
+	<string key="PerkID_WeaponMastery_Dagger_ThrustingSlice_Description" rel_version="Weapon_Dagger">Thrusting slice can now pass through enemies and allies, and will deal {[0.110000 * 100 * {perkMultiplier}]}% increased base damage.</string>
+	<string key="PerkID_WeaponMastery_Dagger_Stealth_Name" rel_version="Weapon_Dagger">Knave Assault II</string>
+	<string key="PerkID_WeaponMastery_Dagger_Stealth_Description" rel_version="Weapon_Dagger">Hitting a target that has been Surprised by stealth will inflict {[-0.080000 * -100 * {perkMultiplier}]}% poison and {[-0.060000 * -100 * {perkMultiplier}]}% weaken for {[3.000000]}s.</string>
+	<string key="PerkID_WeaponMastery_Dagger_Ambush_Name" rel_version="Weapon_Dagger">Bushwhacked II</string>
+	<string key="PerkID_WeaponMastery_Dagger_Ambush_Description" rel_version="Weapon_Dagger">Hitting a target that is above {[70.000000]}% health with Ambush will deal {[0.090000 * 100 * {perkMultiplier}]}% increased base damage, and will grant you {[0.130000 * 100 * {perkMultiplier}]}% Energized for {[5.000000]}s.</string>
+	<string key="PerkID_WeaponMastery_Dagger_CripplingSling_Name" rel_version="Weapon_Dagger">Distanced Zing II</string>
+	<string key="PerkID_WeaponMastery_Dagger_CripplingSling_Description" rel_version="Weapon_Dagger">Crippling Sling hits within {[8.000000]}m deal {[0.100000 * 100 * {perkMultiplier}]}% increased base damage. Crippling Sling hits beyond {[8.000000]}m inflict {[-0.100000 * -100 * {perkMultiplier}]}% Exhaust and {[-0.050000 * -100 * {perkMultiplier}]}% Poison for {[4.000000]}s.</string>
 	<string key="PerkID_Slottable_Common_DurCC_Name" rel_version="ProgressionOverhaul2025">Freedom II</string>
 	<string key="PerkID_Slottable_Common_DurCC_Description" rel_version="ProgressionOverhaul2025">Reduce the base duration of Slow, Stun, and Root by {[-0.117800 * -100 * {perkMultiplier}]}%.</string>
 	<string key="PerkID_Slottable_Common_DurDot_Name" rel_version="ProgressionOverhaul2025">Vigor II</string>
@@ -315,7 +327,7 @@
 	<string key="PerkID_Slottable_Common_RangeDefense_Physical_Name" rel_version="ProgressionOverhaul2025">Physical Aversion II</string>
 	<string key="PerkID_Slottable_Common_RangeDefense_Physical_Description" rel_version="ProgressionOverhaul2025">Receive {[0.028300 * 100 * {perkMultiplier}]}% less damage from ranged, physical attacks.</string>
 	<string key="PerkID_Slottable_Common_RangeDefense_Elemental_Name" rel_version="ProgressionOverhaul2025">Elemental Aversion II</string>
-	<string key="PerkID_Slottable_Common_RangeDefense_Elemental_Description" rel_version="ProgressionOverhaul2025">Receive {[0.023600 * 100 * {perkMultiplier}]}% less damage from ranged, elemental attacks.</string>
+	<string key="PerkID_Slottable_Common_RangeDefense_Elemental_Description" rel_version="ProgressionOverhaul2025">Receive {[0.028300 * 100 * {perkMultiplier}]}% less damage from ranged, elemental attacks.</string>
 	<string key="PerkID_Slottable_Common_PvP_DodgeSuccess_Heal_Name" rel_version="ProgressionOverhaul2025">Shirking Heals II</string>
 	<string key="PerkID_Slottable_Common_PvP_DodgeSuccess_Heal_Description" rel_version="ProgressionOverhaul2025">PvP Only: Dodging an attack heals {[157.000000 * {perkMultiplier}]} Health and {[0.009500 * 100 * {perkMultiplier}]}% of your max Health (Each armor piece with this perk adds a stack. Max 1 trigger every {[7.000000]}s).</string>
 	<string key="PerkID_Slottable_Common_DurFortify_Name" rel_version="ProgressionOverhaul2025">Fortified II</string>
@@ -327,7 +339,7 @@
 	<string key="PerkID_Slottable_Common_LifestealHealing_Name" rel_version="ProgressionOverhaul2025">Anointed Lifesteal II</string>
 	<string key="PerkID_Slottable_Common_LifestealHealing_Description" rel_version="ProgressionOverhaul2025">{[0.055000 * 100]}% increased healing from lifesteals.</string>
 	<string key="PerkID_Slottable_Common_DefGrit_Name" rel_version="ProgressionOverhaul2025">Grit Ward II</string>
-	<string key="PerkID_Slottable_Common_DefGrit_Description" rel_version="ProgressionOverhaul2025">{[0.017300 * 100 * {perkMultiplier}]}% reduced damage taken while under the effects of grit.</string>
+	<string key="PerkID_Slottable_Common_DefGrit_Description" rel_version="ProgressionOverhaul2025">{[0.018900 * 100 * {perkMultiplier}]}% reduced damage taken while under the effects of grit.</string>
 	<string key="PerkID_Slottable_Common_DefBasic_Name" rel_version="ProgressionOverhaul2025">Enchanted Ward II</string>
 	<string key="PerkID_Slottable_Common_DefBasic_Description" rel_version="ProgressionOverhaul2025">{[0.016000 * 100 * {perkMultiplier}]}% reduced damage taken from light and heavy attacks.</string>
 	<string key="PerkID_Slottable_Common_EnergizedPotencyInc_Name" rel_version="ProgressionOverhaul2025">Potent Vivacity II</string>
@@ -631,7 +643,7 @@
 	<string key="PerkID_Fixed_Earring_CDR_Name" rel_version="ProgressionOverhaul2025">Refreshment II</string>
 	<string key="PerkID_Fixed_Earring_CDR_Description" rel_version="ProgressionOverhaul2025">Reduce max cooldowns by {[-0.078600 * -100 * {perkMultiplier}]}%</string>
 	<string key="PerkID_Fixed_Earring_CDRBasic_Name" rel_version="ProgressionOverhaul2025">Refreshing Move II</string>
-	<string key="PerkID_Fixed_Earring_CDRBasic_Description" rel_version="ProgressionOverhaul2025">Light attacks reduce your active weapon cooldowns by {[-0.007900 * -100 * {perkMultiplier}]}% and Heavy attacks reduce them by {[-0.015700 * -100 * {perkMultiplier}]}% ({[0.200000]}s cooldown)</string>
+	<string key="PerkID_Fixed_Earring_CDRBasic_Description" rel_version="ProgressionOverhaul2025">Light attacks reduce your active weapon cooldowns by {[-0.015700 * -100 * {perkMultiplier}]}% and Heavy attacks reduce them by {[-0.023600 * -100 * {perkMultiplier}]}% ({[0.200000]}s cooldown)</string>
 	<string key="PerkID_Fixed_Earring_LowCooldown_Name" rel_version="ProgressionOverhaul2025">Refreshing Recovery II</string>
 	<string key="PerkID_Fixed_Earring_LowCooldown_Description" rel_version="ProgressionOverhaul2025">When your health drops below {[50.000000]}% all your active abilities cooldowns are reset ({[60.000000]}s cooldown)</string>
 	<string key="PerkID_Fixed_Earring_HealthRegen_Name" rel_version="ProgressionOverhaul2025">Regeneration II</string>

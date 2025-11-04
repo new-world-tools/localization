@@ -345,5 +345,9 @@
 	<string key="ui_mounts_Ghosthorse_description" rel_version="Season_10_Perm">Chloros obeys only Death... and those marked for it.</string>
 	<string key="ui_mounts_MTX_3_grunt_name" rel_version="Feature_Mounts_Grunt">Charnel</string>
 	<string key="ui_mounts_MTX_3_grunt_description" rel_version="Feature_Mounts_Grunt">Fear is just an appetizer for this fearsome creature.</string>
+	<string key="ui_mounts_MTX_1_skeletonturkey_name" rel_version="Season_10_Perm">Gizzard</string>
+	<string key="ui_mounts_skeletonturkey_description" rel_version="Season_10_Perm">Death should be a celebration, not a tragedy. And if there's a feast, hopefully it's beef that's on the menu.\n\nNOTE: This mount cannot be dyed, and it does not display attachments.</string>
+	<string key="ui_mounts_MTX_1_skeletonhorse_name" rel_version="Season_10_Perm">Styx</string>
+	<string key="ui_mounts_skeletonhorse_description" rel_version="Season_10_Perm">Life is a road well trodden. She waits for you at its end.</string>
 </resources>
 
