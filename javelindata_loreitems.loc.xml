@@ -3927,6 +3927,99 @@
 	<string key="Topic_17_IQ_Title_01_05" rel_version="Territory_Dunwood">Catalogue of the Inquisition, Part V</string>
 	<string key="Topic_17_IQ_Subtitle_01_05" rel_version="Territory_Dunwood">The Order Has Failed</string>
 	<string key="Topic_17_IQ_Body_01_05" rel_version="Territory_Dunwood">Why I scrawl these paltry thoughts in these my final hours, I know naught. But as I am the last alive in body, and in reason, and in morality… let me record this truth: The Lightshield Crusade is over. We were not successful. Alecksi has won. But it was Corruption that defeated us.\n\nI do not seek absolution, for I do not believe the fault was mine. Indeed, I witnessed the erosion of our integrity from the very start of its weathering -- and though I sought to reinforce each flaw that appeared in our foundations, the mortar of my words was too dilute and the brick of my actions too brittle.\n\nThey say their imminent ritual will create 'wonder'. What a strange word to call a sacrifice.</string>
+	<string key="Topic_17_ZQU" rel_version="AffinityQuests">Tales of the Upyr</string>
+	<string key="Topic_Description_17_ZQU" rel_version="AffinityQuests">A collection of notes from adventures with the Upyr</string>
+	<string key="Topic_17_ZQB" rel_version="AffinityQuests">Tales of the Berlaur</string>
+	<string key="Topic_Description_17_ZQB" rel_version="AffinityQuests">A collection of notes from adventures with the Berlaur</string>
+	<string key="17_ZQU_Chapter_01" rel_version="AffinityQuests">A Clandestine Meeting</string>
+	<string key="17_ZQU_Title_01_01" rel_version="AffinityQuests">Let's talk</string>
+	<string key="17_ZQU_Subtitle_01_01" rel_version="AffinityQuests">An unassuming note that was placed conspicuously.</string>
+	<string key="17_ZQU_Body_01_01" rel_version="AffinityQuests">Wine cellars.</string>
+	<string key="17_ZQU_Title_01_02" rel_version="AffinityQuests">By the way</string>
+	<string key="17_ZQU_Subtitle_01_02" rel_version="AffinityQuests">An unassuming note that was placed conspicuously.</string>
+	<string key="17_ZQU_Body_01_02" rel_version="AffinityQuests">It was you, wasn't it? What happened to Alecksi. Tsk tsk.</string>
+	<string key="17_ZQU_Title_01_03" rel_version="AffinityQuests">Almost there</string>
+	<string key="17_ZQU_Subtitle_01_03" rel_version="AffinityQuests">An unassuming note that was placed conspicuously.</string>
+	<string key="17_ZQU_Body_01_03" rel_version="AffinityQuests">Do you know who I am yet?</string>
+	<string key="17_ZQU_Chapter_02" rel_version="AffinityQuests">House Carmilla</string>
+	<string key="17_ZQU_Title_02_01" rel_version="AffinityQuests">What Challenge</string>
+	<string key="17_ZQU_Subtitle_02_01" rel_version="AffinityQuests">A neatly folded, unassuming note.</string>
+	<string key="17_ZQU_Body_02_01" rel_version="AffinityQuests">What challenge is this challenge, I wonder? \n\nI think battle shan't be one for you, though it must be done for that is the way of our kind.\n\nThen show me you can be quick of hand.\n\nTake our founder's crest. Bring it to me.\n\nThe crown and the hand, show me you understand.\n\n-C\n</string>
+	<string key="17_ZQU_Chapter_03" rel_version="AffinityQuests">House Báthory</string>
+	<string key="17_ZQU_Title_03_01" rel_version="AffinityQuests">The Scent of a Warrior: Second Smell</string>
+	<string key="17_ZQU_Subtitle_03_01" rel_version="AffinityQuests">From an inscription on the wall in House Báthory.</string>
+	<string key="17_ZQU_Body_03_01" rel_version="AffinityQuests">In ancient Nighthaven, battles were fought almost entirely at a distance. \n\nRange is the second smell of the warrior.</string>
+	<string key="17_ZQU_Title_03_02" rel_version="AffinityQuests">The Scent of a Warrior: First Smell</string>
+	<string key="17_ZQU_Subtitle_03_02" rel_version="AffinityQuests">From an inscription on the wall in House Báthory.</string>
+	<string key="17_ZQU_Body_03_02" rel_version="AffinityQuests">A fight is not always toe to toe.\n\nAgility, the first smell of the warrior.</string>
+	<string key="17_ZQU_Title_03_03" rel_version="AffinityQuests">The Scent of a Warrior: Third Smell</string>
+	<string key="17_ZQU_Subtitle_03_03" rel_version="AffinityQuests">From an inscription on the wall in House Báthory.</string>
+	<string key="17_ZQU_Body_03_03" rel_version="AffinityQuests">When a fight ends nose to nose, your strength must be the greater, if not your smell.\n\nPower is the third smell of the warrior.</string>
+	<string key="17_ZQU_Chapter_04" rel_version="AffinityQuests">Assassins</string>
+	<string key="17_ZQU_Title_04_01" rel_version="AffinityQuests">Missive</string>
+	<string key="17_ZQU_Subtitle_04_01" rel_version="AffinityQuests">A scrap of parchment with minute lettering.</string>
+	<string key="17_ZQU_Body_04_01" rel_version="AffinityQuests">The daughter must not receive the gift. Have the scholar visit. If not, all options available for both.</string>
+	<string key="17_ZQU_Chapter_05" rel_version="AffinityQuests">Lord Munzur</string>
+	<string key="17_ZQU_Title_05_01" rel_version="AffinityQuests">The Sun Key</string>
+	<string key="17_ZQU_Subtitle_05_01" rel_version="AffinityQuests">An inscription next to a large chest</string>
+	<string key="17_ZQU_Body_05_01" rel_version="AffinityQuests">Who comes seeking? Would that I could grasp your hand, and ask of you many things.\n\nThe future is a dark dream that the Great Ones would continue. That is why I have written the Blood Atlas. To protect that which has not yet needed protection.\n\nSeeker, harken well for the Key:\n\n&lt;b&gt;&lt;i&gt;WHEN WEST TURNS EAST AND SOUTH IS NORTH&lt;/i&gt;&lt;/b&gt;\n&lt;b&gt;&lt;i&gt;RAVENS TAKE HEED&lt;/i&gt;&lt;/b&gt;\n&lt;b&gt;&lt;i&gt;TO BRING THE SUN FORTH&lt;/i&gt;&lt;/b&gt;</string>
+	<string key="17_ZQU_Chapter_06" rel_version="AffinityQuests">Everard</string>
+	<string key="17_ZQU_Title_06_01" rel_version="AffinityQuests">Farewell</string>
+	<string key="17_ZQU_Subtitle_06_01" rel_version="AffinityQuests">A hastily penned letter.</string>
+	<string key="17_ZQU_Body_06_01" rel_version="AffinityQuests">Dearest L, My hunt is nearly at an end. \n\nTonight the hounds'll sup on lion. I've always loved you, though I knew it to be as impossible as our dream. \n\nBut we crawled free from the weight of at least one king's iron &lt;i&gt;crone&lt;/i&gt;, have we not? A clear night &lt;i&gt;well&lt;/i&gt; surely fall one day over all of Nighthaven. Yours eternally.\n\n-E\n\n&lt;i&gt;(Upon close examination, the words "crone" and "well" are slightly emphasized. Perhaps it's time to pay Cronewell Cathedral a visit.)&lt;/i&gt;</string>
+	<string key="17_ZQB_Chapter_01" rel_version="AffinityQuests">Spiders</string>
+	<string key="17_ZQB_Title_01_01" rel_version="AffinityQuests">Grab gold from the spiders while you can!</string>
+	<string key="17_ZQB_Subtitle_01_01" rel_version="AffinityQuests">A scrap of letter found half-trampled into the mud.</string>
+	<string key="17_ZQB_Body_01_01" rel_version="AffinityQuests">Aw, Aric, those spiders got GOLD in their caves, armfuls of it all wrapped up in their webs, from what I hear. Come on out, lots of people are doing it. Sure some say people disappeared in there. But guess what? Spiders have shit for vision. If you don't look at them, they can't see you. If you close your eyes? INVISIBLE. Don't blame me if you're still stuck in the village whilst I've bought my way to freedom and riding a carriage in Brimstone Sands. And if these spiders don't have any treasures? Well, it's better to be asleep in a web hammock instead of having whatnot inside of us be a forever dinner for those gray-skinned ghouls.</string>
+	<string key="17_ZQB_Chapter_02" rel_version="AffinityQuests">Cornelius</string>
+	<string key="17_ZQB_Title_02_01" rel_version="AffinityQuests">Crang Sacru: Extensive History</string>
+	<string key="17_ZQB_Subtitle_02_01" rel_version="AffinityQuests">This worn book has survived hundreds of years.</string>
+	<string key="17_ZQB_Body_02_01" rel_version="AffinityQuests">This tome details the history of Crang Sacru and how it's traded hands over the years since the time the Beast Lords dwelt in Nighthaven.\n\nIt is also unfortunately incredibly boring.</string>
+	<string key="17_ZQB_Title_02_02" rel_version="AffinityQuests">A Recipe to STOP HAIR LOSS</string>
+	<string key="17_ZQB_Subtitle_02_02" rel_version="AffinityQuests">A recipe written in neat, crimped handwriting.</string>
+	<string key="17_ZQB_Body_02_02" rel_version="AffinityQuests">1/2 LIZARD\nMANY EGGS\n3 ARMFULS CRUSHED GRASSHOPPER LARVAE\n\n(Mix with mud and roll around in it. Warning: shells may stick to fur.)\n</string>
+	<string key="17_ZQB_Title_02_03" rel_version="AffinityQuests">Reminder</string>
+	<string key="17_ZQB_Subtitle_02_03" rel_version="AffinityQuests">A torn off scrap of paper with some scribbles on it.</string>
+	<string key="17_ZQB_Body_02_03" rel_version="AffinityQuests">Remember to get the spiderlion paste from other important things in upper den. Unless already got it?\nCan't remember.</string>
+	<string key="17_ZQB_Title_02_04" rel_version="AffinityQuests">Treating Poison</string>
+	<string key="17_ZQB_Subtitle_02_04" rel_version="AffinityQuests">Pages torn from a healer's journal</string>
+	<string key="17_ZQB_Body_02_04" rel_version="AffinityQuests">These pages describe the treatment of poisons. \n\nApparently Cornelius has been helping to treat the villagers who were bitten by spiders.</string>
+	<string key="17_ZQB_Title_02_05" rel_version="AffinityQuests">Lure of the Lionberry</string>
+	<string key="17_ZQB_Subtitle_02_05" rel_version="AffinityQuests">A page from a book on Berlaur tribal lore.</string>
+	<string key="17_ZQB_Body_02_05" rel_version="AffinityQuests">The lionberry- so unassuming, yet so delicious it has even started wars among clans whose land can grow it. Take the werebears in Ursa's Sanctum where the lionberries grow in plenty. During a siege of Ursa's Sanctum, the attemping invaders Blood Clan chief said famously of the starving werebears:\n\n"Let 'em eat lionberries."\n</string>
+	<string key="17_ZQB_Title_02_06" rel_version="AffinityQuests">Danica's leg</string>
+	<string key="17_ZQB_Subtitle_02_06" rel_version="AffinityQuests">A page torn from an explorer's journal. One wonders what happened to the explorer.</string>
+	<string key="17_ZQB_Body_02_06" rel_version="AffinityQuests">March 9th.\n\nDanica's leg was badly injured and she had to be sedated. I watched, with a hollow feeling in my gut, as I was the one responsible for her leg being as it was.\n\nI watched as she choked down a thimbleful of prismweaver venom we got from the spiders at Silkfoot Crag.\n\nI don't know what I expected- but she fell into a deep stupor- close to death, if that were possible here. \n\n&lt;i&gt;(There's a hand-scrawled note on the page commenting that the same dosage might only put a Berlaur into a pleasant sleep.)&lt;/i&gt;</string>
+	<string key="17_ZQB_Title_02_07" rel_version="AffinityQuests">Dreaming Lionberry Juice</string>
+	<string key="17_ZQB_Subtitle_02_07" rel_version="AffinityQuests">A recipe written in neat, crimped handwriting/</string>
+	<string key="17_ZQB_Body_02_07" rel_version="AffinityQuests">-VENOM GLANDS- HAS TO BE FROM PRISMWEAVERS- OTHERS ARE JUST POISON AND CAUSE DIARRHEA\n\n-LIONBERRIES- ABOUT HALF AS MANY PAW-FULS\n\nMASH IT TOGETHER. OPTIONAL: ADD WATER\n\nPUTS YOU TO SLEEP INSTANTLY.\n\nREMINDER- DON'T DRINK IT IN FRONT OF FORGE AGAIN.</string>
+	<string key="17_ZQB_Chapter_03" rel_version="AffinityQuests">Gariel</string>
+	<string key="17_ZQB_Title_03_01" rel_version="AffinityQuests">Love hate love you so much</string>
+	<string key="17_ZQB_Subtitle_03_01" rel_version="AffinityQuests">A tear-stained journal page.</string>
+	<string key="17_ZQB_Body_03_01" rel_version="AffinityQuests">ANCA I HATE YOU SO MUCH EVEN WHEN YOU MADE ME KNOCK YOU INTO THAT TOWER. MAYBE YOU DON'T THINK SO BUT IT WAS JUST AS HARD FOR ME TO LEAVE YOU THERE AS IT WAS FOR YOU TO REJECT ME AGAIN AND AGAIN.\n\nAND SONIA, MY SUNNY SONIA. I CALL TO YOU BUT YOU CAN'T HEAR ME IN THE CATACOMBS CAN YOU? THAT'S A JOKE BECAUSE I LOVE YOUR SMILE SO MUCH IT HURTS MY HEAD.\n\n&lt;i&gt;(At the bottom of the page there are two locations circled on a hand-drawn map.)&lt;/i&gt;</string>
+	<string key="17_ZQB_Chapter_04" rel_version="AffinityQuests">Baroness Anastasia</string>
+	<string key="17_ZQB_Title_04_01" rel_version="AffinityQuests">Moonscale soon</string>
+	<string key="17_ZQB_Subtitle_04_01" rel_version="AffinityQuests">A small, unassuming scroll from the Baroness Anastasia's laboratory.</string>
+	<string key="17_ZQB_Body_04_01" rel_version="AffinityQuests">Baroness,\n\nCelebration soon. Send your servants, your kind can't come near the Moonscale. I will give the humans the key. Have them lock the shrine and take the key after job is done.\n</string>
+	<string key="17_ZQB_Chapter_05" rel_version="AffinityQuests">Costas</string>
+	<string key="17_ZQB_Title_05_01" rel_version="AffinityQuests">New Rule #38: A Proper Address for the Pack Leader</string>
+	<string key="17_ZQB_Subtitle_05_01" rel_version="AffinityQuests">A crumpled up page.</string>
+	<string key="17_ZQB_Body_05_01" rel_version="AffinityQuests">All Umbra Clan pack members: From today onward, all will address Costas as "Great Pack Leader Costas." This will make the pack great by raising spirits in the freedom and generosity that our new Leader brings.\n\nThose not addressing our Leader in this manner will be cut to half rations.\n</string>
+	<string key="17_ZQB_Chapter_06" rel_version="AffinityQuests">The Bloodbeast</string>
+	<string key="17_ZQB_Title_06_01" rel_version="AffinityQuests">The pain</string>
+	<string key="17_ZQB_Subtitle_06_01" rel_version="AffinityQuests">A torn page written in a desperate scrawling hand</string>
+	<string key="17_ZQB_Body_06_01" rel_version="AffinityQuests">upyr unchained me. i- have some clarity of mind, for how long I do not know. My body- I barely recognize it- they have - turned me but not- a half measure- i cannot ever return to my pack to my friends. my body- broken. twisted. hunger- pain. mustn't kill. oh, Lyceon, my friend. would that you never see me like this.</string>
+	<string key="17_ZQB_Chapter_07" rel_version="AffinityQuests">Gorm</string>
+	<string key="17_ZQB_Title_07_01" rel_version="AffinityQuests">I'm scared</string>
+	<string key="17_ZQB_Subtitle_07_01" rel_version="AffinityQuests">A hastily written note penned in an otherwise boring journal.</string>
+	<string key="17_ZQB_Body_07_01" rel_version="AffinityQuests">How can he do this, work with the Upyr, against his own people? I don't know why he brought me. \n\nMaybe because I'm too dumb and scared to tell anyone what he's doing. But it's wrong. \n\nHe was talking about the Moonscale and how they were going to do something to it. But I don't know who I can tell. Feel like everyone's looking at me funny now.</string>
+	<string key="17_ZQB_Chapter_08" rel_version="AffinityQuests">True Seeing</string>
+	<string key="17_ZQB_Title_08_01" rel_version="AffinityQuests">The Staff of Divination</string>
+	<string key="17_ZQB_Subtitle_08_01" rel_version="AffinityQuests">From a plaque next to a statue bearing the Staff of Divination.</string>
+	<string key="17_ZQB_Body_08_01" rel_version="AffinityQuests">Power Divine is called when\n\nUpyr angels rain destruction upon the beasts</string>
+	<string key="17_ZQB_Title_03_02" rel_version="AffinityQuests">Sonia Sonia Sonia</string>
+	<string key="17_ZQB_Subtitle_03_02" rel_version="AffinityQuests">A crumpled up ball of paper</string>
+	<string key="17_ZQB_Body_03_02" rel_version="AffinityQuests">Sonia Sonia Sonia\nSonia Sonia Sonia Sonia\nSonia Sonia Sonia Sonia Sonia\n\nI'm going to miss you a lot. \nSorry you made me leave you here.\n</string>
 	<string key="Topic_17_Nighthaven_Chapter_03" rel_version="Territory_Dunwood">The Arcana Cards</string>
 	<string key="Topic_17_Nighthaven_Title_03_01" rel_version="Territory_Dunwood">The Fool</string>
 	<string key="Topic_17_Nighthaven_Subtitle_03_01" rel_version="Territory_Dunwood">A card of new beginnings.</string>
@@ -4000,6 +4093,32 @@
 	<string key="Topic_17_Nighthaven_Title_03_24" rel_version="Territory_Dunwood">Rebirth</string>
 	<string key="Topic_17_Nighthaven_Subtitle_03_24" rel_version="Territory_Dunwood">A card of fresh starts, with new wisdom gained.</string>
 	<string key="Topic_17_Nighthaven_Body_03_24" rel_version="Territory_Dunwood">&lt;img vAlign="center" scale="1" height="440" yOffset="0" xPadding="5" src="LyShineUI/Images/LoreImages/ArcanaCards/Arcana_Rebirth_SQ.png"&gt;&lt;/img&gt;</string>
+	<string key="17_ZQU_Chapter_07" rel_version="AffinityQuests">We-ila</string>
+	<string key="17_ZQU_Title_07_01" rel_version="AffinityQuests">Fitting Tribute</string>
+	<string key="17_ZQU_Subtitle_07_01" rel_version="AffinityQuests">An inscription from the tomb of We-ila</string>
+	<string key="17_ZQU_Body_07_01" rel_version="AffinityQuests">Here entombed is one who named himself Supreme Architect. \n\nKnow that among the Architects of the Builder King, there is only one who is Supreme and that is the Builder King himself.\n\nHis powerful Chalice held no power to slake our rage.\n\nMay the hateful We-ila bloody his fists for eternity against this living tomb and consider how he treated those who fulfilled his wretched promises.</string>
+	<string key="17_ZQU_Chapter_08" rel_version="AffinityQuests">A Hidden Enemy</string>
+	<string key="17_ZQU_Title_08_01" rel_version="AffinityQuests">Spider to the fly</string>
+	<string key="17_ZQU_Subtitle_08_01" rel_version="AffinityQuests">A note in a cave full of spiders</string>
+	<string key="17_ZQU_Body_08_01" rel_version="AffinityQuests">Hello little fly, I gather you're here because of the letters that lured you to my web.\nConsider this a warning. Stop meddling with those who truly rule Nighthaven.\n\n\n-B</string>
+	<string key="17_ZQU_Title_08_02" rel_version="AffinityQuests">The tower</string>
+	<string key="17_ZQU_Subtitle_08_02" rel_version="AffinityQuests">A note taken from Ashfall Watch</string>
+	<string key="17_ZQU_Body_08_02" rel_version="AffinityQuests">Gaius, the missives go to the tower. Leave important papers down here again and it's your head that will fly.</string>
+	<string key="17_ZQB_Title_08_02" rel_version="AffinityQuests">First Requirement</string>
+	<string key="17_ZQB_Subtitle_08_02" rel_version="AffinityQuests">A scrap of parchment found in Carnival Outpost</string>
+	<string key="17_ZQB_Body_08_02" rel_version="AffinityQuests">A stone-walled watcher scries roiled sky, commune with its thoughts to find out which eye.</string>
+	<string key="17_ZQB_Title_08_03" rel_version="AffinityQuests">Second Requirement</string>
+	<string key="17_ZQB_Subtitle_08_03" rel_version="AffinityQuests">A scrap of parchment found in Carnival Outpost</string>
+	<string key="17_ZQB_Body_08_03" rel_version="AffinityQuests">The thoughts of the priestess have tangled her crown, clear away laurel to learn of the clown.</string>
+	<string key="17_ZQB_Title_08_04" rel_version="AffinityQuests">Third Requirement</string>
+	<string key="17_ZQB_Subtitle_08_04" rel_version="AffinityQuests">A scrap of parchment found in Carnival Outpost</string>
+	<string key="17_ZQB_Body_08_04" rel_version="AffinityQuests">One word is engraved on a platform to view, it is required for a Seeing to be True.</string>
+	<string key="17_ZQB_Title_08_05" rel_version="AffinityQuests">The Left Eye of the Mad</string>
+	<string key="17_ZQB_Subtitle_08_05" rel_version="AffinityQuests">Notes from a voice heard in Carnival Outpost</string>
+	<string key="17_ZQB_Body_08_05" rel_version="AffinityQuests">The right eye sees that which is worldly. That is why the left eye is more important to those with the Sight. Even then, the Past can be more elusive even than the Future, and requires a kind of madness to scry. They say those who see farthest are truly mad or are already mad because they have seen it.</string>
+	<string key="17_ZQB_Title_08_06" rel_version="AffinityQuests">That which binds Truth</string>
+	<string key="17_ZQB_Subtitle_08_06" rel_version="AffinityQuests">From an engraving on the top of a wall in Carnival Outpost</string>
+	<string key="17_ZQB_Body_08_06" rel_version="AffinityQuests">Blood</string>
 	<string key="Topic_InferiorMan" rel_version="Season_9_Perm">The Inferior Man</string>
 	<string key="Topic_Description_InferiorMan" rel_version="Season_9_Perm">A collection of journal notes</string>
 	<string key="InferiorMan_Chapter_01" rel_version="Season_9_Perm">Shipwreck</string>

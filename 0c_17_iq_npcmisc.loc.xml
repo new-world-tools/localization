@@ -22,6 +22,10 @@
 	<string key="NPC_28009_title" rel_version="Territory_Dunwood">The Inquisition</string>
 	<string key="NPC_28010_name" rel_version="Territory_Dunwood">Rikkar</string>
 	<string key="NPC_28010_title" rel_version="Territory_Dunwood">Catacombs Explorer</string>
+	<string key="NPC_28011_name" rel_version="AffinityQuests">Ambassador Tisiphone</string>
+	<string key="NPC_28011_title" rel_version="AffinityQuests">Court of Treaties</string>
+	<string key="NPC_28012_name" rel_version="AffinityQuests">Ambassador Peregrine</string>
+	<string key="NPC_28012_title" rel_version="AffinityQuests">Court of Treaties</string>
 	<string key="NPC_28015_name" rel_version="Territory_Dunwood">Lightshield Reliquary</string>
 	<string key="NPC_28015_title" rel_version="Territory_Dunwood">Sanctified Object</string>
 	<string key="NPC_28018_name" rel_version="Territory_Dunwood">Dupert Fisker</string>

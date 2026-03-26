@@ -728,8 +728,6 @@
 	<string key="AI_Yonas_Stun_4sec_Tooltip" rel_version="Quest_MSQ2_Edengrove">Stunned</string>
 	<string key="AI_Bleed_9_DisplayName">Bleeding</string>
 	<string key="AI_Bleed_9_Tooltip">Bleeding for {[-0.050000 * -100]}% base + {[-0.015000 * -100]}% base health Physical damage every {[2.000000]} seconds for {[10.000000]} seconds.</string>
-	<string key="AI_IceDragon_Bleed_9_DisplayName" rel_version="Season_4_Temp">Frigid Bleeding</string>
-	<string key="AI_IceDragon_Bleed_9_Tooltip" rel_version="Season_4_Temp">Bleeding for {[-0.050000 * -100]}% base + {[-0.015000 * -100]}% base health Physical damage every {[2.000000]} seconds for {[10.000000]} seconds.</string>
 	<string key="AI_Burn_9_DisplayName">Burning</string>
 	<string key="AI_Burn_9_Tooltip">Burning for {[-0.075000 * -100]}% base Fire damage every {[2.000000]} seconds for {[10.000000]} seconds.</string>
 	<string key="AI_Thorpe_Burn_DisplayName">Umbrous Burn</string>

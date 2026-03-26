@@ -1,0 +1,862 @@
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="17FQMISC_Default_Filler_Greetz" rel_version="AffinityQuests" speaker="UI">This is the 17 Nighthaven AFFINITY UPYR BERLAUR QUEST MISC Loc File! Always add the RV in the rightmost column: AffinityQuests</string>
+	<string key="17ZQ_Upyr_Story_05_RingInner_DisplayName" rel_version="AffinityQuests" speaker="UI">Rotate Inner Ring</string>
+	<string key="17ZQ_Upyr_Story_05_RingMiddle_DisplayName" rel_version="AffinityQuests" speaker="UI">Rotate Center Ring</string>
+	<string key="17ZQ_Upyr_Story_05_RingOuter_DisplayName" rel_version="AffinityQuests" speaker="UI">Rotate Outer Ring</string>
+	<string key="NPC_16003_name" rel_version="AffinityQuests">Lyceon 1</string>
+	<string key="NPC_16003_title" rel_version="AffinityQuests">Umbra Clan Leader</string>
+	<string key="NPC_16004_name" rel_version="AffinityQuests">Lyceon 2</string>
+	<string key="NPC_16004_title" rel_version="AffinityQuests">Umbra Clan Leader</string>
+	<string key="NPC_16005_name" rel_version="AffinityQuests">Lyceon 3</string>
+	<string key="NPC_16005_title" rel_version="AffinityQuests">Umbra Clan Leader</string>
+	<string key="NPC_16006_name" rel_version="AffinityQuests">Lyceon 4</string>
+	<string key="NPC_16006_title" rel_version="AffinityQuests">Umbra Clan Leader</string>
+	<string key="NPC_16007_name" rel_version="AffinityQuests">Lyceon 5</string>
+	<string key="NPC_16007_title" rel_version="AffinityQuests">Umbra Clan Leader</string>
+	<string key="NPC_16008_name" rel_version="AffinityQuests">Lyceon 6</string>
+	<string key="NPC_16008_title" rel_version="AffinityQuests">Umbra Clan Leader</string>
+	<string key="NPC_16009_name" rel_version="AffinityQuests">Lyceon 7</string>
+	<string key="NPC_16009_title" rel_version="AffinityQuests">Werewolf</string>
+	<string key="NPC_16010_name" rel_version="AffinityQuests">Lyceon 8</string>
+	<string key="NPC_16010_title" rel_version="AffinityQuests">Werewolf</string>
+	<string key="NPC_16011_name" rel_version="AffinityQuests">Lyceon 9</string>
+	<string key="NPC_16011_title" rel_version="AffinityQuests">Werewolf</string>
+	<string key="NPC_16012_name" rel_version="AffinityQuests">Lyceon 10</string>
+	<string key="NPC_16012_title" rel_version="AffinityQuests">Werewolf</string>
+	<string key="NPC_16013_name" rel_version="AffinityQuests">Lyceon 11</string>
+	<string key="NPC_16013_title" rel_version="AffinityQuests">Werewolf</string>
+	<string key="NPC_16014_name" rel_version="AffinityQuests">Lyceon 12</string>
+	<string key="NPC_16014_title" rel_version="AffinityQuests">Werewolf</string>
+	<string key="NPC_16015_name" rel_version="AffinityQuests">Lyceon 13</string>
+	<string key="NPC_16015_title" rel_version="AffinityQuests">Umbra Clan Leader</string>
+	<string key="NPC_16016_name" rel_version="AffinityQuests">Lyceon 13</string>
+	<string key="NPC_16016_title" rel_version="AffinityQuests">Umbra Clan Leader</string>
+	<string key="NPC_16017_name" rel_version="AffinityQuests">Aster 1</string>
+	<string key="NPC_16017_title" rel_version="AffinityQuests">Umbra Clan</string>
+	<string key="NPC_16018_name" rel_version="AffinityQuests">Aster 2</string>
+	<string key="NPC_16018_title" rel_version="AffinityQuests">Umbra Clan</string>
+	<string key="NPC_16019_name" rel_version="AffinityQuests">Aster 3</string>
+	<string key="NPC_16019_title" rel_version="AffinityQuests">Umbra Clan</string>
+	<string key="NPC_16020_name" rel_version="AffinityQuests">Aster 4</string>
+	<string key="NPC_16020_title" rel_version="AffinityQuests">Umbra Clan</string>
+	<string key="NPC_16021_name" rel_version="AffinityQuests">Aster 5</string>
+	<string key="NPC_16021_title" rel_version="AffinityQuests">Umbra Clan</string>
+	<string key="NPC_16022_name" rel_version="AffinityQuests">Aster 6</string>
+	<string key="NPC_16022_title" rel_version="AffinityQuests">Umbra Clan</string>
+	<string key="NPC_16023_name" rel_version="AffinityQuests">Aster 7</string>
+	<string key="NPC_16023_title" rel_version="AffinityQuests">Umbra Clan</string>
+	<string key="NPC_16024_name" rel_version="AffinityQuests">Aster 8</string>
+	<string key="NPC_16024_title" rel_version="AffinityQuests">Umbra Clan</string>
+	<string key="NPC_16025_name" rel_version="AffinityQuests">Aster 9</string>
+	<string key="NPC_16025_title" rel_version="AffinityQuests">Umbra Clan</string>
+	<string key="NPC_16026_name" rel_version="AffinityQuests">Aster 10</string>
+	<string key="NPC_16026_title" rel_version="AffinityQuests">Umbra Clan</string>
+	<string key="NPC_16027_name" rel_version="AffinityQuests">Aster 11</string>
+	<string key="NPC_16027_title" rel_version="AffinityQuests">Umbra Clan</string>
+	<string key="NPC_16028_name" rel_version="AffinityQuests">Aster 12</string>
+	<string key="NPC_16028_title" rel_version="AffinityQuests">Umbra Clan</string>
+	<string key="NPC_16029_name" rel_version="AffinityQuests">Aster 13</string>
+	<string key="NPC_16029_title" rel_version="AffinityQuests">Umbra Clan</string>
+	<string key="NPC_16030_name" rel_version="AffinityQuests">Aster 14</string>
+	<string key="NPC_16030_title" rel_version="AffinityQuests">Umbra Clan</string>
+	<string key="NPC_16031_name" rel_version="AffinityQuests">Cornelius 1</string>
+	<string key="NPC_16031_title" rel_version="AffinityQuests">Umbra Clan</string>
+	<string key="NPC_16032_name" rel_version="AffinityQuests">Cornelius 2</string>
+	<string key="NPC_16032_title" rel_version="AffinityQuests">Umbra Clan</string>
+	<string key="NPC_16033_name" rel_version="AffinityQuests">Cornelius 3</string>
+	<string key="NPC_16033_title" rel_version="AffinityQuests">Umbra Clan</string>
+	<string key="NPC_16034_name" rel_version="AffinityQuests">Cornelius 4</string>
+	<string key="NPC_16034_title" rel_version="AffinityQuests">Umbra Clan</string>
+	<string key="NPC_16035_name" rel_version="AffinityQuests">Cornelius 5</string>
+	<string key="NPC_16035_title" rel_version="AffinityQuests">Umbra Clan</string>
+	<string key="NPC_16036_name" rel_version="AffinityQuests">Cornelius 6</string>
+	<string key="NPC_16036_title" rel_version="AffinityQuests">Umbra Clan</string>
+	<string key="NPC_16037_name" rel_version="AffinityQuests">Cornelius 7</string>
+	<string key="NPC_16037_title" rel_version="AffinityQuests">Umbra Clan</string>
+	<string key="NPC_16038_name" rel_version="AffinityQuests">Cornelius 8</string>
+	<string key="NPC_16038_title" rel_version="AffinityQuests">Umbra Clan</string>
+	<string key="NPC_16039_name" rel_version="AffinityQuests">Nocturne 1</string>
+	<string key="NPC_16039_title" rel_version="AffinityQuests">Umbra Clan</string>
+	<string key="NPC_16040_name" rel_version="AffinityQuests">Nocturne 2</string>
+	<string key="NPC_16040_title" rel_version="AffinityQuests">Umbra Clan</string>
+	<string key="NPC_16041_name" rel_version="AffinityQuests">Nocturne 3</string>
+	<string key="NPC_16041_title" rel_version="AffinityQuests">Umbra Clan</string>
+	<string key="NPC_16042_name" rel_version="AffinityQuests">Nocturne 4</string>
+	<string key="NPC_16042_title" rel_version="AffinityQuests">Umbra Clan</string>
+	<string key="NPC_16043_name" rel_version="AffinityQuests">Nocturne 5</string>
+	<string key="NPC_16043_title" rel_version="AffinityQuests">Umbra Clan</string>
+	<string key="NPC_16044_name" rel_version="AffinityQuests">Nocturne 6</string>
+	<string key="NPC_16044_title" rel_version="AffinityQuests">Umbra Clan</string>
+	<string key="NPC_16045_name" rel_version="AffinityQuests">Nocturne 7</string>
+	<string key="NPC_16045_title" rel_version="AffinityQuests">Umbra Clan</string>
+	<string key="NPC_16046_name" rel_version="AffinityQuests">Nocturne 8</string>
+	<string key="NPC_16046_title" rel_version="AffinityQuests">Umbra Clan</string>
+	<string key="NPC_16047_name" rel_version="AffinityQuests">Nocturne 9</string>
+	<string key="NPC_16047_title" rel_version="AffinityQuests">Umbra Clan</string>
+	<string key="NPC_16048_name" rel_version="AffinityQuests">Nocturne 10</string>
+	<string key="NPC_16048_title" rel_version="AffinityQuests">Umbra Clan</string>
+	<string key="NPC_16049_name" rel_version="AffinityQuests">Nocturne 11</string>
+	<string key="NPC_16049_title" rel_version="AffinityQuests">Umbra Clan</string>
+	<string key="NPC_16050_name" rel_version="AffinityQuests">Nocturne 12</string>
+	<string key="NPC_16050_title" rel_version="AffinityQuests">Umbra Clan</string>
+	<string key="NPC_16051_name" rel_version="AffinityQuests">Nocturne 13</string>
+	<string key="NPC_16051_title" rel_version="AffinityQuests">Umbra Clan</string>
+	<string key="NPC_16052_name" rel_version="AffinityQuests">Nocturne 14</string>
+	<string key="NPC_16052_title" rel_version="AffinityQuests">Umbra Clan</string>
+	<string key="NPC_16053_name" rel_version="AffinityQuests">Nocturne 15</string>
+	<string key="NPC_16053_title" rel_version="AffinityQuests">Umbra Clan</string>
+	<string key="NPC_16054_name" rel_version="AffinityQuests">Ivan 1</string>
+	<string key="NPC_16054_title" rel_version="AffinityQuests">Villager</string>
+	<string key="NPC_16055_name" rel_version="AffinityQuests">Ivan 2</string>
+	<string key="NPC_16055_title" rel_version="AffinityQuests">Villager</string>
+	<string key="NPC_16058_name" rel_version="AffinityQuests">Cristian</string>
+	<string key="NPC_16058_title" rel_version="AffinityQuests">Villager</string>
+	<string key="NPC_16059_name" rel_version="AffinityQuests">Dorina</string>
+	<string key="NPC_16059_title" rel_version="AffinityQuests">Villager</string>
+	<string key="NPC_16060_name" rel_version="AffinityQuests">Sten</string>
+	<string key="NPC_16060_title" rel_version="AffinityQuests">Umbra Clan</string>
+	<string key="NPC_16061_name" rel_version="AffinityQuests">Petros</string>
+	<string key="NPC_16061_title" rel_version="AffinityQuests">Umbra Clan</string>
+	<string key="NPC_16062_name" rel_version="AffinityQuests">Kaul</string>
+	<string key="NPC_16062_title" rel_version="AffinityQuests">Umbra Clan</string>
+	<string key="NPC_16063_name" rel_version="AffinityQuests">Jaris 1</string>
+	<string key="NPC_16063_title" rel_version="AffinityQuests">Villager</string>
+	<string key="NPC_16064_name" rel_version="AffinityQuests">Karin</string>
+	<string key="NPC_16064_title" rel_version="AffinityQuests">Villager</string>
+	<string key="NPC_16065_name" rel_version="AffinityQuests">Gariel 1</string>
+	<string key="NPC_16065_title" rel_version="AffinityQuests">Villager</string>
+	<string key="NPC_16066_name" rel_version="AffinityQuests">Gariel 2</string>
+	<string key="NPC_16066_title" rel_version="AffinityQuests">Villager</string>
+	<string key="NPC_16067_name" rel_version="AffinityQuests">Gariel 3</string>
+	<string key="NPC_16067_title" rel_version="AffinityQuests">Villager</string>
+	<string key="NPC_16068_name" rel_version="AffinityQuests">Gariel 4</string>
+	<string key="NPC_16068_title" rel_version="AffinityQuests">Villager</string>
+	<string key="NPC_16069_name" rel_version="AffinityQuests">Gariel 5</string>
+	<string key="NPC_16069_title" rel_version="AffinityQuests">Villager</string>
+	<string key="NPC_16070_name" rel_version="AffinityQuests">Avram 1</string>
+	<string key="NPC_16070_title" rel_version="AffinityQuests">Umbra Clan</string>
+	<string key="NPC_16071_name" rel_version="AffinityQuests">Avram 2</string>
+	<string key="NPC_16071_title" rel_version="AffinityQuests">Umbra Clan</string>
+	<string key="NPC_16072_name" rel_version="AffinityQuests">Beatrice 1</string>
+	<string key="NPC_16072_title" rel_version="AffinityQuests">Villager</string>
+	<string key="NPC_16073_name" rel_version="AffinityQuests">Beatrice 2</string>
+	<string key="NPC_16073_title" rel_version="AffinityQuests">Villager</string>
+	<string key="NPC_16074_name" rel_version="AffinityQuests">Anca 1</string>
+	<string key="NPC_16074_title" rel_version="AffinityQuests">Villager</string>
+	<string key="NPC_16075_name" rel_version="AffinityQuests">Anca 2</string>
+	<string key="NPC_16075_title" rel_version="AffinityQuests">Villager</string>
+	<string key="NPC_16076_name" rel_version="AffinityQuests">Jaris 2</string>
+	<string key="NPC_16076_title" rel_version="AffinityQuests">Villager</string>
+	<string key="NPC_16077_name" rel_version="AffinityQuests">Costas 1</string>
+	<string key="NPC_16077_title" rel_version="AffinityQuests">Blood Moon Clan</string>
+	<string key="NPC_16078_name" rel_version="AffinityQuests">Costas 2</string>
+	<string key="NPC_16078_title" rel_version="AffinityQuests">Umbra Clan Leader</string>
+	<string key="NPC_16079_name" rel_version="AffinityQuests">Costas 3</string>
+	<string key="NPC_16079_title" rel_version="AffinityQuests">Umbra Clan Leader</string>
+	<string key="NPC_16080_name" rel_version="AffinityQuests">Costas 4</string>
+	<string key="NPC_16080_title" rel_version="AffinityQuests">Umbra Clan Leader</string>
+	<string key="NPC_16081_name" rel_version="AffinityQuests">Costas 5</string>
+	<string key="NPC_16081_title" rel_version="AffinityQuests">Umbra Clan Leader</string>
+	<string key="NPC_16082_name" rel_version="AffinityQuests">Razvan 1</string>
+	<string key="NPC_16082_title" rel_version="AffinityQuests">Berlaur Elder</string>
+	<string key="NPC_16083_name" rel_version="AffinityQuests">Razvan 2</string>
+	<string key="NPC_16083_title" rel_version="AffinityQuests">Berlaur Elder</string>
+	<string key="NPC_16084_name" rel_version="AffinityQuests">Razvan 3</string>
+	<string key="NPC_16084_title" rel_version="AffinityQuests">Berlaur Elder</string>
+	<string key="NPC_16085_name" rel_version="AffinityQuests">Razvan 4</string>
+	<string key="NPC_16085_title" rel_version="AffinityQuests">Berlaur Elder</string>
+	<string key="NPC_16086_name" rel_version="AffinityQuests">Egil 1</string>
+	<string key="NPC_16086_title" rel_version="AffinityQuests">Fang of Costas</string>
+	<string key="NPC_16087_name" rel_version="AffinityQuests">Egil 2</string>
+	<string key="NPC_16087_title" rel_version="AffinityQuests">Fang of Costas</string>
+	<string key="NPC_16088_name" rel_version="AffinityQuests">Toug 1</string>
+	<string key="NPC_16088_title" rel_version="AffinityQuests">Fang of Costas</string>
+	<string key="NPC_16089_name" rel_version="AffinityQuests">Toug 2</string>
+	<string key="NPC_16089_title" rel_version="AffinityQuests">Fang of Costas</string>
+	<string key="NPC_16090_name" rel_version="AffinityQuests">Aurien 1</string>
+	<string key="NPC_16090_title" rel_version="AffinityQuests">Villager</string>
+	<string key="NPC_16091_name" rel_version="AffinityQuests">Aurien 2</string>
+	<string key="NPC_16091_title" rel_version="AffinityQuests">Villager</string>
+	<string key="NPC_16092_name" rel_version="AffinityQuests">Aurien 3</string>
+	<string key="NPC_16092_title" rel_version="AffinityQuests">Villager</string>
+	<string key="NPC_16093_name" rel_version="AffinityQuests">Aurien 4</string>
+	<string key="NPC_16093_title" rel_version="AffinityQuests">Villager</string>
+	<string key="NPC_16094_name" rel_version="AffinityQuests">Aurien 5</string>
+	<string key="NPC_16094_title" rel_version="AffinityQuests">Villager</string>
+	<string key="NPC_16095_name" rel_version="AffinityQuests">Aurien 6</string>
+	<string key="NPC_16095_title" rel_version="AffinityQuests">Villager</string>
+	<string key="NPC_16096_name" rel_version="AffinityQuests">Miron</string>
+	<string key="NPC_16096_title" rel_version="AffinityQuests">Villager</string>
+	<string key="NPC_16097_name" rel_version="AffinityQuests">Annryu 1</string>
+	<string key="NPC_16097_title" rel_version="AffinityQuests">The Fortune Mother</string>
+	<string key="NPC_16098_name" rel_version="AffinityQuests">Annryu 2</string>
+	<string key="NPC_16098_title" rel_version="AffinityQuests">The Fortune Mother</string>
+	<string key="NPC_16099_name" rel_version="AffinityQuests">Annryu 3</string>
+	<string key="NPC_16099_title" rel_version="AffinityQuests">The Fortune Mother</string>
+	<string key="NPC_16129_name" rel_version="AffinityQuests">Rupert</string>
+	<string key="NPC_16129_title" rel_version="AffinityQuests">Concierge</string>
+	<string key="NPC_16130_name" rel_version="AffinityQuests">Fabian</string>
+	<string key="NPC_16130_title" rel_version="AffinityQuests">Concierge</string>
+	<string key="NPC_16131_name" rel_version="AffinityQuests">Sarah</string>
+	<string key="NPC_16131_title" rel_version="AffinityQuests">Concierge</string>
+	<string key="NPC_16132_name" rel_version="AffinityQuests">Alice</string>
+	<string key="NPC_16132_title" rel_version="AffinityQuests">Concierge</string>
+	<string key="NPC_16133_name" rel_version="AffinityQuests">Lady Carmilla 1</string>
+	<string key="NPC_16133_title" rel_version="AffinityQuests">Head of House Carmilla</string>
+	<string key="NPC_16134_name" rel_version="AffinityQuests">Lady Carmilla 2</string>
+	<string key="NPC_16134_title" rel_version="AffinityQuests">Head of House Carmilla</string>
+	<string key="NPC_16135_name" rel_version="AffinityQuests">Lady Carmilla 3</string>
+	<string key="NPC_16135_title" rel_version="AffinityQuests">Head of House Carmilla</string>
+	<string key="NPC_16136_name" rel_version="AffinityQuests">Lady Carmilla 4</string>
+	<string key="NPC_16136_title" rel_version="AffinityQuests">Head of House Carmilla</string>
+	<string key="NPC_16137_name" rel_version="AffinityQuests">Lady Carmilla 5</string>
+	<string key="NPC_16137_title" rel_version="AffinityQuests">Head of House Carmilla</string>
+	<string key="NPC_16138_name" rel_version="AffinityQuests">Lady Carmilla 6</string>
+	<string key="NPC_16138_title" rel_version="AffinityQuests">Head of House Carmilla</string>
+	<string key="NPC_16139_name" rel_version="AffinityQuests">Kisher 1</string>
+	<string key="NPC_16139_title" rel_version="AffinityQuests">Archives Scholar</string>
+	<string key="NPC_16140_name" rel_version="AffinityQuests">Kisher 2</string>
+	<string key="NPC_16140_title" rel_version="AffinityQuests">Archives Scholar</string>
+	<string key="NPC_16141_name" rel_version="AffinityQuests">Kisher 3</string>
+	<string key="NPC_16141_title" rel_version="AffinityQuests">Archives Scholar</string>
+	<string key="NPC_16142_name" rel_version="AffinityQuests">Kisher 4</string>
+	<string key="NPC_16142_title" rel_version="AffinityQuests">Archives Scholar</string>
+	<string key="NPC_16143_name" rel_version="AffinityQuests">Kisher 5</string>
+	<string key="NPC_16143_title" rel_version="AffinityQuests">Archives Scholar</string>
+	<string key="NPC_16144_name" rel_version="AffinityQuests">Cecilia 1</string>
+	<string key="NPC_16144_title" rel_version="AffinityQuests">Warrior Queen</string>
+	<string key="NPC_16145_name" rel_version="AffinityQuests">Cecilia 2</string>
+	<string key="NPC_16145_title" rel_version="AffinityQuests">Warrior Queen</string>
+	<string key="NPC_16146_name" rel_version="AffinityQuests">Cecilia 3</string>
+	<string key="NPC_16146_title" rel_version="AffinityQuests">Warrior Queen</string>
+	<string key="NPC_16147_name" rel_version="AffinityQuests">Cecilia 4</string>
+	<string key="NPC_16147_title" rel_version="AffinityQuests">Warrior Queen</string>
+	<string key="NPC_16148_name" rel_version="AffinityQuests">Cecilia 5</string>
+	<string key="NPC_16148_title" rel_version="AffinityQuests">Warrior Queen</string>
+	<string key="NPC_16149_name" rel_version="AffinityQuests">Cecilia 6</string>
+	<string key="NPC_16149_title" rel_version="AffinityQuests">Warrior Queen</string>
+	<string key="NPC_16150_name" rel_version="AffinityQuests">Cecilia 7</string>
+	<string key="NPC_16150_title" rel_version="AffinityQuests">Warrior Queen</string>
+	<string key="NPC_16151_name" rel_version="AffinityQuests">Cecilia 8</string>
+	<string key="NPC_16151_title" rel_version="AffinityQuests">Warrior Queen</string>
+	<string key="NPC_16152_name" rel_version="AffinityQuests">Sabine 1</string>
+	<string key="NPC_16152_title" rel_version="AffinityQuests">Archives Scholar</string>
+	<string key="NPC_16153_name" rel_version="AffinityQuests">Sabine 2</string>
+	<string key="NPC_16153_title" rel_version="AffinityQuests">Archives Scholar</string>
+	<string key="NPC_16154_name" rel_version="AffinityQuests">Sabine 3</string>
+	<string key="NPC_16154_title" rel_version="AffinityQuests">Archives Scholar</string>
+	<string key="NPC_16155_name" rel_version="AffinityQuests">Lord Galbrion 1</string>
+	<string key="NPC_16155_title" rel_version="AffinityQuests">Governor of Tularest</string>
+	<string key="NPC_16156_name" rel_version="AffinityQuests">Lord Galbrion 2</string>
+	<string key="NPC_16156_title" rel_version="AffinityQuests">Governor of Tularest</string>
+	<string key="NPC_16157_name" rel_version="AffinityQuests">Lord Galbrion 3</string>
+	<string key="NPC_16157_title" rel_version="AffinityQuests">Governor of Tularest</string>
+	<string key="NPC_16158_name" rel_version="AffinityQuests">Mayor Bogdan</string>
+	<string key="NPC_16158_title" rel_version="AffinityQuests">Mayor of Tularest</string>
+	<string key="NPC_16159_name" rel_version="AffinityQuests">Lynette 1</string>
+	<string key="NPC_16159_title" rel_version="AffinityQuests">Merchant of Tularest</string>
+	<string key="NPC_16160_name" rel_version="AffinityQuests">Lynette 2</string>
+	<string key="NPC_16160_title" rel_version="AffinityQuests">Merchant of Tularest</string>
+	<string key="NPC_16161_name" rel_version="AffinityQuests">Lynette 3</string>
+	<string key="NPC_16161_title" rel_version="AffinityQuests">Merchant of Tularest</string>
+	<string key="NPC_16162_name" rel_version="AffinityQuests">Lynette 4</string>
+	<string key="NPC_16162_title" rel_version="AffinityQuests">Merchant of Tularest</string>
+	<string key="NPC_16163_name" rel_version="AffinityQuests">Lynette 5</string>
+	<string key="NPC_16163_title" rel_version="AffinityQuests">Merchant of Tularest</string>
+	<string key="NPC_16164_name" rel_version="AffinityQuests">Lynette 6</string>
+	<string key="NPC_16164_title" rel_version="AffinityQuests">Merchant of Tularest</string>
+	<string key="NPC_16165_name" rel_version="AffinityQuests">Lynette 7</string>
+	<string key="NPC_16165_title" rel_version="AffinityQuests">Merchant of Tularest</string>
+	<string key="NPC_16166_name" rel_version="AffinityQuests">Lynette 8</string>
+	<string key="NPC_16166_title" rel_version="AffinityQuests">Merchant of Tularest</string>
+	<string key="NPC_16167_name" rel_version="AffinityQuests">Lord Bathory</string>
+	<string key="NPC_16167_title" rel_version="AffinityQuests">Head of House Bathory</string>
+	<string key="NPC_16168_name" rel_version="AffinityQuests">Egil 3</string>
+	<string key="NPC_16168_title" rel_version="AffinityQuests">Fang of Costas</string>
+	<string key="NPC_16169_name" rel_version="AffinityQuests">Toug 3</string>
+	<string key="NPC_16169_title" rel_version="AffinityQuests">Fang of Costas</string>
+	<string key="NPC_16170_name" rel_version="AffinityQuests">Bianca</string>
+	<string key="NPC_16170_title" rel_version="AffinityQuests">Herald of House Bathory</string>
+	<string key="NPC_16171_name" rel_version="AffinityQuests">Lynette 7a</string>
+	<string key="NPC_16171_title" rel_version="AffinityQuests">Merchant of Tularest</string>
+	<string key="NPC_16172_name" rel_version="AffinityQuests">Avram 1a</string>
+	<string key="NPC_16172_title" rel_version="AffinityQuests">Umbra Clan</string>
+	<string key="NPC_16173_name" rel_version="AffinityQuests">Cornelius 5a</string>
+	<string key="NPC_16173_title" rel_version="AffinityQuests">Umbra Clan</string>
+	<string key="NPC_16174_name" rel_version="AffinityQuests">Lynette 7b</string>
+	<string key="NPC_16174_title" rel_version="AffinityQuests">Merchant of Tularest</string>
+	<string key="NPC_16175_State_1_Topic_0_playerPrompt" rel_version="AffinityQuests">&quot;WHY TRYING TO HARM LYCEON?&quot;</string>
+	<string key="NPC_16175_name" rel_version="AffinityQuests">Aurien 4a</string>
+	<string key="NPC_16175_title" rel_version="AffinityQuests">Villager</string>
+	<string key="NPC_16176_name" rel_version="AffinityQuests">Aurien 4a</string>
+	<string key="NPC_16176_title" rel_version="AffinityQuests">Villager</string>
+	<string key="NPC_16178_name" rel_version="AffinityQuests">Lyceon 11a</string>
+	<string key="NPC_16178_title" rel_version="AffinityQuests">Werewolf</string>
+	<string key="NPC_16179_name" rel_version="AffinityQuests">Nocturne 16</string>
+	<string key="NPC_16179_title" rel_version="AffinityQuests">Umbra Clan</string>
+	<string key="NPC_16180_name" rel_version="AffinityQuests">Nocturne 17</string>
+	<string key="NPC_16180_title" rel_version="AffinityQuests">Umbra Clan</string>
+	<string key="NPC_16181_name" rel_version="AffinityQuests">Nocturne 18</string>
+	<string key="NPC_16181_title" rel_version="AffinityQuests">Umbra Clan</string>
+	<string key="NPC_16182_name" rel_version="AffinityQuests">Nocturne 19</string>
+	<string key="NPC_16182_title" rel_version="AffinityQuests">Umbra Clan</string>
+	<string key="NPC_16183_name" rel_version="AffinityQuests">Aurien 4c</string>
+	<string key="NPC_16183_title" rel_version="AffinityQuests">Villager</string>
+	<string key="NPC_16184_name" rel_version="AffinityQuests">Lyceon 11a</string>
+	<string key="NPC_16184_title" rel_version="AffinityQuests">Werewolf</string>
+	<string key="NPC_16185_name" rel_version="AffinityQuests">Ancestral Spirit</string>
+	<string key="NPC_16185_title" rel_version="AffinityQuests">Wise-woman</string>
+	<string key="NPC_16186_name" rel_version="AffinityQuests">Florin</string>
+	<string key="NPC_16186_title" rel_version="AffinityQuests">Villager</string>
+	<string key="NPC_16187_name" rel_version="AffinityQuests">Pavel</string>
+	<string key="NPC_16187_title" rel_version="AffinityQuests">Kitchen worker</string>
+	<string key="NPC_16188_name" rel_version="AffinityQuests">Elena</string>
+	<string key="NPC_16188_title" rel_version="AffinityQuests">Villager</string>
+	<string key="NPC_16189_name" rel_version="AffinityQuests">Nocturne 9a</string>
+	<string key="NPC_16189_title" rel_version="AffinityQuests">Umbra Clan</string>
+	<string key="NPC_16190_name" rel_version="AffinityQuests">Costas 1a</string>
+	<string key="NPC_16190_title" rel_version="AffinityQuests">Blood Moon Clan</string>
+	<string key="NPC_16191_name" rel_version="AffinityQuests">Razvan 1a</string>
+	<string key="NPC_16191_title" rel_version="AffinityQuests">Berlaur Elder</string>
+	<string key="NPC_16192_name" rel_version="AffinityQuests">Egil 1a</string>
+	<string key="NPC_16192_title" rel_version="AffinityQuests">Fang of Costas</string>
+	<string key="NPC_16193_name" rel_version="AffinityQuests">Razvan 1b</string>
+	<string key="NPC_16193_title" rel_version="AffinityQuests">Berlaur Elder</string>
+	<string key="NPC_16194_name" rel_version="AffinityQuests">Nocturne 10a</string>
+	<string key="NPC_16194_title" rel_version="AffinityQuests">Umbra Clan</string>
+	<string key="NPC_16195_name" rel_version="AffinityQuests">Annryu 1a</string>
+	<string key="NPC_16195_title" rel_version="AffinityQuests">The Fortune Mother</string>
+	<string key="NPC_16196_name" rel_version="AffinityQuests">Razvan 3a</string>
+	<string key="NPC_16196_title" rel_version="AffinityQuests">Berlaur Elder</string>
+	<string key="NPC_16197_name" rel_version="AffinityQuests">Toug 2a</string>
+	<string key="NPC_16197_title" rel_version="AffinityQuests">Fang of Costas</string>
+	<string key="NPC_16198_name" rel_version="AffinityQuests">Costas 4a</string>
+	<string key="NPC_16198_title" rel_version="AffinityQuests">Umbra Clan Leader</string>
+	<string key="NPC_16199_name" rel_version="AffinityQuests">Aster 12a</string>
+	<string key="NPC_16199_title" rel_version="AffinityQuests">Umbra Clan</string>
+	<string key="NPC_16200_name" rel_version="AffinityQuests">Aurien 4b</string>
+	<string key="NPC_16200_title" rel_version="AffinityQuests">Villager</string>
+	<string key="NPC_16201_name" rel_version="AffinityQuests">Lyceon 11b</string>
+	<string key="NPC_16201_title" rel_version="AffinityQuests">Werewolf</string>
+	<string key="NPC_16202_name" rel_version="AffinityQuests">Nocturne 17a</string>
+	<string key="NPC_16202_title" rel_version="AffinityQuests">Umbra Clan</string>
+	<string key="NPC_16203_name" rel_version="AffinityQuests">Werebeast</string>
+	<string key="NPC_16203_title" rel_version="AffinityQuests">Vision</string>
+	<string key="NPC_16204_name" rel_version="AffinityQuests">Stump</string>
+	<string key="NPC_16204_title" rel_version="AffinityQuests">Used in Ritual</string>
+	<string key="NPC_Default_Dialogue_17100000_00_Placeholder" rel_version="AffinityQuests" speaker="Stranger" VO="NPC_Default_Dialogue_17100000_00_Placeholder" VO_Status="Deprecated">PLACEHOLDER</string>
+	<string key="NPC_Default_Dialogue_17100001_00_Placeholder" rel_version="AffinityQuests" speaker="Fisher" VO="NPC_Default_Dialogue_17100001_00_Placeholder" VO_Status="Deprecated">PLACEHOLDER</string>
+	<string key="Quest_16003_Task_1_Description" rel_version="AffinityQuests">Go to Crang Sacru and Listen to Lyceon&apos;s Speech</string>
+	<string key="Quest_16003_Task_2_0_Description"/>
+	<string key="Quest_16003_description" rel_version="AffinityQuests" speaker="UI - Quest Description">There are rumors of a tribe of Berlaur who are friendly to humans. This unusual clan may be worth looking into.</string>
+	<string key="Quest_16003_title" rel_version="AffinityQuests" speaker="UI - Quest Title">The Idealist</string>
+	<string key="Quest_16004_Task_10_Description" rel_version="AffinityQuests">Inside cave container</string>
+	<string key="Quest_16004_Task_11_Description" rel_version="AffinityQuests">Defeat Aknat</string>
+	<string key="Quest_16004_Task_12_Description" rel_version="AffinityQuests">Find Aknat</string>
+	<string key="Quest_16004_Task_13_Description" rel_version="AffinityQuests">PLACEHOLDER CUTSCENE - Watch Aknat skitter away</string>
+	<string key="Quest_16004_Task_14_Description" rel_version="AffinityQuests">Return to Crang Sacru and let Nocturne know you&apos;ve defeated Aknat</string>
+	<string key="Quest_16004_Task_1_0_Description" rel_version="AffinityQuests">Continue searching for the villagers</string>
+	<string key="Quest_16004_Task_1_Description" rel_version="AffinityQuests">placeholder task after quest grant</string>
+	<string key="Quest_16004_Task_1_Description_0" rel_version="AffinityQuests">Footprints container</string>
+	<string key="Quest_16004_Task_1_Description_1" rel_version="AffinityQuests">Delve into the Spider Caves to look for the missing villagers</string>
+	<string key="Quest_16004_Task_2_Description" rel_version="AffinityQuests"/>
+	<string key="Quest_16004_Task_4_Description" rel_version="AffinityQuests">ADD POI TAG! Go to Grota Caverna to rescue the villagers from the spiders of Aknat</string>
+	<string key="Quest_16004_Task_5_Description" rel_version="AffinityQuests">Spider Rescue Container</string>
+	<string key="Quest_16004_Task_6_Description" rel_version="AffinityQuests">Meet Nocturne near the Spider Caves</string>
+	<string key="Quest_16004_Task_7_0_0_0_Description" rel_version="AffinityQuests">Examine the cave entrance</string>
+	<string key="Quest_16004_Task_7_0_0_Description" rel_version="AffinityQuests">Continue following the tracks</string>
+	<string key="Quest_16004_Task_7_0_Description" rel_version="AffinityQuests">Follow the tracks</string>
+	<string key="Quest_16004_Task_7_Description" rel_version="AffinityQuests">Examine the path leading to the Spider Caves</string>
+	<string key="Quest_16004_Task_8_Description" rel_version="AffinityQuests">Read the note on the ground</string>
+	<string key="Quest_16004_Task_9_Description" rel_version="AffinityQuests">Check on the captured villagers</string>
+	<string key="Quest_16004_description" rel_version="AffinityQuests" speaker="UI - Quest Description">A tribe of Berlaur known as the Umbra Clan have begun making inroads in their relationships with humans in Nighthaven. However, tensions arise when the spiders in Grota Caverna capture villagers who enter their caves.</string>
+	<string key="Quest_16004_title" rel_version="AffinityQuests" speaker="UI - Quest Title">A Fragile Dream</string>
+	<string key="Quest_16005_Task_10_Description" rel_version="AffinityQuests">Watch werewolf sneak into town</string>
+	<string key="Quest_16005_Task_11_Description" rel_version="AffinityQuests">Take the map to Nocturne and Lyceon</string>
+	<string key="Quest_16005_Task_1_Description" rel_version="AffinityQuests">Ask Cornelius about the item for Lyceon</string>
+	<string key="Quest_16005_Task_2_0_Description" rel_version="AffinityQuests">Search Cornelius&apos; stash for the item for Lyceon</string>
+	<string key="Quest_16005_Task_2_1_0_0_0_0_Description" rel_version="AffinityQuests">Look through the telescope</string>
+	<string key="Quest_16005_Task_2_1_0_0_0_Description" rel_version="AffinityQuests">PLACEHOLDER - Position the telescope</string>
+	<string key="Quest_16005_Task_2_1_0_0_Description" rel_version="AffinityQuests">Examine wreckage in second victim&apos;s house</string>
+	<string key="Quest_16005_Task_2_1_0_Description" rel_version="AffinityQuests">Look through the wreckage</string>
+	<string key="Quest_16005_Task_2_1_Description" rel_version="AffinityQuests">Examine victim&apos;s house</string>
+	<string key="Quest_16005_Task_2_Description" rel_version="AffinityQuests">Search Cornelius&apos; &quot;Collection&quot; for the item for Lyceon</string>
+	<string key="Quest_16005_Task_3_Description" rel_version="AffinityQuests">Search through Cornelius&apos; notes to see if there&apos;s anything for Lyceon</string>
+	<string key="Quest_16005_Task_4_0_Description" rel_version="AffinityQuests">Head toward the second victim&apos;s house</string>
+	<string key="Quest_16005_Task_4_Description" rel_version="AffinityQuests">Find a way to the Upper Den</string>
+	<string key="Quest_16005_Task_5_Description" rel_version="AffinityQuests">Go to Mar Amar to investigate the attacks</string>
+	<string key="Quest_16005_Task_6_0_Description" rel_version="AffinityQuests">Interview villager about the attacks</string>
+	<string key="Quest_16005_Task_6_Description" rel_version="AffinityQuests">Ask villagers about the attacks</string>
+	<string key="Quest_16005_Task_7_Description" rel_version="AffinityQuests"/>
+	<string key="Quest_16005_Task_8_Description" rel_version="AffinityQuests">Talk to the villager waiting just outside</string>
+	<string key="Quest_16005_Task_9_0_Description" rel_version="AffinityQuests">Track down the werewolf</string>
+	<string key="Quest_16005_Task_9_Description" rel_version="AffinityQuests">Find the lookout point that Gariel mentioned</string>
+	<string key="Quest_16005_description" rel_version="AffinityQuests" speaker="UI - Quest Description">Although the mission to save humans from the spider caves in Grota Caverna was successful, a new problem has arisen, related to mysterious attacks occurring in the human settlement of Mar Amar.</string>
+	<string key="Quest_16005_title" rel_version="AffinityQuests" speaker="UI - Quest Title">A Trust Earned</string>
+	<string key="Quest_16006_Task_10_Description" rel_version="AffinityQuests">Talk to Avram&apos;s intended victim, Beatrice</string>
+	<string key="Quest_16006_Task_11_0_0_0_0_0_0_0_0_0_Description" rel_version="AffinityQuests">Find the person calling out</string>
+	<string key="Quest_16006_Task_11_0_0_0_0_0_0_0_0_Description" rel_version="AffinityQuests">Search for the person calling out from below</string>
+	<string key="Quest_16006_Task_11_0_0_0_0_0_0_0_Description" rel_version="AffinityQuests">Continue searching for Anca</string>
+	<string key="Quest_16006_Task_11_0_0_0_0_0_0_Description" rel_version="AffinityQuests">Search the Keep for Anca</string>
+	<string key="Quest_16006_Task_11_0_0_0_0_0_Description" rel_version="AffinityQuests">Enter Keep Understone to search for Anca</string>
+	<string key="Quest_16006_Task_11_0_0_0_0_Description" rel_version="AffinityQuests">PENDING CATACOMBS CREATION- Search the catacombs for Sonia</string>
+	<string key="Quest_16006_Task_11_0_0_0_Description" rel_version="AffinityQuests">PENDING CATACOMBS CREATION - Enter the catacombs</string>
+	<string key="Quest_16006_Task_11_0_0_1_Description" rel_version="AffinityQuests">Exit Gariel&apos;s house</string>
+	<string key="Quest_16006_Task_11_0_0_Description" rel_version="AffinityQuests">Find a way into Gariel&apos;s house</string>
+	<string key="Quest_16006_Task_11_0_Description" rel_version="AffinityQuests">Hide around to corner to draw Gariel away</string>
+	<string key="Quest_16006_Task_11_Description" rel_version="AffinityQuests">Investigate Gariel</string>
+	<string key="Quest_16006_Task_12_0_Description" rel_version="AffinityQuests">Go to Keep Understone to look for Gariel&apos;s second victim, Anca</string>
+	<string key="Quest_16006_Task_12_Description" rel_version="AffinityQuests">Follow Gariel&apos;s map route to the Bitu Suferi Catacombs</string>
+	<string key="Quest_16006_Task_13_0_0_0_0_0_0_Description" rel_version="AffinityQuests">Continue following the tracks</string>
+	<string key="Quest_16006_Task_13_0_0_0_0_0_Description" rel_version="AffinityQuests">Examine the ground near the Catacombs entrance</string>
+	<string key="Quest_16006_Task_13_0_0_0_0_Description" rel_version="AffinityQuests">Follow tracks</string>
+	<string key="Quest_16006_Task_13_0_0_0_Description" rel_version="AffinityQuests">Examine the footprints</string>
+	<string key="Quest_16006_Task_13_0_0_Description" rel_version="AffinityQuests">Search Gariel&apos;s table</string>
+	<string key="Quest_16006_Task_13_0_Description" rel_version="AffinityQuests">Search Gariel&apos;s belongings for anything suspicious</string>
+	<string key="Quest_16006_Task_13_Description" rel_version="AffinityQuests">Try Gariel&apos;s Door</string>
+	<string key="Quest_16006_Task_14_0_Description" rel_version="AffinityQuests">PENDING CATACOMBS CREATION - Read the crumpled paper on the ground</string>
+	<string key="Quest_16006_Task_14_Description" rel_version="AffinityQuests">Read Gariel&apos;s journal entry</string>
+	<string key="Quest_16006_Task_15_Description" rel_version="AffinityQuests">PENDING CATACOMBS CREATION - Defeat the Lost Sonia</string>
+	<string key="Quest_16006_Task_17_0_Description" rel_version="AffinityQuests">Talk to Anca</string>
+	<string key="Quest_16006_Task_17_Description" rel_version="AffinityQuests">Talk to Anca</string>
+	<string key="Quest_16006_Task_18_0_Description" rel_version="AffinityQuests">**TELEPORT DOOR - Exit the tower</string>
+	<string key="Quest_16006_Task_18_Description" rel_version="AffinityQuests">Destroy the rubble so you can both crawl out of the tower</string>
+	<string key="Quest_16006_Task_19_0_Description"/>
+	<string key="Quest_16006_Task_1_Description" rel_version="AffinityQuests">Catch the werewolf</string>
+	<string key="Quest_16006_Task_20_Description" rel_version="AffinityQuests">Use this task if want to swap Avram in earlier to stables</string>
+	<string key="Quest_16006_Task_22_Description" rel_version="AffinityQuests">hidden- swap in gariel 3</string>
+	<string key="Quest_16006_Task_23_Description" rel_version="AffinityQuests">LABEL: Rescue Sonia</string>
+	<string key="Quest_16006_Task_24_Description" rel_version="AffinityQuests">LABEL: Rescue Anca</string>
+	<string key="Quest_16006_Task_26_Description" rel_version="AffinityQuests">never true</string>
+	<string key="Quest_16006_Task_4_Description" rel_version="AffinityQuests">DUMMY NEVER COMPLETE</string>
+	<string key="Quest_16006_Task_5_Description" rel_version="AffinityQuests">PLACEHOLDER FOR VISUAL ON CHECKPOINT 1</string>
+	<string key="Quest_16006_Task_7_Description" rel_version="AffinityQuests">Talk to Nocturne about Gariel</string>
+	<string key="Quest_16006_Task_8_Description" rel_version="AffinityQuests">Talk to the werewolf</string>
+	<string key="Quest_16006_Task_9_Description" rel_version="AffinityQuests">Discuss Avram&apos;s fate with the others</string>
+	<string key="Quest_16006_description" rel_version="AffinityQuests" speaker="UI - Quest Description">You have uncovered the identity of the attacker in Mar Amar. However, it&apos;s possible that not is all as it seems.</string>
+	<string key="Quest_16006_title" rel_version="AffinityQuests" speaker="UI - Quest Title">Love Lost</string>
+	<string key="Quest_16007_Task_1_Description" rel_version="AffinityQuests">Meet Nocturne in the Hall of the South King</string>
+	<string key="Quest_16007_Task_2_Description" rel_version="AffinityQuests">Talk to Nocturne</string>
+	<string key="Quest_16007_Task_3_Description" rel_version="AffinityQuests">Talk to Lyceon 4 and Nocturne 8 outside of Mar Amar</string>
+	<string key="Quest_16007_Task_4_Description" rel_version="AffinityQuests">Destroy the emitters poisoning the Berlaur</string>
+	<string key="Quest_16007_Task_6_0_0_0_0_0_Description" rel_version="AffinityQuests">Destroy the fifth emitter</string>
+	<string key="Quest_16007_Task_6_0_0_0_0_Description" rel_version="AffinityQuests">Destroy the fourth emitter</string>
+	<string key="Quest_16007_Task_6_0_0_0_Description" rel_version="AffinityQuests">Destroy the third emitter</string>
+	<string key="Quest_16007_Task_6_0_0_Description" rel_version="AffinityQuests">Destroy the second emitter</string>
+	<string key="Quest_16007_Task_6_0_1_0_0_Description" rel_version="AffinityQuests">Find and destroy the shield power near the fifth emitter</string>
+	<string key="Quest_16007_Task_6_0_1_0_Description" rel_version="AffinityQuests">Find and destroy the shield power near the fourth emitter</string>
+	<string key="Quest_16007_Task_6_0_1_Description" rel_version="AffinityQuests">Find and destroy the shield power near the third emitter</string>
+	<string key="Quest_16007_Task_6_0_Description" rel_version="AffinityQuests">Find and destroy the shield power nearby the second emitter</string>
+	<string key="Quest_16007_Task_6_1_Description" rel_version="AffinityQuests">Destroy the first battery</string>
+	<string key="Quest_16007_Task_6_Description" rel_version="AffinityQuests">Destroy the first unshielded emitter</string>
+	<string key="Quest_16007_Task_7_0_0_0_Description"/>
+	<string key="Quest_16007_Task_7_0_0_Description"/>
+	<string key="Quest_16007_Task_7_0_Description"/>
+	<string key="Quest_16007_description" rel_version="AffinityQuests" speaker="UI - Quest Description">Just as the Berlaur have been absolved of guilt behind the attacks in Mar Amar, the unrelenting attacks from the Upyr Baroness Anastasia have been stepped up and are poisoning the werebeasts. Do what you can to help neutralize the new devices that corrupt the lunar energy in Nighthaven.</string>
+	<string key="Quest_16007_title" rel_version="AffinityQuests" speaker="UI - Quest Title">Testing the Bonds</string>
+	<string key="Quest_16008_Task_10_Description" rel_version="AffinityQuests">PLACEHOLDER CUTSCENE - spy on bathory guards to learn lcoation of thralls - 17_ZQ_BS5_BathorySpyGuards_IGC</string>
+	<string key="Quest_16008_Task_11_Description" rel_version="AffinityQuests">Ask if anyone saw the thralls get dragged into House Bathory</string>
+	<string key="Quest_16008_Task_12_Description" rel_version="AffinityQuests">Try to break the door wards with the power of your heartgem</string>
+	<string key="Quest_16008_Task_13_Description" rel_version="AffinityQuests">Enter Baroness Anastasia&apos;s laboratory to retrieve the Moonscale key</string>
+	<string key="Quest_16008_Task_14_Description" rel_version="AffinityQuests">Defeat Baroness Anastasia and her thralls to find the Moonscale Key (ROOM CREATION PENDING - TEMP LOCATION)</string>
+	<string key="Quest_16008_Task_15_Description" rel_version="AffinityQuests">Read the letter sent to Baroness Anastasia</string>
+	<string key="Quest_16008_Task_16_Description" rel_version="AffinityQuests">Return to Crang Sacru with the Lunacite key</string>
+	<string key="Quest_16008_Task_17_Description" rel_version="AffinityQuests">Enter the Moonscale Shrine</string>
+	<string key="Quest_16008_Task_18_Description" rel_version="AffinityQuests">Dispel the Upyr miasma surrounding the Moonscale crystal</string>
+	<string key="Quest_16008_Task_19_Description" rel_version="AffinityQuests">PLACEHOLDER CUTSCENE - Player purifies the Moonscale - 17_ZQ_BS5_MoonscalePurify_IGC</string>
+	<string key="Quest_16008_Task_1_0_0_0_Description" rel_version="AffinityQuests">Enter the experimentation area for the Baroness Anastsia to get the Moonscale key</string>
+	<string key="Quest_16008_Task_1_0_0_1_Description" rel_version="AffinityQuests">Descend into the undercroft to find the Baroness Anastasia and the Moonscale key</string>
+	<string key="Quest_16008_Task_1_0_0_2_Description" rel_version="AffinityQuests">Enter the undercroft to find the Baroness Anastasia and get the Moonscale key</string>
+	<string key="Quest_16008_Task_1_0_0_3_0_0_Description" rel_version="AffinityQuests">Descend into the undercroft</string>
+	<string key="Quest_16008_Task_1_0_0_3_0_1_0_Description" rel_version="AffinityQuests">Descend into the undercroft</string>
+	<string key="Quest_16008_Task_1_0_0_3_0_1_Description" rel_version="AffinityQuests">Descend into the undercroft</string>
+	<string key="Quest_16008_Task_1_0_0_3_0_2_Description" rel_version="AffinityQuests">Continue into the undercroft</string>
+	<string key="Quest_16008_Task_1_0_0_3_0_Description" rel_version="AffinityQuests">Enter the House Bathory undercroft</string>
+	<string key="Quest_16008_Task_1_0_0_3_Description" rel_version="AffinityQuests">Continue to the undercroft</string>
+	<string key="Quest_16008_Task_1_0_0_Description" rel_version="AffinityQuests">Proceed to the undercroft to find Baroness Anastasia and her servants</string>
+	<string key="Quest_16008_Task_1_0_Description" rel_version="AffinityQuests">Spy on the Bathory guards to find the humans who stole the Moonscale key</string>
+	<string key="Quest_16008_Task_1_1_Description" rel_version="AffinityQuests">PLACEHOLDER CUTSCENE - LYCEON SPEECH INTERRUPTED BY MOONSCALE SABOTAGE</string>
+	<string key="Quest_16008_Task_1_Description" rel_version="AffinityQuests">Attend the celebration at Crang Sacru</string>
+	<string key="Quest_16008_Task_21_Description" rel_version="AffinityQuests">NEVER TRUE</string>
+	<string key="Quest_16008_Task_22_0_Description" rel_version="AffinityQuests">Talk to the party girl</string>
+	<string key="Quest_16008_Task_22_Description" rel_version="AffinityQuests">Talk to the man in the corner</string>
+	<string key="Quest_16008_Task_23_Description" rel_version="AffinityQuests">Talk to the kitchen worker</string>
+	<string key="Quest_16008_Task_24_Description" rel_version="AffinityQuests">never true</string>
+	<string key="Quest_16008_Task_25_Description" rel_version="AffinityQuests">unlock npc that runs in as soon as convo starts</string>
+	<string key="Quest_16008_Task_26_Description" rel_version="AffinityQuests">Join Lyceon&apos;s celebration speech</string>
+	<string key="Quest_16008_Task_27_Description" rel_version="AffinityQuests">Talk to Nocturne privately</string>
+	<string key="Quest_16008_Task_28_Description" rel_version="AffinityQuests">Tell Lyceon you&apos;ve purified the shrine</string>
+	<string key="Quest_16008_Task_2_0_Description" rel_version="AffinityQuests">PLACEHOLDER VIGNETTE - WERERAVEN DROPOFF</string>
+	<string key="Quest_16008_Task_2_Description" rel_version="AffinityQuests"/>
+	<string key="Quest_16008_Task_3_Description" rel_version="AffinityQuests">Check the Moonscale Shrine</string>
+	<string key="Quest_16008_Task_5_0_Description" rel_version="AffinityQuests">(Go to House Bathiory)- hidden - Stretch: kick off vignette showing wereraven flying off</string>
+	<string key="Quest_16008_Task_5_Description" rel_version="AffinityQuests">Travel to House Bathory to retrieve the Moonscale shrine key that was stolen</string>
+	<string key="Quest_16008_Task_6_Description" rel_version="AffinityQuests">(Optional) Take a Wereraven to House Bathory</string>
+	<string key="Quest_16008_Task_8_Description" rel_version="AffinityQuests">Investigate the tracks inside the entrance of the House of Bathory</string>
+	<string key="Quest_16008_Task_9_Description" rel_version="AffinityQuests">Enter House Bathory</string>
+	<string key="Quest_16008_description" rel_version="AffinityQuests" speaker="UI - Quest Description">You&apos;ve helped Lyceon to unite humans and Berlaur over a series of trials. Lyceon invites you to celebrate at Crang Sacru.</string>
+	<string key="Quest_16008_title" rel_version="AffinityQuests" speaker="UI - Quest Title">Starfall</string>
+	<string key="Quest_16009_Task_1_0_Description" rel_version="AffinityQuests">Ask Costas about Nocturne and Aster</string>
+	<string key="Quest_16009_Task_1_Description" rel_version="AffinityQuests">(hidden) Talk to Costas at Crang Sacru</string>
+	<string key="Quest_16009_Task_3_Description" rel_version="AffinityQuests">Nocturne sent word things are getting bad at Crang Sacru- seek her out</string>
+	<string key="Quest_16009_description" rel_version="AffinityQuests" speaker="UI - Quest Description">Things seem to have gotten complicated at Crang Sacru, since Costas has taken over. Noturns and Aster have sent word to you, urgently requesting aid.</string>
+	<string key="Quest_16009_title" rel_version="AffinityQuests" speaker="UI - Quest Title">Second Talon</string>
+	<string key="Quest_16010_Task_10_Description" rel_version="AffinityQuests">Search the upper den for clues on how to make the sleeping draught</string>
+	<string key="Quest_16010_Task_11_Description" rel_version="AffinityQuests"/>
+	<string key="Quest_16010_Task_12_0_0_0_Description" rel_version="AffinityQuests">Find the recipe for the sleeping draught</string>
+	<string key="Quest_16010_Task_12_0_0_Description" rel_version="AffinityQuests">Look for information on how Costas is treating Umbra Clan</string>
+	<string key="Quest_16010_Task_12_0_Description" rel_version="AffinityQuests">Learn how to get the right venom glands</string>
+	<string key="Quest_16010_Task_12_Description" rel_version="AffinityQuests">Figure out where to get lionberries</string>
+	<string key="Quest_16010_Task_13_Description" rel_version="AffinityQuests">Read through the notes for clues on gathering the ingredients</string>
+	<string key="Quest_16010_Task_15_Description" rel_version="AffinityQuests">Search for the recipe</string>
+	<string key="Quest_16010_Task_15_Description_0" rel_version="AffinityQuests">NEVER TRUE</string>
+	<string key="Quest_16010_Task_16_Description" rel_version="AffinityQuests">Find the sleeping draught recipe</string>
+	<string key="Quest_16010_Task_16_Description_0" rel_version="AffinityQuests">Camp members pass out (dip to black)</string>
+	<string key="Quest_16010_Task_17_0_Description" rel_version="AffinityQuests">Search Cornelius&apos; &quot;collection&quot; for ways to get the ingredients</string>
+	<string key="Quest_16010_Task_17_Description" rel_version="AffinityQuests">Search for Cornelius&apos; sleeping draught recipe</string>
+	<string key="Quest_16010_Task_18_Description" rel_version="AffinityQuests"/>
+	<string key="Quest_16010_Task_19_Description" rel_version="AffinityQuests"/>
+	<string key="Quest_16010_Task_21_Description" rel_version="AffinityQuests">Gather ingredients for the sleeping juice</string>
+	<string key="Quest_16010_Task_22_Description" rel_version="AffinityQuests">Harvest lionberry bushes at Amurg Cimitir</string>
+	<string key="Quest_16010_Task_23_Description" rel_version="AffinityQuests">Harvest venom glands from the Prismweaver spiders at Silkfoot Crag</string>
+	<string key="Quest_16010_Task_24_Description" rel_version="AffinityQuests">Place jugs of sleeping draught for the party</string>
+	<string key="Quest_16010_Task_25_Description" rel_version="AffinityQuests">Search Costas for the key to the Moonscale shrine</string>
+	<string key="Quest_16010_Task_26_Description" rel_version="AffinityQuests">Enter Shrine</string>
+	<string key="Quest_16010_Task_27_Description" rel_version="AffinityQuests">Talk to Nocturne and Aster</string>
+	<string key="Quest_16010_Task_28_Description" rel_version="AffinityQuests">Travel to Bitu Suflete Catacombs to look for Lyceon</string>
+	<string key="Quest_16010_Task_30_Description" rel_version="AffinityQuests">Talk to the villager at the entrance of the catacombs</string>
+	<string key="Quest_16010_Task_31_Description" rel_version="AffinityQuests">Talk to Lyceon 7</string>
+	<string key="Quest_16010_Task_33_Description" rel_version="AffinityQuests">Use the Devil&apos;s Tongue sap on your weapon</string>
+	<string key="Quest_16010_Task_34_Description" rel_version="AffinityQuests">Defeat the Bloodbeast</string>
+	<string key="Quest_16010_Task_35_Description" rel_version="AffinityQuests">LORE NOTE - Read journal note -describing Titus&apos; fate</string>
+	<string key="Quest_16010_Task_36_Description" rel_version="AffinityQuests">Talk to Lyceon outside the catacombs</string>
+	<string key="Quest_16010_Task_3_Description" rel_version="AffinityQuests">PLACEHOLDER CUTSCENE - dip to black everyone passed out afterwards - 17_ZQ_BRU2_PassOut_IGC</string>
+	<string key="Quest_16010_Task_3_Description_0" rel_version="AffinityQuests">Wait for the celebration to begin</string>
+	<string key="Quest_16010_Task_4_0_0_Description" rel_version="AffinityQuests">Enter Bitu Sfulete</string>
+	<string key="Quest_16010_Task_4_0_1_Description" rel_version="AffinityQuests">Search the catacombs for Lyceon</string>
+	<string key="Quest_16010_Task_4_0_Description" rel_version="AffinityQuests">Go to the entrance of the Bitu Suflete catacombs</string>
+	<string key="Quest_16010_Task_4_1_Description" rel_version="AffinityQuests">Find Aster and Nocturne</string>
+	<string key="Quest_16010_Task_4_Description" rel_version="AffinityQuests">Look for Aster and Nocturne</string>
+	<string key="Quest_16010_Task_5_Description" rel_version="AffinityQuests">Harvest venom glands from the Prismweaver spiders at Silkfoot Crag</string>
+	<string key="Quest_16010_Task_5_Description_0" rel_version="AffinityQuests">CONTAINER for Lyceon</string>
+	<string key="Quest_16010_Task_6_Description" rel_version="AffinityQuests">Craft Dreaming Lionberry Juice at your campsite or any Kitchen</string>
+	<string key="Quest_16010_Task_7_Description" rel_version="AffinityQuests">Milk the guards for information about Nocturne and Aster</string>
+	<string key="Quest_16010_Task_8_Description" rel_version="AffinityQuests">Ask Cornelius for help freeing Aster and Nocturne</string>
+	<string key="Quest_16010_Task_9_Description" rel_version="AffinityQuests">Examine the cup on Cornelius&apos; table</string>
+	<string key="Quest_16010_description" rel_version="AffinityQuests" speaker="UI - Quest Description">You find Crang Sacru in the iron-fisted rule of Costas, and Aster and Nocturne nowhere to be found. Find your companions and warn Lyceon about what&apos;s happening to his beloved pack.</string>
+	<string key="Quest_16010_title" rel_version="AffinityQuests" speaker="UI - Quest Title">A New Order</string>
+	<string key="Quest_16011_Task_1_Description" rel_version="AffinityQuests">Approach Costas and Razvan at Crang Sacru about Lyceon</string>
+	<string key="Quest_16011_Task_2_Description" rel_version="AffinityQuests"/>
+	<string key="Quest_16011_description" rel_version="AffinityQuests" speaker="UI - Quest Description">You&apos;ve earned enough renown with the pack to revisit the topic of Lyceon and your companions with the new leadership at Umbra Clan- Costas. Speak to Costas and Razvan at Crang Sacru.</string>
+	<string key="Quest_16011_title" rel_version="AffinityQuests" speaker="UI - Quest Title">Third Talon</string>
+	<string key="Quest_16012_Task_10_Description" rel_version="AffinityQuests">Compare notes with Cornelius about Gorm</string>
+	<string key="Quest_16012_Task_11_Description" rel_version="AffinityQuests">Bring the evidence you found to Razvan in Crang Sacru</string>
+	<string key="Quest_16012_Task_12_Description" rel_version="AffinityQuests">Talk to Nocturne 13 and Aster</string>
+	<string key="Quest_16012_Task_2_Description" rel_version="AffinityQuests">Talk to Cornelius</string>
+	<string key="Quest_16012_Task_3_Description" rel_version="AffinityQuests">Go to Piatra Antica to interrogate the servant of the Baroness</string>
+	<string key="Quest_16012_Task_4_Description" rel_version="AffinityQuests">Interrogate Baroness Anastasia&apos;s servant to learn who the traitor is</string>
+	<string key="Quest_16012_Task_5_Description" rel_version="AffinityQuests">Share what you learned with Cornelius 5</string>
+	<string key="Quest_16012_Task_6_Description" rel_version="AffinityQuests">Go to Ursa&apos;s Forge to look for Gorm</string>
+	<string key="Quest_16012_Task_7_0_Description" rel_version="AffinityQuests">Enter the caverns to find Gorm</string>
+	<string key="Quest_16012_Task_7_Description" rel_version="AffinityQuests">Find Gorm&apos;s forge area</string>
+	<string key="Quest_16012_Task_8_Description" rel_version="AffinityQuests">LORE NOTE - Read Gorm&apos;s diary - no identity revealed in there but confirms traitor</string>
+	<string key="Quest_16012_Task_9_Description" rel_version="AffinityQuests">Search through Gorm&apos;s belongings for clues about the traitor&apos;s identity</string>
+	<string key="Quest_16012_description" rel_version="AffinityQuests" speaker="UI - Quest Description">Gather evidence of a traitor being responsible for the corruption of the Moonscale, to convince Razvan and Costas to lift Lyceon&apos;s banishment and free your companions.</string>
+	<string key="Quest_16012_title" rel_version="AffinityQuests" speaker="UI - Quest Title">A Grudging Mercy</string>
+	<string key="Quest_16013_Task_1_Description" rel_version="AffinityQuests">Meet Aster at the designated location</string>
+	<string key="Quest_16013_Task_2_Description" rel_version="AffinityQuests">PLACEHOLDER CUTSCENE - Aster challenges player to race her and takes off</string>
+	<string key="Quest_16013_Task_3_Description" rel_version="AffinityQuests">Race Aster</string>
+	<string key="Quest_16013_Task_4_Description" rel_version="AffinityQuests">PLACEHOLDER CUTSCENE - Aster splashes down next to player</string>
+	<string key="Quest_16013_Task_7_Description" rel_version="AffinityQuests">Dummy task never true</string>
+	<string key="Quest_16013_Task_8_0_Description" rel_version="AffinityQuests">hook for aster waiting loop</string>
+	<string key="Quest_16013_Task_8_Description" rel_version="AffinityQuests">hook for aster jump off the cliff and swap in aster 10</string>
+	<string key="Quest_16013_Task_9_Description" rel_version="AffinityQuests">Talk to Aster</string>
+	<string key="Quest_16013_description" rel_version="AffinityQuests" speaker="UI - Quest Description">Meet Aster to celebrate her release from prison- in her own way.</string>
+	<string key="Quest_16013_title" rel_version="AffinityQuests" speaker="UI - Quest Title">Acceptance</string>
+	<string key="Quest_16014_Task_1_Description" rel_version="AffinityQuests">Nocturne requests a meeting at Crang Sacru</string>
+	<string key="Quest_16014_Task_2_Description" rel_version="AffinityQuests"/>
+	<string key="Quest_16014_description" rel_version="AffinityQuests" speaker="UI - Quest Description">Nocturne requests to speak to you at Crang Sacru. Though she hasn&apos;t provided much in the way of detail, it doesn&apos;t sound like there&apos;s much in the way of good news to share.</string>
+	<string key="Quest_16014_title" rel_version="AffinityQuests" speaker="UI - Quest Title">Fourth Talon</string>
+	<string key="Quest_16015_Task_10_Description" rel_version="AffinityQuests">PLACEHOLDER CUTSCENE- Look at rock shattering off of the staff, revealing the item</string>
+	<string key="Quest_16015_Task_11_Description" rel_version="AffinityQuests">Take the Staff of Divination</string>
+	<string key="Quest_16015_Task_12_Description" rel_version="AffinityQuests">Tell Nocturne 15 you have the staff</string>
+	<string key="Quest_16015_Task_13_Description" rel_version="AffinityQuests">Go to Madmaw Trench to collect the left eyes of the Mad</string>
+	<string key="Quest_16015_Task_14_Description" rel_version="AffinityQuests">Harvest the left eyes from rabid werewolves in Madmaw Trench</string>
+	<string key="Quest_16015_Task_15_Description" rel_version="AffinityQuests">Go to Crang Sacru for the True Seeing</string>
+	<string key="Quest_16015_Task_16_Description" rel_version="AffinityQuests"/>
+	<string key="Quest_16015_Task_17_Description" rel_version="AffinityQuests">Examine the stump used to stage the ritual supplies</string>
+	<string key="Quest_16015_Task_18_Description" rel_version="AffinityQuests">Discover the three requirements for True Seeing</string>
+	<string key="Quest_16015_Task_19_0_0_Description"/>
+	<string key="Quest_16015_Task_19_0_Description"/>
+	<string key="Quest_16015_Task_20_0_0_Description" rel_version="AffinityQuests">Read the third clue</string>
+	<string key="Quest_16015_Task_20_0_Description" rel_version="AffinityQuests">Read the second clue</string>
+	<string key="Quest_16015_Task_20_1_0_0_Description" rel_version="AffinityQuests">Climb to read the third requirement</string>
+	<string key="Quest_16015_Task_20_1_0_Description" rel_version="AffinityQuests">Hidden fallthrough if already have lore note</string>
+	<string key="Quest_16015_Task_20_1_Description" rel_version="AffinityQuests">Investigate the words swirling in the left eye</string>
+	<string key="Quest_16015_Task_20_Description" rel_version="AffinityQuests">Read the first clue</string>
+	<string key="Quest_16015_Task_21_0_Description" rel_version="AffinityQuests">&quot;Clear laurel from crown&quot; according to the second clue</string>
+	<string key="Quest_16015_Task_21_Description" rel_version="AffinityQuests">&quot;Commune&quot; with the statue mentioned in the first clue</string>
+	<string key="Quest_16015_Task_22_Description" rel_version="AffinityQuests">Talk to the statue to learn the second requirement</string>
+	<string key="Quest_16015_Task_23_Description" rel_version="AffinityQuests">hidden fallthrough if have lore note</string>
+	<string key="Quest_16015_Task_28_Description" rel_version="AffinityQuests">never true</string>
+	<string key="Quest_16015_Task_29_Description" rel_version="AffinityQuests">swap in the vision ghost</string>
+	<string key="Quest_16015_Task_30_Description" rel_version="AffinityQuests">Attend the True Seeing</string>
+	<string key="Quest_16015_Task_3_0_Description" rel_version="AffinityQuests">Return to the Fortune Mother with her answers</string>
+	<string key="Quest_16015_Task_3_Description" rel_version="AffinityQuests">Ask the Fortune Mother for a True Seeing</string>
+	<string key="Quest_16015_Task_4_Description" rel_version="AffinityQuests">Go to the Grand Carnival to request a True Seeing</string>
+	<string key="Quest_16015_Task_5_Description" rel_version="AffinityQuests">Go to the Hall of the South King to find the Staff of Divination</string>
+	<string key="Quest_16015_Task_6_0_0_Description" rel_version="AffinityQuests">Approach the statue holding the Staff of Divination</string>
+	<string key="Quest_16015_Task_6_0_Description" rel_version="AffinityQuests"/>
+	<string key="Quest_16015_Task_6_0_Description_0" rel_version="AffinityQuests">Search deeper in the tombs for the Staff of Divination</string>
+	<string key="Quest_16015_Task_6_Description" rel_version="AffinityQuests">Enter tombs to find the Staff of Divination</string>
+	<string key="Quest_16015_Task_7_Description" rel_version="AffinityQuests">Destroy the statues according to the inscription to get the Staff of Divination</string>
+	<string key="Quest_16015_Task_8_Description" rel_version="AffinityQuests">Read the inscription below the statue</string>
+	<string key="Quest_16015_Task_9_Description" rel_version="AffinityQuests">Inspect the statue holding the staff</string>
+	<string key="Quest_16015_description" rel_version="AffinityQuests" speaker="UI - Quest Description">Work with the others on a unique way to prove beyond a doubt that Lyceon is free of blame regarding the Moonscale&apos;s corruption.</string>
+	<string key="Quest_16015_title" rel_version="AffinityQuests" speaker="UI - Quest Title">True Seeing</string>
+	<string key="Quest_16016_Task_1_Description" rel_version="AffinityQuests">Talk to the Fortune Mother at Carnival Outpost</string>
+	<string key="Quest_16016_description" rel_version="AffinityQuests" speaker="UI - Quest Description">The Fortune Mother has reached out to you with a request to meet urgently at Carnival Outpost, regarding the exiled werebeast leader, Lyceon.</string>
+	<string key="Quest_16016_title" rel_version="AffinityQuests" speaker="UI - Quest Title">Fifth Talon</string>
+	<string key="Quest_16017_Task_2_Description" rel_version="AffinityQuests">Go to Esagila to look for Lyceon</string>
+	<string key="Quest_16017_Task_3_0_0_Description" rel_version="AffinityQuests">Continue looking for Lyceon</string>
+	<string key="Quest_16017_Task_3_0_1_0_Description" rel_version="AffinityQuests">Continue searching for Lyceon</string>
+	<string key="Quest_16017_Task_3_0_1_Description" rel_version="AffinityQuests">Continue searching for Lyceon</string>
+	<string key="Quest_16017_Task_3_0_Description" rel_version="AffinityQuests">Enter Esagila to search for Lyceon</string>
+	<string key="Quest_16017_Task_3_0_Description_0" rel_version="AffinityQuests">Continue searching for Lyceon</string>
+	<string key="Quest_16017_Task_3_Description" rel_version="AffinityQuests">Enter the inner halls of Esagila to search for Lyceon</string>
+	<string key="Quest_16017_Task_4_Description" rel_version="AffinityQuests">Defeat Uttu to access the depths of the castle</string>
+	<string key="Quest_16017_Task_5_Description" rel_version="AffinityQuests">Convince Lyceon to come away to safety</string>
+	<string key="Quest_16017_description" rel_version="AffinityQuests" speaker="UI - Quest Description">The Fortune Mother has warned that Lyceon, the exiled werebeast leader of Umbra Clan, is in imminent danger. Find Lyceon and protect him.</string>
+	<string key="Quest_16017_title" rel_version="AffinityQuests" speaker="UI - Quest Title">To Uttu</string>
+	<string key="Quest_16018_Task_10_Description" rel_version="AffinityQuests">**TELEPORT DOOR - Enter the arena for the Blood Rite to face Costas</string>
+	<string key="Quest_16018_Task_11_Description" rel_version="AffinityQuests">Search for Nocturne</string>
+	<string key="Quest_16018_Task_12_Description" rel_version="AffinityQuests">Talk to Nocturne</string>
+	<string key="Quest_16018_Task_13_Description" rel_version="AffinityQuests">Get a key from one of the guards</string>
+	<string key="Quest_16018_Task_1_Description" rel_version="AffinityQuests">Wait outside of Esagila for Lyceon</string>
+	<string key="Quest_16018_Task_2_0_Description" rel_version="AffinityQuests">PLACEHOLDER CUTSCENE - Aurien sees player and runs off</string>
+	<string key="Quest_16018_Task_2_Description" rel_version="AffinityQuests">PLACEHOLDER CUTSCENE - Aurien sees player and runs off</string>
+	<string key="Quest_16018_Task_2_Description_0" rel_version="AffinityQuests">Confront Aurien 4a</string>
+	<string key="Quest_16018_Task_3_Description" rel_version="AffinityQuests">Catch the assassin</string>
+	<string key="Quest_16018_Task_5_0_0_Description" rel_version="AffinityQuests">Talk to Lyceon</string>
+	<string key="Quest_16018_Task_5_0_Description" rel_version="AffinityQuests">Confront Aurien 4a</string>
+	<string key="Quest_16018_Task_5_0_Description_0" rel_version="AffinityQuests">Rescue Nocturne</string>
+	<string key="Quest_16018_Task_5_Description" rel_version="AffinityQuests">Question Aurien 4</string>
+	<string key="Quest_16018_Task_6_Description" rel_version="AffinityQuests">Go to Sorrowthorn for the tribunal on Costas</string>
+	<string key="Quest_16018_Task_7_Description" rel_version="AffinityQuests">Bear witness against Costas at the tribunal</string>
+	<string key="Quest_16018_Task_8_Description" rel_version="AffinityQuests">Defeat Costas in the Blood Rite</string>
+	<string key="Quest_16018_Task_9_Description" rel_version="AffinityQuests">Go to Algarot Hall to search for Nocturne</string>
+	<string key="Quest_16018_description" rel_version="AffinityQuests" speaker="UI - Quest Description">While rescuing Lyceon from Uttu&apos;s lair, an mysterious assailant appears and brings forward a new threat to Lyceon&apos;s kin.</string>
+	<string key="Quest_16018_title" rel_version="AffinityQuests" speaker="UI - Quest Title">Blood Rite</string>
+	<string key="Quest_16019_Task_1_Description" rel_version="AffinityQuests">HIDDEN - complete once player starts story 1 quest</string>
+	<string key="Quest_16019_Task_5_0_0_Description" rel_version="AffinityQuests">Continue to the wine cellars of Draculesti Castle</string>
+	<string key="Quest_16019_Task_5_0_1_Description" rel_version="AffinityQuests">Head toward the wine cellars to meet your secret correspondent</string>
+	<string key="Quest_16019_Task_5_0_Description" rel_version="AffinityQuests">Descend toward the wine cellars to meet your secret correspondent</string>
+	<string key="Quest_16019_Task_5_Description" rel_version="AffinityQuests">Investigate a presence watching you near the Nighthaven clocktower</string>
+	<string key="Quest_16019_Task_6_0_0_Description" rel_version="AffinityQuests">Read the third note</string>
+	<string key="Quest_16019_Task_6_0_Description" rel_version="AffinityQuests">Read the second note</string>
+	<string key="Quest_16019_Task_6_Description" rel_version="AffinityQuests">Read the mysterious note</string>
+	<string key="Quest_16019_Task_7_Description" rel_version="AffinityQuests">Go to wine cellars</string>
+	<string key="Quest_16019_Task_9_Description" rel_version="AffinityQuests">Talk to your secret correspondent</string>
+	<string key="Quest_16019_description" rel_version="AffinityQuests" speaker="UI - Quest Description">A mysterious watcher has left a trail of notes for you to follow.</string>
+	<string key="Quest_16019_title" rel_version="AffinityQuests" speaker="UI - Quest Title">A Clandestine Meeting</string>
+	<string key="Quest_16020_Task_10_Description" rel_version="AffinityQuests">Watch the cutscene</string>
+	<string key="Quest_16020_Task_1_Description" rel_version="AffinityQuests">Placeholder for quest activities</string>
+	<string key="Quest_16020_Task_1_Description_0" rel_version="AffinityQuests">Hidden encounter container</string>
+	<string key="Quest_16020_Task_3_Description" rel_version="AffinityQuests">Go to House Carmilla</string>
+	<string key="Quest_16020_Task_4_0_0_0_Description" rel_version="AffinityQuests">Find Lucian and his prisoner</string>
+	<string key="Quest_16020_Task_4_0_0_Description" rel_version="AffinityQuests">Hide behind the partition</string>
+	<string key="Quest_16020_Task_4_0_Description" rel_version="AffinityQuests">Enter Lucian&apos;s quarters to search for evidence of a cloaked operation</string>
+	<string key="Quest_16020_Task_4_Description" rel_version="AffinityQuests">Enter House Carmilla to find evidence of a rogue actor</string>
+	<string key="Quest_16020_Task_5_0_Description"/>
+	<string key="Quest_16020_Task_5_Description" rel_version="AffinityQuests">Search Lucian&apos;s desk for evidence of a covert op</string>
+	<string key="Quest_16020_Task_6_Description" rel_version="AffinityQuests">Enter the House Carmilla Undercroft to find Lucian</string>
+	<string key="Quest_16020_Task_7_Description" rel_version="AffinityQuests">Defeat Commander Lucian for the prison key</string>
+	<string key="Quest_16020_Task_8_Description" rel_version="AffinityQuests">Unlock the prison cell</string>
+	<string key="Quest_16020_Task_9_Description" rel_version="AffinityQuests">PLACEHOLDER CUTSCENE - Spy on House Carmilla Guards - 17_ZQ_US1_SpyGuards_IGC</string>
+	<string key="Quest_16020_description" rel_version="AffinityQuests" speaker="UI - Quest Description">A mysterious correspondent asks for help investigating... a mystery.</string>
+	<string key="Quest_16020_title" rel_version="AffinityQuests" speaker="UI - Quest Title">Secrets</string>
+	<string key="Quest_16021_Task_1_Description" rel_version="AffinityQuests">placeholder task</string>
+	<string key="Quest_16021_Task_1_Description_0" rel_version="AffinityQuests">Tell Lady Carmilla her rogue agent was Lucian</string>
+	<string key="Quest_16021_Task_2_Description" rel_version="AffinityQuests">Hasten to Bitu Umbre to warn Cecilia of the ambush</string>
+	<string key="Quest_16021_Task_3_Description" rel_version="AffinityQuests">Cut down the assassins</string>
+	<string key="Quest_16021_Task_4_Description" rel_version="AffinityQuests">Read the missive dropped by one of the assassins</string>
+	<string key="Quest_16021_Task_5_0_Description" rel_version="AffinityQuests">Continue your search for Cecilia</string>
+	<string key="Quest_16021_Task_5_Description" rel_version="AffinityQuests">Enter the Catacombs to search for Cecilia</string>
+	<string key="Quest_16021_description" rel_version="AffinityQuests" speaker="UI - Quest Description">A rescue operation deepens the intrigue and raises the stakes with critical information that could upend the balance of power between the Upyr and the humans.</string>
+	<string key="Quest_16021_title" rel_version="AffinityQuests" speaker="UI - Quest Title">The Blood Atlas</string>
+	<string key="Quest_16022_Task_1_Description" rel_version="AffinityQuests">placeholder task</string>
+	<string key="Quest_16022_Task_1_Description_0" rel_version="AffinityQuests">Bring the Sun Key to Kisher in Tularest Abbey</string>
+	<string key="Quest_16022_Task_2_Description" rel_version="AffinityQuests">Go to the Hall of the South King for the Sun Key</string>
+	<string key="Quest_16022_Task_3_Description" rel_version="AffinityQuests">Enter the Tomb of Munzur in search of the Sun Key</string>
+	<string key="Quest_16022_Task_4_Description" rel_version="AffinityQuests">Read the inscription next to the chest</string>
+	<string key="Quest_16022_Task_5_Description" rel_version="AffinityQuests">Open the three sarcophagi mentioned in the inscription</string>
+	<string key="Quest_16022_Task_6_Description" rel_version="AffinityQuests">Retrieve the Sun Key</string>
+	<string key="Quest_16022_description" rel_version="AffinityQuests" speaker="UI - Quest Description">Kisher asks you to delve the tombs at the Hall of the South King, to recover an ancient decoder key that was used in conjunction with the text that has locked away Sabine&apos;s mind, in the hopes it may help him determine a path to her recovery.</string>
+	<string key="Quest_16022_title" rel_version="AffinityQuests" speaker="UI - Quest Title">The Sun Key</string>
+	<string key="Quest_16023_Task_1_Description" rel_version="AffinityQuests">placeholder task</string>
+	<string key="Quest_16023_Task_2_Description" rel_version="AffinityQuests">Speak with Lord Galbrion about Sabine&apos;s medicine</string>
+	<string key="Quest_16023_Task_3_Description" rel_version="AffinityQuests">Find the Supply Wagons</string>
+	<string key="Quest_16023_Task_4_0_Description" rel_version="AffinityQuests">Investigate tracks</string>
+	<string key="Quest_16023_Task_4_Description" rel_version="AffinityQuests">Examine the wrecked caravan</string>
+	<string key="Quest_16023_Task_5_Description" rel_version="AffinityQuests">Search the nearby wereraven nests for the stolen supplies</string>
+	<string key="Quest_16023_Task_6_Description" rel_version="AffinityQuests">Retrieve the stolen supplies</string>
+	<string key="Quest_16023_Task_7_Description" rel_version="AffinityQuests">Return to Lord Galbrion with the supplies</string>
+	<string key="Quest_16023_description" rel_version="AffinityQuests" speaker="UI - Quest Description">Your new host, Lord Galbrion, asks a quid pro quo to help your and Cecilia&apos;s cause.</string>
+	<string key="Quest_16023_title" rel_version="AffinityQuests" speaker="UI - Quest Title">Everything and Nothing</string>
+	<string key="Quest_16024_Task_10_Description" rel_version="AffinityQuests">Activate the Ritual Circle</string>
+	<string key="Quest_16024_Task_11_Description" rel_version="AffinityQuests">Talk to Kisher about the ritual circle</string>
+	<string key="Quest_16024_Task_12_0_Description">Place the Crystals to activate the Ritual Circle</string>
+	<string key="Quest_16024_Task_12_Description" rel_version="AffinityQuests">Collect the Activation Crystals for the Ritual Circle</string>
+	<string key="Quest_16024_Task_13_0_0_0_Description" rel_version="AffinityQuests">Place the Green Activation Crystal</string>
+	<string key="Quest_16024_Task_13_0_0_Description" rel_version="AffinityQuests">Get the Green Activation Crystal</string>
+	<string key="Quest_16024_Task_13_0_1_Description" rel_version="AffinityQuests">Place the Blue Activation Crystal</string>
+	<string key="Quest_16024_Task_13_0_Description" rel_version="AffinityQuests">Get the Blue Activation Crystal</string>
+	<string key="Quest_16024_Task_13_1_Description" rel_version="AffinityQuests">Place the Red Activation Crystal</string>
+	<string key="Quest_16024_Task_13_Description" rel_version="AffinityQuests">Get the Red Activation Crystal</string>
+	<string key="Quest_16024_Task_14_Description" rel_version="AffinityQuests">Read the plaque on the wall</string>
+	<string key="Quest_16024_Task_15_Description" rel_version="AffinityQuests">Container for cyclic gatherable puzzle</string>
+	<string key="Quest_16024_Task_16_Description" rel_version="AffinityQuests"/>
+	<string key="Quest_16024_Task_17_Description" rel_version="AffinityQuests">Sabine is muttering something</string>
+	<string key="Quest_16024_Task_18_Description" rel_version="AffinityQuests">Start the Ritual</string>
+	<string key="Quest_16024_Task_18_Description_0" rel_version="AffinityQuests">Simple container with actual puzzle solve</string>
+	<string key="Quest_16024_Task_19_Description" rel_version="AffinityQuests">PUZZLE PLACEHOLDER - align the ritual rings that project into the sky</string>
+	<string key="Quest_16024_Task_1_Description" rel_version="AffinityQuests">placeholder task</string>
+	<string key="Quest_16024_Task_1_Description_0" rel_version="AffinityQuests">Return to Tularest to debrief with Lynette and Galbrion</string>
+	<string key="Quest_16024_Task_20_0_Description" rel_version="AffinityQuests">PLACEHOLDER CUTSCENE - ritual completed fanfare sabine restored - 17_ZQ_US5_MemoraRitualSolved_IGC</string>
+	<string key="Quest_16024_Task_20_1_0_Description" rel_version="AffinityQuests">never true</string>
+	<string key="Quest_16024_Task_20_1_Description" rel_version="AffinityQuests">These 3 tasktriggerareas are never true</string>
+	<string key="Quest_16024_Task_20_Description" rel_version="AffinityQuests">PLACEHOLDER CUTSCENE - Watch the cutscene- drink ichor to start ritual</string>
+	<string key="Quest_16024_Task_20_Description_0" rel_version="AffinityQuests">(PLACEHOLDER - Rotate each ring once) Align the three rings based on Sabine&apos;s clue</string>
+	<string key="Quest_16024_Task_21_Description" rel_version="AffinityQuests">Check on Sabine</string>
+	<string key="Quest_16024_Task_22_0_0_Description" rel_version="AffinityQuests">Hidden- Inner Ring solve</string>
+	<string key="Quest_16024_Task_22_0_Description" rel_version="AffinityQuests">Hidden- Middle Ring solve</string>
+	<string key="Quest_16024_Task_22_Description" rel_version="AffinityQuests">Hidden- Outer Ring solve</string>
+	<string key="Quest_16024_Task_23_0_0_Description"/>
+	<string key="Quest_16024_Task_23_0_Description"/>
+	<string key="Quest_16024_Task_2_Description" rel_version="AffinityQuests">Go to the Hall of the North King for the Ritual Chalice</string>
+	<string key="Quest_16024_Task_3_0_Description" rel_version="AffinityQuests">Enter the Demesne for the Ritual</string>
+	<string key="Quest_16024_Task_3_1_0_0_Description" rel_version="AffinityQuests">Leap into the pit to face We-ila</string>
+	<string key="Quest_16024_Task_3_1_0_Description" rel_version="AffinityQuests">Find a way into the tomb of We-ila</string>
+	<string key="Quest_16024_Task_3_1_Description" rel_version="AffinityQuests">Search for the tomb of the Supreme Architect We-ila</string>
+	<string key="Quest_16024_Task_3_2_0_0_Description" rel_version="AffinityQuests">Search We-ila&apos;s burial chamber for the Chalice (optional: Defeat We-ila)</string>
+	<string key="Quest_16024_Task_3_2_0_Description" rel_version="AffinityQuests">Continue the search for We-ila&apos;s tomb</string>
+	<string key="Quest_16024_Task_3_2_Description" rel_version="AffinityQuests">Continue searching for We-ila&apos;s tomb</string>
+	<string key="Quest_16024_Task_3_Description" rel_version="AffinityQuests">Descend into the Tombs of the Architects</string>
+	<string key="Quest_16024_Task_4_Description" rel_version="AffinityQuests"/>
+	<string key="Quest_16024_Task_5_Description" rel_version="AffinityQuests">Harvest ichor from feral Upyr</string>
+	<string key="Quest_16024_Task_6_Description" rel_version="AffinityQuests">Go to Mormant Aurit to collect Upyr ichor</string>
+	<string key="Quest_16024_Task_7_Description" rel_version="AffinityQuests">Retrieve the Ritual Chalice of We-ila</string>
+	<string key="Quest_16024_Task_8_Description" rel_version="AffinityQuests">Go to Memora Singur to start the Ritual</string>
+	<string key="Quest_16024_Task_9_Description" rel_version="AffinityQuests">Hidden- get chalice container</string>
+	<string key="Quest_16024_description" rel_version="AffinityQuests" speaker="UI - Quest Description">Gather the ingredients and enact an ancient ritual that Kisher hopes will unbind Sabine&apos;s mind from the Blood Atlas, in the hopes of recovering the vital information stored in her memories.</string>
+	<string key="Quest_16024_title" rel_version="AffinityQuests" speaker="UI - Quest Title">Locks and Keys</string>
+	<string key="Quest_16025_Task_1_Description" rel_version="AffinityQuests">Talk to Lynette about an intercepted communique from a hidden enemy</string>
+	<string key="Quest_16025_description" rel_version="AffinityQuests" speaker="UI - Quest Description">Lynette has sent word to urgently meet in Tularest Abbey.</string>
+	<string key="Quest_16025_title" rel_version="AffinityQuests" speaker="UI - Quest Title">Dusk</string>
+	<string key="Quest_16026_Task_11_0_Description"/>
+	<string key="Quest_16026_Task_11_Description" rel_version="AffinityQuests">Find evidence of Upyr working with the Inquisitors</string>
+	<string key="Quest_16026_Task_12_0_0_Description" rel_version="AffinityQuests">Search troop tents</string>
+	<string key="Quest_16026_Task_12_0_Description" rel_version="AffinityQuests">Search the troop tents</string>
+	<string key="Quest_16026_Task_12_1_Description" rel_version="AffinityQuests">Search the planning tents</string>
+	<string key="Quest_16026_Task_12_Description" rel_version="AffinityQuests">Search the planning tents</string>
+	<string key="Quest_16026_Task_13_0_Description"/>
+	<string key="Quest_16026_Task_14_0_0_Description" rel_version="AffinityQuests">**TELEPORT DOOR PORTKEY - Search through the letters</string>
+	<string key="Quest_16026_Task_14_0_Description" rel_version="AffinityQuests">Search the tower for correspondence with the Upyr</string>
+	<string key="Quest_16026_Task_14_Description" rel_version="AffinityQuests">Search the tower for evidence of collusion with the Upyr</string>
+	<string key="Quest_16026_Task_17_Description" rel_version="AffinityQuests">Read the note</string>
+	<string key="Quest_16026_Task_1_Description" rel_version="AffinityQuests">placeholder task</string>
+	<string key="Quest_16026_Task_3_Description" rel_version="AffinityQuests">Go to Judgement Outwatch to search for evidence of Upyr working with the Inquisitors</string>
+	<string key="Quest_16026_Task_4_0_Description" rel_version="AffinityQuests">Look around for more clues</string>
+	<string key="Quest_16026_Task_4_Description" rel_version="AffinityQuests">Search for evidence of Inquisitors colluding with Upyr nobles</string>
+	<string key="Quest_16026_Task_5_Description" rel_version="AffinityQuests">**TELEPORT DOOR PORTKEY - Search through the letters</string>
+	<string key="Quest_16026_Task_5_Description_0" rel_version="AffinityQuests">Read the note</string>
+	<string key="Quest_16026_Task_6_Description" rel_version="AffinityQuests">**TELEPORT DOOR - Escape the room</string>
+	<string key="Quest_16026_description" rel_version="AffinityQuests" speaker="UI - Quest Description">Lynette&apos;s spies have intercepted an Upyr communique warning the Inquisitors at Judgement Outreach of Lucian&apos;s compromise. Investigate the camp to determine the identity of the Upyr collaborator.</string>
+	<string key="Quest_16026_title" rel_version="AffinityQuests" speaker="UI - Quest Title">Closing In</string>
+	<string key="Quest_16027_Task_1_Description" rel_version="AffinityQuests">Talk to Galbrion about challenge from House Bathory</string>
+	<string key="Quest_16027_description" rel_version="AffinityQuests" speaker="UI - Quest Description">The Upyr noble Houses are taking notice of your efforts. Speak with Lord Galbrion at Tularest Abbey about next steps.</string>
+	<string key="Quest_16027_title" rel_version="AffinityQuests" speaker="UI - Quest Title">Night</string>
+	<string key="Quest_16028_Task_10_0_0_Description" rel_version="AffinityQuests">Complete the course</string>
+	<string key="Quest_16028_Task_10_0_Description" rel_version="AffinityQuests">Proceed through the course</string>
+	<string key="Quest_16028_Task_10_Description" rel_version="AffinityQuests">**TELEPORT DOOR - Enter the chamber</string>
+	<string key="Quest_16028_Task_11_Description" rel_version="AffinityQuests">Defeat Lord Bathory (PENDING ROOM CREATION, LOCATION IS TEMP)</string>
+	<string key="Quest_16028_Task_12_Description" rel_version="AffinityQuests">PLACEHOLDER SPIDER SHOOTING GALLERY- SHOOT THE SPIDERS</string>
+	<string key="Quest_16028_Task_13_0_Description" rel_version="AffinityQuests">Find Everard and defeat him if he&apos;s been turned</string>
+	<string key="Quest_16028_Task_13_Description" rel_version="AffinityQuests">Find Everard and defeat him if he&apos;s been turned</string>
+	<string key="Quest_16028_Task_15_Description" rel_version="AffinityQuests">(optional) Take the rifle</string>
+	<string key="Quest_16028_Task_16_Description" rel_version="AffinityQuests">PLACEHOLDER- Shoot the spiders</string>
+	<string key="Quest_16028_Task_18_Description" rel_version="AffinityQuests">Discuss the letter with Galbrion</string>
+	<string key="Quest_16028_Task_19_Description" rel_version="AffinityQuests">hidden- Everard container</string>
+	<string key="Quest_16028_Task_1_0_Description" rel_version="AffinityQuests">Give Lynette Everard&apos;s amulet</string>
+	<string key="Quest_16028_Task_1_Description" rel_version="AffinityQuests">placeholder task</string>
+	<string key="Quest_16028_Task_1_Description_0" rel_version="AffinityQuests">Ask Lynette about the letter</string>
+	<string key="Quest_16028_Task_20_Description" rel_version="AffinityQuests">hidden- Everard encounter container</string>
+	<string key="Quest_16028_Task_21_Description" rel_version="AffinityQuests">Complete the Second Challenge</string>
+	<string key="Quest_16028_Task_23_Description" rel_version="AffinityQuests">NEVER TRUE</string>
+	<string key="Quest_16028_Task_24_Description" rel_version="AffinityQuests">Descend into the undercroft</string>
+	<string key="Quest_16028_Task_3_Description" rel_version="AffinityQuests">Read the letter sent to Lynette</string>
+	<string key="Quest_16028_Task_4_Description" rel_version="AffinityQuests">Leave Lord Galbrion&apos;s Office</string>
+	<string key="Quest_16028_Task_5_0_Description" rel_version="AffinityQuests">Talk to Lynette</string>
+	<string key="Quest_16028_Task_5_Description" rel_version="AffinityQuests">Speak with the House Bathory messenger</string>
+	<string key="Quest_16028_Task_6_Description" rel_version="AffinityQuests">Go to Cronewell Cathedral to look for Lynette</string>
+	<string key="Quest_16028_Task_6_Description_0" rel_version="AffinityQuests">Go to House Bathory to meet their Challenge</string>
+	<string key="Quest_16028_Task_7_0_0_Description" rel_version="AffinityQuests">Continue the search for Everard</string>
+	<string key="Quest_16028_Task_7_0_0_Description_0" rel_version="AffinityQuests">Continue searching for Everard</string>
+	<string key="Quest_16028_Task_7_0_Description" rel_version="AffinityQuests">Enter the depths of the cathedral to search for Everard</string>
+	<string key="Quest_16028_Task_7_Description" rel_version="AffinityQuests">Go to Cronewell Cathedral to look for Lynette</string>
+	<string key="Quest_16028_Task_8_0_0_0_Description" rel_version="AffinityQuests">Enter the Final Challenge to defeat Lord Bathory</string>
+	<string key="Quest_16028_Task_8_0_0_Description" rel_version="AffinityQuests">Proceed to the final Challenge</string>
+	<string key="Quest_16028_Task_8_0_1_Description" rel_version="AffinityQuests">Start the second challenge</string>
+	<string key="Quest_16028_Task_8_0_Description" rel_version="AffinityQuests">Proceed to the Second Challenge</string>
+	<string key="Quest_16028_Task_8_1_Description" rel_version="AffinityQuests">Enter House Bathory to meet their Challenge</string>
+	<string key="Quest_16028_Task_8_2_Description" rel_version="AffinityQuests">Make your way to the First Challenge</string>
+	<string key="Quest_16028_Task_8_3_Description" rel_version="AffinityQuests">Continue to the First Challenge</string>
+	<string key="Quest_16028_Task_8_Description" rel_version="AffinityQuests">Enter the undercroft for the First Challenge</string>
+	<string key="Quest_16028_Task_9_0_0_Description" rel_version="AffinityQuests">Read the Third Challenge inscription</string>
+	<string key="Quest_16028_Task_9_0_Description" rel_version="AffinityQuests">Read the Second Challenge inscription</string>
+	<string key="Quest_16028_Task_9_Description" rel_version="AffinityQuests">Read the First Challenge inscription</string>
+	<string key="Quest_16028_description" rel_version="AffinityQuests" speaker="UI - Quest Description">House Bathory has taken notice of your reputation as a Champion for Cecilia. Take on their House Challenge to prove your worth.</string>
+	<string key="Quest_16028_title" rel_version="AffinityQuests" speaker="UI - Quest Title">Bathory</string>
+	<string key="Quest_16029_Task_1_Description" rel_version="AffinityQuests">Lynette in Tularest Abbey sends word of a House Challenge from Carmilla</string>
+	<string key="Quest_16029_description" rel_version="AffinityQuests" speaker="UI - Quest Description">Political support is lining up for Cecilia, thanks to your efforts. Speak with Lynette and Galbrion at Tularest Abbey to discuss.</string>
+	<string key="Quest_16029_title" rel_version="AffinityQuests" speaker="UI - Quest Title">Twilight</string>
+	<string key="Quest_16030_Task_1_Description" rel_version="AffinityQuests">Read Lady Carmilla&apos;s letter</string>
+	<string key="Quest_16030_Task_3_Description" rel_version="AffinityQuests">Go to House Carmilla to meet their Challenge</string>
+	<string key="Quest_16030_Task_4_0_Description" rel_version="AffinityQuests">Find Lady Carmilla to win through the combat challenge</string>
+	<string key="Quest_16030_Task_4_Description" rel_version="AffinityQuests">Make your way down to Carmilla&apos;s lowest vaults for the ancient crest</string>
+	<string key="Quest_16030_Task_5_Description" rel_version="AffinityQuests">Retrieve House Carmilla&apos;s founding crest</string>
+	<string key="Quest_16030_Task_6_Description" rel_version="AffinityQuests">Defeat Lady Carmilla</string>
+	<string key="Quest_16030_description" rel_version="AffinityQuests" speaker="UI - Quest Description">Another key noble House has taken notice of your rising stardom in the Upyr community as Cecilia&apos;s Champion. Complete the latest House Challenge to move solidify the political support for Cecilia in Nighthaven.</string>
+	<string key="Quest_16030_title" rel_version="AffinityQuests" speaker="UI - Quest Title">Carmilla</string>
+	<string key="Quest_16031_Task_1_Description" rel_version="AffinityQuests">Cecilia requests a meeting at Carnival Outpost regarding your hidden enemy</string>
+	<string key="Quest_16031_description" rel_version="AffinityQuests" speaker="UI - Quest Description">Cecilia has sent word to meet in secret at Tularest Abbey.</string>
+	<string key="Quest_16031_title" rel_version="AffinityQuests" speaker="UI - Quest Title">Void</string>
+	<string key="Quest_16032_Task_10_Description" rel_version="AffinityQuests">Defeat Lord Galbrion</string>
+	<string key="Quest_16032_Task_11_Description" rel_version="AffinityQuests">DUMMY should never be true</string>
+	<string key="Quest_16032_Task_11_Description_0" rel_version="AffinityQuests">detect first checkpoint of race</string>
+	<string key="Quest_16032_Task_12_Description" rel_version="AffinityQuests">Dummy hidden- hook for slice swap in of NPCs Cecilia and Carmilla</string>
+	<string key="Quest_16032_Task_12_Description_0" rel_version="AffinityQuests">unlock achievement to shorten lynette dialogue if race resets</string>
+	<string key="Quest_16032_Task_13_0_Description" rel_version="AffinityQuests">hidden- talk to lynette longer version dialogue if not yet ran race</string>
+	<string key="Quest_16032_Task_13_Description" rel_version="AffinityQuests">Talk to Lynette</string>
+	<string key="Quest_16032_Task_14_Description" rel_version="AffinityQuests">never true</string>
+	<string key="Quest_16032_Task_1_Description" rel_version="AffinityQuests">placeholder task</string>
+	<string key="Quest_16032_Task_1_Description_0" rel_version="AffinityQuests">Catch the spy</string>
+	<string key="Quest_16032_Task_3_Description" rel_version="AffinityQuests">Go to Tularest Abbey to lay a trap for your hidden enemy</string>
+	<string key="Quest_16032_Task_4_0_Description" rel_version="AffinityQuests">Chase the enemy</string>
+	<string key="Quest_16032_Task_4_Description" rel_version="AffinityQuests">Lie in wait for the enemy - PLACEHOLDER</string>
+	<string key="Quest_16032_Task_4_Description_0" rel_version="AffinityQuests">Let the others know you&apos;ve defeated Galbrion</string>
+	<string key="Quest_16032_Task_5_0_Description" rel_version="AffinityQuests">Talk to Lynette about Galbrion</string>
+	<string key="Quest_16032_Task_5_Description" rel_version="AffinityQuests">Talk to Cecilia about Galbrion</string>
+	<string key="Quest_16032_Task_6_0_Description" rel_version="AffinityQuests">Find Lord Galbrion</string>
+	<string key="Quest_16032_Task_6_0_Description_0" rel_version="AffinityQuests">**TELEPORT DOOR - Corner Galbrion in his secret bunker</string>
+	<string key="Quest_16032_Task_6_Description" rel_version="AffinityQuests">Find Lord Galbrion</string>
+	<string key="Quest_16032_Task_8_Description" rel_version="AffinityQuests">Search Galbrion&apos;s desk for a key to the hidden door</string>
+	<string key="Quest_16032_Task_9_Description" rel_version="AffinityQuests">TELEPORT - CORNER LORD GALBRION IN HIS BUNKER</string>
+	<string key="Quest_16032_description" rel_version="AffinityQuests" speaker="UI - Quest Description">Carmilla&apos;s spy network has uncovered a likely culprit behind the attacks on Cecilia and her efforts to achieve a more equitable treatment of humans. Run your quarry to ground.</string>
+	<string key="Quest_16032_title" rel_version="AffinityQuests" speaker="UI - Quest Title">Benedikte</string>
+	<string key="Quest_16033_description" rel_version="AffinityQuests" speaker="UI - Quest Description"/>
+	<string key="Quest_16033_title" rel_version="AffinityQuests" speaker="UI - Quest Title"/>
+	<string key="Quest_16034_description" rel_version="AffinityQuests" speaker="UI - Quest Description"/>
+	<string key="Quest_16034_title" rel_version="AffinityQuests" speaker="UI - Quest Title"/>
+</resources>
+

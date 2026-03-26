@@ -43627,20 +43627,10 @@ Upon claiming this reward you will additionally receive:\n&lt;font color="#b2aea
 	<string key="FoodLostBlackLicoriceT5_Description" rel_version="Event_Halloween2023_Perm">Ugh, this stuff is the worst.</string>
 	<string key="95_S04_Wyrdwood" rel_version="Season_4_Perm">Spirit Wood</string>
 	<string key="95_S04_Wyrdwood_Desc" rel_version="Season_4_Perm">Wood from Spirits, used to build Seals for Daichi.</string>
-	<string key="95_s04_OmamoriCharmItem" rel_version="Season_4_Temp">Ofuda Charm</string>
-	<string key="95_s04_OmamoriCharmItem_Description" rel_version="Season_4_Temp">An Ofuda Charm from Daichi to help thaw out the frozen prisoners.</string>
-	<string key="95_s04_YamiOrbItem" rel_version="Season_4_Temp">Rune Catcher "Yami" Orb</string>
-	<string key="95_s04_YamiOrbItem_Description" rel_version="Season_4_Temp">Orbs from Daichi to capture the key runes to open the temple entrance.</string>
-	<string key="95_s04_AscendRuneItem" rel_version="Season_4_Temp">Ascend Rune</string>
-	<string key="95_s04_AscendRuneItem_Description" rel_version="Season_4_Temp">The captured "Ascend" rune, used to unseal the temple entrance.</string>
-	<string key="95_s04_FearRuneItem" rel_version="Season_4_Temp">Fear Rune</string>
-	<string key="95_s04_FearRuneItem_Description" rel_version="Season_4_Temp">The captured "Fear" rune, used to unseal the temple entrance.</string>
 	<string key="95_s04_ChessExitGemItem" rel_version="Season_4_Perm">King's Gem</string>
 	<string key="95_s04_ChessExitGemItem_Description" rel_version="Season_4_Perm">A gem dropped by the enemy King chess piece.</string>
 	<string key="95_s04_IceKeyItem" rel_version="Season_4_Perm">Castle Keep Key</string>
 	<string key="95_s04_IceKeyItem_Description" rel_version="Season_4_Perm">A key into the inner keep of the Ice Castle.</string>
-	<string key="95_s04_WinterRuneItem" rel_version="Season_4_Temp">Winter Rune</string>
-	<string key="95_s04_WinterRuneItem_Description" rel_version="Season_4_Temp">The Winter Rune used to complete an Ancient ascendance ritual.</string>
 	<string key="Skin_PaperMask_AncientGuardianReaver_MasterName" rel_version="Event_Halloween2023_Perm">Flimsy Reaver Mask</string>
 	<string key="Skin_PaperMask_AncientGuardianReaver_Description" rel_version="Event_Halloween2023_Perm">A paper mask resembling an Ancient Reaver.\n\n&lt;font color="#edc63e"&gt;This mask will disappear at the end of Nightveil Hallow&lt;/font&gt;.</string>
 	<string key="Skin_PaperMask_AnubianGuardianBrute_MasterName" rel_version="Event_Halloween2023_Perm">Flimsy Goliath Mask</string>
@@ -46629,18 +46619,6 @@ At the end of Season 3, this trophy will lose its power but remain in your posse
 	<string key="FactionTokenLarge_Box_S4_Description" rel_version="Season_4_Perm">Open this item to claim 15,000 faction tokens for your current faction.</string>
 	<string key="FactionTokenSmall_Box_S4_MasterName" rel_version="Season_4_Perm">5,000 Faction Tokens</string>
 	<string key="FactionTokenSmall_Box_S4_Description" rel_version="Season_4_Perm">Open this item to claim 5,000 faction tokens for your current faction.</string>
-	<string key="SeasonPass4Makegood_EXP1_MasterName" rel_version="Season_4_Temp">2,750 Season 4 Pass EXP</string>
-	<string key="SeasonPass4Makegood_EXP1_Description" rel_version="Season_4_Temp">Opening this item will grant you 2,750 Season Pass experience which is the equivalent of 1 level.\n\n&lt;font color="#b2aea1"&gt;
-This item will not persist beyond Season 4.\n
-Opening this box will show a rewards screen with no items, but will correctly grant you season EXP.&lt;/font&gt;</string>
-	<string key="SeasonPass4Makegood_EXP5_MasterName" rel_version="Season_4_Temp">13,750 Season 4 Pass EXP</string>
-	<string key="SeasonPass4Makegood_EXP5_Description" rel_version="Season_4_Temp">Opening this item will grant you 13,750 Season Pass experience which is the equivalent of 5 levels.\n\n&lt;font color="#b2aea1"&gt;
-This item will not persist beyond Season 4.\n
-Opening this box will show a rewards screen with no items, but will correctly grant you season EXP.&lt;/font&gt;</string>
-	<string key="SeasonPass4Makegood_EXP10_MasterName" rel_version="Season_4_Temp">27,500 Season 4 Pass EXP</string>
-	<string key="SeasonPass4Makegood_EXP10_Description" rel_version="Season_4_Temp">Opening this item will grant you 27,500 Season Pass experience which is the equivalent of 10 levels.\n\n&lt;font color="#b2aea1"&gt;
-This item will not persist beyond Season 4.\n
-Opening this box will show a rewards screen with no items, but will correctly grant you season EXP.&lt;/font&gt;</string>
 	<string key="ExpeditionBasic_Box_S4_MasterName" rel_version="Season_4_Perm">Basic Expedition Chest</string>
 	<string key="ExpeditionBasic_Box_S4_Description" rel_version="Season_4_Perm">A selection of basic expedition materia. \n\nIncludes the following:\n&lt;font color="#b2aea1"&gt;
 500 x Amrine Materia\n
@@ -50924,6 +50902,46 @@ Opening this box will show a rewards screen with no items, but will correctly gr
 	<string key="17_SQ_18034_RatHorsDoeuvres_Description" rel_version="Territory_Dunwood">They look amazingly appetizing, for being made from parts of rats.</string>
 	<string key="17_SQ_20004_StolenLoot" comment="Quotations represent sarcasm to the player- these items are clearly stolen. The player did the stealing." rel_version="Territory_Dunwood">"Reclaimed" Treasure</string>
 	<string key="17_SQ_20004_StolenLoot_Description" rel_version="Territory_Dunwood">It isn't theft if no one else wants it, right…?</string>
+	<string key="17ZQ_PrisonKey" rel_version="AffinityQuests">Prison Key</string>
+	<string key="17ZQ_PrisonKey_Description" rel_version="AffinityQuests">A key to Commander Lucian's private prison. Given the risks in hiding someone right under Carmilla's nose, the prisoner must be special indeed.</string>
+	<string key="17ZQ_CarmillaCrest" rel_version="AffinityQuests">Crest of House Carmilla</string>
+	<string key="17ZQ_CarmillaCrest_Description" rel_version="AffinityQuests">It's the ancient original crest of House Carmilla. You can make out a hand symbol, perhaps denoting the fact that House Carmilla has always controlled from the shadows.</string>
+	<string key="17ZQ_FeastSupplies" rel_version="AffinityQuests">Feast Supplies</string>
+	<string key="17ZQ_FeastSupplies_Description" rel_version="AffinityQuests">Bundles of food and other miscellaneous supplies for Galbrion's Tularest Founding Day- in other words, the day he became its Governor.</string>
+	<string key="17ZQ_GalbrionDoorKey" rel_version="AffinityQuests">Galbrion's Secret Door Key</string>
+	<string key="17ZQ_GalbrionDoorKey_Description" rel_version="AffinityQuests">A small key, as unassuming as Galbrion is not.</string>
+	<string key="17ZQ_InnerRingKey" rel_version="AffinityQuests">Blue Projector Gem</string>
+	<string key="17ZQ_InnerRingKey_Description" rel_version="AffinityQuests">This Gem glows with a calming energy, ready to support you.</string>
+	<string key="17ZQ_LeftEyes" rel_version="AffinityQuests">The Left Eyes of the Mad</string>
+	<string key="17ZQ_LeftEyes_Description" rel_version="AffinityQuests">A morbid collection of eyeballs. It's a burden that most would be rather eager to get rid of.</string>
+	<string key="17ZQ_LunaciteKey" rel_version="AffinityQuests">Lunacite Key</string>
+	<string key="17ZQ_LunaciteKey_Description" rel_version="AffinityQuests">A very ancient key that opens the Moonscale Shrine. Its oddly delicate design has weathered centuries.</string>
+	<string key="17ZQ_MiddleRingKey" rel_version="AffinityQuests">Red Projector Gem</string>
+	<string key="17ZQ_MiddleRingKey_Description" rel_version="AffinityQuests">This Gem glows with an almost malevolent energy, waiting to be unleashed.</string>
+	<string key="17ZQ_OuterRingKey" rel_version="AffinityQuests">Green Projector Gem</string>
+	<string key="17ZQ_OuterRingKey_Description" rel_version="AffinityQuests">This Gem glows with an excited energy- if magic could be a puppy, you feel this could be one.</string>
+	<string key="17ZQ_SilverChalice" rel_version="AffinityQuests">Silver Chalice</string>
+	<string key="17ZQ_SilverChalice_Description" rel_version="AffinityQuests">This ancient chalice is made of the finest silver. It'd be worth a fortune, if it hadn't lain in a horrible monster's living tomb for centuries. Still smells like it too.</string>
+	<string key="17ZQ_StaffDivination" rel_version="AffinityQuests">Staff of Divination</string>
+	<string key="17ZQ_StaffDivination_Description" rel_version="AffinityQuests">This staff gives off an oddly wicked feeling, as if it knew that all tellings of the truth were laced with pain- and it likes it.</string>
+	<string key="17ZQ_SunKey" rel_version="AffinityQuests">Sun Key</string>
+	<string key="17ZQ_SunKey_Description" rel_version="AffinityQuests">This orb is lined on its hemisphere with opposing symbols. The upper and bottom halves rotate freely- a key to an ancient cipher.</string>
+	<string key="17ZQ_UpyrIchor" rel_version="AffinityQuests">Feral Upyr Ichor</string>
+	<string key="17ZQ_UpyrIchor_Description" rel_version="AffinityQuests">Dark, foul, and rotting. Something you'd rather not even look at, let alone smell. Unfortunately there's nothing you can do to stop the smell.</string>
+	<string key="17ZQ_VenomGlands" rel_version="AffinityQuests">Prismweaver Spider Venom Glands</string>
+	<string key="17ZQ_VenomGlands_Description" rel_version="AffinityQuests">These venom glands are filled with a formidable poison that would easily bring a large elephant down. For the Berlaur, it induces a dreamy sleep.</string>
+	<string key="17ZQ_LionBerries" rel_version="AffinityQuests">Lionberry bundles</string>
+	<string key="17ZQ_LionBerries_Description" rel_version="AffinityQuests">These juicy, tart, bright red berries are the most delicious treat imaginable for any Berlaur. As the saying goes, "Come with lionberries. Go in friendship."</string>
+	<string key="17ZQ_SleepingJuice" rel_version="AffinityQuests">Lionberry Sleeping Juice</string>
+	<string key="17ZQ_SleepingJuice_Description" rel_version="AffinityQuests">This red juice is fruity and sweet. It also contains enough prismatic spider venom to knock out several Berlaur.</string>
+	<string key="17ZQ_SleepingJuice_WorkOrder" rel_version="AffinityQuests">Instructions: Cornelius' Delicious Dreams</string>
+	<string key="17ZQ_SleepingJuice_WorkOrder_Description" rel_version="AffinityQuests">A guide on brewing Cornelius' favorite tasty nighttime sleeping aid. It seems to require a cooking pot.</string>
+	<string key="17ZQ_MarAmarMap" rel_version="AffinityQuests">Map for Lyceon</string>
+	<string key="17ZQ_MarAmarMap_Description" rel_version="AffinityQuests">This map seems to be what Cornelius was supposed to give to Lyceon.</string>
+	<string key="17ZQ_DevilsTongue" rel_version="AffinityQuests">Devil's Tongue Sap</string>
+	<string key="17ZQ_DevilsTongue_Description" rel_version="AffinityQuests">A small vial of dark liquid. According to Lyceon, its properties can soothe the most violent of beasts.</string>
+	<string key="17ZQ_EverardAmulet" rel_version="AffinityQuests">Everard's Amulet</string>
+	<string key="17ZQ_EverardAmulet_Description" rel_version="AffinityQuests">An amulet given to Everard by Lynette, bearing his namesake of the "Little Lion."</string>
 	<string key="Skin_Chest_Season8SeasonalServer_Box_MasterName" rel_version="Season_8_Perm">Paragon's Aegis Chestwear Armor Skin Reward</string>
 	<string key="Skin_Chest_Season8SeasonalServer_Box_Description" rel_version="Season_8_Perm">Open this container to unlock the "Paragon's Aegis" Chestwear armor skin.</string>
 	<string key="Skin_Head_Season8SeasonalServer_Box_MasterName" rel_version="Season_8_Perm">Paragon's Virtue Headwear Armor Skin Reward</string>
@@ -52866,6 +52884,12 @@ Upon claiming this reward you will additionally receive:\n
 	<string key="ReekwaterRand4SlotCache_Description" rel_version="Season_10_Perm">Open to acquire 1 random piece of Gear with 4 charm sockets at 740 Gear Score. Item is guaranteed Legendary and loot biased.</string>
 	<string key="ReekwaterRandOverchargedCache_MasterName" rel_version="Season_10_Perm">Overcharged Set Cache</string>
 	<string key="ReekwaterRandOverchargedCache_Description" rel_version="Season_10_Perm">Open to acquire 1 random piece of Gear from the Overcharged Set at 740 Gear Score. Item is guaranteed Legendary and loot biased.</string>
+	<string key="ReekwaterRandElementallychargedCache_MasterName" rel_version="Season_10_Perm">Elementally Charged Set Cache</string>
+	<string key="ReekwaterRandElementallychargedCache_Description" rel_version="Season_10_Perm">Open to acquire 1 random piece of Gear from the Elementally Charged Set at 740 Gear Score. Item is guaranteed Legendary and loot biased.</string>
+	<string key="ReekwaterRandFocusedCache_MasterName" rel_version="Season_10_Perm">Focused Set Cache</string>
+	<string key="ReekwaterRandFocusedCache_Description" rel_version="Season_10_Perm">Open to acquire 1 random piece of Gear from the Focused Set at 740 Gear Score. Item is guaranteed Legendary and loot biased.</string>
+	<string key="ReekwaterRandTenacityCache_MasterName" rel_version="Season_10_Perm">Tenacity Set Cache</string>
+	<string key="ReekwaterRandTenacityCache_Description" rel_version="Season_10_Perm">Open to acquire 1 random piece of Gear from the Tenacity Set at 740 Gear Score. Item is guaranteed Legendary and loot biased.</string>
 	<string key="ReekwaterRandSecondWindCache_MasterName" rel_version="Season_10_Perm">Second Wind Set Cache</string>
 	<string key="ReekwaterRandSecondWindCache_Description" rel_version="Season_10_Perm">Open to acquire 1 random piece of Gear from the Second Wind Set at 740 Gear Score. Item is guaranteed Legendary and loot biased.</string>
 	<string key="ReekwaterRandEnrageCache_MasterName" rel_version="Season_10_Perm">Enrage Set Cache</string>

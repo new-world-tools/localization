@@ -1465,18 +1465,6 @@
 	<string key="95_S04_Q2_Cyclic_Bonfire_4_DisplayName" rel_version="Season_4_Perm">Launch at Fire Seal</string>
 	<string key="95_S04_Q2_ShootRocket_DisplayName" rel_version="Season_4_Perm">Launch Rocket</string>
 	<string key="14_SQ_02_BadStatue" rel_version="Quest_Supplement_Edengrove">Destroy sculpture</string>
-	<string key="95_s04_MordredCinematic2D_DisplayName" rel_version="Season_4_Temp">Read Letter</string>
-	<string key="95_S04_03_RescueElsa_DisplayName" rel_version="Season_4_Temp">Thaw Explorer</string>
-	<string key="95_S04_03_RescueShen_DisplayName" rel_version="Season_4_Temp">Thaw Soldier</string>
-	<string key="95_S04_03_ChessExitKey_DisplayName" rel_version="Season_4_Temp">Retrieve Gem</string>
-	<string key="95_S04_03_SlotChessExitKey_DisplayName" rel_version="Season_4_Temp">Place Gem</string>
-	<string key="95_S04_05_WinterRune_DisplayName" rel_version="Season_4_Temp">Retrieve Rune</string>
-	<string key="95_S04_06_FirstRune_DisplayName" rel_version="Season_4_Temp">Capture Rune</string>
-	<string key="95_S04_06_SecondRune_DisplayName" rel_version="Season_4_Temp">Get Rune</string>
-	<string key="95_S04_04_DestroyWall_DisplayName" rel_version="Season_4_Temp">Destroy Wall</string>
-	<string key="95_s04_06_lizardStatues_DisplayName" rel_version="Season_4_Temp">Rotate Statue</string>
-	<string key="95_s04_04_TP_DoorInteract" rel_version="Season_4_Temp">Enter Door</string>
-	<string key="95_s04_04_MageDoor_DisplayName" rel_version="Season_4_Temp">Touch Orb</string>
 	<string key="S04_Q02_Daichi_Bow_DisplayName" rel_version="Season_4_Perm">Bow</string>
 	<string key="Gorilla_Boss_Rift_Fire_DisplayName" rel_version="Territory_FirstLight">Fire Glyph</string>
 	<string key="Gorilla_Boss_Rift_Ice_DisplayName" rel_version="Territory_FirstLight">Ice Glyph</string>
@@ -1685,6 +1673,135 @@
 	<string key="17_MSQ_AncientBuilderChest_DisplayName">Open Chest</string>
 	<string key="17_MSQ_AmuletOfNinsun_DisplayName" rel_version="Territory_Dunwood">Collect the Amulet of Ninsun</string>
 	<string key="17_SQ_Rat_18034_Tray_DisplayName" rel_version="Territory_Dunwood">Place Rat Tongue Hors d'oeuvres</string>
+	<string key="17_ZQBS1_SpiderCave_Footprints_Examine" rel_version="AffinityQuests">Examine Footprints</string>
+	<string key="17_ZQBS1_SpiderCave_Footprints_Follow" rel_version="AffinityQuests">Follow Tracks</string>
+	<string key="17_ZQBS1_SpiderCave_CaveEntrance_Examine" rel_version="AffinityQuests">Examine Cave Entrance</string>
+	<string key="17_ZQBS1_SpiderCave_ExamineBody_DisplayName" rel_version="AffinityQuests">Examine Body</string>
+	<string key="17_ZQUS1_LucianOfficeSearch_DisplayName" rel_version="AffinityQuests">Search Desk</string>
+	<string key="17_ZQUS1_KisherCageUnlock_DisplayName" rel_version="AffinityQuests">Unlock Prison</string>
+	<string key="17_ZQURU2_SearchTentMap_DisplayName" rel_version="AffinityQuests">Examine Map</string>
+	<string key="17_ZQURU2_SearchTentPapers_DisplayName" rel_version="AffinityQuests">Read Papers</string>
+	<string key="17_ZQURU2_PortkeyLettersTD_DisplayName" rel_version="AffinityQuests">Read Letters</string>
+	<string key="17_ZQURU2_EscapeTrapDoorTD_DisplayName" rel_version="AffinityQuests">Escape Trap Room</string>
+	<string key="17_ZQURU3_ShootingGalleryDoorTD_DisplayName" rel_version="AffinityQuests">Exit</string>
+	<string key="17_ZQURU5_SecretDoorUnlockTD_DisplayName" rel_version="AffinityQuests">Enter Secret Door</string>
+	<string key="17_ZQUS3_Sarchophagus01_DisplayName" rel_version="AffinityQuests">Open Sarcophagus</string>
+	<string key="17_ZQUS3_Sarchophagus02_DisplayName" rel_version="AffinityQuests">Open Sarcophagus</string>
+	<string key="17_ZQUS3_Sarchophagus03_DisplayName" rel_version="AffinityQuests">Open Sarcophagus</string>
+	<string key="17_ZQUS3_Sarchophagus04_DisplayName" rel_version="AffinityQuests">Open Sarcophagus</string>
+	<string key="17_ZQUS3_Sarchophagus05_DisplayName" rel_version="AffinityQuests">Open Sarcophagus</string>
+	<string key="17_ZQUS3_Sarchophagus06_DisplayName" rel_version="AffinityQuests">Open Sarcophagus</string>
+	<string key="17_ZQUS3_Sarchophagus07_DisplayName" rel_version="AffinityQuests">Open Sarcophagus</string>
+	<string key="17_ZQUS3_Sarchophagus08_DisplayName" rel_version="AffinityQuests">Open Sarcophagus</string>
+	<string key="17_ZQUS3_Sarchophagus09_DisplayName" rel_version="AffinityQuests">Open Sarcophagus</string>
+	<string key="17_ZQUS3_Sarchophagus10_DisplayName" rel_version="AffinityQuests">Open Sarcophagus</string>
+	<string key="17_ZQUS3_Sarchophagus11_DisplayName" rel_version="AffinityQuests">Open Sarcophagus</string>
+	<string key="17_ZQUS3_Sarchophagus12_DisplayName" rel_version="AffinityQuests">Open Sarcophagus</string>
+	<string key="17_ZQUS3_GetSunKey_DisplayName" rel_version="AffinityQuests">Get Sun Key</string>
+	<string key="17_ZQUS4_ExamineCaravan_DisplayName" rel_version="AffinityQuests">Examine Wreckage</string>
+	<string key="17_ZQUS4_ExamineTracks_DisplayName" rel_version="AffinityQuests">Examine Tracks</string>
+	<string key="17_ZQUS4_GetFeastSupplies_DisplayName" rel_version="AffinityQuests">Collect Feast Supplies</string>
+	<string key="17_ZQUS5_GetChalice_DisplayName" rel_version="AffinityQuests">Get Chalice</string>
+	<string key="17_ZQUS5_ActivateRitualCircle_DisplayName" rel_version="AffinityQuests">Activate Ritual Circle</string>
+	<string key="17_ZQUS5_GetRedGem_DisplayName" rel_version="AffinityQuests">Get Crystal</string>
+	<string key="17_ZQUS5_GetGreenGem_DisplayName" rel_version="AffinityQuests">Get Crystal</string>
+	<string key="17_ZQUS5_GetBlueGem_DisplayName" rel_version="AffinityQuests">Get Crystal</string>
+	<string key="17_ZQUS5_PlaceRedGem_DisplayName" rel_version="AffinityQuests">Place Crystal</string>
+	<string key="17_ZQUS5_PlaceGreenGem_DisplayName" rel_version="AffinityQuests">Place Crystal</string>
+	<string key="17_ZQUS5_PlaceBlueGem_DisplayName" rel_version="AffinityQuests">Place Crystal</string>
+	<string key="17_ZQUS5_StartRitual_DisplayName" rel_version="AffinityQuests">Begin Ritual</string>
+	<string key="17_ZQUS5_RingOuter_DisplayName" rel_version="AffinityQuests">Rotate Outer Ring</string>
+	<string key="17_ZQUS5_RingMiddle_DisplayName" rel_version="AffinityQuests">Rotate Middle Ring</string>
+	<string key="17_ZQUS5_RingInner_DisplayName" rel_version="AffinityQuests">Rotate Inner Ring</string>
+	<string key="17_ZQURU4_GetCarmillaCrest_DisplayName" rel_version="AffinityQuests">Collect Crest</string>
+	<string key="17_ZQURU5_SearchGalbrionDesk_DisplayName" rel_version="AffinityQuests">Search Desk</string>
+	<string key="17_ZQURU3_GetBow_DisplayName" rel_version="AffinityQuests">Take Bow</string>
+	<string key="17_ZQURU3_SSG_P1_01_DisplayName" rel_version="AffinityQuests">Destroy Spider</string>
+	<string key="17_ZQURU3_SSG_P2_01_DisplayName" rel_version="AffinityQuests">Destroy Spider</string>
+	<string key="17_ZQURU3_SSG_P2_02_DisplayName" rel_version="AffinityQuests">Destroy Spider</string>
+	<string key="17_ZQURU3_SSG_P3_01_DisplayName" rel_version="AffinityQuests">Destroy Spider</string>
+	<string key="17_ZQURU3_SSG_P3_02_DisplayName" rel_version="AffinityQuests">Destroy Spider</string>
+	<string key="17_ZQURU3_SSG_P3_03_DisplayName" rel_version="AffinityQuests">Destroy Spider</string>
+	<string key="17_ZQURU3_SSG_P4_01_DisplayName" rel_version="AffinityQuests">Destroy Spider</string>
+	<string key="17_ZQURU3_SSG_P4_02_DisplayName" rel_version="AffinityQuests">Destroy Spider</string>
+	<string key="17_ZQURU3_SSG_P4_03_DisplayName" rel_version="AffinityQuests">Destroy Spider</string>
+	<string key="17_ZQURU3_SSG_P4_04_DisplayName" rel_version="AffinityQuests">Destroy Spider</string>
+	<string key="17_ZQURU3_SSG_P4_05_DisplayName" rel_version="AffinityQuests">Destroy Spider</string>
+	<string key="17_ZQURU3_SSG_P4_06_DisplayName" rel_version="AffinityQuests">Destroy Spider</string>
+	<string key="17_ZQURU3_SSG_P5_01_DisplayName" rel_version="AffinityQuests">Destroy Spider</string>
+	<string key="17_ZQURU3_SSG_P5_02_DisplayName" rel_version="AffinityQuests">Destroy Spider</string>
+	<string key="17_ZQURU3_SSG_P5_03_DisplayName" rel_version="AffinityQuests">Destroy Spider</string>
+	<string key="17_ZQURU3_SSG_P5_04_DisplayName" rel_version="AffinityQuests">Destroy Spider</string>
+	<string key="17_ZQURU3_SSG_P5_05_DisplayName" rel_version="AffinityQuests">Destroy Spider</string>
+	<string key="17_ZQURU3_SSG_P5_06_DisplayName" rel_version="AffinityQuests">Destroy Spider</string>
+	<string key="17_ZQURU3_SSG_P5_07_DisplayName" rel_version="AffinityQuests">Destroy Spider</string>
+	<string key="17_ZQURU3_SSG_P5_08_DisplayName" rel_version="AffinityQuests">Destroy Spider</string>
+	<string key="17_ZQURU3_SSG_P5_09_DisplayName" rel_version="AffinityQuests">Destroy Spider</string>
+	<string key="17_ZQURU3_SSG_P5_10_DisplayName" rel_version="AffinityQuests">Destroy Spider</string>
+	<string key="17_ZQBS2_CorneliusSearchTable_DisplayName" rel_version="AffinityQuests">Search Collection</string>
+	<string key="17_ZQBS2_CorneliusStash_DisplayName" rel_version="AffinityQuests">Search Stash</string>
+	<string key="17_ZQBS2_House1SearchEntrance_DisplayName" rel_version="AffinityQuests">Search Entrance</string>
+	<string key="17_ZQBS2_House1SearchWreckage_DisplayName" rel_version="AffinityQuests">Examine Wreckage</string>
+	<string key="17_ZQBS2_House2SearchWreckage_DisplayName" rel_version="AffinityQuests">Examine Wreckage</string>
+	<string key="17_ZQBS2_TelescopeControl_DisplayName" rel_version="AffinityQuests">Turn Telescope</string>
+	<string key="17_ZQBS2_TelescopeView_DisplayName" rel_version="AffinityQuests">Use Telescope</string>
+	<string key="17_ZQBS3_GarielTryDoor_DisplayName" rel_version="AffinityQuests">Try Door</string>
+	<string key="17_ZQBS3_GarielSearchDesk_DisplayName" rel_version="AffinityQuests">Search Desk</string>
+	<string key="17_ZQBS3_GarielSearchTable_DisplayName" rel_version="AffinityQuests">Search Table</string>
+	<string key="17_ZQBS3_KidnapLost_StartFootprints_DisplayName" rel_version="AffinityQuests">Examine Tracks</string>
+	<string key="17_ZQBS3_KidnapLost_EndFootprints_DisplayName" rel_version="AffinityQuests">Examine Tracks</string>
+	<string key="17_ZQBS3_ExitForAnca_DisplayName" rel_version="AffinityQuests">Clear Rubble</string>
+	<string key="17_ZQBS3_ExitForAncaTD_DisplayName" rel_version="AffinityQuests">Crawl Out</string>
+	<string key="17_ZQBS5_MoonscaleDoorEnterTD_DisplayName" rel_version="AffinityQuests">Enter Shrine</string>
+	<string key="17_ZQBS5_MoonscaleDoorExitTD_DisplayName" rel_version="AffinityQuests">Exit Shrine</string>
+	<string key="17_ZQBS5_WereravenTD_DisplayName" rel_version="AffinityQuests">Take Wereraven</string>
+	<string key="17_ZQBS5_AnastasiaEnterDoorTD_DisplayName" rel_version="AffinityQuests">Enter</string>
+	<string key="17_ZQBS5_AnastasiaExitDoorTD_DisplayName" rel_version="AffinityQuests">Exit</string>
+	<string key="17_ZQBS5_ExamineMoonscaleDoor_DisplayName" rel_version="AffinityQuests">Examine Door</string>
+	<string key="17_ZQBS5_BathoryExamineEntrance_DisplayName" rel_version="AffinityQuests">Examine Tracks</string>
+	<string key="17_ZQBS5_ExamineDoorWards_DisplayName" rel_version="AffinityQuests">Examine Wards</string>
+	<string key="17_ZQBS5_PurifyMoonscale_DisplayName" rel_version="AffinityQuests">Purify Moonscale</string>
+	<string key="17_ZQBRU2_ExamineCorneliusCup_DisplayName" rel_version="AffinityQuests">Examine Cup</string>
+	<string key="17_ZQBRU2_SearchCorneliusRecipe_DisplayName" rel_version="AffinityQuests">Search Papers</string>
+	<string key="17_ZQBRU2_LionberryBush_DisplayName" rel_version="AffinityQuests">Harvest Berries</string>
+	<string key="17_ZQBRU2_PlaceJuiceJugs_DisplayName" rel_version="AffinityQuests">Place Juice Jugs</string>
+	<string key="17_ZQBRU2_SearchCostasKey_DisplayName" rel_version="AffinityQuests">Search Costas</string>
+	<string key="17_ZQBRU2_SearchGormsThings_DisplayName" rel_version="AffinityQuests">Search Belongings</string>
+	<string key="17_ZQBRU4_CrownVines_DisplayName" rel_version="AffinityQuests">Clear Vines</string>
+	<string key="17_ZQBRU4_CarnivalForehead_DisplayName" rel_version="AffinityQuests">Commune with Statue</string>
+	<string key="17_ZQBRU4_InspectStatue_DisplayName" rel_version="AffinityQuests">Inspect Statue</string>
+	<string key="17_ZQBRU4_GetStaffDivination_DisplayName" rel_version="AffinityQuests">Retrieve Staff of Divination</string>
+	<string key="17_ZQBRU4_ExamineKnifePlate_DisplayName" rel_version="AffinityQuests">Examine Plate</string>
+	<string key="17_ZQBRU5_ChallengeDoorTD_DisplayName" rel_version="AffinityQuests">Enter Arena</string>
+	<string key="17_ZQBRU5_AlgarotCageDoor_DisplayName" rel_version="AffinityQuests">Unlock Gate</string>
+	<string key="17_ZQBS3_KidnapLost_Footprints1_DisplayName" rel_version="AffinityQuests">Follow Tracks</string>
+	<string key="17_ZQBS3_KidnapLost_Footprints2_DisplayName" rel_version="AffinityQuests">Follow Tracks</string>
+	<string key="17_ZQBS4_Battery1_DisplayName" rel_version="AffinityQuests">Destroy Battery</string>
+	<string key="17_ZQBS4_Battery2_DisplayName" rel_version="AffinityQuests">Destroy Battery</string>
+	<string key="17_ZQBS4_Battery3_DisplayName" rel_version="AffinityQuests">Destroy Battery</string>
+	<string key="17_ZQBS4_Battery4_DisplayName" rel_version="AffinityQuests">Destroy Battery</string>
+	<string key="17_ZQBS4_Battery5_DisplayName" rel_version="AffinityQuests">Destroy Battery</string>
+	<string key="17_ZQBS4_Pylon1_DisplayName" rel_version="AffinityQuests">Destroy Emitter</string>
+	<string key="17_ZQBS4_Pylon2_DisplayName" rel_version="AffinityQuests">Destroy Emitter</string>
+	<string key="17_ZQBS4_Pylon3_DisplayName" rel_version="AffinityQuests">Destroy Emitter</string>
+	<string key="17_ZQBS4_Pylon4_DisplayName" rel_version="AffinityQuests">Destroy Emitter</string>
+	<string key="17_ZQBS4_Pylon5_DisplayName" rel_version="AffinityQuests">Destroy Emitter</string>
+	<string key="17_ZQBRU4_Statue_01_DisplayName" rel_version="AffinityQuests">Destroy Statue</string>
+	<string key="17_ZQBRU4_Statue_02_DisplayName" rel_version="AffinityQuests">Destroy Statue</string>
+	<string key="17_ZQBRU4_Statue_03_DisplayName" rel_version="AffinityQuests">Destroy Statue</string>
+	<string key="17_ZQBRU4_Statue_04_DisplayName" rel_version="AffinityQuests">Destroy Statue</string>
+	<string key="17_ZQBRU4_Statue_05_DisplayName" rel_version="AffinityQuests">Destroy Statue</string>
+	<string key="17_ZQBRU4_Statue_06_DisplayName" rel_version="AffinityQuests">Destroy Statue</string>
+	<string key="17_ZQBRU4_Statue_07_DisplayName" rel_version="AffinityQuests">Destroy Statue</string>
+	<string key="17_ZQBRU4_Statue_08_DisplayName" rel_version="AffinityQuests">Destroy Statue</string>
+	<string key="17_ZQBRU4_Statue_09_DisplayName" rel_version="AffinityQuests">Destroy Statue</string>
+	<string key="17_ZQBRU4_Statue_10_DisplayName" rel_version="AffinityQuests">Destroy Statue</string>
+	<string key="17_ZQBRU4_Statue_11_DisplayName" rel_version="AffinityQuests">Destroy Statue</string>
+	<string key="17_ZQBRU4_Statue_12_DisplayName" rel_version="AffinityQuests">Destroy Statue</string>
+	<string key="17_ZQBRU4_Statue_13_DisplayName" rel_version="AffinityQuests">Destroy Statue</string>
+	<string key="17_ZQBRU4_Statue_14_DisplayName" rel_version="AffinityQuests">Destroy Statue</string>
+	<string key="17_ZQBRU4_Statue_15_DisplayName" rel_version="AffinityQuests">Destroy Statue</string>
+	<string key="17_ZQBRU4_Statue_16_DisplayName" rel_version="AffinityQuests">Destroy Statue</string>
 	<string key="17DW_IronGate_DisplayName" rel_version="Territory_Dunwood">Open Gate</string>
 	<string key="17DW_WoodDoubleDoor_DisplayName" rel_version="Territory_Dunwood">Open Doors</string>
 	<string key="17DW_WoodDoor_DisplayName" rel_version="Territory_Dunwood">Open Door</string>

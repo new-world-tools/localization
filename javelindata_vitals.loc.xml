@@ -16458,6 +16458,8 @@
 	<string key="VC_Rat_PlagueRat_Named_17DW02_10222" rel_version="Territory_Dunwood">Vermin King the Broodfather</string>
 	<string key="VC_Upyr_Thrall_Aggressor_Named_17DW02_10222" rel_version="Territory_Dunwood">The Screaming Rackmaster</string>
 	<string key="VC_Upyr_Mindthief_Named_17DW07_10303" rel_version="Territory_Dunwood">Archduke Menadion, the Ebon Harvester</string>
+	<string key="VC_Upyr_Mindthief_Named_17ZQUS1" rel_version="AffinityQuests">Lucian</string>
+	<string key="VC_Upyr_Thrall_Soul_Hunter_Named_17ZQURU3" rel_version="AffinityQuests">Everard</string>
 	<string key="VC_Ancient_Amalgam_Named_17DW08_10312" rel_version="Territory_Dunwood">Pyraxis the Sun-Tempered</string>
 	<string key="VC_Ancient_Amalgam_Named_17DW08_10311" rel_version="Territory_Dunwood">Orrukon</string>
 	<string key="VC_AncientGuardian_17DW08_10312" rel_version="Territory_Dunwood">Crypt Guardian</string>
@@ -16496,6 +16498,8 @@
 	<string key="Rat_PlagueRat_Named_17DW02_10222_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Vermin King the Broodfather</string>
 	<string key="Upyr_Thrall_Aggressor_Named_17DW02_10222_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">The Screaming Rackmaster</string>
 	<string key="Upyr_Mindthief_Named_17DW07_10303_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Archduke Menadion, the Ebon Harvester</string>
+	<string key="Upyr_Mindthief_Named_17ZQUS1_VitalsName" speaker="Vitals Sheet" rel_version="AffinityQuests">Lucian</string>
+	<string key="Upyr_Thrall_Soul_Hunter_Named_17ZQURU3_VitalsName" speaker="Vitals Sheet" rel_version="AffinityQuests">Everard</string>
 	<string key="Ancient_Amalgam_Named_17DW08_10312_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Pyraxis the Sun-Tempered</string>
 	<string key="Ancient_Amalgam_Named_17DW08_10311_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Orrukon the Moon-Tempered</string>
 	<string key="AncientGuardian_17DW08_10312_VitalsName" speaker="Vitals Sheet" rel_version="Territory_Dunwood">Crypt Guardian</string>
