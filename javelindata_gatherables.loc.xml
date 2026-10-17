@@ -871,6 +871,10 @@
 	<string key="AnubianBrute_Base_DisplayName" rel_version="Territory_Brimstone_Sands">Anubian Automaton</string>
 	<string key="AnubianPanther_Base_DisplayName" rel_version="Territory_Brimstone_Sands">Sphinx Automaton</string>
 	<string key="16BS_LootContainer_Elite_LegionStoneTomb_DisplayName" rel_version="Territory_Brimstone_Sands">Elite Grave Offerings</string>
+	<string key="WinterConv_Gleamite_Chunk_DisplayName" rel_version="Event_EoL_Gleamites">Gleamite Chunk</string>
+	<string key="WinterConv_Gleamite_Shard_DisplayName" rel_version="Event_EoL_Gleamites">Gleamite</string>
+	<string key="LostPresent00_DisplayName" rel_version="Event_EoL_Gleamites">Lost Present</string>
+	<string key="LostPresent01_DisplayName" rel_version="Event_EoL_Gleamites">Lost Present</string>
 	<string key="Season_04_IceGuardian_Icicle_DisplayName" rel_version="Season_4_Trial">Throwable Icicle</string>
 	<string key="Season_04_IceGuardian_BrokenRune_DisplayName" rel_version="Season_4_Trial">Gain Ancient Flame Empowerment</string>
 	<string key="FM_PVP_War_Camp_Loot_Box_DisplayName">War Camp Chest</string>

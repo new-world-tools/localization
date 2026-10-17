@@ -35910,6 +35910,12 @@
 	<string key="WCConsumable_Mealiewrap_MasterName" rel_version="Event_WinterConvergence_Perm">Mealiewrap</string>
 	<string key="WCConsumable_SpicedNog_Description" rel_version="Event_WinterConvergence_Perm">Increase Constitution by {[1.000000 * {ConsumablePotency}]} for {[2400.000000 / 60]} minutes. Grants Well Fed for {[2400.000000 / 60]} minutes. And doubles the amount of Gleamite crystals gathered from Gleamite Shards and Chunks.</string>
 	<string key="WCConsumable_SpicedNog_MasterName" rel_version="Event_WinterConvergence_Perm">Spiced Nog</string>
+	<string key="WCContainer_BeautifullyWrappedPresent_Description" rel_version="Event_EoL_Gleamites">A beautifully wrapped present. It's addressed to you! There's surely something great inside!</string>
+	<string key="WCContainer_BeautifullyWrappedPresent_MasterName" rel_version="Event_EoL_Gleamites">Beautifully Wrapped Present</string>
+	<string key="WCContainer_ExquisitelyWrappedPresent_Description" rel_version="Event_EoL_Gleamites">An exquisitely wrapped present. It's addressed to you! There's surely something wonderful inside!</string>
+	<string key="WCContainer_ExquisitelyWrappedPresent_MasterName" rel_version="Event_EoL_Gleamites">Exquisitely Wrapped Present</string>
+	<string key="WCContainer_HastilyWrappedPresent_Description" rel_version="Event_EoL_Gleamites">A hastily wrapped present. It's addressed to you! There's surely something good inside!</string>
+	<string key="WCContainer_HastilyWrappedPresent_MasterName" rel_version="Event_EoL_Gleamites">Hastily Wrapped Present</string>
 	<string key="WC_QuestPresent1_Description" rel_version="Event_WinterConvergence_Perm">A gift from the Winter Wanderer. I wonder what's inside?</string>
 	<string key="WC_QuestPresent1_MasterName" rel_version="Event_WinterConvergence_Perm">Small Wanderer's Present</string>
 	<string key="WC_QuestPresent2_Description" rel_version="Event_WinterConvergence_Perm">A gift from the Winter Wanderer. I wonder what's inside?</string>
@@ -35918,10 +35924,14 @@
 	<string key="WC_QuestPresent3_MasterName" rel_version="Event_WinterConvergence_Perm">Splendid Wanderer's Present</string>
 	<string key="WC_QuestPresent4_Description" rel_version="Event_WinterConvergence_Perm">A gift from the Winter Wanderer. I wonder what's inside?</string>
 	<string key="WC_QuestPresent4_MasterName" rel_version="Event_WinterConvergence_Perm">Bountiful Wanderer's Present</string>
+	<string key="WCGleamite_Description" rel_version="Event_EoL_Gleamites">A bright and beautifully illuminated Gleamite crystal. Convert this into Winter Tokens at Holiday Huts located in the Winter Village!</string>
+	<string key="WCGleamite_MasterName" rel_version="Event_EoL_Gleamites">Gleamite</string>
 	<string key="WCPristineGleamite_Description" rel_version="Event_WinterConvergence2023_Perm">Heavily sought after for crafting high quality weapons and armor. This item can be used at different crafting stations to create strong winter themed weapons and armor.</string>
 	<string key="WCPristineGleamite_MasterName" rel_version="Event_WinterConvergence2023_Perm">Pristine Gleamite</string>
 	<string key="WCPToken_Description" rel_version="Event_WinterConvergence_Perm">A very fancy, frosty wintery token. Trade them to the Winter Wanderer for special rewards!</string>
 	<string key="WCPToken_MasterName" rel_version="Event_WinterConvergence_Perm">Premium Winter Token</string>
+	<string key="WCStolenPresent_Description" rel_version="Event_EoL_Gleamites">A present that was stolen, but recovered. Convert this into Winter Tokens at Holiday Huts located in the Winter Village!</string>
+	<string key="WCStolenPresent_MasterName" rel_version="Event_EoL_Gleamites">Recovered Present</string>
 	<string key="WCToken_Description" rel_version="Event_WinterConvergence_Perm">A frosty, wintery token. Trade them to the Winter Wanderer for special rewards!</string>
 	<string key="WCToken_MasterName" rel_version="Event_WinterConvergence_Perm">Winter Token</string>
 	<string key="WeaponsmithCharmT1_Description">Crafting item with an attunement to the Mercenary's Burden perk. &lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font"&gt;Can be used when crafting Bags.&lt;/font&gt;</string>
